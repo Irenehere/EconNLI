@@ -1,0 +1,33 @@
+In macroeconomics, a stabilization policy is a package or set of measures introduced to stabilize a financial system or economy. The term can refer to policies in two distinct sets of circumstances: business cycle stabilization or credit cycle stabilization. In either case, it is a form of discretionary policy.
+
+
+== Business cycle stabilization ==
+“Stabilization” can refer to correcting the normal behavior of the business cycle, thus enhancing economic stability. In this case, the term generally refers to demand management by monetary and fiscal policy to reduce normal fluctuations and output, sometimes referred to as "keeping the economy on an even keel."
+The policy changes in these circumstances are usually countercyclical, compensating for the predicted changes in employment and output, to increase short-run and medium run welfare.
+
+
+== Crisis stabilization ==
+The term can also refer to measures taken to resolve a specific economic crisis, for instance, an exchange-rate crisis or stock market crash, in order to prevent the economy developing recession or inflation.
+The package is usually initiated either by a government or central bank, or by either or both of these institutions acting in concert with international institutions such as the International Monetary Fund (IMF) or the World Bank.  Depending on the goals to be achieved, it involves some combination of restrictive fiscal measures (to reduce government borrowing) and monetary tightening (to support the currency).
+Recent examples of such packages include Argentina's re-scheduling of its international obligations (where central banks and leading international banks re-scheduled Argentina's debt so as to allow it to avoid total default), and IMF interventions in South East Asia (at the end of the 1990s) when several Asian economies encountered financial turbulence. See examples:
+
+Argentine economic crisis (1999–2002): The recovery
+Timeline of Brazilian economic stabilization plans
+Economic Stabilization Plan (Israel 1985)
+Economy of South Korea: 1990s and the Asian Financial Crisis
+Economy of Malaysia: Asian financial crisis and recovery
+United States
+Troubled Asset Relief Program
+Emergency Economic Stabilization Act of 2008
+Office of Economic Stabilization
+Economic Stabilization Act of 1970This type of stabilization can be painful, in the short term, for the economy concerned because of lower output and higher unemployment. Unlike a business-cycle stabilization policy, these changes will often be pro-cyclical, reinforcing existing trends. While this is clearly undesirable, the policies are designed to be a platform for successful long-run growth and reform.
+It has been argued that, rather than imposing such policies after a crisis, the international financial system architecture needs to be reformed to avoid some of the risks (e.g., hot money flows and/or hedge fund activity) that some people hold to destabilize economies and financial markets, and lead to the need for stabilization policies and, e.g., IMF interventions. Proposed measures include for example a global Tobin tax on currency trades across borders.
+
+
+== See also ==
+Automatic stabilizer
+Constitutional economics
+Policy mix
+Political economy
+Shock therapy (economics)
+Welfare cost of business cycles

@@ -1,0 +1,5156 @@
+In probability theory and statistics, a copula is a multivariate cumulative distribution function for which the marginal probability distribution of each variable is uniform on the interval [0, 1]. Copulas are used to describe/model the dependence (inter-correlation) between random variables. Their name, introduced by applied mathematician Abe Sklar in 1959, comes from the Latin for "link" or "tie", similar but unrelated to grammatical copulas in linguistics.  Copulas have been used widely in quantitative finance to model and minimize tail risk and portfolio-optimization applications.Sklar's theorem states that any multivariate joint distribution can be written in terms of univariate marginal distribution functions and a copula which describes the dependence structure between the variables.
+Copulas are popular in high-dimensional statistical applications as they allow one to easily model and estimate the distribution of random vectors by estimating marginals and copulae separately. There are many parametric copula families available, which usually have parameters that control the strength of dependence. Some popular parametric copula models are outlined below.
+Two-dimensional copulas are known in some other areas of mathematics under the name permutons and doubly-stochastic measures.
+
+
+== Mathematical definition ==
+Consider a random vector 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},X_{2},\dots ,X_{d})}
+  . Suppose its marginals are continuous, i.e. the marginal CDFs 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+        (
+        x
+        )
+        =
+        Pr
+        [
+        
+          X
+          
+            i
+          
+        
+        ≤
+        x
+        ]
+      
+    
+    {\displaystyle F_{i}(x)=\Pr[X_{i}\leq x]}
+   are continuous functions. By applying the probability integral transform to each component, the random vector
+
+  
+    
+      
+        (
+        
+          U
+          
+            1
+          
+        
+        ,
+        
+          U
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          U
+          
+            d
+          
+        
+        )
+        =
+        
+          (
+          
+            
+              F
+              
+                1
+              
+            
+            (
+            
+              X
+              
+                1
+              
+            
+            )
+            ,
+            
+              F
+              
+                2
+              
+            
+            (
+            
+              X
+              
+                2
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              F
+              
+                d
+              
+            
+            (
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle (U_{1},U_{2},\dots ,U_{d})=\left(F_{1}(X_{1}),F_{2}(X_{2}),\dots ,F_{d}(X_{d})\right)}
+  has marginals that are uniformly distributed on the interval [0, 1].
+The copula of 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},X_{2},\dots ,X_{d})}
+   is defined as the joint cumulative distribution function of 
+  
+    
+      
+        (
+        
+          U
+          
+            1
+          
+        
+        ,
+        
+          U
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          U
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (U_{1},U_{2},\dots ,U_{d})}
+  :
+
+  
+    
+      
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          u
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        =
+        Pr
+        [
+        
+          U
+          
+            1
+          
+        
+        ≤
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          U
+          
+            2
+          
+        
+        ≤
+        
+          u
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          U
+          
+            d
+          
+        
+        ≤
+        
+          u
+          
+            d
+          
+        
+        ]
+        .
+      
+    
+    {\displaystyle C(u_{1},u_{2},\dots ,u_{d})=\Pr[U_{1}\leq u_{1},U_{2}\leq u_{2},\dots ,U_{d}\leq u_{d}].}
+  The copula C contains all information on the dependence structure between the components of 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},X_{2},\dots ,X_{d})}
+   whereas the marginal cumulative distribution functions 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+      
+    
+    {\displaystyle F_{i}}
+   contain all information on the marginal distributions of 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+  .
+The reverse of these steps can be used to generate pseudo-random samples from general classes of multivariate probability distributions. That is, given a procedure to generate a sample 
+  
+    
+      
+        (
+        
+          U
+          
+            1
+          
+        
+        ,
+        
+          U
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          U
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (U_{1},U_{2},\dots ,U_{d})}
+   from the copula function, the required sample can be constructed as
+
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+        =
+        
+          (
+          
+            
+              F
+              
+                1
+              
+              
+                −
+                1
+              
+            
+            (
+            
+              U
+              
+                1
+              
+            
+            )
+            ,
+            
+              F
+              
+                2
+              
+              
+                −
+                1
+              
+            
+            (
+            
+              U
+              
+                2
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              F
+              
+                d
+              
+              
+                −
+                1
+              
+            
+            (
+            
+              U
+              
+                d
+              
+            
+            )
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle (X_{1},X_{2},\dots ,X_{d})=\left(F_{1}^{-1}(U_{1}),F_{2}^{-1}(U_{2}),\dots ,F_{d}^{-1}(U_{d})\right).}
+  The inverses 
+  
+    
+      
+        
+          F
+          
+            i
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle F_{i}^{-1}}
+   are unproblematic almost surely, since the 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+      
+    
+    {\displaystyle F_{i}}
+   were assumed to be continuous. Furthermore, the above formula for the copula function can be rewritten as:
+
+  
+    
+      
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          u
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        =
+        Pr
+        [
+        
+          X
+          
+            1
+          
+        
+        ≤
+        
+          F
+          
+            1
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            1
+          
+        
+        )
+        ,
+        
+          X
+          
+            2
+          
+        
+        ≤
+        
+          F
+          
+            2
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            2
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        ≤
+        
+          F
+          
+            d
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            d
+          
+        
+        )
+        ]
+        .
+      
+    
+    {\displaystyle C(u_{1},u_{2},\dots ,u_{d})=\Pr[X_{1}\leq F_{1}^{-1}(u_{1}),X_{2}\leq F_{2}^{-1}(u_{2}),\dots ,X_{d}\leq F_{d}^{-1}(u_{d})].}
+  
+
+
+== Definition ==
+In probabilistic terms, 
+  
+    
+      
+        C
+        :
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle C:[0,1]^{d}\rightarrow [0,1]}
+   is a d-dimensional copula if C is a joint cumulative distribution function of a d-dimensional random vector on the unit cube 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle [0,1]^{d}}
+   with uniform marginals.In analytic terms, 
+  
+    
+      
+        C
+        :
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle C:[0,1]^{d}\rightarrow [0,1]}
+   is a d-dimensional copula if
+
+  
+    
+      
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            i
+            −
+            1
+          
+        
+        ,
+        0
+        ,
+        
+          u
+          
+            i
+            +
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle C(u_{1},\dots ,u_{i-1},0,u_{i+1},\dots ,u_{d})=0}
+  , the copula is zero if any one of the arguments is zero,
+
+  
+    
+      
+        C
+        (
+        1
+        ,
+        …
+        ,
+        1
+        ,
+        u
+        ,
+        1
+        ,
+        …
+        ,
+        1
+        )
+        =
+        u
+      
+    
+    {\displaystyle C(1,\dots ,1,u,1,\dots ,1)=u}
+  , the copula is equal to u if one argument is u and all others 1,
+C is d-non-decreasing, i.e., for each hyperrectangle 
+  
+    
+      
+        B
+        =
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            d
+          
+        
+        [
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+          y
+          
+            i
+          
+        
+        ]
+        ⊆
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle B=\prod _{i=1}^{d}[x_{i},y_{i}]\subseteq [0,1]^{d}}
+   the C-volume of B is non-negative:
+
+  
+    
+      
+        
+          ∫
+          
+            B
+          
+        
+        
+          d
+        
+        C
+        (
+        u
+        )
+        =
+        
+          ∑
+          
+            
+              z
+            
+            ∈
+            
+              ∏
+              
+                i
+                =
+                1
+              
+              
+                d
+              
+            
+            {
+            
+              x
+              
+                i
+              
+            
+            ,
+            
+              y
+              
+                i
+              
+            
+            }
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            N
+            (
+            
+              z
+            
+            )
+          
+        
+        C
+        (
+        
+          z
+        
+        )
+        ≥
+        0
+        ,
+      
+    
+    {\displaystyle \int _{B}\mathrm {d} C(u)=\sum _{\mathbf {z} \in \prod _{i=1}^{d}\{x_{i},y_{i}\}}(-1)^{N(\mathbf {z} )}C(\mathbf {z} )\geq 0,}
+  where the 
+  
+    
+      
+        N
+        (
+        
+          z
+        
+        )
+        =
+        #
+        {
+        k
+        :
+        
+          z
+          
+            k
+          
+        
+        =
+        
+          x
+          
+            k
+          
+        
+        }
+      
+    
+    {\displaystyle N(\mathbf {z} )=\#\{k:z_{k}=x_{k}\}}
+  .For instance, in the bivariate case, 
+  
+    
+      
+        C
+        :
+        [
+        0
+        ,
+        1
+        ]
+        ×
+        [
+        0
+        ,
+        1
+        ]
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle C:[0,1]\times [0,1]\rightarrow [0,1]}
+   is a bivariate copula if 
+  
+    
+      
+        C
+        (
+        0
+        ,
+        u
+        )
+        =
+        C
+        (
+        u
+        ,
+        0
+        )
+        =
+        0
+      
+    
+    {\displaystyle C(0,u)=C(u,0)=0}
+  , 
+  
+    
+      
+        C
+        (
+        1
+        ,
+        u
+        )
+        =
+        C
+        (
+        u
+        ,
+        1
+        )
+        =
+        u
+      
+    
+    {\displaystyle C(1,u)=C(u,1)=u}
+   and 
+  
+    
+      
+        C
+        (
+        
+          u
+          
+            2
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        )
+        −
+        C
+        (
+        
+          u
+          
+            2
+          
+        
+        ,
+        
+          v
+          
+            1
+          
+        
+        )
+        −
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        )
+        +
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            1
+          
+        
+        )
+        ≥
+        0
+      
+    
+    {\displaystyle C(u_{2},v_{2})-C(u_{2},v_{1})-C(u_{1},v_{2})+C(u_{1},v_{1})\geq 0}
+   for all 
+  
+    
+      
+        0
+        ≤
+        
+          u
+          
+            1
+          
+        
+        ≤
+        
+          u
+          
+            2
+          
+        
+        ≤
+        1
+      
+    
+    {\displaystyle 0\leq u_{1}\leq u_{2}\leq 1}
+   and 
+  
+    
+      
+        0
+        ≤
+        
+          v
+          
+            1
+          
+        
+        ≤
+        
+          v
+          
+            2
+          
+        
+        ≤
+        1
+      
+    
+    {\displaystyle 0\leq v_{1}\leq v_{2}\leq 1}
+  .
+
+
+== Sklar's theorem ==
+Sklar's theorem, named after Abe Sklar, provides the theoretical foundation for the application of copulas. Sklar's theorem states that every multivariate cumulative distribution function
+
+  
+    
+      
+        H
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            d
+          
+        
+        )
+        =
+        Pr
+        [
+        
+          X
+          
+            1
+          
+        
+        ≤
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        ≤
+        
+          x
+          
+            d
+          
+        
+        ]
+      
+    
+    {\displaystyle H(x_{1},\dots ,x_{d})=\Pr[X_{1}\leq x_{1},\dots ,X_{d}\leq x_{d}]}
+  of a random vector 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},X_{2},\dots ,X_{d})}
+   can be expressed in terms of its marginals 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        )
+        =
+        Pr
+        [
+        
+          X
+          
+            i
+          
+        
+        ≤
+        
+          x
+          
+            i
+          
+        
+        ]
+      
+    
+    {\displaystyle F_{i}(x_{i})=\Pr[X_{i}\leq x_{i}]}
+   and
+a copula 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  . Indeed:
+
+  
+    
+      
+        H
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            d
+          
+        
+        )
+        =
+        C
+        
+          (
+          
+            
+              F
+              
+                1
+              
+            
+            (
+            
+              x
+              
+                1
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              F
+              
+                d
+              
+            
+            (
+            
+              x
+              
+                d
+              
+            
+            )
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle H(x_{1},\dots ,x_{d})=C\left(F_{1}(x_{1}),\dots ,F_{d}(x_{d})\right).}
+  If the multivariate distribution has a density 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  , and if this density is available, it also holds that
+
+  
+    
+      
+        h
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            d
+          
+        
+        )
+        =
+        c
+        (
+        
+          F
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          F
+          
+            d
+          
+        
+        (
+        
+          x
+          
+            d
+          
+        
+        )
+        )
+        ⋅
+        
+          f
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        ⋅
+        ⋯
+        ⋅
+        
+          f
+          
+            d
+          
+        
+        (
+        
+          x
+          
+            d
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle h(x_{1},\dots ,x_{d})=c(F_{1}(x_{1}),\dots ,F_{d}(x_{d}))\cdot f_{1}(x_{1})\cdot \dots \cdot f_{d}(x_{d}),}
+  where 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the density of the copula.
+The theorem also states that, given 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  , the copula is unique on 
+  
+    
+      
+        Ran
+        ⁡
+        (
+        
+          F
+          
+            1
+          
+        
+        )
+        ×
+        ⋯
+        ×
+        Ran
+        ⁡
+        (
+        
+          F
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle \operatorname {Ran} (F_{1})\times \cdots \times \operatorname {Ran} (F_{d})}
+  , which is the cartesian product of the ranges of the marginal cdf's. This implies that the copula is unique if the marginals 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+      
+    
+    {\displaystyle F_{i}}
+   are continuous.
+The converse is also true: given a copula 
+  
+    
+      
+        C
+        :
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle C:[0,1]^{d}\rightarrow [0,1]}
+   and marginals 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle F_{i}(x)}
+   then 
+  
+    
+      
+        C
+        
+          (
+          
+            
+              F
+              
+                1
+              
+            
+            (
+            
+              x
+              
+                1
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              F
+              
+                d
+              
+            
+            (
+            
+              x
+              
+                d
+              
+            
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle C\left(F_{1}(x_{1}),\dots ,F_{d}(x_{d})\right)}
+   defines a d-dimensional cumulative distribution function with marginal distributions 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle F_{i}(x)}
+  .
+
+
+== Stationarity condition ==
+Copulas mainly work when time series are stationary and continuous. Thus, a very important pre-processing step is to check for the auto-correlation, trend and seasonality within time series.
+When time series are auto-correlated, they may generate a non existing dependence between sets of variables and result in incorrect Copula dependence structure.
+
+
+== Fréchet–Hoeffding copula bounds ==
+The Fréchet–Hoeffding theorem (after Maurice René Fréchet and Wassily Hoeffding) states that for any Copula 
+  
+    
+      
+        C
+        :
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle C:[0,1]^{d}\rightarrow [0,1]}
+   and any 
+  
+    
+      
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        ∈
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle (u_{1},\dots ,u_{d})\in [0,1]^{d}}
+   the following bounds hold:
+
+  
+    
+      
+        W
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        ≤
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        ≤
+        M
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle W(u_{1},\dots ,u_{d})\leq C(u_{1},\dots ,u_{d})\leq M(u_{1},\dots ,u_{d}).}
+  The function W is called lower Fréchet–Hoeffding bound and is defined as
+
+  
+    
+      
+        W
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        =
+        max
+        
+          {
+          
+            1
+            −
+            d
+            +
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                d
+              
+            
+            
+              
+                u
+                
+                  i
+                
+              
+            
+            ,
+            
+            0
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle W(u_{1},\ldots ,u_{d})=\max \left\{1-d+\sum \limits _{i=1}^{d}{u_{i}},\,0\right\}.}
+  The function M is called upper Fréchet–Hoeffding bound and is defined as
+
+  
+    
+      
+        M
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        =
+        min
+        {
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        }
+        .
+      
+    
+    {\displaystyle M(u_{1},\ldots ,u_{d})=\min\{u_{1},\dots ,u_{d}\}.}
+  The upper bound is sharp: M is always a copula, it corresponds to comonotone random variables.
+The lower bound is point-wise sharp, in the sense that for fixed u, there is a copula 
+  
+    
+      
+        
+          
+            
+              C
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {C}}}
+   such that 
+  
+    
+      
+        
+          
+            
+              C
+              ~
+            
+          
+        
+        (
+        u
+        )
+        =
+        W
+        (
+        u
+        )
+      
+    
+    {\displaystyle {\tilde {C}}(u)=W(u)}
+  . However, W is a copula only in two dimensions, in which case it corresponds to countermonotonic random variables.
+In two dimensions, i.e. the bivariate case, the Fréchet–Hoeffding theorem states
+
+  
+    
+      
+        max
+        {
+        u
+        +
+        v
+        −
+        1
+        ,
+        
+        0
+        }
+        ≤
+        C
+        (
+        u
+        ,
+        v
+        )
+        ≤
+        min
+        {
+        u
+        ,
+        v
+        }
+      
+    
+    {\displaystyle \max\{u+v-1,\,0\}\leq C(u,v)\leq \min\{u,v\}}
+  .
+
+
+== Families of copulas ==
+Several families of copulas have been described.
+
+
+=== Gaussian copula ===
+The Gaussian copula is a distribution over the unit hypercube 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        
+          ]
+          
+            d
+          
+        
+      
+    
+    {\displaystyle [0,1]^{d}}
+  . It is constructed from a multivariate normal distribution over 
+  
+    
+      
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{d}}
+   by using the probability integral transform.
+For a given correlation matrix 
+  
+    
+      
+        R
+        ∈
+        [
+        −
+        1
+        ,
+        1
+        
+          ]
+          
+            d
+            ×
+            d
+          
+        
+      
+    
+    {\displaystyle R\in [-1,1]^{d\times d}}
+  , the Gaussian copula with parameter matrix 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   can be written as
+
+  
+    
+      
+        
+          C
+          
+            R
+          
+          
+            Gauss
+          
+        
+        (
+        u
+        )
+        =
+        
+          Φ
+          
+            R
+          
+        
+        
+          (
+          
+            
+              Φ
+              
+                −
+                1
+              
+            
+            (
+            
+              u
+              
+                1
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              Φ
+              
+                −
+                1
+              
+            
+            (
+            
+              u
+              
+                d
+              
+            
+            )
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle C_{R}^{\text{Gauss}}(u)=\Phi _{R}\left(\Phi ^{-1}(u_{1}),\dots ,\Phi ^{-1}(u_{d})\right),}
+  where 
+  
+    
+      
+        
+          Φ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \Phi ^{-1}}
+   is the inverse cumulative distribution function of a standard normal and 
+  
+    
+      
+        
+          Φ
+          
+            R
+          
+        
+      
+    
+    {\displaystyle \Phi _{R}}
+   is the joint cumulative distribution function of a multivariate normal distribution with mean vector zero and covariance matrix equal to the correlation matrix 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  . While there is no simple analytical formula for the copula function, 
+  
+    
+      
+        
+          C
+          
+            R
+          
+          
+            Gauss
+          
+        
+        (
+        u
+        )
+      
+    
+    {\displaystyle C_{R}^{\text{Gauss}}(u)}
+  , it can be upper or lower bounded, and  approximated using numerical integration. The density can be written as
+
+  
+    
+      
+        
+          c
+          
+            R
+          
+          
+            Gauss
+          
+        
+        (
+        u
+        )
+        =
+        
+          
+            1
+            
+              det
+              
+                R
+              
+            
+          
+        
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                1
+                2
+              
+            
+            
+              
+                
+                  (
+                  
+                    
+                      
+                        
+                          Φ
+                          
+                            −
+                            1
+                          
+                        
+                        (
+                        
+                          u
+                          
+                            1
+                          
+                        
+                        )
+                      
+                    
+                    
+                      
+                        ⋮
+                      
+                    
+                    
+                      
+                        
+                          Φ
+                          
+                            −
+                            1
+                          
+                        
+                        (
+                        
+                          u
+                          
+                            d
+                          
+                        
+                        )
+                      
+                    
+                  
+                  )
+                
+              
+              
+                T
+              
+            
+            ⋅
+            
+              (
+              
+                
+                  R
+                  
+                    −
+                    1
+                  
+                
+                −
+                I
+              
+              )
+            
+            ⋅
+            
+              
+                (
+                
+                  
+                    
+                      
+                        Φ
+                        
+                          −
+                          1
+                        
+                      
+                      (
+                      
+                        u
+                        
+                          1
+                        
+                      
+                      )
+                    
+                  
+                  
+                    
+                      ⋮
+                    
+                  
+                  
+                    
+                      
+                        Φ
+                        
+                          −
+                          1
+                        
+                      
+                      (
+                      
+                        u
+                        
+                          d
+                        
+                      
+                      )
+                    
+                  
+                
+                )
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle c_{R}^{\text{Gauss}}(u)={\frac {1}{\sqrt {\det {R}}}}\exp \left(-{\frac {1}{2}}{\begin{pmatrix}\Phi ^{-1}(u_{1})\\\vdots \\\Phi ^{-1}(u_{d})\end{pmatrix}}^{T}\cdot \left(R^{-1}-I\right)\cdot {\begin{pmatrix}\Phi ^{-1}(u_{1})\\\vdots \\\Phi ^{-1}(u_{d})\end{pmatrix}}\right),}
+  where 
+  
+    
+      
+        
+          I
+        
+      
+    
+    {\displaystyle \mathbf {I} }
+   is the identity matrix.
+
+
+=== Archimedean copulas ===
+Archimedean copulas are an associative class of copulas. Most common Archimedean copulas admit an explicit formula, something not possible for instance for the Gaussian copula.
+In practice, Archimedean copulas are popular because they allow modeling dependence in arbitrarily high dimensions with only one parameter, governing the strength of dependence.
+A copula C is called Archimedean if it admits the representation
+
+  
+    
+      
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        ;
+        θ
+        )
+        =
+        
+          ψ
+          
+            [
+            −
+            1
+            ]
+          
+        
+        
+          (
+          
+            ψ
+            (
+            
+              u
+              
+                1
+              
+            
+            ;
+            θ
+            )
+            +
+            ⋯
+            +
+            ψ
+            (
+            
+              u
+              
+                d
+              
+            
+            ;
+            θ
+            )
+            ;
+            θ
+          
+          )
+        
+      
+    
+    {\displaystyle C(u_{1},\dots ,u_{d};\theta )=\psi ^{[-1]}\left(\psi (u_{1};\theta )+\cdots +\psi (u_{d};\theta );\theta \right)}
+  where 
+  
+    
+      
+        ψ
+        
+        :
+        [
+        0
+        ,
+        1
+        ]
+        ×
+        Θ
+        →
+        [
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\displaystyle \psi \!:[0,1]\times \Theta \rightarrow [0,\infty )}
+   is a continuous, strictly decreasing and convex function such that 
+  
+    
+      
+        ψ
+        (
+        1
+        ;
+        θ
+        )
+        =
+        0
+      
+    
+    {\displaystyle \psi (1;\theta )=0}
+  , 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is a parameter within some parameter space 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  , and 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   is the so-called generator function and 
+  
+    
+      
+        
+          ψ
+          
+            [
+            −
+            1
+            ]
+          
+        
+      
+    
+    {\displaystyle \psi ^{[-1]}}
+   is its pseudo-inverse defined by
+
+  
+    
+      
+        
+          ψ
+          
+            [
+            −
+            1
+            ]
+          
+        
+        (
+        t
+        ;
+        θ
+        )
+        =
+        
+          {
+          
+            
+              
+                
+                  
+                    ψ
+                    
+                      −
+                      1
+                    
+                  
+                  (
+                  t
+                  ;
+                  θ
+                  )
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  0
+                  ≤
+                  t
+                  ≤
+                  ψ
+                  (
+                  0
+                  ;
+                  θ
+                  )
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  ψ
+                  (
+                  0
+                  ;
+                  θ
+                  )
+                  ≤
+                  t
+                  ≤
+                  ∞
+                  .
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \psi ^{[-1]}(t;\theta )=\left\{{\begin{array}{ll}\psi ^{-1}(t;\theta )&{\mbox{if }}0\leq t\leq \psi (0;\theta )\\0&{\mbox{if }}\psi (0;\theta )\leq t\leq \infty .\end{array}}\right.}
+  Moreover, the above formula for C yields a copula for 
+  
+    
+      
+        
+          ψ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \psi ^{-1}}
+   if and only if 
+  
+    
+      
+        
+          ψ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \psi ^{-1}}
+   is d-monotone on 
+  
+    
+      
+        [
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\displaystyle [0,\infty )}
+  .
+That is, if it is 
+  
+    
+      
+        d
+        −
+        2
+      
+    
+    {\displaystyle d-2}
+   times differentiable and the derivatives satisfy
+
+  
+    
+      
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          ψ
+          
+            −
+            1
+            ,
+            (
+            k
+            )
+          
+        
+        (
+        t
+        ;
+        θ
+        )
+        ≥
+        0
+      
+    
+    {\displaystyle (-1)^{k}\psi ^{-1,(k)}(t;\theta )\geq 0}
+  for all 
+  
+    
+      
+        t
+        ≥
+        0
+      
+    
+    {\displaystyle t\geq 0}
+   and 
+  
+    
+      
+        k
+        =
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        d
+        −
+        2
+      
+    
+    {\displaystyle k=0,1,\dots ,d-2}
+   and 
+  
+    
+      
+        (
+        −
+        1
+        
+          )
+          
+            d
+            −
+            2
+          
+        
+        
+          ψ
+          
+            −
+            1
+            ,
+            (
+            d
+            −
+            2
+            )
+          
+        
+        (
+        t
+        ;
+        θ
+        )
+      
+    
+    {\displaystyle (-1)^{d-2}\psi ^{-1,(d-2)}(t;\theta )}
+   is nonincreasing and convex.
+
+
+==== Most important Archimedean copulas ====
+The following tables highlight the most prominent bivariate Archimedean copulas, with their corresponding generator. Not all of them are completely monotone, i.e. d-monotone for all 
+  
+    
+      
+        d
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle d\in \mathbb {N} }
+   or d-monotone for certain 
+  
+    
+      
+        θ
+        ∈
+        Θ
+      
+    
+    {\displaystyle \theta \in \Theta }
+   only.
+
+
+== Expectation for copula models and Monte Carlo integration ==
+In statistical applications, many problems can be formulated in the following way. One is interested in the expectation of a response function 
+  
+    
+      
+        g
+        :
+        
+          
+            R
+          
+          
+            d
+          
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle g:\mathbb {R} ^{d}\rightarrow \mathbb {R} }
+   applied to some random vector 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},\dots ,X_{d})}
+  . If we denote the CDF of this random vector with 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  , the quantity of interest can thus be written as
+
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            g
+            (
+            
+              X
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          ]
+        
+        =
+        
+          ∫
+          
+            
+              
+                R
+              
+              
+                d
+              
+            
+          
+        
+        g
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            d
+          
+        
+        )
+        
+        
+          d
+        
+        H
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            d
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {E} \left[g(X_{1},\dots ,X_{d})\right]=\int _{\mathbb {R} ^{d}}g(x_{1},\dots ,x_{d})\,\mathrm {d} H(x_{1},\dots ,x_{d}).}
+  If 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is given by a copula model, i.e.,
+
+  
+    
+      
+        H
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            d
+          
+        
+        )
+        =
+        C
+        (
+        
+          F
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          F
+          
+            d
+          
+        
+        (
+        
+          x
+          
+            d
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle H(x_{1},\dots ,x_{d})=C(F_{1}(x_{1}),\dots ,F_{d}(x_{d}))}
+  this expectation can be rewritten as
+
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            g
+            (
+            
+              X
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          ]
+        
+        =
+        
+          ∫
+          
+            [
+            0
+            ,
+            1
+            
+              ]
+              
+                d
+              
+            
+          
+        
+        g
+        (
+        
+          F
+          
+            1
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          F
+          
+            d
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            d
+          
+        
+        )
+        )
+        
+        
+          d
+        
+        C
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {E} \left[g(X_{1},\dots ,X_{d})\right]=\int _{[0,1]^{d}}g(F_{1}^{-1}(u_{1}),\dots ,F_{d}^{-1}(u_{d}))\,\mathrm {d} C(u_{1},\dots ,u_{d}).}
+  In case the copula C is absolutely continuous, i.e. C has a density c, this equation can be written as
+
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            g
+            (
+            
+              X
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          ]
+        
+        =
+        
+          ∫
+          
+            [
+            0
+            ,
+            1
+            
+              ]
+              
+                d
+              
+            
+          
+        
+        g
+        (
+        
+          F
+          
+            1
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          F
+          
+            d
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          u
+          
+            d
+          
+        
+        )
+        )
+        ⋅
+        c
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        
+        d
+        
+          u
+          
+            1
+          
+        
+        ⋯
+        
+          d
+        
+        
+          u
+          
+            d
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {E} \left[g(X_{1},\dots ,X_{d})\right]=\int _{[0,1]^{d}}g(F_{1}^{-1}(u_{1}),\dots ,F_{d}^{-1}(u_{d}))\cdot c(u_{1},\dots ,u_{d})\,du_{1}\cdots \mathrm {d} u_{d},}
+  and if each marginal distribution has the density 
+  
+    
+      
+        
+          f
+          
+            i
+          
+        
+      
+    
+    {\displaystyle f_{i}}
+   it holds further that
+
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            g
+            (
+            
+              X
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          ]
+        
+        =
+        
+          ∫
+          
+            
+              
+                R
+              
+              
+                d
+              
+            
+          
+        
+        g
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        
+          x
+          
+            d
+          
+        
+        )
+        ⋅
+        c
+        (
+        
+          F
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          F
+          
+            d
+          
+        
+        (
+        
+          x
+          
+            d
+          
+        
+        )
+        )
+        ⋅
+        
+          f
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        ⋯
+        
+          f
+          
+            d
+          
+        
+        (
+        
+          x
+          
+            d
+          
+        
+        )
+        
+        
+          d
+        
+        
+          x
+          
+            1
+          
+        
+        ⋯
+        
+          d
+        
+        
+          x
+          
+            d
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {E} \left[g(X_{1},\dots ,X_{d})\right]=\int _{\mathbb {R} ^{d}}g(x_{1},\dots x_{d})\cdot c(F_{1}(x_{1}),\dots ,F_{d}(x_{d}))\cdot f_{1}(x_{1})\cdots f_{d}(x_{d})\,\mathrm {d} x_{1}\cdots \mathrm {d} x_{d}.}
+  If copula and marginals are known (or if they have been estimated), this expectation can be approximated through the following Monte Carlo algorithm:
+
+Draw a sample 
+  
+    
+      
+        (
+        
+          U
+          
+            1
+          
+          
+            k
+          
+        
+        ,
+        …
+        ,
+        
+          U
+          
+            d
+          
+          
+            k
+          
+        
+        )
+        ∼
+        C
+        
+        
+        (
+        k
+        =
+        1
+        ,
+        …
+        ,
+        n
+        )
+      
+    
+    {\displaystyle (U_{1}^{k},\dots ,U_{d}^{k})\sim C\;\;(k=1,\dots ,n)}
+   of size n from the copula C
+By applying the inverse marginal cdf's, produce a sample of 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},\dots ,X_{d})}
+   by setting 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+          
+            k
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+          
+            k
+          
+        
+        )
+        =
+        (
+        
+          F
+          
+            1
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          U
+          
+            1
+          
+          
+            k
+          
+        
+        )
+        ,
+        …
+        ,
+        
+          F
+          
+            d
+          
+          
+            −
+            1
+          
+        
+        (
+        
+          U
+          
+            d
+          
+          
+            k
+          
+        
+        )
+        )
+        ∼
+        H
+        
+        
+        (
+        k
+        =
+        1
+        ,
+        …
+        ,
+        n
+        )
+      
+    
+    {\displaystyle (X_{1}^{k},\dots ,X_{d}^{k})=(F_{1}^{-1}(U_{1}^{k}),\dots ,F_{d}^{-1}(U_{d}^{k}))\sim H\;\;(k=1,\dots ,n)}
+  
+Approximate 
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            g
+            (
+            
+              X
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \operatorname {E} \left[g(X_{1},\dots ,X_{d})\right]}
+   by its empirical value:
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            g
+            (
+            
+              X
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              X
+              
+                d
+              
+            
+            )
+          
+          ]
+        
+        ≈
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        g
+        (
+        
+          X
+          
+            1
+          
+          
+            k
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle \operatorname {E} \left[g(X_{1},\dots ,X_{d})\right]\approx {\frac {1}{n}}\sum _{k=1}^{n}g(X_{1}^{k},\dots ,X_{d}^{k})}
+  
+
+
+== Empirical copulas ==
+When studying multivariate data, one might want to investigate the underlying copula. Suppose we have observations
+
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+          
+            i
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+          
+            i
+          
+        
+        )
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle (X_{1}^{i},X_{2}^{i},\dots ,X_{d}^{i}),\,i=1,\dots ,n}
+  from a random vector 
+  
+    
+      
+        (
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            d
+          
+        
+        )
+      
+    
+    {\displaystyle (X_{1},X_{2},\dots ,X_{d})}
+   with continuous marginals. The corresponding “true” copula observations would be
+
+  
+    
+      
+        (
+        
+          U
+          
+            1
+          
+          
+            i
+          
+        
+        ,
+        
+          U
+          
+            2
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          U
+          
+            d
+          
+          
+            i
+          
+        
+        )
+        =
+        
+          (
+          
+            
+              F
+              
+                1
+              
+            
+            (
+            
+              X
+              
+                1
+              
+              
+                i
+              
+            
+            )
+            ,
+            
+              F
+              
+                2
+              
+            
+            (
+            
+              X
+              
+                2
+              
+              
+                i
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              F
+              
+                d
+              
+            
+            (
+            
+              X
+              
+                d
+              
+              
+                i
+              
+            
+            )
+          
+          )
+        
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+        .
+      
+    
+    {\displaystyle (U_{1}^{i},U_{2}^{i},\dots ,U_{d}^{i})=\left(F_{1}(X_{1}^{i}),F_{2}(X_{2}^{i}),\dots ,F_{d}(X_{d}^{i})\right),\,i=1,\dots ,n.}
+  However, the marginal distribution functions 
+  
+    
+      
+        
+          F
+          
+            i
+          
+        
+      
+    
+    {\displaystyle F_{i}}
+   are usually not known. Therefore, one can construct pseudo copula observations by using the empirical distribution functions
+
+  
+    
+      
+        
+          F
+          
+            k
+          
+          
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          1
+        
+        (
+        
+          X
+          
+            k
+          
+          
+            i
+          
+        
+        ≤
+        x
+        )
+      
+    
+    {\displaystyle F_{k}^{n}(x)={\frac {1}{n}}\sum _{i=1}^{n}\mathbf {1} (X_{k}^{i}\leq x)}
+  instead. Then, the pseudo copula observations are defined as
+
+  
+    
+      
+        (
+        
+          
+            
+              
+                U
+                ~
+              
+            
+          
+          
+            1
+          
+          
+            i
+          
+        
+        ,
+        
+          
+            
+              
+                U
+                ~
+              
+            
+          
+          
+            2
+          
+          
+            i
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                U
+                ~
+              
+            
+          
+          
+            d
+          
+          
+            i
+          
+        
+        )
+        =
+        
+          (
+          
+            
+              F
+              
+                1
+              
+              
+                n
+              
+            
+            (
+            
+              X
+              
+                1
+              
+              
+                i
+              
+            
+            )
+            ,
+            
+              F
+              
+                2
+              
+              
+                n
+              
+            
+            (
+            
+              X
+              
+                2
+              
+              
+                i
+              
+            
+            )
+            ,
+            …
+            ,
+            
+              F
+              
+                d
+              
+              
+                n
+              
+            
+            (
+            
+              X
+              
+                d
+              
+              
+                i
+              
+            
+            )
+          
+          )
+        
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+        .
+      
+    
+    {\displaystyle ({\tilde {U}}_{1}^{i},{\tilde {U}}_{2}^{i},\dots ,{\tilde {U}}_{d}^{i})=\left(F_{1}^{n}(X_{1}^{i}),F_{2}^{n}(X_{2}^{i}),\dots ,F_{d}^{n}(X_{d}^{i})\right),\,i=1,\dots ,n.}
+  The corresponding empirical copula is then defined as
+
+  
+    
+      
+        
+          C
+          
+            n
+          
+        
+        (
+        
+          u
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          u
+          
+            d
+          
+        
+        )
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          1
+        
+        
+          (
+          
+            
+              
+                
+                  
+                    U
+                    ~
+                  
+                
+              
+              
+                1
+              
+              
+                i
+              
+            
+            ≤
+            
+              u
+              
+                1
+              
+            
+            ,
+            …
+            ,
+            
+              
+                
+                  
+                    U
+                    ~
+                  
+                
+              
+              
+                d
+              
+              
+                i
+              
+            
+            ≤
+            
+              u
+              
+                d
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle C^{n}(u_{1},\dots ,u_{d})={\frac {1}{n}}\sum _{i=1}^{n}\mathbf {1} \left({\tilde {U}}_{1}^{i}\leq u_{1},\dots ,{\tilde {U}}_{d}^{i}\leq u_{d}\right).}
+  The components of the pseudo copula samples can also be written as 
+  
+    
+      
+        
+          
+            
+              
+                U
+                ~
+              
+            
+          
+          
+            k
+          
+          
+            i
+          
+        
+        =
+        
+          R
+          
+            k
+          
+          
+            i
+          
+        
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle {\tilde {U}}_{k}^{i}=R_{k}^{i}/n}
+  , where 
+  
+    
+      
+        
+          R
+          
+            k
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle R_{k}^{i}}
+   is the rank of the observation 
+  
+    
+      
+        
+          X
+          
+            k
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{k}^{i}}
+  :
+
+  
+    
+      
+        
+          R
+          
+            k
+          
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          1
+        
+        (
+        
+          X
+          
+            k
+          
+          
+            j
+          
+        
+        ≤
+        
+          X
+          
+            k
+          
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle R_{k}^{i}=\sum _{j=1}^{n}\mathbf {1} (X_{k}^{j}\leq X_{k}^{i})}
+  Therefore, the empirical copula can be seen as the empirical distribution of the rank transformed data.
+The sample version of Spearman's rho:
+
+  
+    
+      
+        r
+        =
+        
+          
+            12
+            
+              
+                n
+                
+                  2
+                
+              
+              −
+              1
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          [
+          
+            
+              C
+              
+                n
+              
+            
+            
+              (
+              
+                
+                  
+                    i
+                    n
+                  
+                
+                ,
+                
+                  
+                    j
+                    n
+                  
+                
+              
+              )
+            
+            −
+            
+              
+                i
+                n
+              
+            
+            ⋅
+            
+              
+                j
+                n
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle r={\frac {12}{n^{2}-1}}\sum _{i=1}^{n}\sum _{j=1}^{n}\left[C^{n}\left({\frac {i}{n}},{\frac {j}{n}}\right)-{\frac {i}{n}}\cdot {\frac {j}{n}}\right]}
+  
+
+
+== Applications ==
+
+
+=== Quantitative finance ===
+In quantitative finance copulas are applied to risk management, to portfolio management and optimization, and to derivatives pricing.
+For the former, copulas are used to perform stress-tests and robustness checks that are especially important during "downside/crisis/panic regimes" where extreme downside events may occur (e.g., the global financial crisis of 2007–2008).  The formula was also adapted for financial markets and was used to estimate the probability distribution of losses on pools of loans or bonds.
+During a downside regime, a large number of investors who have held positions in riskier assets such as equities or real estate may seek refuge in 'safer' investments such as cash or bonds. This is also known as a flight-to-quality effect and investors tend to exit their positions in riskier assets in large numbers in a short period of time. As a result, during downside regimes, correlations across equities are greater on the downside as opposed to the upside and this may have disastrous effects on the economy. For example, anecdotally, we often read financial news headlines reporting the loss of hundreds of millions of dollars on the stock exchange in a single day; however, we rarely read reports of positive stock market gains of the same magnitude and in the same short time frame.
+Copulas aid in analyzing the effects of downside regimes by allowing the modelling of the marginals and dependence structure of a multivariate probability model separately. For example, consider the stock exchange as a market consisting of a large number of traders each operating with his/her own strategies to maximize profits. The individualistic behaviour of each trader can be described by modelling the marginals. However, as all traders operate on the same exchange, each trader's actions have an interaction effect with other traders'. This interaction effect can be described by modelling the dependence structure. Therefore, copulas allow us to analyse the interaction effects which are of particular interest during downside regimes as investors tend to herd their trading behaviour and decisions. (See also agent-based computational economics, where price is treated as an emergent phenomenon, resulting from the interaction of the various market participants, or agents.)
+The users of the formula have been criticized for creating "evaluation cultures" that continued to use simple copulæ despite the simple versions being acknowledged as inadequate for that purpose. Thus, previously, scalable copula models for large dimensions only allowed the modelling of elliptical dependence structures (i.e., Gaussian and Student-t copulas) that do not allow for correlation asymmetries where correlations differ on the upside or downside regimes.  However, the development of vine copulas (also known as pair copulas) enables the flexible modelling of the dependence structure for portfolios of large dimensions.
+The Clayton canonical vine copula allows for the occurrence of extreme downside events and has been successfully applied in portfolio optimization and risk management applications. The model is able to reduce the effects of extreme downside correlations and produces improved statistical and economic performance compared to scalable elliptical dependence copulas such as the Gaussian and Student-t copula.Other models developed for risk management applications are panic copulas that are glued with market estimates of the marginal distributions to analyze the effects of panic regimes on the portfolio profit and loss distribution. Panic copulas are created by Monte Carlo simulation, mixed with a re-weighting of the probability of each scenario.As regards derivatives pricing, dependence modelling with copula functions is widely used in applications of financial risk assessment and actuarial analysis – for example in the pricing of collateralized debt obligations (CDOs). Some believe the methodology of applying the Gaussian copula to credit derivatives to be one of the reasons behind the global financial crisis of 2008–2009; see David X. Li  § CDOs and Gaussian copula.
+Despite this perception, there are documented attempts within the financial industry, occurring before the crisis, to address the limitations of the Gaussian copula and of copula functions more generally, specifically the lack of dependence dynamics.  The Gaussian copula is lacking as it only allows for an elliptical dependence structure, as dependence is only modeled using the variance-covariance matrix.  This methodology is limited such that it does not allow for dependence to evolve as the financial markets exhibit asymmetric dependence, whereby correlations across assets significantly increase during downturns compared to upturns.  Therefore, modeling approaches using the Gaussian copula exhibit a poor representation of extreme events. There have been attempts to propose models rectifying some of the copula limitations.Additional to CDOs, Copulas have been applied to other asset classes as a flexible tool in analyzing multi-asset derivative products. The first such application outside credit was to use a copula to construct a basket implied volatility surface, taking into account the volatility smile of basket components. Copulas have since gained popularity in pricing and risk management of options on multi-assets in the presence of a volatility smile, in equity-, foreign exchange- and fixed income derivatives.
+
+
+=== Civil engineering ===
+Recently, copula functions have been successfully applied to the database formulation for the reliability analysis of highway bridges, and to various multivariate simulation studies in civil engineering, reliability of wind and earthquake engineering, and mechanical & offshore engineering. Researchers are also trying these functions in the field of transportation to understand the interaction between behaviors of individual drivers which, in totality, shapes traffic flow.
+
+
+=== Reliability engineering ===
+Copulas are being used for reliability analysis of complex systems of machine components with competing failure modes.
+
+
+=== Warranty data analysis ===
+Copulas are being used for warranty data analysis in which the tail dependence is analysed.
+
+
+=== Turbulent combustion ===
+Copulas are used in modelling turbulent partially premixed combustion, which is common in practical combustors.
+
+
+=== Medicine ===
+Copulæ have many applications in the area of medicine, for example,
+
+Copulæ have been used in the field of magnetic resonance imaging (MRI), for example, to segment images, to fill a vacancy of graphical models in imaging genetics in a study on schizophrenia, and to distinguish between normal and  Alzheimer patients.
+Copulæ have been in the area of brain research based on EEG signals, for example, to detect drowsiness during daytime nap, to track changes in instantaneous equivalent bandwidths (IEBWs), to derive synchrony for early diagnosis of Alzheimer's disease, to characterize dependence in oscillatory activity between EEG channels, and to assess the reliability of using methods to capture dependence between pairs of EEG channels using their time-varying envelopes. Copula functions have been successfully applied to the analysis of neuronal dependencies and spike counts in neuroscience .
+A copula model has been developed in the field of oncology, for example, to jointly model genotypes, phenotypes, and pathways to reconstruct a cellular network to identify interactions between specific phenotype and multiple molecular features (e.g. mutations and gene expression change). Bao et al. used NCI60 cancer cell line data to identify several subsets of molecular features that jointly perform as the predictors of clinical phenotypes. The proposed copula may have an impact on biomedical research, ranging from cancer treatment to disease prevention. Copula has also been used  to predict the histological diagnosis of colorectal lesions from colonoscopy images, and to classify cancer subtypes.
+A Copula-based analysis model has been developed in the field of heart and cardiovascular disease, for example, to predict heart rate (HR) variation. Heart rate (HR) is one of the most critical health indicators for monitoring exercise intensity and load degree because it is closely related to heart rate. Therefore, an accurate short-term HR prediction technique can deliver efficient early warning for human health and decrease harmful events. Namazi (2022) used a novel hybrid algorithm to predict HR.
+
+
+=== Geodesy ===
+The combination of SSA and Copula-based methods have been applied for the first time as a novel stochastic tool for Earth Orientation Parameters prediction.
+
+
+=== Hydrology research ===
+Copulas have been used in both theoretical and applied analyses of hydroclimatic data. Theoretical studies adopted the copula-based methodology for instance to gain a better understanding of the dependence structures of temperature and precipitation, in different parts of the world. Applied studies adopted the copula-based methodology to examine e.g., agricultural droughts or joint effects of temperature and precipitation extremes on vegetation growth.
+
+
+=== Climate and weather research ===
+Copulas have been extensively used in climate- and weather-related research.
+
+
+=== Solar irradiance variability ===
+Copulas have been used to estimate the solar irradiance variability in spatial networks and temporally for single locations.
+
+
+=== Random vector generation ===
+Large synthetic traces of vectors and stationary time series can be generated using empirical copula while preserving the entire dependence structure of small datasets. Such empirical traces are useful in various simulation-based performance studies.
+
+
+=== Ranking of electrical motors ===
+Copulas have been used for quality ranking in the manufacturing of electronically commutated motors.
+
+
+=== Signal processing ===
+Copulas are important because they represent a dependence structure without using marginal distributions. Copulas have been widely used in the field of finance, but their use in signal processing is relatively new. Copulas have been employed in the field of wireless communication for classifying radar signals, change detection in remote sensing applications, and EEG signal processing in medicine. In this section, a short mathematical derivation to obtain copula density function followed by a table providing a list of copula density functions with the relevant signal processing applications are presented.
+
+
+=== Astronomy ===
+Copulas have been used for determining the core radio luminosity function of Active galactic Nuclei (AGNs), while this can not be realized using traditional methods due to the difficulties in sample completeness.
+
+
+== Mathematical derivation of copula density function ==
+For any two random variables X and Y, the continuous joint probability distribution function can be written as
+
+  
+    
+      
+        
+          F
+          
+            X
+            Y
+          
+        
+        (
+        x
+        ,
+        y
+        )
+        =
+        Pr
+        
+          
+            {
+            
+              
+                
+                  X
+                  ≤
+                  
+                    x
+                  
+                  ,
+                  Y
+                  ≤
+                  
+                    y
+                  
+                
+              
+            
+            }
+          
+        
+        ,
+      
+    
+    {\displaystyle F_{XY}(x,y)=\Pr {\begin{Bmatrix}X\leq {x},Y\leq {y}\end{Bmatrix}},}
+  where 
+  
+    
+      
+        
+          F
+          
+            X
+          
+        
+        (
+        x
+        )
+        =
+        Pr
+        
+          
+            {
+            
+              
+                
+                  X
+                  ≤
+                  
+                    x
+                  
+                
+              
+            
+            }
+          
+        
+      
+    
+    {\textstyle F_{X}(x)=\Pr {\begin{Bmatrix}X\leq {x}\end{Bmatrix}}}
+   and
+
+  
+    
+      
+        
+          F
+          
+            Y
+          
+        
+        (
+        y
+        )
+        =
+        Pr
+        
+          
+            {
+            
+              
+                
+                  Y
+                  ≤
+                  
+                    y
+                  
+                
+              
+            
+            }
+          
+        
+      
+    
+    {\textstyle F_{Y}(y)=\Pr {\begin{Bmatrix}Y\leq {y}\end{Bmatrix}}}
+   are the marginal cumulative distribution functions of the random variables X and Y, respectively.
+then the copula distribution function 
+  
+    
+      
+        C
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle C(u,v)}
+   can be defined using Sklar's theorem as:
+
+  
+    
+      
+        
+          F
+          
+            X
+            Y
+          
+        
+        (
+        x
+        ,
+        y
+        )
+        =
+        C
+        (
+        
+          F
+          
+            X
+          
+        
+        (
+        x
+        )
+        ,
+        
+          F
+          
+            Y
+          
+        
+        (
+        y
+        )
+        )
+        ≜
+        C
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle F_{XY}(x,y)=C(F_{X}(x),F_{Y}(y))\triangleq C(u,v)}
+  ,
+where 
+  
+    
+      
+        u
+        =
+        
+          F
+          
+            X
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle u=F_{X}(x)}
+   and 
+  
+    
+      
+        v
+        =
+        
+          F
+          
+            Y
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle v=F_{Y}(y)}
+   are marginal distribution functions, 
+  
+    
+      
+        
+          F
+          
+            X
+            Y
+          
+        
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle F_{XY}(x,y)}
+   joint and 
+  
+    
+      
+        u
+        ,
+        v
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle u,v\in (0,1)}
+  .
+Assuming 
+  
+    
+      
+        
+          F
+          
+            X
+            Y
+          
+        
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle F_{XY}(\cdot ,\cdot )}
+   is a.e. twice differentiable, we start by using the relationship between joint probability density function (PDF) and joint cumulative distribution function (CDF) and its partial derivatives.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  f
+                  
+                    X
+                    Y
+                  
+                
+                (
+                x
+                ,
+                y
+                )
+                =
+                
+
+                
+              
+              
+                
+                  
+                    
+                      
+                        ∂
+                        
+                          2
+                        
+                      
+                      
+                        F
+                        
+                          X
+                          Y
+                        
+                      
+                      (
+                      x
+                      ,
+                      y
+                      )
+                    
+                    
+                      ∂
+                      x
+                      
+                      ∂
+                      y
+                    
+                  
+                
+              
+            
+            
+              
+                ⋮
+              
+            
+            
+              
+                
+                  f
+                  
+                    X
+                    Y
+                  
+                
+                (
+                x
+                ,
+                y
+                )
+                =
+                
+
+                
+              
+              
+                
+                  
+                    
+                      
+                        ∂
+                        
+                          2
+                        
+                      
+                      C
+                      (
+                      
+                        F
+                        
+                          X
+                        
+                      
+                      (
+                      x
+                      )
+                      ,
+                      
+                        F
+                        
+                          Y
+                        
+                      
+                      (
+                      y
+                      )
+                      )
+                    
+                    
+                      ∂
+                      x
+                      
+                      ∂
+                      y
+                    
+                  
+                
+              
+            
+            
+              
+                ⋮
+              
+            
+            
+              
+                
+                  f
+                  
+                    X
+                    Y
+                  
+                
+                (
+                x
+                ,
+                y
+                )
+                =
+                
+
+                
+              
+              
+                
+                  
+                    
+                      
+                        ∂
+                        
+                          2
+                        
+                      
+                      C
+                      (
+                      u
+                      ,
+                      v
+                      )
+                    
+                    
+                      ∂
+                      u
+                      
+                      ∂
+                      v
+                    
+                  
+                
+                ⋅
+                
+                  
+                    
+                      ∂
+                      
+                        F
+                        
+                          X
+                        
+                      
+                      (
+                      x
+                      )
+                    
+                    
+                      ∂
+                      x
+                    
+                  
+                
+                ⋅
+                
+                  
+                    
+                      ∂
+                      
+                        F
+                        
+                          Y
+                        
+                      
+                      (
+                      y
+                      )
+                    
+                    
+                      ∂
+                      y
+                    
+                  
+                
+              
+            
+            
+              
+                ⋮
+              
+            
+            
+              
+                
+                  f
+                  
+                    X
+                    Y
+                  
+                
+                (
+                x
+                ,
+                y
+                )
+                =
+                
+
+                
+              
+              
+                c
+                (
+                u
+                ,
+                v
+                )
+                
+                  f
+                  
+                    X
+                  
+                
+                (
+                x
+                )
+                
+                  f
+                  
+                    Y
+                  
+                
+                (
+                y
+                )
+              
+            
+            
+              
+                ⋮
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        f
+                        
+                          X
+                          Y
+                        
+                      
+                      (
+                      x
+                      ,
+                      y
+                      )
+                    
+                    
+                      
+                        f
+                        
+                          X
+                        
+                      
+                      (
+                      x
+                      )
+                      
+                        f
+                        
+                          Y
+                        
+                      
+                      (
+                      y
+                      )
+                    
+                  
+                
+                =
+                
+
+                
+              
+              
+                c
+                (
+                u
+                ,
+                v
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{6}f_{XY}(x,y)={}&{\partial ^{2}F_{XY}(x,y) \over \partial x\,\partial y}\\\vdots \\f_{XY}(x,y)={}&{\partial ^{2}C(F_{X}(x),F_{Y}(y)) \over \partial x\,\partial y}\\\vdots \\f_{XY}(x,y)={}&{\partial ^{2}C(u,v) \over \partial u\,\partial v}\cdot {\partial F_{X}(x) \over \partial x}\cdot {\partial F_{Y}(y) \over \partial y}\\\vdots \\f_{XY}(x,y)={}&c(u,v)f_{X}(x)f_{Y}(y)\\\vdots \\{\frac {f_{XY}(x,y)}{f_{X}(x)f_{Y}(y)}}={}&c(u,v)\end{alignedat}}}
+  where 
+  
+    
+      
+        c
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle c(u,v)}
+   is the copula density function, 
+  
+    
+      
+        
+          f
+          
+            X
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{X}(x)}
+   and 
+  
+    
+      
+        
+          f
+          
+            Y
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f_{Y}(y)}
+   are the marginal probability density functions of X and Y, respectively. It is important to understand that there are four elements in this equation, and if any three elements are known, the fourth element can be calculated. For example, it may be used,
+
+when joint probability density function between two random variables is known, the copula density function is known, and one of the two marginal functions are known, then, the other marginal function can be calculated, or
+when the two marginal functions and the copula density function are known, then the joint probability density function between the two random variables can be calculated, or
+when the two marginal functions and the joint probability density function between the two random variables are known, then the copula density function can be calculated.
+
+
+=== List of copula density functions and applications ===
+Various bivariate copula density functions are important in the area of signal processing. 
+  
+    
+      
+        u
+        =
+        
+          F
+          
+            X
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle u=F_{X}(x)}
+   and 
+  
+    
+      
+        v
+        =
+        
+          F
+          
+            Y
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle v=F_{Y}(y)}
+   are marginal distributions functions and 
+  
+    
+      
+        
+          f
+          
+            X
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f_{X}(x)}
+   and 
+  
+    
+      
+        
+          f
+          
+            Y
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f_{Y}(y)}
+   are marginal density functions. Extension and generalization of copulas for statistical signal processing have been shown to construct new bivariate copulas for exponential, Weibull, and Rician distributions. Zeng et al. presented algorithms, simulation, optimal selection, and practical applications of these copulas in signal processing.
+
+
+== See also ==
+Coupling (probability)
+
+
+== References ==
+
+
+== Further reading ==
+The standard reference for an introduction to copulas. Covers all fundamental aspects, summarizes the most popular copula classes, and provides proofs for the important theorems related to copulasRoger B. Nelsen (1999), "An Introduction to Copulas", Springer. ISBN 978-0-387-98623-4A book covering current topics in mathematical research on copulas:Piotr Jaworski, Fabrizio Durante, Wolfgang Karl Härdle, Tomasz Rychlik (Editors): (2010): "Copula Theory and Its Applications" Lecture Notes in Statistics, Springer. ISBN 978-3-642-12464-8A reference for sampling applications and stochastic models related to copulas isJan-Frederik Mai, Matthias Scherer (2012): Simulating Copulas (Stochastic Models, Sampling Algorithms and Applications). World Scientific. ISBN 978-1-84816-874-9A paper covering the historic development of copula theory, by the person associated with the "invention" of copulas, Abe Sklar.Abe Sklar (1997): "Random variables, distribution functions, and copulas – a personal look backward and forward" in Rüschendorf, L., Schweizer, B. und Taylor, M. (eds) Distributions With Fixed Marginals & Related Topics (Lecture Notes – Monograph Series Number 28). ISBN 978-0-940600-40-9The standard reference for multivariate models and copula theory in the context of financial and insurance modelsAlexander J. McNeil, Rudiger Frey and Paul Embrechts (2005) "Quantitative Risk Management: Concepts, Techniques, and Tools", Princeton Series in Finance. ISBN 978-0-691-12255-7
+
+
+== External links ==
+"Copula", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Copula Wiki: community portal for researchers with interest in copulas
+A collection of Copula simulation and estimation codes
+Copulas & Correlation using Excel Simulation Articles
+Chapter 1 of Jan-Frederik Mai, Matthias Scherer (2012)  "Simulating Copulas: Stochastic Models, Sampling Algorithms, and Applications"

@@ -1,0 +1,63 @@
+Biological anthropology, also known as physical anthropology, is a scientific discipline concerned with the biological and behavioral aspects of human beings, their extinct hominin ancestors, and related non-human primates, particularly from an evolutionary perspective. This subfield of anthropology systematically  studies human beings from a biological perspective.
+
+
+== Branches ==
+As a subfield of anthropology, biological anthropology itself is further divided into several branches. All branches are united in their common orientation and/or application of evolutionary theory to understanding human biology and behavior.
+
+Bioarchaeology is the study of past human cultures through examination of human remains recovered in an archaeological context. The examined human remains usually are limited to bones but may include preserved soft tissue. Researchers in bioarchaeology combine the skill sets of human osteology, paleopathology, and archaeology, and often consider the cultural and mortuary context of the remains.
+Evolutionary biology is the study of the evolutionary processes that produced the diversity of life on Earth, starting from a single common ancestor. These processes include natural selection, common descent, and speciation.
+Evolutionary psychology is the study of psychological structures from a modern evolutionary perspective. It seeks to identify which human psychological traits are evolved adaptations – that is, the functional products of natural selection or sexual selection in human evolution.
+Forensic anthropology is the application of the science of physical anthropology and human osteology in a legal setting, most often in criminal cases where the victim's remains are in the advanced stages of decomposition.
+Human behavioral ecology is the study of behavioral adaptations (foraging, reproduction, ontogeny) from the evolutionary and ecologic perspectives (see behavioral ecology). It focuses on human adaptive responses (physiological, developmental, genetic) to environmental stresses.
+Human biology is an interdisciplinary field of biology, biological anthropology, nutrition and medicine, which concerns international, population-level perspectives on health, evolution, anatomy, physiology, molecular biology, neuroscience, and genetics.
+Paleoanthropology is the study of fossil evidence for human evolution, mainly using remains from extinct hominin and other primate species to determine the morphological and behavioral changes in the human lineage, as well as the environment in which human evolution occurred.
+Paleopathology is the study of disease in antiquity. This study focuses not only on pathogenic conditions observable in bones or mummified soft tissue, but also on nutritional disorders, variation in stature or morphology of bones over time, evidence of physical trauma, or evidence of occupationally derived biomechanic stress.
+Primatology is the study of non-human primate behavior, morphology, and genetics. Primatologists use phylogenetic methods to infer which traits humans share with other primates and which are human-specific adaptations.
+
+
+== History ==
+
+
+=== Origins ===
+Biological Anthropology looks different today than it did even twenty years ago. The name is even relatively new, having been 'physical anthropology' for over a century, with some practitioners still applying that term. Biological anthropologists look back to the work of Charles Darwin as a major foundation for what they do today. However, if one traces the intellectual genealogy back to physical anthropology's beginnings—before the discovery of much of what we now know as the hominin fossil record—then the focus shifts to human biological variation. Some editors, see below, have rooted the field even deeper than formal science.
+Attempts to study and classify human beings as living organisms date back to ancient Greece. The Greek philosopher Plato (c. 428–c. 347 BC) placed humans on the scala naturae, which included all things, from inanimate objects at the bottom to deities at the top. This became the main system through which scholars thought about nature for the next roughly 2,000 years. Plato's student Aristotle (c. 384–322 BC) observed in his History of Animals that human beings are the only animals to walk upright and argued, in line with his teleological view of nature, that humans have buttocks and no tails in order to give them a cushy place to sit when they are tired of standing. He explained regional variations in human features as the result of different climates. He also wrote about physiognomy, an idea derived from writings in the Hippocratic Corpus. Scientific physical anthropology began in the 17th to 18th centuries with the study of racial classification (Georgius Hornius, François Bernier, Carl Linnaeus, Johann Friedrich Blumenbach).The first prominent physical anthropologist, the German physician Johann Friedrich Blumenbach (1752–1840) of Göttingen, amassed a large collection of human skulls (Decas craniorum, published during 1790–1828), from which he argued for the division of humankind into five major races (termed Caucasian, Mongolian, Aethiopian, Malayan and American). In the 19th century, French physical anthropologists, led by Paul Broca (1824-1880), focused on craniometry while the German tradition, led by Rudolf Virchow (1821–1902), emphasized the influence of environment and disease upon the human body.In the 1830s and 1840s, physical anthropology was prominent in the debate about slavery, with the scientific, monogenist works of the British abolitionist James Cowles Prichard (1786–1848) opposing those of the American polygenist Samuel George Morton (1799–1851).In the late 19th century, German-American anthropologist Franz Boas (1858-1942) strongly impacted biological anthropology by emphasizing the influence of culture and experience on the human form. His research showed that head shape was malleable to environmental and nutritional factors rather than a stable "racial" trait. However, scientific racism still persisted in biological anthropology, with prominent figures such as Earnest Hooton and Aleš Hrdlička promoting theories of racial superiority and a European origin of modern humans.
+
+
+=== "New Physical Anthropology" ===
+In 1951 Sherwood Washburn, a former student of Hooton, introduced a "new physical anthropology." He changed the focus from racial typology to concentrate upon the study of human evolution, moving away from classification towards evolutionary process. Anthropology expanded to include paleoanthropology and primatology. The 20th century also saw the modern synthesis in biology: the reconciling of Charles Darwin's theory of evolution and Gregor Mendel's research on heredity. Advances in the understanding of the molecular structure of DNA and the development of chronological dating methods opened doors to understanding human variation, both past and present, more accurately and in much greater detail.
+
+
+== Notable biological anthropologists ==
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+Michael A. Little and Kenneth A.R. Kennedy, eds. Histories of American Physical Anthropology in the Twentieth Century, (Lexington Books; 2010); 259 pages; essays on the field from the late 19th to the late 20th century; topics include Sherwood L. Washburn (1911–2000) and the "new physical anthropology"
+Brown, Ryan A and Armelagos, George, "Apportionment of Racial Diversity: A Review", Evolutionary Anthropology 10:34–40 2001
+Modern Human Variation: Models of Classification
+Redman, Samuel J. Bone Rooms: From Scientific Racism to Human Prehistory in Museums. Cambridge: Harvard University Press. 2016.
+
+
+== External links ==
+
+American Association of Biological Anthropologists [1]
+British Association of Biological Anthropologists and Osteoarchaeologists
+Human Biology Association
+Canadian Association for Physical Anthropology
+Homo erectus and Homo neanderthalensis reconstructions – Electronic articles published by the Division of Anthropology, American Museum of Natural History.
+Istituto Italiano di Antropologia Archived 2008-10-16 at the Wayback Machine
+Journal of Anthropological Sciences – free full text review articles available
+Mapping Transdisciplinarity in Anthropology pdf
+Fundamental Theory of Human Sciences ppt
+American Journal of Human Biology
+Human Biology, The International Journal of Population Genetics and Anthropology Archived 2011-02-04 at the Wayback Machine
+Economics and Human Biology
+Laboratory for Human Biology Research at Northwestern University Archived 2015-08-28 at the Wayback Machine
+The Program in Human Biology at Stanford
+Academic Genealogical Tree of Physical Anthropologists

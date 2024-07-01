@@ -1,0 +1,54 @@
+Disequilibrium macroeconomics is a tradition of research centered on the role of disequilibrium in economics. This approach is also known as  non-Walrasian theory, equilibrium with rationing, the non-market clearing approach, and non-tâtonnement theory. Early work in the area was done by Don Patinkin, Robert W. Clower, and Axel Leijonhufvud. Their work was formalized into general disequilibrium models, which were very influential in the 1970s. American economists had mostly abandoned these models by the late 1970s, but French economists continued work in the tradition and developed fixprice models.
+
+
+== Macroeconomic disequilibria ==
+In the neoclassical synthesis, equilibrium models were the rule. In these models, rigid wages modeled unemployment at equilibria. These models were challenged by Don Patinkin and later disequilibrium theorists. Patinkin argued that unemployment resulted from disequilibrium. Patinkin, Robert W. Clower, and Axel Leijonhufvud focused on the role of disequilibrium. Clower and Leijonhufvud argued that disequilibrium formed a fundamental part of Keynes's theory and deserved greater attention.Robert Barro and Herschel Grossman formulated general disequilibrium models, in which individual markets were locked into prices before there was a general equilibrium. These markets produced "false prices" resulting in disequilibrium. Soon after the work of Barro and Grossman, disequilibrium models fell out of favor in the United States and Barro abandoned Keynesianism and adopted new classical, market-clearing hypotheses. However, leading American economists continued work with disequilibrium models, for example Franklin M. Fisher at MIT, Richard E. Quandt at Princeton University, and John Roberts at Stanford University.
+
+
+== Disequilibrium and unemployment ==
+While disequilibrium economics had only a supporting role in the US, it had major role in European economics, and indeed a leading role in French-speaking Europe. In France, Jean-Pascal Bénassy (1975) and Yves Younès (1975) studied macroeconomic models with fixed prices. Disequilibrium economics received greater research as mass unemployment returned to Western Europe in the 1970s. Disequilibrium economics also influenced European policy discussions, particularly in France and Belgium. European economists such as Edmond Malinvaud and Jacques Drèze expanded on the disequilibrium tradition and worked to explain price rigidity instead of simply assuming it.Malinvaud used disequilibrium analysis to develop a theory of unemployment. He argued that disequilibrium in the labor and goods markets could lead to rationing of goods and labor, leading to unemployment. Malinvaud adopted a fixprice framework and argued that pricing would be rigid in modern, industrial prices compared to the relatively flexible pricing systems of raw goods that dominate agricultural economies. In Malinvaud's framework, prices are fixed and only quantities adjust. Malinvaud considers an equilibrium state in classical and Keynesian unemployment as most likely. He pays less attention to the case of repressed inflation and considers underconsumption/unemployment a theoretical curiosity. Work in the neoclassical tradition is confined as a special case of Malinvaud's typology, the Walrasian equilibrium. In Malinvaud's theory, reaching the Walrasian equilibrium case is almost impossible to achieve given the nature of industrial pricing. Malinvaud's work provided different policy prescriptions depending on the state of the economy. Given Keynesian unemployment, fiscal policy could shift both the labor and goods curves upwards leading to higher wages and prices. With this shift, the Walrasian equilibrium would be closer to the actual economic equilibrium. On the other hand, fiscal policy with an economy in the classical unemployment would only make matters worse. A policy leading to higher prices and lower wages would be recommended instead."Disequilibrium macroeconometrics" was developed by Drèze's, Henri Sneessens (1981) and Jean-Paul Lambert (1988). A joint paper by Drèze and Sneessens inspired Drèze and Richard Layard to lead the European Unemployment Program, which estimated a common disequilibrium model in ten countries. The results of that successful effort were to inspire policy recommendations in Europe for several years.
+
+
+== Disequilibrium extensions of Arrow–Debreu general equilibrium theory ==
+In Belgium, Jacques Drèze defined equilibria with price rigidities and quantity constraints and studied their properties, extending the Arrow–Debreu model of general equilibrium theory in mathematical economics. Introduced in his 1975 paper, a "Drèze equilibrium" occurs when supply (demand) is constrained only when prices are downward (upward) rigid, whereas a preselected commodity (e.g. money) is never rationed. Existence is proved for arbitrary bounds on prices. A joint paper with Pierre Dehez established the existence of Drèze equilibria with no rationing of the demand side. Stanford's John Roberts studied supply-constrained equilibria at competitive prices; similar results were obtained by Jean-Jacques Herings at Tilburg (1987, 1996). Roberts and Hering proved the existence of a continuum of Drèze equilibria. Then Drèze (113) proved existence of equilibria with arbitrarily severe rationing of supply. Next, in a joint paper with Herings and others (132), the generic existence of a continuum of Pareto-ranked supply-constrained equilibria was established for a standard economy with some fixed prices. The multiplicity of equilibria thus formalises a trade-off between inflation and unemployment, comparable to a Phillips curve. Drèze viewed his approach to macroeconomics as examining the macroeconomic consequences of Arrow–Debreu general equilibrium theory with rationing, an approach complementing the often-announced program of providing microfoundations for macroeconomics.
+
+
+== Specific economic sectors ==
+
+
+=== Credit markets ===
+
+Disequilibrium credit rationing can occur for one of two reasons. In the presence of usury laws, if the equilibrium interest rate on loans is above the legally allowable rate, the market cannot clear and at the maximum allowable rate the quantity of credit demanded will exceed the quantity of credit supplied.
+A more subtle source of credit rationing is that higher interest rates can increase the risk of default by the borrower, making the potential lender reluctant to lend at otherwise attractively high interest rates.
+
+
+=== Labour markets ===
+
+Labour markets are prone to particular sources of price rigidity because the item being transacted is people, and laws or social constraints designed to protect those people may hinder market adjustments. Such constraints include restrictions on who or how many people can be laid off and when (which can affect both the number of layoffs and the number of people hired by firms that are concerned by the restrictions), restrictions on the lowering of wages when a firm experiences a decline in the demand for its product, and long-term labor contracts that pre-specify wages.
+
+
+=== Spillovers between markets ===
+
+Disequilibrium in one market can affect demand or supply in other markets. Specifically, if an economic agent is constrained in one market, his supply or demand in another market may be changed from its unconstrained form, termed the notional demand, into a modified form known as effective demand. If this occurs systematically for a large number of market participants, market outcomes in the latter market for prices and quantities transacted (themselves either equilibrium or disequilibrium outcomes) will be affected.
+Examples include:
+
+If the supply of mortgage credit to potential homebuyers is rationed, this will decrease the demand for newly built houses.
+If labourers cannot supply all the labor they wish to, they will have constrained income and their demand in the goods market will be lower.
+If employers cannot hire all the labor they wish to, they cannot produce as much output as they wish to, and supply in the market for their good will be diminished.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Backhouse, Roger; Boianovsky, Mauro (2012). Transforming modern macroeconomics : exploring disequilibrium microfoundations, 1956–2003. New York: Cambridge University Press. ISBN 978-1-107-02319-2.
+Barro, R. J. (1979). "Second Thoughts on Keynesian Economics". The American Economic Review. 69 (2): 54–59. JSTOR 1801616.
+Beaud, Michel; Dostaler, Gilles (1997). Economic Thought since Keynes. New York: Routledge. ISBN 978-0-415-16454-2.
+De Vroey, Michel (2002). "Involuntary unemployment in Keynesian economics". In Snowdon, Brian; Vane, Howard (eds.). An Encyclopedia of Macroeconomics. Northampton, Massachusetts: Edward Elgar Publishing. pp. 381–385. ISBN 978-1-84542-180-9.
+Hoover, Kevin D. (2003). "A History of Postwar Monetary Economics and Macroeconomics". In Samuels, Warren J.; Biddle, Jeff E.; Davis, John B. (eds.). A Companion to the History of Economic Thought. Malden, Massachusetts: Blackwell Publishing. pp. 411–427. ISBN 978-0-631-22573-7.
+Mankiw, N. Gregory (December 1990). "A Quick Refresher Course in Macroeconomics". Journal of Economic Literature. 28 (4): 1645–1660. doi:10.3386/w3256. JSTOR 2727441.
+Snowdon, Brian; Vane, Howard (2005). Modern Macroeconomics. Cheltenham, UK: Edward Elgar. ISBN 978-1-84542-208-0.
+Tsoulfidis, Lefteris (2010). Competing schools of economic thought. London: Springer. ISBN 978-3-540-92692-4.

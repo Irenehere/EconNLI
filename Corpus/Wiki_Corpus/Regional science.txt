@@ -1,0 +1,61 @@
+Regional science is a field of the social sciences concerned with analytical approaches to problems that are specifically urban, rural, or regional. Topics in regional science include, but are not limited to location theory or spatial economics, location modeling, transportation, migration analysis, land use and urban development, interindustry analysis, environmental and ecological analysis, resource management, urban and regional policy analysis, geographical information systems, and spatial data analysis. In the broadest sense, any social science analysis that has a spatial dimension is embraced by regional scientists.
+
+
+== Origins ==
+Regional science was founded in the late 1940s when some economists began to become dissatisfied with the low level of regional economic analysis and felt an urge to upgrade it. But even in this early era, the founders of regional science expected to catch the interest of people from a wide variety of disciplines. Regional science's formal roots date to the aggressive campaigns by Walter Isard and his supporters to promote the "objective" and "scientific" analysis of settlement, industrial location, and urban development. Isard targeted key universities and campaigned tirelessly. Accordingly, the Regional Science Association was founded in 1954, when the core group of scholars and practitioners held its first meetings independent from those initially held as sessions of the annual meetings of the American Economics Association.  A reason for meeting independently undoubtedly was the group's desire to extend the new science beyond the rather restrictive world of economists and have natural scientists, psychologists, anthropologists, lawyers, sociologists, political scientists, planners, and geographers join the club. Now called the Regional Science Association International (RSAI), it maintains subnational and international associations, journals, and a conference circuit (notably in North America, continental Europe, Japan, and South Korea). Membership in the RSAI continues to grow.
+
+
+== Seminal publications ==
+Topically speaking, regional science took off in the wake of Walter Christaller's book Die Zentralen Orte in Sűddeutschland (Verlag von Gustav Fischer, Jena, 1933; transl. Central Places in Southern Germany, 1966), soon followed by Tord Palander's (1935) Beiträge zur Standortstheorie; August Lösch's Die räumliche Ordnung der Wirtschaft (Verlag von Gustav Fischer, Jena, 1940; 2nd rev. edit., 1944; transl. The Economics of Location, 1954) ; and Edgar M. Hoover's two books--Location Theory and the Shoe and Leather Industry (1938) and The Location of Economic Activity (1948). Other important early publications include: Edward H. Chamberlin's (1950) The Theory of Monopolistic Competition ; François Perroux's (1950) Economic Spaces: Theory and Application; Torsten Hägerstrand's (1953) Innovationsförloppet ur Korologisk Synpunkt; Edgar S. Dunn's (1954)The Location of Agricultural Production ; Martin J. Beckmann, C.B McGuire, and Clifford B. Winston's (1956) Studies in the Economics of Transportation; Melvin L. Greenhut's (1956) Plant Location in Theory and Practice; Gunnar Myrdal's (1957) Economic Theory and Underdeveloped Regions; Albert O. Hirschman's (1958) The Strategy of Economic Development; and Claude Ponsard's (1958) Histoire des Théories Économiques Spatiales. Nonetheless, Walter Isard's first book in 1956, Location and Space Economy, apparently captured the imagination of many, and his third, Methods of Regional Analysis, published in 1960, only sealed his position as the father of the field.
+As is typically the case, the above works were built on the shoulders of giants. Much of this predecessor work is documented well in Walter Isard's Location and Space Economy as well as Claude Ponsard's Histoire des Théorie Économique Spatiales. Particularly important was the contribution by 19th century German economists to location theory. The early German hegemony more or less starts with Johann Heinrich von Thünen and runs through both Wilhelm Launhardt and Alfred Weber to Walter Christaller and August Lösch.
+
+
+== Core journals ==
+
+If an academic discipline is identified by its journals, then technically regional science began in 1955 with the publication of the first volume of the Papers and Proceedings, Regional Science Association (now Papers in Regional Science published by Springer). In 1958, the  Journal of Regional Science followed. Since the 1970s, the number of journals serving the field has exploded. The RSAI website displays most of them.
+Most recently the journal Spatial Economic Analysis has been published by the RSAI British and Irish Section with the Regional Studies Association. The latter is a separate and growing organisation involving economists, planners, geographers, political scientists, management academics, policymakers, and practitioners.
+
+
+== Academic programs ==
+Walter Isard's efforts culminated in the creation of a few academic departments and several university-wide programs in regional science. At Walter Isard's suggestion, the University of Pennsylvania started the Regional Science Department in 1956. It featured as its first graduate William Alonso and was looked upon by many to be the international academic leader for the field. Another important graduate and faculty member of the department is Masahisa Fujita. The core curriculum of this department was microeconomics, input-output analysis, location theory, and statistics. Faculty also taught courses in mathematical programming, transportation economics, labor economics, energy and ecological policy modeling, spatial statistics, spatial interaction theory and models, benefit/cost analysis, urban and regional analysis, and economic development theory, among others. But the department's unusual multidisciplinary orientation undoubtedly encouraged its demise, and it lost its department status in 1993.With a few exceptions, such as Cornell University, which awards graduate degrees in Regional Science, most practitioners hold positions in departments such as economics, geography, civil engineering, agricultural economics, rural sociology, urban planning, public policy, or demography. The diversity of disciplines participating in regional science have helped make it one of the most interesting and fruitful fields of academic specialization, but it has also made it difficult to fit the many perspectives into a curriculum for an academic major. It is even difficult for authors to write regional science textbooks, since what is elementary knowledge for one discipline might be entirely novel for another.
+
+
+== Public policy impact ==
+Part of the movement was, and continues to be, associated with the political and economic realities of the role of the local community. On any occasion where public policy is directed at the sub-national level, such as a city or group of counties, the methods of regional science can prove useful. Traditionally, regional science has provided policymakers with guidance on the following issues:
+Determinants of industrial location (both within the nation and region)
+Regional economic impact of the arrival or departure of a firm
+Determinants of internal migration patterns and land-use change
+Regional specialization and exchange
+Environmental impacts of social and economic change
+Geographic association of economic and social conditionsBy targeting federal resources to specific geographic areas the Kennedy administration realized that political favors could be bought. This is also evident in Europe and other places where local economic areas do not coincide with political boundaries. In the more current era of devolution knowledge about "local solutions to local problems" has driven much of the interest in regional science. Thus, there has been much political impetus to the growth of the discipline.
+
+
+== Developments after 1980 ==
+Regional science has enjoyed mixed fortunes since the 1980s. While it has gained a larger following among economists and public policy practitioners, the discipline has fallen out of favor among more radical and post-modernist geographers. In an apparent effort to secure a larger share of research funds, geographers had the National Science Foundation's Geography and Regional Science Program renamed "Geography and Spatial Sciences".
+
+
+=== New economic geography ===
+In 1991, Paul Krugman, as a highly regarded international trade theorist, put out a call for economists to pay more attention to economic geography in a book entitled Geography and Trade, focusing largely on the core regional science concept of agglomeration economies. Krugman's call renewed interest by economists in regional science and, perhaps more importantly, founded what some term the "new economic geography", which enjoys much common ground with regional science. Broadly trained "new economic geographers" combine quantitative work with other research techniques, for example at the London School of Economics. The unification of Europe and the increased internationalization of the world's economic, social, and political realms has further induced interest in the study of regional, as opposed to national, phenomena.  The new economic geography appears to have garnered more interest in Europe than in America where amenities, notably climate, have been found to better predict human location and re-location patterns, as emphasized in recent work by Mark Partridge. In 2008 Krugman won the Nobel Memorial Prize in Economic Sciences and his Prize Lecture has references both to work in regional science's location theory as well as economic's trade theory.
+
+
+=== Criticisms ===
+Today there are dwindling numbers of regional scientists from academic planning programs and mainstream geography departments. Attacks on regional science's practitioners by radical critics began as early as the 1970s, notably David Harvey who believed it lacked social and political commitment. Regional science's founder, Walter Isard, never envisioned regional scientists would be political or planning activists. In fact, he suggested that they will seek to be sitting in front of a computer and surrounded by research assistants. Trevor J. Barnes suggests the decline of regional science practice among planners and geographers in North America could have been avoided. He says "It is unreflective, and consequently inured to change, because of a commitment to a God’s eye view. It is so convinced of its own rightness, of its Archimedean position, that it remained aloof and invariant, rather than being sensitive to its changing local context."
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Boyce, David. (2004). A Short History of the Field of Regional Science. Papers in Regional Science., 83 pp. 31–57. Short history. (PDF) . Retrieved on 2011-06-04.
+Durlauf, Steven N., and Lawrence E. Blume, ed. (2008). The New Palgrave Dictionary of Economics, 2nd Edition:"new economic geography" by Anthony J. Venables. Abstract.
+"regional development, geography of" by Jeffrey D. Sachs and Gordon McCord. Abstract.
+"spatial economics" by Gilles Duranton. Abstract.
+"urban agglomeration"  by William C. Strange. Abstract.Fujita, Masahisa, Paul Krugman, and Anthony Venables. (1999). The Spatial Economy: Cities, Regions and International Trade (Cambridge, Massachusetts: MIT press). (ISBN 0-262-06204-6)
+Fujita, Masahisa. (1989). Urban Economic Theory: Land Use and City Size (Cambridge, UK: Cambridge University Press). (ISBN 0-521-34662-2)
+Fritsch, Michael und Mueller, Pamela (2006), The Effect of New Business Formation on Regional Development over Time. The Case of Germany, Discussion Papers on Entrepreneurship, Growth and Public Policy, Jena
+Krumm, Ronald J.; Tolley, George S. (1987). "Regional economics". The New Palgrave: A Dictionary of Economics. 4: 116–20.
+Scott, A. J. (2000). "Economic Geography: The Great Half-Century". Cambridge Journal of Economics. 24: 504.
+Web Book of Regional Science

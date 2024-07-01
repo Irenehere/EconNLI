@@ -1,0 +1,34 @@
+A capital asset is defined as property of any kind held by an assessee, whether connected with their business or profession or not connected with their business or profession. It includes all kinds of property, movable or immovable, tangible or intangible, fixed or circulating. Thus, land and building, plant and machinery, motorcar, furniture, jewellery, route permits, goodwill, tenancy rights, patents, trademarks, shares, debentures, securities, units, mutual funds, zero-coupon bonds etc. are capital assets.
+
+
+== Excluded from the definition ==
+Any stocks in trade, consumable stores, or raw materials held for the purpose of business or profession have been excluded from the definition of capital assets.
+Any movable property (excluding jewellery made out of gold, silver, precious stones, and drawing, paintings, sculptures, archeological collections, etc.) used for personal use by the assessee or any member (dependent) of assessee’s family is not treated as capital assets. For example, wearing apparel, furniture, car or scooter, TV, refrigerator, musical instruments, gun, revolver, generator, etc. is the examples of personal effects. (But see IRS publication 544 chapter 2.)
+Agricultural land situated in rural area.
+6.5% gold bonds or 7% gold bonds 1980, national defense gold bond 1980, issued by the central government.
+Special bearer bonds, 1991
+Gold deposit bonds issued under gold deposit scheme, 1999.
+Security deposits issued under gold monetisation scheme 2015
+
+
+== Specific common definitions ==
+In financial economics, capital refers to any asset used to make money, as opposed to assets used for personal enjoyment or consumption. This is an important distinction because two people can disagree sharply about the value of personal assets, one person might think a sports car is more valuable than a pickup truck, another person might have the opposite taste. But if an asset is held for the purpose of making money, taste has nothing to do with it, only differences of opinion about how much money the asset will produce. With the further assumption that people agree on the probability distribution of future cash flows, it is possible to have an objective capital asset pricing model. Even without the assumption of an agreement, it is possible to set rational limits on capital asset value.
+For United States Federal government accounting, capital assets have been defined including land (including parklands), structures, equipment (including motor and aircraft fleets), and intellectual property (including software), that have an estimated useful life (also known as service life) of two years or more. Capital assets exclude items acquired for resale in the ordinary course of operations or held for the purpose of physical consumption such as operating materials and supplies.The cost of a capital asset is its full life-cycle cost, including all direct and indirect costs associated with the planning, engineering, procurement including construction (purchase price and all other costs incurred to bring it to a form and location suitable for its intended use), operations and maintenance (including service contracts), and disposal.
+Capital assets may be acquired in different ways: through purchase, construction, or manufacture; through a lease-purchase or other capital lease, regardless of whether the title has passed to the Federal Government; through an operating lease for an asset with an estimated useful life of two years or more; or through an exchange. Capital assets include the environmental remediation of land to make it useful, leasehold improvements and land rights; assets owned by the Federal Government but located in a foreign country or held by others (such as Federal contractors, State and local governments, or colleges and universities); and assets whose ownership is shared by the Federal Government with other entities.
+Capital assets include not only the assets as initially acquired but also additions, improvements, modifications, replacements, rearrangements and reinstallations, and major improvements (but not ordinary repairs and maintenance).
+For State or Local governmental accounting in the United States with reference to public capital or infrastructure a capital asset is defined as any asset used in operations with an initial useful life extending beyond one reporting period. Generally, government managers have a "stewardship" duty to maintain capital assets under their control.  See International Public Sector Accounting Standards for details.  See Triple bottom line for widely used public sector accounting methods in which natural capital and social capital are characterized not as intangibles or externalities but as actual capital assets.
+In some income tax systems (for example, in the United States), gains and losses from capital assets are treated differently than other income. Sale of non-capital assets, such as inventory or stock of goods held for sale, generally is taxed in the same manner as other income.  Capital assets generally include those assets outside the daily scope of business operations, such as investment or personal assets.  The United States system defines a capital asset by exclusion.  Capital assets include all assets except  inventory of supplies or property held for sale (including subdivided real estate), depreciable property used in a business, accounts or notes receivable, certain commodities derivatives and hedging items, and certain copyrights and similar property held by the creator of the property.  The United Kingdom has an even broader definition.
+
+
+== US tax definition versus broader economic definition ==
+A well-known financial accounting textbook advises that the term be avoided except in tax accounting because it is used in so many different senses, not all of them well-defined. For example it is often used as a synonym for fixed assets or for investments in securities.However this advice is questionable beyond the US private context. Several public sector standards in global use, notably triple bottom line accounting as defined by ICLEI for world cities, require that employees or the environment or something else be treated as a capital asset. In this context it means something managers have a responsibility to maintain, and to report changes in value as gains or losses.  See human capital, natural capital, triple bottom line, human development theory.
+Capital assets should not be confused with the capital a financial institution is required to hold. This capital is computed from the right-hand side of the balance sheet while assets are found on the left-hand side.  See Basel III for a summary of how such requirements are proposed to be calculated.
+
+
+== See also ==
+Current assets
+DIRTI 5
+Engineering economics (civil engineering)
+
+
+== References ==

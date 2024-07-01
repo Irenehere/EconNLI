@@ -1,0 +1,211 @@
+Technical geography is the branch of geography that involves using, studying, and creating tools to obtain, analyze, interpret, understand, and communicate spatial information. The other branches, most commonly limited to human geography and physical geography, can usually apply the concepts and techniques of technical geography. However, the methods and theory are distinct, and a technical geographer may be more concerned with the technological and theoretical concepts than the nature of the data. Thus, the spatial data types a technical geographer employs may vary widely, including human and physical geography topics, with the common thread being the techniques and philosophies employed. To accomplish this, technical geographers often create their own software or scripts, which can then be applied more broadly by others. While technical geography mostly works with quantitative data, the techniques and technology can be applied to qualitative geography, differentiating it from quantitative geography.  Within the branch of technical geography are the major and overlapping subbranches of geographic information science, geomatics, and geoinformatics.
+
+
+== Etymology ==
+The term "technical geography" is a combination of the words "technical," from the Greek τεχνικός (technikós meaning art or craft), meaning relating to a particular subject or activity and involving practical skills, and "geography," from Greek γεωγραφία (geographia, a combination of Greek words ‘Geo’ (The Earth) and ‘Graphien’ to describe. Literally "earth description"), a field of science devoted to the study of the lands, features, inhabitants, and phenomena of Earth. The origin of technical geography as a term can be traced at least as far back as 1749 in the publication "Geography reformed: a new system of general geography, according to an accurate analysis of the science in four parts." Technical geography as a term is more than place name recollection and toponymy; it involves spatial relationships between points and theory.
+
+
+== History ==
+
+
+=== Early history ===
+While the date the term technical geography first entered the English lexicon may be difficult to ascertain, technical geography techniques date back to cartography, surveying, and remote sensing. Technical geography as a distinct concept in geography dates back at least as far as 1749 in the publication "Geography reformed: a new system of general geography, according to an accurate analysis of the science in four parts." This publication by Edward Cave was divided into four parts, one of which was named "containing technical geography." Edward Caves' book focused on both globes and maps under the section on technical geography, including concepts of cartographic design, and projection. In this book, they stated they chose to use the term "technical geography" rather than "practical geography" to clarify that the branch is distinct in theory and methods. This publication defines technical geography with the following:
+
+"The Description confider'd as to Form is of three Sorts; The first exhibits the Earth, by a Draught or Delineation; the second by Tables, or Regillers; and the third by Treties or Discourse. Hence Technical Geography may be divided into Representatory, Synoptical, and Explanatory."
+
+
+=== Early 20th century ===
+In 1902, geodesy was suggested as a discipline supporting technical geography. By 1917, technical geography was included among courses taught at some British schools, alongside mathematics, chemistry, and other natural sciences. The 1917 English review article is not clear on what was included in these British technical geography courses, but it is possible was largely place name memorization and toponymy.
+As techniques and concepts in technical geography advanced, geographers began to lament the lack of understanding and use of more advanced geographic concepts in society and law. Specifically, this became an issue during The Michigan-Wisconsin Boundary Case in the Supreme Court of the United States, where the border was not defined with specific technical geographic concepts.
+
+
+=== Quantitative revolution ===
+
+Technical geography differentiated more clearly during the quantitative revolution in the 1950s and 1960s. Before this, the techniques and methods of handling spatial information were primarily focused on supporting human or physical geography, rather than a subject of study itself. World War II, which saw the extensive use of cartography and air photos, revolutionized these techniques and brought a new focus on the benefits they offered. In the years before the quantitative revolution, geography was generally fragmented and focused on descriptive approaches, and many United States universities were eliminating geography departments around the country. To address this, geographers began to debate the merits of more scientific and methods-based approaches to the discipline and advocate for the benefits these methods had to other technical courses. Some, such as influential cartographer George Jenks went as far as to suggest that cartography should be a separate academic discipline from geography entirely, even if only at a few academic institutions. This approach was shunned by more traditional geographers, who viewed it as a deviation from how geographers had always viewed and interacted with maps. While how best to approach the technical aspect of geography was heavily debated among geographers, geography departments at universities across the country began to teach a more scientific approach to geography. During the early days of the quantitative revolution, the term quantitative geography emerged as a subdiscipline within technical geography focusing exclusively on these quantitative methods for handling spatial data. This part of technical geography focuses on spatial statistics and visualizing spatial information, emphasizing quantitative data and the scientific method.
+
+
+==== Laws of geography ====
+
+The main claim for the quantitative revolution is that it led to a shift from a descriptive (idiographic) geography to an empirical law-making (nomothetic) geography. The first of these laws was proposed by Waldo Tobler in his 1970 paper, "A Computer Movie Simulating Urban Growth in the Detroit Region," and more have been proposed since. In general, like the concept of technical geography, some geographers argue against the idea that laws in geography are necessary or even valid. These criticisms have been addressed by Tobler and others. Examples of these laws include Tobler's first law of geography, Tobler's second law of geography, and Arbia's law of geography.
+
+
+=== 20th century technologies ===
+
+
+==== Remote sensing ====
+
+Along with computers and GIS, new spatial data sources emerged during the quantitative revolution. Air photo technology was widely used in World War I and, in subsequent years, was applied to civilian endeavors. A 1941 textbook titled "Aerophotography and Aerosurverying" stated the following in the first line of its preference: 
+
+"There is no longer any need to preach for aerial photography-not in the United States- for so widespread has become its use and so great its value that even the farmer who plants his fields in a remote corner of the country knows its value."
+Remote sensing technology again advanced rapidly during World War II, and the techniques employed were rapidly assimilated as aids in geographical studies. During the Cold War, advancements in photography, aircraft, and rockets only increased the effectiveness of remote sensing techniques. As the technology became available to the general public, geographers were soon overwhelmed with large volumes of satellite and aerial images. New techniques were required to store, process, analyze, and use this new data source, birthing remote sensing scientists.
+
+
+==== Digital mapping and Geographic information systems ====
+
+Coinciding with the quantitative revolution was the emergence of early computers. The interdisciplinary nature of geography forces geographers to look at developments in other fields, and geographers tend to observe and adapt technological innovations from other disciplines rather than developing unique technologies to conduct geographic studies. Computers were no exception. More than a decade after the first computers were developed, Waldo Tobler published the first paper detailing the use of computers in the map-making process titled "Automation and Cartography" in 1959. While novel in terms of application, the process detailed by Tobler did not allow for storing or analyzing of geographic data. As computer technology progressed and better hardware became available, geographers rapidly adopted the technology to create maps. In 1960, Roger Tomlinson created the first true geographic information system, which allowed for storing and analysis of spatial data within a computer. These tools revolutionized the discipline of geography by contributing to the positivist scientific approaches to the discipline during the quantitative revolution. In 1985, Mark Monmonier speculated that computer cartography facilitated by GIS would largely replace traditional pen and paper cartography. Geographers began to heavily debate the place of GIS in geography, with some rejecting its methods, and others heavily advocating for it. In response to critics, British geographer Stan Openshaw stated:
+
+...if geographers reject GIS then it could fundamentally affect the outside world's perception of what geography is all about. Certainly, these external perceptions may well be based on a picture of geography as it once was, but nevertheless they cannot be ignored. "How could they be so foolish as to disown the very core of their discipline?"
+With the emergence of GIS, researchers rapidly began to explore methods to use the technology for various geographic problems. This led some geographers to declare the study of these methods their own science within geography.
+
+
+==== Global Positioning System ====
+
+In 1978 the United States military launched the first satellites to enable the modern Global Positioning System, and the system's full capability was made available to the general public in 2000. This facilitated a level of rapid acquisition of spatial coordinates that previously would have been prohibitively expensive. Geographers began studying methods and applications for this data.
+
+
+=== 21st century ===
+As these new technologies and methods are widely applicable to various disciplines, concern grew among geographers that these other non-geographers in other disciplines might become better at using them than geographers. In 2016, Ionel Haidu stated:
+
+"The risk is that non-geographers mastering these methods analyze the spatiotemporal data and information better than the geographers. That is why the need to deal with competition induced by other sciences claiming the geographic space as their subject of study and research becomes a serious challenge for geographers. Geographers need to test and adapt to the new methods, models and procedures and implement them in all fields and development trends of Geography. By these also, Technical Geography as a new line of research and professional training becomes a necessity."
+Technical geography as a concept emerges to correct the historical trend in the geography of adapting rather than developing new methods, technologies, and techniques for conducting geographic research by encouraging trained geographers to pursue this line of inquiry. While the use of the term "technical geography" itself has been debated since at least the 1700s, concepts within technical geography are often separated from the rest of geography when organizing and categorizing subfields in the discipline. Terms such as "techniques of geographic analysis", "geographic information technology", are used synonymously with the term within textbooks. In 2006, the peer-reviewed journal Geographia Technica was established to serve as an outlet for research employing quantitative methods within geography. While a small journal by comparison, all publications within it fall under, and presumably endorse the technical geography term.
+
+
+==== Geographic information science and technology body of knowledge ====
+
+As technology such as GIS began to dominate geography departments, the need to develop new curriculum to teach the fundamental concepts became apparent. In response to this, the University Consortium for Geographic Information Science was established, and in 2006 published Geographic Information Science and Technology Body of Knowledge (GISTBoK).  The GISTBoK is designed to inform curriculum teaching GIS and other geospatial technologies. While the book does not mention technical geography specifically, it serves as a landmark for the rapid growth of methods associated with technical geography in academic institutions. Today, while GIS&T is a common descriptor for clusters of courses involving concepts described in the GISTBoK, several geography departments use the term technical geography to describe clusters of courses offered that fall under the GIS&T umbrella, including University of Maryland and South Dakota State University. Babeș-Bolyai University places these courses under the "Department of Physical and Technical Geography."
+
+
+==== UNESCO Encyclopedia of Life Support Systems ====
+
+In 2009, UNESCO Encyclopedia of Life Support Systems employed the term technical geography to organize their literature related to geography, establishing a three-branch model of technical, human, and physical geography. The benefit of this wording is that it is consistent with the other two branches and clearly places the discipline within geography. The categorization of technical geography as a branch is expanded upon by Ionel Haidu in his 2016 paper.
+
+
+== Sub-branches ==
+Technical geography can be divided into many broad categories, such as:
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Techniques ==
+Technical geography employs, and has developed, many techniques and technologies, such as:
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Controversy and criticism ==
+
+
+=== Ontological criticism ===
+Subdividing any discipline is a difficult matter, and geography is no exception. Geography is very fragmented as a discipline, with a history spanning cultures and thousands of years. Other existing models to subdivide the discipline of geography into categories and focuses, including the four traditions of geography, may vary dramatically between publications. While the term technical geography has been put forward as a distinct branch and umbrella for these wider concepts, the terms used to describe the study of spatial information as a distinct category vary. When subdividing the discipline within the literature, similar categories—such as "the Spatial Tradition", "techniques of geographic analysis", "geographic information and analysis", "geographic information technology", "geography methods and techniques", "geographic information technology", "scientific geography," and "quantitative geography"—are used to describe the same, or similar, concepts as technical geography. It is closely associated with and sometimes used interchangeably with, the subfield of geographic information science. Each term has slightly differing definitions and scopes, and the best word choice has been debated in the literature since at least the 1700s when Cave defended the use of technical geography over practical geography. However, many of these alternative terms or phrases are "grammatically awkward" and do not link the discipline explicitly as a branch of geography in the same way as technical geography. Ultimately, the word choice is semantical, but the decision to use different terms for the same concept is one of many contributing factors to the term technical geography having less supporting literature than human or physical geography.
+More controversially, others deny the idea that the thought and techniques of geography constitute a new branch. This argument asserts that geography must be applied and, therefore, must focus on some subset of human or physical geography. They also argue that there is not enough well-established peer-reviewed literature to back the term as a new branch.
+
+
+=== Critical geography ===
+
+In response to the ideas and philosophies advanced during the quantitative revolution, critical geography emerged and advanced many criticisms of the methods and ideas of technical geographers. Other geographers have criticized that geography has moved away from the abstract, unquantifiable aspects of place that are essential to the understanding of geography.Some have brought allegations that technical geography has introduced gender bias into geography departments as the discipline is disproportionately practiced by men and seen by some as more masculine.
+
+
+== Publications ==
+Main category: Geography Journals
+
+Applied Geography
+The Professional Geographer
+Geographical Bulletin
+Geographia Technica – journal focused exclusively on technical geography
+Remote Sensing of Environment
+Annals of the American Association of Geographers
+Journal of Maps
+
+
+== Influential geographers ==
+
+Anne Kelly Knowles (Born 1957) – influential in the use of GIS and geographic methods in History.
+Arthur Getis (1934–2022) – influential in spatial statistics
+Dana Tomlin – developer of map algebra
+Cynthia Brewer – cartographic theorist that created the Apache 2.0 licensed web application ColorBrewer
+Gerardus Mercator (1512–1594) – a cartographer who produced the Mercator projection
+George F. Jenks (1916-1996) – influential in computer cartography and thematic mapping
+Keith C. Clarke (born 1955) - prominent and heavily cited author in computer cartography and spatial analysis.
+Michael DeMers (born 1951) – geographer that wrote numerous books contributing to geographic information systems
+Mark Monmonier (born 1943) – cartographic theorist that wrote numerous books contributing to geographic information systems
+Mei-Po Kwan (born 1962) - geographer that coined the uncertain geographic context problem and the neighborhood effect averaging problem.
+Michael Frank Goodchild (born 1944) – GIS scholar and winner of the RGS founder's medal in 2003
+Roger Tomlinson (1933–2014) – the primary originator of modern geographic information systems
+Stan Openshaw (1946 – 2022) – influential British geographer in the use of computer-based/computational geography
+Waldo Tobler (1930–2018) – coined the first and second law of geography
+
+
+== See also ==
+
+
+== References ==

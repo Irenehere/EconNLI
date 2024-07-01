@@ -1,0 +1,57 @@
+The Chicago Board of Trade (CBOT), established on April 3, 1848, is one of the world's oldest futures and options exchanges. On July 12, 2007, the CBOT merged with the Chicago Mercantile Exchange (CME) to form CME Group. CBOT and three other exchanges (CME, NYMEX, and COMEX) now operate as designated contract markets (DCM) of the CME Group.
+
+
+== History ==
+The concerns of U.S. merchants to ensure that there were buyers and sellers for commodities have resulted in forward contracts to sell and buy commodities. Still, credit risk remained a serious problem. The CBOT took shape to provide a centralized location, where buyers and sellers can meet to negotiate and formalize forward contracts. An early 1848 discussion between Thomas Richmond and W. L. Whiting regarding the propriety of creating a board of trade led to the March 13 meeting merchants and businessmen in favor of establishing it and a resulting resolution for such an establishment and a Constitution. A committee then developed bylaws that were adopted on the first Monday of April by 82 charter members of the Board of Trade.In 1864, the CBOT listed the first ever standardized "exchange traded" forward contracts, which were called futures contracts. In 1919, the Chicago Butter and Egg Board, a spin-off of the CBOT, was reorganized to enable member traders to allow future trading, and its name was changed to Chicago Mercantile Exchange (CME). The Board's restrictions on trading after hours on any prices other than those at the Board's close gave rise to the 1917 case Chicago Board of Trade v. United States, in which the U.S. Supreme Court held that the Sherman Antitrust Act of 1890's language outlawing "every contract ... in restraint of trade" was not to be taken literally, but rather should be interpreted under a "rule of reason."
+On October 19, 2005, the initial public offering (IPO) of 3,191,489 CBOT shares was priced at $54.00 (USD) per share.  On its first day of trading the stock closed up +49% at $80.50 (USD) on the NYSE.
+In 2007, the CBOT and the Chicago Mercantile Exchange merged to form the CME Group.
+
+
+== Chicago Board of Trade Building ==
+
+Since 1930, the Chicago Board of Trade has been operating out of 141 West Jackson Boulevard, Chicago, in a building designed by architects Holabird & Root that is 605 feet (184 m) tall, the tallest in Chicago until the Richard J. Daley Center superseded it in 1965.  This Art Deco building incorporates sculptural work by Alvin Meyer and is capped by a 31-foot (9.5 m) tall statue of the Roman goddess Ceres in reference to the exchange's heritage as a commodity market.  Ceres is often claimed to be faceless because its sculptor, John Storrs, believed that the forty-five story building would be sufficiently taller than any other nearby structure and as a result that no one would be able to see the sculpture's face anyway. However, this popular rumor was disproved, with the sculptor intending to give the statue an ethereal and god-like look by being faceless.On May 4, 1977, the Chicago Board of Trade Building was designated a Chicago Landmark. The building is now a National Historic Landmark.  Today the Board of Trade Building is closely joined by numerous skyscrapers in the heart of Chicago's busy Loop commercial neighborhood.
+
+
+== Trading platforms ==
+
+
+=== The Pit ===
+The pit is a raised octagonal structure where open-outcry trading takes place. Operating during regular trading hours (RTH), the CBOT trading floor contains many such pits.
+The steps up on the outside of the octagon and the steps down on the inside give the pit something of the appearance of an amphitheater, and allow hundreds of traders to see and hear each other during trading hours.  The importance of the pit and pit trading is emphasized by the use of a stylized pit as the logo of the CBOT.  The Pit: a story of Chicago is also the title and subject of a classic novel (1903) by Frank Norris.Trades are made in the pits by bidding or offering a price and quantity of contracts, depending on the intention to buy (bid) or sell (offer).
+This is generally done by using a physical representation of a trader's intentions with his hands.  If a trader wants to buy ten contracts at a price of eight, for example, in the pit he would yell "8 for 10", stating price before quantity, and turn his palm inward toward his face, putting his index finger to his forehead denoting ten; if he were to be buying one, he would place his index finger on his chin.  If the trader wants to sell five contracts at a price of eight, they would yell "5 at 8", stating quantity before price, and show one hand with palm facing outward, showing 5 fingers.  The combination of hand-signals and vocal representation between the way a trader expresses bids and offers is a protection against misinterpretation by other market participants. For historical purposes, an illustrated project to record the hand signal language used in CBOT's trading pits has been compiled and published.With the rise of electronic trading, the importance of the pit has decreased substantially for many contracts, though the pit remains the best place to get complex option spreads filled. In 2015, The Chicago Board of Trade officially eliminated the use of open outcry in all agricultural products in favor of electronic trading, a controversial move that angered some long-time traders.
+
+
+== News lines ==
+
+On August 1, 1974, trading at The Chicago Board of Trade was halted after an anonymous caller said a bomb had been placed in the building.
+On October 22, 1981, trading was halted on the Chicago Board of Trade and the Philadelphia Stock Exchange after anonymous callers said bombs had been placed in those buildings.
+On August 1, 2006, the CBOT launched side-by-side trading for agricultural futures. Orders can now be traded electronically or placed by pit traders using open outcry, creating a single pool of liquidity.
+On October 17, 2006, the Chicago Mercantile Exchange announced the purchase of the Chicago Board of Trade for $8 billion in stock, joining the two financial institutions as CME Group, Inc.
+On July 9, 2007, the announced merger with the Chicago Mercantile Exchange was approved by CBOT shareholders, "creating the largest derivatives market ever."
+
+
+== See also ==
+
+
+== References ==
+Notes
+
+Bibliography
+
+Durica, Dr. Michael (2006). Product Development for Electronic Derivative Exchanges: The case of the German ifo business climate index as underlying for exchange traded derivatives to hedge business cycle risk. Pro Business. Berlin. ISBN 3-939533-05-X.
+Ryan, Oliver (Nov. 14, 2005). "Chicago's Making A Contracts Killing". FORTUNE, p. 22.Further reading
+
+Emily Lambert (2011). The Futures: The Rise of the Speculator and the Origins of the World's Biggest Markets. Basic Books.
+Erika Olson (2011). Zero-Sum Game: The Rise of the World's Largest Derivatives Exchange. John Wiley & Sons.
+Leg the Spread: A Woman's Adventures Inside the Trillion-Dollar Boys' Club of Commodities Trading by Cari Lynn (Random House/Broadway Books) [1]
+
+
+== External links ==
+Chicago Board of Trade
+Interior Tour of the Chicago Board of Trade: Inside Chicago Walking Tours
+The CME Group Collections at University of Illinois at Chicago
+TradingPitHistory.com A website to preserve the trading pit hand signals used at CBOT
+Chicago Board of Trade Membership overwhelmingly approves restructuring
+CME Group
+Commodities Trader at the Chicago Board of Trade
+News on the Merger: Chicago bulls

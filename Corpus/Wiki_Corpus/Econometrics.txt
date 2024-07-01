@@ -1,0 +1,319 @@
+Econometrics is an application of statistical methods to economic data in order to give empirical content to economic relationships. More precisely, it is "the quantitative analysis of actual economic phenomena based on the concurrent development of theory and observation, related by appropriate methods of inference". An introductory economics textbook describes econometrics as allowing economists "to sift through mountains of data to extract simple relationships". Jan Tinbergen is one of the two founding fathers of econometrics. The other, Ragnar Frisch, also coined the term in the sense in which it is used today.A basic tool for econometrics is the multiple linear regression model. Econometric theory uses statistical theory and mathematical statistics to evaluate and develop econometric methods. Econometricians try to find estimators that have desirable statistical properties including unbiasedness, efficiency, and consistency. Applied econometrics uses theoretical econometrics and real-world data for assessing economic theories, developing econometric models, analysing economic history, and forecasting.
+
+
+== Basic models: linear regression ==
+A basic tool for econometrics is the multiple linear regression model. In modern econometrics, other statistical tools are frequently used, but linear regression is still the most frequently used starting point for an analysis. Estimating a linear regression on two variables can be visualised as fitting a line through data points representing paired values of the independent and dependent variables.
+
+For example, consider Okun's law, which relates GDP growth to the unemployment rate. This relationship is represented in a linear regression where the change in unemployment rate (
+  
+    
+      
+        Δ
+         
+        
+          Unemployment
+        
+      
+    
+    {\displaystyle \Delta \ {\text{Unemployment}}}
+  ) is a function of an intercept (
+  
+    
+      
+        
+          β
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \beta _{0}}
+  ), a given value of GDP growth multiplied by a slope coefficient 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{1}}
+   and an error term, 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  :
+
+  
+    
+      
+        Δ
+         
+        
+          Unemployment
+        
+        =
+        
+          β
+          
+            0
+          
+        
+        +
+        
+          β
+          
+            1
+          
+        
+        
+          Growth
+        
+        +
+        ε
+        .
+      
+    
+    {\displaystyle \Delta \ {\text{Unemployment}}=\beta _{0}+\beta _{1}{\text{Growth}}+\varepsilon .}
+  The unknown parameters 
+  
+    
+      
+        
+          β
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \beta _{0}}
+   and 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{1}}
+   can be estimated. Here 
+  
+    
+      
+        
+          β
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \beta _{0}}
+   is estimated to be 0.83 and 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{1}}
+   is estimated to be -1.77. This means that if GDP growth increased by one percentage point, the unemployment rate would be predicted to drop by 1.77		* 1 points, other things held constant. The model could then be tested for statistical significance as to whether an increase in GDP growth is associated with a decrease in the unemployment, as hypothesized. If the estimate of 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{1}}
+   were not significantly different from 0, the test would fail to find evidence that changes in the growth rate and unemployment rate were related. The variance in a prediction of the dependent variable (unemployment) as a function of the independent variable (GDP growth) is given in polynomial least squares.
+
+
+== Theory ==
+
+Econometric theory uses statistical theory and mathematical statistics to evaluate and develop econometric methods. Econometricians try to find estimators that have desirable statistical properties including unbiasedness, efficiency, and consistency. An estimator is unbiased if its expected value is the true value of the parameter; it is consistent if it converges to the true value as the sample size gets larger, and it is efficient if the estimator has lower standard error than other unbiased estimators for a given sample size. Ordinary least squares (OLS) is often used for estimation since it provides the BLUE or "best linear unbiased estimator" (where "best" means most efficient, unbiased estimator) given the Gauss-Markov assumptions. When these assumptions are violated or other statistical properties are desired, other estimation techniques such as maximum likelihood estimation, generalized method of moments, or generalized least squares are used. Estimators that incorporate prior beliefs are advocated by those who favour Bayesian statistics over traditional, classical or "frequentist" approaches.
+
+
+== Methods ==
+
+Applied econometrics uses theoretical econometrics and real-world data for assessing economic theories, developing econometric models, analysing economic history, and forecasting.Econometrics may use standard statistical models to study economic questions, but most often they are with observational data, rather than in controlled experiments. In this, the design of observational studies in econometrics is similar to the design of studies in other observational disciplines, such as astronomy, epidemiology, sociology and political science. Analysis of data from an observational study is guided by the study protocol, although exploratory data analysis may be useful for generating new hypotheses. Economics often analyses systems of equations and inequalities, such as supply and demand hypothesized to be in equilibrium. Consequently, the field of econometrics has developed methods for identification and estimation of simultaneous equations models. These methods are analogous to methods used in other areas of science, such as the field of system identification in systems analysis and control theory.  Such methods may allow researchers to estimate models and investigate their empirical consequences, without directly manipulating the system.
+One of the fundamental statistical methods used by econometricians is regression analysis. Regression methods are important in econometrics because economists typically cannot use controlled experiments. Typically, the most readily available data is retrospective. However, retrospective analysis of observational data may be subject to omitted-variable bias, reverse causality, or other limitations that cast doubt on causal interpretation of the correlations.In the absence of evidence from controlled experiments, econometricians often seek illuminating natural experiments or apply quasi-experimental methods to draw credible causal inference. The methods include regression discontinuity design, instrumental variables, and difference-in-differences. 
+
+
+== Example ==
+A simple example of a relationship in econometrics from the field of labour economics is:
+
+  
+    
+      
+        ln
+        ⁡
+        (
+        
+          wage
+        
+        )
+        =
+        
+          β
+          
+            0
+          
+        
+        +
+        
+          β
+          
+            1
+          
+        
+        (
+        
+          years of education
+        
+        )
+        +
+        ε
+        .
+      
+    
+    {\displaystyle \ln({\text{wage}})=\beta _{0}+\beta _{1}({\text{years of education}})+\varepsilon .}
+  This example assumes that the natural logarithm of a person's wage is a linear function of the number of years of education that person has acquired. The parameter 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{1}}
+   measures the increase in the natural log of the wage attributable to one more year of education. The term 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   is a random variable representing all other factors that may have direct influence on wage. The econometric goal is to estimate the parameters, 
+  
+    
+      
+        
+          β
+          
+            0
+          
+        
+        
+          
+             and 
+          
+        
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{0}{\mbox{ and }}\beta _{1}}
+   under specific assumptions about the random variable 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  . For example, if 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   is uncorrelated with years of education, then the equation can be estimated with ordinary least squares.
+If the researcher could randomly assign people to different levels of education, the data set thus generated would allow estimation of the effect of changes in years of education on wages. In reality, those experiments cannot be conducted. Instead, the econometrician observes the years of education of and the wages paid to people who differ along many dimensions. Given this kind of data, the estimated coefficient on Years of Education in the equation above reflects both the effect of education on wages and the effect of other variables on wages, if those other variables were correlated with education. For example, people born in certain places may have higher wages and higher levels of education. Unless the econometrician controls for place of birth in the above equation, the effect of birthplace on wages may be falsely attributed to the effect of education on wages.
+The most obvious way to control for birthplace is to include a measure of the effect of birthplace in the equation above. Exclusion of birthplace, together with the assumption that 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   is uncorrelated with education produces a misspecified model. Another technique is to include in the equation additional set of measured covariates which are not instrumental variables, yet render 
+  
+    
+      
+        
+          β
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \beta _{1}}
+   identifiable. An overview of econometric methods used to study this problem were provided by Card (1999).
+
+
+== Journals ==
+The main journals that publish work in econometrics are Econometrica, the Journal of Econometrics, The Review of Economics and Statistics, Econometric Theory, the Journal of Applied Econometrics, Econometric Reviews, The Econometrics Journal,  and the Journal of Business & Economic Statistics.
+
+
+== Limitations and criticisms ==
+
+Like other forms of statistical analysis, badly specified econometric models may show a spurious relationship where two variables are correlated but causally unrelated. In a study of the use of econometrics in major economics journals, McCloskey concluded that some economists report p-values (following the Fisherian tradition of tests of significance of point null-hypotheses) and neglect concerns of type II errors; some economists fail to report estimates of the size of effects (apart from statistical significance) and to discuss their economic importance. She also argues that some economists also fail to use economic reasoning for model selection, especially for deciding which variables to include in a regression.In some cases, economic variables cannot be experimentally manipulated as treatments randomly assigned to subjects. In such cases, economists rely on observational studies, often using data sets with many strongly associated covariates, resulting in enormous numbers of models with similar explanatory ability but different covariates and regression estimates. Regarding the plurality of models compatible with observational data-sets, Edward Leamer urged that "professionals ... properly withhold belief until an inference can be shown to be adequately insensitive to the choice of assumptions".
+
+
+== See also ==
+
+
+== Further reading ==
+Econometric Theory book on Wikibooks
+Giovannini, Enrico Understanding Economic Statistics, OECD Publishing, 2008, ISBN 978-92-64-03312-2
+
+
+== References ==
+
+
+== External links ==
+
+Journal of Financial Econometrics
+Econometric Society
+The Econometrics Journal
+Econometric Links
+Teaching Econometrics (Index by the Economics Network (UK))
+Applied Econometric Association
+The Society for Financial Econometrics
+The interview with Clive Granger – Nobel winner in 2003, about econometrics

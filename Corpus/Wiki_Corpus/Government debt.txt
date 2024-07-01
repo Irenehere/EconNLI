@@ -1,0 +1,90 @@
+A country's gross government debt (also called public debt, or sovereign debt) is the financial liabilities of the government sector.: 81   Changes in government debt over time reflect primarily borrowing due to past government deficits.  A deficit occurs when a government's expenditures exceed revenues.: 79–82   Government debt may be owed to domestic residents, as well as to foreign residents.  If owed to foreign residents, that quantity is included in the country's external debt.In 2020, the value of government debt worldwide was $87.4 US trillion, or 99% measured as a share of gross domestic product (GDP).  Government debt accounted for almost 40% of all debt (which includes corporate and household debt), the highest share since the 1960s.  The rise in government debt since 2007 is largely attributable to the global financial crisis of 2007–2008, and the COVID-19 pandemic.The ability of government to issue debt has been central to state formation and to  state building. Public debt has been linked to the rise of democracy, private financial markets, and modern economic growth.
+
+
+== Measuring government debt ==
+Government debt is typically measured as the gross debt of the general government sector that is in the form of liabilities that are debt instruments.: 207   A debt instrument is a financial claim that requires payment of interest and/or principal by the debtor to the creditor in the future.  Examples include debt securities (such as bonds and bills), loans, and government employee pension obligations.: 207 International comparisons usually focus on general government debt because the level of government responsible for programs (for example, health care) differs across countries and the general government comprises central, state, provincial, regional, local governments, and social security funds.: 18, s2.58, s2.59   The debt of public corporations (such as post offices that provide goods or services on a market basis) is not included in general government debt, following the International Monetary Fund's Government Finance Statistics Manual 2014 (GFSM), which describes recommended methodologies for compiling debt statistics to ensure international comparability.: 33, s2.127 The gross debt of the general government sector is the total liabilities that are debt instruments.  An alternative debt measure is net debt, which is gross debt minus financial assets in the form of debt instruments.: 208, s7.243   Net debt estimates are not always available since some government assets may be difficult to value, such as loans made at concessional rates.: 208–209, s7.246 Debt can be measured at market value or nominal value.  As a general rule, the GFSM says debt should be valued at market value, the value at which the asset could be exchanged for cash.: 55, s3.107   However, the nominal value is useful for a debt-issuing government, as it is the amount that the debtor owes to the creditor.: 191, ft28   If market and nominal values are not available, face value (the undiscounted amount of principal to be repaid at maturity): 56  is used.: 208, s7.238 A country's general government debt-to-GDP ratio is an indicator of its debt burden since GDP measures the value of goods and services produced by an economy during a period (usually a year).  As well, debt measured as a percentage of GDP facilitates comparisons across countries of different size.  The OECD views the general government debt-to-GDP ratio as a key indicator of the sustainability of government finance.
+
+
+== Causes of government debt accumulation ==
+An important reason governments borrow is to act as an economic "shock absorber".  For example, deficit financing can be used to maintain government services during a recession when tax revenues fall and expenses rise (for unemployment benefits, say).  Government debt created to cover costs from major shock events can be particularly beneficial.  Such events would include a major war, like World War II; a public health emergency like the COVID-19 pandemic; or a severe economic downturn as with the financial crisis of 2007–2008.  In the absence of debt financing, when revenues decline during a downturn, a government would need to raise taxes or reduce spending, which would exacerbate the negative event.
+While government borrowing may be desirable at times, a "deficits bias" can arise when there is disagreement among groups in society over government spending.  To counter deficit bias, many countries have adopted  balanced budget rules or restrictions on government debt.  Examples include the "debt anchor" in Sweden; a "debt brake" in Germany and Switzerland; and the European Union's Stability and Growth Pact agreement to maintain a general government gross debt of no more than 60% of GDP.
+
+
+== Historic benchmarks ==
+The ability of government to issue debt has been central to state formation and to  state building. Public debt has been linked to the rise of democracy, private financial markets, and modern economic growth.  For example, in the 17th and 18th centuries England established a parliament that included creditors, as part of a larger coalition, whose authorization had to be secured for the country to borrow or raise taxes.  This institution improved England's ability to borrow because lenders were more willing to hold the debt of a state with democratic institutions that would support debt repayment, versus a state where the monarch could not be compelled to repay debt.As public debt came to be recognized as a safe and liquid investment, it could be used as collateral for private loans.  This created a complementarity between the development of public debt markets and private financial markets.  Government borrowing to finance public goods, such as urban infrastructure, has been associated with modern economic growth.: 6 Written records point to public borrowing as long as two thousand years ago when Greek city-states such as Syracuse borrowed from their citizens.: 10–16   But the founding of the Bank of England in 1694 revolutionised public finance and put an end to defaults such as the Great Stop of the Exchequer of 1672, when Charles II had suspended payments on his bills. From then on, the British Government would never fail to repay its creditors. In the following centuries, other countries in Europe and later around the world adopted similar financial institutions to manage their government debt.
+
+In 1815, at the end of the Napoleonic Wars, British government debt reached a peak of more than 200% of GDP, nearly 887 million pounds sterling.  The debt was paid off over 90 years by running primary budget surpluses (that is, revenues were greater than spending after payment of interest).In 1900, the country with the most total debt was France (£1,086,215,525), followed by Russia (£656,000,000) then the United Kingdom (£628,978,782); on a per-capita basis, the highest-debt countries were New Zealand (£58 12s. per person), the Australian colonies (£52 13s.) and Portugal (£35).In 2018, global government debt reached the equivalent of $66 trillion, or about 80% of global GDP, and by  2020, global government debt reached $87US trillion, or 99% of global GDP.  The COVID-19 pandemic caused public debt to soar in 2020, particularly in advanced economics that put in place sweeping fiscal measures.
+
+
+== Impacts of government debt ==
+Government debt accumulation may lead to a rising interest rate, which can crowd out private investment as governments compete with private firms for limited investment funds.  Some evidence suggests growth rates are lower for countries with government debt greater than around 80 percent of GDP.  A World Bank Group report that analyzed debt levels of 100 developed and developing countries from 1980 to 2008 found that debt-to-GDP ratios above 77% for developed countries (64% for developing countries) reduced future annual economic growth by 0.017 (0.02 for developing countries) percentage points for each percentage point of debt above the threshold.Excessive debt levels may make governments more vulnerable to a debt crisis, where a country is unable to make payments on its debt, and it cannot borrow more.  Crises can be costly, particularly if a debt crisis is combined with a financial/banking crisis which leads to economy-wide deleveraging.  As firms sell assets to pay off debt, asset prices fall which risks an even greater fall in incomes, further depressing tax revenue and requiring governments to drastically cut government services.  Examples of debt crises include the Latin American debt crisis of the early 1980s, and  Argentina's debt crisis in 2001. To help avoid a crisis, governments may want to maintain a "fiscal breathing space".  Historical experience shows that room to double the level of government debt when needed is an approximate guide.Government debt is built up by borrowing when expenditure exceeds revenue, so government debt generally creates an intergenerational transfer.  This is because the beneficiaries of the government's expenditure on goods and services when the debt is created typically differ from the individuals responsible for repaying the debt in the future.  
+An alternative view of government debt, sometimes called the Ricardian equivalence proposition, is that government debt has no impact on the economy if individuals are altruistic and internalize the impact of the debt on future generations.  According to this proposition, while the quantity of government purchases affects the economy, debt financing will have the same impact as tax financing because with debt financing individuals will anticipate the future taxes needed to repay the debt, and so increase their saving and bequests by the amount of government debt.  Such higher individual saving means, for example, that private consumption falls one-for-one with the rise in government debt, so the interest rate would not rise and private investment is not crowded out. 
+
+
+== Risk ==
+
+
+=== Credit (Default) risk ===
+
+Historically, there have been many cases where governments have defaulted on their debts, including Spain in the 16th and 17th centuries, which  nullified its government debt several times; the Confederate States of America, whose debt was not repaid after the American Civil War; and revolutionary Russia after 1917, which refused to accept responsibility for  Imperial Russia's foreign debt.If government debt is issued in a country's own fiat money, it is sometimes considered risk free because the debt and interest can be repaid by money creation.  However, not all governments issue their own currency.  Examples include sub-national governments, like municipal, provincial, and state governments; and countries in the eurozone.  In the Greek government-debt crisis, one proposed solution was for Greece to leave the eurozone and go back to issuing the drachma (although this would have addressed only future debt issuance, leaving substantial existing debt denominated in what would then be a foreign currency).Debt of a sub-national government is generally viewed as less risky for a lender if it is explicitly or implicitly guaranteed by a regional or national level of government.  When New York City declined into what would have been bankrupt status during the 1970s, a bailout came from New York State and the United States national government.  U.S. state and local government debt is substantial — in 2016 their debt amounted to $3 trillion, plus another $5 trillion in unfunded liabilities.
+
+
+=== Inflation risk ===
+A country that issues its own currency may be at low risk of default in local currency, but if a central bank provides finance by buying government bonds (sometimes referred to as debt monetization), this can lead to price inflation.  In an extreme case, in the 1920s  Weimar Germany suffered from hyperinflation when the government used money creation to pay off the national debt following World War I.  
+
+
+=== Exchange rate risk ===
+While U.S. Treasury bonds denominated in U.S. dollars may be considered risk-free to an American purchaser, a foreign investor bears the risk of a fall in the value of the U.S. dollar relative to their home currency.  A government can issue debt in foreign currency to eliminate exchange rate risk for foreign lenders, but that means the borrowing government then bears the exchange rate risk.  Also, by issuing debt in foreign currency, a country cannot erode the value of the debt by means of inflation.  Almost 70% of all debt in a sample of developing countries from 1979 through 2006 was denominated in U.S. dollars.
+
+
+== Implicit and contingent liabilities ==
+Most governments have contingent liabilities, which are obligations that do not arise unless a particular event occurs in the future.: 76   An example of an explicit contingent liability is a public sector loan guarantee, where the government is required to make payments only if the debtor defaults.: 210, s.7.252   Examples of implicit contingent liabilities include ensuring the payment of future social security pension benefits, covering the obligations of subnational governments in the event of a default, and spending for natural disaster relief.: 209–210 Explicit contingent liabilities and net implicit social security obligations should be included as memorandum items to a government's balance sheet,: 69, 76–77, 209–212  but they are not included in government debt because they are not contractual obligations.: 210, s.7.252   Indeed, it is not uncommon for governments to change unilaterally the benefit structure of social security schemes, for example (e.g., by changing the circumstances under which the benefits become payable, or the amount of the benefit).: 76, s4.49   In the U.S. and in many countries, there is no money earmarked for future social insurance payments — the system is called a  pay-as-you-go scheme.  According to the 2018 annual reports from the trustees for the U.S. Social Security and Medicare trust funds,  Medicare is facing a $37 trillion unfunded liability over the next 75 years, and  Social Security is facing a $13 trillion unfunded liability over the same time frame.  Neither of these amounts are included in the U.S. gross general government debt, which in 2020 was $28 trillion.In 2010 the European Commission required EU Member Countries to publish their debt information in standardized methodology, explicitly including debts that were previously hidden in a number of ways to satisfy minimum requirements on local (national) and European (Stability and Growth Pact) level.
+
+
+== See also ==
+Government finance:
+
+Debt crisis
+Government bond
+Municipal bond
+Government budget deficit
+Government spending
+Generational accounting
+Financial repression
+Fiscal policy
+Public finance
+Debt clock
+Sovereign default
+Sovereign credit
+TaxSpecific:
+
+1980s austerity policy in Romania
+Latin American debt crisis
+European debt crisis
+National debt of the United StatesGeneral:
+
+Bond (finance)
+Credit default swap
+Warrant (of Payment)
+List of countries by credit rating
+List of countries by external debt
+List of countries by net international investment position
+List of countries by public debt
+World debt
+
+
+== References ==
+
+
+== External links ==
+
+The IMF Public Financial Management Blog
+OECD government debt statistics
+Japan's Central Government Debt
+Riksgäldskontoret – Swedish national debt office
+What is Sovereign Debt
+United States Treasury, Bureau of Public Debt – The Debt to the Penny and Who Holds It Archived 2011-04-18 at the Wayback Machine
+Slaying the Dragon of Debt, Regional Oral History Office, The Bancroft Library, University of California, Berkeley
+A historical collection of documents on or referring to government spending and fiscal policy, available on FRASER
+Eisner, Robert (1993). "Federal Debt". In David R. Henderson (ed.). Concise Encyclopedia of Economics (1st ed.). Library of Economics and Liberty. OCLC 317650570, 50016270, 163149563
+"Government's Borrowing Power". DebatedWisdom. 3IVIS GmbH. Retrieved 29 October 2016.DatabasesCLYPS dataset on public debt level and composition in Latin America

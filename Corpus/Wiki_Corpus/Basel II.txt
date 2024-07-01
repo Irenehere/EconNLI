@@ -1,0 +1,113 @@
+Basel II is the second of the Basel Accords, which are recommendations on banking laws and regulations issued by the Basel Committee on Banking Supervision. It is now extended and partially superseded by Basel III.
+The Basel II Accord was published in June 2004. It was a new framework for international banking standards, superseding the Basel I framework, to determine the minimum capital that banks should hold to guard against the financial and operational risks. The regulations aimed to ensure that the more significant the risk a bank is exposed to, the greater the amount of capital the bank needs to hold to safeguard its solvency and overall economic stability.  Basel II attempted to accomplish this by establishing risk and capital management requirements to ensure that a bank has adequate capital for the risk the bank exposes itself to through its lending, investment and trading activities. One focus was to maintain sufficient consistency of regulations so to limit competitive inequality amongst internationally active banks.
+Basel II was implemented in 2008 in most major economies. The financial crisis of 2007–2008 intervened before Basel II could become fully effective. As Basel III was negotiated, the crisis was top of mind and accordingly more stringent standards were contemplated and quickly adopted in some key countries including in Europe and the US.
+
+
+== Objective ==
+The final version aims at:
+
+Ensuring that capital allocation is more risk-sensitive;
+Enhancing disclosure requirements which would allow market participants to assess the capital adequacy of an institution;
+Ensuring that credit risk, operational risk and market risk are quantified based on data and formal techniques;
+Attempting to align economic and regulatory capital more closely to reduce the scope for regulatory arbitrage.While the final accord has at large addressed the regulatory arbitrage issue, there are still areas where regulatory capital requirements will diverge from the economic capital.
+
+
+== The accord in operation: Three pillars ==
+Basel II uses a "three pillars" concept – (1) minimum capital requirements (addressing risk), (2) supervisory review and (3) market discipline.
+The Basel I accord dealt with only parts of each of these pillars. For example: concerning the first Basel II pillar, only one risk, credit risk, was dealt with easily while the market risk was an afterthought; operational risk was not dealt with at all.
+
+
+=== The first pillar: Minimum capital requirements ===
+The first pillar deals with maintenance of regulatory capital calculated for three major components of risk that a bank faces: credit risk, operational risk, and market risk. Other risks are not considered fully quantifiable at this stage.
+
+The credit risk component can be calculated in three different ways of varying degree of sophistication, namely standardized approach, Foundation IRB, Advanced IRB. IRB stands for "Internal Rating-Based Approach".
+For operational risk, there are three different approaches – basic indicator approach or BIA, standardized approach or TSA, and the internal measurement approach (an advanced form of which is the advanced measurement approach or AMA).
+For market risk the preferred approach is VaR (value at risk).As the Basel II recommendations are phased in by the banking industry it will move from standardised requirements to more refined and specific requirements that have been developed for each risk category by each bank. The upside for banks that do develop their bespoke risk measurement systems is that they will be rewarded with potentially lower risk capital requirements. In the future, there will be closer links between the concepts of economic and regulatory capital.
+
+
+=== The second pillar: Supervisory review process ===
+This is a regulatory response to the first pillar, giving regulators better 'tools' over those previously available. It also provides a framework for dealing with systemic risk, pension risk, concentration risk, strategic risk, reputational risk, liquidity risk and legal risk, which the accord combines under the title of residual risk. Banks can review their risk management system.
+The Internal Capital Adequacy Assessment Process (ICAAP) is a result of Pillar 2 of Basel II accords.
+
+
+=== The third pillar: Market discipline ===
+This pillar aims to complement the minimum capital requirements and supervisory review process by developing a set of disclosure requirements which will allow the market participants to gauge the capital adequacy of an institution.
+Market discipline supplements regulation as sharing of information facilitates the assessment of the bank by others, including investors, analysts, customers, other banks, and rating agencies, which leads to good corporate governance. The aim of Pillar 3 is to allow market discipline to operate by requiring institutions to disclose details on the scope of application, capital, risk exposures, risk assessment processes, and the capital adequacy of the institution. It must be consistent with how the senior management, including the board, assess and manage the risks of the institution.
+When market participants have a sufficient understanding of a bank's activities and the controls it has in place to manage its exposures, they are better able to distinguish between banking organizations so that they can reward those that manage their risks prudently and penalize those that do not.
+These disclosures are required to be made at least twice a year, except qualitative disclosures providing a summary of the general risk management objectives and policies which can be made annually. Institutions are also required to create a formal policy on what will be disclosed and controls around them along with the validation and frequency of these disclosures. In general, the disclosures under Pillar 3 apply to the top consolidated level of the banking group to which the Basel II framework applies.
+
+
+== Chronological updates ==
+
+
+=== September 2005 update ===
+On September 30, 2005, the four US Federal banking agencies (the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Office of Thrift Supervision) announced their revised plans for the U.S. implementation of the Basel II accord. This delays implementation of the accord for US banks by 12 months.
+
+
+=== November 2005 update ===
+On November 15, 2005, the committee released a revised version of the Accord, incorporating changes to the calculations for market risk and the treatment of double default effects. These changes had been flagged well in advance, as part of a paper released in July 2005.
+
+
+=== July 2006 update ===
+On July 4, 2006, the committee released a comprehensive version of the Accord, incorporating the June 2004 Basel II Framework, the elements of the 1988 Accord  that were not revised during the Basel II process, the 1996 Amendment to the Capital Accord to Incorporate Market Risks, and the November 2005 paper on Basel II: International Convergence of Capital Measurement and Capital Standards: A Revised Framework. No new elements have been introduced in this compilation. This version is now the current version.
+
+
+=== November 2007 update ===
+On November 1, 2007, the Office of the Comptroller of the Currency (U.S. Department of the Treasury) approved a final rule implementing the advanced approaches of the Basel II Capital Accord. This rule establishes regulatory and supervisory expectations for credit risk, through the Internal Ratings Based Approach (IRB), and operational risk, through the Advanced Measurement Approach (AMA), and articulates enhanced standards for the supervisory review of capital adequacy and public disclosures for the largest U.S. banks.
+
+
+=== July 2008 update ===
+On July 16, 2008 the federal banking and thrift agencies (the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision) issued a final guidance outlining the supervisory review process for the banking institutions that are implementing the new advanced capital adequacy framework (known as Basel II).  The final guidance, relating to the supervisory review, is aimed at helping banking institutions meet certain qualification requirements in the advanced approaches rule, which took effect on April 1, 2008.
+
+
+=== Basel 2.5 ===
+
+For public consultation, a series of proposals to enhance the Basel II framework was announced by the Basel Committee in January 2009. It released a consultative package that includes: revisions to the Basel II market risk framework; the guidelines for computing capital for incremental risk in the trading book; and the proposed enhancements to the Basel II framework.A final package of measures, known as Basel 2.5, enhanced the three pillars of the Basel II framework and strengthened the 1996 rules governing trading book capital was issued in July 2009 by the newly expanded Basel Committee. These measures included revisions to the Basel II market-risk framework and the guidelines for computing capital for incremental risk in the trading book. A further consultation was launched in December 2009 which resulted in further updates in 2010.
+
+
+== Implementation ==
+
+
+=== International consistency ===
+One of the most difficult aspects of implementing an international agreement is the need to accommodate differing cultures, varying structural models, complexities of public policy, and existing regulation. Banks' senior management will determine corporate strategy, as well as the country in which to base a particular type of business, based in part on how Basel II is ultimately interpreted by various countries' legislatures and regulators.To assist banks operating with multiple reporting requirements for different regulators according to geographic location, there are several software applications available.  These include capital calculation engines and extend to automated reporting solutions which include the reports required under COREP/FINREP.
+For example, U.S. Federal Deposit Insurance Corporation Chair Sheila Bair explained in June 2007 the purpose of capital adequacy requirements for banks, such as the accord:
+
+There are strong reasons for believing that banks left to their own devices would maintain less capital—not more—than would be prudent. The fact is, banks do benefit from implicit and explicit government safety nets. Investing in a bank is perceived as a safe bet. Without proper capital regulation, banks can operate in the marketplace with little or no capital. And governments and deposit insurers end up holding the bag, bearing much of the risk and cost of failure. History shows this problem is very real ... as we saw with the U.S. banking and S & L crisis in the late 1980s and 1990s. The final bill for inadequate capital regulation can be very heavy. In short, regulators can't leave capital decisions totally to the banks. We wouldn't be doing our jobs or serving the public interest if we did.
+
+
+=== Implementation progress ===
+Regulators in most jurisdictions around the world plan to implement the new accord, but with widely varying timelines and use of the varying methodologies being restricted. The United States' various regulators have agreed on a final approach. They have required the Internal Ratings-Based approach for the largest banks, and the standardized approach will be available for smaller banks.In India, Reserve Bank of India has implemented the Basel II standardized norms on 31 March 2009 and is moving to internal ratings in credit and AMA (Advanced Measurement Approach) norms for operational risks in banks.
+Existing RBI norms for banks in India (as of September 2010): Common equity (incl of buffer): 3.6% (Buffer Basel 2 requirement requirements are zero); Tier 1 requirement: 6%. Total Capital: 9% of risk-weighted assets.
+According to the draft guidelines published by RBI the capital ratios are set to become: Common Equity as 5% + 2.5% (Capital Conservation Buffer) + 0–2.5% (Counter Cyclical Buffer), 7% of Tier 1 capital and minimum capital adequacy ratio (excluding Capital Conservation Buffer) of 9% of Risk Weighted Assets. Thus the actual capital requirement is between 11 and 13.5% (including Capital Conservation Buffer and Counter Cyclical Buffer).In response to a questionnaire released by the Financial Stability Institute (FSI), 95 national regulators indicated they were to implement Basel II, in some form or another, by 2015.The European Union has already implemented the Accord via the EU Capital Requirements Directives and many European banks already report their capital adequacy ratios according to the new system. All the credit institutions adopted it by 2008–09.
+Australia, through its Australian Prudential Regulation Authority, implemented the Basel II Framework on 1 January 2008.
+
+
+== Global financial crisis ==
+The role of Basel II, both before and after the global financial crisis, has been discussed widely. While some argue that the crisis demonstrated weaknesses in the framework, others have criticized it for actually increasing the effect of the crisis. In response to the financial crisis, the Basel Committee on Banking Supervision published revised global standards, known as Basel III. The Committee claimed that the new standards would lead to a better quality of capital, increased coverage of risk for capital market activities and better liquidity standards among other benefits.
+Nout Wellink, former Chairman of the BCBS, wrote an article in September 2009 outlining some of the strategic responses which the Committee should take as response to the crisis. He proposed a stronger regulatory framework which comprises five key components: (a) better quality of regulatory capital, (b) better liquidity management and supervision, (c) better risk management and supervision including enhanced Pillar 2 guidelines, (d)
+enhanced Pillar 3 disclosures related to securitization, off-balance sheet exposures and trading activities which would promote transparency, and (e) cross-border supervisory cooperation. Given one of the major factors which drove the crisis was the evaporation of liquidity in the financial markets, the BCBS also published principles for better liquidity management and supervision in September 2008.A recent OECD study suggest that bank regulation based on the Basel accords encourage unconventional business practices and contributed to or even reinforced adverse systemic shocks that materialised during the financial crisis. According to the study, capital regulation based on risk-weighted assets encourages innovation designed to circumvent regulatory requirements and shifts banks' focus away from their core economic functions. Tighter capital requirements based on risk-weighted assets, introduced in the Basel III, may further contribute to these skewed incentives. New liquidity regulation, notwithstanding its good intentions, is another likely candidate to increase bank incentives to exploit regulation.
+Think-tanks such as the World Pensions Council (WPC) have also argued that European legislators have pushed dogmatically and naively for the adoption of the Basel II recommendations, adopted in 2005, transposed in European Union law through the Capital Requirements Directive (CRD), effective since 2008. In essence, they forced private banks, central banks, and bank regulators to rely more on assessments of credit risk by private rating agencies. Thus, part of the regulatory authority was abdicated in favour of private rating agencies.Long before the implementation of Basel II George W. Stroke and Martin H. Wiggers pointed out, that a global financial and economic crisis will come, because of its systemic dependencies on a few rating agencies. After the breakout of the crisis Alan Greenspan agreed to this opinion in 2007. At least the Financial Crisis Inquiry Report confirmed this point of view in 2011.
+
+
+== See also ==
+Basel IA
+Solvency II
+
+
+== References ==
+
+
+== External links ==
+Bank for International Settlements (BIS)Basel II: Revised international capital framework
+Basel II: International Convergence of Capital Measurement and Capital Standards: a Revised Framework (BCBS)
+Basel II: International Convergence of Capital Measurement and Capital Standards: a Revised Framework (BCBS) (November 2005 Revision)
+Basel II: International Convergence of Capital Measurement and Capital Standards: a Revised Framework, Comprehensive Version (BCBS) (June 2006 Revision)Office of the Comptroller of the Currency (United States)Agencies Issue Final Guidance on Supervisory Review Process (Pillar 2) Related to Implementation of Basel II Advanced Approaches
+OCC Approves Basel II Capital RuleUK governmentCapital Requirements Directive/Basel 2 (FSA)
+EU Directive implementing the new Basel 2 AccordHong Kong Monetary Authority (HKMA)Validating Risk Rating Systems under the IRB Approaches, HKMA
+Return of capital adequacy ratio (final version) – Completion instructions, HKMA
+Return Templates of capital Adequacy Ratio, HKMAOthersAn academic response to Basel II
+Coherent measures of risk (a widely quoted paper)
+FRB Boston paper on measurement of operational risk
+Daníelsson, Jón. "The Emperor Has No Clothes:  Limits to Risk Modelling." Journal of Banking and Finance, 2002, 26, pp. 1273–96.
+Canada Capital Adequacy Requirements OSFI
+A Nontechnical Analysis of Basel I and II

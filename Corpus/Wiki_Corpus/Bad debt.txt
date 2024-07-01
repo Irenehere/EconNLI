@@ -1,0 +1,58 @@
+In finance, bad debt, occasionally called uncollectible accounts expense, is a monetary amount owed to a creditor that is unlikely to be paid and for which the creditor is not willing to take action to collect for various reasons, often due to the debtor not having the money to pay, for example due to a company going into liquidation or insolvency. A high bad debt rate is caused when a business is not effective in managing its credit and collections process. If the credit check of a new customer is not thorough or the collections team isn’t proactively reaching out to recover payments, a company faces the risk of a high bad debt. There are various technical definitions of what constitutes a bad debt, depending on accounting conventions, regulatory treatment and the institution provisioning. In the United States, bank loans with more than ninety days' arrears become "problem loans". Accounting sources advise that the full amount of a bad debt be written off to the profit and loss account or a provision for bad debts as soon as it is foreseen.
+
+
+== Doubtful debt ==
+Doubtful debts are those debts which a business or individual is unlikely to be able to collect. The reasons for potential non-payment can include disputes over supply, delivery, the condition of the item, or the appearance of financial stress within a customer's operations. When such a dispute occurs, it is prudent to add this debt or portion thereof to the doubtful debt reserve. This is done to avoid over-stating the assets of the business as trade debtors are reported net of doubtful debt.  When there is no longer any doubt that a debt is uncollectible, the debt becomes bad. An example of a debt becoming uncollectible would be: once final payments have been made from the liquidation of a customer's limited liability company, no further action can be taken.
+
+
+== Doubtful debt reserve ==
+Also known as a bad debt reserve, this is a contra account listed within the current asset section of the balance sheet. The doubtful debt reserve holds a sum of money to allow a reduction in the accounts receivable ledger due to non-collection of debts. This can also be referred to as an allowance for bad debts. Once a doubtful debt becomes uncollectible, the amount will be written off.
+
+
+== Accounting practices ==
+
+
+=== United States ===
+In financial accounting and finance, bad debt is the portion of receivables that can no longer be collected, typically from accounts receivable or loans. Bad debt in accounting is considered an expense.
+There are two methods to account for bad debt:
+
+Direct write off method (Non-GAAP): a receivable that is not considered collectible is charged directly to the income statement.
+Allowance method (GAAP): an estimate is made at the end of each fiscal year of the amount of bad debt. This is then accumulated in a provision that is then used to reduce specific receivable accounts as and when necessary.Allowance for bad debts are amounts expected to be uncollected but that are still possible to be collected (when there is no other possibility for collection, they are considered uncollectible accounts). For example, if gross receivables are US$100,000 and the amount that is expected to remain uncollected is $5,000, net receivables will be US$95,000.The matching principle of accounting calls for revenues and expenses to be recorded in the period in which they are incurred. When a sale is made on account, revenue is recorded along with account receivable. Because there is an inherent risk that clients might default on payment, accounts receivable have to be recorded at net realizable value. The portion of the account receivable that is estimated to be not collectible is set aside in a contra-asset account called "allowance for doubtful accounts". At the end of each accounting cycle, adjusting entries are made to charge uncollectible receivable as expense. The actual amount of uncollectible receivable is written off as an expense from allowance for doubtful accounts.
+
+
+==== Taxability ====
+Some types of bad debts, whether business or non-business-related, are considered tax deductible. Section 166 of the Internal Revenue Code provides the requirements for which a bad debt to be deducted.
+
+
+==== Section 166 ====
+Section 166 limits the amount of the deduction. There must be an amount of tax capital, or basis, in question to be recovered. In other words, there is an adjusted basis for determining a gain or loss for the debt in question.
+An additional factor in applying the criteria is the classification of the debt (non-business of business).
+
+
+==== Business bad debts ====
+Business bad debts are debts closely related to your business or trade. They are created or gained through transactions directly or closely related to your business or trade. A loss from a business bad debt occurs once the debt acquired or gained has become wholly or partly worthless.
+Bad business debt examples include:
+
+Credit sales to customers
+Loans to clients, suppliers, distributers, and employees
+Business loan guaranteesWhen deducting a business bad debt, the deduction is figured through the taxable income that is based on your business's full or partial gross income.
+
+
+==== Nonbusiness bad debts ====
+Nonbusiness bad debts are all other debts that are not business bad debts. To deduct a nonbusiness bad debt, it has to be completely worthless. A debt becomes worthless when it is reasonable to believe it will never be repaid after you have taken the steps to collect it. The deduction can only be taken in the year that the debt is determined to be worthless.
+
+
+==== Mortgage bad debt ====
+Mortgages that may be non-collectible can be written off as bad debt as well. However, they fall under a slightly different set of rules. As stated above, they can only be written off against tax capital, or income, but they are limited to a deduction of $3,000 per year. Any loss above that can be carried over to the following years at the same amount. Thus a $60,000 mortgage bad debt will take 20 years to write off. Most owners of junior (2nd, 3rd, etc.) fall into this when the 1st mortgage forecloses with no equity remaining to pay on the junior liens.
+There is one option available for mortgages not available for the business debt: donation. The difference is that a valuation of $10,000 can be taken without an appraisal. An appraisal may be able to increase the value to more and must be based on other similar mortgages that actually sold, but generally it is less than the face value. The real difference is that as a donation the amount of deduction is limited to up to 50% of adjusted gross income per year with carryovers taken over the next 5 years. This is because the deduction is now classified as a donation instead of a bad debt write off and uses Schedule A instead of Schedule D. This can significantly increase the current year's tax reductions compared to the simple write off. The caveat is that it must be completed prior to the date of final foreclosure and loss. The process is simple, but finding a charity to cooperate with is difficult since there will be no cash value as soon as the 1st mortgage forecloses.
+
+
+==== Problem loan ====
+Problem loans are loans that borrowers do not pay back because they are unable to or do not want to. These loans arise due to banks giving excess loans, loans with difficult repayment terms, and improper documentation.
+
+
+== References ==
+
+
+== External links ==
+NYSSCPA's glossary of accounting terms

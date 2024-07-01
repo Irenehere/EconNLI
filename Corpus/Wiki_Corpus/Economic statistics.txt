@@ -1,0 +1,50 @@
+Economic statistics is a topic in applied statistics and applied economics that concerns the collection, processing, compilation, dissemination, and analysis of economic data. It is closely related to business statistics and econometrics. It is also common to call the data themselves "economic statistics", but for this usage, "economic data" is the more common term.
+
+
+== Overview ==
+The data of concern to economic statistics may include those of an economy within a region, country, or group of countries. Economic statistics may also refer to a subtopic of official statistics for data produced by official organizations (e.g. national statistical services, intergovernmental organizations such as United Nations, European Union or OECD, central banks, and ministries).
+Analyses within economic statistics both make use of and provide the empirical data needed in economic research, whether descriptive or econometric. They are a key input for decision making as to economic policy. The subject includes statistical analysis of topics and problems in microeconomics, macroeconomics, business, finance, forecasting, data quality, and policy evaluation. It also includes such considerations as what data to collect in order to quantify some particular aspect of an economy and of how best to collect in any given instance.
+
+
+== See also ==
+Business statistics
+Econometrics
+Survey of production
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+Allen, R. G. D., 1956. "Official Economic Statistics," Economica, N.S., 23(92), pp.  360-365.
+Crum, W. L., 1925. An Introduction to the Methods of Economic Statistics, AW Shaw Co.
+Giovanini, Enrico, 2008. Understanding Economic Statistics. OECD Publishing. ISBN 978-92-64-03312-2
+Fox, Karl A., 1968.  Intermediate Economic Statistics, Wiley. Description.
+Kane, Edward J., 1968. Economic Statistics and Econometrics, Harper and Row.
+Morgenstern, Oskar, [1950] 1963. On the Accuracy of Economic Observations. 2nd rev. ed. ("The Accuracy of Economic Observation" ch. 16).   Princeton University Press.
+Mirer, Thad W., 1995. Economic Statistics and Econometrics, 3rd ed. Prentice Hall. Description.
+Persons, Warren M., 1910.  "The Correlation of Economic Statistics," Publications of the American Statistical Association, 12(92), pp. 287-322.
+Wonnacott, Thomas H., and Ronald J. Wonnacott, 1990. Introductory Statistics for Business and Economics, 4th ed., Wiley.
+Ullah, Aman, and  David E. A. Giles, ed., 1998. Handbook of Applied Economic Statistics, Marcel Dekker.  Description, preview, and back cover.
+Zellner, Arnold, ed. 1968. Readings in Economic Statistics and Econometrics, Little, Brown & Co.
+
+
+== Journals ==
+Journal of Business and Economic Statistics
+Review of Economics and Statistics (from Review of Economic Statistics, 1919–47)
+
+
+== External links ==
+
+Economic statistics section United Nations Economic Commission for Europe
+Statistics from UCB Libraries GovPubs
+Economic statistics: The White House pages on U.S. economic statistics
+Historical Financial Statistics: Center for Financial Stability (emphasizes statistics before about 1950)
+Fundamental principles of official statistics:  United Nations, Statistics Division
+Economic statistics (papers from methodological meetings): UNECE
+OANDA FXEconostats: Historical graphical economic data of major industrial countries
+OECD Official Statistics Organisation for Economic Cooperation and Development (OECD) Statistics
+Eurostat: The European Commission's Statistical Office

@@ -1,0 +1,50 @@
+William Forsyth Sharpe (born June 16, 1934) is an American economist.  He is the STANCO 25 Professor of Finance, Emeritus at Stanford University's Graduate School of Business, and the winner of the 1990 Nobel Memorial Prize in Economic Sciences.
+Sharpe was one of the originators of the capital asset pricing model (CAPM). He created the Sharpe ratio for risk-adjusted investment performance analysis, and he contributed to the development of the binomial method for the valuation of options, the gradient method for asset allocation optimization, and returns-based style analysis for evaluating the style and performance of investment funds.
+
+
+== Early years ==
+William Sharpe was born on June 16, 1934, in Boston, Massachusetts. As his father was in the National Guard, the family moved several times during World War II, until they finally settled in Riverside, California. Sharpe spent the rest of his childhood and teenage years in Riverside, graduating from Riverside Polytechnic High School in 1951. He then enrolled at the University of California, Berkeley planning to pursue a degree in medicine. However, in the first year he decided to change his focus and moved to the University of California, Los Angeles to study business administration. Finding that he was not interested in accounting, Sharpe had a further change in preferences, finally majoring in economics. During his undergraduate studies, two professors had a large influence on him: Armen Alchian, a professor of economics who became his mentor, and J. Fred Weston, a professor of finance who first introduced him to Harry Markowitz's papers on portfolio theory. While at UCLA, Sharpe became a member of the Theta Xi Fraternity and Phi Beta Kappa Society. He earned a B.A. in 1955, an M.A. in 1956, and a Ph.D. in 1961, all from UCLA.
+
+
+== Academic training ==
+After graduation, in 1956 Sharpe joined the RAND Corporation. While doing research at RAND, he also started work for a Ph.D. at UCLA under the supervision of Armen Alchian. While searching for a dissertation topic, J. Fred Weston suggested him to ask Harry Markowitz at RAND. Working closely with Markowitz, who in practice "filled a role similar to that of dissertation advisor", Sharpe earned his Ph.D. in 1961 with a thesis on a single factor model of security prices, also including an early version of the security market line.
+
+
+== Professional career ==
+In 1961 after finishing his graduate studies, Sharpe started teaching at the University of Washington. He started research on generalizing the results in his dissertation to an equilibrium theory of asset pricing, work that yielded the Capital asset pricing model. He submitted the paper describing CAPM to the Journal of Finance in 1962. However, ironically, the paper which would become one of the foundations of financial economics was initially considered irrelevant and rejected from publication. Sharpe had to wait for the editorial staff to change until finally getting the paper published in 1964. At the same time, the CAPM was independently developed by John Lintner, Jan Mossin, and Jack Treynor.
+In 1968 Sharpe moved to the University of California, Irvine but stayed there for only two years, and in 1970 he moved, this time to Stanford University. While teaching at Stanford, Sharpe continued research in the field of investments, in particular on portfolio allocation and pension funds. He also became directly involved in the investment process by offering consultance to Merrill Lynch and to Wells Fargo, thus having the opportunity to put in practice the prescriptions of financial theory. In 1986, in collaboration with the Frank Russell Company, he founded Sharpe-Russell Research, a firm specialized in providing research and consultancy on asset allocation to pension funds and foundations. His 1988 paper, 'Determining a Fund's Effective Asset Mix', established the model later referred to as returns-based style analysis.
+
+
+== Later career ==
+In 1989 he retired from teaching, retaining the position of Professor Emeritus of Finance at Stanford, choosing to focus on his consulting firm, now named William F. Sharpe Associates.  In 1996, he co-founded Financial Engines (NASDAQ: FNGN) with Stanford Professor Joseph Grundfest and Silicon Valley lawyer Craig W. Johnson. Financial Engines uses technology to implement many of his financial theories in portfolio management.
+Today, Financial Engines has over 200 employees and is the leader in automated retirement plan investment advice and management, with more than $200 Billion in managed retirement accounts, providing advice and managed account services to employees in over 1000 major corporations. In March 2018, Financial Engines was acquired for $3 Billion in cash.Sharpe served as a President of the American Finance Association and he is a trustee of the Economists for Peace and Security. He is also the recipient of a Doctor of Humane Letters, Honoris Causa from DePaul University, a Doctor Honoris Causa from the University of Alicante (Spain), a Doctor Honoris Causa from the University of Vienna and the UCLA Medal, UCLA's highest honor.
+Since 2009, Sharpe has been an advocate of "adaptive asset allocation" strategies, which seek to exploit recent market behaviour to optimise asset allocation and thus maximise returns and reduce volatility
+
+
+== Selected publications ==
+Papers
+
+Sharpe, William F. (1963). "A Simplified Model for Portfolio Analysis". Management Science. 9 (2): 277–93. doi:10.1287/mnsc.9.2.277. S2CID 55778045.
+Sharpe, William F. (1964). "Capital Asset Prices – A Theory of Market Equilibrium Under Conditions of Risk". Journal of Finance. XIX (3): 425–442. doi:10.2307/2977928. hdl:10.1111/j.1540-6261.1964.tb02865.x. JSTOR 2977928.Books
+
+Portfolio Theory and Capital Markets (McGraw-Hill, 1970 and 2000). ISBN 0-07-135320-8
+Asset Allocation Tools (Scientific Press, 1987)
+Fundamentals of Investments (with Gordon J. Alexander and Jeffrey Bailey, Prentice-Hall, 2000). ISBN 0-13-292617-2
+Investments (with Gordon J. Alexander and Jeffrey Bailey, Prentice-Hall, 1999). ISBN 0-13-010130-3
+Sharpe, William F. (2012). William F Sharpe: Selected Works. World Scientific-Nobel Laureate Series: Vol. 2. World Scientific. p. 712. ISBN 978-981-4329-95-8.
+
+
+== See also ==
+Modern portfolio theory
+
+
+== References ==
+
+
+== External links ==
+Personal web site of Dr. Sharpe
+IDEAS/RePEc
+"William F. Sharpe (1934– )". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+William F. Sharpe publications indexed by Google Scholar
+"William F. Sharpe". JSTOR.
+William F. Sharpe on Nobelprize.org  including the Prize Lecture December 7, 1990  Capital Asset Prices with and without Negative Holding

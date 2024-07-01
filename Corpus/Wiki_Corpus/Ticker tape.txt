@@ -1,0 +1,57 @@
+Ticker tape was the earliest electrical dedicated financial communications medium, transmitting stock price information over telegraph lines, in use from around 1870 through 1970. It consisted of a paper strip that ran through a machine called a stock ticker, which printed abbreviated company names as alphabetic symbols followed by numeric stock transaction price and volume information. The term "ticker" came from the sound made by the machine as it printed.
+The ticker tape revolutionized financial markets, as it relayed information from trading floors continuously and simultaneously across geographical distances. Paper ticker tape became obsolete in the 1960s, as television and computers were increasingly used to transmit financial information. The concept of the stock ticker lives on, however, in the scrolling electronic tickers seen on brokerage walls and on news and financial television channels.
+Ticker tape stock price telegraphs were invented in 1867 by Edward A. Calahan, an employee of the American Telegraph Company who later founded The ADT Corporation.
+
+
+== History ==
+Although telegraphic printing systems were first invented by Royal Earl House in 1846, early models were fragile, required hand-cranked power, frequently went out of synchronization between sender and receiver, and did not become popular in widespread commercial use. David E. Hughes improved the printing telegraph design with clockwork weight power in 1856, and his design was further improved and became viable for commercial use when George M. Phelps devised a resynchronization system in 1858. The first stock price ticker system using a telegraphic printer was invented by Edward A. Calahan in 1863; he unveiled his device in New York City on November 15, 1867. Early versions of stock tickers provided the first mechanical means of conveying stock prices ("quotes"), over a long distance via telegraph wiring. In its infancy, the ticker used the same symbols as Morse code as a medium for conveying messages. One of the earliest practical stock ticker machines, the Universal Stock Ticker developed by Thomas Edison in 1869, used alphanumeric characters with a printing speed of approximately one character per second.
+Previously, stock prices had been hand-delivered via written or verbal messages. Since the useful time-span of individual quotes is very brief, they generally had not been sent long distances; aggregated summaries, typically for one day, were sent instead. The increase in speed provided by the ticker allowed for faster and more exact sales. Since the ticker ran continuously, updates to a stock's price whenever the price changed became effective much faster and trading became a more time-sensitive matter. For the first time, trades were being done in what is now thought of as near real-time.
+
+By the 1880s, there were about a thousand stock tickers installed in the offices of New York bankers and brokers. In 1890, members of the exchange agreed to create the New York Quotation Co., buying up all other ticker companies to ensure accuracy of reporting of price and volume activity.
+
+
+== Technology ==
+Stock ticker machines are an ancestor of the modern computer printer, being one of the first applications of transmitting text over a wire to a printing device, based on the printing telegraph. This used the technology of the then-recently invented telegraph machines, with the advantage that the output was readable text, instead of the dots and dashes of Morse code. A special typewriter designed for operation over telegraph wires was used at the opposite end of the telegraph wire connection to the ticker machine. Text typed on the typewriter was displayed on the ticker machine at the opposite end of the connection.
+The machines printed a series of ticker symbols (usually shortened forms of a company's name), followed by brief information about the price of that company's stock; the thin strip of paper on which they were printed was called ticker tape. The word ticker comes from the distinct tapping (or ticking) noise the machines made while printing. Pulses on the telegraph line made a letter wheel turn step by step until the correct symbol was reached and then printed. A typical 32-symbol letter wheel had to turn on average 15 steps until the next letter could be printed resulting in a very slow printing speed of one character per second. In 1883, ticker transmitter keyboards resembled the keyboard of a piano with black keys indicating letters and the white keys indicating numbers and fractions, corresponding to two rotating type wheels in the connected ticker tape printers.Newer and more efficient tickers became available in the 1930s, but these newer and better tickers still had an approximate 15- to 20-minute delay.  Ticker machines became obsolete in the 1960s, replaced by computer networks; none have been manufactured for use for decades. However, working reproductions of at least one model are now being manufactured for museums and collectors.Simulated ticker displays, named after the original machines, still exist as part of the display of television news channels and on some websites—see news ticker. One of the most famous outdoor displays is the simulated ticker scrolling marquee located at One Times Square in New York City.
+Ticker tapes then and now contain generally the same information. The ticker symbol is a unique set of characters used to identify the company. The shares traded is the volume for the trade being quoted.  Price traded refers to the price per share of a particular trade. Change direction is a visual cue showing whether the stock is trading higher or lower than the previous trade, hence the terms downtick and uptick. Change amount refers to the difference in price from the previous day's closing. Many today include color to indicate whether a stock is trading higher than the previous day's (green), lower than previous (red), or has remained unchanged (blue or white).
+
+
+== Other uses ==
+
+
+=== Baseball ===
+In the early days of baseball, before electronic scoreboards, manual score turners used a ticker to get the latest scores from around the league. Today, computers and electronic scoreboards have replaced the manual scoreboard and the ticker.
+
+
+=== Parades ===
+Used ticker tape was used as confetti, to be thrown from the windows above parades either cut up into scraps or thrown as whole spools, primarily in lower Manhattan; this became known as a ticker tape parade. Ticker tape parades generally celebrated some significant event, such as the end of World War I and World War II, or the safe return of one of the early astronauts.
+Ticker tape parades are still held in New York City, specifically in the "Canyon of Heroes" in Manhattan, most often when local sports teams win a championship. However, actual ticker tape is not used any longer during these parades; often, pieces of paper from paper shredders are used as a convenient source of confetti.
+
+
+=== Art ===
+Ticker tape was also incorporated into some of the weaver Dorothy Liebes' unusual art textiles.
+
+
+== See also ==
+Commodity tick
+Don't fight the tape
+Punched tape
+Stock market data systems
+Telex
+Teleprinter
+
+
+== References ==
+
+
+== External links ==
+
+TICKERPLAY - Ticker Tape - Solution for all ticker tape
+Exchanges - Ticker Tape Terminology The Investment FAQ. 19 September 1999. 20 April 2007
+Thomas Edison's Ticker Tape Patent
+Ticker Tape Digest (brief history of the ticker tape)
+Engineering and Technology History Wiki: The Stock Ticker
+WorldWideSchool: Edison and the Stock Ticker
+The Stock Ticker Company: History of ticker machines.
+Software emulating stock ticker tape on your desktop
+Telegraph History: Some Early Days of Western Union's Stock Ticker Service, 1871-1910 by Charles R. Tilghman

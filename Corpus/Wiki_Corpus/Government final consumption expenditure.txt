@@ -1,0 +1,31 @@
+Government final consumption expenditure  (GFCE) is an aggregate transaction amount on a country's national income accounts representing government expenditure on goods and services that are used for the direct satisfaction of individual needs (individual consumption) or collective needs of members of the community (collective consumption).
+It consists of the value of the goods and services produced by the government itself other than own-account capital formation and sales and of purchases by the government of goods and services produced by market producers that are supplied to households – without any transformation – as social transfers in kind (for more detail, see, for example, Lequiller and Blades (2014))
+
+
+== Data ==
+Data on government final consumption expenditure shed light on the involvement of governments in providing goods and services for the direct needs of the population. A high government share in the provision of individual consumption goods and services is often found in countries known as welfare states. This may be illustrated by looking at data for the European Union (downloadable from Eurostat's database providing figures on government expenditure):
+
+Approximately one quarter of the economy-wide final consumption expenditure in the European Union of 27 member states is made by governments; countries with relatively large government shares in final consumption expenditure are Denmark, Luxembourg, the Netherlands, Finland and Sweden (around one-third of their final consumption expenditure).
+60% of the governments' final consumption expenditure in the European Union of 27 member states is individual consumption; the largest shares of individual consumption in government final consumption expenditure are observed for Sweden (more than 70%).
+These findings mirror the importance of social transfers in kind in European countries, where the share of household final consumption expenditure in actual final consumption of the households is often less than 80%.
+
+
+== See also ==
+Final consumption expenditure
+Household final consumption expenditure
+Government spending
+
+
+== Notes ==
+
+
+== References ==
+Databases
+Eurostat: National accounts data (including government final consumption expenditure), member states of the European Union and other countries
+Further information:
+Eurostat: National accounts website
+F. Malherbe: Le site de la comptabilité nationale (in French language)
+
+
+== External links ==
+Government final consumption expenditure

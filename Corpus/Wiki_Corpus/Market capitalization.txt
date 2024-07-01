@@ -1,0 +1,54 @@
+Market capitalization, sometimes referred to as market cap, is the total value of a publicly traded company's outstanding common shares owned by stockholders.Market capitalization is equal to the market price per common share multiplied by the number of common shares outstanding. Since outstanding stock is bought and sold in public markets, capitalization could be used as an indicator of public opinion of a company's net worth and is a determining factor in some forms of stock valuation.
+
+
+== Description ==
+Market capitalization is sometimes used to rank the size of companies. It measures only the equity component of a company's capital structure, and does not reflect management's decision as to how much debt (or leverage) is used to finance the firm. A more comprehensive measure of a firm's size is enterprise value (EV), which gives effect to outstanding debt, preferred stock, and other factors. For insurance firms, a value called the embedded value (EV) has been used.
+It is also used in ranking the relative size of stock exchanges, being a measure of the sum of the market capitalizations of all companies listed on each stock exchange. The total capitalization of stock markets or economic regions may be compared with other economic indicators (e.g. the Buffett indicator). The total market capitalization of all publicly traded companies in 2020 was approximately US$93 trillion.
+
+
+=== Historical estimates of world market cap ===
+Total market capitalization of all publicly traded companies in the world from 1975 to 2020.
+
+
+== Calculation ==
+Market cap is given by the formula 
+  
+    
+      
+        
+          MC
+        
+        =
+        N
+        ×
+        P
+      
+    
+    {\textstyle {\text{MC}}=N\times P}
+  , where MC is the market capitalization, N is the number of common shares outstanding, and P is the market price per common share.For example, if a company has 4 million common shares outstanding and the closing price per share is $20, its market capitalization is then $80 million. If the closing price per share rises to $21, the market cap becomes $84 million. If it drops to $19 per share, the market cap falls to $76 million. This is in contrast to mercantile pricing where purchase price, average price and sale price may differ due to transaction costs.
+Not all of the outstanding shares trade on the open market.  The number of shares trading on the open market is called the float.  It is equal to or less than N because N includes shares that are restricted from trading.  The free-float market cap uses just the floating number of shares in the calculation, generally resulting in a smaller number.
+
+
+== Market cap terms ==
+Traditionally, companies were divided into large-cap, mid-cap, and small-cap. The terms mega-cap and micro-cap have also since come into common use, and nano-cap is sometimes heard. Different numbers are used by different indexes; there is no official definition of, or full consensus agreement about, the exact cutoff values. The cutoffs may be defined as percentiles rather than in nominal dollars. The definitions expressed in nominal dollars need to be adjusted over decades due to inflation, population change, and overall market valuation (for example, $1 billion was a large market cap in 1950, but it is not very large now), and market caps are likely to be different country to country.
+
+
+== Cryptocurrencies ==
+The term market capitalization has also been applied to cryptocurrencies in recent years. Unlike the money supply of a fiat currency, a cryptocurrency market cap is denominated in some other currency.
+
+
+== See also ==
+List of public corporations by market capitalization
+List of countries by stock market capitalization
+Market price
+Authorised capital
+Treasury stock
+
+
+== References ==
+
+
+== External links ==
+
+How to Value Assets – from the Washington State (U.S.) government web site
+Year-end market capitalization by country – World Bank, 1988–2018

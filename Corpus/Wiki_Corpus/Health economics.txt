@@ -1,0 +1,171 @@
+Health economics is a branch of economics concerned with issues related to efficiency, effectiveness, value and behavior in the production and consumption of health and healthcare. Health economics is important in determining how to improve health outcomes and lifestyle patterns through interactions between individuals, healthcare providers and clinical settings. In broad terms, health economists study the functioning of healthcare systems and health-affecting behaviors such as smoking, diabetes, and obesity.
+One of the biggest difficulties regarding healthcare economics is that it does not follow normal rules for economics. Price and Quality are often hidden by the third-party payer system of insurance companies and employers.  Additionally, QALY (Quality Adjusted Life Years), one of the most commonly used measurements for treatments, is very difficult to measure and relies upon assumptions that are often unreasonable.A seminal 1963 article by Kenneth Arrow is often credited with giving rise to health economics as a discipline. His theory drew conceptual distinctions between health and other goods. Factors that distinguish health economics from other areas include extensive government intervention, intractable uncertainty in several dimensions, asymmetric information, barriers to entry, externality and the presence of a third-party agent.  In healthcare, the third-party agent is the patient's health insurer, who is financially responsible for the healthcare goods and services consumed by the insured patient.
+Health economists evaluate multiple types of financial information: costs, charges and expenditures.
+Uncertainty is intrinsic to health, both in patient outcomes and financial concerns. The knowledge gap that exists between a physician and a patient creates a situation of distinct advantage for the physician, which is called asymmetric information.
+Externalities arise frequently when considering health and health care, notably in the context of the health impacts as with infectious disease or opioid abuse . For example, making an effort to avoid catching the common cold affects people other than the decision maker: vii–xi  or finding sustainable, humane and effective solutions to the opioid epidemic.
+
+
+== Scope ==
+The scope of health economics is neatly encapsulated by Alan Williams' "plumbing diagram" dividing the discipline into eight distinct topics:
+
+What influences health? (other than healthcare)
+What is health and what is its value?
+The demand for healthcare
+The supply of healthcare
+Micro-economic evaluation at treatment level
+Market equilibrium
+Evaluation at whole system level
+Planning, budgeting and monitoring mechanisms.
+
+
+== The development of health economics ==
+In the third century BC, Aristotle, an ancient Greek thinker, once talked about the relationship between farmers and doctors in production and exchange. In the 17th century, William Petty, a British classical economist, pointed out that the medical and health expenses spent on workers would bring economic benefits.
+Presently, contemporary health economics stands as a prominent interdisciplinary field, connecting economic theory with healthcare practice; its diverse sub-disciplines and research domains are evident. The academic roots of this knowledge are commonly traced back to the U.S. tradition.The American Medical Association (AMA) was created in 1848, having as main goals scientific advancement, creation of standards for medical education, launching a program of medical ethics, and obtaining improved public health. Yet, it was only in 1931 that economic concerns came to the agenda, with the creation of the AMA Bureau of Medical Economics, established to study all economic matters affecting the medical profession.After the Second World War, amid the rapid improvement of the level of medical research technology, the modernization of diagnosis and treatment means and health facilities and equipment, the aging of the population, the sharp increase of chronic diseases, and the improvement of people's demand for health care and other reasons, medical and health expenses increased significantly. For example, total U.S. health expenditures steadily increased as a share of gross domestic product (GDP), demonstrating the increased importance that society placed on health care relative to other non-health goods and services. Between 1960 and 2013, health spending as a share of GDP increased from 5.0 to 17.4 percent. Over the same period, the average annual growth in nominal national health expenditures was 9.2 percent compared to nominal GDP 
+growth of 6.7 percent.At the same time, the expenditure on health care in many European countries also increased, accounting for about 4% of GDP in the 1950s and 8% by the end of the 1970s. In terms of growth rate, the proportion of health care expenditure in GNP (gross national product) in many countries increased by 1% in the 1950s, 1.5% in the 1960s, and 2% in the 1970s. This high medical and health expenditure was a heavy economic burden on government, business owners, workers, and families, which required a way to restrain its growth.In addition, the scale of health service increased, technical equipment became more advanced, and division of labor and specialization saw increases, too. The medical and health service developed into a "healthcare industry"  which occupies a considerable amount of capital and labor and occupies an important position in social and economic life. The research on economic problems of the health sector  became an important topic of economic research.Selma Muskin published "Towards the definition of health economics" in 1958 and, four years later, the paper, "Health as an Investment." At that time, health was broadly regarded as rather a consumptive branch of the economy. Muhkin's analysis was the first understanding that health investment had long-term beneficial consequences for the community. Probably, the single most famous and cited contribution to the discipline was Kenneth Arrow's "Uncertainty and the welfare economics of medical care," published in 1963.After the 1960s, research in health economics developed further, and a second academic seminar on health economics was held in the United States in 1962 followed by a third in 1968. In 1968, the World Health Organization held its first international health economics seminar in Moscow. The convening of the three meetings showed that health economics had boarded an academic forum as an independent discipline, which also marked the official formation of health economics.After the 1970s, the health economy entered a period of rapid development and nursing economics gradually emerged. In 1979, Paul Feldstein, a famous American health economist, first used the principles of economics to discuss the long-term care market, registered market, and other nursing economy issues, laying the foundation for the emergence of nursing economics.In 1983, Nursing Economic Magazine was founded in the United States, and its main research content included nursing market development, nursing cost accounting, policies related to nursing services, nursing economic management, etc. The magazine's publication was a mark of the formal formation of nursing economics. In 1993, The University of Iowa Cost Research Center conducted a systematic nursing cost study, simply the NIC System. The specific practice consisted of establishing a special research institution equipped with full-time researchers, sorting out the nursing cost accounting content, and, finally, identifying 433 items in 6 categories. At the same time, the Center adopted computer technology to carry out nursing cost management, including cost assessment, reasonable budget, decision making, etc., which played a crucial role in improving the efficiency of nursing management and alleviating the nursing management crisis.
+
+
+== Healthcare demand ==
+The demand for healthcare is a derived demand from the demand for health. Healthcare is demanded as a means for consumers to achieve a larger stock of "health capital." The demand for health is unlike most other goods because individuals allocate resources in order to both consume and produce health.
+The above description gives three roles of persons in health economics. The World Health Report (p. 52) states that people take four roles in healthcare:
+
+Contributors
+Citizens
+Provider
+ConsumersMichael Grossman's 1972 model of health production has been extremely influential in this field of study and has several unique elements that make it notable.  Grossman's model views each individual as both a producer and a consumer of health.  Health is treated as a stock which degrades over time in the absence of "investments" in health, so that health is viewed as a sort of capital. The model acknowledges that health is both a consumption good that yields direct satisfaction and utility, and an investment good, which yields satisfaction to consumers indirectly through fewer sick days. Investment in health is costly as consumers must trade off time and resources devoted to health, such as exercising at a local gym, against other goals. These factors are used to determine the optimal level of health that an individual will demand. The model makes predictions over the effects of changes in prices of healthcare and other goods, labour market outcomes such as employment and wages, and technological changes. These predictions and other predictions from models extending Grossman's 1972 paper form the basis of much of the econometric research conducted by health economists.
+In Grossman's model, the optimal level of investment in health occurs where the marginal cost of health capital is equal to the marginal benefit. With the passing of time, health depreciates at some rate 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  . The interest rate faced by the consumer is denoted by 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  . The marginal cost of health capital can be found by adding these variables: 
+  
+    
+      
+        M
+        
+          C
+          
+            H
+            K
+          
+        
+        =
+        r
+        +
+        δ
+        
+      
+    
+    {\displaystyle MC_{HK}=r+\delta \,}
+  . The marginal benefit of health capital is the rate of return from this capital in both market and non-market sectors. In this model, the optimal health stock can be impacted by factors like age, wages and education. As an example, 
+  
+    
+      
+        δ
+        
+      
+    
+    {\displaystyle \delta \,}
+   increases with age, so it becomes more and more costly to attain the same level of health capital or health stock as one ages. Age also decreases the marginal benefit of health stock.  The optimal health stock will therefore decrease as one ages.
+Beyond issues of the fundamental, "real" demand for medical care derived from the desire to have good health (and thus influenced by the production function for health) is the important distinction between the "marginal benefit" of medical care (which is always associated with this "real demand" curve based on derived demand), and a separate "effective demand" curve, which summarizes the amount of medical care demanded at particular market prices.  Because most medical care is not purchased from providers directly, but is rather obtained at subsidized prices due to insurance, the out-of-pocket prices faced by consumers are typically much lower than the market price.  The consumer sets 
+  
+    
+      
+        M
+        B
+        =
+        M
+        C
+      
+    
+    {\displaystyle MB=MC}
+   out of pocket, and so the "effective demand" will have a separate relationship between price and quantity than will the "marginal benefit curve" or real demand relationship.  This distinction is often described under the rubric of "ex-post moral hazard" (which is again distinct from ex-ante moral hazard, which is found in any type of market with insurance).
+
+
+== Health technology assessment ==
+
+Economic evaluation, and in particular cost-effectiveness analysis, has become a fundamental part of technology appraisal processes for agencies in a number of countries. The Institute for Quality and Economy in Health Services (Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen – IQWiG) in Germany and the National Institute for Health and Care Excellence (NICE) in the United Kingdom, for example, both consider the cost-effectiveness of new pharmaceuticals entering the market.
+Some agencies, including NICE, recommend the use of cost–utility analysis (CUA). This approach measures outcomes in a composite metric of both length and quality of life, the Quality-adjusted life year (QALY).
+
+
+== Healthcare markets ==
+The five health markets typically analyzed are:
+
+Healthcare financing market
+Physician and nurses services market
+Institutional services market
+Input factors markets
+Professional education marketAlthough assumptions of textbook models of economic markets apply reasonably well to healthcare markets, there are important deviations. Many states have created risk pools in which relatively healthy enrollees subsidise the care of the rest. Insurers must cope with adverse selection which occurs when they are unable to fully predict the medical expenses of enrollees; adverse selection can destroy the risk pool. Features of insurance market risk pools, such as group purchases, preferential selection ("cherry-picking"), and preexisting condition exclusions are meant to cope with adverse selection.
+Insured patients are naturally less concerned about healthcare costs than they would if they paid the full price of care. The resulting moral hazard drives up costs, as shown by the famous RAND Health Insurance Experiment. Insurers use several techniques to limit the costs of moral hazard, including imposing copayments on patients and limiting physician incentives to provide costly care. Insurers often compete by their choice of service offerings, cost-sharing requirements, and limitations on physicians.
+Consumers in healthcare markets often lack adequate information about what services they need to buy and which providers offer the best value proposition. Health economists have documented a problem with supplier induced demand, whereby providers base treatment recommendations on economic, rather than medical criteria. Researchers have also documented substantial "practice variations", whereby the treatment also on service availability to rein in inducement and practice variations.
+Some economists argue that requiring doctors to have a medical license constrains inputs, inhibits innovation, and increases cost to consumers while largely only benefiting the doctors themselves.
+
+
+== Economic Rationale for Government Intervention in the Healthcare Markets ==
+Folland, Godman, and Stino the authors of the book, The Economics of Health and Health Care lists several separate and independent reasons for governments intervening in health-care systems rather than leaving it to the private market forces.
+1. The first is to ensure that the optimum level of production and consumption of public goods (hospitals, vaccines) and goods with a partially public character are available.
+2. Secondly, the rationale is to increase the quality and equity of insurance for those services that can be produced in the private sector but require risk-sharing due to the expense and uncertainties about needs. For example; investing in research and development for new cures and health care equipment. Governments usually subsidize for those who cannot afford insurance or, in certain situations, those low-cost activities and facilities that non-poor citizens can afford on their own. For example; the largest health insurance scheme in the world was launched in India by the name Ayushman Bharat in 2018.3. The third reason for which the government might want to intervene is to prevent market failure. A classic example of market failure is Monopoly Power. Several health-care markets tend to have the potential for monopoly control to be exercised. Medical care in markets with few hospitals, patent-protected prescription products, and some health insurance markets is the major reason for higher costs and especially in cases where the providers are private companies.4. Knowledge can be perceived as a public good with a strong economic value. The information provided by one user does not restrict the information available to another. While those who do not pay are often denied access to information and the marginal cost of providing information to another person is frequently low. As a result, one might argue that private markets would under-produce knowledge, necessitating government intervention to increase its availability. Government intervention, in this case, can be seen as assisting in the public distribution of established information, either directly or by subsidizing private sector operations.
+5. The last point in this section is related to incomplete markets. Incomplete markets may arise when private markets struggle to satisfy existing demand. This situation can arise when the cure of disease is very expensive, such as cancer or a wide spread of new diseases such as HIV/AIDS or COVID-19. In such cases either private insurers require a high premium as the risk factor and costs are high or they may not insure the people for a particular case. This leads to a void in the market where a certain section of the population will not be able to afford healthcare. Certain insurance markets, such as those for patients with HIV/AIDS, cancer, or other pre-existing conditions who are searching for new coverage, may be incomplete in the sense that those patients may be unable to afford coverage at any price. In such cases, the government usually intervenes and provides health care for such cases. For example, during the COVID-19 pandemic, no private insurance company predicted (or could have predicted) that such an outbreak would occur; as a result, state intervention became necessary to treat people.
+
+
+== Other issues ==
+
+
+=== Medical economics ===
+Often used synonymously with health economics, medical economics, according to Culyer, is the branch of economics concerned with the application of economic theory to phenomena and problems associated typically with the second and third health market outlined above: physician and institutional service providers. Typically, however, it pertains to cost–benefit analysis of pharmaceutical products and cost-effectiveness of various medical treatments. Medical economics often uses mathematical models to synthesise data from biostatistics and epidemiology for support of medical decision-making, both for individuals and for wider health policy.
+
+
+=== Mental health economics ===
+Mental health economics incorporates a vast array of subject matters, ranging from pharmacoeconomics to labor economics and welfare economics. Mental health can be directly related to economics by the potential of affected individuals to contribute as human capital. In 2009 Currie and Stabile published "Mental Health in Childhood and Human Capital" in which they assessed how common childhood mental health problems may alter the human capital accumulation of affected children. Externalities may include the influence that affected individuals have on surrounding human capital, such as at the workplace or in the home. In turn, the economy also affects the individual, particularly in light of globalization. For example, studies in India, where there is an increasingly high occurrence of western outsourcing, have demonstrated a growing hybrid identity in young professionals who face very different sociocultural expectations at the workplace and in at home.Mental health economics presents a unique set of challenges to researchers. Individuals with cognitive disabilities may not be able to communicate preferences. These factors represent challenges in terms of placing value on the mental health status of an individual, especially in relation to the individual's potential as human capital. Further, employment statistics are often used in mental health economic studies as a means of evaluating individual productivity; however, these statistics do not capture "presenteeism", when an individual is at work with a lowered productivity level, quantify the loss of non-paid working time, or capture externalities such as having an affected family member. Also, considering the variation in global wage rates or in societal values, statistics used may be contextually, geographically confined, and study results may not be internationally applicable.Though studies have demonstrated mental healthcare to reduce overall healthcare costs, demonstrate efficacy, and reduce employee absenteeism while improving employee functioning, the availability of comprehensive mental health services is in decline. Petrasek and Rapin (2002) cite the three main reasons for this decline as (1) stigma and privacy concerns, (2) the difficulty of quantifying medical savings and (3) physician incentive to medicate without specialist referral. Evers et al. (2009) have suggested that improvements could be made by promoting more active dissemination of mental health economic analysis, building partnerships through policy-makers and researchers, and employing greater use of knowledge brokers.
+
+
+== Health and Utility ==
+Generally, economists assume that individuals act rationally with the aim of maximizing their lifetime utility, while all are subject to the fact that they cannot buy more than their resources allow. However, this model gets complex as there exists the uncertainty over individuals' lifetime. As such, we should split the issue into two parts: 1. How does health produce utility and 2. What affects health (e.g., medical care and life-style choices).Probably the most fundamental thing in consumer demand theory is that the good increases an individual's utility. Health is not really a good in the traditional sense, but health in itself produces happiness. We can think of health as a durable good, much like for instance a car, a house or an education. We all come into the world with some inherent "stock" of health, and a healthy baby has a fairly high stock of health. Basically, every decision we take during our lifetime will affect our stock of health.Consider X as a bundle of other goods, and H as a stock of health. With this in mind we can get the formula for an individual's utility as: Utility = U(X, H). For simplicity, continue to think the stock of health produces utility, but technically, it is the flow of services created by the stock of health that produces utility. As the traditional fashion for goods, "more is better", in other words an increase in health leads to an increase in utility. With this in mind it seems logical that X grows with health, for instance it is more enjoyable to visit the zoo when not experiencing a headache.Like other durable goods, the stock of health wears out over time, much like other durable goods. This process can be called aging. When our stock of health has dropped low enough, we will lose our ability to function. We can say, in economic terminology that the stock of health depreciates. Since life expectancy has risen a lot during this century, it implies that e.g., the depreciation rate has decreased during this time. Public-health care efforts and individual medical care are in place to restore the stock of health or to decrease the depreciation rate on the stock of health. If we were to plot an individual's stock of health throughout its lifetime in a graph, it would steadily increase in the beginning during its childhood, and after that gradually decline because of aging, meanwhile sudden drops created by random events, such as injury or illness.There are many other things than "random" health care events, which individuals consume or do during their lives that affect the speed of aging and the severity and frequency of the drops. Lifestyle choices can deeply better or worse our health. If we go back to X, the bundle of goods and services, can undertake numerous characteristics, some add value while others noticeably decrease our stock of health. Outstanding among such lifestyle choices are the decision to consume alcohol, smoke tobacco, use drugs, composition of diet, amount of exercise and so on. Not only can X and H work as substitutes for one another in producing utility, but X can also affect H in a production sense as well. X can then be split into different categories depending on which effect it has on H, for instance "good" types (e.g., moderate exercise), "bad" types (e.g., food with high cholesterol) and "neutral" types (e.g., concerts and books). Neutral goods do not have an apparent effect on individuals' health.
+
+
+== See also ==
+
+
+=== Journals ===
+Journal of Health Economics
+International Journal of Technology Assessment in Health Care
+Health Economics
+The European Journal of Health Economics
+PharmacoEconomics (journal)
+Applied Health Economics and Health Policy
+Journal of Medical Economics
+Value in Health
+Cost Effectiveness and Resource Allocation
+Health Economics, Policy and Law
+Expert Review of Pharmacoeconomics and Outcomes Research
+Medical Decision Making (journal)
+Social Science and Medicine
+
+
+== References ==
+
+
+== Further reading ==
+Drummond, Michael F.; Sculpher, Mark J.; Claxton, Karl; Stoddart, Greg L.; Torrance, George W. (25 September 2015). Methods for the Economic Evaluation of Health Care Programmes. Oxford University Press. ISBN 978-0-19-164358-3.
+Hurley, Jeremiah E. (2010). Health economics. Toronto: McGraw-Hill Ryerson. ISBN 978-0-07-091648-7.
+Alastair M. Gray, Philip M. Clarke, Jane Wolstenholme, Sarah Wordsworth (2010) Applied Methods of Cost-effectiveness Analysis in Healthcare, Oxford University Press. ISBN 0-19-922728-4
+Drummond, Michael F. (2005) Methods for the Economic Evaluation of Health Care Programmes, Oxford University Press. ISBN 0-19-852945-7
+Mahar, Maggie, Money-Driven Medicine: The Real Reason Health Care Costs So Much, Harper/Collins, 2006. ISBN 978-0-06-076533-0
+Siegel, Joanna E.; Russell, Louise B.; Weinstein, Milton C.; Gold, Marthe R. (1996), Cost-effectiveness in health and medicine, New York [u.a.]: Oxford Univ. Press, ISBN 978-0-19-510824-8
+Starr, Paul, The Social Transformation of American Medicine, Basic Books, 1982. ISBN 0-465-07934-2
+Wennberg J, Gittelsohn; Gittelsohn, A. (December 1973), "Small area variations in health care delivery", Science, 182 (4117): 1102–08, Bibcode:1973Sci...182.1102W, doi:10.1126/science.182.4117.1102, PMID 4750608, S2CID 43819003
+Whittington, Ruth (2008). Introduction to Health Economics: A Beginners Guide Preview. ISBN 978-0-9545494-5-9.
+Wise, David A. (2009), Developments in the Economics of Aging, University of Chicago Press, ISBN 978-0-226-90335-4
+A.J. Culyer and J.P. Newhouse, ed. (2000). Handbook of Health Economics, Elsevier. 1A. Description. Elsevier.
+_____ (2000). Handbook of Health Economics, 1B. Description. Elsevier.

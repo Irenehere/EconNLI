@@ -1,0 +1,39 @@
+New Institutional Economics (NIE) is an economic perspective that attempts to extend economics by focusing on the institutions (that is to say the social and legal norms and rules) that underlie economic activity and with analysis beyond earlier institutional economics and neoclassical economics. Unlike neoclassical economics, it also considers the role of culture and classical political economy in economic development.The NIE assume that individuals are rational and that they seek to maximize their preferences, but that they also have cognitive limitations, lack complete information and have difficulties monitoring and enforcing agreements. As a result, institutions form in large part as an effective way to deal with transaction costs.NIE rejects that the state is a neutral actor (rather, it can hinder or facilitate effective institutions), that there are zero transaction costs, and that actors have fixed preferences.
+
+
+== Overview ==
+It has its roots in two articles by Ronald Coase, "The Nature of the Firm" (1937) and "The Problem of Social Cost" (1960). In the latter, the Coase theorem (as it was subsequently termed) maintains that without transaction costs, alternative property right assignments can equivalently internalize conflicts and externalities. Thus, comparative institutional analysis arising from such assignments is required to make recommendations about efficient internalization of externalities and institutional design, including Law and Economics. 
+Analyses are now built on a more complex set of methodological principles and criteria. They work within a modified neoclassical framework in considering both efficiency and distribution issues, in contrast to "traditional", "old" or "original" institutional economics, which is critical of mainstream neoclassical economics.The term 'new institutional economics' was coined by Oliver Williamson in 1975.Among the many aspects in current analyses are organizational arrangements (such as the boundary of the firm), property rights,transaction costs, credible commitments, modes of governance, persuasive abilities, social norms, ideological values, decisive perceptions, gained control, enforcement mechanism, asset specificity, human assets, social capital, asymmetric information, strategic behavior, bounded rationality, opportunism, adverse selection, moral hazard, contractual safeguards, surrounding uncertainty, monitoring costs, incentives to collude, hierarchical structures, and bargaining strength.
+Major scholars associated with the subject include Masahiko Aoki, Armen Alchian, Harold Demsetz, Steven N. S. Cheung, Avner Greif, Yoram Barzel, Claude Ménard (economist), Daron Acemoglu, and four Nobel laureates—Ronald Coase, Douglass North, Elinor Ostrom, and Oliver Williamson. A convergence of such researchers resulted in founding the Society for Institutional & Organizational Economics (formerly the International Society for New Institutional Economics) in 1997. The NIE has influenced scholars outside of economics, including historical institutionalism, influential works on U.S. Congress (e.g. Kenneth Shepsle, Barry Weingast), international cooperation (e.g. Robert Keohane, Barbara Koremenos), and the establishment and persistence of electoral systems (e.g. Adam Przeworski). Robert Keohane was influenced by NIE, resulting in his influential 1984 work of International Relations, After Hegemony: Cooperation and Discord in the World Political Economy.Herbert A. Simon criticized NIE for solely explaining organizations through market mechanisms and concepts drawn from neoclassical economics. He argued that this led to "seriously incomplete" understandings of organizations. Jack Knight and Terry Moe have criticized the functionalist components of NIE, arguing that NIE misses the coercion and power politics involved in establishing and maintaining institutions.
+
+
+== Institutional levels ==
+Although no single, universally accepted set of definitions has been developed, most scholars doing research under the methodological principles and criteria follow Douglass North's demarcation between institutions and organizations. Institutions are the "rules of the game", both the formal legal rules and the informal social norms that govern individual behavior and structure social interactions (institutional frameworks).
+Organizations, by contrast, are those groups of people and the governance arrangements that they create to co-ordinate their team action against other teams performing also as organizations. To enhance their chance of survival, actions taken by organizations attempt to acquire skill sets that offer the highest return on objective goals, such as profit maximization or voter turnout. Firms, universities, clubs, medical associations, and unions are some examples.
+Oliver Williamson characterizes four levels of social analysis. The first concerns itself with social theory, specifically the level of embeddedness and informal rules. The second is focused on the institutional environment and formal rules. It uses the economics of property rights and positive political theory. The third focuses on governance and the interactions of actors within transaction cost economics, "the play of the game". Williamson gives the example of contracts between groups to explain it. Finally, the fourth is governed by neoclassical economics, it is the allocation of resources and employment. New Institutional Economics is focused on levels two and three.Because some institutional frameworks are realities always "nested" inside other broader institutional frameworks, the clear demarcation is always blurred. A case in point is a university. When the average quality of its teaching services must be evaluated, for example, a university may be approached as an organization with its people, physical capital, the general governing rules common to all that were passed by its governing bodies etc. However, if the task consists of evaluating people's performance in a specific teaching department, for example, along with their own internal formal and informal rules, it, as a whole, enters the picture as an institution. General rules, then, form part of the broader institutional framework influencing the people's performance at the said teaching department.
+
+
+== See also ==
+Horizontal integration
+Public choice
+Vertical integration
+
+
+== References ==
+
+
+== Further reading ==
+Eggertsson, Thráinn (2005). Imperfect Institutions: Possibilities and Limits of Reform. Ann Arbor: University of Michigan Press. ISBN 978-0472114566.
+Furubotn, Eirik G.; Richter, Rudolf (2005). Institutions and Economic Theory: The Contribution of the New Institutional Economics (2nd ed.). Ann Arbor: University of Michigan Press. ISBN 978-0472030255.
+
+
+== External links ==
+
+SIOE - Society for Institutional & Organizational Economics, formerly the International Society for New Institutional Economics.
+ESNIE - European School on New Institutional Economics.
+ASNIE - Austrian Society for New Institutional Economics.
+Introductory Reading List in New Institutional Economics - The Ronald Coase Institute
+IRIS Center - Founded by Mancur Olson, University of Maryland.
+Contracting and Organizations Research Center University of Missouri
+Economics and Institutions WEBSITE - by prof. F. Toboso, University of Valencia, Spain.
+"The Rise of New Institutional Economics and Assessment its Contributions to the Post Washington Consensus"

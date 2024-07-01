@@ -1,0 +1,82 @@
+A price is the (usually not negative) quantity of payment or compensation expected, required, or given by one party to another in return for goods or services. In some situations, the price of production has a different name. If the product is a "good" in the commercial exchange, the payment for this product will likely be called its "price". However, if the product is "service", there will be other possible names for this product's name. For example, the graph on the bottom will show some situations  A good's price is influenced by production costs, supply of the desired item, and demand for the product. A price may be determined by a monopolist or may be imposed on the firm by market conditions.
+Price can be quoted in currency, quantities of goods or vouchers.
+
+In modern economies, prices are generally expressed in units of some form of currency. (More specifically, for raw materials they are expressed as currency per unit weight, e.g. euros per kilogram or Rands per KG.)
+Although prices could be quoted as quantities of other goods or services, this sort of barter exchange is rarely seen. Prices are sometimes quoted in terms of vouchers such as trading stamps and air miles.
+In some circumstances, cigarettes have been used as currency, for example in prisons, in times of hyperinflation, and in some places during World War II. In a black market economy, barter is also relatively common.In many financial transactions, it is customary to quote prices in other ways. The most obvious example is in pricing a loan, when the cost will be expressed as the percentage rate of interest. The total amount of interest payable depends upon credit risk, the loan amount and the period of the loan. Other examples can be found in pricing financial derivatives and other financial assets. For instance the price of inflation-linked government securities in several countries is quoted as the actual price divided by a factor representing inflation since the security was issued.
+"Price" sometimes refers to the quantity of payment requested by a seller of goods or services, rather than the eventual payment amount. In business this requested amount is often referred to as the offer price or selling price, while the actual payment may be called  transaction price or traded price. 
+Economic price theory asserts that in a free market economy the market price reflects the  interaction between supply and demand: the price is set so as to equate the quantity being supplied and that being demanded. In turn, these quantities are determined by the marginal utility of the asset to different buyers and to different sellers. Supply and demand, and hence price, may be influenced by other factors, such as government subsidy or manipulation through industry collusion.
+When a raw material or a similar economic good is for sale at multiple locations, the law of one price is generally believed to hold. This essentially states that the cost difference between the locations cannot be greater than that representing shipping, taxes, other distribution costs and more.
+
+
+== Functions of prices ==
+According to Milton Friedman, price has five functions in a free-enterprise exchange economy which is characterized by private ownership of the means of production:
+Transmitting information about changes in the relative importance of different end-products and factors of production.
+Providing an incentive for enterprise (a) to produce those products valued most highly by the market, and (b) to use methods of production that economize relatively scarce factors of production.
+Providing an incentive to owners of resources to direct them into the most highly remunerated uses
+Distributing output among the owners of resources
+Rationing fixed supplies of goods among consumers.
+
+
+== Price and value ==
+The paradox of value was observed and debated by classical economists. Adam Smith described what is now called the diamond – water paradox: diamonds command a higher price than water, yet water is essential for life and diamonds are merely ornamentation. Use value was supposed to give some measure of usefulness, later refined as marginal benefit  while exchange value was the measure of how much one good was in terms of another, namely what is now called relative price.
+
+
+=== Negative prices ===
+
+Negative prices are very unusual but possible under certain circumstances. Effectively, the owner or producer of an item pays the "buyer" to take it off their hands.
+In April 2020, for the first time in history, due to the global health/economic crisis situation, the price of (futures contract for) West Texas Intermediate benchmark crude oil turned negative, with a barrel of oil at -$37.63 a barrel, a one-day drop of $55.90, or 306%, according to Dow Jones Market Data. "Negative prices means someone with a long position in oil would have to pay someone to take that oil off of their hands. Why would they do that? The main reason is a fear that if forced to take delivery of crude on the expiration of the May oil contract, there would be nowhere to put it as a glut of crude fills up available storage." In a sense the price is still positive, just the direction of payment reverses, i.e. in this case you are paid to take some goods.
+Negative interest rates are a similar concept.
+
+
+== Austrian School theory ==
+One solution offered to the paradox of the value is through the theory of marginal utility proposed by Carl Menger, one of the founders of the Austrian School of economics.
+As William Barber put it, human volition, the human subject, was "brought to the centre of the stage" by marginalist economics, as a bargaining tool. Neoclassical economists sought to clarify choices open to producers and consumers in market situations, and thus "fears that cleavages in the economic structure might be unbridgeable could be suppressed".Without denying the applicability of the Austrian theory of value as subjective only, within certain contexts of price behavior, the Polish economist Oskar Lange felt it was necessary to attempt a serious integration of the insights of classical political economy with neo-classical economics. This would then result in a much more realistic theory of price and of real behavior in response to prices. Marginalist theory lacked anything like a theory of the social framework of real market functioning, and criticism sparked off by the capital controversy initiated by Piero Sraffa revealed that most of the foundational tenets of the marginalist theory of value either reduced to tautologies, or that the theory was true only if counter-factual conditions applied.One insight often ignored in the debates about price theory is something that businessmen are keenly aware of: in different markets, prices may not function according to the same principles except in some very abstract (and therefore not very useful) sense. From the classical political economists to Michał Kalecki it was known that prices for industrial goods behaved differently from prices for agricultural goods, but this idea could be extended further to other broad classes of goods and services.
+
+
+== Price as productive human labour time ==
+Marxists assert that value derives from the volume of socially necessary labour time exerted in the creation of an object.  This value does not relate to price in a simple manner, and the difficulty of the conversion of the mass of values into the actual prices is known as the transformation problem. However, many recent Marxists deny that any problem exists. Marx was not concerned with proving that prices derive from values. In fact, he admonished the other classical political economists (like Ricardo and Smith) for trying to make this proof. Rather, for Marx, price equals the cost of production (capital-cost and labor-costs) plus the average rate of profit. So if the average rate of profit (return on capital investment) is 22% then prices would reflect cost-of-production plus 22%. The perception that there is a transformation problem in Marx stems from the injection of Walrasian equilibrium theory into Marxism where there is no such thing as equilibrium.
+
+
+== Confusion between prices and costs of production ==
+Price is commonly confused with the notion of cost of production, as in "I paid a high cost for buying my new plasma television"; but technically these are different concepts.  Price is what a buyer pays to acquire products from a seller.  Cost of production concerns the seller's expenses (e.g., manufacturing expense) in producing the product being exchanged with a buyer.  For marketing organizations seeking to make a profit, the hope is that price will exceed cost of production so that the organization can see financial gain from the transaction.
+Finally, while pricing is a topic central to a company's profitability, pricing decisions are not limited to for-profit companies.  The behavior of non-profit organizations, such as charities, educational institutions and industry trade groups, also involves setting prices.: 160–65   For instance, charities seeking to raise money may set different "target" levels for donations that reward donors with increases in status (e.g., name in newsletter), gifts or other benefits; likewise educational and cultural nonprofits often price seats for events in theatres, auditoriums and stadiums. Furthermore, while nonprofit organizations may not earn a "profit", by definition, it is the case that many nonprofits may desire to maximize net revenue—total revenue less total cost—for various programs and activities, such as selling seats to theatrical and cultural performances.: 183–94 
+
+
+== Price point ==
+The price of an item is also called the "price point", especially if it refers to stores that set a limited number of price points. For example, Dollar General is a general store or "five and dime" store that sets price points only at even amounts, such as exactly one, two, three, five, or ten dollars (among others). Other stores have a policy of setting most of their prices ending in 99 cents or pence. Other stores (such as dollar stores, pound stores, euro stores, 100-yen stores, and so forth) only have a single price point ($1, £1, €1, ¥100), but in some cases, that price may purchase more than one of some very small items.
+ The term "price point" is also used to describe non-linear areas of the price curve.
+
+
+== Market price ==
+In economics, the market price is the economic price for which a good or service is offered in the marketplace. It is of interest mainly in the study of microeconomics. Market value and market price are equal only under conditions of market efficiency, equilibrium, and rational expectations. Market price is measured during a specific period of time and is greatly affected by the supply and demand for a good or service. For example, if demand for a good increases and supply of the good is held constant, the price for the good will rise in a marketplace with open competition.Under the UK's Sale of Goods Act 1979, damages for non-delivery of contracted goods take account of the market price for the goods where there is an available market.On restaurant menus, the market price (often abbreviated to m.p. or mp) is written instead of a specific price, meaning "price of dish depends on market price of ingredients, and price is available upon request", and is particularly used for seafood, notably lobsters and oysters.
+
+
+== Other terms ==
+Basic Price: It is the amount that producer receive from buyer for a unit of good or service produced minus any taxes payable and plus subsidies payable on that unit as the result of its production or sales. It does not include any producer transport charges which are involved separately.Producer Price Index: It measures the average change in the selling price of domestic producers' products over time.Purchase Price: It refers to the amount paid by the purchaser for receiving a unit of goods or services at the time and place required by the purchaser and any deductible taxes will not be included. The purchase price also include any transport charge for purchase to pick up the goods to a specific location in the required time.Price optimization is the use of mathematical techniques by a company to determine how customers will respond to different prices for its products and services through different channels.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Milton Friedman, Price Theory.
+George Stigler, Theory of Price.
+Simon Clarke, Marx, marginalism, and modern sociology: from Adam Smith to Max Weber (London: The Macmillan Press, Ltd, 1982).
+Makoto Itoh & Costas Lapavitsas, Political Economy of Money and Finance.
+Pierre Vilar, A history of gold and money.
+William Barber, A History of Economic Thought.
+Vaggi G. The New Palgrave Dictionary of Economics: Market Price
+
+
+== Further reading ==
+Vianello, F. [1989], “Natural (or Normal) Prices. Some Pointers”, in: Political Economy. Studies in the Surplus Approach, 2, pp. 89–105.
+
+
+== External links ==
+
+"Price" . Encyclopædia Britannica. Vol. 22 (11th ed.). 1911.
+Prices and Wages by Decade library guide – Historical prices and wages research guide at the University of Missouri libraries

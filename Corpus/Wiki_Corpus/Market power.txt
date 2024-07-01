@@ -1,0 +1,261 @@
+In economics, market power refers to the ability of a firm to influence the price at which it sells a product or service by manipulating either the supply or demand of the product or service to increase economic profit. In other words, market power occurs if a firm does not face a perfectly elastic demand curve and can set its price (P) above marginal cost (MC) without losing revenue. This indicates that the magnitude of market power is associated with the gap between P and MC at a firm's profit maximising level of output. The size of the gap, which encapsulates the firm's level of market dominance, is determined by the residual demand curve's form. A steeper reverse demand indicates higher earnings and more dominance in the market. Such propensities contradict perfectly competitive markets, where market participants have no market power, P = MC and firms earn zero economic profit. Market participants in perfectly competitive markets are consequently referred to as 'price takers', whereas market participants that exhibit market power are referred to as 'price makers' or 'price setters'.
+The market power of any individual firm is controlled by multiple factors, including but not limited to, their size, the structure of the market they are involved in, and the barriers to entry for the particular market. A firm with market power has the ability to individually affect either the total quantity or price in the market. This said, market power has been seen to exert more upward pressure on prices due to effects relating to Nash equilibria and profitable deviations that can be made by raising prices. Price makers face a downward-sloping demand curve and as a result, price increases lead to a lower quantity demanded. The decrease in supply creates an economic deadweight loss (DWL) and a decline in consumer surplus. This is viewed as socially undesirable and has implications for welfare and resource allocation as larger firms with high markups negatively effect labour markets by providing lower wages. Perfectly competitive markets do not exhibit such issues as firms set prices that reflect costs, which is to the benefit of the customer. As a result, many countries have antitrust or other legislation intended to limit the ability of firms to accrue market power. Such legislation often regulates mergers and sometimes introduces a judicial power to compel divestiture.
+Market power provides firms with the ability to engage in unilateral anti-competitive behavior. As a result, legislation recognises that firms with market power can, in some circumstances, damage the competitive process. In particular, firms with market power are accused of limit pricing, predatory pricing, holding excess capacity and strategic bundling. A firm usually has market power by having a high market share although this alone is not sufficient to establish the possession of significant market power. This is because highly concentrated markets may be contestable if there are no barriers to entry or exit. Invariably, this limits the incumbent firm's ability to raise its price above competitive levels.
+If no individual participant in the market has significant market power, anti-competitive conduct can only take place through collusion, or the exercise of a group of participants' collective market power. An example of which was seen in 2007, when British Airways was found to have colluded with Virgin Atlantic between 2004 and 2006, increasing their surcharges per ticket from £5 to £60.Regulators are able to assess the level of market power and dominance a firm has and measure competition through the use of several tools and indicators. Although market power is extremely difficult to measure, through the use of widely used analytical techniques such as concentration ratios, the Herfindahl-Hirschman index and the Lerner index, regulators are able to oversee and attempt to restore market competitiveness.
+
+
+== Market structure ==
+In economics, market structure can profoundly affect the behavior and financial performance of firms. Market structure depicts how different industries are characterized and differentiated based upon the types of goods the firms sell (homogenous/heterogenous) and the nature of competition within the industry. The degree of market power firms assert in different markets are relative to the market structure that the firms operate in. There are four main forms of market structures that are observed: perfect competition, monopolistic competition, oligopoly, and monopoly. Perfect competition and monopoly represent the two extremes of market structure, respectively. Monopolistic competition and oligopoly exist in between these two extremes.
+
+
+=== Perfect competition power ===
+"Perfect Competition" refers to a market structure that is devoid of any barriers or interference and describes those marketplaces where neither corporations nor consumers are powerful enough to affect pricing. In terms of economics, it is one of the many conventional market forms and the optimal condition of market competition. The concept of perfect competition represents a theoretical market structure where the market reaches an equilibrium that is Pareto optimal. This occurs when the quantity supplied by sellers in the market equals the quantity demanded by buyers in the market at the current price. Firms competing in a perfectly competitive market faces a market price that is equal to their marginal cost, therefore, no economic profits are present. The following criteria need to be satisfied in a perfectly competitive market:
+
+Producers sell homogenous goods
+All firms are price takers
+Perfect information
+No barriers to enter and exit
+All firms have relatively small market share and cannot influence priceAs all firms in the market are price takers, they essentially hold zero market power and must accept the price given by the market. A perfectly competitive market is logically impossible to achieve in a real world scenario as it embodies contradiction in itself and therefore is considered an idealised framework by economists.
+
+
+=== Monopolistic competition power ===
+Monopolistic competition can be described as the "middle ground" between perfect competition and a monopoly as it shares elements present in both market structures that are on different ends of the market structure spectrum. Monopolistic competition is a type of market structure defined by many producers that are competing against each other by selling similar goods which are differentiated, thus are not perfect substitutes. In the short term, firms are able to obtain economic profits as a result of differentiated goods providing sellers with some degree of market power; however, profits approaches zero as more competitive toughness increases in the industry. The main characteristics of monopolistic competition include:
+
+Differentiated products
+Many sellers and buyers
+Free entry and exitFirms within this market structure are not price takers and compete based on product price, quality and through marketing efforts, setting individual prices for the unique differentiated products. Examples of industries with monopolistic competition include restaurants, hairdressers and clothing.
+
+
+=== Monopoly power ===
+The word monopoly is used in various instances referring to a single seller of a product, a producer with an overwhelming level of market share, or refer to a large firm. All of these treatments have one unifying factor which is the ability to influence the market price by altering the supply of the good or service through its own production decisions. The most discussed form of market power is that of a monopoly, but other forms such as monopsony and more moderate versions of these extremes exist. A monopoly is considered a 'market failure' and consists of one firm that produces a unique product or service without close substitutes. Whilst pure monopolies are rare, monopoly power is far more common and can be seen in many industries even with more than one supplier in the market. Firms with monopoly power can charge a higher price for products (higher markup) as demand is relatively inelastic. They also see a falling rate of labour share as firms divest from expensive inputs such as labour. Often, firms with monopoly power exist in industries with high barriers to entry, which include, but are not limited to:
+
+Economies of scale
+Predatory pricing
+Control of key resources (required in production of the good)
+Legal regulationsA well-known example of monopolistic market power is Microsoft's market share in PC operating systems. The United States v. Microsoft case dealt with an allegation that Microsoft illegally exercised its market power by bundling its web browser with its operating system. In this respect, the notion of dominance and dominant position in EU Antitrust Law is a strictly related aspect.
+
+
+=== Oligopoly power ===
+Another form of market power is that of an oligopoly or oligopsony. Within this market structure, the market is highly concentrated and several firms control a significant share of market sales. The emergence of oligopoly market forms is mainly attributed to the monopoly of market competition, i.e., the market monopoly acquired by enterprises through their competitive advantages, and the administrative monopoly due to government regulations, such as when the government grants monopoly power to an enterprise in the industry through laws and regulations and at the same time imposes certain controls on it to improve efficiency. The main characteristics of an oligopoly are:
+
+A few sellers and many buyers.
+Homogenous or differentiated products.
+High barriers to entry. This includes, but is not limited to, 'technology challenges, government regulations, patents, start-up costs, or education and licensing requirements'.
+Interaction/strategic behaviour.It is salient to note that only a few firms make up the market share. Hence, their market power is large as a collective and each firm has little or no market power independently. For firms trying to enter these industries, unless they can start with a large production scale and capture a significant market share, the high average costs will make it impossible for them to compete with the existing firms. Generally, when a firm operating in an oligopolistic market adjusts prices, other firms in the industry will be directly impacted.
+The graph below depicts the kinked demand curve hypothesis which was proposed by Paul Sweezy who was an American economist. It is important to note that this graph is a simplistic example of a kinked demand curve.
+
+Oligopolistic firms are believed to operate within the confines of the kinked demand function. This means that when firms set prices above the prevailing price level (P*), prices are relatively elastic because individuals are likely to switch to a competitor's product as a substitute. Prices below P* are believed to be relatively inelastic as competitive firms are likely to mimic the change in prices, meaning less gains are experienced by the firm.An oligopoly may engage in collusion, either tacit or overt to exercise market power and manipulate prices to control demand and revenue for a collection of firms. A group of firms that explicitly agree to affect market price or output is called a cartel, with the organization of petroleum-exporting countries (OPEC) being one of the most well known example of an international cartel.
+
+
+== Sources of market power ==
+By remaining consistent with the strict definition of market power as any firm with a positive Lerner index, the sources of market power is derived from distinctiveness of the good and or seller.  For a monopolist, distinctiveness is a necessary condition that needs to be satisfied but this is just the starting point. Without barriers to entries, above normal profits experienced by monopolists would not persist as other sellers of homogenous or similar goods would continue to enter the industry until above normal profits are diminished until the industry experiences perfect competitionThere are several sources of market power including:
+
+High barriers to entry. These barriers include the control of scarce resources, increasing returns to scale, technological superiority and government created barriers to entry. OPEC is an example of an organization that has market power due to control over scarce resources — oil.
+Increasing returns to scale. Firms that experience increasing returns to scale also experience decreasing average total costs and therefore become more profitable with size and higher demand levels.
+High start-up costs. This barrier makes it difficult for new entrants to succeed as the initial creation costs are ingrained within the industry. Firms like power, cable television and telecommunication companies fall within this category. A firm seeking to enter such industries require the ability to spend millions of dollars before starting operations and generating revenue.
+Brand loyalty of consumers and value placed by consumers on reputation. Incumbent firms often have a competitive advantage over new entrants as customers are familiar with the product and service. An incumbent firm can engage in several entry-deterring strategies such as limit pricing, predatory pricing and strategic bundling. Microsoft has substantial pricing or market power due to technological superiority in its design and production processes.
+Government policies/regulations. One significant technique of governmental action to create monopolies is the granting of franchises and operating licenses. This is due to the fact that no other businesses are permitted by law to operate without a franchise. A prime example are patents granted to pharmaceutical companies which prevent competitors from creating and selling their specific goods. These patents give the drug companies a virtual monopoly in the protected product for the term of the patent.
+Factors of Production Barriers. An important influencing factor of market power is the control of the supply of factors of production to produce the good. Factors of production can be divided into tangible land, capital, and intangible human resources, intelligence, etc. As the industrial economy changes to a knowledge-based economy, the control of the supply of intangible factors of production such as talent, intelligence, information, etc. will become more and more of a barrier to entry for companies with unlimited market power.
+
+
+== Measurement of market power ==
+Measuring market power is inherently complex because the most widely used measures are sensitive to the definition of a market and the range of analysis.
+Magnitude of a firm's market power is shown by a firm's ability to deviate from an elastic demand curve and charge a higher price (P) above its marginal cost (C), commonly referred to as a firm's mark-up or margin. The higher a firm's mark-up, the larger the magnitude of power. This said, markups are complicated to measure as they are reliant on a firm's marginal costs and as a result, concentration ratios are the more common measures as they require only publicly accessible revenue data.
+
+
+=== Concentration ratios ===
+Market concentration, also referred to as industry concentration, refers to the extent of which market shares of the largest firms in the market account for a significant portion of the economic activities quantifiable by various metrics such as sales, employment, active users. Recent macroeconomic market power literature indicates that concentration ratios are the most frequently used measure of market power. Measures of concentration summarise the share of market or industry activity accounted for by large firms. An advantage of using concentration as an empirical tool to quantify market power is the requirement of only needing revenue data of firms which results in the corresponding disadvantage of the inconsideration of costs or profits.
+
+
+==== N-firm concentration ratio ====
+The N-firm concentration ratio gives the combined market share of the largest N firms in the market. For example, a 4-firm concentration ratio measures the total market share of the four largest firms in an industry. In order to calculate the N-firm concentration ratio, one usually uses sales revenue to calculate market share, however, concentration ratios based on other measures such as production capacity may also be used. For a monopoly, the 4-firm concentration ratio is 100 per cent whilst for perfect competition, the ratio is zero. Moreover, studies indicate that a concentration ratio of between 40 and 70 percent suggests that the firm operates as an oligopoly. These figures are viable but should be used as a 'rule of thumb' as it is important to consider other market factors when analysing concentration ratios.
+An advantage of concentration ratios as an empirical tool for studying market power is that it requires only data on revenues and is thus easy to compute. The corresponding disadvantage is that concentration is about relative revenue and includes no information about costs or profits.
+
+
+==== Herfindahl-Hirschman index ====
+The Herfindahl-Hirschman index (HHI) is another measure of concentration and is the sum of the squared market shares of all firms in a market. The HHI is a more widely used indicator in economics and government regulation. The index reflects not only the market share of large firms within the market, but also the market structure outside of large firms, and therefore, more accurately reflects the degree of influence of large firms on the market. For example, in a market with two firms, each with 50% market share, the HHI is 
+  
+    
+      
+        ∑
+        (
+        
+          S
+          
+            i
+          
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sum (S_{i})^{2}}
+   = 0.502 + 0.502 = 0.50. The HHI for a monopoly is 1 whilst for perfect competition, the HHI is zero. Unlike the N-firm concentration ratio, large firms are given more weight in the HHI and as a result, the HHI conveys more information. However the HHI has its own limitations as it is sensitive to the definition of a market, therefore meaning you cannot use it to cross-examine different industries, or do analysis over time as the industry changes.
+
+
+=== Lerner index ===
+The Lerner index is a widely accepted and applied method of estimating market power in a monopoly. It compares a firm's price of output with its associated marginal cost where marginal cost pricing is the "socially optimal level" achieved in market with perfect competition. Lerner (1934) believes that market power is the monopoly manufacturers' ability to raise prices above their marginal cost. This notion can be expressed by using the formula:
+
+  
+    
+      
+        L
+        =
+        (
+        P
+        −
+        M
+        C
+        )
+        
+          /
+        
+        P
+      
+    
+    {\displaystyle L=(P-MC)/P}
+  Where P represents the price of the good set by the firm and MC representing the firm's marginal cost.The formula focuses on the nature of monopoly and emphasising welfare economic implications of the Pareto optimal principle. Although Lerner is usually credited for the price/cost margin index, the generalized version was fully derived prior to WWII by Italian neoclassical economist, Luigi Amaroso.
+
+
+== Connection with Competition Law ==
+Market power within competition law can be used to determine whether or not a firm has unfairly manipulated the market in their favour, or to the detriment of entrants. The Sherman Antitrust Act of 1890 under section 2 restricts firms from engaging in anticompetitive conduct by utilising an individual firm’s power to manipulate the market or partake in anticompetitive acts. 
+A firm can be found in breach of the act if they have leveraged their market power to unfairly gain further market power in a manner that is detrimental to the market and consumers. The measurement of market power is key in determining a breach of the act and can be determined from multiple measurements as discussed in measurements of market power above.
+In Australia, consumer law allows for firms to have significant market power and utilise it, as long as it is determined to not have “the purpose, effect or likely effect of substantially lessening competition” 
+
+
+== Elasticity of demand ==
+The degree to which a firm can raise its price above marginal cost depends on the shape of the demand curve at a firm's profit maximising level of output. Consequently, the relationship between market power and the price elasticity of demand (PED) can be summarised by the equation:
+
+  
+    
+      
+        
+          
+            P
+            
+              M
+              C
+            
+          
+        
+        =
+        
+          
+            
+              P
+              E
+              D
+            
+            
+              1
+              +
+              P
+              E
+              D
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {P}{MC}}={\frac {PED}{1+PED}}.}
+  The ratio 
+  
+    
+      
+        P
+        
+          /
+        
+        M
+        C
+      
+    
+    {\displaystyle P/MC}
+   is always greater than 1 and the higher the 
+  
+    
+      
+        P
+        
+          /
+        
+        M
+        C
+      
+    
+    {\displaystyle P/MC}
+   ratio, the more market power the firm possesses. As PED increases in magnitude, the 
+  
+    
+      
+        P
+        
+          /
+        
+        M
+        C
+      
+    
+    {\displaystyle P/MC}
+   ratio approaches 1 and market power approaches zero. The equation is derived from the monopolist pricing rule:
+
+  
+    
+      
+        
+          
+            
+              P
+              −
+              M
+              C
+            
+            P
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              P
+              E
+              D
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {P-MC}{P}}=-{\frac {1}{PED}}.}
+  
+
+
+== Nobel Memorial Prize ==
+Jean Tirole was awarded the 2014 Nobel Memorial Prize in Economic Sciences for his analysis of market power and economic regulation.
+
+
+== See also ==
+Bargaining power
+Imperfect competition
+Market concentration
+Natural monopoly
+Predatory pricing
+Price discrimination
+Dominance (economics)
+
+
+== References ==
+
+
+== Further references ==
+Syverson, Chad. 2019. "Macroeconomics and Market Power: Context, Implications, and Open Questions." Journal of Economic Perspectives 33(3): 23-43.
+Brickley, Smith and Zimmerman (13 October 2008). "7". Managerial Economics and Organizational Architecture (3rd ed.). McGraw-Hill. ISBN 978-0073375823.
+"The Theory of Industrial Organization", Tirole, MIT Press 1988
+Thomas Philippon. 2019. The Great Reversal: How America Gave Up on Free Markets. Harvard University Press.

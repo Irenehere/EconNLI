@@ -1,0 +1,455 @@
+In finance, a futures contract (sometimes called futures) is a standardized legal contract to buy or sell something at a predetermined price for delivery at a specified time in the future, between parties not yet known to each other. The asset transacted is usually a commodity or financial instrument. The predetermined price of the contract is known as the forward price. The specified time in the future when delivery and payment occur is known as the delivery date. Because it derives its value from the value of the underlying asset, a futures contract is a derivative.
+Contracts are traded at futures exchanges, which act as a marketplace between buyers and sellers. The buyer of a contract is said to be the long position holder and the selling party is said to be the short position holder. As both parties risk their counter-party reneging if the price goes against them, the contract may involve both parties lodging as security a margin of the value of the contract with a mutually trusted third party. For example, in gold futures trading, the margin varies between 2% and 20% depending on the volatility of the spot market.A stock future is a cash-settled futures contract on the value of a particular stock market index. Stock futures are one of the high risk trading instruments in the market. Stock market index futures are also used as indicators to determine market sentiment.The first futures contracts were negotiated for agricultural commodities, and later futures contracts were negotiated for natural resources such as oil. Financial futures were introduced in 1972, and in recent decades, currency futures, interest rate futures, stock market index futures, and cryptocurrency inverse futures and perpetual futures have played an increasingly large role in the overall futures markets. Even organ futures have been proposed to increase the supply of transplant organs.
+The original use of futures contracts was to mitigate the risk of price or exchange rate movements by allowing parties to fix prices or rates in advance for future transactions. This could be advantageous when (for example) a party expects to receive payment in foreign currency in the future and wishes to guard against an unfavorable movement of the currency in the interval before payment is received.
+However, futures contracts also offer opportunities for speculation in that a trader who predicts that the price of an asset will move in a particular direction can contract to buy or sell it in the future at a price which (if the prediction is correct) will yield a profit. In particular, if the speculator is able to profit, then the underlying commodity that the speculator traded would have been saved during a time of surplus and sold during a time of need, offering the consumers of the commodity a more favorable distribution of commodity over time.
+
+
+== Origin ==
+The Dōjima Rice Exchange, first established in 1697 in Osaka, is considered by some to be the first futures exchange market, to meet the needs of samurai who—being paid in rice—needed a stable conversion to coin after a series of bad harvests.The Chicago Board of Trade (CBOT) listed the first-ever standardized 'exchange traded' forward contracts in 1864, which were called futures contracts. This contract was based on grain trading, and started a trend that saw contracts created on a number of different commodities as well as a number of futures exchanges set up in countries around the world. By 1875 cotton futures were being traded in Bombay in India and within a few years this had expanded to futures on edible oilseeds complex, raw jute and jute goods and bullion.  In the 1930s two thirds of all futures was in wheat.The 1972 creation of the International Monetary Market (IMM) by the Chicago Mercantile Exchange was the world's first financial futures exchange, and launched currency futures. In 1976, the IMM added interest rate futures on US treasury bills, and in 1982 they added stock market index futures.
+
+
+== Risk mitigation ==
+Although futures contracts are oriented towards a future time point, their main purpose is to mitigate the risk of default by either party in the intervening period. In this vein, the futures exchange requires both parties to put up initial cash, or a performance bond, known as the margin. Margins, sometimes set as a percentage of the value of the futures contract, must be maintained throughout the life of the contract to guarantee the agreement, as over this time the price of the contract can vary as a function of supply and demand, causing one side of the exchange to lose money at the expense of the other.
+To mitigate the risk of default, the product is marked to market on a daily basis where the difference between the initial agreed-upon price and the actual daily futures price is re-evaluated daily. This is sometimes known as the variation margin, where the futures exchange will draw money out of the losing party's margin account and put it into that of the other party, ensuring the correct loss or profit is reflected daily. If the margin account goes below a certain value set by the exchange, then a margin call is made and the account owner must replenish the margin account.
+On the delivery date, the amount exchanged is not the specified price on the contract but the spot value, since any gain or loss has already been previously settled by marking to market.
+
+
+== Margin ==
+
+To minimize counterparty risk to traders, trades executed on regulated futures exchanges are guaranteed by a clearing house. The clearing house becomes the buyer to each seller, and the seller to each buyer, so that in the event of a counterparty default the clearer assumes the risk of loss. This enables traders to transact without performing due diligence on their counterparty.
+Margin requirements are waived or reduced in some cases for hedgers who have physical ownership of the covered commodity or spread traders who have offsetting contracts balancing the position.
+Clearing margin are financial safeguards to ensure that companies or corporations perform on their customers' open futures and options contracts. Clearing margins are distinct from customer margins that individual buyers and sellers of futures and options contracts are required to deposit with brokers.
+Customer margin Within the futures industry, financial guarantees required of both buyers and sellers of futures contracts and sellers of options contracts to ensure fulfillment of contract obligations. Futures Commission Merchants are responsible for overseeing customer margin accounts. Margins are determined on the basis of market risk and contract value. Also referred to as performance bond margin.
+Initial margin is the equity required to initiate a futures position. This is a type of performance bond. The maximum exposure is not limited to the amount of the initial margin, however, the initial margin requirement is calculated based on the maximum estimated change in contract value within a trading day. The initial margin is set by the exchange.
+If a position involves an exchange-traded product, the amount or percentage of the initial margin is set by the exchange concerned.
+In case of loss or if the value of the initial margin is being eroded, the broker will make a margin call in order to restore the amount of initial margin available. Often referred to as "variation margin", margin called, for this reason, is usually done on a daily basis, however, in times of high volatility, a broker can make a margin call intra-day.
+Margin calls are usually expected to be paid and received on the same day. If not, the broker has the right to close sufficient positions to meet the amount called by way of margin. After the position is closed out the client is liable for any resulting deficit in the client's account.
+Some U.S. exchanges also use the term "maintenance margin", which in effect defines how much the value of the initial margin can reduce before a margin call is made. However, most non-US brokers only use the term "initial margin" and "variation margin".
+The Initial Margin requirement is established by the Futures exchange, in contrast to other securities' Initial Margin (which is set by the Federal Reserve in the U.S. Markets).
+A futures account is marked to market daily. If the margin drops below the margin maintenance requirement established by the exchange listing the futures, a margin call will be issued to bring the account back up to the required level.
+Maintenance margin A set minimum margin per outstanding futures contract that a customer must maintain in their margin account.
+Margin-equity ratio is a term used by speculators, representing the amount of their trading capital that is being held as margin at any particular time. The low margin requirements of futures results in substantial leverage of the investment. However, the exchanges require a minimum amount that varies depending on the contract and the trader. The broker may set the requirement higher, but may not set it lower. A trader, of course, can set it above that, if he does not want to be subject to margin calls.
+Performance bond margin The amount of money deposited by both a buyer and seller of a futures contract or an options seller to ensure the performance of the term of the contract. Margin in commodities is not a payment of equity or down payment on the commodity itself, but rather it is a security deposit.
+Return on margin (ROM) is often used to judge performance because it represents the gain or loss compared to the exchange's perceived risk as reflected in the required margin. ROM may be calculated (realized return) / (initial margin). The Annualized ROM is equal to (ROM+1)(year/trade_duration)-1. For example, if a trader earns 10% on margin in two months, that would be about 77% annualized.
+
+
+== Settlement − physical versus cash-settled futures ==
+Settlement is the act of consummating the contract, and can be done in one of two ways, as specified per type of futures contract:
+
+Physical delivery − the amount specified of the underlying asset of the contract is delivered by the seller of the contract to the exchange, and by the exchange to the buyers of the contract. Physical delivery is common with commodities and bonds. In practice, it occurs only on a minority of contracts. Most are canceled out by purchasing a covering position—that is, buying a contract to cancel out an earlier sale (covering a short), or selling a contract to liquidate an earlier purchase (covering a long). The Nymex crude futures contract uses this method of settlement upon expiration
+Cash settlement − a cash payment is made based on the underlying reference rate, such as a short-term interest rate index such as 90 Day T-Bills, or the closing value of a stock market index. The parties settle by paying/receiving the loss/gain related to the contract in cash when the contract expires. Cash settled futures are those that, as a practical matter, could not be settled by delivery of the referenced item—for example, it would be impossible to deliver an index. A futures contract might also opt to settle against an index based on trade in a related spot market. ICE Brent futures use this method.Expiry (or Expiration in the U.S.) is the time and the day that a particular delivery month of a futures contract stops trading, as well as the final settlement price for that contract. For many equity index futures and interest rate futures as well as for most equity (index) options, this happens on the third Friday of certain trading months. On this day the back month futures contract becomes the front-month futures contract. For example, for most CME and CBOT contracts, at the expiration of the December contract, the March futures become the nearest contract. During a short period (perhaps 30 minutes) the underlying cash price and the futures prices sometimes struggle to converge. At this moment the futures and the underlying assets are extremely liquid and any disparity between an index and an underlying asset is quickly traded by arbitrageurs. At this moment also, the increase in volume is caused by traders rolling over positions to the next contract or, in the case of equity index futures, purchasing underlying components of those indexes to hedge against current index positions. On the expiry date, a European equity arbitrage trading desk in London or Frankfurt will see positions expire in as many as eight major markets almost every half an hour.
+
+
+== Pricing ==
+When the deliverable asset exists in plentiful supply or may be freely created, then the price of a futures contract is determined via arbitrage arguments. This is typical for stock index futures, treasury bond futures, and futures on physical commodities when they are in supply (e.g. agricultural crops after the harvest). However, when the deliverable commodity is not in plentiful supply or when it does not yet exist — for example on crops before the harvest or on Eurodollar Futures or Federal funds rate futures (in which the supposed underlying instrument is to be created upon the delivery date) — the futures price cannot be fixed by arbitrage. In this scenario, there is only one force setting the price, which is simple supply and demand for the asset in the future, as expressed by supply and demand for the futures contract.
+
+
+=== Arbitrage arguments ===
+Arbitrage arguments ("rational pricing") apply when the deliverable asset exists in plentiful supply or may be freely created. Here, the forward price represents the expected future value of the underlying discounted at the risk-free rate—as any deviation from the theoretical price will afford investors a riskless profit opportunity and should be arbitraged away. We define the forward price to be the strike K such that the contract has 0 value at the present time. Assuming interest rates are constant the forward price of the futures is equal to the forward price of the forward contract with the same strike and maturity. It is also the same if the underlying asset is uncorrelated with interest rates. Otherwise, the difference between the forward price on the futures (futures price) and the forward price on the asset, is proportional to the covariance between the underlying asset price and interest rates. For example, a futures contract on a zero-coupon bond will have a futures price lower than the forward price. This is called the futures "convexity correction".
+Thus, assuming constant rates, for a simple, non-dividend paying asset, the value of the futures/forward price, F(t,T), will be found by compounding the present value S(t) at time t to maturity T by the rate of risk-free return r.
+
+  
+    
+      
+        F
+        (
+        t
+        ,
+        T
+        )
+        =
+        S
+        (
+        t
+        )
+        ×
+        (
+        1
+        +
+        r
+        
+          )
+          
+            (
+            T
+            −
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle F(t,T)=S(t)\times (1+r)^{(T-t)}}
+  or, with continuous compounding
+
+  
+    
+      
+        F
+        (
+        t
+        ,
+        T
+        )
+        =
+        S
+        (
+        t
+        )
+        
+          e
+          
+            r
+            (
+            T
+            −
+            t
+            )
+          
+        
+        
+      
+    
+    {\displaystyle F(t,T)=S(t)e^{r(T-t)}\,}
+  This relationship may be modified for storage costs u, dividend or income yields q, and convenience yields y. Storage costs are costs involved in storing a commodity to sell at the futures price. Investors selling the asset at the spot price to arbitrage a futures price earns the storage costs they would have paid to store the asset to sell at the futures price. Convenience yields are benefits of holding an asset for sale at the futures price beyond the cash received from the sale. Such benefits could include the ability to meet unexpected demand, or the ability to use the asset as an input in production. Investors pay or give up the convenience yield when selling at the spot price because they give up these benefits. Such a relationship can be summarized as:
+
+  
+    
+      
+        F
+        (
+        t
+        ,
+        T
+        )
+        =
+        S
+        (
+        t
+        )
+        
+          e
+          
+            (
+            r
+            +
+            u
+            −
+            y
+            )
+            (
+            T
+            −
+            t
+            )
+          
+        
+        
+      
+    
+    {\displaystyle F(t,T)=S(t)e^{(r+u-y)(T-t)}\,}
+  The convenience yield is not easily observable or measured, so y is often calculated, when r and u are known, as the extraneous yield paid by investors selling at spot to arbitrage the futures price. Dividend or income yields q are more easily observed or estimated, and can be incorporated in the same way:
+
+  
+    
+      
+        F
+        (
+        t
+        ,
+        T
+        )
+        =
+        S
+        (
+        t
+        )
+        
+          e
+          
+            (
+            r
+            +
+            u
+            −
+            q
+            )
+            (
+            T
+            −
+            t
+            )
+          
+        
+        
+      
+    
+    {\displaystyle F(t,T)=S(t)e^{(r+u-q)(T-t)}\,}
+  In a perfect market, the relationship between futures and spot prices depends only on the above variables; in practice, there are various market imperfections (transaction costs, differential borrowing, and lending rates, restrictions on short selling) that prevent complete arbitrage. Thus, the futures price in fact varies within arbitrage boundaries around the theoretical price.
+
+
+=== Pricing via expectation ===
+When the deliverable commodity is not in plentiful supply (or when it does not yet exist) rational pricing cannot be applied, as the arbitrage mechanism is not applicable. Here the price of the futures is determined by today's supply and demand for the underlying asset in the future.
+In an efficient market, supply and demand would be expected to balance out at a futures price that represents the present value of an unbiased expectation of the price of the asset at the delivery date. This relationship can be represented as::
+
+  
+    
+      
+        F
+        (
+        t
+        )
+        =
+        
+          E
+          
+            t
+          
+        
+        
+          {
+          
+            S
+            (
+            T
+            )
+          
+          }
+        
+        
+          e
+          
+            (
+            r
+            )
+            (
+            T
+            −
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle F(t)=E_{t}\left\{S(T)\right\}e^{(r)(T-t)}}
+  By contrast, in a shallow and illiquid market, or in a market in which large quantities of the deliverable asset have been deliberately withheld from market participants (an illegal action known as cornering the market), the market clearing price for the futures may still represent the balance between supply and demand but the relationship between this price and the expected future price of the asset can break down.
+
+
+=== Relationship between arbitrage arguments and expectation ===
+The expectation-based relationship will also hold in a no-arbitrage setting when we take expectations with respect to the risk-neutral probability. In other words: a futures price is a martingale with respect to the risk-neutral probability. With this pricing rule, a speculator is expected to break even when the futures market fairly prices the deliverable commodity.
+
+
+=== Contango, backwardation, normal and inverted markets ===
+The situation where the price of a commodity for future delivery is higher than the expected spot price is known as contango. Markets are said to be normal when futures prices are above the current spot price and far-dated futures are priced above near-dated futures. The reverse, where the price of a commodity for future delivery is lower than the expected spot price is known as backwardation.  Similarly, markets are said to be inverted when futures prices are below the current spot price and far-dated futures are priced below near-dated futures.
+
+
+== Futures contracts and exchanges ==
+
+
+=== Contract ===
+There are many different kinds of futures contracts, reflecting the many different kinds of "tradable" assets about which the contract may be based such as commodities, securities (such as single-stock futures), currencies or intangibles such as interest rates and indexes. For information on futures markets in specific underlying commodity markets, follow the links. For a list of tradable commodities futures contracts, see List of traded commodities. See also the futures exchange article.
+
+Foreign exchange market – see Currency future
+Money market – see Interest rate future
+Bond market – see Interest rate future
+Equity market - see Stock market index future and Single-stock futures
+Commodity market
+Cryptocurrencies – see Perpetual futuresTrading on commodities began in Japan in the 18th century with the trading of rice and silk, and similarly in Holland with tulip bulbs. Trading in the US began in the mid 19th century when central grain markets were established and a marketplace was created for farmers to bring their commodities and sell them either for immediate delivery (also called spot or cash market) or for forward delivery. These forward contracts were private contracts between buyers and sellers and became the forerunner to today's exchange-traded futures contracts. Although contract trading began with traditional commodities such as grains, meat, and livestock, exchange trading has expanded to include metals, energy, currency and currency indexes, equities and equity indexes, government interest rates, and private interest rates.
+
+
+=== Exchanges ===
+Contracts on financial instruments were introduced in the 1970s by the Chicago Mercantile Exchange (CME) and these instruments became hugely successful and quickly overtook commodities futures in terms of trading volume and global accessibility to the markets. This innovation led to the introduction of many new futures exchanges worldwide, such as the London International Financial Futures Exchange in 1982 (now Euronext. liffe), Deutsche Terminbörse (now Eurex) and the Tokyo Commodity Exchange (TOCOM). Today, there are more than 90 futures and futures options exchanges worldwide trading to include:
+
+CME Group (CBOT and CME) -- Currencies, Various Interest Rate derivatives (including US Bonds); Agriculture (Corn, Soybeans, Soy Products, Wheat, Pork, Cattle, Butter, Milk); Indices (Dow Jones Industrial Average, NASDAQ Composite, S&P 500, etc.); Metals (Gold, Silver).  NYMEX (CME Group) - energy and metals: crude oil, gasoline, heating oil, natural gas, coal, propane, gold, silver, platinum, copper, aluminum and palladium.
+Dubai Mercantile Exchange (DME) - most notably Oman Crude, Dubai Platts, and Singapore Fuel Oil.
+Intercontinental Exchange (ICE Futures Europe) - formerly the International Petroleum Exchange trades energy including crude oil, heating oil, gas oil (diesel), refined petroleum products, electric power, coal, natural gas, and emissions
+NYSE Euronext - which absorbed Euronext into which London International Financial Futures and Options Exchange or LIFFE (pronounced 'LIFE') was merged. (LIFFE had taken over London Commodities Exchange ("LCE") in 1996)- softs: grains and meats. Inactive market in Baltic Exchange shipping. Index futures include EURIBOR, FTSE 100, CAC 40, AEX index.
+Eurex - part of Deutsche Börse, also operates the Swiss Options and Financial Futures Exchange (SOFFEX) and the European Energy Exchange (EEX)
+South African Futures Exchange - SAFEX
+Sydney Futures Exchange
+Tokyo Commodity Exchange TOCOM
+Tokyo Financial Exchange - TFX - (Euroyen Futures, OverNight CallRate Futures, SpotNext RepoRate Futures)
+Osaka Exchange OSE (JGB Futures, TOPIX Futures, Nikkei Futures, RNP Futures)
+London Metal Exchange - metals: copper, aluminium, lead, zinc, nickel, tin and steel
+Intercontinental Exchange (ICE Futures U.S.) - formerly New York Board of Trade - softs: cocoa, coffee, cotton, orange juice, sugar
+JFX Jakarta Futures Exchange
+Montreal Exchange (MX) (owned by the TMX Group) also known in French as Bourse De Montreal: Interest Rate and Cash Derivatives: Canadian 90 Days Bankers' Acceptance Futures, Canadian government bond futures,  S&P/TSX 60 Index Futures, and various other Index Futures
+Korea Exchange - KRX
+Singapore Exchange - SGX - into which merged Singapore International Monetary Exchange (SIMEX)
+ROFEX - Rosario (Argentina) Futures Exchange
+NCDEX - National Commodity and Derivatives Exchange, India
+National Stock Exchange of India - National Stock Exchange, India - the largest derivates exchange in terms of number of contracts
+EverMarkets Exchange (EMX) - slated for launch in late 2018 - global currencies, equities, commodities and cryptocurrencies
+FEX Global - Financial and Energy Exchange of Australia
+Dalian Commodity Exchange (DCE) - primarily agricultural and industrial products
+Shanghai Futures Exchange (SHFE) - primarily serves metal and foodstuff commodity markets
+Zhengzhou Commodity Exchange (ZCE) - primarily agricultural products and petrochemicals
+China Financial Futures Exchange (CFFEX) - primarily index futures and currencies
+
+
+=== Codes ===
+Most futures contract codes are five characters. The first two characters identify the contract type, the third character identifies the month and the last two characters identify the year.
+On CME Group markets, third (month) futures contract codes are:
+January = F
+February = G
+March = H
+April = J
+May = K
+June = M
+July = N
+August = Q
+September = U
+October = V
+November = X
+December = ZExample: CLX14 is a Crude Oil (CL), November (X) 2014 (14) contract.
+
+
+== Futures contracts users ==
+Futures traders are traditionally placed in one of two groups: hedgers, who have an interest in the underlying asset (which could include an intangible such as an index or interest rate) and are seeking to hedge out the risk of price changes; and speculators, who seek to make a profit by predicting market moves and opening a derivative contract related to the asset "on paper", while they have no practical use for or intent to actually take or make delivery of the underlying asset. In other words, the investor is seeking exposure to the asset in a long futures or the opposite effect via a short futures contract.
+
+
+=== Hedgers ===
+Hedgers typically include producers and consumers of a commodity or the owner of an asset or assets subject to certain influences such as an interest rate.
+For example, in traditional commodity markets, farmers often sell futures contracts for the crops and livestock they produce to guarantee a certain price, making it easier for them to plan. Similarly, livestock producers often purchase futures to cover their feed costs, so that they can plan on a fixed cost for feed. In modern (financial) markets, "producers" of interest rate swaps or equity derivative products will use financial futures or equity index futures to reduce or remove the risk on the swap.
+Those that buy or sell commodity futures need to be careful. If a company buys contracts hedging against price increases, but in fact, the market price of the commodity is substantially lower at the time of delivery, they could find themselves disastrously non-competitive (for example see: VeraSun Energy).
+Investment fund managers at the portfolio and the fund sponsor level can use financial asset futures to manage portfolio interest rate risk, or duration, without making cash purchases or sales using bond futures. Invest firms that receive capital calls or capital inflows in a different currency than their base currency could use currency futures to hedge the currency risk of that inflow in the future.
+
+
+=== Speculators ===
+Speculators typically fall into three categories: position traders, day traders, and swing traders (swing trading), though many hybrid types and unique styles exist. With many investors pouring into the futures markets in recent years controversy has risen about whether speculators are responsible for increased volatility in commodities like oil, and experts are divided on the matter.
+An example that has both hedge and speculative notions involves a mutual fund or separately managed account whose investment objective is to track the performance of a stock index such as the S&P 500 stock index. The portfolio manager often "equitizes" unintended cash holdings or cash inflows in an easy and cost-effective manner by investing in (opening long) S&P 500 stock index futures. This gains the portfolio exposure to the index which is consistent with the fund or account investment objective without having to buy an appropriate proportion of each of the individual 500 stocks just yet. This also preserves balanced diversification, maintains a higher degree of the percent of assets invested in the market and helps reduce tracking error in the performance of the fund/account. When it is economically feasible (an efficient amount of shares of every individual position within the fund or account can be purchased), the portfolio manager can close the contract and make purchases of each individual stock.The social utility of futures markets is considered to be mainly in the transfer of risk, and increased liquidity between traders with different risk and time preferences, from a hedger to a speculator, for example.
+
+
+== Options on futures ==
+In many cases, options are traded on futures, sometimes called simply "futures options". A put is the option to sell a futures contract, and a call is the option to buy a futures contract. For both, the option strike price is the specified futures price at which the futures is traded if the option is exercised. Futures are often used since they are delta one instruments. Calls and options on futures may be priced similarly to those on traded assets by using an extension of the Black-Scholes formula, namely the Black model. For options on futures, where the premium is not due until unwound, the positions are commonly referred to as a fution, as they act like options, however, they settle like futures.
+Investors can either take on the role of option seller (or "writer") or the option buyer. Option sellers are generally seen as taking on more risk because they are contractually obligated to take the opposite futures position if the buyer of the option exercises their right to the futures position specified in the option. The price of an option is determined by supply and demand principles and consists of the option premium, or the price paid to the option seller for offering the option and taking on risk.Where as futures often matures on a quarterly or monthly basis, their options expires more frequent (i.e. daily). Examples are options on futures with the underlying in gold (XAU), index (Nasdaq, S&P 500) or commodities (oil, VIX). The stock exchanges and their clearing houses provide overviews of these products (CME, COMEX, NYMEX).
+
+
+== Futures contract regulations ==
+All futures transactions in the United States are regulated by the Commodity Futures Trading Commission (CFTC), an independent agency of the United States government. The commission has the right to hand out fines and other punishments for an individual or company who breaks any rules. Although by law the commission regulates all transactions, each exchange can have its own rule, and under contract can fine companies for different things or extend the fine that the CFTC hands out.
+The CFTC publishes weekly reports containing details of the open interest of market participants for each market segment that has more than 20 participants. These reports are released every Friday (including data from the previous Tuesday) and contain data on open interest split by reportable and non-reportable open interest as well as commercial and non-commercial open interest. This type of report is referred to as the 'Commitments of Traders Report', COT-Report, or simply COTR.
+
+
+== Definition of a futures contract ==
+Following Björk we give a definition of a futures contract. We describe a futures contract with delivery of item J at the time T:
+
+There exists in the market a quoted price F(t,T), which is known as the futures price at time t for delivery of J at time T.
+The price of entering a futures contract is equal to zero.
+During any time interval 
+  
+    
+      
+        [
+        t
+        ,
+        s
+        ]
+      
+    
+    {\displaystyle [t,s]}
+  , the holder receives the amount 
+  
+    
+      
+        F
+        (
+        s
+        ,
+        T
+        )
+        −
+        F
+        (
+        t
+        ,
+        T
+        )
+      
+    
+    {\displaystyle F(s,T)-F(t,T)}
+  . (this reflects instantaneous marking to market)
+At time T, the holder pays F(T,T) and is entitled to receive J. Note that F(T,T) should be the spot price of J at time T.
+
+
+== Futures versus forwards ==
+A closely related contract is a forward contract. A forward is like a futures in that it specifies the exchange of goods for a specified price at a specified future date. However, a forward is not traded on an exchange and thus does not have the interim partial payments due to marking to market.
+While futures and forward contracts are both contracts to deliver an asset on a future date at a prearranged price, they are different in two main respects:
+
+Futures are exchange-traded, while forwards are traded over-the-counter.
+Thus futures are standardized and face an exchange, while forwards are customized and face a non-exchange counterparty.
+Futures are margined, while forwards are not.
+Thus futures have significantly less credit risk, and have different funding.Forwards have credit risk, but futures do not because a clearing house guarantees against default risk by taking both sides of the trade and marking to market their positions every night.
+Forwards are basically unregulated, while futures contracts are regulated at the central government level.
+The Futures Industry Association (FIA) estimates that 6.97 billion futures contracts were traded in 2007, an increase of nearly 32% over the 2006 figure.
+
+
+=== Exchange versus OTC ===
+Futures are always traded on an exchange, whereas forwards always trade over-the-counter, or can simply be a signed contract between two parties. Therefore:
+
+Futures are highly standardized, being exchange-traded, whereas forwards can be unique, being over-the-counter.
+In the case of physical delivery, the forward contract specifies to whom to make the delivery. The counterparty for delivery on a futures contract is chosen by the clearing house.
+
+
+=== Exchange for Related Position ===
+A variety of trades have developed that involve an exchange of a futures contract for either a over-the-counter, physical commodity, or cash asset position that meets certain criteria such as scale and correspondence to the underlying commodity risk. The Commodity Futures Trading Commission has fined brokers for violations of their regulations for these types of trades.
+
+
+=== Margining ===
+
+Futures are margined daily to the daily spot price of a forward with the same agreed-upon delivery price and the underlying asset (based on mark to market).
+Forwards do not have a standard. More typical would be for the parties to agree to true up, for example, every quarter. The fact that forwards are not margined daily means that, due to movements in the price of the underlying asset, a large differential can build up between the forward's delivery price and the settlement price, and in any event, an unrealized gain (loss) can build up.
+Again, this differs from futures which get 'trued-up' typically daily by a comparison of the market value of the futures to the collateral securing the contract to keep it in line with the brokerage margin requirements. This true-ing up occurs by the "loss" party providing additional collateral; so if the buyer of the contract incurs a drop in value, the shortfall or variation margin would typically be shored up by the investor wiring or depositing additional cash in the brokerage account.
+In a forward though, the spread in exchange rates is not trued up regularly but, rather, it builds up as unrealized gain (loss) depending on which side of the trade being discussed. This means that entire unrealized gain (loss) becomes realized at the time of delivery (or as what typically occurs, the time the contract is closed prior to expiration)—assuming the parties must transact at the underlying currency's spot price to facilitate receipt/delivery.
+The result is that forwards have higher credit risk than futures, and that funding is charged differently.
+The situation for forwards, however, where no daily true-up takes place, in turn, creates credit risk for forwards, but not so much for futures. Simply put, the risk of a forward contract is that the supplier will be unable to deliver the referenced asset, or that the buyer will be unable to pay for it on the delivery date or the date at which the opening party closes the contract.
+The margining of futures eliminates much of this credit risk by forcing the holders to update daily to the price of an equivalent forward purchased that day. This means that there will usually be very little additional money due on the final day to settle the futures contract: only the final day's gain or loss, not the gain or loss over the life of the contract.
+In addition, the daily futures-settlement failure risk is borne by an exchange, rather than an individual party, further limiting credit risk in futures.
+Example:
+Consider a futures contract with a $100 (8h 21m) (8h 21m) price: Let's say that on day 50, a futures contract with a $100 (8h 21m) (8h 21m) delivery price (on the same underlying asset as the future) costs $88 (7h 20m) (7h 20m). On day 51, that futures contract costs $90 (7h 30m) (7h 30m). This means that the "mark-to-market" calculation would require the holder of one side of the futures to pay $2 (0h 10m) (0h 10m) on day 51 to track the changes of the forward price ("post $2 (0h 10m) (0h 10m) of margin"). This money goes, via margin accounts, to the holder of the other side of the future. That is the loss party wires cash to the other party.
+A forward-holder, however, may pay nothing until settlement on the final day, potentially building up a large balance; this may be reflected in the mark by an allowance for credit risk. So, except for tiny effects of convexity bias (due to earning or paying interest on margin), futures and forwards with equal delivery prices result in the same total loss or gain, but holders of futures experience that loss/gain in daily increments which track the forward's daily price changes, while the forward's spot price converges to the settlement price. Thus, while under mark to market accounting, for both assets the gain or loss accrues over the holding period; for a futures this gain or loss is realized daily, while for a forward contract the gain or loss remains unrealized until expiry.
+With an exchange-traded future, the clearing-house interposes itself on every trade. Thus there is no risk of counterparty default. The only risk is that the clearing house defaults (e.g. become bankrupt), which is considered very unlikely.
+
+
+== See also ==
+1256 Contract
+Commodity Exchange Act
+Contract for future sale
+Freight derivatives
+Fuel price risk management
+Grain Futures Act
+List of finance topics
+London Metal Exchange
+Oil-storage trade
+Onion Futures Act
+Perpetual futures
+Prediction market
+Seasonal spread trading
+
+
+=== U.S. Futures exchanges and regulators ===
+Chicago Mercantile Exchange, now part of CME Group
+Commodity Futures Trading Commission
+National Futures Association
+Kansas City Board of Trade
+New York Board of Trade now ICE
+New York Mercantile Exchange, now part of CME Group
+Minneapolis Grain Exchange
+
+
+== Notes ==
+
+
+== References ==
+Redhead, Keith (1997). Financial Derivatives: An Introduction to Futures, Forwards, Options and Swaps. London: Prentice-Hall. ISBN 0-13-241399-X.
+Lioui, Abraham; Poncet, Patrice (2005). Dynamic Asset Allocation with Forwards and Futures. New York: Springer. ISBN 0-387-24107-8.
+Valdez, Steven (2000). An Introduction To Global Financial Markets (3rd ed.). Basingstoke, Hampshire: Macmillan Press. ISBN 0-333-76447-1.
+Arditti, Fred D. (1996). Derivatives: A Comprehensive Resource for Options, Futures, Interest Rate Swaps, and Mortgage Securities. Boston: Harvard Business School Press. ISBN 0-87584-560-6.
+
+
+== Further reading ==
+The National Futures Association (2006). An Educational Guide to Trading Futures and Options on Futures. Chicago, Illinois.
+Emily Lambert (2010). The Futures: The Rise of the Speculator and the Origins of the World's Biggest Markets. Basic Books. ISBN 978-0465018437.
+
+
+== External links ==
+Understanding Derivatives: Markets and Infrastructure Federal Reserve Bank of Chicago, Financial Markets Group

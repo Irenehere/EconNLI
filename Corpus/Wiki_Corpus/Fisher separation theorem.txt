@@ -1,0 +1,24 @@
+In economics, the Fisher separation theorem asserts that the primary objective of a corporation will be the maximization of its present value, regardless of the preferences of its shareholders. The theorem therefore separates management's "productive opportunities" from the entrepreneur's "market opportunities". It was proposed by—and is named after—the economist Irving Fisher.
+The theorem has its "clearest and most famous exposition" [1] in the Theory of Interest (1930); particularly in the "second approximation to the theory of interest" (II:VI).
+
+The Fisher separation theorem states that:
+
+the firm's investment decision is independent of the consumption preferences of the owner;
+the investment decision is independent of the financing decision.
+the value of a capital project (investment) is independent of the mix of methods – equity, debt, and/or cash – used to finance the project.
+Fisher showed the above as follows:
+
+The firm can make the investment decision — i.e. the choice between productive opportunities  — that maximizes its present value, independent of its owner's investment preferences.
+The firm can then ensure that the owner achieves his optimal position in terms of "market opportunities" by funding its investment either with borrowed funds, or internally as appropriate.
+
+
+== See also ==
+Modigliani–Miller theorem
+The Theory of Investment Value
+
+
+== External links ==
+Irving Fisher's Theory of Investment, The History of Economic Thought, The New School
+Great Moments in Financial Economics: Present Value (archived), Prof. Mark Rubinstein, Haas School of Business
+Model: Perfect capital market - Fisher separation theorem, Dr. Henrik Mathiesen, encycogov.com
+Fisher's Separation Theorem, investopedia.com

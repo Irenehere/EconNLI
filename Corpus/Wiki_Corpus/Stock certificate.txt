@@ -1,0 +1,63 @@
+In corporate law, a stock certificate (also known as certificate of stock or share certificate) is a legal document that certifies the legal interest (a bundle of several legal rights) of ownership of a specific number of shares (or, under Article 8 of the Uniform Commercial Code, a securities entitlement or pro rata share of a fungible bulk) or stock in a corporation.
+
+
+== History ==
+A stock certificate is a legal document that certifies the legal interest (a bundle of several legal rights) of ownership of a specific number of shares (or, under Article 8 of the Uniform Commercial Code, a securities entitlement or pro rata share of a fungible bulk) or stock in a corporation. The first such instruments were used in the Netherlands by 1606, and in the United States by the year 1800. Historically, certificates may have been required to evidence entitlement to dividends, with a receipt for the payment being endorsed on the back; and the original certificate may have been required to be provided to effect the transfer of the shareholding.
+In the United States (to a limited extent) and other countries, electronic registration is supplanting the stock certificate for beneficial owners (though depositories holding for them may themselves hold certificates), with companies at times no longer being required to issue paper certificates. In the United States over 420 of the 7,000-plus publicly traded securities, 6%, do not issue paper certificates to beneficial owners. Volumes of share transfer on the New York Stock Exchange, for example, increased over time; in 1938 daily volume was 1 million shares, and in 1954 it reached 2 million shares. The United States' central securities depository, DTC, in 2011 held 1.6 million paper stock certificates, and has promoted efforts to eliminate paper stock certificates, a process called dematerialization—which has been a goal in the industry since at least the 1960s. In 2012, water from Hurricane Sandy flooded a vault at the DTC, damaging over $1 billion in stock and bond certificates. Countries around the world have adopted similar initiatives, with some countries setting deadlines for statutory dematerialization.Brokers may charge up to $500 for issuing a paper certificate, though some charge zero (e.g., The Walt Disney Company) or only a modest fee, and this fee can be avoided by either holding shares in street name (in the United States street name securities are securities held, usually in paper certificate form, by a partnership of a financial institution (such as a broker or bank or central securities depository), where the beneficial owner only receives a statement, similar to a bank account statement) or registering shares directly with the stock transfer agent and having them issue the certificate.Another alternative to both paper and electronic registration is the use of paper-equivalent electronic stock certificates. Forty-seven states have enacted legislation equivalent to the Uniform Electronic Transactions Act, which formalizes equivalency for electronic signatures "in writing" requirements. This, together with the enactment of legislation permitting the use of "facsimile" signatures on certificates (such as in §158 of the Delaware General Corporation Law), has given rise to software as a service technology for private companies to create, issue and manage paper-equivalent electronic stock certificates.
+In Sweden, starting in 1990 share certificates have been largely abolished for shares traded on the stock exchange, people using electronic shares instead (which are either registered in the share owner's name or in the share owner's broker's name). Share certificates may exist in Sweden, but only if the shares are not listed on any stock exchange in Sweden.
+Sometimes a shareholder with a stock certificate can give a proxy to another person to allow them to vote the shares in question. Similarly, a shareholder without a share certificate may often give a proxy to another person to allow them to vote the shares in question. Voting rights are defined by the corporation's charter and corporate law.
+Stock certificates are generally divided into two forms:  registered stock certificates and bearer stock certificates.  A registered stock certificate is normally only evidence of title, and a record of the true holders of the shares will appear in the stockholder's register of the corporation.
+A bearer stock certificate, as its name implies is a bearer instrument, and physical possession of the certificate entitles the holder to exercise all legal rights associated with the stock. Bearer stock certificates are becoming uncommon: they were popular in offshore jurisdictions for their perceived confidentiality, and as a useful way to transfer beneficial title to assets (held by the corporation) without payment of stamp duty, post-issuance. International initiatives have curbed the use of bearer stock certificates in offshore jurisdictions, and tend to be available only in onshore financial centres, although they are rarely seen in practice.
+
+
+== Legal characterization of a stock certificate ==
+A stock certificate represents a legal proprietary interest in the common stock (in the sense of the general fund) or assets of the issuer corporation. The certificate evidences a chose in action against the issuer to collect dividends and usually to influence the issuer through voting pursuant to the issuer's charter and bylaws, which are often implied or incorporated by reference as terms on the face of the certificate.
+Stockholder rights are subject to the solvency requirements of issuer's general creditors and to any terms and conditions validly placed upon the face of the stock certificate which are part of the total agreement between the particular stockholder and the issuer.
+Stock certificates are transferred as negotiable or quasi-negotiable instruments by indorsement and delivery, and issuer charters typically require that transfers must be registered with the issuer (usually via the issuer's transfer agent) in order for the transferee to join as a member of the corporation. Registration of transfer is a type of novation.
+
+
+== See also ==
+Bearer bond
+Bearer instrument
+Scripophily
+Stock certificates franked with revenue tax stamps
+Dematerialization (securities)
+Direct holding system
+
+
+== Gallery ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

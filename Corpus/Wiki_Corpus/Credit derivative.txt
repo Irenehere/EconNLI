@@ -1,0 +1,104 @@
+In finance, a credit derivative refers to any one of "various instruments and techniques designed to separate and then transfer the credit risk" or the risk of an event of default of a corporate or sovereign borrower, transferring it to an entity other than the lender or debtholder.
+An unfunded credit derivative is one where credit protection is bought and sold between bilateral counterparties without the protection seller having to put up money upfront or at any given time during the life of the deal unless an event of default occurs. Usually these contracts are traded pursuant to an International Swaps and Derivatives Association (ISDA) master agreement. Most credit derivatives of this sort are credit default swaps. If the credit derivative is entered into by a financial institution or a special purpose vehicle (SPV) and payments under the credit derivative are funded using securitization techniques, such that a debt obligation is issued by the financial institution or SPV to support these obligations, this is known as a funded credit derivative.
+This synthetic securitization process has become increasingly popular over the last decade, with the simple versions of these structures being known as synthetic collateralized debt obligations (CDOs), credit-linked notes or single-tranche CDOs. In funded credit derivatives, transactions are often rated by rating agencies, which allows investors to take different slices of credit risk according to their risk appetite.
+
+
+== History and participants ==
+The historical antecedents of trade credit insurance, which date back at least to the 1860s, also presaged credit derivatives more indirectly. 
+The market in credit derivatives as defined in today's terms started from nothing in 1993 after having been pioneered by J.P. Morgan's Peter Hancock. By 1996 there was around $40 billion of outstanding transactions, half of which involved the debt of developing countries.Credit default products are the most commonly traded credit derivative product and include unfunded products such as credit default swaps and funded products such as collateralized debt obligations (see further discussion below).
+On May 15, 2007, in a speech concerning credit derivatives and liquidity risk, Timothy Geithner, then President of the Federal Reserve Bank of New York, stated: “Financial innovation has improved the capacity to measure and manage risk.”   Credit market participants, regulators, and courts are increasingly using credit derivative pricing to help inform decisions about loan pricing, risk management, capital requirements, and legal liability.
+The ISDA reported in April 2007 that total notional amount on outstanding credit derivatives was $35.1 trillion with a gross market value of $948 billion (ISDA's Website). As reported in The Times on September 15, 2008, the "Worldwide credit derivatives market is valued at $62 trillion".Although the credit derivatives market is a global one, London has a market share of about 40%, with the rest of Europe having about 10%.The main market participants are banks, hedge funds, insurance companies, pension funds, and other corporates.
+
+
+== Types ==
+Credit derivatives are fundamentally divided into two categories: funded credit derivatives and unfunded credit derivatives.
+An unfunded credit derivative is a bilateral contract between two counterparties, where each party is responsible for making its payments under the contract (i.e., payments of premiums and any cash or physical settlement amount) itself without recourse to other assets.
+A funded credit derivative involves the protection seller (the party that assumes the credit risk) making an initial payment that is used to settle any potential credit events. (The protection buyer, however, still may be exposed to the credit risk of the protection seller itself. This is known as counterparty risk.)
+Unfunded credit derivative products include the following products:
+
+Credit default swap (CDS)
+Total return swap
+Constant maturity credit default swap (CMCDS)
+First to Default Credit Default Swap
+Portfolio Credit Default Swap
+Secured Loan Credit Default Swap
+Credit Default Swap on Asset Backed Securities
+Credit default swaption
+Recovery lock transaction
+Credit Spread Option
+CDS index productsFunded credit derivative products include the following products:
+
+Credit-linked note (CLN)
+Synthetic collateralized debt obligation (CDO)
+Constant Proportion Debt Obligation (CPDO)
+Synthetic constant proportion portfolio insurance (Synthetic CPPI)
+
+
+=== Key unfunded credit derivative products ===
+
+
+==== Credit default swap ====
+
+The credit default swap or CDS has become the cornerstone product of the credit derivatives market.  This product represents over thirty percent of the credit derivatives market.The product has many variations, including where there is a basket or portfolio of reference entities, although fundamentally, the principles remain the same.  A powerful recent variation has been gathering market share of late: credit default swaps which relate to asset-backed securities.
+
+
+==== Total return swap ====
+
+
+=== Key funded credit derivative products ===
+
+
+==== Credit linked notes ====
+A credit linked note is a note whose cash flow depends upon an event, which may be a default, change in credit spread, or rating change. The definition of the relevant credit events must be negotiated by the parties to the note.
+A CLN in effect combines a credit-default swap with a regular note (with coupon, maturity, redemption).  Given its note-like features, a CLN is an on-balance-sheet asset, in contrast to a CDS.
+Typically, an investment fund manager will purchase such a note to hedge against possible down grades, or loan defaults.
+Numerous different types of credit linked notes (CLNs) have been structured and placed in the past few years. Here we are going to provide an overview rather than a detailed account of these instruments.
+The most basic CLN consists of a bond, issued by a well-rated borrower, packaged with a credit default swap on a less creditworthy risk.
+For example, a bank may sell some of its exposure to a particular emerging country by issuing a bond linked to that country's default or convertibility risk. From the bank's point of view, this achieves the purpose of reducing its exposure to that risk, as it will not need to reimburse all or part of the note if a credit event occurs. However, from the point of view of investors, the risk profile is different from that of the bonds issued by the country. If the bank runs into difficulty, their investments will suffer even if the country is still performing well.
+The credit rating is improved by using a proportion of government bonds, which means the CLN investor receives an enhanced coupon.
+Through the use of a credit default swap, the bank receives some recompense if the reference credit defaults.
+There are several different types of securitized product, which have a credit dimension.
+
+Credit-linked notes (CLN): Credit-linked note is a generic name related to any bond whose value is linked to the performance of a reference asset, or assets. This link may be through the use of a credit derivative, but does not have to be.
+Collateralized debt obligation (CDO): Generic term for a bond issued against a mixed pool of assets—there also exists CDO-Squared (CDO^2) where the underlying assets are CDO tranches.
+Collateralized bond obligations (CBO): Bond issued against a pool of bond assets or other securities. It is referred to in a generic sense as a CDO
+Collateralized loan obligations (CLO): Bond issued against a pool of bank loan. It is referred to in a generic sense as a CDOCDO refers either to the pool of assets used to support the CLNs or the CLNs themselves.
+
+
+==== Collateralized debt obligations ====
+
+Not all collateralized debt obligations (CDOs) are credit derivatives. For example, a CDO made up of loans is merely a securitizing of loans that is then tranched based on its credit rating. This particular securitization is known as a collateralized loan obligation (CLO) and the investor receives the cash flow that accompanies the paying of the debtor to the creditor. Essentially, a CDO is held up by a pool of assets that generate cash.  A CDO only becomes a derivative when it is used in conjunction with credit default swaps (CDS), in which case it becomes a Synthetic CDO. The main difference between CDOs and derivatives is that a derivative is essentially a bilateral agreement in which the payout occurs during a specific event which is tied to the underlying asset.
+Other more complicated CDOs have been developed where each underlying credit risk is itself a CDO tranche. These CDOs are commonly known as CDOs-squared.
+
+
+== Pricing ==
+Pricing of credit derivative is not an easy process. This is because:
+
+The complexity in monitoring the market price of the underlying credit obligation.
+Understanding the creditworthiness of a debtor is often a cumbersome task as it is not easily quantifiable.
+The incidence of default is not a frequent phenomenon and makes it difficult for the investors to find the empirical data of a solvent company with respect to default.
+Even though one can take help of different ratings published by ranking agencies but often these ratings will be different.
+
+
+== Risks ==
+Risks involving credit derivatives are a concern among regulators of financial markets.  The US Federal Reserve issued several statements in the Fall of 2005 about these risks, and highlighted the growing backlog of confirmations for credit derivatives trades.  These backlogs pose risks to the market (both in theory and in all likelihood), and they exacerbate other risks in the financial system.  One challenge in regulating these and other derivatives is that the people who know most about them also typically have a vested incentive in encouraging their growth and lack of regulation. Incentive may be indirect, e.g., academics have not only consulting incentives, but also incentives in keeping open doors for research.
+
+
+== See also ==
+Credit default swap
+Credit-linked note
+Jarrow–Turnbull model
+Merton model
+
+
+== Notes and references ==
+
+
+== External links ==
+Understanding Derivatives: Markets and Infrastructure Federal Reserve Bank, Financial Markets Group
+A Credit Derivatives Risk Primer - Simplified explanation for lay persons.
+The Lehman Brothers Guide to Exotic Credit Derivatives
+The J.P. Morgan Guide to Credit Derivatives
+History of Credit Derivatives, Financial-edu.com
+A Beginner's Guide to Credit Derivatives - Noel Vaillant, Nomura International
+Documenting credit default swaps on asset backed securities, Edmund Parker and Jamila Piracci, Mayer Brown, Euromoney Handbooks.

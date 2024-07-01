@@ -1,0 +1,31 @@
+The new neoclassical synthesis (NNS), which is now generally referred to as New Keynesian economics, and occasionally as the New Consensus, is the fusion of the major, modern macroeconomic schools of thought – new classical macroeconomics/real business cycle theory and early New Keynesian economics – into a consensus view on the best way to explain short-run fluctuations in the economy. This new synthesis is analogous to the neoclassical synthesis that combined neoclassical economics with Keynesian macroeconomics.  The new synthesis provides the theoretical foundation for much of contemporary mainstream macroeconomics.  It is an important part of the theoretical foundation for the work done by the Federal Reserve and many other central banks.Prior to the synthesis, macroeconomics was split between partial-equilibrium New Keynesian work on market imperfections demonstrated with small models and new classical work on real business cycle theory that used fully specified general equilibrium models and used changes in technology to explain fluctuations in economic output. The new synthesis has taken elements from both schools, and is characterised by a consensus on acceptable methodology, the importance of empirical validation of theoretical work, and the effectiveness of monetary policy.
+
+
+== Four elements ==
+Ellen McGrattan proposed a list of four elements that are central to the new synthesis described by Goodfried and King: intertemporal optimization, rational expectations, imperfect competition, and costly price adjustment (menu costs).  Goodfriend and King also find that the consensus models produce certain policy implications.  In contradiction with some new classical thought, monetary policy can affect real output in the short-run, but there is no long-run trade-off: money is not neutral in the short-run but it is in the long-run.  High inflation and fluctuations in the inflation rate, have  negative welfare effects. It is important for central banks to maintain credibility through rules based policy like inflation targeting.
+
+
+== Five principles ==
+In the late 2000s, Michael Woodford attempted to describe the new synthesis with five elements.  First, he stated that there is now agreement on intertemporal general equilibrium foundations.  These allow both short-run and long-run impacts of changes in the economy to be examined in a single framework and microeconomic and macroeconomic concerns are no longer separated.  This element of the synthesis is partly a victory for the new classical, but it also includes the Keynesian desire for modeling short-run aggregate dynamics.Second, the modern synthesis recognizes the importance of using observed data, but economists now focus on models built out of theory instead of looking at more generic correlations. Third, the new synthesis addresses the Lucas critique and uses rational expectations. However, based on sticky prices and other rigidities, the synthesis does not embrace the complete neutrality of money proposed by earlier new classical economists.Fourth, the new synthesis accepts that shocks of varying types can cause economic output to fluctuate. This view goes beyond the monetarist view that monetary variables cause fluctuations and the Keynesian view that supply is stable while demand fluctuates.  Older Keynesian models measured output gaps as the difference between measured output and an ever-growing trend of output capacity.  Real business cycle theory did not consider the possibility of gaps and used changes in efficient output, caused by shocks to the economy, to explain fluctuations in output.  Keynesians rejected this theory and argued that changes in efficient output were not large enough to explain wider swings in the economy.The new synthesis combines elements from both schools on this issue.  In the new synthesis, output gaps exist, but they are the difference between actual output and efficient output.  The use of efficient output recognizes that potential output does not grow continuously, but can move upward or downward in response to shocks. Fifth, it is accepted that central banks can control inflation through the use of monetary policy. This is partly a victory for monetarists, but new synthesis models also include an updated version of the Philips curve that draws from Keynesianism.
+
+
+== See also ==
+Neoclassical synthesis
+New classical macroeconomics
+New Keynesian macroeconomicsGeneral
+
+History of macroeconomic thought
+Mainstream economics
+
+
+== Notes ==
+
+
+== References ==
+Blanchard, Olivier (2000), "What Do We Know About Macroeconomics That Fisher and Wicksell Did Not?", Quarterly Journal of Economics, 115 (4): 1375–1409, CiteSeerX 10.1.1.410.6153, doi:10.1162/003355300554999.
+Goodfriend, Marvin; King, Robert G (1997), "The New Neoclassical Synthesis and the Role of Monetary Policy", NBER Macroeconomics Annual, NBER Chapters, 12: 231–83, doi:10.1086/654336, JSTOR 3585232.
+Kocherlakota, Narayana R (May 2010), "Modern macroeconomic models as tools for economic policy", The Region (PDF), Federal Reserve Bank of Minneapolis, pp. 5–21, archived from the original (PDF) on 20 October 2012.
+Mankiw, N Gregory (14 December 2010), "New Keynesian Economics", The Concise Encyclopedia of Economics, Library of Economics and Liberty{{citation}}:  CS1 maint: date and year (link).
+Snowdon, Brian; Vane, Howard (2005), Modern Macroeconomics, Cheltenham: E Elgar, ISBN 978-1-84542-208-0.
+Woodford, Michael (2009), "Convergence in Macroeconomics: Elements of the New Synthesis" (PDF), American Economic Journal: Macroeconomics, 1 (1): 267–79, doi:10.1257/mac.1.1.267.
+Jean-Pierre Laffargue; Pierre Malgrange; Pierre Morin (2012), "The "New Neoclassical Synthesis": An Introduction", Économie et Statistique, 451-452-453: 31–44, doi:10.3406/estat.2012.9738

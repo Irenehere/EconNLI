@@ -1,0 +1,14 @@
+In economics, potential output (also referred to as "natural gross domestic product") refers to the highest level of real gross domestic product (potential output) that can be sustained over the long term. Actual output happens in real life while potential output shows the level that could be achieved.
+
+
+== Limits to output ==
+Natural (physical, etc) and institutional constraints impose limits to growth. 
+If actual GDP rises and stays above potential output, then, in a free market economy (i.e. in the absence of wage and price controls), inflation tends to increase as demand for factors of production exceeds supply. This is because of the finite supply of workers and their time, of capital equipment, and of natural resources, along with the limits of our technology and our management skills. Graphically, the expansion of output beyond the natural limit can be seen as a shift of production volume above the optimum quantity on the average cost curve. Likewise, if GDP persists below natural GDP, inflation might decelerate as suppliers lower prices in order to sell more products, utilizing their excess production-capacity.
+Potential output in macroeconomics corresponds to one point on the production–possibility curve for a society as a whole, reflecting its natural, technological, and institutional constraints.
+
+
+== Resources utilization ==
+Potential output has also been called the "natural gross domestic product." If the economy is said to be at a potential GDP level, the unemployment rate ostensibly equals the NAIRU (the "natural rate of unemployment"). There is great disagreement among economists as to what these rates actually are, while the concept itself of NAIRU is rejected by Post-Keynesians as non-valid.The difference between potential output and actual output is referred to as output gap or GDP gap; it may closely track lags in industrial capacity utilization.Potential output has also been studied in relation Okun's law as to percentage changes in output associated with changes in the output gap and over time. and in decomposition of trend and business cycle in the economy relative to the output gap.
+
+
+== Notes ==

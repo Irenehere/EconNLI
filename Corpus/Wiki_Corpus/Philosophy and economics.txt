@@ -1,0 +1,91 @@
+Philosophy and economics studies topics such as public economics, behavioural economics, rationality, justice, history of economic thought, rational choice, the appraisal of economic outcomes, institutions and processes, the status of highly idealized economic models, the ontology of economic phenomena and the possibilities of acquiring knowledge of them.It is useful to divide philosophy of economics in this way into three subject matters which can be regarded respectively as branches of action theory, ethics (or normative social and political philosophy), and philosophy of science. Economic theories of rationality, welfare, and social choice defend substantive philosophical theses often informed by relevant philosophical literature and of evident interest to those interested in action theory, philosophical psychology, and social and political philosophy.
+Economics is of special interest to those interested in epistemology and philosophy of science both because of its detailed peculiarities and because it has many of the overt features of the natural sciences, while its object consists of social phenomena.
+
+
+== Scope ==
+
+
+=== Definition and ontology of economics ===
+The question usually addressed in any subfield of philosophy (the philosophy of X) is "what is X?"  A philosophical approach to the question "what is economics?" is less likely to produce an answer than it is to produce a survey of the definitional and territorial difficulties and controversies. Similar considerations apply as a prologue to further discussion of methodology in a subject. Definitions of economics have varied over time from the modern origins of the subject, reflecting programmatic concerns and distinctions of expositors.Ontological questions continue with further "what is..." questions addressed at fundamental economic phenomena, such as "what is (economic) value?" or "what is a market?". While it is possible to respond to such questions with real verbal definitions, the philosophical value of posing such questions actually aims at shifting entire perspectives as to the nature of the foundations of economics. In the rare cases that attempts at ontological shifts gain wide acceptance, their ripple effects can spread throughout the entire field of economics.
+
+
+=== Methodology and epistemology of economics ===
+
+An epistemology deals with how we know things. In the philosophy of economics this means asking questions such as: what kind of a "truth claim" is made by economic theories – for example, are we claiming that the theories relate to reality or perceptions? How can or should we prove economic theories – for example, must every economic theory be empirically verifiable? How exact are economic theories and can they lay claim to the status of an exact science – for example, are economic predictions as reliable as predictions in the natural sciences, and why or why not? Another way of expressing this issue is to ask whether economic theories can state "laws". Philosophers of science and economists have explored these issues intensively since the work of Alexander Rosenberg and Daniel M. Hausman dating to 3 decades ago.
+
+
+=== Rational choice, decision theory and game theory ===
+
+Philosophical approaches in decision theory focus on foundational concepts in decision theory – for example, on the natures of choice or preference, rationality, risk and uncertainty, and economic agents.
+Game theory is shared between a number of disciplines, but especially mathematics, economics and philosophy. Game theory is still extensively discussed within the field of the philosophy of economics. Game theory is closely related to and builds on decision theory and is likewise very strongly interdisciplinary.
+
+
+=== Ethics and justice ===
+
+The ethics of economic systems deals with the issues such as how it is right (just, fair) to keep or distribute economic goods. Economic systems as a product of collective activity allow examination of their ethical consequences for all of their participants. Ethics and economics relates ethical studies to welfare economics. It has been argued that a closer relation between welfare economics and modern ethical studies may enrich both areas, even including predictive and descriptive economics as to rationality of behavior, given social interdependence.Ethics and justice overlap disciplines in different ways. Approaches are regarded as more philosophical when they study the fundamentals – for example, John Rawls' A Theory of Justice (1971) and Robert Nozick's Anarchy, State and Utopia (1974). 'Justice' in economics is a subcategory of welfare economics with models frequently representing the ethical-social requirements of a given theory. "Practical" matters include such subjects as law and cost–benefit analysisUtilitarianism, one of the ethical methodologies, has its origins inextricably interwoven with the emergence of modern economic thought. Today utilitarianism has spread throughout applied ethics as one of a number of approaches. Non-utilitarian approaches in applied ethics are also now used when questioning the ethics of economic systems – e.g. rights-based (deontological) approaches.Many political ideologies have been an immediate outgrowth of reflection on the ethics of economic systems. Marx, for example, is generally regarded primarily as a philosopher, his most notable work being on the philosophy of economics. However, Marx's economic critique of capitalism did not depend on ethics, justice, or any form of morality, instead focusing on the inherent contradictions of capitalism through the lens of a process which is today called dialectical materialism.
+
+
+=== Non-mainstream economic thinking ===
+
+The philosophy of economics defines itself as including the questioning of foundations or assumptions of economics. The foundations and assumption of economics have been questioned from the perspective of noteworthy but typically under-represented groups. These areas are therefore to be included within the philosophy of economics.
+
+Praxeology: a deductive theory of human action based on premises presumed to be philosophically true (following the analytic–synthetic distinction of Immanuel Kant). Developed by Ludwig von Mises within the Austrian School, is a self-conscious opposition to the mathematical modeling and hypothesis-testing to validate neoclassical economics.
+Cross-cultural perspectives on economics, and economic anthropology: an example is the Buddhist-inspired Bhutanese "Gross National Happiness" concept (suggested as a better development measure than GNI/GDP). Amartya Sen is a renowned advocate for the integration of cross-cultural phenomena into economic thinking.
+Feminist perspectives on economics, or feminist economics.
+
+
+== Scholars cited in the literature ==
+
+
+== Related disciplines ==
+The ethics of economic systems is an area of overlap between business ethics and the philosophy of economics. People who write on the ethics of economic systems are more likely to call themselves political philosophers than business ethicists or economic philosophers. There is significant overlap between theoretical issues in economics and the philosophy of economics. As economics is generally accepted to have its origins in philosophy, the history of economics overlaps with the philosophy of economics.
+
+
+== Degrees ==
+Some universities offer joint degrees that combine philosophy, politics and economics. These degrees cover many of the problems that are discussed in Philosophy and Economics, but are more broadly construed. A small number of universities, notably the London School of Economics, University of Edinburgh, the Erasmus University Rotterdam, Copenhagen Business School, the University of Vienna and the University of Bayreuth offer master's degree programs specialized in philosophy and economics.
+
+
+== Journals ==
+Economics and Philosophy
+Erasmus Journal for Philosophy and Economics
+Journal of Economic Methodology
+Philosophy and Public Affairs
+Politics, Philosophy & Economics – Aims and Scope
+
+
+== See also ==
+Analytic philosophy
+Critique of political economy
+Philosophy of science
+Schools of economic thought
+History of economic thought
+Teoría de Precios: Porqué está mal la Economía textbook (2010)
+
+
+== Notes ==
+
+
+== References ==
+Boulding, Kenneth E. (1969). "Economics as a Moral Science," American Economic Review, 59(1), pp.  1-12.
+Caldwell, Bruce (1987). "positivism,"  The New Palgrave: A Dictionary of Economics, v.3, pp. 921–23.
+Downie, R.S. (1987). "moral philosophy," The New Palgrave: A Dictionary of Economics, v. 3, pp. 551–56.
+Hands, D. Wade, ed.  (1993). The Philosophy and Methodology of Economics, Edward Elgar. 3 v. Description and Table of Contents links.
+Davis, John B., Alain Marciano, Jochen Runde, eds. (2004). The Elgar Companion to Economics and Philosophy. Description & Table of Contents links and Introduction and ch. 1 previews via sidebar scrolling. Articles from 1925 & 1940–1991.
+Hausman, Daniel M. (1992). Essays on Philosophy and Economic Methodology. Description,  ch. 1 link. Chapter-preview links.
+_____, ed. ([1984] 2008). The Philosophy of Economics: An Anthology, 3rd ed. Cambridge. Description & Table of contents links and Introduction. From John Stuart Mill on.
+Heilbroner, Robert L. ([1953] 1999). The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers, 7th ed. Scroll to chapter-preview links.
+Hodgson, Bernard (2001). Economics as Moral Science.  Description and chapter-preview links, pp. xi-xiv.
+Peil, Jan, and Irene van Staveren, eds. (2009).  Handbook of Economics and Ethics, Edward Elgar. Description and  preview.
+Putnam, Hilary (1993). "The Collapse of the Fact/Value Dichotomy," in Martha Nussbaum and Amartya Sen, ed. The Quality of Life, pp. 143–157. Oxford. Reprinted in Putnam (2002), Part I, pp. 5 -64.
+_____ (2002). The Collapse of the Fact/Value Dichotomy and Other Essays, Description and chapter-preview  links.
+Robinson, Joan (1962). Economic Philosophy. Description and scroll to chapter and previews.
+Rubinstein, Ariel (2006). "Dilemmas of an Economic Theorist," Econometrica, 74(4), pp. 865–883 (close Page tab).
+Szenberg, Michael, ed. (1992). Eminent Economists: Their Life Philosophies, Cambridge. Description and preview.
+Walsh, Vivian (1961). Scarcity and Evil]: An Original Exploration of Moral Issues on the Frontier Between Guilt and Tragedy. Prentice-Hall.
+_____ (1987). "philosophy and economics," The New Palgrave: A Dictionary of Economics, v. 3, pp. 861–869.
+_____ (1996). Rationality, Allocation, and Reproduction. Cambridge. Description and scroll to chapter-preview links.
+
+
+== External links ==
+Philosophy of Economics (Daniel Little's entry in the Routledge Encyclopedia of the Philosophy of Science)
+Philosophy of Economics (Stanford Encyclopedia of Philosophy) by Daniel M. Hausman, notable in the field.

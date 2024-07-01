@@ -1,0 +1,52 @@
+Credit (from Latin verb credit, meaning "one believes") is the trust which allows one party to provide money or resources to another party wherein the second party does not reimburse the first party immediately (thereby generating a debt), but promises either to repay or return those resources (or other materials of equal value) at a later date. The resources provided by the first party can be either property, fulfillment of promises, or performances. In other words, credit is a method of making reciprocity formal, legally enforceable, and extensible to a large group of unrelated people.
+The resources provided may be financial (e.g. granting a loan), or they may consist of goods or services (e.g. consumer credit). Credit encompasses any form of deferred payment. Credit is extended by a creditor, also known as a lender, to a debtor, also known as a borrower.
+
+
+== Etymology ==
+The term "credit" was first used in English in the 1520s. The term came "from Middle French crédit (15c.) "belief, trust," from Italian credito, from Latin creditum "a loan, thing entrusted to another," from past participle of credere "to trust, entrust, believe". The commercial meaning of "credit" "was the original one in English (creditor is [from] mid-15c.)" The derivative expression "credit union" was first used in 1881 in American English; the expression "credit rating" was first used in 1958.
+
+
+== History ==
+Credit cards became most prominent during the 1900s. Larger companies began creating chains with other companies and used a credit card as a way to make payments to any of these companies. The companies charged the cardholder a certain annual fee and chose their billing methods while each participating company was charged a percentage of total billings. This led to the creating of credit cards on behalf of banks around the world. Some other first bank-issued credit cards include Bank of America's Bank Americard in 1958 and American Express' American Express Card also in 1958. These worked similarly to the company-issued credit cards; however, they expanded purchasing power to almost any service and they allowed a consumer to accumulate revolving credit. Revolving credit was a means to pay off a balance at a later date while incurring a finance charge for the balance.
+
+
+=== Discrimination ===
+Until the Equal Credit Opportunity Act in 1974, women in America were given credit cards under stricter terms, or not at all. It could be hard for a woman to buy a house without a male co-signer.  In the past, even when not explicitly barred from them, people of color were often unable to get credit to buy a house in white neighborhoods.
+
+
+== Bank-issued credit ==
+Bank-issued credit makes up the largest proportion of credit in existence. The traditional view of banks as intermediaries between savers and borrowers is incorrect. Modern banking is about credit creation. Credit is made up of two parts, the credit (money) and its corresponding debt, which requires repayment with interest. The majority (97% as of December 2013) of the money in the UK economy is created as credit. When a bank issues credit (i.e. makes a loan), it writes a negative entry in to the liabilities column of its balance sheet, and an equivalent positive figure on the assets column; the asset being the loan repayment income stream (plus interest) from a credit-worthy individual. When the debt is fully repaid, the credit and debt are canceled, and the money disappears from the economy. Meanwhile, the debtor receives a positive cash balance (which is used to purchase something like a house), but also an equivalent negative liability to be repaid to the bank over the duration. Most of the credit created goes into the purchase of land and property, creating inflation in those markets, which is a major driver of the economic cycle.
+When a bank creates credit, it effectively owes the money to itself. If a bank issues too much bad credit (those debtors who are unable to pay it back), the bank will become insolvent; having more liabilities than assets. That the bank never had the money to lend in the first place is immaterial - the banking license affords banks to create credit - what matters is that a bank's total assets are greater than its total liabilities and that it is holding sufficient liquid assets - such as cash - to meet its obligations to its debtors. If it fails to do this it risks bankruptcy or banking license withdrawal.
+There are two main forms of private credit created by banks; unsecured (non-collateralized) credit such as consumer credit cards and small unsecured loans, and secured (collateralized) credit, typically secured against the item being purchased with the money (house, boat, car, etc.). To reduce their exposure to the risk of not getting their money back (credit default), banks will tend to issue large credit sums to those deemed credit-worthy, and also to require collateral; something of equivalent value to the loan, which will be passed to the bank if the debtor fails to meet the repayment terms of the loan. In this instance, the bank uses the sale of the collateral to reduce its liabilities. Examples of secured credit include consumer mortgages used to buy houses, boats, etc., and PCP (personal contract plan) credit agreements for automobile purchases.
+Movements of financial capital are normally dependent on either credit or equity transfers. The global credit market is three times the size of global equity.  Credit is in turn dependent on the reputation or creditworthiness of the entity which takes responsibility for the funds. Credit is also traded in financial markets. The purest form is the credit default swap market, which is essentially a traded market in credit insurance. A credit default swap represents the price at which two parties exchange this risk – the protection seller takes the risk of default of the credit in return for a payment, commonly denoted in basis points (one basis point is 1/100 of a percent) of the notional amount to be referenced, while the protection buyer pays this premium and in the case of default of the underlying (a loan, bond or other receivable), delivers this receivable to the protection seller and receives from the seller the paramount (that is, is made whole).
+
+
+== Types ==
+There are many types of credit, including but not limited to bank credit, commerce, consumer credit, investment credit, international credit, and public credit.
+
+
+=== Trade credit ===
+In commercial trade, the term "trade credit" refers to the approval of delayed payment for purchased goods. Credit is sometimes not granted to a buyer who has financial instability or difficulty. Companies frequently offer trade credit to their customers as part of terms of a purchase agreement.  Organizations that offer credit to their customers frequently employ a credit manager.
+
+
+=== Consumer credit ===
+Consumer credit can be defined as "money, goods or services provided to an individual in the absence of immediate payment". Common forms of consumer credit include credit cards, store cards, motor vehicle finance, personal loans (installment loans), consumer lines of credit, payday loans, retail loans (retail installment loans) and mortgages. This is a broad definition of consumer credit and corresponds with the Bank of England's definition of "Lending to individuals". Given the size and nature of the mortgage market, many observers classify mortgage lending as a separate category of personal borrowing, and consequently, residential mortgages are excluded from some definitions of consumer credit, such as the one adopted by the U.S. Federal Reserve.The cost of credit is the additional amount, over and above the amount borrowed, that the borrower has to pay. It includes interest, arrangement fees and any other charges. Some costs are mandatory, required by the lender as an integral part of the credit agreement. Other costs, such as those for credit insurance, may be optional; the borrower chooses whether or not they are included as part of the agreement.
+Interest and other charges are presented in a variety of different ways, but under many legislative regimes lenders are required to quote all mandatory charges in the form of an annual percentage rate (APR). The goal of the APR calculation is to promote "truth in lending", to give potential borrowers a clear measure of the true cost of borrowing and to allow a comparison to be made between competing products. The APR is derived from the pattern of advances and repayments made during the agreement. Optional charges are usually not included in the APR calculation.Interest rates on loans to consumers, whether mortgages or credit cards are most commonly determined with reference to a credit score. Calculated by private credit rating agencies or centralized credit bureaus based on factors such as prior defaults, payment history, and available credit, individuals with higher credit scores have access to lower APRs than those with lower scores.
+
+
+=== Statistics ===
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Logemann, Jan, ed. (2012). The Development of Consumer Credit in Global Perspective: Business, Regulation, and Culture. New York: Palgrave Macmillan. ISBN 978-0-230-34105-0.
+
+
+== External links ==
+ Media related to Credit at Wikimedia Commons
+ Quotations related to Credit at Wikiquote

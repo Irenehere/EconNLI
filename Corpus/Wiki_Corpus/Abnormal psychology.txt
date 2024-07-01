@@ -1,0 +1,254 @@
+Abnormal psychology is the branch of psychology that studies unusual patterns of behavior, emotion, and thought, which could possibly be understood as a mental disorder. Although many behaviors could be considered as abnormal, this branch of psychology typically deals with behavior in a clinical context.: 1–4  There is a long history of attempts to understand and control behavior deemed to be aberrant or deviant (statistically, functionally, morally, or in some other sense), and there is often cultural variation in the approach taken. The field of abnormal psychology identifies multiple causes for different conditions, employing diverse theories from the general field of psychology and elsewhere, and much still hinges on what exactly is meant by "abnormal". There has traditionally been a divide between psychological and biological explanations, reflecting a philosophical dualism in regard to the mind-body problem. There have also been different approaches in trying to classify mental disorders. Abnormal includes three different categories; they are subnormal, supernormal and paranormal.The science of abnormal psychology studies two types of behaviors: adaptive and maladaptive behaviors. Behaviors that are maladaptive suggest that some problem(s) exist, and can also imply that the individual is vulnerable and cannot cope with environmental stress, which is leading them to have problems functioning in daily life in their emotions, mental thinking, physical actions and talks. Behaviors that are adaptive are ones that are well-suited to the nature of people, their lifestyles and surroundings, and to the people that they communicate with, allowing them to understand each other.Clinical psychology is the applied field of psychology that seeks to assess, understand, and treat psychological conditions in clinical practice. The theoretical field known as abnormal psychology may form a backdrop to such work, but clinical psychologists in the current field are unlikely to use the term abnormal in reference to their practice. Psychopathology is a similar term to abnormal psychology, but has more of an implication of an underlying pathology (disease process), and as such, is a term more commonly used in the medical specialty known as psychiatry.
+
+
+== History ==
+
+
+=== Humors ===
+
+Hippocrates (460-377 B.C.E.), hypothesized that the body and mind become unwell when the so-called humors, vital fluids in the body, become unbalanced. The four temperaments theory posits four such humors: black bile, yellow bile, phlegm, and blood. Each humor was associated with a particular temperament: too much phlegm causes a person to be fatigued, too much black bile causes melancholia, yellow bile causes a quick temper, and too much blood causes optimism, cheerfulness, and confidence.
+
+
+=== Asylums ===
+The act of placing individuals with mental illness in a separate facility known as an asylum dates to 1547, when King Henry VIII of England established the St. Mary of Bethlehem asylum in London. This hospital, nicknamed Bedlam, was famous for its deplorable conditions. Asylums remained popular throughout the Middle Ages and the Renaissance era. These early asylums were often in miserable conditions. Patients were seen as a "burden" to society, locked away and treated almost like beasts to be dealt with, rather than patients needing treatment. However, many of the patients received helpful medical treatment. There was scientific curiosity into abnormal behavior, although it was rarely investigated in the early asylums. Inmates in these early asylums were often put on display for profit, as they were viewed as less than human. The early asylums were basically modifications of the existing criminal institutions.In the late 18th century, the idea of humanitarian treatment for the patients gained much favor, due to the work of Philippe Pinel in France. He pushed for the idea that the patients should be treated with kindness, and not the cruelty inflicted on them, as if they were animals or criminals. His experimental ideas, such as removing the chains from the patients, were met with reluctance. The experiments in kindness proved to be a great success, which helped to bring about a reform in the way mental institutions would be run.Institutionalization would continue to improve throughout the 19th and 20th century, as a result of the work of many humanitarians such as Dorothea Dix, and the mental hygiene movement which promoted the physical well-being of the mental patients. "Dix, more than any other figure in the nineteenth century, made people in America and virtually all of Europe aware that the insane were being subjected to incredible abuses." Through this movement, millions of dollars were raised to build new institutions to house the mentally ill. Mental hospitals began to grow substantially in numbers during the 20th century, as care for the mentally ill increased in them.
+By 1939, there were over 400,000 patients in state mental hospitals in the US.  Hospital stays were normally quite long for the patients, with some individuals being treated for many years. These hospitals, while better than the asylums of the past, were still lacking in the means of effective treatment for the patients. Even though the reform movement had occurred, patients were often still met with cruel and inhumane treatment.
+Things began to change in the year 1946, when Mary Jane Ward published the influential novel titled The Snake Pit, which was made into a popular movie of the same name. The book called attention to the conditions which mental patients faced, and helped to spark concern in the general public to create more humane mental health care in these overcrowded hospitals.That same year, the National Institute of Mental Health was also created, which provided support for the training of hospital employees, and research into the conditions of the patients. During this period, the Hill-Burton Acts was also passed, which was a program that funded mental health hospitals. Along with the Community Health Services Act of 1963, the Hill-Burton Acts helped with the creation of outpatient psychiatric clinics, inpatient general hospitals, and rehabilitation and community consultation centers.
+
+
+=== Deinstitutionalisation ===
+In the late twentieth century, however, a large number of mental hospitals were closed in many countries. In England, for example, only 14 of the 130 psychiatric institutions that had been created in the early 20th century remained open at the start of the 21st century. In 1963, President John F. Kennedy launched the community health movement in the United States as a "bold new approach" to mental health care, aimed at coordinating mental health services for citizens in mental health centers. In the span of 40 years, the United States was able to see an about 90 percent drop in the number of patients in psychiatric hospitals.Deinstitutionalisation ended the long-term confinement of patients in isolating mental hospitals, which could and did cause long-term negative adaptations. For instance, institutionalizing people with schizophrenia worsens negative symptoms. However, the practice is sometimes criticised for a perceived rise in homelessness amongst people who were previously institutionalized, or are presumed that they would have been in the institution era.
+
+
+== Explaining abnormal behaviour ==
+People have tried to explain and control abnormal behavior for thousands of years. Historically, there have been three main approaches to abnormal behavior: the supernatural, biological, and psychological traditions.: 7  Abnormal psychology revolves around two major paradigms for explaining mental disorders, the psychological paradigm and the biological paradigm. The psychological paradigm focuses more on the humanistic, cognitive, and behavioral causes and effects of psychopathology. The biological paradigm includes theories that focus more on physical factors, such as genetics and neurochemistry.
+
+
+=== Supernatural explanations ===
+In the first supernatural tradition, also called the demonological method, abnormal behaviors are attributed to agents outside human bodies. According to this model, abnormal behaviors are caused by demons, aliens, or spirits, or the influences of the Moon, planets, and stars. During the Stone Age, trepanning was performed on those who had mental illness, to literally cut the evil spirits out of the victim's head. Conversely, Ancient Chinese, Ancient Egyptians, and Hebrews believed that these were evil demons or spirits and advocated exorcism. By the time of the Greeks and Romans, mental illnesses were thought to be caused by an imbalance of the four humors, leading to draining of fluids from the brain. During the Medieval period, many Europeans believed that the power of witches, demons, and spirits caused abnormal behaviors. People with psychological disorders were thought to be possessed by evil spirits that had to be exorcised through religious rituals. If exorcism failed, some authorities advocated steps such as confinement, beating, and other types of torture to make the body uninhabitable to witches, demons, and spirits. The belief that witches, demons, and spirits are responsible for the abnormal behavior continued into the 15th century.: 8  Swiss alchemist, astrologer, and physician Paracelsus (1493–1541), on the other hand, rejected the idea that abnormal behaviors were caused by witches, demons, and spirits and suggested that people's mind and behaviors were influenced by the movements of the moon and stars.: 11  This tradition is still alive today. Some people, especially in the developing countries, as well as some followers of religious sects in the developed countries, continue to believe that supernatural powers influence human behaviors. In Western academia, the supernatural tradition has been largely replaced by the biological and psychological traditions.: 26 Supernatural traditions
+Throughout time, societies have proposed several explanations of abnormal behavior within human beings. Beginning in some hunter-gatherer societies, animists have believed that people demonstrating abnormal behavior are possessed by malevolent spirits. This idea has been associated with trepanation, the practice of cutting a hole into the individual's skull in order to release the malevolent spirits. Although it has been difficult to define abnormal psychology, one definition includes characteristics such as statistical infrequency.A more formalized response to spiritual beliefs about abnormality is the practice of exorcism. Performed by religious authorities, exorcism is thought of as another way to release evil spirits who cause pathological behavior within the person. In some instances, individuals exhibiting unusual thoughts or behaviors have been exiled from society, or worse. Perceived witchcraft, for example, has been punished by death. Two Catholic Inquisitors wrote the Malleus Maleficarum (Latin for "The Hammer Against Witches"), which was used by many Inquisitors and witch-hunters. It contained an early taxonomy of perceived deviant behavior, and proposed guidelines for prosecuting deviant individuals.
+
+
+=== Biological explanations ===
+In the biological tradition, psychological disorders are attributed to biological causes. In the psychological tradition, disorders are attributed to faulty psychological development, and to social context.: 26  The medical or biological perspective holds the belief that most or all abnormal behavior can be attributed to a medical factor; assuming all psychological disorders are diseases.The Greek physician Hippocrates, who is considered to be the father of Western medicine, played a major role in the biological tradition. Hippocrates and his associates wrote the Hippocratic Corpus between 450 and 350 BC, in which they suggested that abnormal behaviors can be treated like any other disease. Hippocrates viewed the brain as the seat of consciousness, emotion, intelligence, and wisdom and believed that disorders involving these functions would logically be located in the brain.: 11 These ideas of Hippocrates and his associates were later adopted by Galen, the Roman physician. Galen extended these ideas and developed a strong and influential school of thought within the biological tradition that extended well into the 18th century.
+Medical: Kendra Cherry states: "The medical approach to abnormal psychology focuses on the biological causes of mental illness. This perspective emphasizes understanding the underlying cause of disorders, which might include genetic inheritance, related physical disorders, infections, and chemical imbalances. Medical treatments are often pharmacological in nature, although medication is often used in conjunction with some other type of psychotherapy."
+
+
+=== Psychological explanations ===
+According to Sigmund Freud's structural model, the id, ego, and superego are three theoretical constructs that define the way an individual interacts with the external world, as well as responding to internal forces The Id represents the instinctual drives of an individual that remain unconscious. The super-ego represents a person's conscience and their internalization of societal norms and morality. Finally, the ego serves to realistically integrate the drives of the id with the prohibitions of the super-ego. Lack of development in the Superego, or an incoherently developed Superego within an individual, will result in thoughts and actions that are irrational and abnormal, contrary to the norms and beliefs of society.
+
+
+==== Irrational beliefs ====
+Irrational beliefs that are driven by unconscious fears, can result in abnormal behavior. Rational emotive behavior therapy helps to drive irrational and maladaptive beliefs out of one's mind.
+
+
+==== Sociocultural influences ====
+The term sociocultural refers to the various circles of influence on the individual, ranging from close friends and family, to the institutions and policies of a country, or the world as a whole. Discriminations, whether based on social class, income, race and ethnicity, or gender, can influence the development of abnormal behaviour.
+
+
+=== Multiple causality ===
+The number of different theoretical perspectives in the field of psychological abnormality has made it difficult to properly explain psychopathology. The attempt to explain all mental disorders with the same theory leads to reductionism (explaining a disorder or other complex phenomena using only a single idea or perspective). Most mental disorders are composed of several factors, which is why one must take into account several theoretical perspectives, when attempting to diagnose or explain a particular behavioral abnormality or mental disorder. Explaining mental disorders with a combination of theoretical perspectives is known as multiple causality.
+The diathesis–stress model emphasizes the importance of applying multiple causality to psychopathology, by stressing that disorders are caused by both precipitating causes, and predisposing causes. A precipitating cause is an immediate trigger that instigates a person's action or behavior. A predisposing cause is an underlying factor that interacts with the immediate factors to result in a disorder. Both causes play a key role in the development of a psychological disorder. For example, high neuroticism antedates most types of psychopathology.
+
+
+=== Recent concepts of abnormality ===
+Statistical abnormality – when a certain behavior/characteristic is relevant to a low percentage of the population. However, this does not necessarily mean that such individuals have mental illness (for example, statistical abnormalities such as extreme wealth/attractiveness)
+Psychometric abnormality – Psychometric abnormality implicates abnormality as a deviation from a statistically determined norm, such as the population average IQ of 100. In this case, an IQ score less than about 70–75 may define someone as having a learning disability, and suggests they will have some difficulties coping with life. However, the problems associated with a low IQ differ widely across individuals depending on their life circumstances. So, even when an individual is defined as psycho-metrically 'abnormal', this tells us little about their actual condition or problems. Furthermore, if one takes the other end of the IQ spectrum, a deviation of 30 points above the mean is generally not considered to be abnormal, or to indicate the presence of mental health problems.
+Deviant behavior – this is not always a sign of mental illness, as mental illness can occur without deviant behavior, and such behavior may occur in the absence of mental illness.
+Combinations – including distress, dysfunction, distorted psychological processes, inappropriate responses in given situations, and causing/risking harm to oneself.
+
+
+==== Examples ====
+There is a wide range of mental disorders that are considered to be forms of Abnormal Psychology. These include, but are not limited to:
+Schizophrenia
+Schizophrenia can be described as a disorder that causes extreme loss of touch with reality. The Psychotic nature of schizophrenia manifests itself through delusions, as well as auditory and visual hallucinations. Schizophrenia is known to have a genetic etiology, as well as other biological components, such as brain disruptions in the prenatal development period.: 323–326 Attention deficit hyperactivity disorder
+Attention deficit hyperactivity disorder (ADHD) is characterized by high amounts of inattention and hyperactive impulsiveness. Inattentive symptoms include not listening, careless errors, disorganization, losing personal belongings, becoming easily distracted, and forgetfulness. Symptoms of hyperactive impulsiveness include fidgeting, talking excessively, and interrupting others.: 225–253 Antisocial personality disorder
+Antisocial personality disorder can be described as a cluster of personality traits that lead to specific outcomes, and violate the rights of other people. These personality traits include callousness, deceitfulness, lack of remorse, apathy, manipulation of others, impulsiveness, and grandiosity. Additional traits may include superficial charm, sexual promiscuity, and pathological lying.Dissociative identity disorder
+Dissociative identity disorder (DID) involves one individual having multiple personalities. Those with DID are described as having multiple selves that each have their own consciousness and awareness.DID has two main etiologies, which are the post-traumatic and socio-cognitive models. The post-traumatic model states that DID is caused by inescapable past trauma, such as child abuse. The child dissociates and forms alternate personalities, as a coping mechanism in response to the current trauma. Even when the trauma ends, the personalities continue to disrupt the person's life longterm. The socio-cognitive model states that people implicitly act as if they have multiple personalities, and this is done to align with cultural norms.Social anxiety disorder
+Those with social anxiety disorder (SAD) have a very intense fear of social situations. This fear stems from the belief that the person will be evaluated negatively, or embarrass themselves.SAD is also considered to be one of the more disabling mental disorders. Symptoms of this disorder include fear in most, if not all social situations. SAD can develop after a traumatic and/or embarrassing experience has occurred while the person was being observed by other people.: 200–202 Generalized anxiety disorder
+Generalized anxiety disorder is characterized by a constant, chronic state of worry and anxiety that is related to a large variety of situations, and is difficult to control. Additional symptoms may include irritability, fatigue, concentration difficulties, and restlessness.Specific phobia
+Individuals with specific phobias have an extreme fear and avoidance of various objects or situations. Specifically, fears become phobias when there is excessive and unreasonable fear that is disproportionate to the culture that the individual is in.: 199–200  Examples of specific phobias include, but are not limited to, phobias of school, blood, injury, needles, small animals, and heights.Post-traumatic stress disorder
+Post-traumatic stress disorder (PTSD) is described as physical and mental distress related to past traumatic experiences. PTSD can manifest a large variety of symptoms, including, but not limited to, nightmares, flashbacks, avoidance and/or physiological reactions related to stimuli regarding the trauma, shame, guilt, anger, hypervigilance, and social withdrawal.PTSD symptoms can arise due to various experiences that involve actual or threatened violence, injury, or death. Firsthand experience, witnessing, or learning about traumatic experiences can possibly lead to the development of PTSD.
+
+
+== Approaches ==
+Somatogenic – abnormality is seen as a result of biological disorders in the brain. This approach has led to the development of radical biological treatments, e.g. lobotomy.
+Psychogenic – abnormality is caused by psychological problems. Psychoanalytic (Freud), Cathartic, Hypnotic and Humanistic Psychology (Carl Rogers, Abraham Maslow) treatments were all derived from this paradigm. This approach has, as well, led to some esoteric treatments: Franz Mesmer used to place his patients in a darkened room with music playing, then enter it wearing a flamboyant outfit and poke the "infected" body areas with a stick.
+
+
+== Classification ==
+
+
+=== DSM-5 ===
+The standard abnormal psychology and psychiatry reference book in North America is the Diagnostic and Statistical Manual of the American Psychiatric Association. The current version of the book is known as the DSM-5. It lists a set of disorders and provides detailed descriptions on what constitutes a mental disorder.The DSM-5 identifies three key elements that must be present to constitute a mental disorder. These elements include:
+Symptoms that involve disturbances in behavior, thoughts, or emotions.
+Symptoms associated with personal distress or impairment.
+Symptoms that stem from internal dysfunctions (i.e. specifically having biological and/or psychological roots).The DSM-5 uses three main sections to organize its contents. These sections include I, II, and III. Section I includes the introduction, use, and basics of the DSM-5. Section II includes diagnostic criteria and codes. Section III includes emerging measures and models.
+
+
+=== Section I (DSM-5 Basics) ===
+Section I of the DSM-5 briefly prefaces purpose, content, structure, and use. This includes basics, introductions and cautionary statements for forensic use. Information is also given about the revision and review processes as well as the DSM-5's goals to harmonize with the ICD-11. An explanation regarding the change from the previous multi-axial classification system to the current three section system is also included here.
+
+
+=== Section II (Diagnostic Criteria and Codes) ===
+Section II of the DSM-5 Contains a wide range of diagnostic criteria and codes used for establishing, and diagnosing the vast amount of abnormal psychological constructs. This sections replaced the bulk of the axis system in the previous DSM versions and includes the following categories:
+Diagnostic Criteria and codes
+Neurodevelopmental Disorders
+Schizophrenia Spectrum and Other Psychotic Disorders
+Bipolar and related Disorders
+Depressive Disorders
+Anxiety Disorders
+Obsessive-Compulsive and related Disorders
+Trauma and Stressor related disorders
+Dissociative Disorders
+Somatic Symptom and Related Disorders
+Feeding and Eating Disorders
+Elimination Disorders
+Sleep Wake Disorders
+Sexual Dysfunctions
+Gender Dysphoria
+Disruptive, Impulse Control, and Conduct Disorders
+Substance Related and Addictive Disorders
+Neurocognitive Disorders
+Personality Disorders
+Paraphilic Disorders
+Medication induced movement disorders and effects of medication.
+Other Mental disorders and additional CodesThese categories are used to organize the various Abnormal psychological concepts based on their similarity.
+
+
+=== Section III (Emerging Measures and Models) ===
+Section III of the DSM-5 contains the various methods and strategies that are used to make clinical decisions, understand culture, and explore emerging diagnoses.
+
+
+=== ICD-10 ===
+The major international nosologic system for the classification of mental disorders can be found in the International Classification of Diseases, 10th revision (ICD-10). The ICD-10 has been used by World Health Organization (WHO) Member States since 1994. Chapter five covers some 300 mental and behavioral disorders. The ICD-10's chapter five has been influenced by APA's DSM-IV and there is a great deal of concordance between the two. Beginning in January 2022, the ICD-11 will replace the ICD-10 in WHO member states. WHO maintains free access to the ICD-10 Online. Below are the main categories of disorders:
+
+F00–F09 Organic, including symptomatic, mental disorders
+F10–F19 Mental and behavioral disorders due to psychoactive substance use
+F20–F29 Schizophrenia, schizotypal and delusional disorders
+F30–F39 Mood [affective] disorders
+F40–F48 Neurotic, stress-related and somatoform disorders
+F50–F59 Behavioral syndromes associated with physiological disturbances and physical factors
+F60–F69 Disorders of adult personality and behavior
+F70–F79 Mental retardation
+F80–F89 Disorders of psychological development
+F90–F98 Behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+F99 Unspecified mental disorder
+
+
+=== ICD-11 ===
+The ICD-11 is the most recent version of the International Classification of Diseases. The Mental, behavioral, or Neurodevelopmental disorders section highlights forms of abnormal psychology.Mental, behavioral, or Neurodevelopmental disorders
+
+6A00-6A0Z Neurodevelopmental disorders
+6A20-6A2Z Schizophrenia or other primary psychotic disorders
+6A40-6A4Z Catatonia
+6A60-6A8Z Mood Disorders
+6B00-6B0Z Anxiety or fear related disorders
+6B20-6B2Z Obsessive-compulsive or related disorders
+6B40-6B4Z Disorders specifically associated with stress
+6B60-6B6Z Dissociative disorders
+6B80-6B8Z Feeding or eating disorders
+6C00-6C0Z Elimination Disorders
+6C20-6C2Z Disorders of bodily distress or bodily experience
+Disorders due to substance use or addictive behaviors
+6C70-6C7Z Impulse control disorders
+6C90-6C9Z Disruptive behavior or dissocial disorders
+6D10-6E68 personality disorders and related traits
+6D30-6D3Z Paraphilic disorders
+6D50-6D5Z Factitious disorders
+6D70-6E0Z Neurocognitive disorders
+6E20-6E2Z Mental or behavioral disorders associated with pregnancy, childbirth or the puerperium
+6E40.0-6E40.Z (6E40) Psychological or behavioral factors affecting disorders or diseases classified elsewhere
+6E60-6E6Z secondary mental or behavioral syndromes associated with disorders or diseases classified elsewhere
+
+
+== Perspectives of abnormal psychology ==
+Psychologists may use different perspectives to try to get better understanding on abnormal psychology. Some of them may just concentrate on a single perspective. But the professionals prefer to combine two or three perspectives together in order to get significant information for better treatments.
+
+Behavioral – the perspective focus on observable behaviors
+Medical – the perspective focus on biological causes on mental illness
+Cognitive – the perspective focus on how internal thoughts, perceptions and reasoning contribute to psychological disorders
+
+
+== Cause ==
+
+
+=== Genetics ===
+Investigated through family studies, mainly of monozygotic (identical) and dizygotic (fraternal) twins, often in the context of adoption. Monozygotic twins should be more likely than dizygotic twins to have the same disorder because they share 100% of their genetic material, whereas dizygotic twins share only 50%. For many disorders, this is exactly what research shows. But given that monozygotic twins share 100% of their genetic material, it may be expected of them to have the same disorders 100% of the time, but in fact they have the same disorders only about 50% of the time
+These studies allow calculation of a heritability coefficient.
+Genetic vulnerabilities (Diathesis stress Model): 290–291 
+
+
+=== Biological causal factors ===
+Neurotransmitter [imbalances of neurotransmitters like norepinephrine, dopamine, serotonin and GABA (Gamma aminobutyric acid)] and hormonal imbalances in the brain
+Constitutional liabilities [physical handicaps and temperament]
+Brain dysfunction and neural plasticity
+Physical deprivation or disruption [deprivation of basic physiological needs]
+
+
+=== Socio-cultural factors ===
+Effects of urban/rural dwelling, gender and minority status on state of mind
+Generalizations about cultural practices and beliefs may fail to capture the diversity that exists within and across cultural groups, so we must be extremely careful not to stereotype individuals of any cultural group
+Experiences with child physical and or sexual abuse.
+Encounters with environments that involve actual or threatened death
+
+
+=== Systemic factors ===
+Family systems
+Negatively Expressed Emotion playing a part in schizophrenic relapse and anorexia nervosa.
+
+
+=== Biopsychosocial factors ===
+Illness dependent on stress "triggers".
+
+
+== Therapies ==
+
+
+=== Psychoanalysis (Freud) ===
+Psychoanalytic theory is heavily based on the theory of the neurologist Sigmund Freud. These ideas often represented repressed emotions and memories from a patient's childhood. According to psychoanalytic theory, these repressions cause the disturbances that people experience in their daily lives, and by finding the source of these disturbances, one should be able to eliminate the disturbance itself. This is accomplished by a variety of methods, with some popular ones being free association, hypnosis, and insight. The goal of these methods is to induce a catharsis, or emotional release in the patient, which should indicate that the source of the problem has been tapped, and it can then be treated. Freud's psychosexual stages also played a key role in this form of therapy, as he would often believe that the problems the patient was experiencing were due to them becoming stuck, or "fixated", in a particular stage. Dreams also played a major role in this form of therapy, as Freud viewed dreams as a way to gain insight into the unconscious mind. Patients were often asked to keep dream journals to bring in for discussion during the next therapy session.  There are many potential problems associated with this style of therapy, including resistance to the repressed memory or feeling, and negative transference onto the therapist. Psychoanalysis was carried on by many after Freud, including his daughter Anna Freud, and Jacques Lacan. Many others have also gone on to elaborate on Freud's original theory, and to add their own take on defense mechanisms or dream analysis.  While psychoanalysis has fallen out of favor to more modern forms of therapy, it is still used by some clinical psychologists to varying degrees.
+
+
+=== Behavioral therapy (Wolpe) ===
+Behavior therapy relies on the principles of behaviorism, such as involving classical and operant conditioning. Behaviorism arose in the early 20th century, from the work of psychologists such as James Watson and B. F. Skinner. Behaviorism states that all behaviors humans do is because of a stimulus and reinforcement. While this reinforcement is normally for good behavior, it can also occur for maladaptive behavior.  In this therapeutic view, the patients maladaptive behavior has been reinforced, which will cause the maladaptive behavior to be repeated. The goal of the therapy is to reinforce less maladaptive behaviors, so that with time, these adaptive behaviors will become the primary ones in the patient.
+
+
+=== Humanistic therapy (Rogers) ===
+Humanistic therapy aims to achieve self-actualization (Carl Rogers, 1961). In this style of therapy, the therapist will focus on the patient themselves, as opposed to the patient's problem. The goal of this therapy is, by treating the patient as "human", rather than "client", to get to the source of the problem, and to resolve the problem in an effective manner. Humanistic therapy has been on the rise in recent years, and has been associated with numerous positive benefits. It is considered to be one of the core elements needed for therapeutic effectiveness, and a significant contributor to not only the well-being of the patient, but society as a whole. Some say that all of the therapeutic approaches today draw from the humanistic approach in some regard, and that humanistic therapy is the best way for treat a patient. Humanistic therapy can be used on people of all ages; it is very popular among children in its variant known as "play therapy".
+
+
+=== Cognitive behavioural therapy (Ellis and Beck) ===
+Cognitive behavioural therapy (CBT) aims to influence thought and cognition (Beck, 1977). This form of therapy relies on not only the components of behavioral therapy as mentioned before, but also the elements of cognitive psychology.: 101–102  This relies on not only the clients behavioral problems that could have arisen from conditioning, but also their negative schemas and distorted perceptions of the world around them.  These negative schemas may cause distress in the life of the patient; for example, the schemas may give them unrealistic expectations for how well they should perform at their job, or how they should look physically. When these expectations are not met, it will often result in maladaptive behaviors, such as depression, obsessive compulsions, and anxiety. With CBT, the goal is to change the schemas that are causing the stress in the patients life, and replace them with more realistic ones. Once the negative schemas have been replaced, it will hopefully cause a remission of the patients symptoms. CBT is considered particularly effective in the treatment of depression, and has even been used in recent years in group settings. It is felt that using CBT in a group setting aids in giving its members a sense of support, and decreasing the likelihood of them dropping out of therapy before the treatment has had time to work properly. CBT has been found to be an effective treatment for many patients, even those who do not have diseases and disorders typically thought of as psychiatric ones. For example, patients with the disease multiple sclerosis have found a lot of help using CBT. The treatment often helps the patients cope with the disorder they have, and how they can adapt to their new lives without developing new problems, such as depression, or negative schemas about themselves.According to RAND, therapies are difficult to provide to all patients in need. A lack of funding and understanding of symptoms provides a major roadblock that is not easily avoided. Individual symptoms and responses to treatments vary, which creates a disconnect between patient, society, and care givers/professionals.
+
+
+=== Play therapy (Humanistic) ===
+Children are often sent to therapy due to outbursts that they have in a school or home setting; the theory is that by treating the child in a setting that is similar to the area that they are having their disruptive behavior, the child will be more likely to learn from the therapy, and have an effective outcome. In play therapy, the clinicians will "play" with their client, usually with toys, or a tea party. Playing is the typical behavior of a child, and therefore, playing with the therapist will come as a natural response to the child. In playing together, the clinician will ask the patient questions, and due to the setting, the questions seem less intrusive, more therapeutic, and more like a normal conversation. This should help the patient realize issues they have, and confess them to the therapist with less difficulty than they may experience in a traditional counselling setting.Play therapy involves a therapist observing a child, as the child plays with toys and interacts with their surrounding environment. The therapist plays an observational as well as an interactional role in the intervention. This process allows for the child to enact their problems through play, and speak more comfortably with the therapist.: 102–103  Although somewhat controversial, due to data that suggests a lack of effectiveness in children older than 10 years old, play therapy has been shown to be a valuable treatment. This therapy is particularly useful for younger children under the age of 10, who are consciously aware of their environment. Play therapy is important, seeing as many therapeutic interventions that are effective for adults have shown to be less effective for children.
+
+
+=== Family systems therapies ===
+Family systems therapies are based on the belief that children's problems revolve around problems that occur within the family. Family systems therapy attempts to improve the relations between multiple people involved in specific families via therapeutic intervention. For the best effect, it is recommended that the entire family be included in the therapy. The treatments include family management skill development, and child-parent attachment development. These interventions help to improve family functioning.: 102–103 
+
+
+=== Family management skill development (Family systems therapy) ===
+Family management skills can be taught by family therapists, and include methods such as improving supervision, disciplinary practices, and creating environments that allow for positive interactions between parents and children.: 102–103 
+
+
+=== Child-parent attachment development (Family systems therapy) ===
+Child-parent attachment development involves altering or creating relationships between parents and children, in attempts to create secure bases for the child, and to facilitate trust, independence, and positive perceptions of family relationships. These goals are often achieved by creating understanding regarding behaviors, creating opportunities for attachment, and increasing the family's ability to think about their history and relationships.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Abnormal Psychology Students Practice Resources
+Psychology Terms – a 600-page dictionary  pdf
+A Course in Abnormal Psychology

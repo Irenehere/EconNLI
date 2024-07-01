@@ -1,0 +1,12 @@
+Business cycle accounting is an accounting procedure used in macroeconomics to decompose business cycle fluctuations into contributing factors. The procedure was introduced by V. V. Chari, Patrick Kehoe, and Ellen McGrattan but is similar to techniques introduced earlier. The underlying premise of the procedure is that the economy has a long run trajectory which is perturbed by various frictions. These are called wedges and the earliest version of the procedure includes a productivity wedge, a labor wedge, an investment wedge and a government consumption wedge. Business cycle accounting decomposes fluctuations in macroeconomic variables, such as GDP or employment, into fluctuations of each of these wedges (and their combinations).
+Business cycle accounting has been done for various countries and various periods of time. The procedure suggests for the United States after World War II most fluctuation in GDP is due to fluctuations in the productivity and labor wedges.
+
+
+== See also ==
+Growth accounting
+
+
+== References ==
+Chari, V. V.; Kehoe, Patrick J.; McGrattan, Ellen R. (2007). "Business Cycle Accounting". Econometrica. 75 (3): 781–836. CiteSeerX 10.1.1.57.8791. doi:10.1111/j.1468-0262.2007.00768.x.
+McGrattan, Ellen R.; Chari, V. V.; Kehoe, Patrick J. "Comparing Alternative Representations, Methodologies, and Decompositions in Business Cycle Accounting" (PDF). Federal Reserve Bank of Minneapolis Staff Report 384.
+Christiano, Lawrence J.; Davis, Joshua M. (2006). "Two Flaws In Business Cycle Accounting". NBER Working Paper No. W12647. doi:10.3386/w12647. SSRN 940596.

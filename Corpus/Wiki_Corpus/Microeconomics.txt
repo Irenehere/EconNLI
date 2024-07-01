@@ -1,0 +1,175 @@
+Microeconomics is a branch of mainstream economics that studies the behavior of individuals and firms in making decisions regarding the allocation of scarce resources and the interactions among these individuals and firms. Microeconomics focuses on the study of individual markets, sectors, or industries as opposed to the national economy as whole, which is studied in macroeconomics.
+One goal of microeconomics is to analyze the market mechanisms that establish relative prices among goods and services and allocate limited resources among alternative uses. Microeconomics shows conditions under which free markets lead to desirable allocations. It also analyzes market failure, where markets fail to produce efficient results.While microeconomics focuses on firms and individuals, macroeconomics focuses on the sum total of economic activity, dealing with the issues of growth, inflation, and unemployment—and with national policies relating to these issues. Microeconomics also deals with the effects of economic policies (such as changing taxation levels) on microeconomic behavior and thus on the aforementioned aspects of the economy. Particularly in the wake of the Lucas critique, much of modern macroeconomic theories has been built upon microfoundations—i.e., based upon basic assumptions about micro-level behavior.
+
+
+== Assumptions and definitions ==
+Microeconomic study historically has been performed according to general equilibrium theory, developed by Léon Walras in Elements of Pure Economics (1874) and partial equilibrium theory, introduced by Alfred Marshall in Principles of Economics (1890).Microeconomic theory typically begins with the study of a single rational and utility maximizing individual. To economists, rationality means an individual possesses stable preferences that are both complete and transitive. 
+The technical assumption that preference relations are continuous is needed to ensure the existence of a utility function. Although microeconomic theory can continue without this assumption, it would make comparative statics impossible since there is no guarantee that the resulting utility function would be differentiable.
+Microeconomic theory progresses by defining a competitive budget set which is a subset of the consumption set. It is at this point that economists make the technical assumption that preferences are locally non-satiated. Without the assumption of LNS (local non-satiation) there is no 100% guarantee but there would be a rational rise
+in individual utility. With the necessary tools and assumptions in place the utility maximization problem (UMP) is developed.
+The utility maximization problem is the heart of consumer theory. The utility maximization problem attempts to explain the action axiom by imposing rationality axioms on consumer preferences and then mathematically modeling and analyzing the consequences. The utility maximization problem serves not only as the mathematical foundation of consumer theory but as a metaphysical explanation of it as well. That is, the utility maximization problem is used by economists to not only explain what or how individuals make choices but why individuals make choices as well.
+The utility maximization problem is a constrained optimization problem in which an individual seeks to maximize utility subject to a budget constraint. Economists use the extreme value theorem to guarantee that a solution to the utility maximization problem exists. That is, since the budget constraint is both bounded and closed, a solution to the utility maximization problem exists. Economists call the solution to the utility maximization problem a Walrasian demand function or correspondence.The utility maximization problem has so far been developed by taking consumer tastes (i.e. consumer utility) as the primitive. However, an alternative way to develop microeconomic theory is by taking consumer choice as the primitive. This model of microeconomic theory is referred to as revealed preference theory.
+
+The theory of supply and demand usually assumes that markets are perfectly competitive. This implies that there are many buyers and sellers in the market and none of them have the capacity to significantly influence prices of goods and services. In many real-life transactions, the assumption fails because some individual buyers or sellers have the ability to influence prices. Quite often, a sophisticated analysis is required to understand the demand-supply equation of a good model. However, the theory works well in situations meeting these assumptions.
+Mainstream economics does not assume a priori that markets are preferable to other forms of social organization. In fact, much analysis is devoted to cases where market failures lead to resource allocation that is suboptimal and creates deadweight loss. A classic example of suboptimal resource allocation is that of a public good. In such cases, economists may attempt to find policies that avoid waste, either directly by government control, indirectly by regulation that induces market participants to act in a manner consistent with optimal welfare, or by creating "missing markets" to enable efficient trading where none had previously existed.
+This is studied in the field of collective action and public choice theory. "Optimal welfare" usually takes on a Paretian norm, which is a mathematical application of the Kaldor–Hicks method. This can diverge from the Utilitarian goal of maximizing utility because it does not consider the distribution of goods between people. Market failure in positive economics (microeconomics) is limited in implications without mixing the belief of the economist and their theory.
+The demand for various commodities by individuals is generally thought of as the outcome of a utility-maximizing process, with each individual trying to maximize their own utility under a budget constraint and a given consumption set.
+
+
+=== Allocation of scarce resources ===
+Individuals and firms need to allocate limited resources to ensure all agents in the economy are well off. Firms decide which goods and services to produce considering low costs involving labour, materials and capital as well as potential profit margins. Consumers choose the good and services they want that will maximize their happiness taking into account their limited wealth.The government can make these allocation decisions or they can be independently made by the consumers and firms. For example, in the former Soviet Union, the government played a part in informing car manufacturers which cars to produce and which consumers will gain access to a car.
+
+
+== History ==
+
+Economists commonly consider themselves microeconomists or macroeconomists. The difference between microeconomics and macroeconomics likely was introduced in 1933 by the Norwegian economist Ragnar Frisch, the co-recipient of the first Nobel Memorial Prize in Economic Sciences in 1969. However, Frisch did not actually use the word "microeconomics", instead drawing distinctions between "micro-dynamic" and "macro-dynamic" analysis in a way similar to how the words "microeconomics" and "macroeconomics" are used today. The first known use of the term "microeconomics" in a published article was from Pieter de Wolff in 1941, who broadened the term "micro-dynamics" into "microeconomics".
+
+
+== Microeconomic theory ==
+
+
+=== Consumer demand theory ===
+
+Consumer demand theory relates preferences for the consumption of both goods and services to the consumption expenditures; ultimately, this relationship between preferences and consumption expenditures is used to relate preferences to consumer demand curves. The link between personal preferences, consumption and the demand curve is one of the most closely studied relations in economics. It is a way of analyzing how consumers may achieve equilibrium between preferences and expenditures by maximizing utility subject to consumer budget constraints.
+
+
+=== Production theory ===
+
+Production theory is the study of production, or the economic process of converting inputs into outputs. Production uses resources to create a good or service that is suitable for use, gift-giving in a gift economy, or exchange in a market economy. This can include manufacturing, storing, shipping, and packaging. Some economists define production broadly as all economic activity other than consumption. They see every commercial activity other than the final purchase as some form of production.
+
+
+=== Cost-of-production theory of value ===
+
+The cost-of-production theory of value states that the price of an object or condition is determined by the sum of the cost of the resources that went into making it. The cost can comprise any of the factors of production (including labor, capital, or land) and taxation. Technology can be viewed either as a form of fixed capital (e.g. an industrial plant) or circulating capital (e.g. intermediate goods).
+In the mathematical model for the cost of production, the short-run total cost is equal to fixed cost plus total variable cost. The fixed cost refers to the cost that is incurred regardless of how much the firm produces. The variable cost is a function of the quantity of an object being produced. The cost function can be used to characterize production through the duality theory in economics, developed mainly by Ronald Shephard (1953, 1970) and other scholars (Sickles & Zelenyuk, 2019, ch. 2).
+
+
+=== Fixed and variable costs ===
+Fixed cost (FC) – This cost does not change with output. It includes business expenses such as rent, salaries and utility bills.
+Variable cost (VC) – This cost changes as output changes. This includes raw materials, delivery costs and production supplies.Over a short time period (few months), most costs are fixed costs as the firm will have to pay for salaries, contracted shipment and materials used to produce various goods. Over a longer time period (2-3 years), costs can become variable. Firms can decide to reduce output, purchase fewer materials and even sell some machinery. Over 10 years, most costs become variable as workers can be laid off or new machinery can be bought to replace the old machinery Sunk Costs – This is a fixed cost that has already been incurred and cannot be recovered. An example of this can be in R&D development like in the pharmaceutical industry. Hundreds of millions of dollars are spent to achieve new drug breakthroughs but this is challenging as its increasingly harder to find new breakthroughs and meet tighter regulation standards. Thus many projects are written off leading to losses of millions of dollars 
+
+
+=== Opportunity cost ===
+
+Opportunity cost is closely related to the idea of time constraints. One can do only one thing at a time, which means that, inevitably, one is always giving up other things. The opportunity cost of any activity is the value of the next-best alternative thing one may have done instead. Opportunity cost depends only on the value of the next-best alternative. It doesn't matter whether one has five alternatives or 5,000.
+Opportunity costs can tell when not to do something as well as when to do something. For example, one may like waffles, but like chocolate even more. If someone offers only waffles, one would take it. But if offered waffles or chocolate, one would take the chocolate. The opportunity cost of eating waffles is sacrificing the chance to eat chocolate. Because the cost of not eating the chocolate is higher than the benefits of eating the waffles, it makes no sense to choose waffles. Of course, if one chooses chocolate, they are still faced with the opportunity cost of giving up having waffles. But one is willing to do that because the waffle's opportunity cost is lower than the benefits of the chocolate. Opportunity costs are unavoidable constraints on behaviour because one has to decide what's best and give up the next-best alternative.
+
+
+=== Price Theory ===
+Microeconomics is also known as price theory to highlight the significance of prices in relation to buyer and sellers as these agents determine prices due to their individual actions. Price theory is a field of economics that uses the supply and demand framework to explain and predict human behavior. It is associated with the Chicago School of Economics. Price theory studies competitive equilibrium in markets to yield testable hypotheses that can be rejected.
+Price theory is not the same as microeconomics. Strategic behavior, such as the interactions among sellers in a market where they are few, is a significant part of microeconomics but is not emphasized in price theory. Price theorists focus on competition believing it to be a reasonable description of most markets that leaves room to study additional aspects of tastes and technology. As a result, price theory tends to use less game theory than microeconomics does.
+Price theory focuses on how agents respond to prices, but its framework can be applied to a wide variety of socioeconomic issues that might not seem to involve prices at first glance. Price theorists have influenced several other fields including developing public choice theory and law and economics. Price theory has been applied to issues previously thought of as outside the purview of economics such as criminal justice, marriage, and addiction.
+
+
+== Microeconomic models ==
+
+
+=== Supply and demand ===
+
+Supply and demand is an economic model of price determination in a perfectly competitive market. It concludes that in a perfectly competitive market with no externalities, per unit taxes, or price controls, the unit price for a particular good is the price at which the quantity demanded by consumers equals the quantity supplied by producers. This price results in a stable economic equilibrium.
+
+Prices and quantities have been described as the most directly observable attributes of goods produced and exchanged in a market economy. The theory of supply and demand is an organizing principle for explaining how prices coordinate the amounts produced and consumed. In microeconomics, it applies to price and output determination for a market with perfect competition, which includes the condition of no buyers or sellers large enough to have price-setting power.
+For a given market of a commodity, demand is the relation of the quantity that all buyers would be prepared to purchase at each unit price of the good. Demand is often represented by a table or a graph showing price and quantity demanded (as in the figure). Demand theory describes individual consumers as rationally choosing the most preferred quantity of each good, given income, prices, tastes, etc. A term for this is "constrained utility maximization" (with income and wealth as the constraints on demand). Here, utility refers to the hypothesized relation of each individual consumer for ranking different commodity bundles as more or less preferred.
+The law of demand states that, in general, price and quantity demanded in a given market are inversely related. That is, the higher the price of a product, the less of it people would be prepared to buy (other things unchanged). As the price of a commodity falls, consumers move toward it from relatively more expensive goods (the substitution effect). In addition, purchasing power from the price decline increases ability to buy (the income effect). Other factors can change demand; for example an increase in income will shift the demand curve for a normal good outward relative to the origin, as in the figure. All determinants are predominantly taken as constant factors of demand and supply.
+Supply is the relation between the price of a good and the quantity available for sale at that price. It may be represented as a table or graph relating price and quantity supplied. Producers, for example business firms, are hypothesized to be profit maximizers, meaning that they attempt to produce and supply the amount of goods that will bring them the highest profit. Supply is typically represented as a function relating price and quantity, if other factors are unchanged.
+That is, the higher the price at which the good can be sold, the more of it producers will supply, as in the figure. The higher price makes it profitable to increase production. Just as on the demand side, the position of the supply can shift, say from a change in the price of a productive input or a technical improvement. The "Law of Supply" states that, in general, a rise in price leads to an expansion in supply and a fall in price leads to a contraction in supply. Here as well, the determinants of supply, such as price of substitutes, cost of production, technology applied and various factors of inputs of production are all taken to be constant for a specific time period of evaluation of supply.
+Market equilibrium occurs where quantity supplied equals quantity demanded, the intersection of the supply and demand curves in the figure above. At a price below equilibrium, there is a shortage of quantity supplied compared to quantity demanded. This is posited to bid the price up. At a price above equilibrium, there is a surplus of quantity supplied compared to quantity demanded. This pushes the price down. The model of supply and demand predicts that for given supply and demand curves, price and quantity will stabilize at the price that makes quantity supplied equal to quantity demanded. Similarly, demand-and-supply theory predicts a new price-quantity combination from a shift in demand (as to the figure), or in supply.
+For a given quantity of a consumer good, the point on the demand curve indicates the value, or marginal utility, to consumers for that unit. It measures what the consumer would be prepared to pay for that unit. The corresponding point on the supply curve measures marginal cost, the increase in total cost to the supplier for the corresponding unit of the good. The price in equilibrium is determined by supply and demand. In a perfectly competitive market, supply and demand equate marginal cost and marginal utility at equilibrium.On the supply side of the market, some factors of production are described as (relatively) variable in the short run, which affects the cost of changing output levels. Their usage rates can be changed easily, such as electrical power, raw-material inputs, and over-time and temp work. Other inputs are relatively fixed, such as plant and equipment and key personnel. In the long run, all inputs may be adjusted by management. These distinctions translate to differences in the elasticity (responsiveness) of the supply curve in the short and long runs and corresponding differences in the price-quantity change from a shift on the supply or demand side of the market.
+Marginalist theory, such as above, describes the consumers as attempting to reach most-preferred positions, subject to income and wealth constraints while producers attempt to maximize profits subject to their own constraints, including demand for goods produced, technology, and the price of inputs. For the consumer, that point comes where marginal utility of a good, net of price, reaches zero, leaving no net gain from further consumption increases. Analogously, the producer compares marginal revenue (identical to price for the perfect competitor) against the marginal cost of a good, with marginal profit the difference. At the point where marginal profit reaches zero, further increases in production of the good stop. For movement to market equilibrium and for changes in equilibrium, price and quantity also change "at the margin": more-or-less of something, rather than necessarily all-or-nothing.
+Other applications of demand and supply include the distribution of income among the factors of production, including labour and capital, through factor markets. In a competitive labour market for example the quantity of labour employed and the price of labour (the wage rate) depends on the demand for labour (from employers for production) and supply of labour (from potential workers). Labour economics examines the interaction of workers and employers through such markets to explain patterns and changes of wages and other labour income, labour mobility, and (un)employment, productivity through human capital, and related public-policy issues.Demand-and-supply analysis is used to explain the behaviour of perfectly competitive markets, but as a standard of comparison it can be extended to any type of market. It can also be generalized to explain variables across the economy, for example, total output (estimated as real GDP) and the general price level, as studied in macroeconomics. Tracing the qualitative and quantitative effects of variables that change supply and demand, whether in the short or long run, is a standard exercise in applied economics. Economic theory may also specify conditions such that supply and demand through the market is an efficient mechanism for allocating resources.
+
+
+== Market structure ==
+
+Market structure refers to features of a market, including the number of firms in the market, the distribution of market shares between them, product uniformity across firms, how easy it is for firms to enter and exit the market, and forms of competition in the market. A market structure can have several types of interacting market systems. 
+Different forms of markets are a feature of capitalism and market socialism, with advocates of state socialism often criticizing markets and aiming to substitute or replace markets with varying degrees of government-directed economic planning. 
+Competition acts as a regulatory mechanism for market systems, with government providing regulations where the market cannot be expected to regulate itself. Regulations help to mitigate negative externalities of goods and services when the private equilibrium of the market does not match the social equilibrium. One example of this is with regards to building codes, which if absent in a purely competition regulated market system, might result in several horrific injuries or deaths to be required before companies would begin improving structural safety, as consumers may at first not be as concerned or aware of safety issues to begin putting pressure on companies to provide them, and companies would be motivated not to provide proper safety features due to how it would cut into their profits.
+The concept of "market type" is different from the concept of "market structure". Nevertheless, it is worth noting here that there are a variety of types of markets.
+The different market structures produce cost curves based on the type of structure present. The different curves are developed based on the costs of production, specifically the graph contains marginal cost, average total cost, average variable cost, average fixed cost, and marginal revenue, which is sometimes equal to the demand, average revenue, and price in a price-taking firm.
+
+
+=== Perfect competition ===
+
+Perfect competition is a situation in which numerous small firms producing identical products compete against each other in a given industry. Perfect competition leads to firms producing the socially optimal output level at the minimum possible cost per unit. Firms in perfect competition are "price takers" (they do not have enough market power to profitably increase the price of their goods or services). A good example would be that of digital marketplaces, such as eBay, on which many different sellers sell similar products to many different buyers. Consumers in a perfect competitive market have perfect knowledge about the products that are being sold in this market.
+
+
+=== Imperfect competition ===
+
+Imperfect competition is a type of market structure showing some but not all features of competitive markets. In perfect competition, market power is not achievable due to a high level of producers causing high levels of competition. Therefore, prices are brought down to a marginal cost level. In a monopoly, market power is achieved by one firm leading to prices being higher than the marginal cost level.  
+Between these two types of markets are firms that are neither perfectly competitive or monopolistic. Firms such as Pepsi and Coke and Sony, Nintendo and Microsoft dominate the cola and video game industry respectively. These firms are in imperfect competition 
+
+
+=== Monopolistic competition ===
+
+Monopolistic competition is a situation in which many firms with slightly different products compete. Production costs are above what may be achieved by perfectly competitive firms, but society benefits from the product differentiation. Examples of industries with market structures similar to monopolistic competition include restaurants, cereal, clothing, shoes, and service industries in large cities.
+
+
+=== Monopoly ===
+
+A monopoly is a market structure in which a market or industry is dominated by a single supplier of a particular good or service. Because monopolies have no competition, they tend to sell goods and services at a higher price and produce below the socially optimal output level. However, not all monopolies are a bad thing, especially in industries where multiple firms would result in more costs than benefits (i.e. natural monopolies).
+Natural monopoly: A monopoly in an industry where one producer can produce output at a lower cost than many small producers.
+
+
+=== Oligopoly ===
+
+An oligopoly is a market structure in which a market or industry is dominated by a small number of firms (oligopolists). Oligopolies can create the incentive for firms to engage in collusion and form cartels that reduce competition leading to higher prices for consumers and less overall market output. Alternatively, oligopolies can be fiercely competitive and engage in flamboyant advertising campaigns.
+Duopoly: A special case of an oligopoly, with only two firms. Game theory can elucidate behavior in duopolies and oligopolies.
+
+
+=== Monopsony ===
+
+A monopsony is a market where there is only one buyer and many sellers.
+
+
+=== Bilateral monopoly ===
+
+A bilateral monopoly is a market consisting of both a monopoly (a single seller) and a monopsony (a single buyer).
+
+
+=== Oligopsony ===
+
+An oligopsony is a market where there are a few buyers and many sellers.
+
+
+== Game theory ==
+
+Game theory is a major method used in mathematical economics and business for modeling competing behaviors of interacting agents. The term "game" here implies the study of any strategic interaction between people. Applications include a wide array of economic phenomena and approaches, such as auctions, bargaining, mergers & acquisitions pricing, fair division, duopolies, oligopolies, social network formation, agent-based computational economics, general equilibrium, mechanism design, and voting systems, and across such broad areas as experimental economics, behavioral economics, information economics, industrial organization, and political economy.
+
+
+== Information economics ==
+
+Information economics is a branch of microeconomic theory that studies how information and information systems affect an economy and economic decisions. Information has special characteristics. It is easy to create but hard to trust. It is easy to spread but hard to control. It influences many decisions. These special characteristics (as compared with other types of goods) complicate many standard economic theories. The economics of information has recently become of great interest to many - possibly due to the rise of information-based companies inside the technology industry. From a game theory approach, the usual constraints that agents have complete information can be loosened to further examine the consequences of having incomplete information. This gives rise to many results which are applicable to real life situations. For example, if one does loosen this assumption, then it is possible to scrutinize the actions of agents in situations of uncertainty. It is also possible to more fully understand the impacts – both positive and negative – of agents seeking out or acquiring information.
+
+
+== Applied ==
+Applied microeconomics includes a range of specialized areas of study, many of which draw on methods from other fields.
+
+Economic history examines the evolution of the economy and economic institutions, using methods and techniques from the fields of economics, history, geography, sociology, psychology, and political science.
+Education economics examines the organization of education provision and its implication for efficiency and equity, including the effects of education on productivity.
+Financial economics examines topics such as the structure of optimal portfolios, the rate of return to capital, econometric analysis of security returns, and corporate financial behavior.
+Health economics examines the organization of health care systems, including the role of the health care workforce and health insurance programs.
+Industrial organization examines topics such as the entry and exit of firms, innovation, and the role of trademarks.
+Law and economics applies microeconomic principles to the selection and enforcement of competing legal regimes and their relative efficiencies.
+Political economy examines the role of political institutions in determining policy outcomes.
+Public economics examines the design of government tax and expenditure policies and economic effects of these policies (e.g., social insurance programs).
+Urban economics, which examines the challenges faced by cities, such as sprawl, air and water pollution, traffic congestion, and poverty, draws on the fields of urban geography and sociology.
+Labor economics examines primarily labor markets, but comprises a large range of public policy issues such as immigration, minimum wages, or inequality.
+
+
+== See also ==
+Economics
+Macroeconomics
+Critique of political economy
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+X-Lab: A Collaborative Micro-Economics and Social Sciences Research Laboratory
+Simulations in Microeconomics
+http://media.lanecc.edu/users/martinezp/201/MicroHistory.html – a brief history of microeconomics

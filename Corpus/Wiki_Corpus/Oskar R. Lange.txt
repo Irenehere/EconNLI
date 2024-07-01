@@ -1,0 +1,77 @@
+Oskar Ryszard Lange (27 July 1904 – 2 October 1965) was a Polish economist and diplomat. He is best known for advocating the use of market pricing tools in socialist systems and providing a model of market socialism. He responded to the economic calculation problem proposed by Ludwig von Mises and Friedrich Hayek by claiming that managers in a centrally-planned economy would be able to monitor supply and demand through increases and declines in inventories of goods, and advocated the nationalization of major industries. During his stay in the United States, Lange was an academic teacher and researcher in mathematical economics. Later in socialist Poland, he was a member of the Central Committee of the Polish United Workers' Party.
+
+
+== Career ==
+Lange was born in Tomaszów Mazowiecki as son of the Protestant manufacturer Arthur Julius Lange and his wife Sophie Albertine Rosner. His ancestors had emigrated at the beginning of the 19th century from Germany to Poland. He studied law and economics at the University of Kraków, where he defended a doctoral dissertation in 1928 under Adam Krzyżanowski. From 1926 to 1927 Lange worked at the Ministry of Labor in Warsaw, and then was a research assistant at the University of Kraków (1927–31). He married Irene Oderfeld in 1932. In 1934, a Rockefeller Foundation fellowship brought him to England, from where he emigrated to the United States in 1937. Lange became a professor at the University of Chicago in 1938 and was naturalized as a U.S. citizen in 1943.Joseph Stalin, who identified Lange as a person of leftist and pro-Soviet sympathies, prevailed on President Franklin D. Roosevelt to obtain a passport for Lange to visit the Soviet Union in an official capacity, so that Stalin could speak with him personally; he also proposed offering him a position in the future Polish cabinet. The State Department was opposed to Lange traveling as an emissary because they felt that his political views represented neither Americans of Polish descent nor American public opinion in general. Lange's trip to the Soviet Union in 1944 caused further controversy, as the newly established Polish American Congress condemned him and defended the interests of the London-based Polish government-in-exile. Lange returned to the United States at the end of May and met, at Roosevelt's request, with Prime Minister Stanisław Mikołajczyk of the government-in-exile, who was on a visit in Washington. Lange stressed how reasonable Stalin was prepared to be (Stalin told him of the Soviet desire to preserve an independent Poland under a coalition government), and asked the State Department to put pressure on the exiled Polish leadership to reach an understanding with the Soviet leader.Towards the end of World War II, Lange broke with the Polish government-in-exile and transferred his support to the Lublin Committee (PKWN) sponsored by the Soviet Union. Lange served as a go-between for Roosevelt and Stalin during the Yalta Conference discussions on post-war Poland.
+After the war ended in 1945, Lange returned to Poland. He then renounced his American citizenship and went back to the US in the same year as the Polish People's Republic's first ambassador to the United States. In 1946, Lange also served as Poland's delegate to the United Nations Security Council. From 1947 he lived in Poland.Oskar Lange worked for the Polish government while continuing his academic pursuits at the University of Warsaw and the Main School of Planning and Statistics. He was deputy chairman of the Polish Council of State in 1961–65, and as such one of four acting chairmen of the Council of State (a head of state function).
+
+
+== Academic contributions ==
+The bulk of Lange's contributions to economics came during his American interlude of 1933–45.  Despite being an ardent socialist, Lange deplored the Marxian labor theory of value because he was very much a believer in the neoclassical theory of price. In the history of economics, he is probably best known for his work On the Economic Theory of Socialism published in 1936, where he famously put Marxian economics and neoclassical economics together.
+In the book, Lange advocated the use of market tools (especially the neoclassical pricing theory) in economic planning of socialism and Marxism. He proposed that central planning boards set prices through "trial and error", making adjustments as shortages and surpluses occur rather than relying on a free price mechanism. Under this system, central planners would arbitrarily pick a price for products manufactured in government factories and raise it or reduce, depending on whether it resulted in shortages or gluts. After this economic experiment had been run a few times, mathematical methods would be employed to plan the economy: if there were shortages, prices would be raised; if there were surpluses, prices would be lowered. Raising the prices would encourage businesses to increase production, driven by their desire to increase profits, and in doing so eliminate the shortage. Lowering the prices would encourage businesses to curtail production in order to prevent losses, which would eliminate the surplus. In Lange's opinion, such simulation of market mechanism would be capable of effectively managing supply and demand. Proponents of this idea argued that it combines the advantages of a market economy with those of socialist economy.
+With the utilization of this idea, Lange claimed, a state-run economy would be at least as efficient as a capitalist or private market economy. He argued that this was possible, provided the government planners used the price system as if in a market economy and instructed state industry managers to respond parametrically to state-determined prices (minimize cost, etc.). Lange's argument was one of the pivots of the socialist calculation debate with the Austrian School economists. At that time, the view among English socialists of the Fabian Society was that Lange had won the debate. His works provided the earliest model of market socialism. Hayek's essay entitled "The Use of Knowledge in Society" is a rebuttal to Lange's work and is considered one of the most important articles ever written in the field of economics.Lange also made contributions in various other areas. He was one of the leading lights of the "Paretian Revival" in general equilibrium theory during the 1930s. In 1942, he provided one of the first proofs of the First and Second Welfare Theorems. He initiated the analysis of stability of general equilibrium (1942, 1944). His critique of the quantity theory of money (1942) prompted his student Don Patinkin to develop his remarkable "integration" of money into general equilibrium theory. Lange made several seminal contributions to the development of neoclassical synthesis (1938, 1943, 1944). He worked on integrating classical economics and neoclassical economics into a single theoretical structure (e.g. 1959). In his final years, Lange also worked on cybernetics and the use of computers for economic planning.
+The International Institute of Social Studies (ISS) awarded Oskar Lange an honorary fellowship in 1962.
+
+
+== Bibliography ==
+1934. "The Determinateness of the Utility Function," RES.
+1935. "Marxian Economics and Modern Economic Theory," Review of Economic Studies, 2(3), pp. 189–201.
+1936a. "The Place of Interest in the Theory of Production", RES
+1936b. "On the Economic Theory of Socialism, Part One," Review of Economic Studies, 4(1), pp. 53–71.
+1937. "On the Economic Theory of Socialism, Part Two," Review of Economic Studies, 4(2), pp.  123–142.
+1938.  On the Economic Theory of Socialism, (with Fred M. Taylor), Benjamin E. Lippincott, editor. University of Minnesota Press, 1938.
+1938. "The Rate of Interest and the Optimum Propensity to Consume",  Economica
+1939. "Saving and Investment: Saving in Process Analysis", QJE
+1939. "Is the American Economy Contracting?", AER
+1940. "Complementarity and Interrelations of Shifts in Demand", RES
+1942. "Theoretical Derivation of the Elasticities of Demand and Supply: the direct method", Econometrica
+1942. "The Foundations of Welfare Economics", Econometrica
+1942. "The Stability of Economic Equilibrium", Econometrica.
+1942. "Say's Law: A Restatement and Criticism", in Lange et al., editors, Studies in Mathematical Economics.
+1943. "A Note on Innovations", REStat
+"The Theory of the Multiplier", 1943, Econometrica
+"Strengthening the Economic Foundations of Democracy", with Abba Lerner, 1944, American Way of Business.
+1944. Price Flexibility and Employment.
+1944. "The Stability of Economic Equilibrium" (Appendix of Lange, 1944)
+1944. "The Rate of Interest and the Optimal Propensity to Consume", in Haberler, editor, Readings in Business Cycle Theory.
+1945a. "Marxian Economic in the Soviet Union," American Economic Review, 35( 1), pp. 127–133.
+1945b. "The Scope and Method of Economics", RES.
+1949. "The Practice of Economic Planning and the Optimum Allocation of Resources", Econometrica
+1953. "The Economic Laws of Socialist Society in Light of Joseph Stalin's Last Work",  Nauka Paulska, No. 1, Warsaw (trans ., 1954, International Economic Papers,  No. 4, pp. 145–ff. Macmillan.
+1959. "The Political Economy of Socialism," Science & Society, 23(1) pp. 1–15.
+Introduction to Econometrics, 1958.
+1960. "The Output-Investment Ratio and Input-Output Analysis", Econometrica
+1961. Theories of Reproduction and Accumulation,
+1961. Economic and Social Essays, 1930–1960.
+1963. Political economy, Macmillan.
+1963. Economic Development, Planning and Economic Cooperation.
+1963. Essays on Economic Planning.
+1964. Optimal Decisions: principles of programming.
+1965.  Problems of Political Economy of Socialism,  Peoples Publishing House.
+1965. ' 'Wholes and Parts: A General Theory of System Behavior,  Pergamon Press.
+1965. "The Computer and the Market", 1967, in Feinstein, editor, Socialism, Capitalism and Economic Growth.
+1970. Introduction to Economic Cybernetics,   Pergamon Press.  Review extract.
+
+
+== See also ==
+Lange model, a neoclassical model of market socialism
+Michał Kalecki
+Neo-Marxian economics and the labor theory of value
+
+
+== Citations ==
+
+
+== References ==
+Milton Friedman, 1946. "Lange on Price Flexibility and Employment: A Methodological Criticism", American Economic Review, 36(4), pp. 613– 631. Reprinted in Friedman, 1953, Essays in Positive Economics, pp. 277–300.
+Charles Sadler, 1977. "Pro-Soviet Polish-Americans: Oskar Lange and Russia's Friends in the Polonia, 1941–1945", Polish Review, 22(4), pp. 25–39.
+
+
+== External links ==
+
+ Media related to Oskar Lange at Wikimedia Commons
+Oskar Lange in Encyclopædia Britannica.
+"Oskar Ryszard Lange (1904–1965)". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Oskar Ryszard Lange, 1904-1965. In the History of Economic Thought by the Institute for New Economic Thinking.
+New Poland, a documentary.
+Guide to the Oskar Lange Papers 1936-1944 at the University of Chicago Special Collections Research Center

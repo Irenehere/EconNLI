@@ -1,0 +1,152 @@
+Fractional-reserve banking is the system of banking operating in almost all countries worldwide, under which banks that take deposits from the public are required to hold a proportion of their deposit liabilities in liquid assets as a reserve, and are at liberty to lend the remainder to borrowers. Bank reserves are held as cash in the bank or as balances in the bank's account at the central bank. The country's central bank determines the minimum amount that banks must hold in liquid assets, called the "reserve requirement" or "reserve ratio". Most commercial banks hold more than this minimum amount as excess reserves.
+Bank deposits are usually of a relatively short-term duration, and may be "at call", while loans made by banks tend to be longer-term, resulting in a risk that customers may at any time collectively wish to withdraw cash out of their accounts in excess of the bank reserves. The reserves only provide liquidity to cover withdrawals within the normal pattern. Banks and the central bank expect that in normal circumstances only a proportion of deposits will be withdrawn at the same time, and that reserves will be sufficient to meet the demand for cash. However, banks may find themselves in a shortfall situation when depositors wish to withdraw more funds than the reserves held by the bank. In that event, the bank experiencing the liquidity shortfall may borrow short-term funds in the interbank lending market from banks with a surplus. In exceptional situations, such as during an unexpected bank run, the central bank may provide funds to cover the short-term shortfall as lender of last resort.Because banks hold in reserve less than the amount of their deposit liabilities, and because the deposit liabilities are considered money in their own right (see commercial bank money), fractional-reserve banking permits the money supply to grow beyond the amount of the underlying base money originally created by the central bank. In most countries, the central bank (or other monetary policy authority) regulates bank-credit creation, imposing reserve requirements and capital adequacy ratios. This helps ensure that banks remain solvent and have enough funds to meet demand for withdrawals, and can be used to influence the process of money creation in the banking system. However, rather than directly controlling the money supply, central banks usually pursue an interest-rate target to control bank issuance of credit and the rate of inflation.
+
+
+== History ==
+
+Fractional-reserve banking predates the existence of governmental monetary authorities and originated with bankers' realization that generally not all depositors demand payment at the same time. In the past, savers looking to keep their coins and valuables in safekeeping depositories deposited gold and silver at goldsmiths, receiving in exchange a note for their deposit (see Bank of Amsterdam). These notes gained acceptance as a medium of exchange for commercial transactions and thus became an early form of circulating paper money. As the notes were used directly in trade, the goldsmiths observed that people would not usually redeem all their notes at the same time, and they saw the opportunity to invest their coin reserves in interest-bearing loans and bills. This generated income for the goldsmiths but left them with more notes on issue than reserves with which to pay them. A process was started that altered the role of the goldsmiths from passive guardians of bullion, charging fees for safe storage, to interest-paying and interest-earning banks.  Thus fractional-reserve banking was born.If creditors (note holders of gold originally deposited) lost faith in the ability of a bank to pay their notes, however, many would try to redeem their notes at the same time. If, in response, a bank could not raise enough funds by calling in loans or selling bills, the bank would either go into insolvency or default on its notes. Such a situation is called a bank run and caused the demise of many early banks.These early financial crises led to the creation of central banks. The Swedish Riksbank was the world's first central bank, created in 1668. Many nations followed suit in the late 1600s to establish central banks which were given the legal power to set the reserve requirement, and to specify the form in which such assets (called the monetary base) are required to be held. In order to mitigate the impact of bank failures and financial crises, central banks were also granted the authority to centralize banks' storage of precious metal reserves, thereby facilitating transfer of gold in the event of bank runs, to regulate commercial banks, to impose reserve requirements, and to act as lender-of-last-resort if any bank faced a bank run. The emergence of central banks reduced the risk of bank runs which is inherent in fractional-reserve banking, and it allowed the practice to continue as it does today.During the twentieth century, the role of the central bank grew to include influencing or managing various macroeconomic policy variables, including measures of inflation, unemployment, and the international balance of payments. In the course of enacting such policy, central banks have from time to time attempted to manage interest rates, reserve requirements, and various measures of the money supply and monetary base.
+
+
+== Regulatory framework ==
+In most legal systems, a bank deposit is not a bailment. In other words, the funds deposited are no longer the property of the customer. The funds become the property of the bank, and the customer in turn receives an asset called a deposit account (a checking or savings account). That deposit account is a liability on the balance sheet of the bank.Each bank is legally authorized to issue credit up to a specified multiple of its reserves, so reserves available to satisfy payment of deposit liabilities are less than the total amount which the bank is obligated to pay in satisfaction of demand deposits. Largely, fractional-reserve banking functions smoothly, as relatively few depositors demand payment at any given time, and banks maintain enough of a buffer of reserves to cover depositors' cash withdrawals and other demands for funds. However, during a bank run or a generalized financial crisis, demands for withdrawal can exceed the bank's funding buffer, and the bank will be forced to raise additional reserves to avoid defaulting on its obligations. A bank can raise funds from additional borrowings (e.g., by borrowing in the interbank lending market or from the central bank), by selling assets, or by calling in short-term loans. If creditors are afraid that the bank is running out of reserves or is insolvent, they have an incentive to redeem their deposits as soon as possible before other depositors access the remaining reserves. Thus the fear of a bank run can actually precipitate the crisis.Many of the practices of contemporary bank regulation and central banking—including centralized clearing of payments, central bank lending to member banks, regulatory auditing, and government-administered deposit insurance—are designed to prevent the occurrence of such bank runs.
+
+
+== Economic function ==
+Fractional-reserve banking allows banks to provide credit, which represent immediate liquidity to borrowers. The banks also provide longer-term loans, and act as financial intermediaries for those funds. Less liquid forms of deposit (such as time deposits) or riskier classes of financial assets (such as equities or long-term bonds) may lock up a depositor's wealth for a period of time, making it unavailable for use on demand. This "borrowing short, lending long" or maturity transformation function of fractional-reserve banking is a role that, according to many economists, can be considered to be an important function of the commercial banking system.The process of fractional-reserve banking expands the money supply of the economy but also increases the risk that a bank cannot meet its depositor withdrawals. Modern central banking allows banks to practice fractional-reserve banking with inter-bank business transactions with a reduced risk of bankruptcy.Additionally, according to macroeconomic theory, a well-regulated fractional-reserve bank system also benefits the economy by providing regulators with powerful tools for influencing the money supply and interest rates. Many economists believe that these should be adjusted by the government to promote macroeconomic stability.
+
+
+== Money creation process ==
+
+When a loan is made by the commercial bank, the bank creates new demand deposits and the money supply expands by the size of the loan.The proceeds of most bank loans are not in the form of currency. Banks typically make loans by accepting promissory notes in exchange for credits they make to the borrowers' deposit accounts. Deposits created in this way are sometimes called derivative deposits and are part of the process of creation of money by commercial banks. Issuing loan proceeds in the form of paper currency and current coins is considered to be a weakness in internal control.The money creation process is also affected by the currency drain ratio (the propensity of the public to hold banknotes rather than deposit them with a commercial bank), and the safety reserve ratio (excess reserves beyond the legal requirement that commercial banks voluntarily hold). Data for "excess" reserves and vault cash are published regularly by the Federal Reserve in the United States.Just as taking out a new loan expands the money supply, the repayment of bank loans reduces the money supply.
+
+
+=== Types of money ===
+There are two types of money created in a fractional-reserve banking system operating with a central bank:
+Central bank money: money created or adopted by the central bank regardless of its form – precious metals, commodity certificates, banknotes, coins, electronic money loaned to commercial banks, or anything else the central bank chooses as its form of money.
+Commercial bank money: demand deposits in the commercial banking system; also referred to as "chequebook money", "sight deposits" or simply "credit".
+
+
+== Money multiplier ==
+
+The money multiplier is a heuristic used to demonstrate the maximum amount of broad money that could be created by commercial banks for a given fixed amount of base money and reserve ratio. This theoretical maximum is never reached, because some eligible reserves are held as cash outside of banks. Rather than holding the quantity of base money fixed, central banks have recently pursued an interest rate target to control bank issuance of credit indirectly so the ceiling implied by the money multiplier does not impose a limit on money creation in practice.
+
+
+=== Formula ===
+The money multiplier, m, is the inverse of the reserve requirement, R:
+
+  
+    
+      
+        m
+        =
+        
+          
+            1
+            R
+          
+        
+      
+    
+    {\displaystyle m={\frac {1}{R}}}
+  
+
+
+== Money supply ==
+
+In countries with fractional-reserve banking, commercial bank money usually forms the majority of the money supply. The acceptance and value of commercial bank money is based on the fact that it can be exchanged freely at a commercial bank for central bank money.The actual increase in the money supply through this process may be lower, as (at each step) banks may choose to hold reserves in excess of the statutory minimum, borrowers may let some funds sit idle, and some members of the public may choose to hold cash, and there also may be delays or frictions in the lending process. Government regulations may also limit the money creation process by preventing banks from giving out loans even when the reserve requirements have been fulfilled.
+
+
+== Regulation ==
+Because the nature of fractional-reserve banking involves the possibility of bank runs, central banks have been created throughout the world to address these problems.
+
+
+=== Central banks ===
+
+Government controls and bank regulations related to fractional-reserve banking have generally been used to impose restrictive requirements on note issue and deposit taking on the one hand, and to provide relief from bankruptcy and creditor claims, and/or protect creditors with government funds, when banks defaulted on the other hand. Such measures have included:
+
+Minimum required reserve ratios (RRRs)
+Minimum capital ratios
+Government bond deposit requirements for note issue
+100% Marginal Reserve requirements for note issue, such as the Bank Charter Act 1844 (UK)
+Sanction on bank defaults and protection from creditors for many months or even years, and
+Central bank support for distressed banks, and government guarantee funds for notes and deposits, both to counteract bank runs and to protect bank creditors.
+
+
+=== Reserve requirements ===
+The currently prevailing view of reserve requirements is that they are intended to prevent banks from:
+
+generating too much money by making too many loans against a narrow money deposit base;
+having a shortage of cash when large deposits are withdrawn (although a legal minimum reserve amount is often established as a regulatory requirement, reserves may be made available on a temporary basis in the event of a crisis or bank run).In some jurisdictions (such as the European Union), the central bank does not require reserves to be held during the day. Reserve requirements are intended to ensure that the banks have sufficient supplies of highly liquid assets, so that the system operates in an orderly fashion and maintains public confidence.
+In other jurisdictions (such as the United States), the central bank does not require reserves to be held at any time – that is, it does not impose reserve requirements.In addition to reserve requirements, there are other required financial ratios that affect the amount of loans that a bank can fund. The capital requirement ratio is perhaps the most important of these other required ratios. When there are no mandatory reserve requirements, which are considered by some economists to restrict lending, the capital requirement ratio acts to prevent an infinite amount of bank lending.
+
+
+=== Liquidity and capital management for a bank ===
+
+To avoid defaulting on its obligations, the bank must maintain a minimal reserve ratio that it fixes in accordance with regulations and its liabilities. In practice this means that the bank sets a reserve ratio target and responds when the actual ratio falls below the target. Such response can be, for instance:
+
+Selling or redeeming other assets, or securitization of illiquid assets,
+Restricting investment in new loans,
+Borrowing funds (whether repayable on demand or at a fixed maturity),
+Issuing additional capital instruments, or
+Reducing dividends.Because different funding options have different costs, and differ in reliability, banks maintain a stock of low cost and reliable sources of liquidity such as:
+
+Demand deposits with other banks
+High quality marketable debt securities
+Committed lines of credit with other banksAs with reserves, other sources of liquidity are managed with targets.
+The ability of the bank to borrow money reliably and economically is crucial, which is why confidence in the bank's creditworthiness is important to its liquidity. This means that the bank needs to maintain adequate capitalisation and to effectively control its exposures to risk in order to continue its operations. If creditors doubt the bank's assets are worth more than its liabilities, all demand creditors have an incentive to demand payment immediately, causing a bank run to occur.Contemporary bank management methods for liquidity are based on maturity analysis of all the bank's assets and liabilities (off balance sheet exposures may also be included). Assets and liabilities are put into residual contractual maturity buckets such as 'on demand', 'less than 1 month', '2–3 months' etc. These residual contractual maturities may be adjusted to account for expected counterparty behaviour such as early loan repayments due to borrowers refinancing and expected renewals of term deposits to give forecast cash flows. This analysis highlights any large future net outflows of cash and enables the bank to respond before they occur. Scenario analysis may also be conducted, depicting scenarios including stress scenarios such as a bank-specific crisis.
+
+
+== Hypothetical example of a bank balance sheet and financial ratios ==
+An example of fractional-reserve banking, and the calculation of the "reserve ratio" is shown in the balance sheet below:
+
+In this example the cash reserves held by the bank is NZ$3,010m (NZ$201m cash + NZ$2,809m balance at Central Bank) and the demand deposits (liabilities) of the bank are NZ$25,482m, for a cash reserve ratio of 11.81%.
+
+
+=== Other financial ratios ===
+The key financial ratio used to analyze fractional-reserve banks is the cash reserve ratio, which is the ratio of cash reserves to demand deposits. However, other important financial ratios are also used to analyze the bank's liquidity, financial strength, profitability etc.
+For example, the ANZ National Bank Limited balance sheet above gives the following financial ratios:
+
+cash reserve ratio is $3,010m/$25,482m, i.e. 11.81%.
+liquid assets reserve ratio is ($201m + $2,809m + $1,797m)/$25,482m, i.e. 18.86%.
+equity capital ratio is $8,703m/107,787m, i.e. 8.07%.
+tangible equity ratio is ($8,703m − $3,297m)/107,787m, i.e. 5.02%
+total capital ratio is ($8,703m + $2,062m)/$107,787m, i.e. 9.99%.It is important how the term "reserves" is defined for calculating the reserve ratio, as different definitions give different results. Other important financial ratios may require analysis of disclosures in other parts of the bank's financial statements. In particular, for liquidity risk, disclosures are incorporated into a note to the financial statements that provides maturity analysis of the bank's assets and liabilities and an explanation of how the bank manages its liquidity.
+
+
+== Commentary ==
+
+
+=== Instability ===
+In 1935, economist Irving Fisher proposed a system of full-reserve banking, where banks would not lend on demand deposits but would only lend from time deposits. It was proposed as a method of reversing the deflation of the Great Depression, as it would give the central bank (the Federal Reserve in the US) more direct control of the money supply.
+
+
+=== Austrian School criticism ===
+Austrian School economists such as Jesús Huerta de Soto and Murray Rothbard have strongly criticized fractional-reserve banking, calling for it to be outlawed and criminalized. According to them, not only does money creation cause macroeconomic instability (based on the Austrian Business Cycle Theory), but it is a form of embezzlement or financial fraud, legalized only due to the influence of powerful rich bankers on corrupt governments around the world. US politician Ron Paul has also criticized fractional-reserve banking based on Austrian School arguments.
+
+
+=== Descriptions ===
+Adair Turner, former chief financial regulator of the United Kingdom, stated that banks "create credit and money ex nihilo –  extending a loan to the borrower and simultaneously crediting the borrower's money account".
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Crick, W.F. (1927), The genesis of bank deposits, Economica, vol 7, 1927, pp 191–202.
+Friedman, Milton (1960), A Program for Monetary Stability, New York, Fordham University Press.
+Lanchester, John, "The Invention of Money:  How the heresies of two bankers became the basis of our modern economy", The New Yorker, 5 & 12 August 2019, pp. 28–31.
+Meigs, A.J. (1962), Free reserves and the money supply, Chicago, University of Chicago, 1962.
+Philips, C.A. (1921), Bank Credit, New York, Macmillan, chapters 1–4, 1921,
+Thomson, P. (1956), Variations on a theme by Philips, American Economic Review vol 46, December 1956, pp. 965–970.
+
+
+== External links ==
+Money creation in the modern economy Archived 25 December 2018 at the Wayback Machine Bank of England
+Regulation D of the Federal Reserve Board of the U.S.
+Bank for International Settlements – The Role of Central Bank Money in Payment Systems

@@ -1,0 +1,474 @@
+The government budget balance, also referred to as the general government balance,  public budget balance, or public fiscal balance, is the difference between government  revenues and  spending.  For a government that uses  accrual accounting (rather than cash accounting) the budget balance is calculated using only spending on current operations, with expenditure on new capital assets excluded.: 114–116   A positive balance is called a government budget surplus, and a negative balance is a government budget deficit. A government budget presents the government's proposed revenues and spending for a financial year. 
+The government budget balance can be broken down into the primary balance and interest payments on accumulated government debt; the two together give the budget balance. Furthermore, the budget balance can be broken down into the structural balance (also known as cyclically-adjusted balance) and the cyclical component: the structural budget balance attempts to adjust for the impact of cyclical changes in real GDP, in order to indicate the longer-run budgetary situation.
+The government budget surplus or deficit is a flow variable, since it is an amount per unit of time (typically, per year). Thus it is distinct from government debt, which is a stock variable since it is measured at a specific point in time. The cumulative flow of deficits equals the stock of debt when a government employs cash accounting (though not under  accrual accounting).
+
+
+== Sectoral balances ==
+The government fiscal balance is one of three major sectoral balances in the national economy, the others being the foreign sector and the private sector. The sum of the surpluses or deficits across these three sectors must be zero by definition. For example, if there is a foreign financial surplus (or capital surplus) because capital is imported (net) to fund the trade deficit, and there is also a private sector financial surplus due to household saving exceeding business investment, then by definition, there must exist a government budget deficit so all three net to zero. The government sector includes federal, state and local governments. For example, the U.S. government budget deficit in 2011 was approximately 10% GDP (8.6% GDP of which was federal), offsetting a capital surplus of 4% GDP and a private sector surplus of 6% GDP.Financial journalist Martin Wolf argued that sudden shifts in the private sector from deficit to surplus forced the government balance into deficit, and cited as example the U.S.: "The financial balance of the private sector shifted towards surplus by the almost unbelievable cumulative total of 11.2 per cent of gross domestic product between the third quarter of 2007 and the second quarter of 2009, which was when the financial deficit of US government (federal and state) reached its peak...No fiscal policy changes explain the collapse into massive fiscal deficit between 2007 and 2009, because there was none of any importance. The collapse is explained by the massive shift of the private sector from financial deficit into surplus or, in other words, from boom to bust."Economist Paul Krugman explained in December 2011 the causes of the sizable shift from private deficit to surplus: "This huge move into surplus reflects the end of the housing bubble, a sharp rise in household saving, and a slump in business investment due to lack of customers."
+The sectoral balances (also called sectoral financial balances) derive from the sectoral analysis framework for macroeconomic analysis of national economies developed by British economist Wynne Godley. GDP (Gross Domestic Product) is the value of all goods and services produced within a country during one year. GDP measures flows rather than stocks (example: the public deficit is a flow, measured per unit of time, while the government debt is a stock, an accumulation). GDP can be expressed equivalently in terms of production or the types of newly produced goods purchased, as per the National Accounting relationship between aggregate spending and income:
+
+  
+    
+      
+        Y
+        =
+        C
+        +
+        I
+        +
+        G
+        +
+        (
+        X
+        −
+        M
+        )
+      
+    
+    {\displaystyle Y=C+I+G+(X-M)}
+  where Y is GDP (production; equivalently, income), C is consumption spending, I is private investment spending, G is government spending on goods and services, X is exports and M is imports (so X – M is net exports).
+Another perspective on the national income accounting is to note that households can allocate total income (Y) to the following uses:
+
+  
+    
+      
+        Y
+        =
+        C
+        +
+        S
+        +
+        T
+      
+    
+    {\displaystyle Y=C+S+T}
+  where S is total saving and T is total taxation net of transfer payments.
+Combining the two perspectives gives
+
+  
+    
+      
+        C
+        +
+        S
+        +
+        T
+        =
+        Y
+        =
+        C
+        +
+        I
+        +
+        G
+        +
+        (
+        X
+        −
+        M
+        )
+        .
+      
+    
+    {\displaystyle C+S+T=Y=C+I+G+(X-M).}
+  Hence
+
+  
+    
+      
+        S
+        +
+        T
+        =
+        I
+        +
+        G
+        +
+        (
+        X
+        −
+        M
+        )
+        .
+      
+    
+    {\displaystyle S+T=I+G+(X-M).}
+  This implies the accounting identity for the three sectoral balances – private domestic, government budget and external:
+
+  
+    
+      
+        (
+        S
+        −
+        I
+        )
+        =
+        (
+        G
+        −
+        T
+        )
+        +
+        (
+        X
+        −
+        M
+        )
+        .
+      
+    
+    {\displaystyle (S-I)=(G-T)+(X-M).}
+  The sectoral balances equation says that total private saving (S) minus private investment (I) has to equal the public deficit (spending, G, minus net taxes, T) plus net exports (exports (X) minus imports (M)), where net exports is the net spending of non-residents on this country's production. Thus total private saving equals private investment plus the public deficit plus net exports.
+In macroeconomics, the Modern Money Theory describes any transactions between the government sector and the non-government sector as a vertical transaction. The government sector includes the treasury and the central bank, whereas the non-government sector includes private individuals and firms (including the private banking system) and the external sector – that is, foreign buyers and sellers.In any given time period, the government's budget can be either in deficit or in surplus. A deficit occurs when the government spends more than it taxes; and a surplus occurs when a government taxes more than it spends. Sectoral balances analysis shows that as a matter of accounting, government budget deficits add net financial assets to the private sector. This is because a budget deficit means that a government has deposited, over the course of some time range, more money and bonds into private holdings than it has removed in taxes. A budget surplus means the opposite: in total, the government has removed more money and bonds from private holdings via taxes than it has put back in via spending.
+Therefore, budget deficits, by definition, are equivalent to adding net financial assets to the private sector, whereas budget surpluses remove financial assets from the private sector.
+This is represented by the identity:
+
+  
+    
+      
+        (
+        G
+        −
+        T
+        )
+        =
+        (
+        S
+        −
+        I
+        )
+        −
+        N
+        X
+      
+    
+    {\displaystyle (G-T)=(S-I)-NX}
+  where NX is net exports. This implies that private net saving is only possible if the government runs budget deficits; alternately, the private sector is forced to dissave when the government runs a budget surplus.
+According to the sectoral balances framework, budget surpluses offset net saving; in a time of high effective demand, this may lead to a private sector reliance on credit to finance consumption patterns. Hence, continual budget deficits are necessary for a growing economy that wants to avoid deflation. Therefore, budget surpluses are required only when the economy has excessive aggregate demand, and is in danger of inflation. If the government issues its own currency, MMT tells us that the level of taxation relative to government spending (the government's budget deficit or surplus) is in reality a policy tool that regulates inflation and unemployment, and not a means of funding the government's activities per se.
+
+
+== Primary balance ==
+"Primary balance" is defined by the Organisation for Economic Co-operation and Development (OECD) as government net borrowing or net lending, excluding interest payments on consolidated government liabilities.
+
+
+== Primary deficit, total deficit, and debt ==
+The meaning of "deficit" differs from that of "debt", which is an accumulation of yearly deficits. Deficits occur when a government's expenditures exceed the revenue that it levies. The deficit can be measured with or without including the interest payments on the debt as expenditures.The primary deficit is defined as the difference between current government spending on goods and services and total current revenue from all types of taxes net of transfer payments. The total deficit (which is often called the fiscal deficit or just the 'deficit') is the primary deficit plus interest payments on the debt.Therefore, if 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   refers to an arbitrary year, 
+  
+    
+      
+        
+          G
+          
+            t
+          
+        
+      
+    
+    {\displaystyle G_{t}}
+   is government spending and 
+  
+    
+      
+        
+          T
+          
+            t
+          
+        
+      
+    
+    {\displaystyle T_{t}}
+   is tax revenue for the respective year, then
+
+  
+    
+      
+        
+          Primary deficit
+        
+        =
+        
+          G
+          
+            t
+          
+        
+        −
+        
+          T
+          
+            t
+          
+        
+        .
+        
+      
+    
+    {\displaystyle {\text{Primary deficit}}=G_{t}-T_{t}.\,}
+  If 
+  
+    
+      
+        
+          D
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle D_{t-1}}
+   is last year's debt (the debt accumulated up to and including last year), and 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the interest rate attached to the debt, then the total deficit for year t is
+
+  
+    
+      
+        
+          
+            Total deficit
+          
+          
+            t
+          
+        
+        =
+        r
+        ⋅
+        
+          D
+          
+            t
+            −
+            1
+          
+        
+        +
+        
+          G
+          
+            t
+          
+        
+        −
+        
+          T
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle {\text{Total deficit}}_{t}=r\cdot D_{t-1}+G_{t}-T_{t}\,}
+  where the first term on the right side is interest payments on the outstanding debt.
+Finally, this year's debt can be calculated from last year's debt and this year's total deficit, using the government budget constraint:
+
+  
+    
+      
+        
+          
+            D
+            
+              t
+            
+          
+        
+        =
+        (
+        1
+        +
+        r
+        )
+        
+          D
+          
+            t
+            −
+            1
+          
+        
+        +
+        
+          G
+          
+            t
+          
+        
+        −
+        
+          T
+          
+            t
+          
+        
+        .
+        
+      
+    
+    {\displaystyle {D_{t}}=(1+r)D_{t-1}+G_{t}-T_{t}.\,}
+  That is, the debt after this year's government operations equals what it was a year earlier plus this year's total deficit, because the current deficit has to be financed by borrowing via the issuance of new bonds.
+Economic trends can influence the growth or shrinkage of fiscal deficits in several ways.  Increased levels of economic activity generally lead to higher tax revenues, while government expenditures often increase during economic downturns because of higher outlays for social insurance programs such as unemployment benefits. Changes in tax rates, tax enforcement policies, levels of social benefits, and other government policy decisions can also have major effects on public debt. For some countries, such as Norway, Russia, and members of the Organization of Petroleum Exporting Countries (OPEC), oil and gas receipts play a major role in public finances.
+Inflation reduces the real value of accumulated debt. If investors anticipate future inflation, however, they will demand higher interest rates on government debt, making public borrowing more expensive.total borrowing=fiscal deficit of that year
+
+
+== Structural deficits, cyclical deficits, and the fiscal gap ==
+
+A government deficit can be thought of as consisting of two elements, structural and cyclical. At the lowest point in the business cycle, there is a high level of unemployment. This means that tax revenues are low and expenditure (e.g., on social security) high. Conversely, at the peak of the cycle, unemployment is low, increasing tax  revenue and decreasing social security spending. The additional borrowing required at the low point of the cycle is the cyclical deficit. By definition, the cyclical deficit will be entirely repaid by a cyclical surplus at the peak of the cycle.
+The structural deficit is the deficit that remains across the business cycle, because the general level of government spending exceeds prevailing tax levels. The observed total budget deficit is equal to the sum of the structural deficit with the cyclical deficit or surplus.
+Some economists have criticized the distinction between cyclical and structural deficits, contending that the business cycle is too difficult to measure to make cyclical analysis worthwhile.The fiscal gap, a measure proposed by economists Alan Auerbach and Laurence Kotlikoff, measures the difference between government spending and revenues over the very long term, typically as a percentage of gross domestic product.  The fiscal gap can be interpreted as the percentage increase in revenues or reduction of expenditures necessary to balance spending and revenues in the long run.  For example, a fiscal gap of 5% could be eliminated by an immediate and permanent 5% increase in taxes or cut in spending or some combination of both.It includes not only the structural deficit at a given point in time, but also the difference between promised future government commitments, such as health and retirement spending, and planned future tax revenues. Since the elderly population is growing much faster than the young population in many developed countries, many economists argue that these countries have important fiscal gaps, beyond what can be seen from their deficits alone.
+
+
+=== National government budgets ===
+Data are for 2010:
+
+
+== Early deficits ==
+Before the invention of bonds, the deficit could only be financed with loans from private investors or other countries. A prominent example of this was the Rothschild dynasty in the late 18th and 19th century, though there were many earlier examples (e.g. the Peruzzi family).
+These loans became popular when private financiers had amassed enough capital to provide them, and when governments were no longer able to simply print money, with consequent inflation, to finance their spending.
+Large long-term loans are risky for the lender, and therefore commanded high interest rates.  To reduce their borrowing costs, governments began to issue bonds that were payable to the bearer (rather than the original purchaser) so that the lenders could sell on some or all of the debt to someone else.  This innovation reduced the risk for the lenders, and so the government could offer a lower interest rate.  Examples of bearer bonds are British Consols and American Treasury bill bonds.
+
+
+== Deficit spending ==
+
+According to most economists, during recessions, the government can stimulate the economy by intentionally running a deficit.                                  
+As Professor William Vickrey, awarded with the 1996 Nobel Memorial Prize in Economic Sciences put it :
+
+Deficits are considered to represent sinful profligate spending at the expense of future generations who will be left with a smaller endowment of invested capital.
+This fallacy seems to stem from a false analogy to borrowing by individuals. Current reality is almost the exact opposite. Deficits add to the net disposable income of individuals, to the extent that government disbursements that constitute income to recipients exceed that abstracted from disposable income in taxes, fees, and other charges. This added purchasing power, when spent, provides markets for private production, inducing producers to invest in additional plant capacity, which will form part of the real heritage left to the future. This is in addition to whatever public investment takes place in infrastructure, education, research, and the like. Larger deficits, sufficient to recycle savings out of a growing gross domestic product (GDP) in excess of what can be recycled by profit-seeking private investment, are not an economic sin but an economic necessity. Deficits in excess of a gap growing as a result of the maximum feasible growth in real output might indeed cause problems, but we are nowhere near that level.
+
+Even the analogy itself is faulty. If General Motors, AT&T, and individual households had been required to balance their budgets in the manner being applied to the Federal government, there would be no corporate bonds, no mortgages, no bank loans, and many fewer automobiles, telephones, and houses.
+
+
+=== Ricardian equivalence ===
+The Ricardian equivalence hypothesis, named after the English political economist and Member of Parliament David Ricardo, states that because households anticipate that current public deficit will be paid through future taxes, those households will accumulate savings now to offset those future taxes.  If households acted in this way, a government would not be able to use tax cuts to stimulate the economy.  The Ricardian equivalence result requires several assumptions.  These include households acting as if they were infinite-lived dynasties as well as assumptions of no uncertainty and no liquidity constraints.
+Also, for Ricardian equivalence to apply, the deficit spending would have to be permanent. In contrast, a one-time stimulus through deficit spending would suggest a lesser tax burden annually than the one-time deficit expenditure. Thus temporary deficit spending is still expansionary. Empirical evidence on Ricardian equivalence effects has been mixed.
+
+
+=== Crowding-out hypothesis ===
+The crowding-out hypothesis is the conjecture that when a government experiences a deficit, the choice to borrow to offset that deficit draws on the pool of resources available for investment, and private investment gets crowded out.  This crowding-out effect is induced by changes in the interest rate. When the government wishes to borrow, its demand for credit increases and the interest rate, or price of credit, increases.  This increase in the interest rate makes private investment more expensive as well and less of it is used.
+
+
+== Determinants of government budget balance ==
+
+
+=== Dependent variables ===
+Dependent variables include budgetary variables, meaning deficits and debts, and nominal or cyclically adjusted data.
+The debt ratio, either gross (without effect of the inflation) or net, is used as a wider measure of government actions rather than measure of government deficit. Nevertheless, government generally set their yearly budget aims in flow terms (deficits) rather than in stock terms (debts). This is partly because stock markets variables are harder to target as circumstances outside direct government control (e.g. economic growth, exchange rate changes and asset price changes) affect stock variables more than flow variables.Concerning the nominal or cyclically adjusted data, the latter is preferable measure of the policy-related part of the budget and reduces the mutual partiality that may originate from the interaction between economic growth and budgets. However, there are serious warnings in estimating cyclically adjusted balances, especially defining trend/potential output.
+
+
+=== Independent variables ===
+Concerning factors clarifying variances in budgetary results, there are budgetary, macroeconomic, political, and dummy variables.
+
+
+==== Budgetary variables ====
+Debt-to-GDP ratio is used to characterise the long-run sustainability of government fiscal policy. Countries with very high debt-to-GDP ratio are considered to be more financially vulnerable during recessions, and due to it, their creditors demand higher interest rates on new loans or long-term loans with variable interest to cover the potential loses. This measure often even worsens country's budget balance and increase the risk of country ending in insolvency or, in some cases, in bankruptcy.
+Lagged budget balance means that past fiscal policy decisions done by government can influence the condition of public finances in the following years (e.g. huge government spending during COVID-19 pandemic in most developed countries).
+
+
+==== Macroeconomic variables ====
+Unemployment rate/output growth/output gap are variables measuring the responsibility of government practising fiscal policy to macroeconomic terms. They help government to understand the current economic situation and choose the correct policy to sustain economic prosperity.
+Long-term and short-term interest rate both worsen the budget balance because they increase the amount states must pay on interests, therefore their budget expenditures. In addition, increase of interest rate is an important mean of monetary policy to regulate the inflation, which clears the value of debt.
+Inflation is generally considered to affect the budget balance, but its effect is not a priori clear. During inflation, government is often forced to compensate its effect to ordinary people, which means more expenditures. On the other hand, if country is highly indebted, soaring inflation allows country to pay less real value of debt, or, in case of a deal with a creditor, pay it faster.
+Asset prices may influence government budget both directly and indirectly and its influence on budget balance is dubious, similar to inflation. Budget may be directly affected via budgetary items, for instance by higher revenues from capital gains tax or wealth tax, or indirectly via second-round effects of asset prices, e.g. lower revenues from consumer tax because of lower amount of money, which can inhabitants spend on goods and services.Welfare level has quite straightforward effect on budget balance, if it is supposed that low welfare states have higher budget deficits due to need to finance catching-up expenditures. However, Greece and Japan are considered as developed countries, but their debt is one of the highest in the world and any significant increase of interest rates would lead to huge financial problems, therefore this assumption is quite problematic.
+
+
+==== Political variables ====
+The economic institutions, among them those, which apply fiscal policy, are directly influenced by de jure (under the law) political power. Form of the state budget can be influenced by political instability (higher frequency of elections), political orientation of those possessing political power or by the way of doing budgetary process (degree of cooperation between authorities), which is examined in a field called political economy.
+Election year has significant effect on budget balance, because before and after the elections, there is a tendency called political business cycle, referring to the fact that politicians tend to spend more money before and after the elections to please the voters. Due to it, there is a negative correlation between political stability and budget balance meaning the less political stability, the less balanced budget.
+Government composition index refers to the political ideology of the government. It is generally supposed that left-wing parties are more-expenditure and deficit-prone than the right-wing parties. On the other hand, left-wing parties tend to set more “socially just” progressive tax rates, which in most cases increase tax revenues, therefore budget deficit is not that much higher than during the government of right-wing parties.
+Type of government means if the government is single party or a coalition. A single party government does not have to deal with ideology disagreements like the coalition type of government. It is considered to be more active in enforcing new laws or measures and has more balanced budgets.
+Fiscal governance is variable, that measures if the major budgetary powers have been allocated to the Minister of Finance (“delegation”), if the role of the Minister of Finance is to enforce pre-existing deal between other ministers (“commitment”), if spending decisions are made without discussion with other ministers (“fiefdom”) or if it is a combination of delegation and commitment (typology based on ).Number of political parties refers to effective number of them in parliament, as a high number means requirement for large coalitions, increasing the probability of higher budget deficits. Limited number on the other land may lead to autocracy and loss of welfare influencing the budget balance, because democracy is key determinant of economic institutions, and therefore high economic welfare.Overall political index measures quality of political institutions in a country, which are key determinant of quality economic institution, stating the higher the quality, the lower are expected deficits.
+
+
+==== Dummy variables ====
+Dummy variables are variables used mainly in Econometrics and Statistics to categorize data can only take one of two values (mostly 0 or 1). Here, it refers to events unique only for some parts of the world.
+Run-up to EMU refers to the consolidation measures about the fiscal policy in European countries to qualify to the European monetary union (EMU), which were supposed to control government overspending. However, these criteria concerning maximum debt-to-GDP ratio and budget deficit are not evident to have some changing effect on budgets and debts of member states.Country-specific and year dummies relate to unusual economic events, which have significant effect on state budget balance, country-specific dummies for example to the German unification in 1990 and year dummies to macroeconomic shocks not fully reflected in the variables, like oil shocks in 1970s or 11th September terrorist attacks.
+
+
+== Potential policy solutions for unintended deficits ==
+
+
+=== Increase taxes or reduce government spending ===
+If a reduction in a structural deficit is desired, either revenue must increase, spending must decrease, or both. Taxes may be increased for everyone/every entity across the board or lawmakers may decide to assign that tax burden to specific groups of people (higher-income individuals, businesses, etc.)  Lawmakers may also decide to cut government spending.
+Like with taxes, they could decide to cut the budgets of every government agency/entity by the same percentage or they may decide to give a greater budget cut to specific agencies. Many, if not all, of these decisions made by lawmakers are based on political ideology, popularity with their electorate, or popularity with their donors.
+
+
+=== Changes in tax code ===
+Similar to increasing taxes, changes can be made to the tax code that increases tax revenue. Closing tax loopholes and allowing fewer deductions are different from the act of increasing taxes but essentially have the same effect.
+
+
+=== Reduce debt service liability ===
+Every year, the government must pay debt service payments on their overall public debt. These payments include principal and interest payments.  Occasionally, the government has the opportunity to refinance some of their public debt to afford them lower debt service payments. Doing this would allow the government to cut expenditures without cutting government spending.A balanced budget is a practice that sees a government enforcing that payments, procurement of resources will only be done inline with realised revenues, such that a flat or a zero balance is maintained. Surplus purchases are funded through increases in tax.
+
+
+=== Balanced budget ===
+According to Alesina, Favor & Giavazzi (2018), “we recognized that shifts in fiscal policy typically come in the form of multiyear plans adopted by governments with the aim of reducing the debt-to-GDP ratio over a period of time-typically three to four years. After reconstructing such plans, we divided them into two categories: expenditure-based plans, consisting mostly of spending cuts, and tax-based plans, consisting mostly of tax hikes.” They suggest that paying down the national debt in twenty years is possible through a simplified income tax policy while requiring government officials to enact and follow a balanced budget with additional education on government spending and budgets at all levels of public education. (Alesina, Favor & Giavazzi, 2018).
+
+
+=== Cancellation of part of the debt: bankruptcy ===
+During the Greek government-debt crisis , the cancellation of part of the debt in 2011, which is called a "haircut", has certainly alleviated the situation of Greek finances, but has put many banks in difficulty. Thus, Cypriot banks lost 5% of their assets in the haircut, which caused a banking crisis in this country.
+
+
+=== Inflation ===
+As the interest rates on government debt securities are generally fixed, rising prices reduce the relative weight of interest payments for a government that sees its revenues artificially inflated by inflation. Nevertheless, the threat of inflation leads creditors to demand higher and higher rates. Inflation thus becomes a decoy that gives governments time but is then paid for in the form of permanently penalizing rates. In the American model, however, inflation remains an option that is often sought. In the European model, the declared choice is price stability in order to ensure the durability of the euro.
+
+
+== Policy implementations by country ==
+
+
+=== United States ===
+In recent years, the United States has faced a growing concern over its government budget balance, with both deficits and surpluses having significant implications for the economy and society as a whole.
+
+
+==== Overview of the types of policy solutions ====
+Taxation Policy: The U.S. government has implemented various tax policies to address budget deficits, such as increasing taxes on high-income earners and corporations. However, tax policies can have significant political and economic implications, and their effectiveness in reducing deficits is often debated. Fiscal Policy: The government can use fiscal policy to increase or decrease government spending and influence the economy. This can include increasing government spending to stimulate economic growth during a recession or decreasing spending during times of economic expansion to reduce inflation . Monetary Policy: The Federal Reserve can use monetary policy to influence the economy by adjusting interest rates and controlling the money supply. This can include decreasing interest rates to stimulate economic growth or increasing them to reduce inflation. However, monetary policy can have unintended consequences and may not always be effective in reducing deficits. Government Efficiency: Improving government efficiency and reducing waste can help reduce deficits. This can include streamlining government programs and services, reducing bureaucracy, and implementing cost-saving measures. However, these policies can be difficult to implement and may face political resistance. Budget Reconciliation: The U.S. government can use the budget reconciliation process to pass legislation related to the budget with a simple majority vote. This process can allow for quick and decisive action on budget-related issues, but it can also limit debate and input from the minority party. It is important to note that these policy solutions can have significant implications for the economy and society, and their effectiveness in reducing deficits may vary depending on various factors, such as economic conditions and political climate. It is also important to consider the potential unintended consequences and equity implications of these policies. 
+
+
+==== Implemented policy solutions and legislation ====
+To address issues regarding the government budget balance, policymakers in the United States have implemented various policy solutions and legislation.
+One such policy solution is the Budget Control Act of 2011, which established caps on discretionary spending and created a mechanism for automatic spending cuts in the event that those caps were exceeded. This act was intended to reduce the federal deficit by $2.1 trillion over a ten-year period, and has led to reductions in federal spending on defense, domestic programs, and other areas. Another policy solution is the Tax Cuts and Jobs Act of 2017, which implemented significant tax cuts for individuals and corporations.  Proponents of this legislation argued that it would stimulate economic growth and create jobs, while opponents raised concerns about its impact on the federal deficit. There are also ongoing debates regarding entitlement programs, such as Social Security and Medicare, which account for a significant portion of federal spending. Some policymakers have proposed changes to these programs, such as raising the retirement age or means-testing benefits, in order to reduce the federal deficit. The implications of these policy solutions and legislation are complex and multifaceted. For example, the Budget Control Act of 2011 has led to reductions in federal spending that have had a significant impact on various programs and services. While this has helped to reduce the federal deficit, it has also raised concerns about the impact on individuals and communities that rely on these programs.  The Tax Cuts and Jobs Act of 2017 has similarly had a range of impacts, including both positive effects on economic growth and concerns about its impact on the federal deficit.In terms of entitlement programs, changes to these programs could have significant implications for individuals and families that rely on them for support. For example, raising the retirement age for Social Security could have a disproportionate impact on low-income individuals who are more likely to have physically demanding jobs and may not be able to continue working until the new retirement age. The Congressional Budget Act of 1974 established an internal process for Congress to formulate and enforce an overall plan each year for acting on budget legislation. This process includes the development of a congressional budget resolution, which sets spending and revenue targets for the upcoming fiscal year and at least the following four years. A congressional budget resolution is a non-binding resolution passed by both the House of Representatives and the Senate that sets spending and revenue targets for the upcoming fiscal year and at least the following four years. It serves as a blueprint for Congress as it considers budget-related legislation.
+Budget reconciliation is an optional procedure used in some years to facilitate the passage of legislation amending tax or spending law.  It allows lawmakers to advance spending and tax policies through the Senate with a simple majority, rather than the 60 votes typically needed to overcome a filibuster. This can make it easier for Congress to pass budget-related legislation.
+Pay-as-you-go (PAYGO) requirements are statutory budget-control measures that require new tax or mandatory spending legislation to be deficit-neutral over specified periods. This means that any increase in the deficit resulting from new legislation must be offset by other changes in law that reduce the deficit by an equal amount. If PAYGO requirements are not met, automatic spending cuts (known as sequestration) may be triggered to offset the increase in the deficit. However, Congress can waive PAYGO requirements through legislation.
+Overall, the implementation of policy solutions and legislation to address issues regarding the government budget balance is a complex and ongoing process that requires careful consideration of a range of factors and potential implications.
+
+
+== See also ==
+Budget crisis
+Current account (balance of payments)
+Fiscal policy
+Generational accounting
+Government budget
+Public finance
+Sectoral balancesU.S.-specificDeficit hawk
+Fiscal policy of the United States
+National debt of the United States
+National debt by U.S. presidential terms
+Starve the beast
+Taxation in the United States
+United States federal budget
+
+
+== References ==
+
+
+== External links ==

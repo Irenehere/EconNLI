@@ -1,0 +1,44 @@
+Thomas John Sargent (born July 19, 1943) is an American economist and the W.R. Berkley Professor of Economics and Business at New York University. He specializes in the fields of macroeconomics, monetary economics, and time series econometrics. As of 2020, he ranks as the 29th most cited economist in the world. He was awarded the Nobel Memorial Prize in Economics in 2011 together with Christopher A. Sims for their "empirical research on cause and effect in the macroeconomy".
+
+
+== Education ==
+Sargent graduated from Monrovia High School. He earned his B.A. from the University of California, Berkeley in 1964, being the University Medalist as Most Distinguished Scholar in Class of 1964, and his PhD from Harvard in 1968, under supervision of John R. Meyer. Sargent's classmates at Harvard included Christopher A. Sims. After serving in the U.S. Army as a first lieutenant and captain, he moved on to teaching. He held teaching positions at the University of Pennsylvania (1970–71), University of Minnesota (1971–87), University of Chicago (1991–98), Stanford University (1998–2002) and Princeton University (2009), and is currently a professor of economics at New York University (since 2002).  He previously held the position of President of the American Economic Association and the Econometric Society where he has been a fellow since 1976. In 1983, Sargent was elected to the National Academy of Sciences and also the American Academy of Arts and Sciences. He has been a senior fellow of the Hoover Institution at Stanford University since 1987.
+
+
+== Professional contributions ==
+Sargent is one of the leaders of the "rational expectations revolution," which argues that the people being modeled by economists can predict the future, or the probability of future outcomes, at least as well as the economist can with his model. Rational expectations was introduced into economics by John Muth, then Robert Lucas, Jr., and Edward C. Prescott took it much farther. In work written in close collaboration with Lucas and Neil Wallace, Thomas J. Sargent contributed fundamentally to the evolution of new classical macroeconomics.Sargent's main contributions to rational expectations were these:
+
+trace the implications of rational expectations, with Wallace, for alternative monetary-policy instruments and rules on output stability and price determinacy.
+help make the theory of rational expectations statistically operational.
+provide some early examples of rational expectations models of the Phillips curve, the term structure of interest rates, and the demand for money during hyperinflations.
+analyze, along with Wallace, the dimensions along which monetary and fiscal policy must be coordinated  intertemporally.
+conduct several historical studies that put rational expectations reasoning to work to explain consequences of dramatic changes in macroeconomic policy regimes.In 1975 he and Wallace proposed the policy-ineffectiveness proposition, which challenged a basic assumption of Keynesian economics.
+Sargent went on to refine or extend rational expectations reasoning by further:
+
+studying the conditions under which systems with bounded rationality of agents and adaptive learners converge to rational expectations.
+using the notion of a self-confirming equilibrium, a weaker notion of rational expectations suggested by limits of learning models.
+studying contexts with Lars Peter Hansen in which decision makers do not trust their probability model. In particular, Hansen and Sargent adapt and extend methods from  robust control theory.Sargent has also been a pioneer in introducing recursive economics to academic study, especially for macroeconomic issues such as unemployment, fiscal and monetary policy, and growth. His series of textbooks, co-authored with Lars Ljungqvist, are seminal in the contemporary graduate economics curriculum.
+Sargent has pursued a research program with Ljungqvist designed to understand determinants of differences in unemployment outcomes in Europe and the United States during the last 30 years. The two key questions the program addresses are why, in the 1950s and 1960s, unemployment was systematically lower in Europe than in the United States and why, for two and a half decades after 1980,
+unemployment has been systematically higher in Europe than in the United States. In "Two Questions about European Unemployment," the answer is that "Europe has stronger employment protection despite also having had more generous government supplied unemployment compensation"." While the institutional differences remained the same over this time period, the microeconomic environment for workers changed, with a higher risk of human capital depreciation in the 1980s.In 1997, he won the Nemmers Prize in EconomicsIn 2011, he was awarded the NAS Award for Scientific Reviewing from the National Academy of Sciences and, in September, he became the recipient of the 2011 CME Group-MSRI Prize in Innovative Quantitative Applications.Sargent is known as a devoted teacher. Among his PhD advisees are men and women at the forefront of macroeconomic research. Sargent's reading group at Stanford and NYU is a famous institution among graduate students in economics.In 2016, Sargent helped found the non-profit QuantEcon project, which is dedicated to the development and documentation of modern open source computational tools for economics, econometrics, and decision making.Currently he is director of the Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School in Shenzhen.
+
+
+== Nobel Prize ==
+On October 10, 2011, Sargent, with Christopher A. Sims, was awarded the Nobel Memorial Prize in Economic Sciences. The award cited their "empirical research on cause and effect in the macroeconomy". His Nobel lecture, "United States Then, Europe Now," was delivered on December 11, 2011.
+
+
+== In popular culture ==
+He is featured playing himself in a television commercial for Ally Financial in which he is asked if he can predict CD rates two years from now, to which he simply answers, "No."Sargent is notable for making short speeches. For example, in 2007 his Berkeley graduation speech consumed 335 words.
+
+
+== Selected publications ==
+
+
+== References ==
+
+
+== External links ==
+
+Thomas J. Sargent – NYU Stern
+Sargent personal website
+Bloomberg News "Nobels Give Econometrics Pioneers Their Due"
+Thomas J. Sargent on Nobelprize.org

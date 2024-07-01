@@ -1,0 +1,88 @@
+Portfolio optimization is the process of selecting the best portfolio (asset distribution), out of the set of all portfolios being considered, according to some objective. The objective typically maximizes factors such as expected return, and minimizes costs like financial risk. Factors being considered may range from tangible (such as assets, liabilities, earnings or other fundamentals) to intangible (such as selective divestment).
+
+
+== Modern portfolio theory ==
+Modern portfolio theory was introduced in a 1952 doctoral thesis by Harry Markowitz; see Markowitz model.
+It assumes that an investor wants to maximize a portfolio's expected return contingent on any given amount of risk. For portfolios that meet this criterion, known as efficient portfolios, achieving a higher expected return requires taking on more risk, so investors are faced with a trade-off between risk and expected return. This risk-expected return relationship of efficient portfolios is graphically represented by a curve known as the efficient frontier. 
+All efficient portfolios, each represented by a point on the efficient frontier, are well-diversified. While ignoring higher moments can lead to significant over-investment in risky securities, especially when volatility is high, the optimization of portfolios when return distributions are non-Gaussian is mathematically challenging.
+
+
+== Optimization methods ==
+The portfolio optimization problem is specified as a constrained utility-maximization problem. Common formulations of portfolio utility functions define it as the expected portfolio return (net of transaction and financing costs) minus a cost of risk. The latter component, the cost of risk, is defined as the portfolio risk multiplied by a risk aversion parameter (or unit price of risk). Practitioners often add additional constraints to improve diversification and further limit risk. Examples of such constraints are asset, sector, and region portfolio weight limits.
+
+
+=== Specific approaches ===
+Portfolio optimization often takes place in two stages: optimizing weights of asset classes to hold, and optimizing weights of assets within the same asset class. An example of the former would be choosing the proportions placed in equities versus bonds, while an example of the latter would be choosing the proportions of the stock sub-portfolio placed in stocks X, Y, and Z. Equities and bonds have fundamentally different financial characteristics and have different systematic risk and hence can be viewed as separate asset classes; holding some of the portfolio in each class provides some diversification, and holding various specific assets within each class affords further diversification. By using such a two-step procedure one eliminates non-systematic risks both on the individual asset and the asset class level.
+For the specific formulas for efficient portfolios, see Portfolio separation in mean-variance analysis.
+One approach to portfolio optimization is to specify a von Neumann–Morgenstern utility function defined over final portfolio wealth; the expected value of utility is to be maximized. To reflect a preference for higher rather than lower returns, this objective function is increasing in wealth, and to reflect risk aversion it is concave. For realistic utility functions in the presence of many assets that can be held, this approach, while theoretically the most defensible, can be computationally intensive.
+Harry Markowitz developed the "critical line method", a general procedure for quadratic programming that can handle additional linear constraints and upper and lower bounds on holdings. Moreover, in this context, the approach provides a method for determining the entire set of efficient portfolios. Its application here was later explicated by William Sharpe.
+
+
+=== Mathematical tools ===
+The complexity and scale of optimizing portfolios over many assets means that the work is generally done by computer. Central to this optimization is the construction of the covariance matrix for the rates of return on the assets in the portfolio.
+Techniques include:
+
+Linear programming
+Quadratic programming
+Nonlinear programming
+Mixed integer programming
+Meta-heuristic methods
+Stochastic programming for multistage portfolio optimization
+Copula based methods
+Principal component-based methods
+Deterministic global optimization
+Genetic algorithm
+
+
+== Optimization constraints ==
+Portfolio optimization is usually done subject to constraints, such as regulatory constraints, or illiquidity. These constraints can lead to portfolio weights that focus on a small sub-sample of assets within the portfolio. When the portfolio optimization process is subject to other constraints such as taxes, transaction costs, and management fees, the optimization process may result in an under-diversified portfolio.
+
+
+=== Regulation and taxes ===
+Investors may be forbidden by law to hold some assets. In some cases, unconstrained portfolio optimization would lead to short-selling of some assets. However short-selling can be forbidden. Sometimes it is impractical to hold an asset because the associated tax cost is too high. In such cases appropriate constraints must be imposed on the optimization process.
+
+
+=== Transaction costs ===
+Transaction costs are the costs of trading in order to change the portfolio weights. Since the optimal portfolio changes with time, there is an incentive to re-optimize frequently. However, too frequent trading would incur too-frequent transactions costs; so the optimal strategy is to find the frequency of re-optimization and trading that appropriately trades off the avoidance of transaction costs with the avoidance of sticking with an out-of-date set of portfolio proportions. This is related to the topic of tracking error, by which stock proportions deviate over time from some benchmark in the absence of re-balancing.
+
+
+== Improving portfolio optimization ==
+
+
+=== Correlations and risk evaluation ===
+Different approaches to portfolio optimization measure risk differently. In addition to the traditional measure, standard deviation, or its square (variance), which are not robust risk measures, other measures include the Sortino ratio, CVaR (Conditional Value at Risk), and statistical dispersion.
+Investment is a forward-looking activity, and thus the covariances of returns must be forecast rather than observed. 
+Portfolio optimization assumes the investor may have some risk aversion and the stock prices may exhibit significant differences between their historical or forecast values and what is experienced. 
+In particular, financial crises are characterized by a significant increase in correlation of stock price movements which may seriously degrade the benefits of diversification.In a mean-variance optimization framework, accurate estimation of the variance-covariance matrix is paramount. 
+Quantitative techniques that use Monte-Carlo simulation with the Gaussian copula and well-specified marginal distributions are effective. 
+Allowing the modeling process to allow for empirical characteristics in stock returns such as autoregression, asymmetric volatility, skewness, and kurtosis is important. 
+Not accounting for these attributes can lead to severe estimation error in the correlations, variances and covariances that have negative biases (as much as 70% of the true values).Other optimization strategies that focus on minimizing tail-risk (e.g., value at risk, conditional value at risk) in investment portfolios are popular amongst risk averse investors. 
+To minimize exposure to tail risk, forecasts of asset returns using Monte-Carlo simulation with vine copulas to allow for lower (left) tail dependence (e.g., Clayton, Rotated Gumbel) across large portfolios of assets are most suitable.(Tail) risk parity focuses on allocation of risk, rather than allocation of capital.
+More recently, hedge fund managers have been applying "full-scale optimization" whereby any investor utility function can be used to optimize a portfolio. 
+It is purported that such a methodology is more practical and suitable for modern investors whose risk preferences involve reducing tail risk, minimizing negative skewness and fat tails in the returns distribution of the investment portfolio. 
+Where such methodologies involve the use of higher-moment utility functions, it is necessary to use a methodology that allows for forecasting of a joint distribution that accounts for asymmetric dependence. 
+A suitable methodology that allows for the joint distribution to incorporate asymmetric dependence is the Clayton Canonical Vine Copula. See Copula (probability theory) § Quantitative finance.
+
+
+=== Cooperation in portfolio optimization ===
+A group of investors, instead of investing individually, may choose to invest their total capital into the joint portfolio, and then divide the (uncertain) investment profit in a way which suits best their utility/risk preferences. It turns out that, at least in the expected utility model, and mean-deviation model, each investor can usually get a share which he/she values strictly more than his/her optimal portfolio from the individual investment.
+
+
+== See also ==
+Outline of finance § Portfolio theory for related articles
+Portfolio theory, for the formulas
+Asset allocation
+Merton's portfolio problem
+Intertemporal portfolio choice
+Marginal conditional stochastic dominance, a way of showing that a portfolio is not efficient
+Mutual fund separation theorem, giving a property of mean-variance efficient portfolios
+Financial risk management § Investment management
+Universal portfolio algorithm, giving the first online portfolio selection algorithm
+List of genetic algorithm applications § Finance and Economics
+Machine learning § Applications
+Chance-constrained portfolio selection
+Stochastic portfolio theory
+Risk parity / Tail risk parity
+
+
+== References ==

@@ -1,0 +1,225 @@
+Management (or managing) is the administration of organizations, whether they are a business, a nonprofit organization, or a government body through business administration, nonprofit management, or the political science sub-field of public administration respectively. It is the science of managing the resources of businesses, governments, and other organizations.  
+Management includes the activities of setting the strategy of an organization and coordinating the efforts of its employees or volunteers to accomplish its objectives through the application of available resources, such as financial, natural, technological, allocated authority, and human resources. "Run the business" and "Change the business" are two concepts that are used in management to differentiate between the continued delivery of goods or services and adapting of goods or services to meet the changing needs of customers - see trend. The term "management" may also refer to those people who manage an organization—managers. 
+Some people study management at colleges and universities; major degree programs in management within the private sector include the Bachelor of Commerce (B.Com.), Bachelor of Science/Bachelor of Business Administration (BSBA/BBA.), Master of Business Administration (MBA.), Master in Management/Master of Science in Management (MiM/MSM) and, for management in the public sector, degree programs include the Bachelor of Arts (BA) or Bachelor of Science (BS) in Political Science (PoliSci) with a concentration in Public Administration, and the Master of Public Administration (MPA) degrees. Interdisciplinary degree programs such as the Master of Nonprofit Organizations (MNO) or the Master of Nonprofit Management (MNM) exist, as well as the MPA/MBA dual degree program where coursework for both the Master of Public Administration and Master of Business Administration are taken at the same time to complete the degree program in a shorter time than doing both separately.  Individuals who aim to become management specialists or experts, management researchers, or professors may complete the Doctor of Management (DM), the Doctor of Business Administration (DBA), the Doctor of Public Administration (DPA), the PhD in Business Administration, the PhD in Management, or the PhD in Political Science with a concentration in Public Administration. In the past few decades, there has been a movement for evidence-based management.
+Larger organizations generally have three hierarchical levels of managers, in a pyramid structure:
+
+Senior managers such as members of a board of directors and a chief executive officer (CEO) or a president of an organization sets the strategic goals and policy of the organization and make decisions on how the overall organization will operate. Senior managers are generally executive-level professionals who provide direction to middle management, and directly or indirectly report to them.
+Middle managers such as branch managers, regional managers, department managers, and section managers, who provide direction to the front-line managers. They communicate the strategic goals and policy of senior management to the front-line managers.
+Line managers such as supervisors and front-line team leaders, oversee the work of regular employees, or volunteers in some voluntary organizations, and provide direction on their work. Line managers often perform the managerial functions that are traditionally considered as the core of management. Despite the name, they are usually considered part of the workforce and not part of the organization's management class.
+Some professional service employees who have similar duties to and use the same skills as managers without supervisory duties such as regular employees classified as white-collar workers with specialized training in liberal arts and pure sciences education or professional development education as opposed to blue-collar workers working in manual labor or the skilled trades.
+Some grey-collar workers who are in a career advancement transitional or intermediary stage between blue-collar and white-collar work, where formerly blue-collar workers perform managerial duties supervising others that perform manual labor and/or skilled trades.In smaller organizations, a manager may have a much wider scope and may perform several roles or even all of the roles commonly observed in a large organization.
+Social scientists study management as an academic discipline, investigating areas such as social organization, organizational adaptation, and organizational leadership.
+
+
+== Etymology ==
+The English verb "manage" has its roots by the XV century French verb 'mesnager', which often referred in equestrian language "to hold in hand the reins of a horse". Also the Italian term maneggiare (to handle, especially tools or a horse) is possible. In Spanish, manejar can also mean to rule the horses. These three terms derive from the two Latin words manus (hand) and agere (to act). 
+The French word for housekeeping, ménagerie, derived from ménager ("to keep house"; compare ménage for "household"), also encompasses taking care of domestic animals. Ménagerie is the French translation of Xenophon's famous book Oeconomicus (Greek: Οἰκονομικός) on household matters and husbandry. The French word mesnagement (or ménagement) influenced the semantic development of the English word management in the 17th and 18th centuries.
+
+
+== Definitions ==
+Views on the definition and scope of management include:
+
+Henri Fayol (1841–1925) stated: "to manage is to forecast and to plan, to organise, to command, to co-ordinate and to control".
+Fredmund Malik (1944– ) defines management as "the transformation of resources into utility".
+Management is included as one of the factors of production – along with machines, materials and money.
+Ghislain Deslandes defines management as "a vulnerable force, under pressure to achieve results and endowed with the triple power of constraint, imitation and imagination, operating on subjective, interpersonal, institutional and environmental levels".
+Peter Drucker (1909–2005) saw the basic task of management as twofold: marketing and innovation. Nevertheless, innovation is also linked to marketing (product innovation is a central strategic marketing issue). Drucker identifies marketing as a key essence for business success, but management and marketing are generally understood as two different branches of business administration knowledge.
+
+
+=== Theoretical scope ===
+Management involves identifying the mission, objective, procedures, rules and manipulation of the human capital of an enterprise to contribute to the success of the enterprise. Scholars have focused on the management of individual, organizational, and inter-organizational relationships. This implies effective communication: an enterprise environment (as opposed to a physical or mechanical mechanism) implies human motivation and implies some sort of successful progress or system outcome. As such, management is not the manipulation of a mechanism (machine or automated program), not the herding of animals, and can occur either in a legal or in an illegal enterprise or environment. From an individual's perspective, management does not need to be seen solely from an enterprise point of view, because management is an essential function in improving one's life and relationships.  Management is therefore everywhere and it has a wider range of application. Communication and a positive endeavor are two main aspects of it either through enterprise or through independent pursuit. Plans, measurements, motivational psychological tools, goals, and economic measures (profit, etc.) may or may not be necessary components for there to be management. At first, one views management functionally, such as measuring quantity, adjusting plans, and meeting goals, but this applies even in situations where planning does not take place. From this perspective, Henri Fayol (1841–1925) considers management to consist of five functions:
+
+planning (forecasting)
+organizing
+commanding
+coordinating
+controllingIn another way of thinking, Mary Parker Follett (1868–1933), allegedly defined management as "the art of getting things done through people". She described management as a philosophy.Critics, however, find this definition useful but far too narrow. The phrase "management is what managers do" occurs widely, suggesting the difficulty of defining management without circularity, the shifting nature of definitions and the connection of managerial practices with the existence of a managerial cadre or of a class.
+One habit of thought regards management as equivalent to "business administration" and thus excludes management in places outside commerce, as for example in charities and in the public sector. More broadly, every organization must "manage" its work, people, processes, technology, etc. to maximize effectiveness. Nonetheless, many people refer to university departments that teach management as "business schools". Some such institutions (such as the Harvard Business School) use that name, while others (such as the Yale School of Management) employ the broader term "management".
+English-speakers may also use the term "management" or "the management" as a collective word describing the managers of an organization, for example of a corporation.
+Historically this use of the term often contrasted with the term "labor" – referring to those being managed.But in the present era the concept of management is identified in the wide areas and its frontiers have been pushed to a broader range. Apart from profitable organizations, even non-profit organizations apply management concepts. The concept and its uses are not constrained. Management as a whole is the process of planning, organizing, directing, leading and controlling.
+
+
+== Levels ==
+A common management structure of organizations includes three management levels: first-level, middle-level, and top-level managers. First-line managers are the lowest level of management and manage the work of non-managerial individuals who are directly involved with the production or creation of the organization's products. First-line managers are often called supervisors, but may also be called line managers, office managers, or even foremen. Middle managers include all levels of management between the first-line level and the top level of the organization. These managers manage the work of first-line managers and may have titles such as department head, project leader, plant manager, or division manager. Top managers are responsible for making organization-wide decisions and establishing the plans and goals that affect the entire organization. These individuals typically have titles such as executive vice president, president, managing director, chief operating officer, chief executive officer, or chairman of the board.
+These managers are classified in a hierarchy of authority, and perform different tasks. In many organizations, the number of managers in every level resembles a pyramid. Each level is explained below in specifications of their different responsibilities and likely job titles.
+
+
+=== Top management ===
+The top or senior layer of management is a small group which consists of the board of directors (including non-executive directors, executive directors and independent directors), president, vice-president, CEOs and other members of the C-level executives. Different organizations have various members in their C-suite, which may include a chief financial officer, chief technology officer, and so on. They are responsible for controlling and overseeing the operations of the entire organization. They set a "tone at the top" and develop strategic plans, company policies, and make decisions on the overall direction of the organization. In addition, top-level managers play a significant role in the mobilization of outside resources. Senior managers are accountable to the shareholders, the general public and to public bodies that oversee corporations and similar organizations. Some members of the senior management may serve as the public face of the organization, and they may make speeches to introduce new strategies or appear in marketing.
+The board of directors is typically primarily composed of non-executives who owe a fiduciary duty to shareholders and are not closely involved in the day-to-day activities of the organization, although this varies depending on the type (e.g., public versus private), size and culture of the organization. These directors are theoretically liable for breaches of that duty and typically insured under directors and officers liability insurance. Fortune 500 directors are estimated to spend 4.4 hours per week on board duties, and median compensation was $212,512 in 2010. The board sets corporate strategy, makes major decisions such as major acquisitions, and hires, evaluates, and fires the top-level manager (chief executive officer or CEO). The CEO typically hires other positions. However, board involvement in the hiring of other positions such as the chief financial officer (CFO) has increased. In 2013, a survey of over 160 CEOs and directors of public and private companies found that the top weaknesses of CEOs were "mentoring skills" and "board engagement", and 10% of companies never evaluated the CEO. The board may also have certain employees (e.g., internal auditors) report to them or directly hire independent contractors; for example, the board (through the audit committee) typically selects the auditor.
+Helpful skills of top management vary by the type of organization but typically include a broad understanding of competition, world economies, and politics. In addition, the CEO is responsible for implementing and determining (within the board's framework) the broad policies of the organization. Executive management accomplishes the day-to-day details, including: instructions for preparation of department budgets, procedures, schedules; appointment of middle level executives such as department managers; coordination of departments; media and governmental relations; and shareholder communication.
+
+
+=== Middle management ===
+Consist of general managers, branch managers and department managers. They are accountable to the top management for their department's function. They devote more time to organizational and directional functions. Their roles can be emphasized as executing organizational plans in conformance with the company's policies and the objectives of the top management, they define and discuss information and policies from top management to lower management, and most importantly they inspire and provide guidance to lower-level managers towards better performance.
+Middle management is the midway management of a categorized organization, being secondary to the senior management but above the deepest levels of operational members. An operational manager may be well-thought-out by middle management or may be categorized as non-management operate, liable to the policy of the specific organization. The efficiency of the middle level is vital in any organization since they bridge the gap between top level and bottom level staffs.
+Their functions include:
+
+Design and implement effective group and inter-group work and information systems.
+Define and monitor group-level performance indicators.
+Diagnose and resolve problems within and among workgroups.
+Design and implement reward systems that support cooperative behavior. They also make decisions and share ideas with top managers.
+
+
+=== Line management ===
+Line managers include supervisors, section leaders, forepersons and team leaders. They focus on controlling and directing regular employees. They are usually responsible for assigning employees' tasks, guiding and supervising employees on day-to-day activities, ensuring the quality and quantity of production and/or service, making recommendations and suggestions to employees on their work, and channeling employee concerns that they cannot resolve to mid-level managers or other administrators. First-level or "front line" managers also act as role models for their employees. In some types of work, front line managers may also do some of the same tasks that employees do, at least some of the time. For example, in some restaurants, the front line managers will also serve customers during a very busy period of the day. In general, line managers are considered part of the workforce and not part of the organization's proper management despite performing traditional management functions.
+Front-line managers typically provide:
+
+Training for new employees
+Basic supervision
+Motivation
+Performance feedback and guidanceSome front-line managers may also provide career planning for employees who aim to rise within the organization.
+
+
+== Training and education ==
+
+Colleges and universities around the world offers bachelor's degrees, graduate degrees, diplomas and certificates in management; generally within their colleges of business, business schools or faculty of management but also in other related departments. In the 2010s era, there has been an increase in online management education and training in the form of electronic educational technology (also called e-learning). Online education has increased the accessibility of management training to people who do not live near a college or university, or who cannot afford to travel to a city where such training is available.
+
+
+=== Requirement ===
+While some professions require academic credentials in order to work in the profession (e.g., law, medicine, engineering, which require, respectively the Bachelor of Law, Doctor of Medicine and Bachelor of Engineering degrees), management and administration positions do not necessarily require the completion of academic degrees. Some well-known senior executives in the US who did not complete a degree include Steve Jobs, Bill Gates and Mark Zuckerberg. However, many managers and executives have completed some type of business or management training, such as a Bachelor of Commerce or a Master of Business Administration degree. Some major organizations, including companies, non-profit organizations and governments, require applicants to managerial or executive positions to hold at minimum bachelor's degree in a field related to administration or management, or in the case of business jobs, a Bachelor of Commerce or a similar degree.
+
+
+=== Undergraduate ===
+
+At the undergraduate level, the most common business programs are the Bachelor of Business Administration (BBA) and Bachelor of Commerce (B.Com.).
+These typically comprise a four-year program designed to give students an overview of the role of managers in planning and directing within an organization. 
+Course topics include accounting, financial management, statistics, marketing, strategy, and other related areas.
+There are many other undergraduate degrees that include the study of management, such as Bachelor of Arts  and Bachelor of Science degrees with a major in business administration or management and the Bachelor of Arts (BA) or Bachelor of Science (BS) in Political Science (PoliSci) with a concentration in Public Administration or the Bachelor of Public Administration (B.P.A), a degree designed for individuals aiming to work as bureaucrats in the government jobs. 
+Many colleges and universities also offer certificates and diplomas in business administration or management, which typically require one to two years of full-time study.
+To manage technological areas, one often needs an undergraduate degree in a STEM area.
+
+
+=== Graduate ===
+
+At the graduate level students aiming at careers as managers or executives may choose to specialize in major subareas of management or business administration such as entrepreneurship, human resources, international business, organizational behavior, organizational theory, strategic management, accounting, corporate finance, entertainment, global management, healthcare management, investment management, sustainability and real estate.
+A Master of Business Administration (MBA) is the most popular professional degree at the master's level and can be obtained from many universities in the United States. MBA programs provide further education in management and leadership for graduate students. Other master's degrees in business and management include Master of Management (MM) and the Master of Science (M.Sc.) in business administration or management, which is typically taken by students aiming to become researchers or professors.
+There are also specialized master's degrees in administration for individuals aiming at careers outside of business, such as the Master of Public Administration (MPA) degree (also offered as a Master of Arts or Master of Science in Public Administration in some universities), for students aiming to become managers or executives in the public service and the Master of Health Administration, for students aiming to become managers or executives in the health care and hospital sector.
+Management doctorates are the most advanced terminal degrees in the field of business and management. Most individuals obtaining management doctorates take the programs to obtain the training in research methods, statistical analysis and writing academic papers that they will need to seek careers as researchers, senior consultants and/or professors in business administration or management. There are several types of management doctorates:  the Doctor of Management (DM), the Doctor of Business Administration (DBA), the Doctor of Public Administration(DPA), the PhD in Business Administration, the PhD in Management, and the PhD in Political Science with a concentration in Public Administration.  In the 2010s, doctorates in business administration and management are available with many specializations.
+
+
+=== Good practices ===
+While management trends can change so fast, the long-term trend in management has been defined by a market embracing diversity and a rising service industry. Managers are currently being trained to encourage greater equality for minorities and women in the workplace, by offering increased flexibility in working hours, better retraining, and innovative (and usually industry-specific) performance markers. Managers destined for the service sector are being trained to use unique measurement techniques, better worker support and more charismatic leadership styles. Human resources finds itself increasingly working with management in a training capacity to help collect management data on the success (or failure) of management actions with employees.Good practices identified for managers include "walking the shop floor", and, especially for managers who are new in post, identifying and achieving some "quick wins" which demonstrate visible success in establishing appropriate objectives. Leadership writer John Kotter uses the phrase "Short-Term Wins" to express the same idea. As in all work, achieving an appropriate work-life balance for self and others is an important management practice.
+
+
+==== Evidence-based management ====
+
+Evidence-based management is an emerging movement to use the current, best evidence in management and decision-making. It is part of the larger movement towards evidence-based practices. Evidence-based management entails managerial decisions and organizational practices informed by the best available evidence. As with other evidence-based practice, this is based on the three principles of: 1) published peer-reviewed (often in management or social science journals) research evidence that bears on whether and why a particular management practice works; 2) judgement and experience from contextual management practice, to understand the organization and interpersonal dynamics in a situation and determine the risks and benefits of available actions; and 3) the preferences and values of those affected.
+
+
+== History ==
+Some see management as a late-modern (in the sense of late modernity) conceptualization. On those terms it cannot have a pre-modern history – only harbingers (such as stewards). Others, however, detect management-like thought among ancient Sumerian traders and the builders of the pyramids of ancient Egypt. Slave-owners through the centuries faced the problems of exploiting/motivating a dependent but sometimes unenthusiastic or recalcitrant workforce, but many pre-industrial enterprises, given their small scale, did not feel compelled to face the issues of management systematically. However, innovations such as the spread of Arabic numerals (5th to 15th centuries) and the codification of double-entry book-keeping (1494) provided tools for management assessment, planning and control.
+
+An organisation is more stable if members have the right to express their differences and solve their conflicts within it.
+While one person can begin an organisation, "it is lasting when it is left in the care of many and when many desire to maintain it".
+A weak manager can follow a strong one, but not another weak one, and maintain authority.
+A manager seeking to change an established organization "should retain at least a shadow of the ancient customs".With the changing workplaces of industrial revolutions in the 18th and 19th centuries, military theory and practice contributed approaches to managing the newly popular factories.Given the scale of most commercial operations and the lack of mechanized record-keeping and recording before the industrial revolution, it made sense for most owners of enterprises in those times to carry out management functions by and for themselves. But with growing size and complexity of organizations, a distinction between owners (individuals, industrial dynasties or groups of shareholders) and day-to-day managers (independent specialists in planning and control) gradually became more common.
+
+
+=== Early writing ===
+The field of management originated in ancient China, including possibly the first highly centralized bureaucratic state, and the earliest (by the second century BC) example of an administration based on merit through testing. Some theorists have cited ancient military texts as providing lessons for civilian managers. For example, Chinese general Sun Tzu in his 6th-century BC work The Art of War recommends (when re-phrased in modern terminology) being aware of and acting on strengths and weaknesses of both a manager's organization and a foe's. The writings of influential Chinese Legalist philosopher Shen Buhai may be considered to embody a rare premodern example of abstract theory of administration. American philosopher Herrlee G. Creel and other scholars find the influence of Chinese administration in Europe by the 12th century.  Thomas Taylor Meadows, Britain's consul in Guangzhou, argued in his Desultory Notes on the Government and People of China (1847) that "the long duration of the Chinese empire is solely and altogether owing to the good government which consists in the advancement of men of talent and merit only," and that the British must reform their civil service by making the institution meritocratic. Influenced by the ancient Chinese imperial examination, the Northcote–Trevelyan Report of 1854 recommended that recruitment should be on the basis of merit determined through competitive examination, candidates should have a solid general education to enable inter-departmental transfers, and promotion should be through achievement rather than "preferment, patronage, or purchase". This led to implementation of Her Majesty's Civil Service as a systematic, meritocratic civil service bureaucracy. Like the British, the development of French bureaucracy was influenced by the Chinese system.  Voltaire claimed that the Chinese had "perfected moral science" and François Quesnay advocated an economic and political system modeled after that of the Chinese. French civil service examinations adopted in the late 19th century were also heavily based on general cultural studies. These features have been likened to the earlier Chinese model.Various ancient and medieval civilizations produced "mirrors for princes" books, which aimed to advise new monarchs on how to govern. Plato described job specialization in 350 BC, and Alfarabi listed several leadership traits in AD 900. Other examples include the Indian Arthashastra by Chanakya (written around 300 BC), and The Prince by Italian author
+Niccolò Machiavelli (c. 1515).
+
+Written in 1776 by Adam Smith, a Scottish moral philosopher, The Wealth of Nations discussed efficient organization of work through division of labour.
+Smith described how changes in processes could boost productivity in the manufacture of pins. While individuals could produce 200 pins per day, Smith analyzed the steps involved in manufacture and, with 10 specialists, enabled production of 48,000 pins per day.
+
+
+=== 19th century ===
+Classical economists such as Adam Smith (1723–1790) and John Stuart Mill (1806–1873) provided a theoretical background to resource allocation, production (economics), and pricing issues. About the same time, innovators like Eli Whitney (1765–1825), James Watt (1736–1819), and Matthew Boulton (1728–1809) developed elements of technical production such as standardization, quality-control procedures, cost-accounting, interchangeability of parts, and work-planning. Many of these aspects of management existed in the pre-1861 slave-based sector of the US economy. That environment saw 4 million people, as the contemporary usages had it, "managed" in profitable quasi-mass production
+before wage slavery eclipsed chattel slavery.
+Salaried managers as an identifiable group first became prominent in the late 19th century. As large corporations began to overshadow small family businesses the need for personnel management positions became more necessary. Businesses grew into large corporations and the need for clerks, bookkeepers, secretaries and managers expanded. The demand for trained managers led college and university administrators to consider and move forward with plans to create the first schools of business on their campuses.
+
+
+=== 20th century ===
+At the turn of the twentieth century the need for skilled and trained managers had become increasingly apparent. The demand occurred as personnel departments began to expand rapidly. In 1915, less than one in twenty manufacturing firms had a dedicated personnel department. By 1929 that number had grown to over one-third. Formal management education became standardized at colleges and universities. Colleges and universities capitalized on the needs of corporations by forming business schools and corporate placement departments. This shift toward formal business education marked the creation of a corporate elite in the US.
+By about 1900 one finds managers trying to place their theories on what they regarded as a thoroughly scientific basis (see scientism for perceived limitations of this belief). Examples include Henry R. Towne's Science of management in the 1890s, Frederick Winslow Taylor's The Principles of Scientific Management (1911), Lillian Gilbreth's Psychology of Management (1914), Frank and Lillian Gilbreth's Applied motion study (1917), and Henry L. Gantt's charts (1910s). J. Duncan wrote the first college management textbook in 1911. In 1912 Yoichi Ueno introduced Taylorism to Japan and became the first management consultant of the "Japanese management style". His son Ichiro Ueno pioneered Japanese quality assurance.
+The first comprehensive theories of management appeared around 1920. The Harvard Business School offered the first Master of Business Administration degree (MBA) in 1921. People like Henri Fayol (1841–1925) and Alexander Church (1866–1936) described the various branches of management and their inter-relationships. In the early 20th century, people like Ordway Tead (1891–1973), Walter Scott (1869–1955) and J. Mooney applied the principles of psychology to management. Other writers, such as Elton Mayo (1880–1949), Mary Parker Follett (1868–1933), Chester Barnard (1886–1961), Max Weber (1864–1920), who saw what he called the "administrator" as bureaucrat, Rensis Likert (1903–1981), and Chris Argyris (born 1923) approached the phenomenon of management from a sociological perspective.
+The 1930s and 1940s saw the development of a militarization trend in management in parts of Eurasia – both the NKVD (in the Soviet Union) and the  SS (in the Greater Germanic Reich), for example, managed labor camps as industrial enterprises using slave labor supervised by uniformed cadres.
+Military habits persisted in some management circles.Peter Drucker (1909–2005) wrote one of the earliest books on applied management: Concept of the Corporation (published in 1946). It resulted from Alfred Sloan (chairman of General Motors until 1956) commissioning a study of the organisation. Drucker went on to write 39 books, many in the same vein.
+H. Dodge, Ronald Fisher (1890–1962), and Thornton C. Fry introduced statistical techniques into management-studies. In the 1940s, Patrick Blackett worked in the development of the applied-mathematics science of operations research, initially for military operations. Operations research, sometimes known as "management science" (but distinct from Taylor's scientific management), attempts to take a scientific approach to solving decision-problems, and can apply directly to multiple management problems, particularly in the areas of logistics and operations.
+Some of the later 20th-century developments include the theory of constraints (introduced in 1984), management by objectives (systematised in 1954), re-engineering (early 1990s), Six Sigma (1986), management by walking around (1970s), the Viable system model (1972), and various  information-technology-driven theories such as agile software development (so-named from 2001), as well as group-management theories such as Cog's Ladder (1972) and the notion of "thriving on chaos" (1987).
+As the general recognition of managers as a class solidified during the 20th century and gave perceived practitioners of the art/science of management a certain amount of prestige, so the way opened for popularised systems of management ideas to peddle their wares. In this context many management fads may have had more to do with pop psychology than with scientific theories of management.
+Business management includes the following branches:
+financial management
+human resource management
+Management cybernetics
+information technology management (responsible for management information systems )
+marketing management
+operations management and production management
+strategic management
+
+
+=== 21st century ===
+In the 21st century observers find it increasingly difficult to subdivide management into functional categories in this way. More and more processes simultaneously involve several categories. Instead, one tends to think in terms of the various processes, tasks, and objects subject to management.Branches of management theory also exist relating to nonprofits and to government: such as public administration, public management, and educational management. Further, management programs related to civil-society organizations have also spawned programs in nonprofit management and social entrepreneurship.
+Note that many of the assumptions made by management have come under attack from business-ethics viewpoints, critical management studies, and anti-corporate activism.
+As one consequence, workplace democracy (sometimes referred to as Workers' self-management) has become both more common and more advocated, in some places distributing all management functions among workers, each of whom takes on a portion of the work. However, these models predate any current political issue, and may occur more naturally than does a command hierarchy. All management embraces to some degree a democratic principle—in that in the long term, the majority of workers must support management. Otherwise, they leave to find other work or go on strike. Despite the move toward workplace democracy, command-and-control organization structures remain commonplace as de facto organization structures. Indeed, the entrenched nature of command-and-control is evident in the way that recent layoffs have been conducted with management ranks affected far less than employees at the lower levels. In some cases, management has even rewarded itself with bonuses after laying off lower-level workers.According to leadership-academic Manfred F.R. Kets de Vries, a contemporary senior-management team will almost inevitably have some personality disorders.
+
+
+== Nature of work ==
+In profitable organizations, management's primary function is the satisfaction of a range of stakeholders. This typically involves making a profit (for the shareholders), creating valued products at a reasonable cost (for customers), and providing great employment opportunities for employees. In case of nonprofit management, one of the main functions is, keeping the faith of donors. In most models of management and governance, shareholders vote for the board of directors, and the board then hires senior management. Some organizations have experimented with other methods (such as employee-voting models) of selecting or reviewing managers, but this is rare.
+
+
+== Topics ==
+
+
+=== Basics ===
+According to Fayol, management operates through five basic functions: planning, organizing, commanding, coordinating and controlling.
+
+Planning: Deciding what needs to happen in the future and generating plans for action (deciding in advance).
+Organizing (or staffing): Making sure the human and nonhuman resources are put into place.
+Commanding (or leading): Determining what must be done in a situation and getting people to do it.
+Coordinating: Creating a structure through which an organization's goals can be accomplished.
+Controlling: Checking progress against plans.
+
+
+=== Basic roles ===
+Interpersonal: roles that involve coordination and interaction with employees.Figurehead, leader, liaison 
+
+Informational: roles that involve handling, sharing, and analyzing information.Nerve centre, disseminator, spokesperson 
+
+Decision: roles that require decision-making.Entrepreneur, negotiator, allocator, disturbance handler
+
+
+=== Skills ===
+Management skills include:
+
+Political: used to build a power base and to establish connections.
+Interpersonal: used to communicate, motivate, mentor and delegate.
+Diagnostic: ability to visualize appropriate responses to a situation.
+Leadership: ability to communicate a vision and inspire people to embrace that vision.cross-cultural leadership: ability to understand the effects of culture on leadership style.
+Behavioral: perception towards others, conflict resolution, time-management, self-improvement, stress management and resilience, patience, clear communication.
+
+
+=== Implementation of policies and strategies ===
+All policies and strategies must be discussed with all managerial personnel and staff.
+Managers must understand where and how they can implement their policies and strategies.
+An action plan must be devised for each department.
+Policies and strategies must be reviewed regularly.
+Contingency plans must be devised in case the environment changes.
+Top-level managers should carry out regular progress assessments.
+The business requires team spirit and a good environment.
+The missions, objectives, strengths and weaknesses of each department must be analyzed to determine their roles in achieving the business's mission.
+The forecasting method develops a reliable picture of the business's future environment.
+A planning unit must be created to ensure that all plans are consistent and that policies and strategies are aimed at achieving the same mission and objectives.
+
+
+== Policies and strategies in the planning process ==
+They give mid and lower-level managers a good idea of the future plans for each department in an organization.
+A framework is created whereby plans and decisions are made.
+Mid and lower-level management may add their own plans to the business's strategies.
+
+
+== See also ==
+Certificate in Management Studies
+Engineering management
+Outline of management
+Outline of business management
+
+
+== References ==
+
+
+== External links ==
+Online books, and library resources in your library and in other libraries about Management
+ Media related to Management at Wikimedia Commons
+ Quotations related to Management at Wikiquote

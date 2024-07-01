@@ -1,0 +1,411 @@
+A value-added tax (VAT), known in some countries as a goods and services tax (GST), is a type of tax that is assessed incrementally. It is levied on the price of a product or service at each stage of production, distribution, or sale to the end consumer. If the ultimate consumer is a business that collects and pays to the government VAT on its products or services, it can reclaim the tax paid. It is similar to, and is often compared with, a sales tax. VAT is an indirect tax because the person who ultimately bears the burden of the tax is not necessarily the same person as the one who pays the tax to the tax authorities.
+Not all localities require VAT to be charged, and exports are often exempt. VAT is usually implemented as a destination-based tax, where the tax rate is based on the location of the consumer and applied to the sales price. The terms VAT, GST, and the more general consumption tax are sometimes used interchangeably. VAT raises about a fifth of total tax revenues both worldwide and among the members of the Organisation for Economic Co-operation and Development (OECD).: 14  As of June 2023, 175 of the 193 countries with full UN membership employ a VAT, including all OECD members except the United States,: 14  where many states use a sales tax system instead.
+There are two main methods of calculating VAT: the credit-invoice or invoice-based method and the subtraction or accounts-based method. In the credit-invoice method, sales transactions are taxed, the customer is informed of the VAT on the transaction, and businesses may receive a credit for the VAT paid on input materials and services. The credit-invoice method is by far the more common and is used by all national VATs except for Japan. In the subtraction method, a business at the end of a reporting period calculates the value of all taxable sales, subtracts the sum of all taxable purchases, and applies the VAT rate to the difference. The subtraction method VAT is currently used only by Japan although it, often by using the name "flat tax," has been part of many recent tax reform proposals by US politicians. With both methods, there are exceptions in the calculation method for certain goods and transactions that are created to help collection or to counter tax fraud and evasion.
+
+
+== History ==
+Germany and France were the first countries to implement a VAT, doing so in the form of a general consumption tax during World War I. The modern variation of VAT was first implemented by France in 1954 in Ivory Coast (Côte d'Ivoire) colony. Recognizing the experiment as successful, the French introduced it in 1958. Maurice Lauré, Joint Director of the France Tax Authority, the Direction Générale des Impôts implemented VAT on 10 April 1954, although German industrialist Wilhelm von Siemens proposed the concept in 1918. Initially directed at large businesses, it was extended over time to include all business sectors. In France it is the most important source of state finance, accounting for nearly 50% of state revenues.A 2017 study found that the adoption of VAT is strongly linked to countries with corporatist institutions.
+
+
+== Overview ==
+The amount of VAT is decided by the state as a percentage of the price of the goods or services provided. As its name suggests, value-added tax is designed to tax only the value added by a business on top of the services and goods it can purchase from the market.
+To understand what this means, consider a production process (e.g., take-away coffee starting from coffee beans) where products get successively more valuable at each stage of the process. Each VAT-registered company in the chain will charge VAT as a percentage of the selling price, and will reclaim the VAT paid to purchase relevant products and services; the effect is that net VAT is paid on the value added. When an end-consumer makes a purchase subject to VAT—which is not in this case refundable—they are paying VAT for the entire production process (e.g., the purchase of the coffee beans, their transportation, processing, cultivation, etc.), since VAT is always included in the prices.
+The VAT collected by the state from each company is the difference between the VAT on sales and the VAT on purchase of goods and services upon which the product depends, i.e., the net value added by the company.
+
+
+== Implementation ==
+
+The standard way to implement a value-added tax involves assuming a business owes some fraction on the price of the product minus all taxes previously paid on the good.
+By the method of collection, VAT can be accounts-based or invoice-based. Under the invoice method of collection, each seller charges VAT rate on his output and passes the buyer a special invoice that indicates the amount of tax charged. Buyers who are subject to VAT on their own sales (output tax) consider the tax on the purchase invoices as input tax and can deduct the sum from their own VAT liability. The difference between output tax and input tax is paid to the government (or a refund is claimed, in the case of negative liability). Under the accounts based method, no such specific invoices are used. Instead, the tax is calculated on the value added, measured as a difference between revenues and allowable purchases. Most countries today use the invoice method, the only exception being Japan, which uses the accounts method.
+By the timing of collection, VAT (as well as accounting in general) can be either accrual or cash based. Cash basis accounting is a very simple form of accounting. When a payment is received for the sale of goods or services, a deposit is made, and the revenue is recorded as of the date of the receipt of funds—no matter when the sale had been made. Cheques are written when funds are available to pay bills, and the expense is recorded as of the cheque date—regardless of when the expense had been incurred. The primary focus is on the amount of cash in the bank, and the secondary focus is on making sure all bills are paid. Little effort is made to match revenues to the time period in which they are earned, or to match expenses to the time period in which they are incurred. 
+Accrual basis accounting matches revenues to the time period in which they are earned and matches expenses to the time period in which they are incurred. While it is more complex than cash basis accounting, it provides much more information about your business. The accrual basis allows you to track receivables (amounts due from customers on credit sales) and payables (amounts due to vendors on credit purchases). The accrual basis allows you to match revenues to the expenses incurred in earning them, giving you more meaningful financial reports.
+
+
+== Incentives ==
+The main reason that VAT has been successfully adopted in 116 countries as of 2020 is because it provides an incentive for businesses to both register and keep invoices, and it does this in the form of zero rated goods and VAT exemption on goods not resold. Through registration, a business effectively receives a VAT waiver on goods purchased for its own use.
+
+
+== Registration ==
+In general, countries that have a VAT system require most businesses to be registered for VAT purposes. VAT-registered businesses can be natural persons or legal entities, but countries may have different thresholds or regulations specifying at which turnover levels registration becomes compulsory. VAT-registered businesses are required to add VAT on goods and services that they supply to others (with some exceptions, which vary by country) and account for the VAT to the taxing authority, after deducting the VAT that they paid on the goods and services they acquired from other VAT-registered businesses.
+
+
+== Comparison with income tax ==
+Like an income tax, VAT is based on the increase in value of a product or service at each stage of production or distribution. However, there are some important differences:
+A VAT is usually collected by the end retailer. Therefore, even though VAT is actually incurred by all stages of production and distribution, it is frequently compared to a sales tax.
+A VAT is usually a flat tax.
+For VAT purposes, an importer is assumed to have contributed 100% of the value of a product imported from outside of the VAT zone. The importer incurs VAT on the entire value of the product, and this cannot be refunded, even if the foreign manufacturer paid other forms of income tax. This is in contrast to the US income tax system, which allows businesses to expense costs paid to foreign manufacturers. For this reason, VAT is often considered by US manufacturers to be a trade barrier, as further discussed below.
+
+
+== Comparison with sales tax ==
+Value-added tax avoids the cascade effect of sales tax by taxing only the value added at each stage of production. For this reason, throughout the world, VAT has been gaining favor over traditional sales taxes. In principle, VAT applies to all provisions of goods and services. VAT is assessed and collected on the value of goods or services that have been provided every time there is a transaction (sale/purchase). The seller charges VAT to the buyer, and the seller pays this VAT to the government. If, however, the purchasers are not the end users, but the goods or services purchased are costs to their business, the tax they have paid for such purchases can be deducted from the tax they charge to their customers. The government receives only the difference; in other words, it is paid tax on the gross margin of each transaction, by each participant in the sales chain.
+A sales tax incentivizes vertical integration and therefore discourages specialization and trade due to the fact that it taxes the full value of the product at each stage of production, instead of only the value that has been added to the product.
+In many developing countries such as India, sales tax/VAT are key revenue sources as high unemployment and low per capita income render other income sources inadequate. However, there is strong opposition to this by many sub-national governments as it leads to an overall reduction in the revenue they collect as well as of some autonomy.
+In theory, sales tax is normally charged on end users (consumers). The VAT mechanism means that the end-user tax is the same as it would be with a sales tax. The main disadvantage of VAT is the extra accounting required by those in the middle of the supply chain; this is balanced by the simplicity of not requiring a set of rules to determine who is and is not considered an end user. When the VAT system has few, if any, exemptions such as with GST in New Zealand, payment of VAT is even simpler.A general economic idea is that if sales taxes are high enough, people start engaging in widespread tax evading activity. On the other hand, total VAT rates can rise above 10% without widespread evasion because of its collection mechanism. However, because of its particular mechanism of collection, VAT is targeted by specific frauds like carousel fraud, which can be very expensive in terms of loss of tax incomes for states.
+
+
+== Examples ==
+Consider the manufacture and sale of any item, which in this case is a widget. In what follows, the term "gross margin" is used rather than "profit". Profit is the remainder of what is left after paying other costs, such as rent and personnel costs.
+
+
+=== Without any tax ===
+A widget manufacturer, for example, spends  $1.00 on raw materials and uses them to make a widget.
+The widget is sold wholesale to a widget retailer for $1.20, leaving a gross margin of $0.20.
+The widget retailer then sells the widget to a widget consumer for $1.50, leaving a gross margin of $0.30.
+
+
+=== With a sales tax ===
+With a 10% sales tax (tax amount in bold):
+
+The manufacturer spends $1.00 for the raw materials, certifying it is not a final consumer.
+The manufacturer charges the retailer $1.20, checking that the retailer is not a consumer, leaving the same gross margin of $0.20.
+The retailer charges the consumer ($1.50 × 1.10) = $1.65 and pays the government $0.15, leaving the gross margin of $0.30.So the consumer has paid 10% ($0.15) extra, compared to the no taxation scheme, and the government has collected this amount in taxation. The retailers have not paid any tax directly (it is the consumer who has paid the tax), but the retailer has to do the paperwork in order to correctly pass on to the government the sales tax it has collected. Suppliers and manufacturers have the administrative burden of supplying correct state exemption certifications which the retailer must verify and maintain. 
+The manufacturer is also responsible for making sure that their customers (retailers) are only intermediates and not end consumers (otherwise the manufacturer itself would need to charge the tax). In addition, the retailer must keep track of what is taxable and what is not along with the various tax rates in each of the cities, counties and states for the 35,000+ global taxing jurisdictions.
+A large exception to this state of affairs is online sales. Typically if the online retail firm has no nexus (also known as substantial physical presence) in the state where the merchandise will be delivered, no obligation is imposed upon the retailer to collect sales taxes from "out-of-state" purchasers. Generally, state law requires that the purchaser report such purchases to the state taxing authority and pay the use tax, which compensates for the sales tax that is not paid by the retailer.
+
+
+=== With a value-added tax ===
+With a 10% VAT (tax amounts in bold):
+
+The manufacturer spends ($1 × 1.10) = $1.10 for the raw materials, and the seller of the raw materials pays the government $0.10.
+The manufacturer charges the retailer ($1.20 × 1.10) = $1.32 and pays the government ($0.12 minus $0.10) = $0.02, leaving the same gross margin of ($1.32 – $1.10 – $0.02) = $0.20.
+The retailer charges the consumer ($1.50 × 1.10) = $1.65 and pays the government ($0.15 minus $0.12) = $0.03, leaving the same gross margin of ($1.65 – $1.32 – $0.03) = $0.30.
+The manufacturer and retailer realize less gross margin from a percentage perspective. If the cost of raw material production were shown, this would also be true of the raw material supplier's gross margin on a percentage basis.
+Note that the taxes paid by both the manufacturer and the retailer to the government are 10% of the values added by their respective business practices (e.g. the value added by the manufacturer is $1.20 minus $1.00, thus the tax payable by the manufacturer is ($1.20 – $1.00) × 10% = $0.02).In the VAT example above, the consumer has paid, and the government received, the same dollar amount as with a sales tax. At each stage of the production, the seller collects a tax on behalf of the government and the buyer pays for the tax by paying a higher price. The buyer can then be reimbursed for paying the tax, but only by successfully selling the value-added product to the buyer or consumer in the next stage. In the previously shown examples, if the retailer fails to sell some of its inventory, it suffers a greater financial loss in the VAT scheme, in comparison to the sales tax regulatory system, by having paid a higher wholesale price on the product it wants to sell. 
+Each business is responsible for handling the necessary paperwork in order to pass on to the government the VAT it collected on its gross margin. The businesses are freed from any obligation to request certifications from purchasers who are not end users, and of providing such certifications to their suppliers, but they incur increased accounting costs for collecting the tax, which are not reimbursed by the taxing authority.  For example, wholesale companies now have to hire staff and accountants to handle the VAT paperwork, which would not be required if they were collecting sales tax instead.
+
+
+=== Limitations to the examples ===
+In the above examples, we assumed that the same number of widgets were made and sold both before and after the introduction of the tax. This is not true in real life.
+The supply and demand economic model suggests that any tax raises the cost of transaction for someone, whether it is the seller or purchaser. In raising the cost, either the demand curve shifts rightward, or the supply curve shifts upward. The two are functionally equivalent. Consequently, the quantity of a good purchased decreases, and/or the price for which it is sold increases.
+This shift in supply and demand is not incorporated into the above example, for simplicity and because these effects are different for every type of good. The above example assumes the tax is non-distortionary.
+
+
+=== Limitations of VAT ===
+A VAT, like most taxes, distorts what would have happened without it. Because the price for someone rises, the quantity of goods traded decreases. Correspondingly, some people are worse off by more than the government is made better off by tax income. That is, more is lost due to supply and demand shifts than is gained in tax. This is known as a deadweight loss. If the income lost by the economy is greater than the government's income, the tax is inefficient. VAT and a non-VAT have the same implications on the microeconomic model.
+The entire amount of the government's income (the tax revenue) may not be a deadweight drag, if the tax revenue is used for productive spending or has positive externalities – in other words, governments may do more than simply consume the tax income.  While distortions occur, consumption taxes like VAT are often considered superior because they distort incentives to invest, save and work less than most other types of taxation – in other words, a VAT discourages consumption rather than production.
+In the diagram on the right:
+
+Deadweight loss: the area of the triangle formed by the tax income box, the original supply curve, and the demand curve
+Government’s tax income: the grey rectangle captioned “Tax Revenue”
+Total consumer surplus after the shift: the green area
+Total producer surplus after the shift: the yellow area
+
+
+== Imports and exports ==
+Being a consumption tax, VAT is usually used as a replacement for sales tax. Ultimately, it taxes the same people and businesses the same amounts of money, despite its internal mechanism being different. There is a significant difference between VAT and sales tax for goods that are imported and exported:
+
+VAT is charged for a commodity that is exported while sales tax is not.
+Sales tax is paid for the full price of the imported commodity, while VAT is expected to be charged only for value added to this commodity by the importer and the reseller.This means that, without special measures, goods will be taxed twice if they are exported from one country that does have VAT to another country that has sales tax instead. Conversely, goods that are imported from a VAT-free country into another country with VAT will result in no sales tax and only a fraction of the usual VAT. There are also significant differences in taxation for goods that are being imported / exported between countries with different systems or rates of VAT. Sales tax does not have those problems – it is charged in the same way for both imported and domestic goods, and it is never charged twice.
+To fix this problem, nearly all countries that use VAT use special rules for imported and exported goods:
+
+All imported goods are charged VAT for their full price when they are sold for the first time.
+All exported goods are exempted from any VAT payments.For these reasons VAT on imports and VAT rebates on exports form a common practice approved by the World Trade Organization (WTO).
+
+
+=== Example ===
+→ In Germany a product is sold to a German reseller for $2500+VAT ($3000). The German reseller will claim the VAT back from the state (the refund time change in base of local laws and states) and will then charge the VAT to the customer.
+→ In the USA a product is sold to another US reseller for $2500 (without the sales tax) with a certificate of exemption. The US reseller will charge the sales tax to the customer.
+Note: The VAT system adopted in Europe affects company cashflow due to compliance costs and fraud risk for governments due to overclaimed taxes.It's different for B2B sales between countries, where will be applied the reverse charge (no VAT charged) or sales tax exemption, in case of B2C sales the seller should pay the VAT or sales tax to the consumer state (creating a controversial situation by asking to a foreign company to pay taxes of their taxable residents/citizens without jurisdiction on seller).
+
+
+== Around the world ==
+
+
+=== Armenia ===
+
+In Armenia, the value added tax (VAT) is 20%. However, the expanded application is zero VAT for many operations and transactions in Armenia. That zero VAT is the source of controversies between the trade partners and Armenia, mainly between Russia, which is against the zero VAT and promotes wider use of tax credits. 
+VAT is replaced with fixed payments, which are utilized for many taxpayers, operations, and transactions.
+The present VAT legislation in Armenia is based largely on the EU VAT Directive's principles.The VAT system in Armenia is input-output based. Companies who have registered for VAT are allowed to subtract the VAT on their inputs from the VAT they charged on their sales and report the difference to the tax authorities.
+VAT is purchased quarterly. However, it is an exception when taxpayers state monthly payments. VAT is disbursed to the state's budget until the 20th day of the month after the tax period. 
+It came into effect on January 1, 2022. The draft law on the VAT plans were passed on November 11, 2021, and the plans were accepted on November 17.
+
+
+=== Australia ===
+
+The goods and services tax (GST) is a value-added tax introduced in Australia in 2000, which is collected by the Australian Tax Office. The revenue is then redistributed to the states and territories via the Commonwealth Grants Commission process. In essence, this is Australia's program of horizontal fiscal equalisation. Whilst the rate is currently set at 10%, there are many domestically consumed items that are effectively zero-rated (GST-free) such as fresh food, education, and health services, certain medical products, as well as exemptions for Government charges and fees that are themselves in the nature of taxes.
+
+
+=== Bangladesh ===
+
+Value-added tax (VAT) in Bangladesh was introduced in 1991, replacing sales tax and most excise duties. The Value Added Tax Act, 1991 was enacted that year and VAT started its passage from 10 July 1991. In Bangladesh, 10 July is observed as National VAT Day. Within the passage of 25 years, VAT has become the largest source of Government Revenue. About 56% of total tax revenue is VAT revenue in Bangladesh. Standard VAT rate is 15%. Export is zero rated. Besides these rates there are several reduced rates, locally called Truncated Rates, for service sectors ranging from 1.5% to 10%. To increase the productivity of VAT, the Government enacted the Value Added Tax and Supplementary Duty Act of 2012. This law was initially scheduled to operate online with an automated administration from 1 July 2017, however this pilot project was extended for another two years.The National Board of Revenue (NBR) of the Ministry of Finance of the Government of Bangladesh is the apex organization administering the value-added tax. Relevant rules and acts include: Value Added Tax Act, 1991; Value Added Tax and Supplementary Duty Act, 2012; Development Surcharge and Levy (Imposition and Collection) Act, 2015; and Value Added Tax and Supplementary Duty Rules, 2016. Anyone who is selling a product and collects VAT from buyers becomes a VAT Trustee if they: register their business and collect a Business Identification Number (BIN) from the NBR; submit VAT returns on time; offer VAT receipts to consumers; store all cash-memos; and use the VAT rebate system responsibly. Anyone who works in the VAT or Customs department in the NBR and deals with VAT trustees is a VAT Mentor. The flat rate of VAT is 15%.
+
+
+=== Barbados ===
+
+VAT in Barbados was introduced on 1 January 1997 and replaced 11 other different taxes. It was originally introduced at a rate of 15% but was later increased to a rate of 17.5% on most goods and services in 2011. VAT on restaurant and hotel accommodations between 10% and 15% while no tax is levied on certain foods and goods listed by the government. The revenue is collected by the Barbados Revenue Authority.
+
+
+=== Bulgaria ===
+
+Value-added tax (VAT) in Bulgarian is currently 20 % as of 2023. The reduced VAT rate of 9% on baby foods and hygiene products, as well as on books, is made permanent (it was due to expire at the end of 2022). A permanent reduced VAT rate of 9% will also apply to physical or electronic periodicals, such as newspapers and magazines, as of 1 January 2023. 
+
+
+=== Canada ===
+
+Goods and Services Tax (GST) is a sales tax introduced by the Federal Government in 1991 at a rate of 7%, later reduced to the current rate of 5%. A Harmonized Sales Tax (HST) that combines the GST and provincial sales tax together, is collected in New Brunswick (15%), Newfoundland (15%), Nova Scotia (15%), Ontario (13%) and Prince Edward Island (15%), while British Columbia had a 12% HST from 2010 until 2013. Quebec has a de facto 14.975% HST: its provincial sales tax follows the same rules as the GST, and both are collected together by Revenu Québec. 
+Advertised and posted prices generally exclude taxes, which are calculated at the time of payment; common exceptions are motor fuels, the posted prices for which include sales and excise taxes, and items in vending machines as well as alcohol in monopoly stores. Basic groceries, prescription drugs, inward/outbound transportation and medical devices are exempt. Other provinces that do not have a HST may have a Provincial Sales Tax (PST), PSTs are collected in British Columbia (7%), Manitoba (7%) and Saskatchewan (6%). The province of Alberta and all three territories do not collect either a HST or PST.
+
+
+=== Chile ===
+VAT in Chile was introduced in 1974 through the Decreto Ley 825. Since 2003, the standard rate of VAT is 19%. This tax makes the 41.2% of the total revenue of the country.
+
+
+=== China ===
+
+VAT was implemented in China in 1984 and is administered by the State Administration of Taxation. In 2007, the revenue from VAT was 15.47 billion yuan ($2.2 billion) which made up 33.9 percent of China's total tax revenue for the year. The standard rate of VAT in China is 13%. There is a reduced rate of 9% that applies to products such as books and types of oils, and 6% for services except for PPE lease.
+
+
+=== European Union ===
+
+The European Union value-added tax (EU VAT) covers consumption of goods and services and is mandatory for member states of the European Union. The EU VAT's key issue asks where the supply and consumption occurs thereby determining which member state will collect the VAT and which VAT rate will be charged.
+Each member state's national VAT legislation must comply with the provisions of EU VAT law, which requires a minimum standard rate of 15% and one or two reduced rates not to be below 5%. Some EU members have a 0% VAT rate on certain supplies; these states would have agreed this as part of their EU Accession Treaty (for example, newspapers and certain magazines in Belgium). Certain goods and services must be exempt from VAT (for example, postal services, medical care, lending, insurance, betting), and certain other goods and services to be exempt from VAT but subject to the ability of an EU member state to opt to charge VAT on those supplies (such as land and certain financial services). The highest rate currently in operation in the EU is 27% (Hungary), though member states are free to set higher rates. There is, in fact, only one EU country (Denmark) that does not have a reduced rate of VAT.There are some areas of member states (both overseas and on the European continent) which are outside the EU VAT area, and some non-EU states that are inside the EU VAT area.  External areas may have no VAT or may have a rate lower than 15%.  Goods and services supplied from external areas to internal areas are considered imported.  (See EU VAT area § EU VAT area for a full listing.)
+VAT that is charged by a business and paid by its customers is known as "output VAT" (that is, VAT on its output supplies). VAT that is paid by a business to other businesses on the supplies that it receives is known as "input VAT" (that is, VAT on its input supplies). A business is generally able to recover input VAT to the extent that the input VAT is attributable to (that is, used to make) its taxable outputs. Input VAT is recovered by setting it against the output VAT for which the business is required to account to the government, or, if there is an excess, by claiming a repayment from the government. 
+Private people are generally allowed to buy goods in any member country and bring it home and pay only the VAT to the seller.  Input VAT that is attributable to VAT-exempt supplies is not recoverable, although a business can increase its prices so the customer effectively bears the cost of the "sticking" VAT (the effective rate will be lower than the headline rate and depend on the balance between previously taxed input and labour at the exempt stage).
+
+
+=== Gulf Cooperation Council ===
+
+Increased growth and pressure on the GCC's governments to provide infrastructure to support growing urban centers, the Member States of the Gulf Co-operation Council (GCC), which together make up the Gulf Co-operation Council (GCC), have felt the need to introduce a tax system in the region.
+In particular, the United Arab Emirates (UAE) on 1 January 2018 implemented VAT.  For companies whose annual revenues exceed $102,000 (Dhs 375,000), registration is mandatory. Oman's Minister of Financial Affairs indicated that GCC countries have agreed the introductory rate of VAT is 5%.
+The Kingdom of Saudi Arabia VAT system was implemented on 1 January 2018 at 5% rate. However, on 11 May 2020 the Kingdom of Saudi Arabia announced to increase the VAT from 5% to 15% as of 1 July 2020, due to the effects of the Corona pandemic and the decline in oil prices.
+
+
+=== India ===
+
+VAT was introduced into the Indian taxation system from 1 April 2005. Of the then 28 Indian states, eight did not introduce VAT at first instance. There is uniform VAT rate of 5% and 14.5% all over India. The government of Tamil Nadu introduced an act by the name Tamil Nadu Value Added Tax Act 2006 which came into effect from 1 January 2007. It was also known as the TN-VAT. Under the BJP government, a new national Goods and Services Tax was introduced under the One Hundred and First Amendment of the Constitution of India.
+
+
+=== Indonesia ===
+
+Value-added tax (VAT) was introduced into the Indonesian taxation system from 1 April 1985. General VAT rate is ten percent. There are currently plans to raise the standard VAT rate to 12%. Using indirect subtraction method with invoice to calculate value-added tax payable. VAT was Collected by the Directorate General of Taxation, Ministry of Finance. Some goods and services are exempt from VAT like basic commodities vital to the general public, medical or health services, religion services, educational services and Services provided by the government in respect of carrying out general governmental administration.
+
+
+=== Italy ===
+
+The Italian Government used to apply a full value multi-phase tax on sales (IGE), but it switched in 1973 to the more efficient IVA, an indirect multi-phase tax on the Added Value. It uses a system of compensation (Debit-Credit Tax) and companies pay the tax on the good and services they buy. However, they can deduct it, bringing it to compensation with the taxes they collect form their client. In the end the system allows to apply a final taxation to the consumer of a fixed amount, regardless of the taxation applied during the production process. The percentages are: 4% for essential goods and services, 10% for medicines and drugs, 22% for ordinary goods and services.
+
+
+=== Israel ===
+
+Value-added tax (VAT) was first imposed in Israel on 1 July 1976, by virtue of the Value Added Tax Law, following the recommendations of the Asher Committee, which dealt with this matter during the first Rabin government. The initial rate of VAT was 8%.
+From June 2013 to September 2015, the VAT rate was 18 percent. Since then, the VAT rate in Israel has been 17%.
+
+
+=== Japan ===
+
+Consumption tax (消費税, shōhizei) in Japan is 8%, which consists of a national tax rate of 6.3% and a local tax of 1.7%. It is usually (but not always) included in posted prices. From 1 October 2019, the tax rate is proposed to increase to 10% for most goods, while groceries and other basic necessities will remain at 8%.
+
+
+=== Malaysia ===
+
+The goods and services tax (GST) is a value-added tax introduced in Malaysia in 2015, which is collected by the Royal Malaysian Customs Department. The standard rate is currently set at 6%. Many domestically consumed items such as fresh foods, water, electricity and land public transportation are zero-rated, while some supplies such as education and health services are GST exempted. After being revised by the newly elected government after the General Election 14, GST will be removed across Malaysia from 1 June 2018 onwards.
+As of 8 August 2018, the goods and services tax (GST) has been abolished and replaced by sales and services tax (SST) under the new government which promised to do so in their manifesto. The new SST or SST 2.0, is on track to be rolled out on 1 September 2018. Former Finance Minister Lim Guan Eng said that failure to do so would result in an operating deficit of RM4 billion (approximately 969 million in USD) for the Malaysian government. Under the new tax system, selected items will be subjected to a 5% or 10% tax while services will be subjected to a 6% tax.
+
+
+=== Mexico ===
+Value-added tax (Spanish: Impuesto al Valor Agregado, IVA) is a tax applied in Mexico and other countries of Latin America. In Chile, it is also called Impuesto al Valor Agregado and, in Peru, it is called Impuesto General a las Ventas or IGV.
+Prior to the IVA, a sales tax (Spanish: impuesto a las ventas) had been applied in Mexico. In September 1966, the first attempt to apply the IVA took place when revenue experts declared that the IVA should be a modern equivalent of the sales tax as it occurred in France. At the convention of the Inter-American Center of Revenue Administrators in April and May 1967, the Mexican representation declared that the application of a value-added tax would not be possible in Mexico at the time. In November 1967, other experts declared that although this is one of the most equitable indirect taxes, its application in Mexico could not take place.
+In response to these statements, direct sampling of members in the private sector took place as well as field trips to European countries where this tax was applied or soon to be applied. In 1969, the first attempt to substitute the mercantile-revenue tax for the value-added tax took place. On 29 December 1978 the Federal government published the official application of the tax beginning on 1 January 1980 in the Official Journal of the Federation.
+As of 2010, the general VAT rate was 16%. This rate was applied all over Mexico except for bordering regions (i.e. the United States border, or Belize and Guatemala), where the rate was 11%. The main exemptions are for books, food, and medicines on a 0% basis. Also some services are exempt like a doctor's medical attention.  In 2014 Mexico Tax Reforms eliminated the favorable tax rate for border regions and increased the VAT to 16% across the country.
+
+
+=== Nepal ===
+
+VAT was implemented in 1998 and is the major source of government revenue. It is administered by Inland Revenue Department of Nepal. Nepal has been levying two rates of VAT: Normal 13% and zero rate. In addition, some goods and services are exempt from VAT.
+
+
+=== New Zealand ===
+
+The goods and services tax (GST) is a value-added tax that was introduced in New Zealand in 1986, currently levied at 15%. It is notable for exempting few items from the tax. From July 1989 to September 2010, GST was levied at 12.5%, and prior to that at 10%.
+
+
+=== The Nordic countries ===
+MOMS (Danish: merværdiafgift, formerly meromsætningsafgift), Norwegian: merverdiavgift (bokmål) or meirverdiavgift (nynorsk) (abbreviated MVA), Swedish: Mervärdes- och OMSättningsskatt (until the early 1970s labeled as OMS OMSättningsskatt only), Icelandic: virðisaukaskattur (abbreviated VSK), Faroese: meirvirðisgjald (abbreviated MVG) or Finnish: arvonlisävero (abbreviated ALV) are the Nordic terms for VAT. Like other countries' sales and VAT, it is an indirect tax.
+
+In Denmark, VAT is generally applied at one rate, and with few exceptions is not split into two or more rates as in other countries (e.g. Germany), where reduced rates apply to essential goods such as foodstuffs.  The current standard rate of VAT in Denmark is 25%.  That makes Denmark one of the countries with the highest value-added tax, alongside Norway, Sweden and Croatia.  A number of services have reduced VAT, for instance public transportation of private persons, health care services, publishing newspapers, rent of premises (the lessor can, though, voluntarily register as VAT payer, except for residential premises), and travel agency operations.
+In Finland, the standard rate of VAT is 24% as of 1 January 2013 (raised from previous 23%), along with all other VAT rates, excluding the zero rate. In addition, two reduced rates are in use: 14% (up from previous 13% starting 1 January 2013), which is applied on food and animal feed, and 10%, (increased from 9% 1 January 2013) which is applied on passenger transportation services, cinema performances, physical exercise services, books, pharmaceuticals, entrance fees to commercial cultural and entertainment events and facilities. 
+Supplies of some goods and services are exempt under the conditions defined in the Finnish VAT Act: hospital and medical care; social welfare services; educational, financial and insurance services; lotteries and money games; transactions concerning bank notes and coins used as legal tender; real property including building land; certain transactions carried out by blind persons and interpretation services for deaf persons. The seller of these tax-exempt services or goods is not subject to VAT and does not pay tax on sales. Such sellers therefore may not deduct VAT included in the purchase prices of his inputs. Åland, an autonomous area, is considered to be outside the EU VAT area, even if its VAT rate is the same as for Finland. Goods brought from Åland to Finland or other EU countries are considered to be export/import goods. This enables tax-free sales onboard passenger ships.
+In Iceland, VAT is split into two levels: 24% for most goods and services but 11% for certain goods and services. The 11% level is applied for hotel and guesthouse stays, licence fees for radio stations (namely RÚV), newspapers and magazines, books; hot water, electricity and oil for heating houses, food for human consumption (but not alcoholic beverages), access to toll roads and music.In Norway, VAT is split into three levels: 25% general rate, 15% on foodstuffs and 12% on the supply of passenger transport services and the procurement of such services, on the letting of hotel rooms and holiday homes, and on transport services regarding the ferrying of vehicles as part of the domestic road network. The same rate applies to cinema tickets and to the previous television licence (abolished in January 2020). Financial services, health services, social services and educational services are all outside the scope of the VAT Act. Newspapers, books and periodicals are zero-rated. Svalbard has no VAT because of a clause in the Svalbard Treaty.
+In Sweden, VAT is split into three levels: 25% for most goods and services, 12% for foods including restaurants bills and hotel stays and 6% for printed matter, cultural services, and transport of private persons. Some services are not taxable for example education of children and adults if public utility, and health and dental care, but education is taxable at 25% in case of courses for adults at a private school. Dance events (for the guests) have 25%, concerts and stage shows have 6%, and some types of cultural events have 0%.
+MOMS replaced OMS (Danish omsætningsafgift, Swedish omsättningsskatt) in 1967, which was a tax applied exclusively for retailers.
+
+
+=== Philippines ===
+The current VAT rate in the Philippines stands at 12%.  Like in most other countries, the amount of tax is included in the final sales price.
+Senior citizens are however exempted from paying VAT for most goods and some services that are for their personal consumption.  They will need to show a government-issued ID card that establishes their age at the till to avail of the exemption.
+
+
+=== Russia ===
+
+According to the Russian tax code the value-added tax is levied at the rate of 20% for all goods with several exemptions for several types of products and services (like medicare etc.). 
+Taxpayers of value-added tax are recognized:
+Organizations (industrial and financial, state and municipal enterprises, institutions, business partnerships, insurance companies and banks), enterprises with foreign investments, individual entrepreneurs, 
+international associations and foreign legal entities that carry out entrepreneurial activities in the territory of the Russian Federation, non-commercial organizations in the event of their commercial activities, and persons recognized as taxpayers of value-added tax in connection with the movement of goods across the customs border of the Customs Union.
+
+
+=== Singapore ===
+VAT is known as the Goods and Services Tax (GST) in Singapore. It was first introduced in 1994 at 3%, which was among the lowest in the world as the focus was not to generate substantial revenue, but to allow Singaporeans to get adjusted to the tax.On 15 February 2007, Second Minister for Finance Tharman Shanmugaratnam announced that the GST rate would be increased to 7% from 1 July 2007. On 19 February 2018, Finance Minister Heng Swee Keat announced that the GST will be increased to 9% sometime between 2021 and 2025 to help spend more on healthcare, infrastructure and security. 
+On 18 February 2022, Finance Minister Lawrence Wong announced that the GST will rise from 7% to 9% in two stages in 2023 and 2024 to help to cushion the increase.
+
+
+=== Spain ===
+In Spain, the VAT law has categorized goods and services into three types based on function, with according tax percentages. These three types of VAT are general VAT, reduced VAT and super-reduced VAT. However, there are some goods to which this tax is not applied.
+
+
+==== General VAT ====
+This VAT is 21%. This tax is the most common in the country because it is applied to any good or service made or performed in Spain. This percentage is from September 2018. Before that, the percentage was 18% and two years before that it was 16%. As of 2022, no change to the general VAT is being studied by the government. Therefore, it would be 21%.
+
+
+==== Reduced VAT ====
+This VAT is 10% and applies to foods, except staple foods. It is also applied to hostelry services, passenger transport and real estate sales. Specifically, this tax applies to:
+
+Food products for human or animal consumption (except alcoholic beverages, to which general VAT is applied).
+Goods or services related to forestry, livestock or agricultural activities (fertilizers, seeds, herbicides).
+Water (both drinking and irrigation)
+Devices intended to replace physical deficiencies (glasses, contact lenses, prostheses)
+Products, equipment, instruments and sanitary materials intended for the treatment, prevention or diagnosis of diseases (including medicines for use in animals and pharmaceutical products for direct use without medical prescription).
+Sale and reforms or repairs of real estate (homes, garages, annexes).
+Leases with option to purchase real estate.
+Transportation of passengers and their luggage (by land, sea or air).
+Hotel and restaurant activities, and all food and drink supplies.
+Health and dental care activities.
+
+
+==== Super-reduced VAT ====
+In this group is essential goods. For that reason, this VAT is 4%. The different goods to which this percentage is applied are:
+
+Basic food products: bread, flour, milk, eggs, cheese, fruits, vegetables, cereals, tubers and legumes.
+Medications intended for human use, as well as medicinal substances and all the intermediate products used to obtain them.
+Press and books with content that is not exclusively promotional or advertising.
+Motor vehicles intended for the use of people with reduced mobility.
+Prosthetics and internal implants for people with some degree of disability.
+Official protection housing delivered by the property developer.
+Rental operations with purchase option on the Official protection housing.
+Home help services, resistance, residential care and day centers.Nevertheless, there are some products that VAT is not assessed on. These goods and services are:
+
+Insurance, reinsurance and capitalization operations.
+Mediation services for natural persons.
+Financial products (but not financial advisory services).
+Post stamps.
+Leasing operations of Official protection housing destined to be habitual residence (as opposed to renting by companies).
+Professional medical and health care.
+Approved teaching given in official centers (public or private), as well as private training on approved subjects.
+
+
+=== South Africa ===
+Value-added tax (VAT) in South Africa was set at a rate of 14% and remained unchanged since 1993. Finance Minister Malusi Gigaba announced on 21 February 2018 that the VAT rate will be increased by one percentage point to 15%. Some basic food stuffs, as well as paraffin, will remain zero-rated. The new rate is to be effective from 1 April 2018.
+
+
+=== Switzerland and Liechtenstein ===
+
+Switzerland has a customs union with Liechtenstein that also includes the German exclave of Büsingen am Hochrhein. The Switzerland–Liechtenstein VAT area has a general rate of 7.7% and a reduced rate of 2.5%. A special rate of 3.7% is in use in the hotel industry.
+
+
+=== Taiwan ===
+
+Value-added tax (VAT) in Taiwan is currently 5% as of 1 June 2023.
+
+
+=== Trinidad and Tobago ===
+Value-added tax (VAT) in T&T is currently 12.5% as of 1 February 2016. Before that date VAT used to be at 15%.
+
+
+=== Ukraine ===
+In Ukraine, the revenue to state budget from VAT is the most significant. Under the Ukrainian tax code, there are three VAT rates: 20% (general tax rate; applied to most goods and services), 7% (special tax rate; applied mostly to medicines and medical products import and trade operations) and 0% (special tax rate; applied mostly to export of goods and services, international transport of passengers, baggage and cargo).
+
+
+=== United Kingdom ===
+
+The default VAT rate is the standard rate, 20% since 4 January 2011. Some goods and services are subject to VAT at a reduced rate of 5% or 0%. Others are exempt from VAT.
+Due to COVID-19, the United Kingdom temporarily reduced the VAT on tourism and hospitality. These sectors had a reduced 5% VAT rate until 30 September 2021. Between 1 October 2021 and 31 March 2022 the VAT rate then raised to 12.5%. From 1 April 2022, the VAT rate returned to the standard 20%.
+
+
+=== United States ===
+
+In the United States, currently, there is no federal value-added tax (VAT) on goods or services. Instead, a sales and use tax is used in most US states. VATs have been the subject of much scholarship in the US and are one of the most contentious tax policy topics.In 2015, Puerto Rico passed legislation to replace its 6% sales and use tax with a 10.5% VAT beginning 1 April 2016, although the 1% municipal sales and use tax will remain and, notably, materials imported for manufacturing will be exempted. In doing so, Puerto Rico will become the first US jurisdiction to adopt a value-added tax. However, two states have previously enacted a form of VAT as a form of business tax in lieu of a business income tax, rather than a replacement for a sales and use tax.
+The state of Michigan used a form of VAT known as the "Single Business Tax" (SBT) as its form of general business taxation. It is the only state in the United States to have used a VAT. When it was adopted in 1975, it replaced seven business taxes, including a corporate income tax. On 9 August 2006, the Michigan Legislature approved voter-initiated legislation to repeal the Single Business Tax, which was replaced by the Michigan Business Tax on 1 January 2008.The state of Hawaii has a 4% General Excise Tax (GET) that is charged on the gross income of any business entity generating income within the State of Hawaii. The State allows businesses to optionally pass on their tax burden by charging their customers a quasi sales tax rate of 4.166%. The total tax burden on each item sold is more than the 4.166% charged at the register since GET was charged earlier up the sales chain (such as manufacturers and wholesalers), making the GET less transparent than a retail sales tax.
+
+
+==== Discussions about a federal VAT ====
+Soon after President Richard Nixon took office in 1969, it was widely reported that his administration was considering a federal VAT with the revenue to be shared with state and local governments to reduce their reliance on property taxes and to fund education spending. Former 2020 Democratic presidential candidate Andrew Yang advocated for a national VAT in order to pay for universal basic income. A national subtraction-method VAT, often referred to as a "flat tax", has been part of proposals by many politicians as a replacement of the corporate income tax.A border-adjustment tax (BAT) was proposed by the Republican Party in their 2016 policy paper "A Better Way – Our Vision for a Confident America", which promoted a move to a "destination-based cash flow tax": 27  (DBCFT), in part to compensate for the U.S. lacking a VAT. As of March 2017 the Trump Administration was considering including the BAT as part of its tax reform proposal.
+
+
+=== Vietnam ===
+Value-added tax (VAT) in Vietnam is a broadly based consumption tax assessed on the value added to goods and services arising through the process of production, circulation, and consumption. It is an indirect tax in Vietnam on domestic consumption applied nationwide rather than at different levels such as state, provincial or local taxes. It is a multi-stage tax which is collected at every stage of the production and distribution chain and passed on to the final customer. It is applicable to the majority of goods and services bought and sold for use in the country. Goods that are sold for export and services that are sold to customers abroad are normally not subject to VAT.All organizations and individuals producing and trading VAT taxable goods and services in Vietnam have to pay VAT, regardless of whether they have Vietnam-based resident establishments or not.
+Vietnam has three VAT rates: 0 percent, 5 percent and 10 percent. 10 percent is the standard rate applied to most goods and services unless otherwise stipulated.
+A variety of goods and service transactions may qualify for VAT exemption.
+
+
+== Tax rates ==
+
+
+== Examples by continent ==
+
+
+=== European Union countries ===
+
+
+=== Non-European Union countries ===
+
+
+=== VAT-free countries and territories ===
+As of January 2022, the countries and territories listed remained VAT-free.
+
+
+== Criticisms ==
+The "value-added tax" has been criticized as the burden of it falls on personal end-consumers of products. Some critics consider it to be a regressive tax, meaning that the poor pay more, as a percentage of their income, than the rich. Defenders argue that relating taxation levels to income is an arbitrary standard, and that the value-added tax is in fact a proportional tax; an OECD study found that it could be slightly progressive—but still have significant equity implications for the poor—as people with higher income pay more as they consume more. The effective regressiveness of a VAT system can also be affected when different classes of goods are taxed at different rates. Some countries implementing a VAT have reduced income tax on lower income-earners as well as instituted direct transfer payments to lower-income groups, resulting in lowering tax burdens on the poor.Revenues from a value-added tax are frequently lower than expected because they are difficult and costly to administer and collect. In many countries, however, where collection of personal income taxes and corporate profit taxes has been historically weak, VAT collection has been more successful than other types of taxes. VAT has become more important in many jurisdictions as tariff levels have fallen worldwide due to trade liberalization, as VAT has essentially replaced lost tariff revenues. Whether the costs and distortions of value-added taxes are lower than the economic inefficiencies and enforcement issues (e.g. smuggling) from high import tariffs is debated, but theory suggests value-added taxes are far more efficient.Certain industries (small-scale services, for example) tend to have more VAT avoidance, particularly where cash transactions predominate, and VAT may be criticized for encouraging this. From the perspective of government, however, VAT may be preferable because it captures at least some of the value added. For example, a building contractor may offer to provide services for cash (i.e. without a receipt, and without VAT) to a homeowner, who usually cannot claim input VAT back. The homeowner will thus bear lower costs and the building contractor may be able to avoid other taxes (profit or payroll taxes). Another avenue of criticism of implementing a VAT is that the increased tax passed to the consumer will increase the ultimate price paid by the consumer.
+
+
+=== Deadweight loss ===
+The incidence of VAT may not fall entirely on consumers as traders tend to absorb VAT so as to maintain volumes of sales. Conversely, not all cuts in VAT are passed on in lower prices. VAT consequently leads to a deadweight loss if cutting prices pushes a business below the margin of profitability. The effect can be seen when VAT is cut or abolished. When VAT on restaurant meals in Sweden was reduced from 25% to 12.5%, 11,000 additional jobs were created.
+
+
+=== Risk of fraud criticism ===
+VAT offers distinctive opportunities for evasion and fraud, especially through abuse of the credit and refund mechanism. VAT overclaim is a risk for the state due to fraudulent claims for input repayment by registered traders and carousel fraud. There is leads to a VAT gap which can be up to 34% (in the case of Romania).
+
+
+=== Churning ===
+Because VAT is included in the price index to which state benefits such as pensions and welfare payments are linked, as well as public sector pay, some of the apparent revenue is churned i.e. taxpayers have to be given the money to pay the tax with, resulting in zero net revenue.
+
+
+=== Cashflow impacts ===
+Multiple VAT charges over the supply chain give rise to cashflow problems due to refund delays from the tax administration.
+
+
+=== Compliance costs ===
+Compliance costs for VAT are a heavy burden on business. In the UK, compliance costs for VAT have been estimated by Professor Cedric Sandford to be about 4% of the yield, though the figure is higher for smaller businesses.
+
+
+=== Trade criticism ===
+Because exports are generally zero-rated (and VAT refunded or offset against other taxes), this is often where VAT fraud occurs. In Europe, the main source of problems is called carousel fraud.This kind of fraud originated in the 1970s in the Benelux countries. Today, VAT fraud is a major problem in the UK. There are also similar fraud possibilities inside a country. To avoid this, in some countries like Sweden, the major owner of a limited company is personally responsible for taxes.Under a sales tax system, only businesses selling to the end-user are required to collect tax and bear the accounting cost of collecting the tax. Under VAT, manufacturers and wholesale companies also incur accounting expenses to handle the additional paperwork required for collecting VAT, increasing overhead costs and prices.
+Many politicians and economists in the United States consider value-added taxation on US goods and VAT rebates for goods from other countries to be unfair practice. For example, the American Manufacturing Trade Action Coalition claims that any rebates or special taxes on imported goods should not be allowed by the rules of the World Trade Organisation. AMTAC claims that so-called "border tax disadvantage" is the greatest contributing factor to the $5.8 trillion US current account deficit for the decade of the 2000s, and estimated this disadvantage to US producers and service providers to be $518 billion in 2008 alone.  Some US politicians, such as congressman Bill Pascrell, are advocating either changing WTO rules relating to VAT or rebating VAT charged on US exporters by passing the Border Tax Equity Act. A business tax rebate for exports is also proposed in the 2016 GOP policy paper for tax reform. The assertion that this "border adjustment" would be compatible with the rules of the WTO is controversial; it was alleged that the proposed tax would favour domestically produced goods as they would be taxed less than imports, to a degree varying across sectors. For example, the wage component of the cost of domestically produced goods would not be taxed.A 2021 study in the American Economic Journal found that value- added taxes are unlikely to distort trade flows.
+
+
+== See also ==
+Excise
+Flat tax
+Georgism
+Gross receipts tax
+Henry George
+Income tax
+Indirect tax
+Land value tax
+Missing Trader Fraud (Carousel VAT Fraud)
+Progressive tax
+Single tax
+Turnover tax
+X taxGeneral:
+
+List of tax rates around the world
+
+
+== References ==
+
+
+=== Scholarly sources ===
+
+Saudi Arabia Increases Value Added Tax (VAT) will be increase to 15% from 5% as of July 2020.
+
+
+== External links ==
+ The dictionary definition of value added tax at Wiktionary

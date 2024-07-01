@@ -1,0 +1,150 @@
+Political sociology is an interdisciplinary field of study concerned with exploring how governance and society interact and influence one another at the micro to macro levels of analysis. Interested in the social causes and consequences of how power is distributed and changes throughout and amongst societies, political sociology's focus ranges across individual families to the state as sites of social and political conflict and power contestation.
+
+
+== Introduction ==
+Political sociology was conceived as an interdisciplinary sub-field of sociology and politics in the early 1930s throughout the social and political disruptions that took place through the rise of communism, fascism, and World War II. This new area drawing upon works by Alexis de Tocqueville, James Bryce, Robert Michels, Max Weber, Émile Durkheim, and Karl Marx to understand an integral theme of political sociology; power.Power's definition for political sociologists varies across the approaches and conceptual framework utilised within this interdisciplinary study. At its basic understanding, power can be seen as the ability to influence or control other people or processes around you. This helps to create a variety of research focuses and use of methodologies as different scholars' understanding of power differs. Alongside this, their academic disciplinary department/ institution can also flavour their research as they develop from their baseline of inquiry (e.g. political or sociological studies) into this interdisciplinary field (see § Political sociology vs sociology of politics). Although with deviation in how it is carried out, political sociology has an overall focus on understanding why power structures are the way they are in any given societal context.Political sociologists, throughout its broad manifestations, propose that in order to understand power, society and politics must be studied with one another and neither treated as assumed variables. In the words of political scientist Michael Rush, "For any society to be understood, so must its politics; and if the politics of any society is to be understood, so must that society."
+
+
+== Origins ==
+The development of political sociology from the 1930s onwards took place as the separating disciplines of sociology and politics explored their overlapping areas of interest. Sociology can be viewed as the broad analysis of human society and the interrelationship of these societies. Predominantly focused on the relationship of human behaviour with society. Political science or politics as a study largely situates itself within this definition of sociology and is sometimes regarded as a well developed sub-field of sociology, but is seen as a stand alone disciplinary area of research due to the size of scholarly work undertaken within it. Politics offers a complex definition and is important to note that what 'politics' means is subjective to the author and context. From the study of governmental institutions, public policy, to power relations, politics has a rich disciplinary outlook.The importance of studying sociology within politics, and vice versa, has had recognition across figures from Mosca to Pareto as they recognised that politicians and politics do not operate in a societal vacuum, and society does not operate outside of politics. Here, political sociology sets about to study the relationships of society and politics.Numerous works account for highlighting a political sociology, from the work of Comte and Spencer to other figures such as Durkheim. Although feeding into this interdisciplinary area, the body of work by Karl Marx and Max Weber are considered foundational to its inception as a sub-field of research.
+
+
+== Scope ==
+
+
+=== Overview ===
+The scope of political sociology is broad, reflecting on the wide interest in how power and oppression operate over and within social and political areas in society. Although diverse, some major themes of interest for political sociology include:  
+
+Understanding the dynamics of how the state and society exercise and contest power (e.g. power structures, authority, social inequality).
+How political values and behaviours shape society and how society's values and behaviours shape politics (e.g. public opinion, ideologies, social movements).
+How these operate across formal and informal areas of politics and society (e.g. ministerial cabinet vs. family home).
+How socio-political cultures and identities change over time.In other words, political sociology is concerned with how social trends, dynamics, and structures of domination affect formal political processes alongside social forces working together to create change. From this perspective, we can identify three major theoretical frameworks: pluralism, elite or managerial theory, and class analysis, which overlaps with Marxist analysis.Pluralism sees politics primarily as a contest among competing interest groups. Elite or managerial theory is sometimes called a state-centered approach. It explains what the state does by looking at constraints from organizational structure, semi-autonomous state managers, and interests that arise from the state as a unique, power-concentrating organization. A leading representative is Theda Skocpol. Social class theory analysis emphasizes the political power of capitalist elites. It can be split into two parts: one is the "power structure" or "instrumentalist" approach, whereas another is the structuralist approach. The power structure approach focuses on the question of who rules and its most well-known representative is G. William Domhoff. The structuralist approach emphasizes the way a capitalist economy operates; only allowing and encouraging the state to do some things but not others (Nicos Poulantzas, Bob Jessop).
+Where a typical research question in political sociology might have been, "Why do so few American or European citizens choose to vote?" or even, "What difference does it make if women get elected?", political sociologists also now ask, "How is the body a site of power?", "How are emotions relevant to global poverty?", and "What difference does knowledge make to democracy?"
+
+
+=== Political sociology vs. sociology of politics ===
+While both are valid lines of enquiry, sociology of politics is a sociological reductionist account of politics (e.g. exploring political areas through a sociological lens), whereas political sociology is a collaborative socio-political exploration of society and its power contestation. When addressing political sociology, there is noted overlap in using sociology of politics as a synonym. Sartori outlines that sociology of politics refers specifically to a sociological analysis of politics and not an interdisciplinary area of research that political sociology works towards. This difference is made by the variables of interest that both perspectives focus upon. Sociology of politics centres on the non-political causes of oppression and power contestation in political life, whereas political sociology includes the political causes of these actions throughout commentary with non-political ones.
+
+
+== People ==
+
+
+=== Karl Marx ===
+Marx's ideas about the state can be divided into three subject areas: pre-capitalist states, states in the capitalist (i.e. present) era and the state (or absence of one) in post-capitalist society. Overlaying this is the fact that his own ideas about the state changed as he grew older, differing in his early pre-communist phase, the young Marx phase which predates the unsuccessful 1848 uprisings in Europe and in his mature, more nuanced work.
+In Marx's 1843 Critique of Hegel's Philosophy of Right, his basic conception is that the state and civil society are separate. However, he already saw some limitations to that model, arguing: "The political state everywhere needs the guarantee of spheres lying outside it." He added: "He as yet was saying nothing about the abolition of private property, does not express a developed theory of class, and "the solution [he offers] to the problem of the state/civil society separation is a purely political solution, namely universal suffrage".By the time he wrote The German Ideology (1846), Marx viewed the state as a creature of the bourgeois economic interest. Two years later, that idea was expounded in The Communist Manifesto: "The executive of the modern state is nothing but a committee for managing the common affairs of the whole bourgeoisie."This represents the high point of conformance of the state theory to an economic interpretation of history in which the forces of production determine peoples' production relations and their production relations determine all other relations, including the political. Although "determines" is the strong form of the claim, Marx also uses "conditions". Even "determination" is not causality and some reciprocity of action is admitted. The bourgeoisie control the economy, therefore they control the state. In this theory, the state is an instrument of class rule.
+
+
+=== Antonio Gramsci ===
+Antonio Gramsci's theory of hegemony is tied to his conception of the capitalist state. Gramsci does not understand the state in the narrow sense of the government. Instead, he divides it between political society (the police, the army, legal system, etc.) – the arena of political institutions and legal constitutional control – and civil society (the family, the education system, trade unions, etc.) – commonly seen as the private or non-state sphere, which mediates between the state and the economy. However, he stresses that the division is purely conceptual and that the two often overlap in reality. Gramsci claims the capitalist state rules through force plus consent: political society is the realm of force and civil society is the realm of consent. Gramsci proffers that under modern capitalism the bourgeoisie can maintain its economic control by allowing certain demands made by trade unions and mass political parties within civil society to be met by the political sphere. Thus, the bourgeoisie engages in passive revolution by going beyond its immediate economic interests and allowing the forms of its hegemony to change. Gramsci posits that movements such as reformism and fascism, as well as the scientific management and assembly line methods of Frederick Taylor and Henry Ford respectively, are examples of this.
+
+
+=== Ralph Miliband ===
+English Marxist sociologist Ralph Miliband was influenced by American sociologist C. Wright Mills, of whom he had been a friend. He published The State in Capitalist Society in 1969, a study in Marxist political sociology, rejecting the idea that pluralism spread political power, and maintaining that power in Western democracies was concentrated in the hands of a dominant class.
+
+
+=== Nicos Poulantzas ===
+Nicos Poulantzas' theory of the state reacted to what he saw as simplistic understandings within Marxism. For him Instrumentalist Marxist accounts such as that of Miliband held that the state was simply an instrument in the hands of a particular class. Poulantzas disagreed with this because he saw the capitalist class as too focused on its individual short-term profit, rather than on maintaining the class's power as a whole, to simply exercise the whole of state power in its own interest. Poulantzas argued that the state, though relatively autonomous from the capitalist class, nonetheless functions to ensure the smooth operation of capitalist society, and therefore benefits the capitalist class. In particular, he focused on how an inherently divisive system such as capitalism could coexist with the social stability necessary for it to reproduce itself—looking in particular to nationalism as a means to overcome the class divisions within capitalism. Borrowing from Gramsci's notion of cultural hegemony, Poulantzas argued that repressing movements of the oppressed is not the sole function of the state. Rather, state power must also obtain the consent of the oppressed. It does this through class alliances, where the dominant group makes an "alliance" with subordinate groups as a means to obtain the consent of the subordinate group.
+
+
+=== Bob Jessop ===
+Bob Jessop was influenced by Gramsci, Miliband and Poulantzas to propose that the state is not as an entity but as a social relation with differential strategic effects. This means that the state is not something with an essential, fixed property such as a neutral coordinator of different social interests, an autonomous corporate actor with its own bureaucratic goals and interests, or the 'executive committee of the bourgeoisie'  as often described by pluralists, elitists/statists and conventional Marxists respectively. Rather, what the state is essentially determined by is the nature of the wider social relations in which it is situated, especially the balance of social forces.
+
+
+=== Max Weber ===
+In political sociology, one of Weber's most influential contributions is his "Politics as a Vocation" (Politik als Beruf) essay. Therein, Weber unveils the definition of the state as that entity that possesses a monopoly on the legitimate use of physical force. Weber wrote that politics is the sharing of state's power between various groups, and political leaders are those who wield this power. Weber distinguished three ideal types of political leadership (alternatively referred to as three types of domination, legitimisation or authority):
+charismatic authority (familial and religious),
+traditional authority (patriarchs, patrimonialism, feudalism) and
+legal authority (modern law and state, bureaucracy).In his view, every historical relation between rulers and ruled contained such elements and they can be analysed on the basis of this tripartite distinction. He notes that the instability of charismatic authority forces it to "routinise" into a more structured form of authority. In a pure type of traditional rule, sufficient resistance to a ruler can lead to a "traditional revolution". The move towards a rational-legal structure of authority, utilising a bureaucratic structure, is inevitable in the end. Thus this theory can be sometimes viewed as part of the social evolutionism theory. This ties to his broader concept of rationalisation by suggesting the inevitability of a move in this direction, in which "Bureaucratic administration means fundamentally domination through knowledge."Weber described many ideal types of public administration and government in Economy and Society (1922). His critical study of the bureaucratisation of society became one of the most enduring parts of his work. It was Weber who began the studies of bureaucracy and whose works led to the popularisation of this term. Many aspects of modern public administration go back to him and a classic, hierarchically organised civil service of the Continental type is called "Weberian civil service". As the most efficient and rational way of organising, bureaucratisation for Weber was the key part of the rational-legal authority and furthermore, he saw it as the key process in the ongoing rationalisation of the Western society. Weber's ideal bureaucracy is characterised by hierarchical organisation, by delineated lines of authority in a fixed area of activity, by action taken (and recorded) on the basis of written rules, by bureaucratic officials needing expert training, by rules being implemented neutrally and by career advancement depending on technical qualifications judged by organisations, not by individuals.
+
+
+== Approaches ==
+
+
+=== Italian school of elite theory ===
+Vilfredo Pareto (1848–1923), Gaetano Mosca (1858–1941), and Robert Michels (1876–1936), were cofounders of the Italian school of elitism which influenced subsequent elite theory in the Western tradition.The outlook of the Italian school of elitism is based on two ideas: Power lies in position of authority in key economic and political institutions. The psychological difference that sets elites apart is that they have personal resources, for instance intelligence and skills, and a vested interest in the government; while the rest are incompetent and do not have the capabilities of governing themselves, the elite are resourceful and strive to make the government work. For in reality, the elite would have the most to lose in a failed state.
+Pareto emphasized the psychological and intellectual superiority of elites, believing that they were the highest achievers in any field. He discussed the existence of two types of elites: Governing elites and Non-governing elites. He also extended the idea that a whole elite can be replaced by a new one and how one can circulate from being elite to non-elite. Mosca emphasized the sociological and personal characteristics of elites. He said elites are an organized minority and that the masses are an unorganized majority. The ruling class is composed of the ruling elite and the sub-elites. He divides the world into two group: Political class and Non-Political class. Mosca asserts that elites have intellectual, moral, and material superiority that is highly esteemed and influential.
+Sociologist Michels developed the iron law of oligarchy where, he asserts, social and political organizations are run by few individuals, and social organization and labor division are key. He believed that all organizations were elitist and that elites have three basic principles that help in the bureaucratic structure of political organization: 
+
+Need for leaders, specialized staff and facilities
+Utilization of facilities by leaders within their organization
+The importance of the psychological attributes of the leaders
+
+
+=== Pluralism and power relations ===
+Contemporary political sociology takes these questions seriously, but it is concerned with the play of power and politics across societies, which includes, but is not restricted to, relations between the state and society. In part, this is a product of the growing complexity of social relations, the impact of social movement organizing, and the relative weakening of the state as a result of globalization. To a significant part, however, it is due to the radical rethinking of social theory. This is as much focused now on micro questions (such as the formation of identity through social interaction, the politics of knowledge, and the effects of the contestation of meaning on structures), as it is on macro questions (such as how to capture and use state power). Chief influences here include cultural studies (Stuart Hall), post-structuralism (Michel Foucault, Judith Butler), pragmatism (Luc Boltanski), structuration theory (Anthony Giddens), and cultural sociology (Jeffrey C. Alexander).
+Political sociology attempts to explore the dynamics between the two institutional systems introduced by the advent of Western capitalist system that are the democratic constitutional liberal state and the capitalist economy. While democracy promises impartiality and legal equality before all citizens, the capitalist system results in unequal economic power and thus possible political inequality as well.
+For pluralists, the distribution of political power is not determined by economic interests but by multiple social divisions and political agendas. The diverse political interests and beliefs of different factions work together through collective organizations to create a flexible and fair representation that in turn influences political parties which make the decisions. The distribution of power is then achieved through the interplay of contending interest groups. The government in this model functions just as a mediating broker and is free from control by any economic power. This pluralistic democracy however requires the existence of an underlying framework that would offer mechanisms for citizenship and expression and the opportunity to organize representations through social and industrial organizations, such as trade unions. Ultimately, decisions are reached through the complex process of bargaining and compromise between various groups pushing for their interests. Many factors, pluralists believe, have ended the domination of the political sphere by an economic elite. The power of organized labour and the increasingly interventionist state have placed restrictions on the power of capital to manipulate and control the state. Additionally, capital is no longer owned by a dominant class, but by an expanding managerial sector and diversified shareholders, none of whom can exert their will upon another.
+The pluralist emphasis on fair representation however overshadows the constraints imposed on the extent of choice offered. Bachrauch and Baratz (1963) examined the deliberate withdrawal of certain policies from the political arena. For example, organized movements that express what might seem as radical change in a society can often by portrayed as illegitimate.
+
+
+=== Power elite ===
+A main rival to pluralist theory in the United States was the theory of the "power elite" by sociologist C. Wright Mills. According to Mills, the eponymous "power elite" are those that occupy the dominant positions, in the dominant institutions (military, economic and political) of a dominant country, and their decisions (or lack of decisions) have enormous consequences, not only for the U.S. population but, "the underlying populations of the world." The institutions which they head, Mills posits, are a triumvirate of groups that have succeeded weaker predecessors: (1) "two or three hundred giant corporations" which have replaced the traditional agrarian and craft economy, (2) a strong federal political order that has inherited power from "a decentralized set of several dozen states" and "now enters into each and every cranny of the social structure", and (3) the military establishment, formerly an object of "distrust fed by state militia," but now an entity with "all the grim and clumsy efficiency of a sprawling bureaucratic domain."
+Importantly, and in distinction from modern American conspiracy theory, Mills explains that the elite themselves may not be aware of their status as an elite, noting that "often they are uncertain about their roles" and "without conscious effort, they absorb the aspiration to be ... The Onecide." Nonetheless, he sees them as a quasi-hereditary caste. The members of the power elite, according to Mills, often enter into positions of societal prominence through educations obtained at establishment universities. The resulting elites, who control the three dominant institutions (military, economy and political system) can be generally grouped into one of six types, according to Mills: 
+
+the "Metropolitan 400", members of historically notable local families in the principal American cities, generally represented on the Social Register
+"Celebrities", prominent entertainers and media personalities
+the "Chief Executives", presidents and CEOs of the most important companies within each industrial sector
+the "Corporate Rich", major landowners and corporate shareholders
+the "Warlords", senior military officers, most importantly the Joint Chiefs of Staff
+the "Political Directorate", "fifty-odd men of the executive branch" of the U.S. federal government, including the senior leadership in the Executive Office of the President, sometimes variously drawn from elected officials of the Democratic and Republican parties but usually professional government bureaucratsMills formulated a very short summary of his book: "Who, after all, runs America? No one runs it altogether, but in so far as any group does, the power elite."Who Rules America? is a book by research psychologist and sociologist, G. William Domhoff, first published in 1967 as a best-seller (#12), with six subsequent editions. Domhoff argues in the book that a power elite wields power in America through its support of think-tanks, foundations, commissions, and academic departments. Additionally, he argues that the elite control institutions through overt authority, not through covert influence. In his introduction, Domhoff writes that the book was inspired by the work of four men:  sociologists E. Digby Baltzell, C. Wright Mills, economist Paul Sweezy, and political scientist Robert A. Dahl.
+
+
+== Concepts ==
+
+
+=== T. H. Marshall on citizenship ===
+T. H. Marshall's Social Citizenship is a political concept first highlighted in his essay, Citizenship and Social Class in 1949. Marshall's concept defines the social responsibilities the state has to its citizens or, as Marshall puts it, "from [granting] the right to a modicum of economic welfare and security to the right to share to the full in the social heritage and to live the life of a civilized being according to the standards prevailing in the society". One of the key points made by Marshall is his belief in an evolution of rights in England acquired via citizenship, from "civil rights in the eighteenth [century], political in the nineteenth, and social in the twentieth".  This evolution however, has been criticized by many for only being from the perspective of the white working man. Marshall concludes his essay with three major factors for the evolution of social rights and for their further evolution, listed below: 
+
+The lessening of the income gap
+"The great extension of the area of common culture and common experience"
+An enlargement of citizenship and more rights granted to these citizens.Many of the social responsibilities of a state have since become a major part of many state's policies (see United States Social Security). However, these have also become controversial issues as there is a debate over whether a citizen truly has the right to education and even more so, to social welfare.
+
+
+=== Seymour Martin Lipset on the social requisites of democracy ===
+In Political Man: The Social Bases of Politics political sociologist Seymour Martin Lipset provided a very influential analysis of the bases of democracy across the world. Larry Diamond and Gary Marks argue that "Lipset's assertion of a direct relationship between economic development and democracy has been subjected to extensive empirical examination, both quantitative and qualitative, in the past 30 years. And the evidence shows, with striking clarity and consistency, a strong causal relationship between economic development and democracy." The book sold more than 400,000 copies and was translated into 20 languages, including: Vietnamese, Bengali, and Serbo-Croatian. Lipset was one of the first proponents of Modernization theory which states that democracy is the direct result of economic growth, and that "[t]he more well-to-do a nation, the greater the chances that it will sustain democracy." Lipset's modernization theory has continued to be a significant factor in academic discussions and research relating to democratic transitions. It has been referred to as the "Lipset hypothesis", as well as the "Lipset thesis".
+
+
+== Videos ==
+Tawnya Adkins Covert (2017), "What is Political Sociology?" (SAGE, paywall).
+V. Bautista (2020), "Introduction to Political Sociology" (YouTube).
+
+
+== Research organisations ==
+
+
+=== Political sociology ===
+Aalborg University: Political Sociology Research Group
+American Sociological Association: Section on Political Sociology
+European Consortium for Political Research: Political Sociology Standing Group
+University of Amsterdam: Political Sociology  Power, Place and Difference Programme Group
+University of Cambridge: Political Sociology Cluster
+
+
+=== Interdisciplinary ===
+Harvard University: Political and Historical Sociology Research Cluster
+
+
+== See also ==
+Bibliography of sociology
+Political anthropology
+Political philosophy
+Political spectrum
+Power structure
+Political identity
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+Political Sociology Research Group
+Section on Political Sociology
+Political Sociology Standing Group
+Political Sociology – Power, Place and Difference Programme Group
+Political Sociology Cluster
+Political and Historical Sociology Research Cluster
+What is Political Sociology?
+Introduction to Political Sociology

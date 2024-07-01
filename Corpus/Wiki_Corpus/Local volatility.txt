@@ -1,0 +1,3519 @@
+A local volatility model, in mathematical finance and financial engineering, is an option pricing model that treats volatility as a function of both the current asset level 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}}
+   and of time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  .  As such, it is a generalisation of the Black–Scholes model, where the volatility is a constant (i.e. a trivial function of 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}}
+   and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  ). Local volatility models are often compared with stochastic volatility models, where the instantaneous volatility is not just a function of the asset level 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}}
+   but depends also on a new "global" randomness coming from an additional random component.    
+
+
+== Formulation ==
+In mathematical finance, the asset St that underlies a financial derivative is typically assumed to follow a stochastic differential equation of the form 
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        (
+        
+          r
+          
+            t
+          
+        
+        −
+        
+          d
+          
+            t
+          
+        
+        )
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        
+          σ
+          
+            t
+          
+        
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dS_{t}=(r_{t}-d_{t})S_{t}\,dt+\sigma _{t}S_{t}\,dW_{t}}
+  ,under the risk neutral measure, where 
+  
+    
+      
+        
+          r
+          
+            t
+          
+        
+      
+    
+    {\displaystyle r_{t}}
+   is the instantaneous risk free rate, giving an average local direction to the dynamics, and 
+  
+    
+      
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle W_{t}}
+   is a Wiener process, representing the inflow of randomness into the dynamics. The amplitude of this randomness is measured by the instant volatility 
+  
+    
+      
+        
+          σ
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \sigma _{t}}
+  . In the simplest model i.e. the Black–Scholes model, 
+  
+    
+      
+        
+          σ
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \sigma _{t}}
+   is assumed to be constant, or at most a deterministic function of time; in reality, the realised volatility of an underlying actually varies with time and with the underlying itself.
+When such volatility has a randomness of its own—often described by a different equation driven by a different W—the model above is called a stochastic volatility model. And when such volatility is merely a function of the current underlying asset level St and of time t, we have a local volatility model. The local volatility model is a useful simplification of the stochastic volatility model.
+"Local volatility" is thus a term used in quantitative finance to denote the set of diffusion coefficients, 
+  
+    
+      
+        
+          σ
+          
+            t
+          
+        
+        =
+        σ
+        (
+        
+          S
+          
+            t
+          
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle \sigma _{t}=\sigma (S_{t},t)}
+  , that are consistent with market prices for all options on a given underlying, yielding an asset price model of the type
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        (
+        
+          r
+          
+            t
+          
+        
+        −
+        
+          d
+          
+            t
+          
+        
+        )
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        σ
+        (
+        
+          S
+          
+            t
+          
+        
+        ,
+        t
+        )
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle dS_{t}=(r_{t}-d_{t})S_{t}\,dt+\sigma (S_{t},t)S_{t}\,dW_{t}.}
+  This model is used to calculate exotic option valuations which are consistent with observed prices of vanilla options.
+
+
+== Development ==
+The concept of a local volatility fully consistent with option markets was developed when Bruno Dupire  and Emanuel Derman and Iraj Kani 
+noted that there is a unique diffusion process consistent with the risk neutral densities derived from the market prices of European options.
+Derman and Kani described and implemented a local volatility function to model instantaneous volatility. They used this function at each node in a binomial options pricing model. The tree successfully produced option valuations consistent with all market prices across strikes and expirations. The Derman-Kani model was thus formulated with discrete time and stock-price steps. (Derman and Kani produced what is called an "implied binomial tree"; with Neil Chriss they extended this to an implied trinomial tree.  The implied binomial tree fitting process was numerically unstable.)
+The key continuous-time equations used in local volatility models were developed by Bruno Dupire in 1994.  Dupire's equation states
+
+  
+    
+      
+        
+          
+            
+              ∂
+              C
+            
+            
+              ∂
+              T
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          σ
+          
+            2
+          
+        
+        (
+        K
+        ,
+        T
+        ;
+        
+          S
+          
+            0
+          
+        
+        )
+        
+          K
+          
+            2
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              C
+            
+            
+              ∂
+              
+                K
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        (
+        r
+        −
+        d
+        )
+        K
+        
+          
+            
+              ∂
+              C
+            
+            
+              ∂
+              K
+            
+          
+        
+        −
+        d
+        C
+      
+    
+    {\displaystyle {\frac {\partial C}{\partial T}}={\frac {1}{2}}\sigma ^{2}(K,T;S_{0})K^{2}{\frac {\partial ^{2}C}{\partial K^{2}}}-(r-d)K{\frac {\partial C}{\partial K}}-dC}
+  In order to compute the partial derivatives, there exist few known parameterizations of the implied volatility surface based on the Heston model: Schönbucher, SVI and gSVI. Other techniques include mixture of lognormal distribution and stochastic collocation.
+
+
+=== Derivation ===
+Given the price of the asset 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}}
+   governed by the risk neutral SDE
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        (
+        r
+        −
+        d
+        )
+        
+          S
+          
+            t
+          
+        
+        d
+        t
+        +
+        σ
+        (
+        t
+        ,
+        
+          S
+          
+            t
+          
+        
+        )
+        
+          S
+          
+            t
+          
+        
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dS_{t}=(r-d)S_{t}dt+\sigma (t,S_{t})S_{t}dW_{t}}
+  The transition probability 
+  
+    
+      
+        p
+        (
+        t
+        ,
+        
+          S
+          
+            t
+          
+        
+        )
+      
+    
+    {\displaystyle p(t,S_{t})}
+   conditional to 
+  
+    
+      
+        
+          S
+          
+            0
+          
+        
+      
+    
+    {\displaystyle S_{0}}
+   satisfies the forward Kolmogorov equation (also known as Fokker–Planck equation)
+
+  
+    
+      
+        
+          p
+          
+            t
+          
+        
+        =
+        −
+        [
+        (
+        r
+        −
+        d
+        )
+        s
+        
+        p
+        
+          ]
+          
+            s
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        [
+        (
+        σ
+        s
+        
+          )
+          
+            2
+          
+        
+        p
+        
+          ]
+          
+            s
+            s
+          
+        
+      
+    
+    {\displaystyle p_{t}=-[(r-d)s\,p]_{s}+{\frac {1}{2}}[(\sigma s)^{2}p]_{ss}}
+  where, for brevity, the notation 
+  
+    
+      
+        
+          f
+          
+            x
+          
+        
+      
+    
+    {\displaystyle f_{x}}
+   denotes the partial derivative of the function f with respect to x and where the notation 
+  
+    
+      
+        
+          f
+          
+            x
+            x
+          
+        
+      
+    
+    {\displaystyle f_{xx}}
+   denotes the second order partial derivative of the function f with respect to x. 
+  
+    
+      
+        
+          p
+          
+            t
+          
+        
+      
+    
+    {\displaystyle p_{t}}
+   is thus the partial derivative of the density 
+  
+    
+      
+        p
+        (
+        t
+        ,
+        S
+        )
+      
+    
+    {\displaystyle p(t,S)}
+   with respect to t and for example  
+
+  
+    
+      
+        [
+        (
+        σ
+        s
+        
+          )
+          
+            2
+          
+        
+        p
+        
+          ]
+          
+            s
+            s
+          
+        
+      
+    
+    {\displaystyle [(\sigma s)^{2}p]_{ss}}
+   is the second derivative of 
+
+  
+    
+      
+        (
+        σ
+        (
+        t
+        ,
+        S
+        )
+        S
+        
+          )
+          
+            2
+          
+        
+        p
+        (
+        t
+        ,
+        S
+        )
+      
+    
+    {\displaystyle (\sigma (t,S)S)^{2}p(t,S)}
+   with respect to S. p will denote 
+  
+    
+      
+        p
+        (
+        t
+        ,
+        S
+        )
+      
+    
+    {\displaystyle p(t,S)}
+  , and inside the integral 
+  
+    
+      
+        p
+        (
+        t
+        ,
+        s
+        )
+      
+    
+    {\displaystyle p(t,s)}
+  .
+Because of the Martingale pricing theorem, the price of a call option with maturity 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   and strike 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is
+
+  
+    
+      
+        
+          
+            
+              
+                C
+              
+              
+                
+                =
+                
+                  e
+                  
+                    −
+                    r
+                    T
+                  
+                
+                
+                  
+                    E
+                  
+                  
+                    Q
+                  
+                
+                [
+                (
+                
+                  S
+                  
+                    T
+                  
+                
+                −
+                K
+                
+                  )
+                  
+                    +
+                  
+                
+                ]
+              
+            
+            
+              
+              
+                
+                =
+                
+                  e
+                  
+                    −
+                    r
+                    T
+                  
+                
+                
+                  ∫
+                  
+                    K
+                  
+                  
+                    ∞
+                  
+                
+                (
+                s
+                −
+                K
+                )
+                
+                p
+                
+                d
+                s
+              
+            
+            
+              
+              
+                
+                =
+                
+                  e
+                  
+                    −
+                    r
+                    T
+                  
+                
+                
+                  ∫
+                  
+                    K
+                  
+                  
+                    ∞
+                  
+                
+                s
+                
+                p
+                
+                d
+                s
+                −
+                K
+                
+                
+                  e
+                  
+                    −
+                    r
+                    T
+                  
+                
+                
+                  ∫
+                  
+                    K
+                  
+                  
+                    ∞
+                  
+                
+                p
+                
+                d
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}C&=e^{-rT}\mathbb {E} ^{Q}[(S_{T}-K)^{+}]\\&=e^{-rT}\int _{K}^{\infty }(s-K)\,p\,ds\\&=e^{-rT}\int _{K}^{\infty }s\,p\,ds-K\,e^{-rT}\int _{K}^{\infty }p\,ds\end{aligned}}}
+  Differentiating the price of a call option with respect to 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+
+  
+    
+      
+        
+          C
+          
+            K
+          
+        
+        =
+        −
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            K
+          
+          
+            ∞
+          
+        
+        p
+        
+        d
+        s
+      
+    
+    {\displaystyle C_{K}=-e^{-rT}\int _{K}^{\infty }p\;ds}
+  and replacing in the formula for the price of a call option and rearranging terms
+
+  
+    
+      
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            K
+          
+          
+            ∞
+          
+        
+        s
+        
+        p
+        
+        d
+        s
+        =
+        C
+        −
+        K
+        
+        
+          C
+          
+            K
+          
+        
+      
+    
+    {\displaystyle e^{-rT}\int _{K}^{\infty }s\,p\,ds=C-K\,C_{K}}
+  Differentiating the price of a call option with respect to 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   twice
+
+  
+    
+      
+        
+          C
+          
+            K
+            K
+          
+        
+        =
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        p
+      
+    
+    {\displaystyle C_{KK}=e^{-rT}p}
+  Differentiating the price of a call option with respect to 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   yields
+
+  
+    
+      
+        
+          C
+          
+            T
+          
+        
+        =
+        −
+        r
+        
+        C
+        +
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            K
+          
+          
+            ∞
+          
+        
+        (
+        s
+        −
+        K
+        )
+        
+          p
+          
+            T
+          
+        
+        d
+        s
+      
+    
+    {\displaystyle C_{T}=-r\,C+e^{-rT}\int _{K}^{\infty }(s-K)p_{T}ds}
+  using the Forward Kolmogorov equation
+
+  
+    
+      
+        
+          C
+          
+            T
+          
+        
+        =
+        −
+        r
+        
+        C
+        −
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            K
+          
+          
+            ∞
+          
+        
+        (
+        s
+        −
+        K
+        )
+        [
+        (
+        r
+        −
+        d
+        )
+        s
+        
+        p
+        
+          ]
+          
+            s
+          
+        
+        
+        d
+        s
+        +
+        
+          
+            1
+            2
+          
+        
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            K
+          
+          
+            ∞
+          
+        
+        (
+        s
+        −
+        K
+        )
+        [
+        (
+        σ
+        s
+        
+          )
+          
+            2
+          
+        
+        
+        p
+        
+          ]
+          
+            s
+            s
+          
+        
+        
+        d
+        s
+      
+    
+    {\displaystyle C_{T}=-r\,C-e^{-rT}\int _{K}^{\infty }(s-K)[(r-d)s\,p]_{s}\,ds+{\frac {1}{2}}e^{-rT}\int _{K}^{\infty }(s-K)[(\sigma s)^{2}\,p]_{ss}\,ds}
+  integrating by parts the first integral once and the second integral twice
+
+  
+    
+      
+        
+          C
+          
+            T
+          
+        
+        =
+        −
+        r
+        
+        C
+        +
+        (
+        r
+        −
+        d
+        )
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            K
+          
+          
+            ∞
+          
+        
+        s
+        
+        p
+        
+        d
+        s
+        +
+        
+          
+            1
+            2
+          
+        
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        (
+        σ
+        K
+        
+          )
+          
+            2
+          
+        
+        
+        p
+      
+    
+    {\displaystyle C_{T}=-r\,C+(r-d)e^{-rT}\int _{K}^{\infty }s\,p\,ds+{\frac {1}{2}}e^{-rT}(\sigma K)^{2}\,p}
+  using the formulas derived differentiating the price of a call option with respect to 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    T
+                  
+                
+              
+              
+                
+                =
+                −
+                r
+                
+                C
+                +
+                (
+                r
+                −
+                d
+                )
+                (
+                C
+                −
+                K
+                
+                
+                  C
+                  
+                    K
+                  
+                
+                )
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  σ
+                  
+                    2
+                  
+                
+                
+                  K
+                  
+                    2
+                  
+                
+                
+                  C
+                  
+                    K
+                    K
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                −
+                (
+                r
+                −
+                d
+                )
+                K
+                
+                
+                  C
+                  
+                    K
+                  
+                
+                −
+                d
+                
+                C
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  σ
+                  
+                    2
+                  
+                
+                
+                  K
+                  
+                    2
+                  
+                
+                
+                  C
+                  
+                    K
+                    K
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}C_{T}&=-r\,C+(r-d)(C-K\,C_{K})+{\frac {1}{2}}\sigma ^{2}K^{2}C_{KK}\\&=-(r-d)K\,C_{K}-d\,C+{\frac {1}{2}}\sigma ^{2}K^{2}C_{KK}\end{aligned}}}
+  
+
+
+== Parametric local volatility models ==
+Dupire's approach is non-parametric. It requires to pre-interpolate the data to obtain a continuum of traded prices and the choice of a type of interpolation. As an alternative, one can formulate parametric local volatility models. A few examples are presented below.
+
+
+=== Bachelier model ===
+The Bachelier model has been inspired by Louis Bachelier's work in 1900. This model, at least for assets with zero drift, e.g. forward prices or forward interest rates under their forward measure, can be seen as a local volatility model 
+
+  
+    
+      
+        d
+        
+          F
+          
+            t
+          
+        
+        =
+        v
+        
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dF_{t}=v\,dW_{t}}
+  .In the Bachelier model the diffusion coefficient is a constant 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , so we have 
+  
+    
+      
+        σ
+        (
+        
+          F
+          
+            t
+          
+        
+        ,
+        t
+        )
+        
+          F
+          
+            t
+          
+        
+        =
+        v
+      
+    
+    {\displaystyle \sigma (F_{t},t)F_{t}=v}
+  , implying 
+  
+    
+      
+        σ
+        (
+        
+          F
+          
+            t
+          
+        
+        ,
+        t
+        )
+        =
+        v
+        
+          /
+        
+        
+          F
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \sigma (F_{t},t)=v/F_{t}}
+  . As interest rates turned negative in many economies, the Bachelier model became of interest, as it can model negative forward rates F through its Gaussian distribution.
+
+
+=== Displaced diffusion model ===
+This model was introduced by Mark Rubinstein.
+For a stock price, it follows the dynamics
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        r
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        σ
+        (
+        
+          S
+          
+            t
+          
+        
+        −
+        β
+        
+          e
+          
+            r
+            t
+          
+        
+        )
+        
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dS_{t}=rS_{t}\,dt+\sigma (S_{t}-\beta e^{rt})\,dW_{t}}
+  where for simplicity we assume zero dividend yield.  
+The model can be obtained with a change of variable from a standard Black-Scholes model as follows. By setting 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+        =
+        
+          S
+          
+            t
+          
+        
+        −
+        β
+        
+          e
+          
+            r
+            t
+          
+        
+      
+    
+    {\displaystyle Y_{t}=S_{t}-\beta e^{rt}}
+   it is immediate to see that Y follows a standard Black-Scholes model  
+
+  
+    
+      
+        d
+        
+          Y
+          
+            t
+          
+        
+        =
+        r
+        
+          Y
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        σ
+        
+          Y
+          
+            t
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle dY_{t}=rY_{t}\,dt+\sigma Y_{t}\,dW_{t}.}
+  As the SDE for 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   is a geometric Brownian motion, it has a lognormal distribution, and given that 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+        =
+        
+          Y
+          
+            t
+          
+        
+        +
+        β
+        
+          e
+          
+            r
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}=Y_{t}+\beta e^{rt}}
+   the S model is also called a shifted lognormal model, the shift at time t being 
+  
+    
+      
+        β
+        
+          e
+          
+            r
+            t
+          
+        
+      
+    
+    {\displaystyle \beta e^{rt}}
+  . 
+To price a call option with strike K on S one simply writes the payoff
+
+  
+    
+      
+        (
+        
+          S
+          
+            T
+          
+        
+        −
+        K
+        
+          )
+          
+            +
+          
+        
+        =
+        (
+        
+          Y
+          
+            T
+          
+        
+        +
+        β
+        
+          e
+          
+            r
+            T
+          
+        
+        −
+        K
+        
+          )
+          
+            +
+          
+        
+        =
+        (
+        
+          Y
+          
+            T
+          
+        
+        −
+        H
+        
+          )
+          
+            +
+          
+        
+      
+    
+    {\displaystyle (S_{T}-K)^{+}=(Y_{T}+\beta e^{rT}-K)^{+}=(Y_{T}-H)^{+}}
+  
+where H is the new strike 
+  
+    
+      
+        H
+        =
+        K
+        −
+        β
+        
+          e
+          
+            r
+            T
+          
+        
+      
+    
+    {\displaystyle H=K-\beta e^{rT}}
+  . As Y follows a Black Scholes model, the price of the option becomes a Black Scholes price with modified strike and is easy to obtain. The model produces a monotonic volatility smile curve, whose pattern is decreasing for negative 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  . Furthermore, for negative 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  , from 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+        =
+        
+          Y
+          
+            t
+          
+        
+        +
+        β
+        
+          e
+          
+            r
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}=Y_{t}+\beta e^{rt}}
+   it follows that the asset S is allowed to take negative values with positive probability. This is useful for example in interest rate modelling, where negative rates have been affecting several economies.
+
+
+=== CEV model ===
+The constant elasticity of variance model (CEV) is a local volatility model where the stock dynamics is, under the risk neutral measure and assuming no dividends,
+
+  
+    
+      
+        
+          d
+        
+        
+          S
+          
+            t
+          
+        
+        =
+        r
+        
+          S
+          
+            t
+          
+        
+        
+          d
+        
+        t
+        +
+        σ
+        
+          S
+          
+            t
+          
+          
+            γ
+          
+        
+        
+          d
+        
+        
+          W
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathrm {d} S_{t}=rS_{t}\mathrm {d} t+\sigma S_{t}^{\gamma }\mathrm {d} W_{t},}
+  for a constant interest rate r, a positive constant 
+  
+    
+      
+        σ
+        >
+        0
+      
+    
+    {\displaystyle \sigma >0}
+   and an exponent 
+  
+    
+      
+        γ
+        ≥
+        0
+        ,
+      
+    
+    {\displaystyle \gamma \geq 0,}
+   so that in this case 
+
+  
+    
+      
+        σ
+        (
+        
+          S
+          
+            t
+          
+        
+        ,
+        t
+        )
+        =
+        σ
+        
+          S
+          
+            t
+          
+          
+            γ
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \sigma (S_{t},t)=\sigma S_{t}^{\gamma -1}.}
+  The model is at times classified as a stochastic volatility model, although according to the definition given here, it is a local volatility model, as there is no new randomness in the diffusion coefficient. This model and related references are shown in detail in the related page.
+
+
+=== The lognormal mixture dynamics model ===
+This model has been developed from 1998 to 2021 in several versions by Damiano Brigo, Fabio Mercurio and co-authors. Carol Alexander studied the short and long term smile effects.
+The starting point is the basic Black Scholes formula, coming from the risk neutral dynamics 
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        r
+        
+          S
+          
+            t
+          
+        
+        d
+        t
+        +
+        σ
+        
+          S
+          
+            t
+          
+        
+        d
+        
+          W
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle dS_{t}=rS_{t}dt+\sigma S_{t}dW_{t},}
+   with constant deterministic volatility 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   and with lognormal probability density function denoted by 
+  
+    
+      
+        
+          p
+          
+            t
+            ,
+            σ
+          
+          
+            l
+            o
+            g
+            n
+            o
+            r
+            m
+            a
+            l
+          
+        
+      
+    
+    {\displaystyle p_{t,\sigma }^{lognormal}}
+  . In the Black Scholes model the price of a European non-path-dependent option is obtained by integration of the option payoff against this lognormal density at maturity. 
+The basic idea of the lognormal mixture dynamics model is to consider lognormal densities, as in the Black Scholes model, but for a number 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   of possible constant deterministic volatilities 
+  
+    
+      
+        
+          σ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          σ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \sigma _{1},\ldots ,\sigma _{N}}
+  , where we call 
+  
+    
+      
+        
+          p
+          
+            i
+            ,
+            t
+          
+        
+        =
+        
+          p
+          
+            t
+            ,
+            
+              σ
+              
+                i
+              
+            
+          
+          
+            l
+            o
+            g
+            n
+            o
+            r
+            m
+            a
+            l
+          
+        
+      
+    
+    {\displaystyle p_{i,t}=p_{t,\sigma _{i}}^{lognormal}}
+  , the lognormal density of a Black Scholes model with volatility 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}}
+  . 
+When modelling a stock price, Brigo and Mercurio build a local volatility model 
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        r
+        
+          S
+          
+            t
+          
+        
+        d
+        t
+        +
+        
+          σ
+          
+            m
+            i
+            x
+          
+        
+        (
+        t
+        ,
+        
+          S
+          
+            t
+          
+        
+        )
+        
+          S
+          
+            t
+          
+        
+         
+        d
+        
+          W
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle dS_{t}=rS_{t}dt+\sigma _{mix}(t,S_{t})S_{t}\ dW_{t},}
+  where 
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+        
+        (
+        t
+        ,
+        
+          S
+          
+            t
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma _{mix}(t,S_{t})}
+   is defined in a way that makes the risk neutral distribution of 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}}
+   the required mixture of the lognormal densities 
+  
+    
+      
+        
+          p
+          
+            i
+            ,
+            t
+          
+        
+      
+    
+    {\displaystyle p_{i,t}}
+  , so that the density of the resulting stock price is 
+
+  
+    
+      
+        
+          p
+          
+            
+              S
+              
+                t
+              
+            
+          
+        
+        (
+        y
+        )
+        =:
+        
+          p
+          
+            t
+          
+        
+        (
+        y
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          p
+          
+            i
+            ,
+            t
+          
+        
+        (
+        y
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          p
+          
+            t
+            ,
+            
+              σ
+              
+                i
+              
+            
+          
+          
+            l
+            o
+            g
+            n
+            o
+            r
+            m
+            a
+            l
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle p_{S_{t}}(y)=:p_{t}(y)=\sum _{i=1}^{N}\lambda _{i}p_{i,t}(y)=\sum _{i=1}^{N}\lambda _{i}p_{t,\sigma _{i}}^{lognormal}(y)}
+  
+where 
+  
+    
+      
+        
+          λ
+          
+            i
+          
+        
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle \lambda _{i}\in (0,1)}
+   and 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \sum _{i=1}^{N}\lambda _{i}=1}
+  . The 
+  
+    
+      
+        
+          λ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \lambda _{i}}
+  's are the weights of the different densities 
+  
+    
+      
+        
+          p
+          
+            i
+            ,
+            t
+          
+        
+      
+    
+    {\displaystyle p_{i,t}}
+   included in the mixture.
+The instantaneous volatility is defined as   
+
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+        
+        (
+        t
+        ,
+        y
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            
+              
+                ∑
+                
+                  j
+                
+              
+              
+                λ
+                
+                  j
+                
+              
+              
+                p
+                
+                  j
+                  ,
+                  t
+                
+              
+              (
+              y
+              )
+            
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          σ
+          
+            i
+          
+          
+            2
+          
+        
+        
+          p
+          
+            i
+            ,
+            t
+          
+        
+        (
+        y
+        )
+        ,
+      
+    
+    {\displaystyle \sigma _{mix}(t,y)^{2}={\frac {1}{\sum _{j}\lambda _{j}p_{j,t}(y)}}\sum _{i}\lambda _{i}\sigma _{i}^{2}p_{i,t}(y),}
+   or more in detail
+
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+        
+        (
+        t
+        ,
+        y
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  N
+                
+              
+              
+                λ
+                
+                  i
+                
+              
+              
+                σ
+                
+                  i
+                
+                
+                  2
+                
+              
+               
+              
+                
+                  1
+                  
+                    
+                      σ
+                      
+                        i
+                      
+                    
+                    
+                      
+                        t
+                      
+                    
+                  
+                
+              
+              exp
+              ⁡
+              
+                {
+                
+                  −
+                  
+                    
+                      1
+                      
+                        2
+                        
+                          σ
+                          
+                            i
+                          
+                          
+                            2
+                          
+                        
+                        t
+                      
+                    
+                  
+                  
+                    
+                      [
+                      
+                        ln
+                        ⁡
+                        
+                          
+                            y
+                            
+                              S
+                              
+                                0
+                              
+                            
+                          
+                        
+                        −
+                        r
+                        t
+                        +
+                        
+                          
+                            
+                              1
+                              2
+                            
+                          
+                        
+                        
+                          σ
+                          
+                            i
+                          
+                          
+                            2
+                          
+                        
+                        t
+                      
+                      ]
+                    
+                    
+                      2
+                    
+                  
+                
+                }
+              
+            
+            
+              
+                ∑
+                
+                  j
+                  =
+                  1
+                
+                
+                  N
+                
+              
+              
+                λ
+                
+                  j
+                
+              
+              
+                
+                  1
+                  
+                    
+                      σ
+                      
+                        j
+                      
+                    
+                    
+                      
+                        t
+                      
+                    
+                  
+                
+              
+              exp
+              ⁡
+              
+                {
+                
+                  −
+                  
+                    
+                      1
+                      
+                        2
+                        
+                          σ
+                          
+                            j
+                          
+                          
+                            2
+                          
+                        
+                        t
+                      
+                    
+                  
+                  
+                    
+                      [
+                      
+                        ln
+                        ⁡
+                        
+                          
+                            y
+                            
+                              S
+                              
+                                0
+                              
+                            
+                          
+                        
+                        −
+                        r
+                        t
+                        +
+                        
+                          
+                            
+                              1
+                              2
+                            
+                          
+                        
+                        
+                          σ
+                          
+                            j
+                          
+                          
+                            2
+                          
+                        
+                        t
+                      
+                      ]
+                    
+                    
+                      2
+                    
+                  
+                
+                }
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sigma _{mix}(t,y)^{2}={\frac {\sum _{i=1}^{N}\lambda _{i}\sigma _{i}^{2}\ {\frac {1}{\sigma _{i}{\sqrt {t}}}}\exp \left\{-{\frac {1}{2\sigma _{i}^{2}t}}\left[\ln {\frac {y}{S_{0}}}-rt+{\tfrac {1}{2}}\sigma _{i}^{2}t\right]^{2}\right\}}{\sum _{j=1}^{N}\lambda _{j}{\frac {1}{\sigma _{j}{\sqrt {t}}}}\exp \left\{-{\frac {1}{2\sigma _{j}^{2}t}}\left[\ln {\frac {y}{S_{0}}}-rt+{\tfrac {1}{2}}\sigma _{j}^{2}t\right]^{2}\right\}}}}
+  for 
+  
+    
+      
+        (
+        t
+        ,
+        y
+        )
+        >
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (t,y)>(0,0)}
+  ;  
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+        
+        (
+        t
+        ,
+        y
+        )
+        =
+        
+          σ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \sigma _{mix}(t,y)=\sigma _{0}}
+   for
+
+  
+    
+      
+        (
+        t
+        ,
+        y
+        )
+        =
+        (
+        0
+        ,
+        
+          s
+          
+            0
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (t,y)=(0,s_{0}).}
+   The original model has a regularization of the diffusion coefficient in a small initial time interval 
+  
+    
+      
+        [
+        0
+        ,
+        ϵ
+        ]
+      
+    
+    {\displaystyle [0,\epsilon ]}
+  .  With this adjustment, the SDE with 
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{mix}}
+   has a unique strong solution whose
+marginal density is the desired mixture 
+  
+    
+      
+        
+          p
+          
+            
+              S
+              
+                t
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          p
+          
+            i
+            ,
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle p_{S_{t}}=\sum _{i}\lambda _{i}p_{i,t}.}
+  
+One can further write 
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+          
+            2
+          
+        
+        (
+        t
+        ,
+        y
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          Λ
+          
+            i
+          
+        
+        (
+        t
+        ,
+        y
+        )
+        
+          σ
+          
+            i
+          
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \sigma _{mix}^{2}(t,y)=\sum _{i=1}^{N}\Lambda _{i}(t,y)\sigma _{i}^{2},}
+  
+where 
+  
+    
+      
+        
+          Λ
+          
+            i
+          
+        
+        (
+        t
+        ,
+        y
+        )
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle \Lambda _{i}(t,y)\in (0,1)}
+   and 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          Λ
+          
+            i
+          
+        
+        (
+        t
+        ,
+        y
+        )
+        =
+        1
+      
+    
+    {\displaystyle \sum _{i=1}^{N}\Lambda _{i}(t,y)=1}
+  .
+This shows that  
+  
+    
+      
+        
+          σ
+          
+            m
+            i
+            x
+          
+          
+            2
+          
+        
+        (
+        t
+        ,
+        y
+        )
+      
+    
+    {\displaystyle \sigma _{mix}^{2}(t,y)}
+   is a ``weighted average" of the 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}^{2}}
+  's with weights 
+
+  
+    
+      
+        
+          Λ
+          
+            i
+          
+        
+        (
+        t
+        ,
+        y
+        )
+        =
+        
+          
+            
+              
+                λ
+                
+                  i
+                
+              
+               
+              
+                p
+                
+                  i
+                  ,
+                  t
+                
+              
+              (
+              y
+              )
+            
+            
+              
+                ∑
+                
+                  j
+                
+              
+              
+                λ
+                
+                  j
+                
+              
+               
+              
+                p
+                
+                  j
+                  ,
+                  t
+                
+              
+              (
+              y
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Lambda _{i}(t,y)={\frac {\lambda _{i}\ p_{i,t}(y)}{\sum _{j}\lambda _{j}\ p_{j,t}(y)}}.}
+  An option price in this model is very simple to calculate. If 
+  
+    
+      
+        
+          
+            E
+          
+          
+            Q
+          
+        
+      
+    
+    {\displaystyle \mathbb {E} ^{Q}}
+   denotes the risk neutral expectation, by the martingale pricing theorem a call option price on S with strike K and maturity T is given by
+
+  
+    
+      
+        
+          V
+          
+            m
+            i
+            x
+          
+          
+            C
+            a
+            l
+            l
+          
+        
+        (
+        K
+        ,
+        T
+        )
+        =
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          
+            E
+          
+          
+            Q
+          
+        
+        
+          {
+          
+            (
+            
+              S
+              
+                T
+              
+            
+            −
+            K
+            
+              )
+              
+                +
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle V_{mix}^{Call}(K,T)=e^{-rT}\mathbb {E} ^{Q}\left\{(S_{T}-K)^{+}\right\}}
+   
+
+  
+    
+      
+        =
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            +
+            ∞
+          
+        
+        (
+        y
+        −
+        K
+        
+          )
+          
+            +
+          
+        
+        
+          p
+          
+            
+              S
+              
+                T
+              
+            
+          
+        
+        (
+        y
+        )
+        d
+        y
+        =
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            +
+            ∞
+          
+        
+        (
+        y
+        −
+        K
+        
+          )
+          
+            +
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          p
+          
+            i
+            ,
+            T
+          
+        
+        (
+        y
+        )
+        d
+        y
+      
+    
+    {\displaystyle =e^{-rT}\int _{0}^{+\infty }(y-K)^{+}p_{S_{T}}(y)dy=e^{-rT}\int _{0}^{+\infty }(y-K)^{+}\sum _{i=1}^{N}\lambda _{i}p_{i,T}(y)dy}
+  
+
+  
+    
+      
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          λ
+          
+            i
+          
+        
+        
+          e
+          
+            −
+            r
+            T
+          
+        
+        ∫
+        (
+        y
+        −
+        K
+        
+          )
+          
+            +
+          
+        
+        
+          p
+          
+            i
+            ,
+            T
+          
+        
+        (
+        y
+        )
+        d
+        y
+        =
+        
+          ∑
+          
+            
+              
+                i
+                =
+                1
+              
+              
+                N
+              
+            
+          
+        
+        
+          
+            λ
+            
+              i
+            
+          
+        
+        
+          V
+          
+            B
+            S
+          
+          
+            C
+            a
+            l
+            l
+          
+        
+        (
+        K
+        ,
+        T
+        ,
+        
+          
+            σ
+            
+              i
+            
+          
+        
+        )
+      
+    
+    {\displaystyle =\sum _{i=1}^{N}\lambda _{i}e^{-rT}\int (y-K)^{+}p_{i,T}(y)dy=\sum _{{i=1}^{N}}{\lambda _{i}}V_{BS}^{Call}(K,T,{\sigma _{i}})}
+  
+where 
+  
+    
+      
+        
+          V
+          
+            B
+            S
+          
+          
+            C
+            a
+            l
+            l
+          
+        
+        (
+        K
+        ,
+        T
+        ,
+        
+          
+            σ
+            
+              i
+            
+          
+        
+        )
+      
+    
+    {\displaystyle V_{BS}^{Call}(K,T,{\sigma _{i}})}
+   is the corresponding call price in a Black Scholes model with volatility 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}}
+  . 
+The price of the option is given by a closed form formula and it is a linear convex combination of Black Scholes prices of call options with volatilities 
+  
+    
+      
+        
+          σ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          σ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \sigma _{1},\ldots ,\sigma _{N}}
+    weighted by 
+  
+    
+      
+        
+          λ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          λ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \lambda _{1},\ldots ,\lambda _{N}}
+  . The same holds for put options and all other simple contingent claims. The same convex combination applies also to several option 
+greeks like Delta, Gamma, Rho and Theta. 
+The mixture dynamics is a flexible model, as one can select the number of components 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   according to the complexity of the smile.  Optimizing the parameters 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}}
+   and 
+  
+    
+      
+        
+          λ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \lambda _{i}}
+  , and a possible shift parameter,  allows one to reproduce most market smiles. The model has been used successfully in the equity,  FX, and interest-rate markets.In the mixture dynamics model, one can show that the resulting volatility smile curve will have a minimum for K equal to the at-the-money-forward price 
+  
+    
+      
+        
+          S
+          
+            0
+          
+        
+        
+          e
+          
+            r
+            T
+          
+        
+      
+    
+    {\displaystyle S_{0}e^{rT}}
+  . This can be avoided, and the smile allowed to be more general, by combining the mixture dynamics and displaced diffusion ideas, leading to the shifted lognormal mixture dynamics.The model has also been applied with volatilities 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}}
+  's in the mixture components that are time dependent, so as to calibrate the smile term structure. An extension of the model where the different mixture densities have different means has been studied, while preserving the final no arbitrage drift in the dynamics. A further extension has been the application to the multivariate case, where a multivariate model has been formulated that is consistent with a mixture of multivariate lognormal densities, possibly with shifts, and where the single assets are also distributed as mixtures,  reconciling  modelling of single assets smile with the smile on an index of these assets. A second application of the multivariate version has been triangulation of FX volatility smiles.
+Finally, the model is linked to an uncertain volatility model where, roughly speaking, the volatility is a random variable taking the values 
+  
+    
+      
+        
+          σ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          σ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \sigma _{1},\ldots ,\sigma _{N}}
+    with probabilities  
+  
+    
+      
+        
+          λ
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          λ
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \lambda _{1},\ldots ,\lambda _{N}}
+  .   
+Technically, it can be shown that the local volatility lognormal mixture dynamics is the Markovian projection of the uncertain volatility model.
+
+
+== Use ==
+Local volatility models are useful in any options market in which the underlying's volatility is predominantly a function of the level of the underlying, interest-rate derivatives for example. Time-invariant local volatilities are supposedly inconsistent with the dynamics of the equity index implied volatility surface, but see Crepey (2004), who claims that such models provide the best average hedge for equity index options, and note that models like the mixture dynamics allow for time dependent local volatilities, calibrating also the term structure of the smile. Local volatility models are also useful in the formulation of stochastic volatility models.Local volatility models have a number of attractive features.  Because the only source of randomness is the stock price, local volatility models are easy to calibrate. Numerous calibration methods are developed to deal with the McKean-Vlasov processes including the most used particle and bin approach. Also, they lead to complete markets where hedging can be based only on the underlying asset. As hinted above, the general non-parametric approach by Dupire is problematic, as one needs to arbitrarily pre-interpolate the input implied volatility surface before applying the method. Alternative parametric approaches with a rich and sound parametrization, as the above  tractable mixture dynamical local volatility models, can be an alternative. 
+Since in local volatility models the volatility is a deterministic function of the random stock price, local volatility models are not very well used to price cliquet options or forward start options, whose values depend specifically on the random nature of volatility itself. In such cases, stochastic volatility models are preferred. 
+
+
+== References ==

@@ -1,0 +1,12 @@
+In economics, the inside lag (or inside recognition and decision lag) is the amount of time it takes for a government or a central bank to respond to a shock in the economy.  It is the delay in implementation of a fiscal policy or monetary policy.  Its converse is the outside lag (the amount of time before an action by a government or a central bank affects an economy).  The inside lag comprises the recognition lag (the time taken to recognize the shock) and the decision lag (the time taken to decide on and pursue a response).The inside lag is generally a more severe problem for fiscal policy (government spending and taxation policy) than for monetary policy. Monetary policy is conducted by a central bank that is devoted substantially to monitoring and responding to economic shocks, whereas fiscal policy is conducted by a law-making body that has many other issues to confront as well as a highly deliberative process with which to confront them. Nevertheless, a central bank may often experience a substantial recognition lag prior to its becoming clear just what the latest economic figures imply for policy needs. Indeed, even after a central bank implements a policy response, its critics may still argue that it recognized the situation incorrectly.
+
+
+== References ==
+
+
+== Further reading ==
+Patric H. Hendershott (October 1966). "The Inside Lag in Monetary Policy: A Comment". The Journal of Political Economy. 74 (5): 519–523. doi:10.1086/259205. JSTOR 1829599. S2CID 154842643.
+William R. Bryan (September 1967). "Bank Adjustments to Monetary Policy: Alternative Estimates of the Lag". The American Economic Review. 57 (4): 855–864. JSTOR 1815374.
+W. Schneider (1968). "The inside lag in the monetary policy of the United States, 1952–1965". New York University. {{cite journal}}: Cite journal requires |journal= (help)
+Mark H. Willes (December 1967). "The Inside Lags of Monetary Policy: 1952–1960". The Journal of Finance. American Finance Association. 22 (4): 591–593. doi:10.2307/2326003. JSTOR 2326003.
+James E. Alt; John T. Woolley (November 1982). "Reaction Functions, Optimization, and Politics: Modelling the Political Economy of Macroeconomic Policy". American Journal of Political Science. Midwest Political Science Association. 26 (4): 709–740. doi:10.2307/2110969. JSTOR 2110969.

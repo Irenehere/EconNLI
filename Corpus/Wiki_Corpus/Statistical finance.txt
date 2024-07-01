@@ -1,0 +1,60 @@
+Statistical finance, is the application of econophysics to financial markets. Instead of the normative roots of finance, it uses a positivist framework. It includes exemplars from statistical physics with an emphasis on emergent or collective properties of financial markets. Empirically observed stylized facts are the starting point for this approach to understanding financial markets.
+
+
+== Stylized facts ==
+Stock markets are characterised by bursts of price volatility.
+Price changes are less volatile in bull markets and more volatile in bear markets.
+Price change correlations are stronger with higher volatility, and their auto-correlations die out quickly.
+Almost all real data have more extreme events than suspected.
+Volatility correlations decay slowly.
+Trading volumes have memory the same way that volatilities do.
+Past price changes are negatively correlated with future volatilities.
+
+
+== Research objectives ==
+Statistical finance is focused on three areas:
+
+Empirical studies focused on the discovery of interesting statistical features of financial time-series data aimed at extending and consolidating the known stylized facts.
+The use of these discoveries to build and implement models that better price derivatives and anticipate stock price movement with an emphasis on non-Gaussian methods and models.
+The study of collective and emergent behaviour in simulated and real markets to uncover the mechanisms responsible for the observed stylized facts with an emphasis on agent-based models.Financial econometrics also has a focus on the first two of these three areas. However, there is almost no overlap or interaction between the community of statistical finance researchers (who typically publish in physics journals) and the community of financial econometrics researchers (who typically publish in economics journals).
+
+
+== Behavioral finance and statistical finance ==
+Behavioural finance attempts to explain price anomalies in terms of the biased behaviour of individuals, mostly concerned with the agents themselves and to a lesser degree aggregation of agent behaviour. Statistical finance is concerned with emergent properties arising from systems with many interacting agents and as such attempts to explain price anomalies in terms of the collective behaviour. Emergent properties are largely independent of the uniqueness of individual agents because they are dependent on the nature of the interactions of the agents rather than the agents themselves. This approach has drawn strongly on ideas arising from complex systems, phase transitions,  criticality, self-organized criticality, non-extensivity (see Tsallis entropy), q-Gaussian models,  and agents based models (see agent based model); as these are known to be able to recover some of phenomenology of financial market data, the stylized facts, in particular the long-range memory and scaling due to long-range interactions.
+
+
+== Criticism ==
+Within the subject the description of financial markets blindly in terms of models of statistical physics has been argued as flawed because it has transpired these do not fully correspond to what we now know about real finance markets. First, traders create largely noise, not long range correlations among themselves, except when they all buy or all sell, such as during a popular IPO or during a crash.  A market is not at an equilibrium critical point, the resulting non-equilibrium market must reflect details of traders' interactions (universality applies only to a limited very class of bifurcations, and the market does not sit at a bifurcation). Even if the notion of a thermodynamics equilibrium is considered not at the level of the agents but in terms of collections of instruments stable configurations are not observed. The market does not 'self-organize' into a stable statistical equilibrium, rather, markets are unstable. Although markets could be 'self-organizing' in the sense used by finite-time singularity models these models are difficult to falsify. Although Complex systems have never been defined in a broad sense financial markets do satisfy reasonable criterion of being considered complex adaptive systems. The Tallis doctrine has been put into question as it is apparently a special case of markov dynamics so questioning the very notion of a "non-linear Fokker-Plank equation". In addition, the standard 'stylized facts' of financial markets, fat tails, scaling, and universality are not observed in real FX markets even if they are observed in equity markets.
+From outside the subject the approach has been considered by many as a dangerous view of finance which has drawn criticism from some heterodox economists because of:
+"A lack of awareness of work which has been done within economics itself."
+"Resistance to more rigorous and robust statistical methodology."
+"The belief that universal empirical regularities can be found in many areas of economic activity."
+"The theoretical models which are being used to explain empirical phenomena."In response to these criticism there are claims of a general maturing of these non-traditional empirical approaches to Finance. This defense of the subject does not flatter the use of physics metaphors but does defend the alternative empirical approach of "econophysics" itself.
+Some of the key data claims have been questioned in terms of methods of data analysis.Some of the ideas arising from nonlinear sciences and statistical physics have been helpful in shifting our understanding financial markets, and may yet be found useful, but the particular requirements of stochastic analysis to the specific models useful in finance is apparently unique to finance as a subject. There is much lacking in this approach to finance yet it would appear that the canonical approach to finance based optimization of individual behaviour given information and preferences with assumptions to allow aggregation in equilibrium are even more problematic.
+It has been suggested that what is required is a change in mindset within finance and economics that moves the field towards methods of natural science. Perhaps finance needs to be thought of more as an observational science where markets are observed in the same way as the observable universe in cosmology, or the observable ecosystems in the environmental sciences. Here local principles can be uncovered by local experiments but meaningful global experiments are difficult to envision as feasible without reproducing the system being observed. The required science becomes that based largely on pluralism (see scientific pluralism the view that some phenomena observed in science require multiple explanations to account for their nature), as in most sciences that deal with complexity, rather than a singled unified mathematical framework that is to be verified by experiment.
+
+
+== See also ==
+Complexity
+Econophysics
+Financial econometrics
+Mathematical finance
+Modeling and analysis of financial markets
+Statistical physics
+Time series analysis
+
+
+== References ==
+
+
+== Bibliography ==
+See  Econophysics bibliography and text books
+
+Jean-Philippe Bouchaud, Marc Potters, Theory of Financial Risk and Derivative Pricing, Cambridge University Press (2003)
+Rosario N. Mantegna, H. Eugene Stanley, An Introduction to Econophysics: Correlations and Complexity in Finance,  Cambridge University Press (1999)
+Neil F. Johnson, Paul Jefferies and Pak Ming Hui, Financial Market Complexity: What Physics Can Tell Us About Market Behaviour, Oxford University Press (2003)
+Mantegna, Rosario N.; Kertesz, Janos (2010). "Focus on Statistical Physics Modelling in Economics and Finance". New Journal of Physics.
+
+
+== External links ==
+Statistical Finance at arXiv.org

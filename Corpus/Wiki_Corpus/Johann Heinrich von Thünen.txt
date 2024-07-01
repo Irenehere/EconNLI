@@ -1,0 +1,68 @@
+Johann Heinrich von Thünen (24 June 1783 – 22 September 1850), sometimes spelled Thuenen, was a prominent nineteenth century economist and a native of Mecklenburg-Strelitz, now in northern Germany.
+
+
+== Work ==
+
+
+=== Thünen's model of agricultural land use ===
+Thünen was a Mecklenburg landowner, who in the first volume of his treatise The Isolated State (1826), developed the first serious treatment of spatial economics and economic geography, connecting it with the theory of rent. The importance lies less in the pattern of land use predicted than in its analytical approach.Thünen developed the basics of the theory of marginal productivity in a mathematically rigorous way, summarizing it in the formula in which
+
+  
+    
+      
+        R
+        =
+        Y
+        (
+        p
+        −
+        c
+        )
+        −
+        Y
+        F
+        m
+        
+      
+    
+    {\displaystyle R=Y(p-c)-YFm\,}
+  where R = land rent; Y = yield per unit of land; c = production expenses per unit of commodity; p=market price per unit of commodity; F = freight rate (per agricultural unit, per mile); m=distance to market.
+Thünen's model of agricultural land, created before industrialization, made the following simplifying assumptions:
+
+The city is located centrally within an "Isolated State."
+The Isolated State is surrounded by wilderness.
+The land is completely flat and has no rivers or mountains.
+Soil quality and climate are consistent.
+Farmers in the Isolated State transport their own goods to market via oxcart, across land, directly to the central city. There are no roads.
+Farmers behave rationally to maximize profits.The use which a piece of land is put to is a function of the cost of transport to market and the land rent a farmer can afford to pay (determined by yield, which is held constant here).
+The model generated four concentric rings of agricultural activity. Dairying and intensive farming lies closest to the city. Since vegetables, fruit, milk and other dairy products must get to market quickly, they would be produced close to the city.
+Timber and firewood would be produced for fuel and building materials in the second ring. Wood was a very important fuel for heating and cooking and is very heavy and difficult to transport so it is located close to the city.
+The third zone consists of extensive fields crops such as grain. Since grains last longer than dairy products and are much lighter than fuel, reducing transport costs, they can be located further from the city.
+Ranching is located in the final ring. Animals can be raised far from the city because they are self-transporting. Animals can walk to the central city for sale or for butchering.
+Beyond the fourth ring lies the wilderness, which is too great a distance from the central city for any type of agricultural product.
+Thünen's rings proved especially useful to economic history, such as Fernand Braudel's Civilization and Capitalism, untangling the economic history of Europe and European colonialism before the Industrial Revolution blurred the patterns on the ground.
+In economics, Thünen rent is an economic rent created by spatial variation or location of a resource. It is 'that which can be earned above that which can be earned at the margin of production'.
+
+
+=== Natural wage ===
+In the second volume of his great work, The Isolated State, Thunen developed some of the mathematical foundations of marginal productivity theory and wrote about the Natural Wage indicated by the formula √AP, in which A equals the value of the product of labor and capital, and P equals the subsistence of the laborer and their family. The idea he presented is that a surplus will arise on the earlier units of an investment of either capital or labor, but as time goes on the diminishing return of newer investments will mean that if wages vary with the level of productivity those that are early will receive a greater reward for their labor and capital. But if wage rates were determined using his formula, thus giving labor a share that will vary as a geometric mean: the square root of the joint product of the two factors, A and P.
+This formula was so important to him that it was a dying wish of his that it be placed on his tombstone.
+In The Isolated State he also coined the term Grenzkosten (marginal cost) which would later be popularized by Alfred Marshall in his Principles of Economics.
+
+
+== See also ==
+Ricardian rent
+Hotelling rent
+Alfred Weber
+Bid rent theory
+
+
+== References ==
+
+H. Schumacher-Zarchlin, ed. (1875). Der isolirte Staat in Beziehung auf Landwirtschaft und Nationalökonomie. Wiegant, Hempel & Parey.
+
+
+== External links ==
+"Thünen, Johann Heinrich von" . Encyclopedia Americana. 1920.
+"Johann Heinrich von Thünen". HET, at the Institute for New Economic Thinking.
+Newspaper clippings about Johann Heinrich von Thünen in the 20th Century Press Archives of the ZBW

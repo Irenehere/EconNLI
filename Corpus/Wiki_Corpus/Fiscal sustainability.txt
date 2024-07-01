@@ -1,0 +1,275 @@
+Fiscal sustainability, or public finance sustainability, is the ability of a government to sustain its current spending, tax and other policies in the long run without threatening government solvency or defaulting on some of its liabilities or promised expenditures. There is no consensus among economists on a precise operational definition for fiscal sustainability, rather different studies use their own, often similar, definitions. However, the European Commission defines public finance sustainability as: the ability of a government to sustain its current spending, tax and other policies in the long run without threatening the government's solvency or without defaulting on some of the government's liabilities or promised expenditures. Many countries and research institutes have published reports which assess the sustainability of fiscal policies based on long-run projections of country's public finances (see for example, and ). These assessments attempt to determine whether an adjustment to current fiscal policies that is required to reconcile projected revenues with projected expenditures. The size of the required adjustment is given with measures such as the Fiscal gap. In empirical works, weak and strong fiscal sustainability are distinguished. Differences are related to both econometric techniques used for examination and variables involved.
+
+
+== Government's inter-temporal budget constraint ==
+There is no consensus among economists about the correct criterion/definition to be used for fiscal sustainability. The most commonly used criterion is the government's inter-temporal budget constraint or inter-temporal equilibrium condition:
+
+  
+    
+      
+        
+          B
+          
+            t
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            ∞
+          
+        
+        (
+        1
+        +
+        r
+        
+          )
+          
+            −
+            i
+          
+        
+        P
+        
+          B
+          
+            t
+            +
+            i
+          
+        
+      
+    
+    {\displaystyle B_{t}=\sum _{i=1}^{\infty }(1+r)^{-i}PB_{t+i}}
+  ,where 
+  
+    
+      
+        
+          B
+          
+            t
+          
+        
+      
+    
+    {\displaystyle B_{t}}
+   is the stock of public debt, 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the interest rate of public debt and 
+  
+    
+      
+        
+          
+            P
+            B
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {PB}_{t}}
+   is the primary balance (negative of primary deficit or government revenues minus government expenditures excluding interest expenditure).
+The government's inter-temporal budget constraint states that the initial debt level should be equal to the present value of future surpluses. That is, the government debt must be backed by expected future cash flows.
+Many economists have voiced grave concerns over using inter-temporal budget constraint as a de facto definition or criterion for fiscal sustainability. Also, it has been shown that under plausible assumptions the inter-temporal budget constraint is in fact not the correct criterion for sustainability.
+
+
+== Indicators of fiscal sustainability ==
+There are many different indicators of fiscal sustainability. The indicators measure the fiscal adjustment required to bring public finances back to sustainable track. Specifics of the indicator depend on the operational definition of fiscal sustainability and the underlying economic modelling framework employed in a study. Some of the most commonly used indicators are so-called tax gaps. For example, the infinite horizon tax gap, or S2 sustainability indicator in European Commission phraseology is defined as:
+
+  
+    
+      
+        I
+        T
+        G
+        A
+        P
+        =
+        
+          
+            
+              (
+              r
+              −
+              g
+              )
+              (
+              
+                b
+                
+                  t
+                
+              
+              −
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  ∞
+                
+              
+              (
+              
+                
+                  
+                    1
+                    +
+                    g
+                  
+                  
+                    1
+                    +
+                    r
+                  
+                
+              
+              
+                )
+                
+                  i
+                
+              
+              p
+              
+                b
+                
+                  t
+                  +
+                  i
+                
+              
+              )
+            
+            
+              1
+              +
+              g
+            
+          
+        
+      
+    
+    {\displaystyle ITGAP={\frac {(r-g)(b_{t}-\sum _{i=1}^{\infty }({\frac {1+g}{1+r}})^{i}pb_{t+i})}{1+g}}}
+  where 
+  
+    
+      
+        
+          b
+          
+            t
+          
+        
+      
+    
+    {\displaystyle b_{t}}
+   is the debt-to-GDP ratio, 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the interest rate of government debt, 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is the growth rate of the economy and 
+  
+    
+      
+        p
+        
+          b
+          
+            t
+          
+        
+      
+    
+    {\displaystyle pb_{t}}
+   is the primary balance to GDP ratio.
+The infinite horizon tax gap gives the adjustment required to satisfy the inter-temporal budget constraint in terms of a permanent one-time change to projected path of primary balance to GDP ratios. Thus, if ITGAP = 5%, primary balance must be greater than projected by 5% of GDP for each future year. This could be achieved by permanently raising taxes or cutting expenditures 5% of GDP. For derivations and more information, see for example, or.
+
+
+== Fiscal sustainability challenges ==
+There are numerous challenges and threats to the sustainability of public finance which can range from institutional challenges ranging from creating independent fiscal institutions, fiscal responsibility laws, fiscal rules and the management of fiscal risks to changing dynamics in the demographic structure of societies.Although these factors are significant, the core indicator of outstanding government debt in proportion to GDP is the go to metric for analyzing the health of a country's public finance sector. If a country does suffer from a high proportion of outstanding government debt then it is very vulnerable to interest shocks and a negative growth rate. For EU member states in 2016, the expected government debt to GDP ratio is above the 60%. This is expected to change with the strong support of financial independent institutions assuming they respect the SGP rules. Additionally, reforms that address the root causes of risks to fiscal responsibility take into account the costs of aging and their components.
+
+
+=== Institutional factors ===
+Independent fiscal institutions which act responsibly are key for maintaining fiscal responsibility but often these institutions are created or further developed in response to crises instead of proactively preventing it. For example, during the great recession new fiscal rules were introduced to counteract debt accumulation.The question can be raised whether these economies are sustainable in the short run due to economic shocks and in the long run due to endemic problems in the structure of the system. The major challenges of the public finance sustainability consist of creating independent fiscal institutions, fiscal responsibility laws, fiscal rules and the management of fiscal risks.
+A few key factors for creating stability through institutions which have been leveraged by EU member states are the following activities which the majority of fiscal councils have enacted:
+Monitor fiscal performance (by checking compliance with the fiscal rules, assessing the efficiency of taxation)
+Advise the government on fiscal policy matters (by publishing opinions and recommendations on fiscal policy)
+Analyse the stance of the fiscal policy, both ex post by comparing the realities with the assumed targets and ex ante by evaluating the impact of fiscal policy measures to be implemented.
+
+
+=== Demographic impacts on fiscal sustainability ===
+The trend of demographic aging presents a major challenge to the industrialized world and an increasing number of developing countries. Recent projections developed by the UN Population Division estimate a 40 percent increase in world population and 7.8 years increase in the median age over the next 40 years. Fiscal sustainability is considerably impacted by this phenomenon but this can be triggered multiple ways. For example, shocks such as war and mass migration can dramatically alter the demographic composition of a society. In the industrialized world this trend is driven by simultaneous decreasing fertility and increasing longevity.
+
+
+==== Old-Age Dependency Ratio ====
+One economic indicator that is used to illustrate the share of economically inactive people in society is the old age dependency ratio.  The dependency ratio is an age to population ratio of those not typically in the labor force with individuals between 0-14 and 65+ comprising the dependent part  individuals between 15 and 64 measured as the productive part. This ratio is significant for determining the pressure on exerted on the productive population by the dependent population. Although longevity is an arguably positive outcome, when paired with a decline in fertility it can create higher financial stress on working people.Key aspects that influence the age-dependency ratio:
+The type of aging - decreasing fertility or increasing longevity
+The type of unfunded social security system
+regulation of retirement age
+
+
+=== Political barriers for fiscal sustainability ===
+Political actors often get in the way of financial stability due to competing interests between stakeholders that have a lot to gain through not implementing changes that would benefit society as a whole. One example of this is the financial sector in EU non Eurozone member states which benefit from trading currencies and would lose a large part of their income should their country join the eurozone. Creating independent fiscal institutions keeps these instruments out of the reach of political actors that would seek to use them for their personal benefit.
+
+
+==== Potential for reform ====
+The potential for states to reform their fiscal policy to ensure sustainability is typically oriented around institutional independence and covering the cost of aging over a longer time horizon. As public pension spending is the most affected by the demographic shift of aging at the EU level accounts for 11% of GDP it is critical to develop reforms that anticipate this trend. Although there is a large variation between the composition of the welfare state between member states which is reflected across current expenditure levels and projected changes to spending, states are uses a number of measures to combat this trend. The two main categories of reform in the area of pensions are altering the age eligibility for pension benefits or altering the coverage of the benefits and adjusting the size of the benefits. Altering the age eligibility for pensions can be done through legislation through increasing statutory retirement ages or it can be achieved through nudging whereby incentives are given to individuals that postpone retirement. Adjusting the size of the benefits entails reducing the benefit ratio, i.e. "the generosity of pension entitlements". These reforms can stabilize public pension expenditure but it has the potential to create tension and instability politically.
+
+
+== See also ==
+Government debt
+Government budget deficit
+Fiscal policy
+Government spending
+Government budget
+Public finance
+Generational accounting
+
+
+== References ==
+
+
+== Other sources ==
+Bernanke, Ben S. (27 April 2010). "Achieving Fiscal Sustainability". Washington, D.C.: speech at the National Commission on Fiscal Responsibility and Reform.
+Calvo, Guillermo A.; Izquierdo, Alejandro; Talvi, Ernesto (2006). "Sudden Stops and Phoenix Miracles in Emerging Markets". American Economic Review. 96 (2): 405–410. doi:10.1257/000282806777211856.
+Bird, Richard M. (January 2003). "Fiscal Flows, Fiscal Balance, and Fiscal Sustainability".
+Ghosh, Atish R.; Kim, Jun I.; Mendoza, Enrique G.; Ostry, Jonathan D.; Qureshi, Mahvash S. (2013). "Fiscal Fatigue, Fiscal Space and Debt Sustainability in Advanced Economies". The Economic Journal. 123 (566): F4–F30. doi:10.1111/ecoj.12010. ISSN 1468-0297. S2CID 154107217.
+
+
+== External links ==
+Councils and institutions that focus on fiscal issues and sustainability among other things 
+IMF Fiscal monitor 
+The World Bank: Fiscal Sustainability, Risks and Vulnerabilities

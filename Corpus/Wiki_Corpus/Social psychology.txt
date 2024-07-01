@@ -1,0 +1,144 @@
+Social psychology is the scientific study of how thoughts, feelings, and behaviors are influenced by the real or imagined presence of other people or by social norms. Social psychologists typically explain human behavior as a result of the relationship between mental states and social situations, studying the social conditions under which thoughts, feelings, and behaviors occur, and how these variables influence social interactions.
+
+
+== History ==
+Although issues in social psychology have been discussed in philosophy for much of human history, the scientific discipline of social psychology formally began in the late 19th to early 20th century.
+
+
+=== 19th century ===
+In the 19th century, social psychology began to emerge from the larger field of psychology. At the time, many psychologists were concerned with developing concrete explanations for the different aspects of human nature. They attempted to discover concrete cause-and-effect relationships that explained social interactions. In order to do so, they applied the scientific method to human behavior. The first published study in the field was Norman Triplett's 1898 experiment on the phenomenon of social facilitation. These psychological experiments later went on to form the foundation of much of 20th century social psychological findings.
+
+
+=== Early 20th century ===
+During World War II, social psychologists were mostly concerned with studies of persuasion and propaganda for the U.S. military (see also psychological warfare). Following the war, researchers became interested in a variety of social problems, including issues of gender and racial prejudice. During the years immediately following World War II, there were frequent collaborations between psychologists and sociologists. The two disciplines, however, have become increasingly specialized and isolated from each other in recent years, with sociologists generally focusing on high-level, large-scale examinations of society, and psychologists generally focusing on more small-scale studies of individual human behaviors.
+
+
+=== Late 20th century and modernity ===
+In the 1960s, there was growing interest in topics such as cognitive dissonance, bystander intervention, and aggression. In the 1970s, a number of conceptual challenges to social psychology emerged over issues such as ethical concerns about laboratory experimentation, whether attitudes could accurately predict behavior, and to what extent science could be done in a cultural context. It was also in this period where situationism—the theory that human behavior changes based on situational factors—emerged and challenged the relevance of self and personality in psychology.By the 1980s and 1990s, social psychology had developed a number of solutions to these issues with regard to theory and methodology. At present, ethical standards regulate research, and pluralistic and multicultural perspectives to the social sciences have emerged. Most modern researchers in the 21st century are interested in phenomena such as attribution, social cognition, and self-concept. Social psychologists are, in addition, concerned with applied psychology, contributing towards applications of social psychology in health, education, law, and the workplace.
+
+
+== Core theories and concepts ==
+
+
+=== Attitudes ===
+
+In social psychology, an attitude is a learned, global evaluation that influences thought and action. Attitudes are basic expressions of approval and disapproval or likes and dislikes. For example, enjoying chocolate ice cream or endorsing the values of a particular political party are examples of attitudes. Because people are influenced by multiple factors in any given situation, general attitudes are not always good predictors of specific behavior. For example, a person may generally value the environment but may not recycle a plastic bottle because of specific factors on a given day.
+Research on attitudes has examined the distinction between traditional, self-reported attitudes and implicit, unconscious attitudes. Experiments using the Implicit Association Test (IAT), for instance, have found that people often demonstrate implicit bias against other races, even when their explicit responses profess impartiality. Likewise, one study found that in interracial interactions, explicit attitudes correlate with verbal behavior, while implicit attitudes correlate with nonverbal behavior.Attitudes are also involved in several other areas of the discipline, such as conformity, interpersonal attraction, social perception, and prejudice.
+
+
+=== Persuasion ===
+
+Persuasion is an active method of influencing that attempts to guide people toward the adoption of an attitude, idea, or behavior by rational or emotive means. Persuasion relies on appeals rather than strong pressure or coercion. The process of persuasion has been found to be influenced by numerous variables that generally fall into one of five major categories:
+Communication: includes credibility, expertise, trustworthiness, and attractiveness.
+Message: includes varying degrees of reason, emotion (e.g., fear), one-sided or two-sided arguments, and other types of informational content.
+Audience: includes a variety of demographics, personality traits, and preferences.
+Medium: includes printed word, radio, television, the internet, or face-to-face interactions.
+Context: includes environment, group dynamics, and preliminary information.Dual-process theories of persuasion (such as the elaboration likelihood model) maintain that persuasion is mediated by two separate routes: central and peripheral. The central route of persuasion is influenced by facts and results in longer-lasting change, but requires motivation to process. The peripheral route is influenced by superficial factors (e.g. smiling, clothing) and results in shorter-lasting change, but does not require as much motivation to process.
+
+
+=== Social cognition ===
+
+Social cognition studies how people perceive, recognize, and remember information about others. Much research rests on the assertion that people think about other people differently than they do non-social, or non-human, targets. This assertion is supported by the social-cognitive deficits exhibited by people with Williams syndrome and autism.
+
+
+==== Attribution ====
+A major research topic in social cognition is attribution. Attributions are explanations of behavior, either one's own behavior or the behavior of others. 
+One element of attribution ascribes the cause of behavior to internal and external factors. An internal, or dispositional, attribution reasons that a behavior is caused by inner traits such as personality, disposition, character, and ability. An external, or situational, attribution reasons that a behavior is caused by situational elements such as the weather.: 111 A second element of attribution ascribes the cause of behavior to stable and unstable factors (i.e., whether the behavior will be repeated or changed under similar circumstances). Individuals also attribute causes of behavior to controllable and uncontrollable factors (i.e., how much control one has over the situation at hand).
+Numerous biases in the attribution process have been discovered. For instance, the fundamental attribution error is the bias towards make dispositional attributions for other people's behavior.: 724  The actor-observer bias is an extension of the theory, positing that tendency exists to make dispositional attributions for other people's behavior and situational attributions for one's own.: 107  The self-serving bias is the tendency to attribute dispositional causes for successes, and situational causes for failure, particularly when self-esteem is threatened. This leads to assuming one's successes are from innate traits, and one's failures are due to situations.: 109 
+
+
+==== Heuristics ====
+Heuristics are cognitive shortcuts which are used to make decisions in lieu of conscious reasoning. The availability heuristic occurs when people estimate the probability of an outcome based on how easy that outcome is to imagine. As such, vivid or highly memorable possibilities will be perceived as more likely than those that are harder to picture or difficult to understand. The representativeness heuristic is a shortcut people use to categorize something based on how similar it is to a prototype they know of.: 63  Numerous other biases have been found by social cognition researchers. The hindsight bias is a false memory of having predicted events, or an exaggeration of actual predictions, after becoming aware of the outcome. The confirmation bias is a type of bias leading to the tendency to search for or interpret information in a way that confirms one's preconceptions.
+
+
+==== Schemas ====
+Schemas are generalized mental representations that organize knowledge and guide information processing. They organize social information and experiences. Schemas often operate automatically and unconsciously. This leads to biases in perception and memory. Schemas may induce expectations that lead us to see something that is not there. One experiment found that people are more likely to misperceive a weapon in the hands of a black man than a white man. This type of schema is a stereotype, a generalized set of beliefs about a particular group of people (when incorrect, an ultimate attribution error). Stereotypes are often related to negative or preferential attitudes and behavior. Schemas for behaviors (e.g., going to a restaurant, doing laundry) are known as scripts.
+
+
+=== Self-concept ===
+
+Self-concept is the whole sum of beliefs that people have about themselves. The self-concept is made up of cognitive aspects called self-schemas—beliefs that people have about themselves and that guide the processing of self-referential information. For example, an athlete at a university would have multiple selves that would process different information pertinent to each self: the student would be oneself, who would process information pertinent to a student (taking notes in class, completing a homework assignment, etc.); the athlete would be the self who processes information about things related to being an athlete. These selves are part of one's identity and the self-referential information is that which relies on the appropriate self to process and react to it.
+There are many theories on the perception of our own behavior. Leon Festinger's 1954 social comparison theory posits that people evaluate their own abilities and opinions by comparing themselves to others when they are uncertain of their own ability or opinions. Daryl Bem's 1972 self-perception theory claims that when internal cues are difficult to interpret, people gain self-insight by observing their own behavior. There is also the facial feedback hypothesis: changes in facial expression can lead to corresponding changes in emotion.: 56 
+
+
+=== Social influence ===
+
+Social influence is an overarching term that denotes the persuasive effects people have on each other. It is seen as a fundamental concept in social psychology. The study of it overlaps considerably with research on attitudes and persuasion. The three main areas of social influence include conformity, compliance, and obedience. Social influence is also closely related to the study of group dynamics, as most effects of influence are strongest when they take place in social groups.The first major area of social influence is conformity. Conformity is defined as the tendency to act or think like other members of a group. The identity of members within a group (i.e., status), similarity, expertise, as well as cohesion, prior commitment, and accountability to the group help to determine the level of conformity of an individual. Individual variations among group members play a key role in the dynamic of how willing people will be to conform.: 27  Conformity is usually viewed as a negative tendency in American culture, but a certain amount of conformity is adaptive in some situations, as is nonconformity in other situations.: 15 The second major area of social influence research is compliance, which refers to any change in behavior that is due to a request or suggestion from another person. The foot-in-the-door technique is a compliance method in which the persuader requests a small favor and then follows up with a larger favor (e.g., asking for the time and then asking for ten dollars). A related trick is the bait and switch, which is a disingenuous sales strategy that involves enticing potential customers with advertisements of low-priced items which turn out to be unavailable in order to sell a more expensive item.The third major form of social influence is obedience; this is a change in behavior that is the result of a direct order or command from another person. Obedience as a form of compliance was dramatically highlighted by the Milgram study, wherein people were ready to administer shocks to a person in distress on a researcher's command.: 41 An unusual kind of social influence is the self-fulfilling prophecy. This is a prediction that, by being made, causes itself to become true. For example, in the financial field, if it is widely believed that a crash is imminent, investors may lose confidence, sell most of their stock, and thus cause a crash. Similarly, people may expect hostility in others and induce this hostility by their own behavior.: 18 Psychologists have spent decades studying the power of social influence, and the way in which it manipulates people's opinions and behavior. Specifically, social influence refers to the way in which individuals change their ideas and actions to meet the demands of a social group, received authority, social role, or a minority within a group wielding influence over the majority.
+
+
+=== Group dynamics ===
+
+Social psychologists study group-related phenomena such as the behavior of crowds. A group can be defined as two or more individuals who are connected to each other by social relationships. Groups tend to interact, influence each other, and share a common identity. They have a number of emergent qualities that distinguish them from coincidental, temporary gatherings, which are termed social aggregates:
+Norms: Implicit rules and expectations for group members to follow.
+Roles: Implicit rules and expectations for specific members within the group.
+Relations: Patterns of liking within the group, and also differences in prestige or status.The shared social identity of individuals within a group influences intergroup behavior, which denotes the way in which groups behave towards and perceive each other. These perceptions and behaviors in turn define the social identity of individuals within the interacting groups. 
+The tendency to define oneself by membership in a group may lead to intergroup discrimination, which involves favorable perceptions and behaviors directed towards the in-group, but negative perceptions and behaviors directed towards the out-group.Groups often moderate and improve decision making, and are frequently relied upon for these benefits, such as in committees and juries. Groups also affect performance and productivity. Social facilitation, for example, is a tendency to work harder and faster in the presence of others. 
+Another important concept in this area is deindividuation, a reduced state of self-awareness that can be caused by feelings of anonymity. Deindividuation is associated with uninhibited and sometimes dangerous behavior. It is common in crowds and mobs, but it can also be caused by a disguise, a uniform, alcohol, dark environments, or online anonymity.
+
+
+=== Interpersonal attraction ===
+
+A major area of study of people's relations to each other is interpersonal attraction, which refers to all factors that lead people to like each other, establish relationships, and (in some cases) fall in love. Several general principles of attraction have been discovered by social psychologists. One of the most important factors in interpersonal attraction is how similar two particular people are. The more similar two people are in general attitudes, backgrounds, environments, worldviews, and other traits, the more likely they will be attracted to each other.Physical attractiveness is an important element of romantic relationships, particularly in the early stages characterized by high levels of passion. Later on, similarity and other compatibility factors become more important, and the type of love people experience shifts from passionate to companionate. In 1986, Robert Sternberg suggested that there are actually three components of love: intimacy, passion, and commitment. When two (or more) people experience all three, they are said to be in a state of consummate love.
+According to social exchange theory, relationships are based on rational choice and cost-benefit analysis. A person may leave a relationship if their partner's "costs" begin to outweigh their benefits, especially if there are good alternatives available. This theory is similar to the minimax principle proposed by mathematicians and economists. With time, long-term relationships tend to become communal rather than simply based on exchange.
+
+
+== Research ==
+
+
+=== Methods ===
+Social psychology is an empirical science that attempts to answer questions about human behavior by testing hypotheses. Careful attention to research design, sampling, and statistical analysis is important in social psychology.
+Whenever possible, social psychologists rely on controlled experimentation, which requires the manipulation of one or more independent variables in order to examine the effect on a dependent variable. Experiments are useful in social psychology because they are high in internal validity, meaning that they are free from the influence of confounding or extraneous variables, and so are more likely to accurately indicate a causal relationship. However, the small samples used in controlled experiments are typically low in external validity, or the degree to which the results can be generalized to the larger population. There is usually a trade-off between experimental control (internal validity) and being able to generalize to the population (external validity).
+Because it is usually impossible to test everyone, research tends to be conducted on a sample of persons from the wider population. Social psychologists frequently use survey research when they are interested in results that are high in external validity. Surveys use various forms of random sampling to obtain a sample of respondents that is representative of a population. This type of research is usually descriptive or correlational because there is no experimental control over variables. Some psychologists have raised concerns for social psychological research relying too heavily on studies conducted on university undergraduates in academic settings, or participants from crowdsourcing labor markets such as Amazon Mechanical Turk. In a 1986 study by David O. Sears, over 70% of experiments used North American undergraduates as subjects, a subset of the population that is unrepresentative of the population as a whole.Regardless of which method has been chosen, social psychologists statistically review the significance of their results before accepting them in evaluating an underlying hypothesis. Statistics and probability testing define what constitutes a significant finding, which can be as low as 5% or less, and is unlikely due to chance. Replication testing is also important in ensuring that the results are valid and not due to chance. False positive conclusions, often resulting from the pressure to publish or the author's own confirmation bias, are a hazard in the field.
+
+
+=== Famous experiments ===
+
+
+==== Asch conformity experiments ====
+
+The Asch conformity experiments used a line-length estimation task to demonstrate the power of people's impulses to conform with other members in a small group. The task was designed to be easy to assess but wrong answers were deliberately given by at least some, oftentimes most, of the other participants. In well over a third of the trials, participants conformed to the majority, even though the majority judgment was clearly wrong. Seventy-five percent of the participants conformed at least once during the experiment. Additional manipulations of the experiment showed that participant conformity decreased when at least one other individual failed to conform but increased when the individual began conforming or withdrew from the experiment. Also, participant conformity increased substantially as the number of "incorrect" individuals increased from one to three, and remained high as the incorrect majority grew. Participants with three other, incorrect participants made mistakes 31.8% of the time, while those with one or two incorrect participants made mistakes only 3.6% and 13.6% of the time, respectively.
+
+
+==== Festinger cognitive dissonance experiments ====
+
+In Leon Festinger's cognitive dissonance experiment, participants were divided into two groups and were asked to perform a boring task. Both groups were later asked to dishonestly give their opinion of the task, but were rewarded according to two different pay scales. At the end of the study, some participants were paid $1 to say that they enjoyed the task, while the group of participants were paid $20 to tell the same lie. The first group ($1) later reported liking the task better than the second group ($20). Festinger's explanation was that for people in the first group, being paid only $1 was not sufficient incentive. This led them to experience dissonance, or discomfort and internal conflict. They could only overcome that dissonance by justifying their lies. They did this by changing their previously unfavorable attitudes about the task. Being paid $20 provided a reason for doing the boring task, which resulted in no dissonance.
+
+
+==== Milgram experiment ====
+
+The Milgram experiment was designed to study how far people would go in obeying an authority figure. The experiment showed that normal American citizens would follow orders even when they believed they were causing an innocent person to suffer or even apparently die.
+
+
+==== Stanford prison experiment ====
+
+Philip Zimbardo's Stanford prison study, a simulated exercise involving students playing at being prison guards and inmates, attempted to show how far people would go in role playing. In just a few days, the guards became brutal and cruel, and the prisoners became miserable and compliant. This was initially argued to be an important demonstration of the power of the immediate social situation and its capacity to overwhelm normal personality traits. Subsequent research has contested the initial conclusions of the study. For example, it has been pointed out that participant self-selection may have affected the participants' behavior, and that the participants' personalities influenced their reactions in a variety of ways, including how long they chose to remain in the study. The 2002 BBC prison study, designed to replicate the conditions in the Stanford study, produced conclusions that were drastically different from the initial findings.
+
+
+==== Bandura's Bobo doll ====
+Albert Bandura's Bobo doll experiment attempted to demonstrate how aggression is learned by imitation. In the experiment, 72 children, grouped based on similar levels of pre-tested aggressivity, either witnessed an aggressive or a non-aggressive actor interact with a "bobo doll." The children were then placed alone in the room with the doll and observed to see if they would imitate the same behavior of the actor they had observed. As hypothesized, the children who had witnessed the aggressive actor, imitated the behavior and proceeded to act aggressively towards the doll. Both male and female children who witnessed the non-aggressive actor behaved less aggressively towards the doll. However, boys were more likely to exhibit aggression, especially after observing the behavior from an actor of the same gender. In addition, boys were found to imitate more physical aggression, while girls displayed more verbal aggression.  
+
+
+=== Ethics ===
+The goal of social psychology is to understand cognition and behavior as they naturally occur in a social context, but the very act of observing people can influence and alter their behavior. For this reason, many social psychology experiments utilize deception to conceal or distort certain aspects of the study. Deception may include false cover stories, false participants (known as confederates or stooges), false feedback given to the participants, and other techniques that help remove potential obstacles to participation.The practice of deception has been challenged by psychologists who maintain that deception under any circumstances is unethical and that other research strategies (e.g., role-playing) should be used instead. Research has shown that role-playing studies do not produce the same results as deception studies, and this has cast doubt on their validity. In addition to deception, experimenters have at times put people in potentially uncomfortable or embarrassing situations (e.g., the Milgram experiment and Stanford prison experiment), and this has also been criticized for ethical reasons.
+Virtually all social psychology research in the modern day must pass an ethical review. At most colleges and universities, this is conducted by an ethics committee or institutional review board, which examines the proposed research to make sure that no harm is likely to come to the participants, and that the study's benefits outweigh any possible risks or discomforts to people participating.
+Furthermore, a process of informed consent is often used to make sure that volunteers know what will be asked of them in the experiment and understand that they are allowed to quit the experiment at any time. A debriefing is typically done at the experiment's conclusion in order to reveal any deceptions used and generally make sure that the participants are unharmed by the procedures. Today, most research in social psychology involves minimal risk, or no greater risk of harm than can be expected from normal daily activities or routine psychological testing.
+
+
+=== Replication crisis ===
+
+Many social psychological research findings have proven difficult to replicate, leading some to argue that social psychology is undergoing a replication crisis. A 2014 special edition of Social Psychology focused on replication studies, finding that a number of previously held social psychological beliefs were difficult to replicate. Likewise, a 2012 special edition of Perspectives on Psychological Science focused on issues ranging from publication bias to null-aversion which have contributed to the replication crisis.Some factors have been identified in social psychological research as contributing to the crisis. For one, questionable research practices have been identified as common. Such practices, while not necessarily intentionally fraudulent, often involve converting undesired statistical outcomes into desired outcomes via the manipulation of statistical analyses, sample sizes, or data management systems, typically to convert non-significant findings into significant ones. Some studies have suggested that at least mild versions of these practices are prevalent.Some social psychologists have also published fraudulent research that has entered into mainstream academia, most notably the admitted data fabrication by Diederik Stapel as well as allegations against others. Fraudulent research is not the main contributor to the replication crisis. Many researchers attribute the failure to replicate as a result of the difficulty of being able to recreate the exact same conditions of a study conducted many years ago, as the environment and people have changed.Even before the current replication crisis, several effects in social psychology have also been found to be difficult to replicate. For example, the scientific journal Judgment and Decision Making has published several studies over the years that fail to provide support for the unconscious thought theory. 
+Replication failures are not unique to social psychology and are found in many fields of science. One of the consequences of the current crisis is that some areas of social psychology once considered solid, such as social priming, have come under increased scrutiny due to failure to replicate findings.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Social psychology on PLOS — subject area page

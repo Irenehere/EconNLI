@@ -1,0 +1,55 @@
+Financial analysis (also known as financial statement analysis, accounting analysis, or analysis of finance) refers to an assessment of the viability, stability, and profitability of a business, sub-business or project. 
+It is performed by professionals who prepare reports using ratios and other techniques, that make use of information taken from financial statements and other reports. These reports are usually presented to top management as one of their bases in making business decisions.  
+Financial analysis may determine if a business will:
+
+Continue or discontinue its main operation or part of its business;
+Make or purchase certain materials in the manufacture of its product;
+Acquire or rent/lease certain machineries and equipment in the production of its goods;
+Issue  shares or negotiate for a bank loan to increase its working capital;
+Make decisions regarding investing or lending capital;
+Make other decisions that allow management to make an informed selection on various alternatives in the conduct of its business.
+
+
+== Firm-level analysis ==
+Financial analysts often assess the following elements of a firm:
+
+Profitability - its ability to earn income and sustain growth in both the short- and long-term. A company's degree of profitability is usually based on the income statement, which reports on the company's results of operations;
+Solvency - its ability to pay its obligation to creditors and other third parties in the long-term;
+Liquidity - its ability to maintain positive cash flow, while satisfying immediate obligations;
+Stability - the firm's ability to remain in business in the long run, without having to sustain significant losses in the conduct of its business. Assessing a company's stability requires the use of both the income statement and the balance sheet, as well as other financial and non-financial indicators.Both 2 and 3 are based on the company's balance sheet, which indicates the financial condition of a business as of a given point in time.
+
+
+== Techniques ==
+Financial analysts often compare financial ratios (of solvency, profitability, growth, etc.):
+
+Past Performance - Across historical time periods for the same firm (the last 5 years for example),
+Future Performance - Using historical figures and certain mathematical and statistical techniques, including present and future values, This extrapolation method is the main source of errors in financial analysis as past statistics can be poor predictors of future prospects.
+Comparative Performance - Comparison between similar firmsComparing financial ratios is merely one way of conducting financial analysis. 
+Financial analysts can also use percentage analysis which involves reducing a series of figures as a percentage of some base amount.  For example, a group of items can be expressed as a percentage of net income. When proportionate changes in the same figure over a given time period expressed as a percentage is known as horizontal analysis.Vertical or common-size analysis reduces all items on a statement to a "common size" as a percentage of some base value which assists in comparability with other companies of different sizes. As a result, all Income Statement items are divided by Sales, and all Balance Sheet items are divided by Total Assets.Another method is comparative analysis. This provides a better way to determine trends. Comparative analysis presents the same information for two or more time periods and is presented side-by-side to allow for easy analysis.
+
+
+== Theoretical challenges ==
+Financial ratios face several theoretical challenges:
+
+They say little about the firm's prospects in an absolute sense.  Their insights about relative performance require a reference point from other time periods or similar firms.
+One ratio holds little meaning.  As indicators, ratios can be logically interpreted in at least two ways. One can partially overcome this problem by combining several related ratios to paint a more comprehensive picture of the firm's performance.
+Seasonal factors may prevent year-end values from being representative. A ratio's values may be distorted as account balances change from the beginning to the end of an accounting period. Use average values for such accounts whenever possible.
+Financial ratios are no more objective than the accounting methods employed. Changes in accounting policies or choices can yield drastically different ratio values.
+
+
+== See also ==
+Business valuation
+Economic base analysis
+Financial accounting
+Financial forecast
+Financial statements analysis and model
+Fundamental basis of financial statements (going concern)
+
+
+== Notes ==
+
+
+== External links ==
+SFAF – the French Society of Financial Analysts
+ACIIA – Association of Certified International Investment Analysts
+EFFAS – European Federation of Financial Analysts Societies

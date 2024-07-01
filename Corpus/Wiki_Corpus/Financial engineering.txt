@@ -1,0 +1,41 @@
+Financial engineering is a multidisciplinary field involving financial theory, methods of engineering, tools of mathematics and the practice of programming. It has also been defined as the application of technical methods, especially from mathematical finance and computational finance, in the practice of finance.Financial engineering plays a key role in a bank's customer-driven derivatives business 
+— delivering bespoke OTC-contracts and "exotics", and implementing various structured products — 
+which encompasses quantitative modelling, quantitative programming and risk managing financial products in compliance with the regulations and Basel capital/liquidity requirements.
+An older use of the term "financial engineering" that is less common today is aggressive restructuring of corporate balance sheets. 
+Mathematical finance is the application of mathematics to finance. Computational finance and mathematical finance are both subfields of financial engineering. Computational finance is a field in computer science and deals with the data and algorithms that arise in financial modeling.
+
+
+== Discipline ==
+Financial engineering draws on tools from applied mathematics, computer science, statistics and economic theory.
+In the broadest sense, anyone who uses technical tools in finance could be called a financial engineer, for example any computer programmer in a bank or any statistician in a government economic bureau. However, most practitioners restrict the term to someone educated in the full range of tools of modern finance and whose work is informed by financial theory. It is sometimes restricted even further, to cover only those originating new financial products and strategies.Despite its name, financial engineering does not belong to any of the fields in traditional professional engineering even though many financial engineers have studied engineering beforehand and many universities offering a postgraduate degree in this field require applicants to have a background in engineering as well. In the United States, the Accreditation Board for Engineering and Technology (ABET) does not accredit financial engineering degrees. In the United States, financial engineering programs are accredited by the International Association of Quantitative Finance.Quantitative analyst ("Quant") is a broad term that covers any person who uses math for practical purposes, including financial engineers. Quant is often taken to mean "financial quant", in which case it is similar to financial engineer. The difference is that it is possible to be a theoretical quant, or a quant in only one specialized niche in finance, while "financial engineer" usually implies a practitioner with broad expertise."Rocket scientist" (aerospace engineer) is an older term, first coined in the development of rockets in WWII (Wernher von Braun), and later, the NASA space program; it was adapted by the first generation of financial quants who arrived on Wall Street in the late 1970s and early 1980s. While basically synonymous with financial engineer, it implies adventurousness and fondness for disruptive innovation. Financial "rocket scientists" were usually trained in applied mathematics, statistics or finance and spent their entire careers in risk-taking. They were not hired for their mathematical talents, they either worked for themselves or applied mathematical techniques to traditional financial jobs. The later generation of financial engineers were more likely to have PhDs in mathematics, physics, electrical and computer engineering, and often started their careers in academics or non-financial fields.
+
+
+== Criticisms ==
+
+One of the prominent critics of financial engineering is Nassim Taleb, a professor of financial engineering at Polytechnic Institute of New York University who argues that it replaces common sense and leads to disaster.  A series of economic collapses has led many governments to argue a return to "real" engineering from financial engineering.
+A gentler criticism came from Emanuel Derman who heads a financial engineering degree program at Columbia University. He blames over-reliance on models for financial problems; see Financial Modelers' Manifesto.
+Many other authors have identified specific problems in financial engineering that caused catastrophes: 
+
+Aaron Brown named confusion between quants and regulators over the meaning of "capital"
+Felix Salmon gently pointed to the Gaussian copula (see David X. Li § CDOs and Gaussian copula)
+Ian Stewart criticized the Black-Scholes formula
+Pablo Triana (along with others including Taleb and Brown) dislikes value at risk
+Scott Patterson accused quantitative traders and later high-frequency traders.The financial innovation often associated with financial engineers was mocked by former chairman of the Federal Reserve Paul Volcker in 2009 when he said it was a code word for risky securities, that brought no benefits to society. For most people, he said, the advent of the ATM was more crucial than any asset-backed bond.
+
+
+== Education ==
+
+The first Master of Financial Engineering degree programs were set up in the early 1990s. 
+The number and size of programs has grown rapidly, to the extent that some now use the term "financial engineer" to refer to a graduate in the field. 
+The financial engineering program at New York University Polytechnic School of Engineering was the first curriculum to be certified by the International Association of Financial Engineers.
+The number, and variation, of these programs has grown over the decades subsequent (see Master of Quantitative Finance § History); and lately includes undergraduate study, as well as designations such as the Certificate in Quantitative Finance.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Beder, Tanya S.; Marshall, Cara M. (2011). Financial Engineering: The Evolution of a Profession. John Wiley & Sons.

@@ -1,0 +1,80 @@
+An investor profile or style defines an individual's preferences in investment decisions, for example:
+Short-term trading (active management) or long term holding (buy and hold)
+Risk-averse or risk tolerant / seeker
+All classes of assets or just one (stocks for example)
+Value stock, growth stocks, quality stocks, defensive or cyclical stocks...
+Big cap or small cap (Market capitalization) stocks,
+Use or not of derivatives
+Home turf or international diversification
+Hands on, or via investment funds
+
+
+== What determines an investor profile ==
+The style / profile is determined by 
+
+
+=== Objective traits ===
+Objective personal or social traits such as age, gender, income, wealth, family, tax situation, opportunities.
+
+
+=== Subjective attitudes ===
+Subjective attitudes, linked to the temper (emotions) and the beliefs (cognition) of the investor.
+
+
+=== Balance between risk and return ===
+An investor's style is shaped by his or her sense of balance between risk and return.  Some investors can tolerate greater risk to have greater return.  Some investors want less risk and are content with a reasonable return.
+
+Generally, the investor's financial return / risk objectives, assuming they are precisely set and fully rational. (???)
+
+
+=== Areas of focus ===
+An investor profile is shaped by the area that an investor chooses to focus on; such as:
+
+stocks or bonds,
+technology, commodity, or real estate
+small-cap or large-cap companies
+
+
+=== Investment strategies ===
+An investor profile is also shaped by the strategy the investor uses:
+
+ethical investing
+growth investing
+index investing
+quality investing
+value investing
+
+
+=== Valuation methods ===
+An investor profile is also shaped by the valuation method the investor uses:
+
+fundamental analysis
+technical analysis
+quantitative analysis
+
+
+== See also ==
+Bielard, Biehl and Kaiser five-way model
+Capital accumulation
+Capital appreciation
+Ethical investing
+Financial economics
+Global assets under management
+Growth investing
+Index investing
+Investor relations
+Quality investing
+Return on investment
+Saving
+Socially responsible investing
+Speculation
+Stock investor
+Stock profile
+Value investing
+
+
+== References ==
+
+
+== External links ==
+perso.orange.fr, investor types

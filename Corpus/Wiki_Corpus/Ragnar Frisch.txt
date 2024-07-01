@@ -1,0 +1,59 @@
+Ragnar Anton Kittil Frisch (3 March 1895 – 31 January 1973) was an influential Norwegian economist known for being one of the major contributors to establishing economics as a quantitative and statistically informed science in the early 20th century. He coined the term econometrics in 1926 for utilising statistical methods to describe economic systems, as well as the terms microeconomics and macroeconomics in 1933, for describing individual and aggregate economic systems, respectively. He was the first to develop a statistically informed model of business cycles in 1933. Later work on the model together with Jan Tinbergen won the two the first Nobel Memorial Prize in Economic Sciences in 1969.Frisch became dr.philos. with a thesis on mathematics and statistics at the University of Oslo in 1926. After his doctoral thesis, he spent five years researching in the United States at the University of Minnesota and Yale University. After teaching briefly at Yale from 1930–31, he was offered a full professorship in economics, which he declined after pressures by colleagues to return to the University of Oslo. After returning to Oslo, Frisch was first appointed by the King-in-Council as Professor of Economics and Statistics at the Faculty of Law, University of Oslo (then the Royal Frederick University) in 1931, before becoming leader of the newly founded Institute of Economics at the University of Oslo in 1932. He remained at the University of Oslo until his retirement in 1965.
+Frisch was one of the founders of the Econometric Society in 1930, and edited the journal Econometrica for its first 21 years.Ragnar Frisch has given name to the Frisch Medal, which is awarded every year by the Econometric Society for the best paper in econometrics published in the last five years, as well as the Frisch-centre for Applied Economic Analysis at the University of Oslo. The Grand Auditorium at the Institute of Economics, University of Oslo also bears his name.
+
+
+== Background and education ==
+
+
+=== Family and early years ===
+Ragnar Frisch was born on 3 March 1895 in Christiania as the son of gold- and silversmith Anton Frisch and Ragna Fredrikke Frisch (née Kittilsen). The Frisch family had emigrated from Germany to Kongsberg in Norway in the 17th century and his ancestors had worked for the Kongsberg Silver Mines for generations; Ragnar's grandfather Antonius Frisch had become a goldsmith in Christiania in 1856. His family had thus worked with precious metals like silver and gold for at least 300 years.
+Being expected to continue his family business, Frisch became an apprentice in the David Andersen workshop in Oslo. However at his mother's advice, while doing his apprenticeship Frisch also started studying at the Royal Frederick University. His chosen topic was economics, as it seemed to be "the shortest and easiest study" available at the university, and passed his degree in 1919. In 1920 he also passed his handicraftsman tests and became a partner in his father's workshop.
+
+
+=== Early career and further education ===
+In 1921 Frisch received a fellowship from the university which enabled him to spend three years studying economics and mathematics in France and England. After his return to Norway, in 1923, although the family's business was having difficulties, he continued his scientific activity, believing that research, not jewellery, was his real calling. He published a few papers about probability theory, started teaching at the University of Oslo during 1925 and, in 1926, he obtained the Dr. Philos. degree with a thesis in mathematical statistics.
+Also in 1926, Frisch published an article outlining his view that economics should follow the same path towards theoretical and empirical quantization that other sciences, especially physics, had followed. During the same year, he published his seminal article "Sur un problème d'économie pure" starting the implementation of his own quantization programme. The article offered theoretical axiomatizations which result in a precise specification of both ordinal and cardinal utility, followed by an empirical estimation of the cardinal specification. Frisch also started lecturing a course on production theory, introducing a mathematization of the subject.
+Frisch received a fellowship from the Rockefeller Foundation to visit the United States in 1927. There, seeking other economists interested in the new mathematical and statistical approaches to economics, he associated with Irving Fisher, Wesley Clair Mitchell, Allyn Young and Henry Schultz. He wrote a paper analyzing the role of investment in explaining economic fluctuations. Wesley Mitchell, who had just written a book on business cycles, popularized Frisch's paper which was introducing new advanced methods.
+
+
+=== Later career ===
+Although his fellowship was extended to travel to Italy and France, the next year Frisch had to return to Norway because of his father's death. He spent one year to modernize and recapitalize his family's workshop by selling family assets and to find a jeweller to manage the business for him. Then he resumed academic work, in 1928 being appointed Associate Professor of statistics and economics at the Oslo University. During 1927 and 1928 Frisch published a series of articles on the statistics of time series. In 1929 he published his first important essay on econometric methodology, "Correlation and scatter in statistical variables", followed in the same year by "Statics and dynamics in economic theory", which introduced dynamics in economic analysis.Frisch became a full Professor at the university in 1931. He also founded at the university the Rockefeller-funded Institute of Economics in 1932 and became its Director of Research.
+Ragnar Frisch received the Antonio Feltrinelli prize from the Accademia Nazionale dei Lincei in 1961 and the Nobel Memorial Prize in Economic Sciences in 1969 (awarded jointly with Jan Tinbergen) for "having developed and applied dynamic models for the analysis of economic processes". He was a member of both the American Academy of Arts and Sciences and the American Philosophical Society.During the occupation of Norway by Nazi Germany Frisch was imprisoned in Bredtveit concentration camp from 17 October 1943, then in Berg concentration camp from 22 November 1943, then in Grini detention camp from 9 December 1943 to 8 October 1944.
+
+
+=== Family ===
+Frisch married Marie Smedal in 1920 and they had a daughter, Ragna (b. 1938). His granddaughter, Nadia Hasnaoui (Ragna's child), became a Norwegian television performer. After his first wife died in 1952, he remarried in 1953 with childhood friend Astrid Johannessen. who died in 1980.
+
+
+== Work ==
+Frisch was one of the founders of economics as a modern science. He made a number of significant advances in the field of economics and coined a number of new words including econometrics and macroeconomics. His 1926 paper on consumer theory helped set up Neo-Walrasian research. He formalized production theory, especially in addressing nonallocable inputs leading to jointness, meaning less than full control, in production processes (see esp. Chapters 14 and 15).In econometrics he worked on time series (1927) and linear regression analysis (1934). With Frederick V. Waugh, he introduced the celebrated Frisch–Waugh theorem  (Econometrica 1933)  (sometimes referred to as the Frisch–Waugh–Lovell theorem). In oligopoly theory he developed the conjectural variation approach. Frisch also is credited with introducing the term "model" in its modern economic sense by Paul Samuelson, based on a 1930 Yale University lecture.His 1933 work on impulse-propagation business cycles became one of the principles of modern New Classical business cycle theory. He also helped introduce econometric modeling to government economic planning and accounting.
+He was one of the founders of the Econometric Society and editor of Econometrica for over twenty years. The Frisch Medal, so named in his honor, is given every two years for the best paper published in the aforementioned Econometrica in the previous five years.
+Frisch's most important hobby was bee-keeping, for which Frisch performed genetic studies.
+
+
+== Selected publications ==
+Frisch, Ragnar (1926). "Kvantitativ formulering av den teoretiske økonomikks lover [Quantitative formulation of the laws of economic theory]". Statsøkonomisk Tidsskrift. 40: 299–334.
+Frisch, Ragnar (1926). "Sur un problème d'économie pure [On a problem in pure economics]". Norsk Matematisk Forenings Skrifter, Oslo. 1 (16): 1–40.
+Frisch, Ragnar (1927). "Sammenhengen mellem primærinvestering og reinvestering [The relationship between primary investment and reinvestment]". Statsøkonomisk Tidsskrift. 41: 117–152.
+Frisch, Ragnar (1929). "Correlation and scatter in statistical variables". Nordic Statistical Journal. 1: 36–102.
+Frisch, Ragnar (1929). "Statikk og dynamikk i den økonomiske teori [Statics and dynamics in economic theory]". Nationaløkonomisk Tidsskrift. 67: 321–379.
+Frisch, Ragnar (1933). "Propagation problems and impulse problems in dynamic economics". Economic Essays in Honour of Gustav Cassel: 171–205.There is a bibliography of Frisch's writings up to 1960 in
+
+Arrow, Kenneth J. (1960). "The Work of Ragnar Frisch, Econometrician". Econometrica. 28 (2): 175–192. doi:10.2307/1907716. JSTOR 1907716.and there is a collection of selected essays
+
+Bjerkholt, Olav, ed. (1995). Foundations of Modern Econometrics: The Selected Essays of Ragnar Frisch. 2 volumes. Aldershot, UK: Edward Elgar.
+
+
+== References ==
+
+
+== Further reading ==
+Strøm, Steinar, ed. (1998). "Ragnar Frisch and his Contributions to Economics". Econometrics and Economic Theory in the 20th Century. New York: Cambridge University Press. pp. 3–108. ISBN 978-0-521-63365-9.
+
+
+== External links ==
+
+Ragnar Frisch on Nobelprize.org 
+Ragnar Frisch at nobel-winners.com
+IDEAS/RePEc
+Ragnar Frisch (1895–1973). 2008. {{cite book}}: |work= ignored (help)

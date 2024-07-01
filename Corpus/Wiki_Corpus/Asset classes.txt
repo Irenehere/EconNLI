@@ -1,0 +1,52 @@
+In finance, an asset class is a group of financial instruments that have similar financial characteristics and behave similarly in the marketplace.  We can often break these instruments into those having to do with real assets and those having to do with financial assets.  Often, assets within the same asset class are subject to the same laws and regulations; however, this is not always true.  For instance, futures on an asset are often considered part of the same asset class as the underlying instrument but are subject to different regulations than the underlying instrument.
+Many investment funds are composed of the two main asset classes, both of which are securities: equities (stocks) and fixed-income (bonds).  However, some also hold cash and foreign currencies.  Funds may also hold money market instruments and they may even refer to these as cash equivalents; however, that ignores the possibility of default.  Money market instruments, being short-term fixed income investments, should therefore be grouped with fixed income.
+In addition to stocks and bonds, we can add cash, foreign currencies, real estate, infrastructure and commodities to the list of commonly held asset classes. In general, an asset class is expected to exhibit different risk and return investment characteristics, and to perform differently in certain market environments.
+Asset classes and asset class categories are often mixed together. In other words, describing large-cap stocks or short-term bonds as asset classes is incorrect. These investment vehicles are asset class categories, and are used for diversification purposes. Multiple asset classes mixed together in a fund structure can provide an investor with exposure through a single relationship. While the bulk of the global funds are traditional in nature, as is the case of a mutual fund, some funds would be classified as alternative investments such as hedge funds, often considered an asset class of their own particularly for institutional investors.
+Most financial experts agree that some of the most effective investment strategies involve diversifying investments across broad asset classes like stocks and bonds, rather than focusing on specific securities that may or may not turn out to be "winners". Diversification is a technique to help reduce risk. However, there is no guarantee that diversification will protect against a loss of income.
+The goal of asset allocation is to create a balanced mix of assets that have the potential to improve returns, while meeting your:
+
+Tolerance for risk (market volatility)
+Goals and investment objectives
+Preferences for certain types of investments within asset classesBeing diversified across asset classes may help reduce volatility. If you include several asset classes in your long-term portfolio, the upswing of one asset class may help offset the downward movement of another as conditions change. But keep in mind that there are inherent risks associated with investing in securities, and diversification doesn't protect against loss.
+
+
+== Types ==
+Stocks - Also called equities
+
+Represent shares of ownership in publicly held companies
+Historically have outperformed other investments over long periods (keep in mind that past performance does not guarantee future results)
+Most volatile in the short term
+Returns and principal will fluctuate so that accumulations, when redeemed, may be worth more or less than original costFixed income - Fixed income, or bond investments, generally pay a set rate of interest over a given period, then return the investor's principal.
+
+Set rate of interest
+More stability than stocks
+Value fluctuates due to current interest and inflation rates
+includes "guaranteed" or "risk-free" assets
+Also includes money market instruments (short-term fixed income investments)Cash - Also called currency, or medium of exchange 
+
+Liquidity
+Ability to buy anythingForeign Currencies - Also called FX, or foreign exchange
+Real estate - Buildings (houses, terrain lots, etc.) or investment property, plus shares of funds that invest in commercial real estate.
+
+Helps protect future purchasing power as property values and rental income run parallel to inflation
+Values tend to rise and fall more slowly than stock and bond prices. It is important to keep in mind that the real estate sector is subject to various risks, including fluctuation in underlying property values, expenses and income, and potential environmental liabilities. Infrastructure as an asset class  
+
+Broad category including highways, airports, rail networks, energy generation (utilities), energy storage and distribution (gas mains, pipelines etc.)
+Provides a longer duration (facilitating cash flow matching with long-term liabilities), protection against inflation, and statistical diversification (low correlation with 'traditional' listed assets such as equity and fixed income investments), thus reducing overall portfolio volatilityCommodities - Physical goods such as gold, copper, crude oil, natural gas, wheat, corn, and even electricity.
+
+Helps protect future purchasing power as values have fixed utility and thus run parallel to inflation
+Values tend to exhibit low correlations with stock and bond prices.
+Price dynamics are also unique: commodities become more volatile as prices rise.  Thus a commodity with a 20% volatility might have a 50% volatility if prices doubled.Cryptocurrency
+
+Decentralized, "digital gold" 
+Accessibility; mineable and tradable 
+Risk-on asset;  lacks regulation, ESG concerns, highly volatile 
+Liquidity varies, majority are lower
+Supply varies, some are finite thus deflationary
+
+
+== See also ==
+Alternative investment
+
+
+== References ==

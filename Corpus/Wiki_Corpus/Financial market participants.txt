@@ -1,0 +1,45 @@
+There are two basic financial market participant distinctions, investors versus speculators and institutional versus retail. Action in financial markets by central banks is usually regarded as intervention rather than participation.
+
+
+== Supply side versus demand side ==
+A market participant may either be coming from the supply side, hence supplying excess money (in the form of investments) in favor of the demand side; or coming from the demand side, hence demanding excess money (in the form of borrowed equity) in favor of the supply side. This equation originated from Keynesian advocates. The theory explains that a given market may have excess cash; hence the supplier of funds may lend it; and those in need of cash may borrow the funds supplied. Hence, the equation: aggregate savings equals aggregate investments.
+The demand side consists of: those in need of cash flows (daily operational needs); those in need of interim financing (bridge financing); those in need of long-term funds for special projects (capital funds for venture financing).
+The supply side consists of: those who have aggregate savings (retirement funds, pension funds, insurance funds) that can be used in favor of demand side. The origin of the savings (funds) can be local savings or foreign savings. So much pensions or savings can be invested for school buildings; orphanages; (but not earning) or for road network (toll ways) or port development (capable of earnings).
+The earnings go to owner (Savers or Lenders) and the margin goes to the banks. When the principal and interest are added up, it will reflect the amount paid for the user (borrower) of the funds.  Thus, an interest percentage for the cost of using the funds.
+
+
+== Investor versus speculator ==
+
+
+=== Investor ===
+
+An investor is any party that makes an investment. However, the term has taken on a specific meaning in finance to describe the particular types of people and companies that regularly purchase equity or debt securities for financial gain in exchange for funding an expanding company.  Less frequently the term is applied to parties who purchase real estate, currency, commodity derivatives, personal property, or other assets.
+
+
+=== Speculation ===
+
+Speculation, in the narrow sense of financial speculation, involves the buying, holding, selling, and short-selling of stocks, bonds, commodities, currencies, collectibles, real estate, derivatives or any valuable financial instrument to profit from fluctuations in its price as opposed to buying it for use or for income via methods such as dividends or interest. Speculation represents one of three market roles in western financial markets, distinct from hedging, long term investing and arbitrage. Speculators in an asset may have no intention to have long term exposure to that asset.
+
+
+== Institutional versus retail ==
+
+
+=== Institutional investor ===
+
+An institutional investor is an investor, such as a bank, insurance company, retirement fund, hedge fund, or mutual fund, that is financially sophisticated and makes large investments, often held in very large portfolios of investments. Because of their sophistication, institutional investors may often participate in private placements of securities, in which certain aspects of the securities laws may be inapplicable.
+
+
+=== Retail investor ===
+A retail investor is an individual investor possessing shares of a given security. Retail investors can be further divided into two categories of share ownership:
+
+A Beneficial Shareholder is a retail investor who holds shares of their securities in the account of a bank or broker, also known as "in street name". The broker is in possession of the securities on behalf of the underlying shareholder.
+A Registered Shareholder is a retail investor who holds shares of their securities directly through the issuer or its transfer agent. Many registered shareholders have physical copies of their stock certificates.In the United States, as of 2005 about 57 million households owned stocks, and in total, individual investors owned 26% of equities.
+
+
+== See also ==
+Do-it-yourself investing
+Financial market efficiency
+Securities market participants (United States)
+
+
+== References ==

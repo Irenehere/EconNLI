@@ -1,0 +1,11 @@
+Learning-by-doing is a concept in economic theory by which productivity is achieved through practice, self-perfection and minor innovations.  An example is a factory that increases output by learning how to use equipment better without adding workers or investing significant amounts of capital.
+The concept of learning-by-doing has been used by Kenneth Arrow in his design of endogenous growth theory to explain effects of innovation and technical change. Robert Lucas, Jr. (1988) adopted the concept to explain increasing returns to embodied human capital. Yang and Borland (1991) have shown learning-by-doing plays a role in the evolution of countries to greater specialisation in production. In both these cases, learning-by-doing and increasing returns provide an engine for long run growth.
+Recently, it has become a popular explaining concept in the evolutionary economics and resource-based view (RBV) of the firm.The Toyota Production System is known for Kaizen, that is explicitly built upon learning-by-doing effects.
+
+
+== See also ==
+Experience curve effects – Express the relationship between experience producing a good and the efficiency of that production
+Learning curve – Relationship between proficiency and experience
+
+
+== References ==

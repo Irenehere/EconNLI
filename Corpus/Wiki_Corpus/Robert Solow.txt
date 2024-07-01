@@ -1,0 +1,75 @@
+Robert Merton Solow, GCIH (; born August 23, 1924) is an American economist whose work on the theory of economic growth culminated in the exogenous growth model named after him. He is currently Emeritus Institute Professor of Economics at the Massachusetts Institute of Technology, where he has been a professor since 1949. He was awarded the John Bates Clark Medal in 1961, the Nobel Memorial Prize in Economic Sciences in 1987, and the Presidential Medal of Freedom in 2014. Four of his PhD students, George Akerlof, Joseph Stiglitz, Peter Diamond and William Nordhaus later received Nobel Memorial Prizes in Economic Sciences in their own right.
+
+
+== Biography ==
+Robert Solow was born in Brooklyn, New York, into a Jewish family on August 23, 1924, the oldest of three children. He regarded his parents as being very intelligent despite their not being able to attend college due to the necessity to work. He was well educated in the neighborhood public schools and excelled academically early in life. In September 1940, Solow went to Harvard College with a scholarship at the age of 16. At Harvard, his first studies were in sociology and anthropology as well as elementary economics.In 1941, Solow left the university and joined the U.S. Army. Because he was fluent in German, the Army put him on a task force whose primary purpose was to intercept, interpret, and send back German messages to base. He served briefly in North Africa and Sicily, and later in Italy until he was discharged in August 1945. Shortly after returning, he proceeded to marry his girlfriend, Barbara Lewis, whom he had been dating for six months.He returned to Harvard in 1945, and studied under Wassily Leontief. As Leontief's research assistant he produced the first set of capital-coefficients for the input–output model. Then he became interested in statistics and probability models. From 1949 to 1950, he spent a fellowship year at Columbia University to study statistics more intensively. During that year he also worked on his Ph.D. thesis, an exploratory attempt to model changes in the size distribution of wage income using interacting Markov processes for employment-unemployment and wage rates.In 1949, just before going off to Columbia, he was offered and accepted an assistant professorship in the Economics Department at Massachusetts Institute of Technology. At M.I.T. he taught courses in statistics and econometrics. Solow's interest gradually changed to macroeconomics. For almost 40 years, Solow and Paul Samuelson worked together on many landmark theories: von Neumann growth theory (1953), theory of capital (1956), linear programming (1958) and the Phillips curve (1960).
+Solow also held several government positions, including senior economist for the Council of Economic Advisers (1961–62) and member of the President's Commission on Income Maintenance (1968–70). His studies focused mainly in the fields of employment and growth policies, and the theory of capital.
+In 1961 he won the American Economic Association's John Bates Clark Award, given to the best economist under age forty. In 1979 he served as president of that association. In 1987, he won the Nobel Prize for his analysis of economic growth and in 1999, he received the National Medal of Science. In 2011, he received an honorary degree in Doctor of Science from Tufts University.Solow is the founder of the Cournot Foundation and the Cournot Centre. After the death of his colleague Franco Modigliani, Solow accepted an appointment as new Chairman of the I.S.E.O Institute, an Italian nonprofit cultural association which organizes international conferences and summer schools. He is a founding trustee of the Economists for Peace and Security.Solow's past students include 2010 Nobel Prize winner Peter Diamond, as well as Michael Rothschild, Halbert White, Charlie Bean, Michael Woodford, and Harvey Wagner. He is ranked 23rd among economists on RePEc in terms of the strength of economists who have studied under him.Solow was one of the signees of a 2018 amicus curiae brief that expressed support for Harvard University in the Students for Fair Admissions v. President and Fellows of Harvard College lawsuit. Signers of the brief include Alan B. Krueger, George A. Akerlof, Janet Yellen, and Cecilia Rouse.Solow is a Democrat, supporting Joe Biden's Inflation Reduction Act of 2022 
+
+
+== Solow's model of economic growth ==
+Solow's model of economic growth, often known as the Solow–Swan neo-classical growth model as the model was independently discovered by Trevor W. Swan and published in "The Economic Record" in 1956, allows the determinants of economic growth to be separated into increases in inputs (labour and capital) and technical progress. The reason these models are called "exogenous" growth models is the saving rate is taken to be exogenously given. Subsequent work derives savings behavior from an inter-temporal utility-maximizing framework. Using his model, Solow (1957) calculated that about four-fifths of the growth in US output per worker was attributable to technical progress.
+
+Solow also was the first to develop a growth model with different vintages of capital. The idea behind Solow's vintage capital growth model is that new capital is more valuable than old (vintage) capital because new capital is produced through known technology. He first states that capital must be a finite entity because all of the resources on the earth are indeed limited.  Within the confines of Solow's model, this known technology is assumed to be constantly improving. Consequently, the products of this technology (the new capital) are expected to be more productive as well as more valuable. The idea lay dormant for some time perhaps because Dale W. Jorgenson (1966) argued that it was observationally equivalent with disembodied technological progress, as advanced earlier in Solow (1957). It was successfully advanced in subsequent research by Jeremy Greenwood, Zvi Hercowitz and Per Krusell (1997), who argued that the secular decline in capital goods prices could be used to measure embodied technological progress. They labeled the notion investment-specific technological progress. Solow (2001) approved. Both Paul Romer and Robert Lucas, Jr. subsequently developed alternatives to Solow's neo-classical growth model.To better communicate the meaning behind his work, Solow used a graphical design to illustrate his concepts. On the x-axis he puts capital per worker and for the y-axis he uses output per worker. The reason for graphing capital and output per worker is due to his assumption that the nation is at full employment. The first (top) curve represents the output produced at each given level of capital. The second (middle) curve shows the depreciating nature of capital which remains constantly positive. The third curve (bottom) conveys savings/investment per worker. As the old machinery wears down and breaks, new capital goods must be bought to replace the old. The point where the two lines meet is known as the steady state level, which means that the nation is producing just enough to be able to replace the old capital. Countries that are closer to the steady state level, on the left side, grow more slowly when compared to countries closer to the vertex of the graph. However, when countries are to the right of the steady state level, they are not growing because all the returns they create needs to go to replacing and repairing their old capital.Since Solow's initial work in the 1950s, many more sophisticated models of economic growth have been proposed, leading to varying conclusions about the causes of economic growth. For example, rather than assuming, as Solow did, that people save at a given constant rate, subsequent work applied a consumer-optimization framework to derive savings behavior endogenously, allowing saving rates to vary at different points in time, depending on income flows, for example. 
+In the 1980s efforts have focused on the role of technological progress in the economy, leading to the development of endogenous growth theory (or new growth theory). Today, economists use Solow's sources-of-growth accounting to estimate the separate effects on economic growth of technological change, capital, and labor.As of 2022, Solow is still an emeritus Institute Professor in the MIT economics department, and previously taught at Columbia University.
+
+
+== MIT Economics (1960–1979) ==
+In the early 1960s the Massachusetts Institute of Technology (MIT) was the home of the "growthmen". Its leading light, Paul Samuelson, had published a pathbreaking undergraduate textbook, Economics: An Introductory Analysis. In the sixth edition of Economics, Samuelson (1964) added a "new chapter on the theory of growth". Samuelson drew on the work on growth theory of his younger colleague Robert Solow (1956)—an indication that growthmanship was taking an analytical turn. The MIT economists were thus growthmen in two senses: in seeing growth as an absolutely central policy imperative and in seeing the theory of growth as a focus for economic research. What the MIT growthmen added was a distinctive style of analysis that made it easier to address the dominant policy concerns in tractable formal models. Solow's (1956) model was the perfect exemplar of the MIT style. It provided the central framework for the subsequent developments in growth theory and secured MIT as the center of the universe in the golden age of growth theory in the 1960s (Boianovsky and Hoover 199–200).
+
+
+== Honors ==
+ Grand-Cross of the Order of Prince Henry, Portugal (27 September 2006)
+Member, American Academy of Arts and Sciences (1956)
+Member, United States National Academy of Sciences (1972)
+Member, American Philosophical Society (1980)
+
+
+== Publications ==
+
+
+=== Books ===
+Dorfman, Robert; Samuelson, Paul; Solow, Robert M. (1958). Linear programming and economic analysis. New York: McGraw-Hill.
+Solow, Robert M. (15 October 1970). Growth Theory: An Exposition (1970, second edition 2006). Oxford University Press. ISBN 978-0195012958.
+Solow, Robert M. (1990). The Labor Market as a Social Institution. Blackwell. ISBN 978-1557860866.
+
+
+=== Book chapters ===
+Solow, Robert M. (1960), "Investment and technical progress", in Arrow, Kenneth J.; Karlin, Samuel; Suppes, Patrick (eds.), Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium, Stanford mathematical studies in the social sciences, IV, Stanford, California: Stanford University Press, pp. 89–104, ISBN 9780804700214.
+Solow, Robert M. (2001), "After technical progress and the aggregate production function", in Hulten, Charles R.; Dean, Edwin R.; Harper, Michael J. (eds.), New developments in productivity analysis, Chicago, Illinois: University of Chicago Press, pp. 173–78, ISBN 9780226360645.
+Solow, Robert M. (2009), "Imposed environmental standards and international trade", in Kanbur, Ravi; Basu, Kaushik (eds.), Arguments for a better world: essays in honor of Amartya Sen | Volume II: Society, institutions and development, Oxford New York: Oxford University Press, pp. 411–24, ISBN 9780199239979.
+
+
+=== Journal articles ===
+Robert Merton Solow (January 1952). "On the Structure of Linear Models". Econometrica. 20 (1): 29–46. doi:10.2307/1907805. JSTOR 1907805.
+Solow, Robert M. (1955). "The Production Function and the Theory of Capital". The Review of Economic Studies: 103–107.
+Solow, Robert M. (February 1956). "A contribution to the theory of economic growth" (PDF). Quarterly Journal of Economics. 70 (1): 65–94. doi:10.2307/1884513. hdl:10338.dmlcz/143862. JSTOR 1884513.
+Solow, Robert M. (1957). "Technical change and the aggregate production function". Review of Economics and Statistics. 39 (3): 312–20. doi:10.2307/1926047. JSTOR 1926047. S2CID 153438644. Pdf.
+Solow, Robert M. (May 1974). "The economics of resources or the resources of economics". The American Economic Review: Papers and Proceedings. 64 (2): 1–14. JSTOR 1816009.
+Solow, Robert M. (September 1997). "Georgescu-Roegen versus Solow/Stiglitz". Ecological Economics. 22 (3): 267–68. doi:10.1016/S0921-8009(97)00081-5.See also: Nicholas Georgescu-Roegen and Joseph Stiglitz.Solow, Robert M. (November 2003). "Lessons learned from U.S. welfare reform". Prisme. 2. Archived from the original on 16 May 2015.
+Solow, Robert M. (Spring 2007). "The last 50 years in growth theory and the next 10". Oxford Review of Economic Policy. 23 (1): 3–14. doi:10.1093/oxrep/grm004.
+
+
+== See also ==
+
+
+== References ==
+
+Greenwood, Jeremy; Krusell, Per; Hercowitz, Zvi (1997). "Long-run Implications of Investment-Specific Technological Progress". American Economic Review. 87: 343–362.
+Greenwood, Jeremy; Krusell, Per (2007). "Growth Accounting with Investment-Specific Technological Progress: A Discussion of Two Approaches". Journal of Monetary Economics. 54 (4): 1300–1310. doi:10.1016/j.jmoneco.2006.02.008.
+Jorgenson, Dale W. (1966). "The Embodiment Hypothesis". Journal of Political Economy. 74: 1–17. doi:10.1086/259105. S2CID 154389143.
+
+
+== External links ==
+
+Robert M. Solow on Nobelprize.org 
+Video Interview with Solow from NobelPrize.org
+Articles written by Solow for the New York Review of Books
+Robert M. Solow – Prize Lecture
+Toye, John (2009). "Solow in the Tropics". History of Political Economy. 41 (1): 221–40. doi:10.1215/00182702-2009-025.
+IDEAS/RePEc
+Robert M. Solow Papers, 1951–2011 and undated. Rubenstein Library, Duke University.
+"Robert Merton Solow (1924– )". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Appearances on C-SPAN
+Robert M. Solow at MIT Infinite History
+Biography of Robert M. Solow from the Institute for Operations Research and the Management Sciences

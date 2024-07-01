@@ -1,0 +1,61 @@
+The overshooting model, or the exchange rate overshoot hypothesis, first developed by economist Rudi Dornbusch, is a theoretical explanation for high levels of exchange rate volatility. The key features of the model include the assumptions that goods' prices are sticky, or slow to change, in the short run, but the prices of currencies are flexible, that arbitrage in asset markets holds, via the uncovered interest parity equation, and that expectations of exchange rate changes are "consistent": that is, rational. The most important insight of the model is that adjustment lags in some parts of the economy can induce compensating volatility in others; specifically, when an exogenous variable changes, the short-term effect on the exchange rate can be greater than the long-run effect, so in the short term, the exchange rate overshoots its new equilibrium long-term value. 
+Dornbusch developed this model back when many economists held the view that ideal markets should reach equilibrium and stay there. Volatility in a market, from this perspective, could only be a consequence of imperfect or asymmetric information or adjustment obstacles in that market. Rejecting this view, Dornbusch argued that volatility is in fact a far more fundamental property than that.
+According to the model, when a change in monetary policy occurs (e.g., an unanticipated permanent increase in the money supply), the market will adjust to a new equilibrium between prices and quantities. Initially, because of the "stickiness" of prices of goods, the new short run equilibrium level will first be achieved through shifts in financial market prices. Then, gradually, as prices of goods "unstick" and shift to the new equilibrium, the foreign exchange market continuously reprices, approaching its new long-term equilibrium level. Only after this process has run its course will a new long-run equilibrium be attained in the domestic money market, the currency exchange market, and the goods market.
+As a result, the foreign exchange market will initially overreact to a monetary change, achieving a new short run equilibrium. Over time, goods prices will eventually respond, allowing the foreign exchange market to dissipate its overreaction, and the economy to reach the new long run equilibrium in all markets.
+
+
+== Outline of the model ==
+That is to say, the position of the Investment Saving (IS) curve is determined by the volume of injections into the flow of income and by the competitiveness of Home country output measured by the real exchange rate.
+The first assumption is essentially saying that the IS curve (demand for goods) position is in some way dependent on the real effective exchange rate Q.
+That is, [IS = C + I + G +Nx(Q)]. In this case, net exports is dependent on Q (as Q goes up, foreign countries' goods are relatively more expensive, and home countries' goods are cheaper, therefore there are higher net exports).
+
+If financial markets can adjust instantaneously and investors are risk neutral, it can be said the uncovered interest rate parity (UIP) holds at all times. That is, the equation r = r*  + Δse holds at all times (explanation of this formula is below).
+It is clear, then, that an expected depreciation/appreciation offsets any current difference in the exchange rate. If r > r*, the exchange rate (domestic price of one unit of foreign currency) is expected to increase. That is, the domestic currency depreciates relative to the foreign currency.
+
+In the long run, the exchange rate(s) will equal the long run equilibrium exchange rate,(ŝ).
+
+Formal Notation
+[1] r = r* +Δse (uncovered interest rate parity - approximation)
+[2] Δse = θ(ŝ – s) (Expectations of market participants)
+[3] m - p = ky-lr (Demand/Supply on money)
+[4] yd = h(s-p) = h(q) (demand for the home country output)
+[5] þ = π(yd- ŷ)(proportional change in prices with respect to time) dP/dTime
+From the above can be derived the following (using algebraic substitution)
+[6] p - p_hat = - lθ(ŝ - s)
+[7] þ = π[h(s-p) - ŷ]
+In equilibrium
+yd = ŷ (demand for output equals the long run demand for output)
+from this substitution shows that
+[8] ŷ/h = ŝ - p_hat
+That is, in the long run, the only variable that affects the real exchange rate is growth in capacity output.
+Also, 
+Δse = 0 (that is, in the long run the expected change of inflection is equal to zero)
+Substituting into [2] yields r = r*.
+Substituting that into [6] shows:
+[9] p_hat = m -kŷ + l r*
+taking [8] & [9] together:
+[10] ŝ = ŷ(h−1 - k) + m +lr*
+comparing [9] & [10], it is clear that the only difference between them is the intercept (that is the slope of both is the same). This reveals that given a rise in money stock pushes up the long run values of both in equally proportional measures, the real exchange rate (q) must remain at the same value as it was before the market shock. Therefore, the properties of the model at the beginning are preserved in long run equilibrium, the original equilibrium was stable.
+Short run disequilibrium
+The standard approach is to rewrite the basic equations [6] & [7] in terms of the deviation from the long run equilibrium).
+In equilibrium [7] implies 0 = π[h(ŝ-p_hat) - ŷ]
+Subtracting this from [7] yields
+[11] þ = π[h(q-q_hat) 
+The rate of exchange is positive whenever the real exchange rate is above its equilibrium level, also it is moving towards the equilibrium level] - This yields the direction and movement of the exchange rate.
+In equilibrium, [9] hold, that is [6] - [9] is the difference from equilibrium.
+→←←
+[12] p - p_hat = -lθ(s-ŝ)
+This shows the line upon which the exchange rate must be moving (the line with slope -lθ).
+Both [11] & [12] together demonstrates that the exchange rate will be moving towards the long run equilibrium exchange rate, whilst being in a position that implies that it was initially overshot.
+From the assumptions above, it is possible to derive the following situation. 
+This demonstrated the overshooting and subsequent readjustment. In the graph on the top left, So is the initial long run equilibrium, S1 is the long run equilibrium after the injection of extra money and S2 is where the exchange rate initially jumps to (thus overshooting). When this overshoot takes place, it begins to move back to the new long run equilibrium S1.
+
+
+== See also ==
+Exchange rate
+
+
+== References ==
+Rudiger Dornbusch (1976). "Expectations and Exchange Rate Dynamics". Journal of Political Economy. 84 (6): 1161–1176. doi:10.1086/260506. S2CID 53576013.
+"Dornbusch's Overshooting Model After Twenty-Five Years", 2001 analysis by Kenneth Rogoff, International Monetary Fund.
+Romer, David. Advanced Macroeconomics. Third Edition. pp. 234–236.

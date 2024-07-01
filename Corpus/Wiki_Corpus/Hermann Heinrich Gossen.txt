@@ -1,0 +1,36 @@
+Hermann Heinrich Gossen (7 September 1810 – 13 February 1858) was a Prussian economist who is often regarded as the first to elaborate, in detail, a general theory of marginal utility. 
+Prior to Gossen, a number of economic theorists, including Gabriel Cramer, Daniel Bernoulli, William Forster Lloyd, Nassau William Senior, and Jules Dupuit had employed or asserted the significance of some notion of marginal utility.  But Cramer, Bernoulli, and Dupuit had focussed upon specific problems, Lloyd had not presented any applications of theory, and if Senior provided a detailed elaboration of the general theory he had developed, he had done so in language that caused his applications of theory to be missed by most readers.
+
+
+== Life and Family Background ==
+Hermann Heinrich Gossen was born in Düren, Roer (department) (Roerdépartement, or Département de la Roer), France. Today that area is known as North Rhine-Westphalia, Germany. Hermann died in Cologne (Köln), North Rhine-Westphalia, Germany. His parents were Georg Joseph Gossen (December 15, 1780 - October 7, 1847) (aka Georg Josef Gossen) and Maria Anna Mechtilde (Mechthildis) Scholl (February 22, 1768 - June 29, 1833). Georg and Maria were married on October 25, 1804 in Aachen.
+Hermann's paternal grandfather, Arnold Winand Gossen, married Anna Cordula Schmitz on September 3, 1774 in Selgersdorf, Jülich, Prussia. Arnold Winand Gossen - a Kurfürstlicher steuereintreiber (Electoral tax collector) and Wahlrentenmanager (Electoral pension manager) - was one of the most respected officials operating in the city of Düren, the duchy of Jülich, and other parts of the Lower Rhine region of Prussia. However, beginning in the mid-1790s, Arnold gradually lost his position and income, due to the acquisition by France of Prussian territories where Arnold had ongoing business operations. These acquisitions of Prussian territory by France were a consequence of Prussia's involvement in the French Revolutionary Wars (1792-1802).Hermann studied at the University of Bonn, then worked in the Prussian administration until retiring in 1847, after which he sold insurance until his death.
+
+
+== Entwickelung der Gesetze des menschlichen Verkehrs (1854) ==
+Gossen's book Entwickelung der Gesetze des menschlichen Verkehrs, und der daraus fließenden Regeln für menschliches Handeln (Braunschweig: Druck und Verlag von Friedrich Vieweg und Sohn, 1854) (Development of the Laws of Human Intercourse and the Consequent Rules of Human Action) went through two printings in 1854. In this work, Gossen very explicitly develops general theoretical implications from a theory of marginal utility, to the extent that William Stanley Jevons (one of the preceptors of the Marginal Revolution) was later to remark that [I]t is quite apparent that Gossen has completely anticipated me as regards the general principles and method of the theory of Economics. So far as I can gather, his treatment of the fundamental theory is even more general and thorough than what I was able to scheme out.
+Entwickelung was poorly received, as economic thought in Germany at the time (1854) was dominated by the Historical School, and Gossen had written Entwickelung in a dense, heavily mathematical style, a manner of exposition which was quite unpopular with adherents of the Historical School. Although Gossen himself declared that his work was comparable in its significance to the innovations of Copernicus, few others agreed. Embittered by the work's  poor reception, shortly before his death Gossen ordered the destruction of all copies of the book. All unsold copies were pulled from stores by the publisher, who did not destroy them however, but instead put them in storage. About 32 years later, these unsold copies of the book were purchased by Berlin publisher R. L. Prager, who recycled and re-issued them in 1889, under the imprint Verlag von R. L. Prager. Today, only a few copies of the 1854 and 1889 printings of the book still exist.In the early 1870s, William Stanley Jevons, Carl Menger, and Léon Walras each reintroduced the theory of marginal utility. During discussions in 1878 as to which of those three had been the first to formulate the theory,  Robert Adamson (1852-1902), who was a colleague of Jevons at Owens College (Manchester, England), finally discovered a copy of Entwickelung in the British Museum, after trying for several years to locate a copy of the book, which had become unobtainable (and had been ignored and forgotten as well) since being removed from sale in stores by its publisher in late 1857 or early 1858. However, this re-discovery of the book came several years after the three principals in the Marginal Revolution had published their own books, and significant differences with Gossen’s original contributions were overlooked.
+A century later (1983) Gossen’s book was translated into English. In his introduction to the book, Nicholas Georgescu-Roegen, a prominent American economist (Distinguished Fellow of the American Economics Association), strongly supported Gossen’s vision, which stands in opposition to the neoclassical orthodoxy that utility (satisfaction) is properly identified with consumables in basic (utility) theory rather than consumption activity:
+
+Given that the only certain fact is the intensity of pleasure felt at an instant of time, the only epistemologically sound approach is to take intensity as the primary concept. ([1854] 1983, lxxxi [See "Further reading" below.])
+Georgescu-Roegen also extended Gossen’s behavioral formulation by introducing leisure in addition to production and consumption activities.
+Gossen was among the first economists to argue that a centrally planned economy was unworkable:
+Original:  " … nur durch Feststellung des Privateigenthums der Maßstab gefunden wird zur Bestimmung der Quantität, welche den Verhältnissen angemessen am Zweckmäßigsten von jeden Gegenstand zu produciren ist.  Darum würde denn die von Communisten projectirte Centralbehörde zur Vertheilung der verschiedenen Arbeiten und ihrer Belohnung sehr bald die Erfahrung machen, daß sie sich eine Aufgabe gestellt habe, deren Lösung die Kräfte einzelner Menschen weit übersteigt."
+Translation:  " … only through the establishment of private property is to be found the measure for determining the quantity of each commodity which it would be best to produce under given conditions.  Therefore, the central authority [that's] proposed by the communists for the distribution of the various tasks and their reward, would very soon find that it had undertaken a task the solution of which far exceeds the abilities of individual men."
+
+
+== See also ==
+Scarcity
+Marginalism
+
+
+== References ==
+
+
+== Further reading ==
+Gossen, Hermann Heinrich; Entwickelung der Gesetze des menschlichen Verkehrs, und der daraus fließenden Regeln für menschliches Handeln (1854).  Translated into English as The Laws of Human Relations and the Rules of Human Action Derived Therefrom (1983) MIT Press, ISBN 0-262-07090-1. Reproduced by Google books in German.
+Klaus Hagendorf: A Critique of Gossen's Fundamental Theorem of the Theory of Pleasure
+
+
+== External links ==
+Works by or about Hermann Heinrich Gossen at Internet Archive

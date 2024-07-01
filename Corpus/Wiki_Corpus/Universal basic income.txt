@@ -1,0 +1,221 @@
+Universal basic income (UBI) is a social welfare proposal in which all citizens of a given population regularly receive a guaranteed income in the form of an unconditional transfer payment (i.e., without a means test or need to work). It would be received independently of any other income. If the level is sufficient to meet a person's basic needs (i.e., at or above the poverty line), it is sometimes called a full basic income; if it is less than that amount, it may be called a partial basic income. No country has yet introduced either, although there have been numerous pilot projects and the idea is discussed in many countries. Some have labelled UBI as utopian due to its historical origin.There are several welfare arrangements that can be considered similar to basic income, although they are not unconditional. Many countries have a system of child benefit, which is essentially a basic income for guardians of children. A pension may be a basic income for retired persons. There are also quasi-basic income programs that are limited to certain population groups or time periods, like Bolsa Familia in Brazil, which is concentrated on the poor, or the Thamarat Program in Sudan, which was introduced by the transitional government to ease the effects of the economic crisis inherited from the Bashir regime. Likewise, the economic impact of the COVID-19 pandemic prompted some countries to send direct payments to its citizens. The Alaska Permanent Fund is a fund for all residents of the U.S. state of Alaska which averages $1,600 annually (in 2019 currency), and is sometimes described as the only example of a real basic income in practice. A negative income tax (NIT) can be viewed as a basic income for certain income groups in which citizens receive less and less money until this effect is reversed the more a person earns.Critics claim that a basic income at an appropriate level for all citizens is not financially feasible, fear that the introduction of a basic income would lead to fewer people working, and/or consider it socially unjust that everyone should receive the same amount of money regardless of their individual need. Proponents say it is indeed financeable, arguing that such a system, instead of many individual means-tested social benefits, would eliminate a lot of expensive social administration and bureaucratic efforts, and expect that unattractive jobs would have to be better paid and their working conditions improved because there would have to be an incentive to do them when already receiving an income, which would increase the willingness to work. Advocates also argue that a basic income is fair because it ensures that everyone has a sufficient financial basis to build on and less financial pressure, thus allowing people to find work that suits their interests and strengths.Early historical examples of unconditional payments date back to antiquity, and the first proposals to introduce a regular unconditionally paid income for all citizens were developed and disseminated between the 16th and 18th centuries. After the Industrial Revolution, public awareness and support for the concept increased. At least since the mid-20th century, basic income has repeatedly been the subject of political debates. In the 21st century, several discussions are related to the debate about basic income, including those regarding automation, artificial intelligence (AI), and the future of the necessity of work. A key issue in these debates is whether automation and AI will significantly reduce the number of available jobs and whether a basic income could help prevent or alleviate such problems by allowing everyone to benefit from a society's wealth, as well as whether a UBI could be a stepping stone to a resource-based or post-scarcity economy.
+
+
+== History ==
+
+
+=== Antiquity ===
+
+In a 46 BC triumph, Roman general and dictator Julius Caesar gave each common Roman citizen 100 denarii. Following his assassination in 44 BC, Caesar's will left 300 sestertii (or 75 denarii) to each citizen.Trajan, emperor of Rome from 98–117 AD, personally gave 650 denarii (equivalent to perhaps US$430 in 2023) to all common Roman citizens who applied.
+
+
+=== 16th century ===
+In his Utopia (1516), English statesman and philosopher Thomas More depicts a society in which every person receives a guaranteed income. In this book, basic income is proposed as an answer to the statement "No penalty on earth will stop people from stealing, if it's their only way of getting food", stating:
+instead of inflicting these horrible punishments, it would be far more to the point to provide everyone with some means of livelihood, so that nobody's under the frightful necessity of becoming first a thief, and then a corpse.
+Spanish scholar Johannes Ludovicus Vives (1492–1540) proposed that the municipal government should be responsible for securing a subsistence minimum to all its residents "not on the grounds of justice but for the sake of a more effective exercise of morally required charity." Vives also argued that to qualify for poor relief, the recipient must "deserve the help he or she gets by proving his or her willingness to work."
+
+
+=== 18th century ===
+In 1797, English Radical Thomas Spence published The Rights of Infants in 1797 as a response to Thomas Paine's Agrarian Justice. In this essay Spence proposes the introduction of an unconditional basic income to all members of the community. Such allowance would be financed through the socialization of land and the benefits of the rents received by each municipality. A part of everyone’s earnings would be seized by the State, and given to others. 
+English-born American philosopher Thomas Paine authored Common Sense (1776) and The American Crisis (1776–1783), the two most influential pamphlets at the start of the American Revolution. His essay, Agrarian Justice, was published in 1797, In it, he proposed concrete reforms to abolish poverty. In particular, he proposed a universal social insurance system comprising old-age pensions and disability support, and universal stakeholder grants for young adults, funded by a 10% inheritance tax focused on land, it is also considered one of the earliest proposals for a social security system. Thomas Paine summarized his view by stating that "Men did not make the earth. It is the value of the improvements only, and not the earth itself, that is individual property. Every proprietor owes to the community a ground rent for the land which he holds."  Paine saw inheritance as being partly a common fund and wanted to supplement the citizen's dividend in a tax on inheritance transfers.
+
+
+=== 19th century ===
+Henry George proposed to create a pension and disability system, and a broad social support system from a single tax on land and natural resource value. Social support would be distributed to residents "as a right" instead of as charity. George mentioned, but did not stress, the possibility of direct cash distribution of land rent. His ideas gave rise to the economic philosophy now known as Georgism or the "single tax movement", which is an economic ideology holding that, although people should own the value they produce themselves, the economic rent derived from land—including from all natural resources, the commons, and urban locations—should belong equally to all members of society. Some Georgists refer to unconditional basic income funded by the single tax as a citizen's dividend in reference to Thomas Paine's proposal from the 19th Century.
+
+
+=== Early 20th century ===
+Around 1920, support for basic income started growing, primarily in England.
+Bertrand Russell (1872–1970) argued for a new social model that combined the advantages of socialism and anarchism, and that basic income should be a vital component in that new society.
+In the United Kingdom at the end of World War I, Dennis and Mabel Milner, a Quaker married couple of the Labour Party, published a short pamphlet entitled "Scheme for a State Bonus" (1918) that argued for the "introduction of an income paid unconditionally on a weekly basis to all citizens of the United Kingdom." They considered it a moral right for everyone to have the means to subsistence, and thus it should not be conditional on work or willingness to work.C. H. Douglas was an engineer who became concerned that most British citizens could not afford to buy the goods that were produced, despite the rising productivity in British industry. His solution to this paradox was a new social system he called social credit, a combination of monetary reform and basic income.
+In 1944 and 1945, the Beveridge Committee, led by the British economist William Beveridge, developed a proposal for a comprehensive new welfare system of social insurance, means-tested benefits, and unconditional allowances for children. Committee member Lady Rhys-Williams argued that the incomes for adults should be more like a basic income. She was also the first to develop the negative income tax model. Her son Brandon Rhys Williams proposed a basic income to a parliamentary committee in 1982, and soon after that in 1984, the Basic Income Research Group, now the Citizen's Basic Income Trust, began to conduct and disseminate research on basic income.
+
+
+=== Late 20th century ===
+Milton Friedman proposed the idea of a negative income tax (NIT), which effectively sanctioned a basic income for all, in his book Capitalism and Freedom published in 1962. In his 1964 State of the Union address, U.S. President Lyndon B. Johnson introduced legislation to fight the "war on poverty". Johnson believed in expanding the federal government's roles in education and health care as poverty reduction strategies. In this political climate, the idea of a guaranteed income for every American also took root. Notably, a document, signed by 1200 economists, called for a guaranteed income for every American. Six ambitious basic income experiments started up on the related concept of negative income tax. Succeeding President Richard Nixon explained its purpose as "to provide both a safety net for the poor and a financial incentive for welfare recipients to work." Congress eventually approved a guaranteed minimum income for the elderly and the disabled.In the mid-1970s the main competitor to basic income and negative income tax, the Earned income tax credit (EITC), or its advocates, won over enough legislators for the US Congress to pass laws on that policy. In 1986, the Basic Income European Network, later renamed to Basic Income Earth Network (BIEN), was founded, with academic conferences every second year. Other advocates included the green political movement, as well as activists and some groups of unemployed people.In the latter part of the 20th century, discussions were held around automatization and jobless growth, the possibility of combining economic growth with ecologically sustainable development, and how to reform the welfare state bureaucracy. Basic income was interwoven in these and many other debates. During the BIEN academic conferences, there were papers about basic income from a wide variety of perspectives, including economics, sociology, and human rights approaches.
+
+
+=== 21st century ===
+
+In recent years the idea has come to the forefront more than before. The Swiss referendum about basic income in Switzerland 2016 was covered in media worldwide, despite its rejection. Famous business people like Elon Musk, Pierre Omidyar, and Andrew Yang have lent their support, as have high-profile politicians like Jeremy Corbyn and Tulsi Gabbard.In 2019, in California, then-Stockton Mayor Michael Tubbs initiated an 18-month pilot program of guaranteed income for 125 residents as part of the privately funded S.E.E.D. project there.In the 2020 Democratic Party primaries, political newcomer Andrew Yang touted basic income as his core policy. His policy, referred to as a "Freedom Dividend", would have provided adult American citizens US$1,000 a month independent of employment status.On 21 January 2021, in California, the two-year donor-funded Compton Pledge began distributing monthly guaranteed income payments to a "pre-verified" pool of low-income residents, in a program gauged for a maximum of 800 recipients, at which point it will be one of the larger among 25 U.S. cities exploring this approach to community economics.
+Beginning in December 2021, Tacoma, Washington, piloted "Growing Resilience in Tacoma" (GRIT), a guaranteed income initiative that provides $500 a month to 110 families. GRIT is part of the University of Pennsylvania's Center for Guaranteed Income Research larger study. A report on the results of the GRIT experiment will be published in 2024.
+
+
+==== Response to COVID-19 ====
+As a response to the COVID-19 pandemic and related economic impact, universal basic income and similar proposals such as helicopter money and cash transfers were increasingly discussed across the world. Most countries implemented forms of partial unemployment schemes, which effectively subsidized workers' incomes without a work requirement. Around ninety countries and regions including the United States, Spain, Hong Kong, and Japan introduced temporary direct cash transfer programs to their citizens.In Europe, a petition calling for an "emergency basic income" gathered more than 200,000 signatures, and polls suggested widespread support in public opinion for it. Unlike the various stimulus packages of the US administration, the EU's stimulus plans did not include any form of income-support policies.Pope Francis has stated in response to the economic harm done to workers by the pandemic that "this may be the time to consider a universal basic wage".
+
+
+== Basic income vs negative income tax ==
+
+The diagram shows a basic income/negative tax system combined with flat income tax (the same percentage in tax for every income level).
+Y is here the pre-tax salary given by the employer and y' is the net income.
+Negative income tax
+For low earnings, there is no income tax in the negative income tax system. They receive money, in the form of a negative income tax, but they don't pay any tax. Then, as their labour income increases, this benefit, this money from the state, gradually decreases. That decrease is to be seen as a mechanism for the poor, instead of the poor paying tax.
+Basic income
+That is, however, not the case in the corresponding basic income system in the diagram. There everyone typically pays income taxes. But on the other hand, everyone also gets the same amount of basic income.
+But the net income is the same
+But, as the orange line in the diagram shows, the net income is anyway the same. No matter how much or how little one earns, the amount of money one gets in one's pocket is the same, regardless of which of these two systems are used.
+Basic income and negative income tax are generally seen to be similar in economic net effects, but there are some differences:
+
+Psychological. Philip Harvey accepts that "both systems would have the same redistributive effect and tax earned income at the same marginal rate" but does not agree that "the two systems would be perceived by taxpayers as costing the same".: 15, 13 
+Tax profile. Tony Atkinson made a distinction based on whether the tax profile was flat (for basic income) or variable (for NIT).
+Timing. Philippe Van Parijs states that "the economic equivalence between the two programs should not hide the fact that they have different effects on recipients because of the different timing of payments: ex-ante in Basic Income, ex-post in Negative Income Tax".
+
+
+== Perspectives and arguments ==
+
+
+=== Automation ===
+
+One central rationale for basic income is the belief that automation and robotisation could result in technological unemployment, leading to a world with fewer paid jobs. A key question in this context is whether a basic income could help prevent or alleviate such problems by allowing everyone to benefit from a society's wealth, as well as whether a UBI could be a stepping stone to a resource-based or post-scarcity economy.U.S. presidential candidate and nonprofit founder Andrew Yang has stated that automation caused the loss of 4 million manufacturing jobs and advocated for a UBI (which he calls a Freedom Dividend) of $1,000/month rather than worker retraining programs. Yang has stated that he is heavily influenced by Martin Ford. Ford, in his turn, believes that the emerging technologies will fail to deliver a lot of employment; on the contrary, because the new industries will "rarely, if ever, be highly labor-intensive". Similar ideas have been debated many times before in history—that "the machines will take the jobs"—so the argument is not new. But what is quite new is the existence of several academic studies that do indeed forecast a future with substantially less employment, in the decades to come. Additionally, President Barack Obama has stated that he believes that the growth of artificial intelligence will lead to an increased discussion around the idea of "unconditional free money for everyone".
+
+
+=== Economics and costs ===
+Some proponents of UBI have argued that basic income could increase economic growth because it would sustain people while they invest in education to get higher-skilled and well-paid jobs. However, there is also a discussion of basic income within the degrowth movement, which argues against economic growth.Advocates contend that the guaranteed financial security of a UBI will increase the population's willingness to take risks, which would create a culture of inventiveness and strengthen the entrepreneurial spirit.The cost of a basic income is one of the biggest questions in the public debate as well as in the research and depends on many things. It first and foremost depends on the level of the basic income as such, and it also depends on many technical points regarding exactly how it is constructed.
+While opponents claim that a basic income at an adequate level for all citizens cannot be financed, their supporters propose that it could indeed be financed, with some advocating a strong redistribution and restructuring of bureaucracy and administration for this purpose.
+According to the George Gibbs Chair in Political Economy and Senior Research Fellow at the Mercatus Center at George Mason University and nationally syndicated columnist Veronique de Rugy's statements made in 2016, as of 2014, the annual cost of a UBI in the US would have been about $200 billion cheaper than the US system put in place at that date. By 2020, it would have been nearly a trillion dollars cheaper.American economist Karl Widerquist argues that simply multiplying the amount of the grant by the population would be a naive calculation, as this is the gross costs of UBI and does not take into account that UBI is a system where people pay taxes on a regular basis and receive the grant at the same time.According to Swiss economist Thomas Straubhaar, the concept of UBI is basically financeable without any problems. He describes it as "at its core, nothing more than a fundamental tax reform" that "bundles all social policy measures into a single instrument, the basic income paid out unconditionally." He also considers a universal basic income to be socially just, arguing, although all citizens would receive the same amount in the form of the basic income at the beginning of the month, the rich would have lost significantly more money through taxes at the end of the month than they would have received through the basic income, while the opposite is the case for poorer people, similar to the concept of a negative income tax.
+
+
+=== Inflation of labor and rental costs ===
+One of the most common arguments against UBI stems from the upward pressure on prices, in particular for labor and housing rents, which would likely cause inflation. Public policy choices such as rent controls would likely affect the inflationary potential of universal basic income.
+
+
+=== Work ===
+Many critics of basic income argue that people, in general, will work less, which in turn means less tax revenue and less money for the state and local governments. Although it is difficult to know for sure what will happen if a whole country introduces basic income, there are nevertheless some studies who have attempted to look at this question:
+
+In negative income tax experiments in the United States in 1970 there was a five percent decline in the hours worked. The work reduction was largest for second earners in two-earner households and weakest for primary earners. The reduction in hours was higher when the benefit was higher.
+In the Mincome experiment in rural Dauphin, Manitoba, also in the 1970s, there were slight reductions in hours worked during the experiment. However, the only two groups who worked significantly less were new mothers, and teenagers working to support their families. New mothers spent this time with their infant children, and working teenagers put significant additional time into their schooling.
+A study from 2017 showed no evidence that people worked less because of the Iranian subsidy reform (a basic income reform).Regarding the question of basic income vs jobs, there is also the aspect of so-called welfare traps. Proponents of basic income often argue that with a basic income, unattractive jobs would necessarily have to be better paid and their working conditions improved, so that people still do them without need, reducing these traps.
+
+
+=== Philosophy and morality ===
+By definition, universal basic income does not make a distinction between "deserving" and "undeserving" individuals when making payments. Opponents argue that this lack of discrimination is unfair: "Those who genuinely choose idleness or unproductive activities cannot expect those who have committed to doing productive work to subsidize their livelihood. Responsibility is central to fairness."Proponents usually view UBI as a fundamental human right that enables an adequate standard of living which every citizen should have access to in modern society. It would be a kind of foundation guaranteed for everyone, on which one could build and never fall below that subsistence level.
+It is also argued that this lack of discrimination between those who supposedly deserve it and those who don't is a way to reduce social stigma.In addition, proponents of UBI may argue that the "deserving" and "undeserving" categories are a superficial classification, as people who are not in regular gainful employment also contribute to society, e.g. by raising children, caring for people, or doing other value-creating activities which are not institutionalized. UBI would provide a balance here and thus overcomes a concept of work that is reduced to pure gainful employment and disregards sideline activities too much.
+
+
+=== Health and poverty ===
+The first comprehensive systematic review of the health impact of basic income (or rather unconditional cash transfers in general) in low- and middle-income countries, a study that included 21 studies of which 16 were randomized controlled trials, found a clinically meaningful reduction in the likelihood of being sick by an estimated 27%. Unconditional cash transfers, according to the study, may also improve food security and dietary diversity. Children in recipient families are also more likely to attend school and the cash transfers may increase money spent on health care. A 2022 update of this landmark review confirmed these findings based on a grown body of evidence (35 studies, the majority being large randomized controlled trials) and additionally found sufficient evidence that unconditional cash transfers also reduce the likelihood of living in extreme poverty.The Canadian Medical Association passed a motion in 2015 in clear support of basic income and for basic income trials in Canada.
+
+
+== Advocates ==
+
+
+== Pilot programs and experiments ==
+
+Since the 1960s, but in particular, since the late 2000s, several pilot programs and experiments on basic income have been conducted. Some examples include:
+
+
+=== 1960s−1970s ===
+Experiments with negative income tax in the United States and Canada in the 1960s and 1970s.
+The province of Manitoba, Canada experimented with Mincome, a basic guaranteed income, in the 1970s. In the town of Dauphin, Manitoba, labor only decreased by 13%, much less than expected.
+
+
+=== 2000−2009 ===
+The basic income grant in Namibia launched in 2008 and ended in 2009.
+An independent pilot implemented in São Paulo, Brazil launched in 2009.
+
+
+=== 2010−2019 ===
+Basic income trials run in 2011-2012 in several villages in India, whose government has proposed a guaranteed basic income for all citizens. It was found that basic income in the region raised the education rate of young people by 25%.
+Iran introduced a national basic income program in the autumn of 2010. It is paid to all citizens and replaces the gasoline subsidies, electricity, and some food products, that the country applied for years to reduce inequalities and poverty. The sum corresponded in 2012 to approximately US$40 per person per month, US$480 per year for a single person, and US$2,300 for a family of five people.
+In Spain, the ingreso mínimo vital, the income guarantee system, is an economic benefit guaranteed by the social security in Spain, but in 2016 was considered in need of reform.
+In South Korea the Youth Allowance Program was started in 2016 in the City of Seongnam, which would give every 24-year-old citizen 250,000 won (~215 USD) every quarter in the form of a "local currency" that could only be used in local businesses. This program was later expanded to the entire Province of Gyeonggi in 2018.
+The GiveDirectly experiment in a disadvantaged village of Nairobi, Kenya, benefitting over 20,000 people living in rural Kenya, is the longest-running basic income pilot as of November 2017, which is set to run for 12 years.
+A project called Eight in a village in Fort Portal, Uganda, that a nonprofit organization launched in January 2017, which provides income for 56 adults and 88 children through mobile money.
+A two-year pilot the Finnish government began in January 2017 which involved 2,000 subjects In April 2018, the Finnish government rejected a request for funds to extend and expand the program from Kela (Finland's social security agency).
+An experiment in the city of Utrecht, Netherlands launched in early 2017, that is testing different rates of aid.
+A three-year basic income pilot that the Ontario provincial government, Canada, launched in the cities of Hamilton, Thunder Bay and Lindsay in July 2017. Although called basic income, it was only made available to those with a low income and funding would be removed if they obtained employment, making it more related to the current welfare system than true basic income. The pilot project was canceled on 31 July 2018 by the newly elected Progressive Conservative government under Ontario Premier Doug Ford.
+In Israel, in 2018 a non-profit initiative GoodDollar started with an objective to build a global economic framework for providing universal, sustainable, and scalable basic income through the new digital asset technology of blockchain. The non-profit aims to launch a peer-to-peer money transfer network in which money can be distributed to those most in need, regardless of their location, based on the principles of UBI. The project raised US$1 million from a financial company.
+The Rythu Bandhu scheme is a welfare scheme started in the state of Telangana, India, in May 2018, aimed at helping farmers. Each farm owner receives 4,000 INR per acre twice a year for rabi and kharif harvests. To finance the program a budget allocation of 120 billion INR (US$1.55 Billion as of May 2022) was made in the 2018–2019 state budget.
+
+
+=== 2020−present ===
+Swiss non-profit Social Income started paying out basic incomes in the form of mobile money in 2020 to people in need in Sierra Leone. Contributions finance the international initiative from people worldwide, who donate 1% of their monthly paychecks.
+In May 2020, Spain introduced a minimum basic income, reaching about  2% of the population, in response to COVID-19 in order to "fight a spike in poverty due to the coronavirus pandemic". It is expected to cost state coffers three billion euros ($3.5 billion) a year."
+In August 2020, a project in Germany started that gives a 1,200 Euros monthly basic income in a lottery system to citizens who applied online. The crowdsourced project will last three years and be compared against 1,380 people who do not receive basic income.
+In October 2020, HudsonUP was launched in Hudson, New York, by The Spark of Hudson and Humanity Forward Foundation to give $500 monthly basic income to 25 residents. It will last five years and be compared against 50 people who are not receiving basic income.
+In May 2021, the government of Wales, which has devolved powers in matters of Social Welfare within the UK, announced the trialling of a universal basic income scheme to "see whether the promises that basic income holds out are genuinely delivered". From July 2022 over 500 people leaving care in Wales were offered £1600 per month in a 3-year £20 million pilot scheme, to evaluate the effect on the lives of those involved in the hope of providing independence and security to people.
+In July 2022, Chicago began a year-long guaranteed income program by sending $500 a month to 5,000 households for one year in a lottery system to citizens who applied online. A similar program was launched in late 2022 by Cook County, Illinois (which encompasses the entirety of Chicago as well as several suburbs) which sent monthly $500 payments to 3,250 residents with a household income at or below 250% of the federal poverty level for two years.
+In June 2023, The Guardian reported that a universal basic income of £1,600 a month is to be trialled in two places in England – Jarrow and East Finchley.
+
+
+== Payments with similarities ==
+
+
+=== Alaska Permanent Fund ===
+
+The Permanent Fund of Alaska in the United States provides a kind of yearly basic income based on the oil and gas revenues of the state to nearly all state residents. More precisely the fund resembles a sovereign wealth fund, investing resource revenues into bonds, stocks, and other conservative investment options with the intent to generate renewable revenue for future generations. The fund has had a noticeable yet diminishing effect on reducing poverty among rural Alaska Indigenous people, notably in the elderly population. However, the payment is not high enough to cover basic expenses, averaging $1,600 annually per resident in 2019 currency (it has never exceeded $2,100), and is not a fixed, guaranteed amount. For these reasons, it is not always considered a basic income. However, some consider it to be the only example of a real basic income.
+
+
+=== Wealth Partaking Scheme ===
+
+Macau's Wealth Partaking Scheme provides some annual basic income to permanent residents, funded by revenues from the city's casinos. However, the amount disbursed is not sufficient to cover basic living expenses, so it is not considered a basic income.
+
+
+=== Bolsa Família ===
+
+Bolsa Família is a large social welfare program in Brazil that provides money to many low-income families in the country. The system is related to basic income, but has more conditions, like asking the recipients to keep their children in school until graduation. As of March 2020, the program covers 13.8 million families, and pays an average of $34 per month, in a country where the minimum wage is $190 per month.
+
+
+=== Other welfare programs ===
+Pension: A payment that in some countries is guaranteed to all citizens above a certain age. The difference from true basic income is that it is restricted to people over a certain age.
+Child benefit: A program similar to pensions but restricted to parents of children, usually allocated based on the number of children.
+Conditional cash transfer: A regular payment given to families, but only to the poor. It is usually dependent on basic conditions such as sending their children to school or having them vaccinated. Programs include Bolsa Família in Brazil and Programa Prospera in Mexico.
+Guaranteed minimum income differs from a basic income in that it is restricted to those in search of work and possibly other restrictions, such as savings being below a certain level. Example programs are unemployment benefits in the UK, the revenu de solidarité active in France, and citizens' income in Italy.
+
+
+== Petitions, polls and referendums ==
+2008: An official petition for basic income was launched in Germany by Susanne Wiest. The petition was accepted, and Susanne Wiest was invited for a hearing at the German parliament's Commission of Petitions. After the hearing, the petition was closed as "unrealizable".
+2013–2014: A European Citizens' Initiative collected 280,000 signatures demanding that the European Commission study the concept of an unconditional basic income.
+2015: A citizen's initiative in Spain received 185,000 signatures, short of the required number to mandate that the Spanish parliament discuss the proposal.
+2016: The world's first universal basic income referendum in Switzerland on 5 June 2016 was rejected with a 76.9% majority. Also in 2016, a poll showed that 58% of the EU's population is aware of basic income, and 64% would vote in favour of the idea.
+2017: Politico/Morning Consult asked 1,994 Americans about their opinions on several political issues including national basic income; 43% either "strongly supported" or "somewhat supported" the idea.
+2018: The results of a poll by Gallup conducted last year between September and October were published. 48% of respondents supported universal basic income.
+2019: In November, an Austrian initiative received approximately 70,000 signatures but failed to reach the 100,000 signatures needed for a parliamentary discussion. The initiative was started by Peter Hofer. His proposal suggested a basic income sourced from a financial transaction tax, of €1,200, for every Austrian citizen.
+2020: A study by Oxford University found that 71% of Europeans are now in favour of basic income. The study was conducted in March, with 12,000 respondents and in 27 EU-member states and the UK. A YouGov poll likewise found a majority for universal basic income in United Kingdom and a poll by University of Chicago found that 51% of Americans aged 18–36 support a monthly basic income of $1,000. In the UK there was also a letter, signed by over 170 MPs and Lords from multiple political parties, calling on the government to introduce a universal basic income during the COVID-19 pandemic.
+2020: A Pew Research Center survey, conducted online in August 2020, of 11,000 U.S. adults found that a majority (54%) oppose the federal government providing a guaranteed income of $1,000 per month to all adults, while 45% support it.
+2020: In a poll by Hill-HarrisX, 55% of Americans voted in favour of UBI in August, up from 49% in September 2019 and 43% in February 2019.
+2020: The results of an online survey of 2,031 participants conducted in 2018 in Germany were published: 51% were either "very much in favor" or "in favor" of UBI being introduced.
+2021: A Change.org petition calling for monthly stimulus checks in the amount of $2,000 per adult and $1,000 per child for the remainder of the COVID-19 pandemic had received almost 3 million signatures.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Notes ==
+
+
+== Further reading ==
+By date of publication:
+
+Ailsa McKay, The Future of Social Security Policy: Women, Work and a Citizens Basic Income, Routledge, 2005, ISBN 9781134287185
+Karl Widerquist, Independence, Propertylessness, and Basic Income: A Theory of Freedom as the Power to Say No Archived 16 February 2017 at the Wayback Machine, New York, Palgrave Macmillan, March 2013. Early drafts of each chapter are available online for free at this link Archived 13 June 2017 at the Wayback Machine.
+Karl Widerquist, Jose Noguera, Yannick Vanderborght, and Jurgen De Wispelaere (editors). Basic Income: An Anthology of Contemporary Research Archived 14 September 2019 at the Wayback Machine, Oxford: Wiley-Blackwell, 2013.
+Rutger Bregman, Utopia for Realists, De Correspondent, 2014, ISBN 9789082520347
+Nick Srnicek and Alex Williams, Inventing the Future: Postcapitalism and a World Without Work, Verso Books, 2015, ISBN 9781784780968
+Colombino, U. (2015). "Five Crossroads on the Way to Basic Income: An Italian Tour" (PDF). Italian Economic Journal. 1 (3): 353–389. doi:10.1007/s40797-015-0018-3. S2CID 26507450. Archived (PDF) from the original on 29 December 2022. Retrieved 2 September 2019.
+Karl Widerquist, ed., Exploring the Basic Income Guarantee Archived 23 June 2016 at the Wayback Machine, (book series), Palgrave Macmillan.
+Paul O'Brien, Universal Basic Income: Pennies from Heaven, The History Press, 2017, ISBN 978 1 84588 367 6.
+Benjamin M. Friedman, "Born to Be Free" (review of Philippe Van Parijs and Yannick Vanderborght, Basic Income:  A Radical Proposal for a Free Society and a Sane Economy, Harvard University Press, 2017), The New York Review of Books, vol. LXIV, no. 15 (12 October 2017), pp. 39–41.
+Marinescu, Ioana (February 2018). "No Strings Attached: The Behavioral Effects of U.S. Unconditional Cash Transfer Programs". NBER Working Paper No. 24337. doi:10.3386/w24337.
+Ewan McGaughey, 'Will Robots Automate Your Job Away? Full Employment, Basic Income, and Economic Democracy Archived 24 May 2018 at the Wayback Machine' (2018) SSRN Archived 24 May 2018 at the Wayback Machine, part 4(2).
+Andrew Yang, The War on Normal People, Hachette Books, April 3, 2018
+Lowrey, Annie (2018). Give People Money: How a Universal Basic Income Would End Poverty, Revolutionize Work, and Remake the World. Crown. ISBN 978-1524758769.
+David Graeber, Bullshit Jobs, Simon & Schuster, May 2018, ISBN 9781501143311
+Bryce Covert, "What Money Can Buy:  The promise of a universal basic income – and its limitations", The Nation, vol. 307, no. 6 (10 / 17 September 2018), pp. 33–35.
+John Lanchester, "Good New Idea:  John Lanchester makes the case for Universal Basic Income" (discusses 8 books, published between 2014 and 2019, comprehensively advocating Universal Basic Income), London Review of Books, vol. 41, no. 14 (18 July 2019), pp. 5–8.
+
+
+== External links ==
+
+Basic Income Earth Network
+Basic Income India
+Basic Income Lab (BIL)
+Citizen's Basic Income Trust
+Red Humanista por la Renta Básica Universal (in Spanish)
+Unconditional Basic Income Europe
+v:Should universal basic income be established?
+Why we should give everyone a basic income | Rutger Bregman | TEDxMaastricht. TED Talk on YouTube by Rutger Bregman. Uploaded 21 October 2014.

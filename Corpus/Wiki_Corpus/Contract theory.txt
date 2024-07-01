@@ -1,0 +1,333 @@
+From a legal point of view, a contract is an institutional arrangement for the way in which resources flow, which defines the various relationships between the parties to a transaction or limits the rights and obligations of the parties.
+From an economic perspective, contract theory studies how economic actors can and do construct contractual arrangements, generally in the presence of information asymmetry. Because of its connections with both agency and incentives, contract theory is often categorized within a field known as law and economics. One prominent application of it is the design of optimal schemes of managerial compensation. In the field of economics, the first formal treatment of this topic was given by Kenneth Arrow in the 1960s. In 2016, Oliver Hart and Bengt R. Holmström both received the Nobel Memorial Prize in Economic Sciences for their work on contract theory, covering many topics from CEO pay to privatizations. Holmström focused more on the connection between incentives and risk, while Hart on the unpredictability of the future that creates holes in contracts.A standard practice in the microeconomics of contract theory is to represent the behaviour of a decision maker under certain numerical utility structures, and then apply an optimization algorithm to identify optimal decisions. Such a procedure has been used in the contract theory framework to several typical situations, labeled moral hazard, adverse selection and signalling. The spirit of these models lies in finding theoretical ways to motivate agents to take appropriate actions, even under an insurance contract. The main results achieved through this family of models involve: mathematical properties of the utility structure of the principal and the agent, relaxation of assumptions, and variations of the time structure of the contract relationship, among others. It is customary to model people as maximizers of some von Neumann–Morgenstern utility functions, as stated by expected utility theory.
+
+
+== Development and origin ==
+Contract theory in economics began with 1991 Nobel Laureate Ronald H. Coase's 1937 article "The Nature of the Firm". Coase notes that "the longer the duration of a contract regarding the supply of goods or services due to the difficulty of forecasting, then the less likely and less appropriate it is for the buyer to specify what the other party should do." That suggests two points, the first is that Coase already understands transactional behaviour in terms of contracts, and the second is that Coase implies that if contracts are less complete then firms are more likely to substitute for markets. The contract theory has since evolved in two directions. One is the complete contract theory and the other is the incomplete contract theory.
+
+
+=== Complete contract theory ===
+Complete contract theory states that there is no essential difference between a firm and a market; they are both contracts. Principals and agents are able to foresee all future scenarios and develop optimal risk sharing and revenue transfer mechanisms to achieve sub-optimal efficiency under constraints. It is equivalent to principal-agent theory.
+Armen Albert Alchian and Harold Demsetz disagree with Coase's view that the nature of the firm is a substitute for the market, but argue that both the firm and the market are contracts and that there is no fundamental difference between the two. They believe that the essence of the firm is a team production, and that the central issue in team production is the measurement of agent effort, namely the moral hazard of single agents and multiple agents.
+Michael C. Jensen and William Meckling believe that the nature of a business is a contractual relationship. They defined a business as an organisation. Such an organisation, like the majority of other organisations, as a legal fiction whose function is to act as a connecting point for a set of contractual relationships between individuals.
+Mirlees and Holmstrom et al. developed a basic framework for single-agent and multi-agent moral hazard models in a principal-agent framework with the help of the favourable labour tool of game theory.
+Eugene F. Fama et al. extend static contract theory to dynamic contract theory, thus introducing the issue of principal commitment and the agent's reputation effect into long-term contracts.
+Brousseau and Glachant believe that contract theory should include incentive theory，incomplete contract theory and the new institutional transaction costs theory.
+
+
+== Main models of agency problems ==
+
+
+=== Moral hazard ===
+The moral hazard problem refers to the extent to which an employee's behaviour is concealed from the employer: whether they work, how hard they work and how carefully they do so.In moral hazard models, the information asymmetry is the principal's inability to observe and/or verify the agent's action. Performance-based contracts that depend on observable and verifiable output can often be employed to create incentives for the agent to act in the principal's interest.  When agents are risk-averse, however, such contracts are generally only second-best because incentivization precludes full insurance.
+The typical moral hazard model is formulated as follows. The principal solves:
+
+  
+    
+      
+        
+          max
+          
+            w
+            (
+            ⋅
+            )
+          
+        
+        E
+        
+          [
+          
+            y
+            (
+            
+              
+                
+                  e
+                  ^
+                
+              
+            
+            )
+            −
+            w
+            (
+            y
+            (
+            
+              
+                
+                  e
+                  ^
+                
+              
+            
+            )
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \max _{w(\cdot )}E\left[y({\hat {e}})-w(y({\hat {e}}))\right]}
+  subject to the agent's "individual rationality (IR)" constraint,
+
+  
+    
+      
+        E
+        
+          [
+          
+            u
+            (
+            w
+            (
+            y
+            (
+            
+              
+                
+                  e
+                  ^
+                
+              
+            
+            )
+            )
+            )
+            −
+            c
+            (
+            
+              
+                
+                  e
+                  ^
+                
+              
+            
+            )
+          
+          ]
+        
+        ≥
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle E\left[u(w(y({\hat {e}})))-c({\hat {e}})\right]\geq {\bar {u}}}
+  and the agent's "incentive compatibility (IC)" constraint,
+
+  
+    
+      
+        E
+        
+          [
+          
+            u
+            (
+            w
+            (
+            y
+            (
+            
+              
+                
+                  e
+                  ^
+                
+              
+            
+            )
+            )
+            )
+            −
+            c
+            (
+            
+              
+                
+                  e
+                  ^
+                
+              
+            
+            )
+          
+          ]
+        
+        ≥
+        E
+        
+          [
+          
+            u
+            (
+            w
+            (
+            y
+            (
+            e
+            )
+            )
+            )
+            −
+            c
+            (
+            e
+            )
+          
+          ]
+        
+         
+        ∀
+        e
+      
+    
+    {\displaystyle E\left[u(w(y({\hat {e}})))-c({\hat {e}})\right]\geq E\left[u(w(y(e)))-c(e)\right]\ \forall e}
+  ,where 
+  
+    
+      
+        w
+        (
+        ⋅
+        )
+      
+    
+    {\displaystyle w(\cdot )}
+   is the wage for the agent as a function of output 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , which in turn is a function of effort:
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  .
+
+  
+    
+      
+        c
+        (
+        e
+        )
+      
+    
+    {\displaystyle c(e)}
+   represents the cost of effort, and reservation utility is given by 
+  
+    
+      
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {u}}}
+  .
+
+  
+    
+      
+        u
+        (
+        ⋅
+        )
+      
+    
+    {\displaystyle u(\cdot )}
+   is the "utility function", which is concave for the risk-averse agent, is convex for the risk-prone agent, and is linear for the risk-neutral agent.
+If the agent is risk-neutral and there are no bounds on transfer payments, the fact that the agent's effort is unobservable (i.e., it is a "hidden action") does not pose a problem. In this case, the same outcome can be achieved that would be attained with verifiable effort: The agent chooses the so-called "first-best" effort level that maximizes the expected total surplus of the two parties. Specifically, the principal can give the realized output to the agent, but let the agent make a fixed up-front payment. The agent is then a "residual claimant" and will maximize the expected total surplus minus the fixed payment. Hence, the first-best effort level maximizes the agent's payoff, and the fixed payment can be chosen such that in equilibrium the agent's expected payoff equals his or her reservation utility (which is what the agent would get if no contract was written). Yet, if the agent is risk-averse, there is a trade-off between incentives and insurance. Moreover, if the agent is risk-neutral but wealth-constrained, the agent cannot make the fixed up-front payment to the principal, so the principal must leave a "limited liability rent" to the agent (i.e., the agent earns more than his or her reservation utility).
+The moral hazard model with risk aversion was pioneered by Steven Shavell, Sanford J. Grossman, Oliver D. Hart, and others in the 1970s and 1980s. It has been extended to the case of repeated moral hazard by William P. Rogerson and to the case of multiple tasks by Bengt Holmström and Paul Milgrom. The moral hazard model with risk-neutral but wealth-constrained agents has also been extended to settings with repeated interaction and multiple tasks. While it is difficult to test models with hidden action empirically (since there is no field data on unobservable variables), the premise of contract theory that incentives matter has been successfully tested in the field. Moreover, contract-theoretic models with hidden actions have been directly tested in laboratory experiments.
+
+
+=== Example of possible solution to moral hazard ===
+A study on the solution to moral hazard concludes that adding moral sensitivity to the principal–agent model increases its descriptiveness, prescriptiveness, and pedagogical usefulness because it induces employees to work at the appropriate effort for which they receive a wage. The theory suggests that as employee work efforts increase, so proportional premium wage should increases also to encourage productivity.
+
+
+=== Adverse selection ===
+In adverse selection models, the principal is not informed about a certain characteristic of the agent at the time the contract is written. The characteristic is called the agent's "type". For example, health insurance is more likely to be purchased by people who are more likely to get sick. In this case, the agent's type is his or her health status, which is privately known by the agent. Another prominent example is public procurement contracting: The government agency (the principal) does not know the private firm's cost. In this case, the private firm is the agent and the agent's type is the cost level.In adverse selection models, there is typically too little trade (i.e., there is a so-called "downward distortion" of the trade level compared to a "first-best" benchmark situation with complete information), except when the agent is of the best possible type (which is known as the "no distortion at the top" property). The principal offers a menu of contracts to the agent; the menu is called "incentive-compatible" if the agent picks the contract that was designed for his or her type. In order to make the agent reveal the true type, the principal has to leave an information rent to the agent (i.e., the agent earns more than his or her reservation utility, which is what the agent would get if no contract was written). Adverse selection theory has been pioneered by Roger Myerson, Eric Maskin, and others in the 1980s. More recently, adverse selection theory has been tested in laboratory experiments and in the field.Adverse selection theory has been expanded in several directions, e.g. by endogenizing the information structure (so the agent can decide whether or not to gather private information) and by taking into consideration social preferences and bounded rationality.
+
+
+=== Signalling ===
+In signalling models, one party chooses how and whether or not to present information about itself to another party to reduce the information asymmetry between them. In signaling models, the signaling party agent and the receiving party principal have access to different information. The challenge for the receiving party is to decipher the credibility of the signaling party so as to assess their capabilities. The formulation of this theory began in 1973 by Michael Spence through his job-market signaling model. In his model, job applicants are tasked with signalling their skills and capabilities to employers to reduce the probabilities for the employer to choose a lesser qualified applicant over a qualified applicant. This is because potential employers lack the knowledge to discern the skills and capabilities of potential employees.
+
+
+== Incomplete contracts ==
+Contract theory also utilizes the notion of a complete contract, which is thought of as a contract that specifies the legal consequences of every possible state of the world.  More recent developments known as the theory of incomplete contracts, pioneered by Oliver Hart and his coauthors, study the incentive effects of parties' inability to write complete contingent contracts. In fact, it may be the case that the parties to a transaction are unable to write a complete contract at the contract stage because it is either difficult to reach an agreement to get it done or it is too expensive to do so, e.g. concerning relationship-specific investments. A leading application of the incomplete contracting paradigm is the Grossman-Hart-Moore property rights approach to the theory of the firm (see Hart, 1995).
+Because it would be impossibly complex and costly for the parties to an agreement to make their contract complete, the law provides default rules which fill in the gaps in the actual agreement of the parties.
+During the last 20 years, much effort has gone into the analysis of dynamic contracts.  Important early contributors to this literature include, among others, Edward J. Green, Stephen Spear, and Sanjay Srivastava.
+
+
+== Expected utility theory ==
+Much of contract theory can be explained through expected utility theory. This theory indicates that individuals will measure their choices based on the risks and benefits associated with a decision. A study analyzed that agents' anticipatory feelings are  affected by uncertainty. Hence why principals need to form contracts with agents in the presence of information asymmetry to more clearly understand each party's motives and benefits.
+
+
+== Examples of contract theory ==
+George Akerlof described adverse selection in the market for used cars.
+In certain models, such as Michael Spence's job-market model, the agent can signal his type to the principal which may help to resolve the problem.
+Leland and Pyle's (1977) IPO theory for agents (companies) to reduce adverse selection in the market by always sending clear signals before going public.
+
+
+== Incentive Design ==
+In the contract theory, the goal is to motivate employees by giving them rewards. Trading on service level/quality, results, performance or goals. It can be seen that reward determines whether the incentive mechanism can fully motivate employees.In view of the large number of contract theoretical models, the design of compensation under different contract conditions is different.
+
+
+=== Rewards on Absolute Performance and Relative Performance ===
+Absolute performance-related reward: The reward is in direct proportion to the absolute performance of employees.
+Relative performance-related reward: The rewards are arranged according to the performance of the employees, from the highest to the lowest.Absolute performance-related reward is an incentive mechanism widely recognized in economics in the real society, because it provides employees with the basic option of necessary and effective incentives. But, absolute performance-related rewards have two drawbacks.
+
+There will be people who cheat
+Vulnerable to recessions or sudden growth
+
+
+=== Design contracts for multiple employees ===
+Considering absolute performance-related compensation is a popular way for employers to design contracts for more than one employee at a time, and one of the most widely accepted methods in practical economics.
+There are also other forms of absolute rewards linked to employees' performance. For example, dividing employees into groups and rewarding the whole group based on the overall performance of each group. But one drawback of this method is that some people will fish in troubled waters while others are working hard, so that they will be rewarded together with the rest of the group. It is better to set the reward mechanism as the competitive competition, and obtain higher rewards through better performance.
+
+
+== See also ==
+Agency cost
+Allocative efficiency
+Clawback
+Complete contract
+Contract
+Contract awarding
+Default rule
+Incomplete contracts
+Mechanism design
+New institutional economics
+Perverse incentive
+
+
+== References ==
+
+
+== External links ==
+Bolton, Patrick and Dewatripont, Mathias,  2005.: Contract Theory. MIT Press. Description and preview.
+Laffont, Jean-Jacques, and David Martimort, 2002. The Theory of Incentives: The Principal-Agent Model. Description, "Introduction," & down for chapter links. (Princeton University Press, 2002)
+Martimort, David, 2008. "contract theory," The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.
+Salanié, Bernard, 1997. The Economics of Contracts: A Primer. MIT Press, Description (2nd ed., 2005) and chapter-preview links.

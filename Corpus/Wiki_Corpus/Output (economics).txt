@@ -1,0 +1,171 @@
+Output in economics is the "quantity (or quality) of goods or services produced in a given time period, by a firm, industry, or country", whether consumed or used for further production.
+The concept of national output is essential in the field of macroeconomics. It is national output that makes a country rich, not large amounts of money.
+
+
+== Definition ==
+Output is the result of an economic process that has used inputs to produce a product or service that is available for sale or use somewhere else.
+Net output, sometimes called netput is a quantity, in the context of production, that is positive if the quantity is output by the production process and negative if it is an input to the production process.
+
+
+== Microeconomics ==
+
+
+=== Output condition ===
+The profit-maximizing output condition for producers equates the relative marginal cost of any two goods to the relative selling price of those goods; i.e.
+
+  
+    
+      
+        
+          
+            
+              M
+              
+                C
+                
+                  1
+                
+              
+            
+            
+              M
+              
+                C
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              P
+              
+                1
+              
+            
+            
+              P
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {MC_{1}}{MC_{2}}}={\frac {P_{1}}{P_{2}}}}
+  
+One may also deduce the ratio of marginal costs as the slope of the production–possibility frontier, which would give the rate at which society can transform one good into another.
+
+
+== Macroeconomics ==
+
+
+=== Relation to income ===
+When a particular quantity of output is produced, an identical quantity of income is generated because the output belongs to someone. Thus we have the identity that output equals income (where an identity is an equation that is always true regardless of the values of any variables).
+Output can be sub-divided into components based on whose demand has generated it – total consumption C by members of the public (including on imported goods) minus imported goods M (the difference being consumption of domestic output), spending G by the government, domestically produced goods X bought by foreigners, planned inventory accumulation Iplanned inven, unplanned inventory accumulation Iunplanned inven resulting from incorrect predictions of consumer and government demand, and fixed investment If on machinery and the like.
+Likewise, income can be sub-divided according to the uses to which it is put – consumption spending, taxes T paid, and the portion of income neither taxed nor spent (saving S).
+Since output identically equals income, the above leads to the following identity:
+
+  
+    
+      
+        C
+        +
+        
+          I
+          
+            planned inven
+          
+        
+        +
+        
+          I
+          
+            unplanned inven
+          
+        
+        +
+        
+          I
+          
+            f
+          
+        
+        +
+        G
+        +
+        X
+        −
+        M
+        ≡
+        C
+        +
+        S
+        +
+        T
+        ,
+      
+    
+    {\displaystyle C+I_{\text{planned inven}}+I_{\text{unplanned inven}}+I_{f}+G+X-M\equiv C+S+T,}
+  where the triple-bar sign denotes an identity. This identity is distinct from the goods market equilibrium condition, which is satisfied when unplanned inventory investment equals zero:
+
+  
+    
+      
+        C
+        +
+        
+          I
+          
+            planned inven
+          
+        
+        +
+        
+          I
+          
+            f
+          
+        
+        +
+        G
+        +
+        X
+        −
+        M
+        =
+        C
+        +
+        S
+        +
+        T
+        .
+      
+    
+    {\displaystyle C+I_{\text{planned inven}}+I_{f}+G+X-M=C+S+T.}
+  Output is the result of an economic process that has used inputs to produce a product or service that is available for sale or use somewhere else.
+Net output, sometimes called netput, is a quantity, in the context of production, that is positive if the quantity is output by the production process and negative if it is an input to the production process.
+
+
+=== Fluctuations in output ===
+In macroeconomics, the question of why national output fluctuates is a very critical one. And though no consensus has developed, there are some factors which economists agree make output go up and down.
+If we take growth into consideration, then most economists agree that there are three basic sources for economic growth: an increase in labour usage, an increase in capital usage and an increase in effectiveness of the factors of production.
+Just as increases in usage or effectiveness of factors of production can cause output to go up, anything that causes labour, capital or their effectiveness to go down will cause a decline in output or at least a decline in its rate of growth.
+
+
+== International economics ==
+
+
+=== Exchange of output among nations ===
+Exchange of output between two countries is a very common occurrence, as there is always trade taking place between different nations of the world. For example, Japan may trade its electronics with Germany for German-made cars. If the value of the trades being made by both the countries is equal at that point of time, then their trade accounts would be balanced: the exports would be exactly equal to imports in both the countries.
+
+
+== See also ==
+
+
+== Notes ==

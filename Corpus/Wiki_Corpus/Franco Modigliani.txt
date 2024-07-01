@@ -1,0 +1,65 @@
+Franco Modigliani (18 June 1918 – 25 September 2003) was an Italian-American economist and the recipient of the 1985 Nobel Memorial Prize in Economics. He was a professor at University of Illinois at Urbana–Champaign, Carnegie Mellon University, and MIT Sloan School of Management.
+
+
+== Early life and education ==
+Modigliani was born on 18 June 1918 in Rome to the Jewish family of a pediatrician father and a voluntary social worker mother.He entered university at the age of seventeen, enrolling in the faculty of Law at the Sapienza University of Rome. In his second year at Sapienza, his submission to a nationwide contest in economics sponsored by the official student organization of the state, won first prize and Modigliani received an award from the hand of Benito Mussolini. 
+He wrote several essays for the fascist magazine Lo Stato where he showed an inclination for the fascist ideological currents critical of liberalism.Among his early works in Fascist Italy was an article about the organization and management of production in a socialist economy, written in Italian and arguing the case for socialism along lines laid out by earlier market socialists like Abba Lerner and Oskar Lange.But, that early enthusiasm evaporated soon after the passage of racial laws in Italy. In 1938, Modigliani left Italy for Paris together with his then-girlfriend, Serena Calabi, to join her parents there. After briefly returning to Rome to discuss his laurea thesis at the city's university, he obtained his diploma on 22 July 1939, and returned to Paris.The same year, they all immigrated to the United States and he enrolled at the Graduate Faculty of the New School for Social Research. His Ph.D. dissertation, an elaboration and extension of John Hicks' IS–LM model, was written under the supervision of Jacob Marschak and Abba Lerner, in 1944, and is considered "ground breaking."
+
+
+== Career ==
+From 1942 to 1944, Modigliani taught at Columbia University and Bard College as an instructor in economics and statistics. In 1946, he became a naturalized citizen of the United States. In 1948, he joined the University of Illinois at Urbana–Champaign faculty. From 1952 to 1962, he was a member of the Carnegie Mellon University faculty.In 1962, he joined the faculty of MIT, as an Institute Professor.
+
+
+== Contributions to economic theory ==
+Modigliani, beginning in the 1950s, was an originator of the life-cycle hypothesis, which attempts to explain the level of saving in the economy. The hypothesis that consumers aim for a stable level of consumption throughout their lifetime (for example by saving during their working years and then spending during their retirement).
+The rational expectations hypothesis is considered by economists to originate in the  paper written by Modigliani and Emile Grunberg in 1954.When he was a member of the Carnegie Mellon University faculty, he formulated in 1958, along with Merton Miller, the Modigliani–Miller theorem for corporate finance. The theorem posits that, under certain assumptions, the value of a firm is not affected by whether it is financed by equity (selling shares) or by debt (borrowing money), meaning that the debt-to-equity ratio is unimportant for private firms.In the early 1960s, his response, co-authored with Albert Ando, to the 1963 paper of Milton Friedman and David I. Meiselman, initiated the so-called "monetary/fiscal policy debate" among economists, which went on for more than sixty years.In 1975, Modigliani, in a paper whose co-author was his former student Lucas Papademos, introduced the concept of the "NIRU", the non-inflationary rate of unemployment, ostensibly an improvement over the "natural rate of unemployment" concept. The terms refer to a level of unemployment below which inflation rises.In 1997, Modigliani and his granddaughter, Leah Modigliani, developed what is now called the "Modigliani Risk-Adjusted Performance," a measure of the risk-adjusted returns of an investment portfolio that was derived from the Sharpe ratio, adjusted for the risk of the portfolio relative to that of a benchmark, e.g. the "market."
+
+
+== Appointments and awards ==
+In October 1985, Modigliani was awarded the Nobel prize in Economics "for his pioneering analyses of saving and of financial markets."In 1985, Modigliani received MIT's James R. Killian Faculty Achievement Award. In 1997, he received an honoris causa degree in Management Engineering from the University of Naples Federico II in 1997.
+Late in his life, Modigliani became a trustee of the Economists for Peace and Security organization, formerly "Economists Allied for Arms Reduction" and was considered an "influential adviser": in the late 1960s, on a contract with the Federal Reserve, he designed the "MIT-Pennsylvania-Social Science Research Council" model, a tool that "guided monetary policy in Washington for many decades."A collection of Modigliani's papers is housed at Duke University's Rubenstein Library.
+
+
+== Criticism ==
+Modigliani's work on fiscal policy came under criticism from followers of Post-Keynesian economics, who disputed the "Keynesianism" of his viewpoints, pointing out his contribution to the NAIRU concept, as well as his general stance on fiscal deficits. The Modigliani-Miller theorem implies that, for a closed economy, state borrowing is merely deferred taxation, since state spending can be financed only by "printing money", taxation, or borrowing, and therefore monetary financing of state spending implies the subsequent imposition of a so-called "inflation tax," which ostensibly has the same effect on permanent income as explicit taxation.Nonetheless, they acknowledged his dissenting voice on the issue of unemployment, in which Modigliani concurred early on with heterodox economists that Europe-wide unemployment in the late 20th century was caused by the lack of demand induced by austerity policies.
+
+
+== Personal life ==
+In 1939, while they were in Paris, Modigliani married  Serena Calabi. They had two children, Andre and Sergio Modigliani.
+Modigliani died in Cambridge, Massachusetts, in 2003, while still working at MIT, and teaching until the last months of his life. He was 85. Serena Modigliani-Calabi, active to the end in progressive politics, most notably with the League of Women Voters, and an outspoken believer in participatory democracy, died in 2008.
+
+
+== Selected bibliography ==
+
+
+=== Books ===
+Modigliani, Franco; Abel, Andrew B.; Johnson, Simon (1980). The Collected Papers of Franco Modigliani. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-13150-6.
+Modigliani, Franco; Fabozzi, Frank J. (1996). Capital Markets: Institutions and Instruments. Upper Saddle River, New Jersey: Prentice Hall. ISBN 978-0-13-300187-7.
+Modigliani, Franco; Fabozzi, Frank J.; Ferri, Michael G. (1998). Foundations of Financial Markets and Institutions. Upper Saddle River, New Jersey: Prentice Hall. ISBN 978-0-13-686056-3.
+Modigliani, Franco (2001). Adventures of an Economist. London, New York: Texere. ISBN 978-1-58799-007-6.
+Modigliani, Franco; Muralidhar, Arun (2004). Rethinking Pension Reform (PDF). London: Cambridge University Press. ISBN 978-0-521-83411-7.
+
+
+=== Articles ===
+Modigliani, Franco (1944). "Liquidity Preference and the Theory of Interest and Money". Econometrica. 12 (1): 45–88. doi:10.2307/1905567. JSTOR 1905567.
+Modigliani, Franco (1998). "Lessons learned from Barbara". Feminist Economics. 4 (3): 143–144. doi:10.1080/135457098338347.
+
+
+== See also ==
+Piero Sraffa
+List of Jewish Nobel laureates
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+"Franco Modigliani (1918–2003)". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Modigliani works, IDEAS/RePEc
+Appearances on C-SPAN
+"What influences our likelihood to save?", Union Bank of Switzerland website, with filmed interviews by Franco Modigliani
+Franco Modigliani on Nobelprize.org

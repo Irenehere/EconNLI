@@ -1,0 +1,144 @@
+The Universities and Colleges Admissions Service (UCAS ) is a charity and private limited company based in Gloucestershire, England, which provides educational support services. Incorporated on 27 July 1993, the company's main role is to operate the application process for British universities and colleges. The company is funded by fees charged to applicants and universities as well as advertising income; it was formed by the merger of the former university admissions system Universities Central Council on Admissions and the former polytechnics admissions system Polytechnics Central Admissions System.
+Services provided by UCAS include several online application portals, several search tools, and free information and advice directed at various audiences, including students considering higher education, students with pending applications to higher education institutes, parents and legal guardians of applicants, school and further education college staff involved in helping students apply and providers of higher education (universities and HE colleges).
+While UCAS is best known for its undergraduate application service (the main UCAS scheme), it also operates a number of other admissions services:
+
+UCAS Conservatoires - application and search service for performing arts at the UK conservatoire
+UCAS Teacher Training (UTT) – for postgraduate teacher training schemes
+UCAS Postgraduate – application and search facility for some postgraduate courses
+
+
+== Location ==
+UCAS is based near Marle Hill in Cheltenham at the junction of the B4075 (New Barn Lane) and the A435 (Evesham Road), near Cheltenham Racecourse and a park and ride. It is situated just inside the parish of Prestbury, Gloucestershire.
+
+
+== History ==
+UCAS was formed in 1992 by the merger of Universities Central Council on Admissions (UCCA) and Polytechnics Central Admissions System (PCAS) and the name UCAS is a contraction of the former acronyms UCCA and PCAS. An early proposal was made for the new merged body to be called PUCCA (Polytechnics and Universities Central Council on Admissions), but this was never adopted.UCCA was the older of the two bodies, having been formed in 1961 to provide a clearing house for university applications in the United Kingdom. It was created in response to concerns during the 1950s that the increase in University applications was unmanageable using the systems then in place, where each student applied individually to as many institutions as they chose. This concern led to the Committee of Vice-Chancellors and Principals (CVCP) setting up an ad hoc committee in 1957 to review the matter; this committee in its Third Report of January 1961, recommended the setting up of a central agency, which subsequently became known as UCCA. Its First and Second Reports had already made several recommendations aimed at harmonising admissions procedures across different universities.The name UCCA referred originally to the management board (the Central Council) overseeing the new process but soon came to refer to the organisation responsible for its day-to-day operation. This was based initially in London, and moved to Cheltenham, Gloucestershire in 1968. The new scheme had a pilot year handling a subset of applications for entry in 1963, and its first full year of operation handled admissions for 1964.The scheme was essentially a collaborative venture between independent universities, and membership was voluntary. Most English universities joined from the start. Oxford and Cambridge joined (with slightly modified procedures) for the 1966 entry; the London medical and dental schools, as well as Belfast and Stirling for the 1967. In 1965, UCCA handled 80,033 applicants, rising to 114,289 in 1969. The acceptance rate of UCCA applicants by universities in 1969 stood at just over 50%.Initially, the processing of applications was carried out using punched card technology. In 1964, UCCA started using the services of a computer bureau with a Univac machine; in 1967 it installed its own Univac computer.
+Although the polytechnics were degree-teaching institutions, through the CNAA awards system, they were not eligible for admission to UCCA as it was reserved only for universities with degree-awarding powers. Despite this, the Polytechnics were involved as early as 1972 in discussions with UCCA and the Central Register and Clearing House about the possible future shape of one or more admissions systems. At this stage applicants dealt directly with each individual polytechnic, and the polytechnics themselves were strongly regional or local in their appeal. A study in 1977 found that between sixty and seventy per cent of those admitted to a polytechnic had applied to that institution only, and that forty percent of admissions to polytechnics resulted from applications made in August or September of the year of entry.In 1983 the Committee of Directors of Polytechnics began negotiations with UCCA to share its computing, technical and office facilities in Cheltenham to establish a course entrance system, based on the existing model used by UCCA. A grant of £210,000, from the British Department for Education and Science, was awarded to set up a new unified admissions system, provisionally called PUCCA. However, instead of a unified system for both the universities and polytechnics, a separate system for polytechnics emerged from the negotiations, modelled on UCCA, but known as PCAS. Applicants to courses were given the option to apply separately for universities or polytechnics, or both.
+The PCAS system came into effect in 1985. It was led by its first Chief Executive, Tony Higgins, and in the first year it handled around 140,000 applications to polytechnic courses, of whom 40,000 a year went on to study at polytechnics.Although many polytechnics offered art and design programmes, and some also offered teacher training courses, these admissions systems remained outside PCAS. Art and Design admissions worked to a later timetable as a result of the role Art Foundation courses had in developing a student's proposed specialism (painting, sculpture, graphic design, and so on).  Work was furthermore generally submitted before a decision was made on whether to interview. However, means of absorbing the Art and Design Admissions Registry into UCAS were found by 1996.Although the aim to create a fully unified application system for universities and polytechnics was not achieved until 1994,  from the '80s onwards Tony Higgins, the Chief Executive of PCAS, continued to push for the merger of PCAS with UCCA. In 1992, following the change of status and name of most polytechnics to universities, the two bodies combined under Higgins's leadership. Initially the application form was branded jointly UCCA/PCAS, but in 1994 the new merged body was officially renamed UCAS.In 2015, the Amsterdam Fashion Academy became the first non-UK educational establishment admitted to UCAS.
+
+
+== Undergraduate admissions schemes ==
+
+
+=== Main undergraduate scheme ===
+Since the vast majority of UK universities and higher education colleges use the UCAS service, most students planning to study for an undergraduate degree in the UK must apply through UCAS – including home students and international students.
+
+
+==== Application ====
+To apply to university, students must submit a single application via UCAS's online Apply service. The application itself requires the student to register to the service, giving a "buzzword" if applying through a centre, fill in personal details, write a personal statement and choose up to five courses to apply to, in no order of preference. They must then pay an application fee and obtain a reference before submitting their application online by the appropriate deadline. The application is then forwarded by UCAS to the universities and colleges that the students have applied to. After following their internal policies, which may include an interview, the institutions then decide whether to make students an offer of a place. An institution can make a student either an unconditional offer, where the student is assured a place, or a conditional offer, where the student will receive a place subject to specific grades being met. In certain circumstances, the university may withdraw the application before interviews, though this usually only occurs by some action on the applicant's part (not replying to emails in time for example).
+For applications to universities in the UK, entry requirements for individual courses can either be based on grades of qualifications (e.g. AAA at GCE A-Level, a score of 43/45 in the IB International Baccalaureate Diploma, or a music diploma) or in UCAS points (e.g. 300 UCAS points from 3 A-Levels or an IB score equal to 676 UCAS points). To convert individual scores or grades of specific qualifications into UCAS points, UCAS has created tariff tables indicating indexes and ratios of UCAS points and results of qualifications. For example, an A* at A-level is worth 56 UCAS points, an A 48, a B 40, and so on. For the IB, a score of 45 equals 720 UCAS points, a score of 40 is 611 points, a score of 35 is 501 etc.
+
+
+==== Personal details ====
+Once logged into "Apply", applicants complete a number of personal details – including their current qualifications, employment, and criminal history, national identity, ethnic origin, and student finance arrangements. Applicants also have the option to declare if they have any individual needs – such as any disabilities; or if they are a care leaver.
+
+
+==== Personal statements ====
+The personal statement is an integral part of the application. It gives candidates a chance to write about their achievements, their interest in the subject they are applying for, as well as their suitability, interest, and commitment to higher education. Personal statements can contain a maximum of 4,000 characters (including spaces) or 47 lines – whichever comes first, with a maximum of 94 characters per line. A research study conducted by UCAS with over 300,000 personal statements of students revealed that the personal statement (among the student's grades) is the most important part within the application process. Plagiarism in personal statements is common and UCAS uses Copycatch software to detect personal statements that are considered to have 30% or more "similarity" to statements submitted by others. The free-form nature of the application also lead some applications to complete the essay in an absurdist manner.Due to being viewed by some as being rooted in class bias, UCAS began phasing out the statement in 2023, with the college class of 2025 being the last one mandated to complete it.
+
+
+==== Application fees and references ====
+The final part of the process involves paying an application fee and obtaining a written reference. The process varies depending on whether a student is applying through a school, college, or UCAS centre or as an individual.
+For the former, applications are sent to the school, college, or centre, who may ask applicants to pay their fee to them (which they then pass to UCAS) or pay UCAS directly, before they provide a reference and submit the form on the student's behalf. If applications are sent to the school, college, or centre, then they will attach a reference to send to UCAS. Applicants are responsible for ensuring that their school, college, or centre submits the application before the appropriate deadline for their courses.
+Individual applicants should request their reference – from a teacher, adviser, or professional who knows them – before paying the fee and submitting the form themselves.
+For most current applications, the cost per student is £22 to apply for a single course or £26.50 for two or more courses (as of 2022 entry).
+
+
+==== Application deadlines ====
+Depending on the subject and on the university that they are applying for, candidates must submit their application by the relevant submission deadline to ensure their application is given "equal consideration" by the higher education providers they are applying to. The term "equal consideration" refers to the obligation on all course providers to "consider all applications received by this time equally".
+15 October deadline: Those applying for medicine, dentistry, and veterinary science courses and anyone applying to the universities of Oxford and Cambridge must submit their UCAS applications by 15 October – in the year before the student wishes to start their studies.
+25 January deadline (in 2023): The majority of applications must be submitted by 6 p.m. on 25 January (in the calendar year that the student wishes to begin their studies).
+24 March deadline: Some art and design courses have a later application deadline – 24 March – to give applicants time to complete their portfolios.It is possible for students to submit applications up until 30 June each year; but a late submission may not be given the same consideration as those submitted before the deadline. Applications received after 30 June are placed directly into Clearing.
+
+
+==== Offers ====
+Students must adhere to the appropriate deadline for their course. Whilst UCAS advises universities and colleges to send their decisions by the end of March, the universities have the responsibility of responding to applicants and may operate in their timescale. Many universities (like the University of Oxford and the University of Cambridge) require that applicants come to an interview before offers are received, or they may be asked to submit an additional piece of work before receiving an offer.
+Offers are made through the UCAS Track service by universities and are either unconditional or conditional, where the latter means that the student will receive a place dependent on exam performance. Applicants also find out if they have been rejected through UCAS Track.
+Once an applicant has received a reply from their choices, they must reply to their university before the deadline in May. Applicants normally choose two offers through UCAS, one as their firm choice and one as their insurance choice. A firm choice means that, if the student receives the grades required, then the student's conditional offer will be confirmed. An insurance choice means that, if the firm choice is a university that eventually rejects them due to their grades, then the student will get into that university if they have met the terms and conditions of the insurance choice's conditions. A student may only make an insurance choice if their firm choice is a conditional offer.
+Certain universities have engaged in the dubious practice of making a "conditional unconditional" offer, meaning that a student was advised by the university that they would get an unconditional offer (and not then need to meet grade targets), but only if they made that university their firm choice. This served to guarantee both that the student would have a place and that the place would not be turned down if the student hit the grades required for a better or preferred course. This practice was temporarily banned at the height of the COVID-19 pandemic and the UK government discourages universities from giving out these offers.
+
+
+==== Extra ====
+If an applicant uses all of their five choices and does not receive any offers, or they decide to decline the offers they receive, they can apply for additional courses using UCAS' Extra service. This allows them to keep applying, one course at a time until they receive an offer they're happy with. Extra runs between mid-February and the end of June. If they do not receive an offer during this time, they have the option to enter into Clearing when it opens in July.
+
+
+==== Confirmation and clearing ====
+When applicants receive their examination results, they will know if they have met the conditions of their firm and insurance choices. Universities give out unconditional offers and rejections when applicants receive their examination results.
+Those that do have their offers confirmed are invited to accept a place on the course they applied to, which is called "confirmation". Many universities and colleges still accept students that narrowly miss their offer conditions.
+Those that do not meet their "firm" and "insurance" offer conditions are eligible to use UCAS' Clearing service – which enables unplaced students to apply for courses with vacancies directly to the university. They do so by searching for an available course, using the UCAS search tool, and contacting each university or college concerned for a place.
+Although most available places are published following results days in August, it opens at the start of July each year and closes in October.
+
+
+==== Adjustment ====
+Through what was known as "Adjustment", if applicants exceeded the conditions of their firm offer, they had the option to search for a place at another university or college while retaining their original offer. Adjustment was cancelled in 2022 and is no longer available.
+
+
+=== UCAS Conservatoires – performing arts scheme ===
+UCAS operates Conservatoires UK Admissions Service (formally known as CUKAS) in conjunction with Conservatoires UK, managing applications for both undergraduate and postgraduate music, dance, and drama courses at nine UK conservatoires:
+
+Guildhall School of Music and Drama, London
+Leeds Conservatoire
+Royal Academy of Music, London
+Royal Birmingham Conservatoire (part of Birmingham City University)
+Royal College of Music, London
+Royal Northern College of Music, Manchester
+Royal Conservatoire of Scotland, Glasgow
+Royal Welsh College of Music & Drama, Cardiff
+Trinity Laban Conservatoire of Music and Dance, LondonStudents must apply through the online CUKAS service by:
+
+1 October – for most music courses
+15 January – for most undergraduate dance, drama, and screen production courses
+
+
+== UCAS postgraduate admissions schemes ==
+
+
+=== UTT – postgraduate teacher training ===
+UCAS Teacher Training (UTT) is an application service for postgraduates that want to become teachers. UTT replaced UCAS' previous GTTR teacher training application service and expanded its remit to provide centralised admissions for School Direct and school-centred initial teacher training (SCITT) programs.
+UTT programmes are either university/college-taught or school-based and typically last for one academic year; usually leading to a PGCE qualification.
+Students begin their application in the autumn for programmes starting in the following academic year. They start by using Apply 1 – which allows them to choose up to three programmes. Training providers then have 40 working days to make an offer. During this time they will invite candidates they're considering offering a place for an interview. At the end of the 40-day period, students will have responses from their three choices and will have 10 working days to reply to any offers.
+However, if students don't get offered a place using Apply 1, or they choose to decline all of the offers they receive, they can use Apply 2 to apply for new places, adding one choice at a time, until they receive an offer. 
+
+Apply 1 opens on 21 November each year
+Apply 2 opens on 2 January each year
+
+
+=== UCAS Postgraduate – postgraduate admissions scheme ===
+UCAS Postgraduate (also known as UK PASS) is UCAS' postgraduate admissions service. It was introduced with the objective to offer students access to over 20,000 courses at 18 participating universities and colleges in England, Scotland and Wales – both taught and research courses leading to a variety of qualifications – including MA, MSc, MBA, and LLM.
+
+
+== Other schemes ==
+
+
+=== UCAS Progress – post-16 education and training admissions scheme ===
+UCAS has launched UCAS Progress, a service enabling GCSE students to search and apply for post-16 work and education-based training courses – including academic and vocational courses (such as A levels and BTECs), as well as Apprenticeship and Traineeship programmes.The scheme is free for students to use and is implemented as a national service – listing post-16 opportunities from all across the UK.
+UCAS Progress also helps schools, colleges, and local authorities address recruitment issues and statutory obligations resulting from raising the age of participation in secondary education; an initiative that legally obliges students to remain in full-time education or work-based training until the end of the academic year that they turn 17. However, this is about to change after government reforms; when students will be required to remain in education or training until their 18th birthday.
+
+
+== UCAS Media ==
+UCAS Media is a commercial enterprise that raises money by offering commercial organisations and education providers a channel to communicate with prospective students: in effect, it sells targeted advertising space. UCAS is a non-governmental and not-for-profit company. UCAS undergraduate admissions handled almost three million applications from 700,000 UK, EU and international students.
+UCAS Media does not disclose information about applicants to its advertising clients. However, it does send advertisements to applicants on behalf of its clients and can target specific groups such as 'early adopters' or those located in a specific location.
+All UCAS Media profits are fed back into the UCAS charity, much of which is gift aided. This reduces the fees paid by universities and by applicants for access to the UCAS service.
+
+UCAS Media has proven controversial among data privacy campaigners. In 2014 deputy director of Big Brother Watch, Emma Carr was quoted as saying: "UCAS is perfectly within the law to sell on this information, but the way they are doing so, as is the situation with most data gathering organisations, is underhand. It goes far beyond what students would expect them to do with their data. Students should be explicitly asked for their permission before UCAS can sell their information on and UCAS should be open and transparent about who it is selling the data on to."
+In 2019, Martin Lewis, the consumer finance expert, accused UCAS of abusing its position after it allowed a private debt company to promote high interest commercial loans to school leavers. UCAS had sent an email promoting loans by Future Finance, with interest rates of up to 23.7%, well above the current maximum of 5.4% on student loans and worse than most high street credit cards. In response, UCAS said: “UCAS is an independent charity ... This helps us to keep the costs for students applying to university as low as possible.”
+
+
+== See also ==
+Common Application, USA and some colleges in Europe
+HELOA
+JUPAS
+List of UCAS institutions
+Universities' Statistical Record
+
+
+== References ==
+
+
+== External links ==
+Official website
+UCAS Tariff points ("UCAS points") table
+UK university admissions at Curlie
+UKPASS – applications service for postgraduate courses
+UCAS's channel on YouTube
+UCAStv

@@ -1,0 +1,42 @@
+In financial economics, asset pricing refers to a formal treatment and development of two main pricing principles, outlined below, together with the resultant models. There have been many models developed for different situations, but correspondingly, these stem from either general equilibrium asset pricing or rational asset pricing, the latter corresponding to risk neutral pricing.
+Investment theory, which is near synonymous, encompasses the body of knowledge used to support the decision-making process of choosing investments, and the asset pricing models are then applied in determining the asset-specific required rate of return on the investment in question, or in pricing derivatives on these, for trading or hedging.
+
+
+== General equilibrium asset pricing ==
+Under general equilibrium theory prices are determined through market pricing by supply and demand. Here asset prices jointly satisfy the requirement that the quantities of each asset supplied and the quantities demanded must be equal at that price - so called market clearing. These models are born out of modern portfolio theory, with the capital asset pricing model (CAPM) as the prototypical result. Prices here are determined with reference to macroeconomic variables–for the CAPM, the "overall market"; for the CCAPM, overall wealth– such that individual preferences are subsumed.
+These models aim at modeling the statistically derived probability distribution of the market prices of "all" securities at a given future investment horizon; they are thus of "large dimension". See § Risk and portfolio management: the P world under Mathematical finance. General equilibrium pricing is then used when evaluating diverse portfolios, creating one asset price for many assets.Calculating an investment or share value here, entails:
+(i) a financial forecast for the business or project in question; 
+(ii) where the output cashflows are then discounted at the rate returned by the model selected; this rate in turn reflecting the "riskiness" - i.e. the idiosyncratic, or undiversifiable risk - of these cashflows;
+(iii) these present values are then aggregated, returning the value in question. 
+See: Financial modeling § Accounting, and Valuation using discounted cash flows. 
+(Note that an alternate, although less common approach, is to apply a "fundamental valuation" method, such as the T-model, which instead relies on accounting information, attempting to model return based on the company's expected financial performance.)
+
+
+== Rational pricing ==
+Under Rational pricing, derivative prices are calculated such that they are arbitrage-free with respect to more fundamental (equilibrium determined) securities prices;
+for an overview of the logic see Rational pricing  § Pricing derivatives.
+In general this approach does not group assets but rather creates a unique risk price for each asset; these models are then of "low dimension".
+For further discussion, see § Derivatives pricing: the Q world under Mathematical finance.
+Calculating option prices, and their "Greeks", i.e. sensitivities, combines:
+(i) a model of the underlying price behavior, or "process" - i.e. the asset pricing model selected, with its parameters having been calibrated to observed prices;
+and 
+(ii) a mathematical method which returns the premium (or sensitivity) as the expected value of option payoffs over the range of prices of the underlying. 
+See Valuation of options § Pricing models.
+The classical model here is Black–Scholes which describes the dynamics of a market including derivatives (with its option pricing formula); leading more generally to martingale pricing, as well as the aside models. Black–Scholes assumes a log-normal process; the other models will, for example, incorporate features such as mean reversion, or will be "volatility surface aware", applying local volatility or stochastic volatility.
+Rational pricing is also applied to fixed income instruments such as bonds (that consist of just one asset), as well as to interest rate modeling in general, where yield curves must be arbitrage free with respect to the prices of individual instruments.
+See Rational pricing  § Fixed income securities, Bootstrapping (finance), Multi-curve framework.
+As regards options on these instruments, and other interest rate derivatives, see short-rate model and Heath–Jarrow–Morton framework for discussion as to how the various models listed above are applied.
+
+
+== Interrelationship ==
+These principles are interrelated through the fundamental theorem of asset pricing.
+Here, "in the absence of arbitrage, the market imposes a probability distribution, called a risk-neutral or equilibrium measure, on the set of possible market scenarios, and... this probability measure determines market prices via discounted expectation".Correspondingly, this essentially means that one may make financial decisions, using the risk neutral probability distribution consistent with (i.e. solved for) observed equilibrium prices. See Financial economics  § Arbitrage-free pricing and equilibrium.
+
+
+== See also ==
+List of financial economics articles
+Outline of finance § Asset pricing theory
+Outline of finance § Portfolio theory
+
+
+== References ==

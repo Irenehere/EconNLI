@@ -1,0 +1,109 @@
+In finance, speculation is the purchase of an asset (a commodity, goods, or real estate) with the hope that it will become more valuable shortly. It can also refer to short sales in which the speculator hopes for a decline in value.
+Many speculators pay little attention to the fundamental value of a security and instead focus purely on price movements. In principle, speculation can involve any tradable good or financial instrument. Speculators are particularly common in the markets for stocks, bonds, commodity futures, currencies, fine art, collectibles, real estate, and derivatives.
+Speculators play one of four primary roles in financial markets, along with hedgers, who engage in transactions to offset some other pre-existing risk, arbitrageurs who seek to profit from situations where fungible instruments trade at different prices in different market segments, and investors who seek profit through long-term ownership of an instrument's underlying attributes.
+
+
+== History ==
+With the appearance of the stock ticker machine in 1867, which removed the need for traders to be physically present on the stock exchange floor, stock speculation underwent a dramatic expansion through the end of the 1920s. The number of shareholders increased, perhaps, from 4.4 million in 1900 to 26 million in 1932.
+
+
+== Speculation vs. investment ==
+The view of what distinguishes investment from speculation and speculation from excessive speculation varies widely among pundits, legislators and academics. Some sources note that speculation is simply a higher-risk form of investment. Others define speculation more narrowly as positions not characterized as hedging. The U.S. Commodity Futures Trading Commission defines a speculator as "a trader who does not hedge, but who trades with the objective of achieving profits through the successful anticipation of price movements". The agency emphasizes that speculators serve important market functions, but defines excessive speculation as harmful to the proper functioning of futures markets.According to Benjamin Graham in The Intelligent Investor, the prototypical defensive investor is "one interested chiefly in safety plus freedom from bother". He adds that "some speculation is necessary and unavoidable, for, in many common-stock situations, there are substantial possibilities of both profit and loss, and the risks therein must be assumed by someone." Thus, many long-term investors, even those who buy and hold for decades, may be classified as speculators, excepting only the rare few who are primarily motivated by income or safety of principal and not eventually selling at a profit.
+
+
+== Economic benefits ==
+
+
+=== Sustainable consumption level ===
+Nicholas Kaldor has long argued for the price-stabilizing role of speculators, who tend to even out "price-fluctuations due to changes in the conditions of demand or supply", by possessing "better than average foresight". This view was later echoed by the speculator Victor Niederhoffer, in "The Speculator as Hero", who describes the benefits of speculation:
+
+Let's consider some of the principles that explain the causes of shortages and surpluses and the role of speculators. When a harvest is too small to satisfy consumption at its normal rate, speculators come in, hoping to profit from the scarcity by buying. Their purchases raise the price, thereby checking consumption so that the smaller supply will last longer. Producers encouraged by the high price further lessen the shortage by growing or importing to reduce the shortage. On the other side, when the price is higher than the speculators think the facts warrant, they sell. This reduces prices, encouraging consumption and exports and helping to reduce the surplus.
+
+Another service provided by speculators to a market is that by risking their own capital in the hope of profit, they add liquidity to the market and make it easier or even possible for others to offset risk, including those who may be classified as hedgers and arbitrageurs.
+
+
+=== Market liquidity and efficiency ===
+If any market, such as pork bellies, had no speculators, only producers (hog farmers) and consumers (butchers, etc.) would participate. With fewer players in the market, there would be a larger spread between the current bid and the asking price of pork bellies. Any new entrant in the market who wanted to trade pork bellies would be forced to accept this illiquid market and might trade at market prices with large bid–ask spreads or even face difficulty finding a co-party to buy or sell to.
+By contrast, a commodity speculator may profit from the difference in the spread and, in competition with other speculators, reduce the spread.  Some schools of thought argue that speculators increase the liquidity in a market, and therefore promote an efficient market. This efficiency is difficult to achieve without speculators. Speculators take information and speculate on how it affects prices, producers and consumers, who may want to hedge their risks, needing counterparties if they could find each other without markets it certainly would happen as it would be cheaper. A very beneficial by-product of speculation for the economy is price discovery.
+On the other hand, as more speculators participate in a market, underlying real demand and supply can diminish compared to trading volume, and prices may become distorted.
+
+
+=== Bearing risks ===
+Speculators perform a risk-bearing role that can be beneficial to society.  For example, a farmer might consider planting corn on unused farmland. However, he might not want to do so because he is concerned that the price might fall too far by harvest time. By selling his crop in advance at a fixed price to a speculator, he can now hedge the price risk and plant the corn. Thus, speculators can increase production through their willingness to take on risk (not at the loss of profit).
+
+
+=== Finding environmental and other risks ===
+Speculative hedge funds that do fundamental analysis "are far more likely than other investors to try to identify a firm's off-balance-sheet exposures" including "environmental or social liabilities present in a market or company but not explicitly accounted for in traditional numeric valuation or mainstream investor analysis". Hence, they make the prices better reflect the true quality of operation of the firms.
+
+
+=== Shorting ===
+Shorting may act as a "canary in a coal mine" to stop unsustainable practices earlier and thus reduce damages and form market bubbles.
+
+
+== Economic disadvantages ==
+
+
+=== Winner's curse ===
+Auctions are a method of squeezing out speculators from a transaction, but they may have their own perverse effects by the winner's curse. The winner's curse is, however, not very significant to markets with high liquidity for both buyers and sellers, as the auction for selling the product and the auction for buying the product occur simultaneously, and the two prices are separated only by a relatively small spread. That mechanism prevents the winner's curse phenomenon from causing mispricing to any degree greater than the spread.
+
+
+=== Economic bubbles ===
+Speculation is often associated with economic bubbles. A bubble occurs when the price for an asset exceeds its intrinsic value by a significant margin, although not all bubbles occur due to speculation. Speculative bubbles are characterized by rapid market expansion driven by word-of-mouth feedback loops, as initial rises in asset price attract new buyers and generate further inflation. The growth of the bubble is followed by a precipitous collapse fueled by the same phenomenon. Speculative bubbles are essentially social epidemics whose contagion is mediated by the structure of the market. Some economists link asset price movements within a bubble to fundamental economic factors such as cash flows and discount rates.In 1936, John Maynard Keynes wrote: "Speculators may do no harm as bubbles on a steady stream of enterprise. But the situation is serious when enterprise becomes the bubble on a whirlpool of speculation. (1936:159)" Keynes himself enjoyed speculation to the fullest, running an early precursor of a hedge fund. As the Bursar of the Cambridge University King's College, he managed two investment funds, one of which, called Chest Fund, invested not only in the then 'emerging' market US stocks, but to a smaller extent periodically included commodity futures and foreign currencies (see Chua and Woodward, 1983). His fund was profitable almost every year, averaging 13% per year, even during the Great Depression, thanks to very modern investment strategies, which included inter-market diversification (it invested in stocks, commodities and currencies) as well as shorting (selling borrowed stocks or futures to profit from falling prices), which Keynes advocated among the principles of successful investment in his 1933 report: "a balanced investment position... and if possible, opposed risks".It is controversial whether the presence of speculators increases or decreases short-term volatility in a market. Their provision of capital and information may help stabilize prices closer to their true values. On the other hand, crowd behavior and positive feedback loops in market participants may also increase volatility.
+
+
+== Government responses and regulation ==
+The economic disadvantages of speculation have resulted in a number of attempts over the years to introduce regulations and restrictions to try to limit or reduce the impact of speculators. States often enact such financial regulation in response to a crisis. Note for example the Bubble Act 1720, which the British government passed at the height of the South Sea Bubble to try to stop speculation in such schemes. It remained in place for over a hundred years until repealed in 1825. The Glass–Steagall Act passed in 1933 during the Great Depression in the United States provides another example; most of the Glass-Steagall provisions were repealed during the 1980s and 1990s. The Onion Futures Act bans the trading of futures contracts on onions in the United States, after speculators successfully cornered the market in the mid-1950s; it remains in effect as of 2021.
+The Soviet Union regarded any form of private trade with the intent of gaining profit as speculation (Russian: спекуляция) and a criminal offense and punished speculators accordingly with fines, imprisonment, confiscation and/or corrective labor. Speculation was specifically defined in article 154 of the Penal Code of the USSR.
+
+
+=== Food security ===
+
+Some nations have moved to limit foreign ownership of cropland to ensure that food is available for local consumption, while others have leased food land abroad despite receiving aid from the World Food Programme.In 1935, the Indian government passed a law allowing the government partial restriction and direct control of food production (Defence of India Act, 1935). It included the ability to restrict or ban the trading in derivatives on food commodities. After achieving independence in 1947, India in the 1950s continued to struggle with feeding its population and the government increasingly restricted trading in food commodities. Just at the time the Forward Markets Commission was established in 1953, the government felt that derivative markets increased speculation, which led to increased food costs and price instabilities. In 1953 it finally prohibited options- and futures-trading altogether.  The restrictions were not lifted until the 1980s.
+
+
+=== Regulations ===
+In the United States, following passage of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, the Commodity Futures Trading Commission (CFTC) has proposed regulations aimed at limiting speculation in futures markets by instituting position limits. The CFTC offers three basic elements for their regulatory framework: "the size (or levels) of the limits themselves; the exemptions from the limits (for example, hedged positions) and; the policy on aggregating accounts for purposes of applying the limits". The proposed position limits would apply to 28 physical commodities traded in various exchanges across the US.Another part of the Dodd-Frank Act established the Volcker Rule, which deals with speculative investments of banks that do not benefit their customers. Passed on 21 January 2010, it states that those investments played a key role in the financial crisis of 2007–2010.
+
+
+=== Proposals ===
+
+Proposals made in the past to try to limit speculation – but never enacted – included:
+
+The Tobin tax is a tax intended to reduce short-term currency speculation, ostensibly to stabilize foreign exchange.
+In May 2008, German leaders planned to propose a worldwide ban on oil trading by speculators, blaming the 2008 oil price rises on manipulation by hedge funds.
+On 3 December 2009, Representative Peter DeFazio, who blamed "reckless speculation" for the 2008 financial crisis, proposed the introduction of a financial transaction tax, which would have specifically targeted speculators by taxing financial-market securities transactions.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Books ==
+Covel, Michael. The Complete Turtle Trader. HarperCollins, 2007. ISBN 9780061241703
+Douglas, Mark. The Disciplined Trader. New York Institute of Finance, 1990. ISBN 0-13-215757-8
+Gunther, Max The Zurich Axioms Souvenir Press (1st print 1985) ISBN 0-285-63095-4.
+Fox, Justin. The Myth of the Rational Market. HarperCollings, 2009. ISBN 9780060598990
+Lefèvre, Edwin. Reminiscences of a Stock Operator John Wiley & Sons Inc., 2005 (1st print 1923) ISBN 0471678767
+Neill, Humphrey B. The Art of Contrary Thinking Caxton Press 1954.
+Niederhoffer, Victor Practical Speculation John Wiley & Sons Inc., 2005 ISBN 0-471-67774-4
+Sobel, Robert The Money Manias: The Eras of Great Speculation in America, 1770-1970 Beard Books 1973 ISBN 1-58798-028-2
+Patterson, Scott The Quants, How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed it Crown Business, 2010 ISBN 9780307453372
+Schwartz, Martin "Buzzy". Pit Bull: Lessons from Wall Street's Champion Trader HarperCollins, 2007 ISBN 9780061844638
+Schwager, Jack D. Trading with the Market Wizards: The Complete Market Wizards Series John Wiley & Sons 2013 ISBN 9781118582978
+Tharp, Van K. Definitive Guide to Position Sizing International Institute of Trading Mastery, 2008. ISBN 0935219099
+
+
+== Further reading ==
+
+Lei, Vivian; Noussair, Charles N.; Plott, Charles R. (2001). "Nonspeculative Bubbles in Experimental Asset Markets: Lack of Common Knowledge of Rationality Vs. Actual Irrationality" (PDF). Econometrica. 69 (4): 831–859. doi:10.1111/1468-0262.00222. JSTOR 2692246.
+Stäheli, Urs (2013). Spectacular Speculation: Thrills, the Economy, and Popular Discourse. Stanford, CA: Stanford University Press. ISBN 978-0-804-77131-3.
+Stuart, Banner (2017). Speculation: A History of the Fine Line between Gambling and Investing. Oxford University Press. ISBN 978-0190623043.
+
+
+== External links ==
+
+Hidden Collective Factors in Speculative Trading
+Food Commodities Speculation and Food Price Crises
+Understanding Derivatives: Markets and Infrastructure Federal Reserve Bank of Chicago, Financial Markets Group

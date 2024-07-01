@@ -1,0 +1,50 @@
+In investment banking, PnL explained (also called P&L explain, P&L attribution or profit and loss explained) is an income statement with commentary that attributes or explains the daily fluctuation in the value of a portfolio of trades to the root causes of the changes.
+The report is produced by product control; and is used by traders – especially desks dealing in derivatives (swaps and options) and interest rate products. See Financial risk management § Banking.
+P&L is the day-over-day change in the value of a portfolio of trades typically calculated using the following formula:   
+PnL = Value today - Value from Prior Day
+
+
+== Report ==
+A PnL explained report will usually contain one row per trade or group of trades and will have at a minimum these columns:
+
+Column 1: PnL - This is the PnL as calculated outside of the PnL Explained report
+Column 2: PnL explained - This is the sum of the explanatory columns
+Column 3: PnL unexplained - This is calculated as PnL minus PnL explained (i.e., column 1 - column 2)
+Column 4: Impact of time - This is the PnL due to the change in time.
+Column 5: Impact of prices - This is the change in the value of a portfolio due to changes in commodity or equity/stock prices
+Column 6: Impact of interest Rates - This is the PnL due to changes in interest rates
+Column 7: Impact of volatility - This is the PnL due to changes in volatilities. Volatilities are used to value option (finance) (i.e., calls and puts)
+Column 8: Impact of new trades - PnL from trades done on the current day
+Column 9: Impact of cancellation / amendment - PnL from trades cancelled or changed on the current day
+
+
+== Methodologies ==
+There are two methodologies for calculating Pnl Explained, the 'sensitivities' method and the 'revaluation' method. 
+
+
+=== Sensitivities method ===
+The sensitivities method  involves first calculating option sensitivities known as the Greeks because of the common practice of representing the sensitivities using Greek letters.  For example, the delta of an option is the value an option changes due to a $1 move in the underlying commodity or equity/stock.  
+See Risk factor (finance) § Financial risks for the market.
+To calculate 'impact of prices' the formula is: Impact of prices = option delta * price move; so if the price moves $100 and the option's delta is 0.05% then the 'impact of prices' is $0.05. To generalize, then, for example to yield curves:
+
+Impact of prices = position sensitivity × move in the variable in question
+
+
+=== Revaluation method ===
+This method calculates the value of a trade based on the current and the prior day's prices.  The formula for price impact using the revaluation method is
+
+Impact of prices = (trade value using today's prices) - (trade value using prior day's prices)for some small-value assets such as "loose tools".
+Depreciation = value at the beginning of the year (opening balance) + purchases in the year - value at the end of the year (closing balance)
+
+
+== PnL unexplained ==
+PnL unexplained is a critical metric that regulators and product control within a bank alike pay attention to.
+Any residual P&L left unexplained (PnL unexplained) would be expected to be small IF the identified risk factors are indeed sufficient to materially explain the expected value change of the position AND if the models used to calculate sensitivities to these risk factors are correct. PnL unexplained is thus a critical metric that when large may highlight instances where the risk factors classified for a risky position are incomplete or the models used for sensitivities calculations are incorrect or inconsistent.
+
+
+== External links ==
+PnL Explained Professionals Information and examples from PnL Explained Professionals Association's home page
+Pantz, Julien 2013 PnL prediction under extreme scenarios
+
+
+== References ==

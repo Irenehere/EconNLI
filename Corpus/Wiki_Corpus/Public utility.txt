@@ -1,0 +1,82 @@
+A public utility company (usually just utility) is an organization that maintains the infrastructure for a public service (often also providing a service using that infrastructure). Public utilities are subject to forms of public control and regulation ranging from local community-based groups to statewide government monopolies.
+Public utilities are meant to supply goods and services that are considered essential; water, gas, electricity, telephone, waste disposal, and other communication systems represent much of the public utility market. The transmission lines used in the transportation of electricity, or natural gas pipelines, have natural monopoly characteristics. A monopoly can occur when it finds the best way to minimize its costs through economies of scale to the point where other companies cannot compete with it. For example, if many companies are already offering electricity, the additional installation of a power plant will only disadvantage the consumer as prices could be increased. If the infrastructure already exists in a given area, minimal benefit is gained through competing. In other words, these industries are characterized by economies of scale in production. Though it can be mentioned that these natural monopolies are handled or watched by a public utilities commission, or an institution that represents the government.There are many different types of public utilities. Some, especially large companies, offer multiple products, such as electricity and natural gas. Other companies specialize in one specific product, such as water. Modern public utilities may also be partially (or completely) sourced from clean and renewable energy in order to produce sustainable electricity. Of these, wind turbines and solar panels are those used most frequently.
+Whether broadband internet access should be a public utility is a question that was being discussed with the rise of internet usage. This is a question that was being asked due to the telephone service being considered a public utility. Since arguably broadband internet access has taken over telephone service, perhaps it should be a public utility. The Federal Communications Commission in the United States in 2015 made their stance on this issue clear. Due to the telephone service having been considered a public utility, the Federal Communications Commission made broadband internet access a public utility in the United States.
+
+
+== Management ==
+Public utilities have historically been considered to be a natural monopoly. This school of thought holds that the most cost-efficient way of doing business is through a single firm because these are capital-intensive businesses with unusually large economies of scale and high fixed costs associated with building and operating the infrastructure, e.g. power plants, telephone lines and water treatment facilities. However, over the past several decades, traditional public utilities' monopoly position has eroded. For instance, wholesale electricity generation markets, electric transmission networks, electricity retailing and customer choice, telecommunication, some types of public transit and postal services have become competitive in some countries and the trend towards liberalization, deregulation and privatization of public utilities is growing. However, the infrastructure used to distribute most utility products and services has remained largely monopolistic.Key players in the public utility sector include:
+Generators produce or collect the specific product to be used by customers: for example, electricity or water.
+Network operators (grid operators, regional network operators, and distribution network operators) sell access to their networks to retail service providers, who deliver the product to the end user.
+Traders and marketers buy and sell the actual product and create further complex structured products, combined services and derivatives products. Depending on the product structure, these companies may provide utilities and businesses with a reliable supply of a product like electricity at a stable, predictable price, or a shorter term supply at a more volatile price.
+Service providers and retailers are the last segment in the supply chain, selling directly to the final consumer. In some markets, final consumers can choose their own retail service provider.Public utilities must pursue the following objective given the social responsibility their services attribute to them: 
+
+Ensuring services are of the highest quality and responsive to the needs and wishes of patients;
+Ensuring that health services are effectively targeted so as to improve the health of local populations;
+Improving the efficiency of the services so the volume of well-targeted effective services is the widest, given the available resources.The management of public utilities continues to be important for local and general governments. By creating, expanding, and improving upon public utilities, a governmental body may attempt to improve its image or attract investment. Traditionally, public services have been provided by public legal entities, which operate much like corporations, but differ in that profit is not necessary for a functional business. A significant factor in government ownership has been to reduce the risk that an activity, if left to private initiative, may be considered not sufficiently profitable and neglected. Many utilities are essential for human life, national defense, or commerce, and the risk of public harm with mismanagement is considerably greater than with other goods. The principle of universality of utilities maintains that these services are best owned by, and operating for, the public. The government and the society itself would like to see these services being economically accessible to all or most of the population. Furthermore, other economic reasons based the idea: public services need huge investments in infrastructures, crucial for competitiveness but with a slow return of capital; last, technical difficulties can occur in the management of plurality of networks, example in the city subsoil.Public pressure for renewable energy as a replacement for legacy fossil fuel power has steadily increased since the 1980s. As the technology needed to source the necessary amount of energy from renewable sources is still under study, public energy policy has been focused on short term alternatives such as natural gas (which still produces substantial carbon dioxide) or Nuclear power. In 2021 a power and utilities industry outlook report by Deloitte identified a number of trends for the utilities industry:
+
+Enhanced competition, sparked by regulations such as FERC's Order 2222 that open up the market to smaller, innovative firms using renewable energy sources, like wind or solar power
+Expansions in infrastructure, to manage new renewable energy sources
+Greater electrification of transportation, and longer-range batteries for cars and trucks
+Oil companies and other traditional-energy players entering the renewable-energy field
+A greater emphasis on disaster readiness 
+
+
+== Finance ==
+Issues faced by public utilities include:
+
+Service area: regulators need to balance the economic needs of the companies and the social equity needed to guarantee to everyone the access to primary services.
+Autonomy: Economic efficiency requires that markets be left to work by themselves with little intervention. Such instances are often not equitable for some consumers that might be priced out of the market.
+Pricing: Equity requires that all citizens get the service at a fair price.Alternative pricing methods include:
+Average production costs: the utility calculates the break-even point and then set the prices equal to average costs. The equity issue is basically overcome since most of the market is being served. As a defect regulated firms do not have incentives to minimize costs.
+Rate of return regulation: regulators let the firms set and charge any price, as long as the rate of return on invested capital does not exceed a certain rate. This method is flexible and allows for pricing freedom, forcing regulators to monitor prices. The drawback is that this method could lead to overcapitalization. For example, if the rate of return is set at five percent, then the firm can charge a higher price simply by investing more in capital than what it is actually needed (i.e., 5% of $10 million is greater than 5% of $6 million).
+Price cap regulation: regulators directly set a limit on the maximum price. This method can result in a loss of service area. One benefit of this method is that it gives firms an incentive to seek cost-reducing technologies as a strategy to increase utility Profits.Utility stocks are considered stable investments because they typically provide regular dividends to shareholders and have low volatility. Even in periods of economic downturns characterized by low interest rates, such stocks are attractive because dividend yields are usually greater than those of other stocks, so the utility sector is often part of a long-term buy-and-hold strategy.Utilities require expensive critical infrastructure which needs regular maintenance and replacement. Consequently, the industry is capital intensive, requiring regular access to the capital markets for external financing. A utility's capital structure may have a significant debt component, which exposes the company to interest rate risk. Should rates rise, the company must offer higher yields to attract bond investors, driving up the utility's interest expenses. If the company's debt load and interest expense becomes too large, its credit rating will deteriorate, further increasing the cost of capital and potentially limiting access to the capital markets.
+
+
+== By country ==
+
+
+=== Azerbaijan ===
+
+
+=== Chad ===
+
+
+=== Colombia ===
+
+
+=== Turkey ===
+
+
+=== United Kingdom and Ireland ===
+In the United Kingdom and Ireland, the state, private firms, and charities ran the traditional public utilities. For instance, the Sanitary Districts were established in England and Wales  in 1875 and in Ireland in 1878.The term can refer to the set of services provided by various organizations that are used in everyday life by the public, such as: electricity generation, electricity retailing, electricity supplies, natural gas supplies, water supplies, sewage works, sewage systems and broadband internet services. They are regulated by Ofgem, Ofwat and Ofcom. Disabled community transport services may occasionally be included within the definition. They were mostly privatised in the UK during the 1980s.
+
+
+=== United States ===
+
+The first public utility in the United States was a grist mill erected on Mother Brook in Dedham, Massachusetts in 1640.In the U.S., public utilities provide services at the consumer level, be it residential, commercial, or industrial consumer. Utilities, merchant power producers and very large consumers buy and sell bulk electricity at the wholesale level through a network of regional transmission organizations (RTO) and independent system operators (ISO) within one of three grids, the Eastern Interconnection, the Texas Interconnection, which is a single ISO, and the Western Interconnection.U.S. utilities historically operated with a high degree of financial leverage and low interest coverage ratios compared to industrial companies. Investors accepted these credit characteristics because of the regulation of the industry and the belief that there was minimal bankruptcy risk because of the essential services they provide. In recent decades several high-profile utility company bankruptcies have challenged this perception.
+
+
+==== Monopoly vs. competition ====
+Public utilities were historically regarded as natural monopolies because the infrastructure required to produce and deliver a product such as electricity or water is very expensive to build and maintain. Once assets such as power plants or transmission lines are in place, the cost of adding another customer is small, and duplication of facilities would be wasteful. As a result, utilities were either government monopolies, or if investor-owned, regulated by a public utilities commission.In the electric utility industry, the monopoly approach began to change in the 1990s. In 1996, the Federal Energy Regulatory Commission (FERC) issued its Order No. 888, which mandated that electric utilities open access to their transmission systems to enhance competition and "functionally unbundle" their transmission service from their other operations. The order also promoted the role of an independent system operator to manage power flow on the electric grid. Later, FERC Order No. 889 established an electronic information system called OASIS (open access same-time information system) which would give new users of transmission lines access to the same information available to the owner of the network. The result of these and other regulatory rulings was the eventual restructuring of the traditional monopoly-regulated regime to one in which all bulk power sellers could compete. A further step in industry restructuring, "customer choice", followed in some 19  states, giving retail electric customers the option to be served by non-utility retail power marketers.
+
+
+==== Ownership structure ====
+Public utilities can be privately owned or publicly owned. Publicly owned utilities include cooperative and municipal utilities. Municipal utilities may actually include territories outside of city limits or may not even serve the entire city. Cooperative utilities are owned by the customers they serve. They are usually found in rural areas. Publicly owned utilities are non-profit. Private utilities, also called investor-owned utilities, are owned by investors, and operate for profit, often referred to as a rate of return.
+
+
+==== Regulation ====
+A public utilities commission is a governmental agency in a particular jurisdiction that regulates the commercial activities related to associated electric, natural gas, telecommunications, water, railroad, rail transit, and/or passenger transportation companies. For example, the California Public Utilities Commission (or CPUC)  and the Public Utility Commission of Texas regulate the utility companies in California and Texas, respectively, on behalf of their citizens and ratepayers (customers). These public utility commissions (PUCs) are typically composed of commissioners, who are appointed by their respective governors, and dedicated staff that implement and enforce rules and regulations, approve or deny rate increases, and monitor/report on relevant activities.Ratemaking practice in the U.S. holds that rates paid by a utility's customers should be set at a level which assures that the utility can provide reliable service at reasonable cost.Over the years, various changes have dramatically re-shaped the mission and focus of many public utility commissions. Their focus has typically shifted from the up-front regulation of rates and services to the oversight of competitive marketplaces and enforcement of regulatory compliance.
+
+
+== See also ==
+Building block model, form of public utility regulation common in Australia
+
+
+== References ==
+
+
+== External links ==
+
+World Bank report on Water, Electricity and Utility subsidies
+Latest News in Utilities and Information Technology Archived 2016-04-10 at the Wayback Machine
+Latest in UK business utility news

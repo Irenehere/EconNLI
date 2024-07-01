@@ -1,0 +1,502 @@
+In economics, a monopsony is a market structure in which a single buyer substantially controls the market as the major purchaser of goods and services offered by many would-be sellers. The microeconomic theory of monopsony assumes a single entity to have market power over all sellers as the only purchaser of a good or service. This is a similar power to that of a monopolist, which can influence the price for its buyers in a monopoly, where multiple buyers have only one seller of a good or service available to purchase from.
+
+
+== History ==
+Monopsony theory was developed by economist Joan Robinson in her book The Economics of Imperfect Competition (1933). Economists use the term "monopsony power" in a manner similar to "monopoly power", as a shorthand reference for a scenario in which there is one dominant power in the buying relationship, so that power is able to set prices to maximize profits not subject to competitive constraints. Monopsony power exists when one buyer faces little competition from other buyers for that labour or good, so they are able to set wages or prices for the labour or goods they are buying at a level lower than would be the case in a competitive market. In economic literature the term "monopsony" is predominantly used when referring to labour markets, however could be applied to any industry, good or service where a buyer has market power over all sellers.
+A classic theoretical example is a mining town, where the company that owns the mine is able to set wages low since they face no competition from other employers in hiring workers, because they are the only employer in the town, and geographic isolation or obstacles prevent workers from seeking employment in other locations. Other more current examples may include school districts where teachers have little mobility across districts. In such cases the district faces little competition from other schools in hiring teachers, giving the district increased power when negotiating employment terms. Alternative terms are oligopsony or monopsonistic competition.
+
+
+=== Etymology ===
+The term "monopsony" (from Greek μόνος (mónos) "single" and ὀψωνία (opsōnía) "purchase") was first introduced by Joan Robinson in her influential book, The Economics of Imperfect Competition, published in 1933.  Robinson credited classics scholar Bertrand Hallward at the University of Cambridge with coining the term.
+
+
+== Static monopsony in a labour market ==
+The standard textbook monopsony model of a labour market is a static partial equilibrium model with just one employer who pays the same wage to all the workers. The employer faces an upward-sloping labour supply curve (as generally contrasted with an infinitely elastic labour supply curve), represented by the S blue curve in the diagram on the right. This curve relates the wage paid, 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+  , to the level of employment, 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  ,  and is denoted as an increasing function 
+  
+    
+      
+        w
+        (
+        L
+        )
+      
+    
+    {\displaystyle w(L)}
+  . Total labour costs are given by 
+  
+    
+      
+        w
+        (
+        L
+        )
+        ⋅
+        L
+      
+    
+    {\displaystyle w(L)\cdot L}
+  .  The firm has total revenue 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  , which increases with 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  . The firm wants to choose  
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   to maximize profit, 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , which is given by:
+
+  
+    
+      
+        P
+        (
+        L
+        )
+        =
+        R
+        (
+        L
+        )
+        −
+        w
+        (
+        L
+        )
+        ⋅
+        L
+        
+        
+      
+    
+    {\displaystyle P(L)=R(L)-w(L)\cdot L\,\!}
+  .At the maximum profit 
+  
+    
+      
+        
+          P
+          ′
+        
+        (
+        L
+        )
+        =
+        0
+      
+    
+    {\displaystyle P'(L)=0}
+  , so the first-order condition for maximization is
+
+  
+    
+      
+        0
+        =
+        
+          R
+          ′
+        
+        (
+        L
+        )
+        −
+        
+          w
+          ′
+        
+        (
+        L
+        )
+        ⋅
+        L
+        −
+        w
+        (
+        L
+        )
+      
+    
+    {\displaystyle 0=R'(L)-w'(L)\cdot L-w(L)}
+  where 
+  
+    
+      
+        
+          w
+          ′
+        
+        (
+        L
+        )
+      
+    
+    {\displaystyle w'(L)}
+   is the derivative of the function 
+  
+    
+      
+        w
+        (
+        L
+        )
+        ,
+      
+    
+    {\displaystyle w(L),}
+   implying
+
+  
+    
+      
+        
+          R
+          ′
+        
+        (
+        L
+        )
+        =
+        
+          w
+          ′
+        
+        (
+        L
+        )
+        ⋅
+        L
+        +
+        w
+        (
+        L
+        )
+        .
+      
+    
+    {\displaystyle R'(L)=w'(L)\cdot L+w(L).}
+  The left-hand side of this expression, 
+  
+    
+      
+        
+          R
+          ′
+        
+        (
+        L
+        )
+      
+    
+    {\displaystyle R'(L)}
+  , is the marginal revenue product of labour (roughly, the extra revenue generated by an extra worker) and is represented by the red MRP curve in the diagram. The right-hand side is the marginal cost of labour (roughly, the extra cost due to an extra worker) and is represented by the green MC curve in the diagram. Notably, the marginal cost is higher than the wage 
+  
+    
+      
+        w
+        (
+        L
+        )
+      
+    
+    {\displaystyle w(L)}
+   paid to the new worker by the amount
+
+  
+    
+      
+        
+          w
+          ′
+        
+        (
+        L
+        )
+        L
+        
+        
+      
+    
+    {\displaystyle w'(L)L\,\!}
+  .This is because, by assumption, the firm has to increase the wage paid to all the workers it already employs whenever it hires an extra worker. In the diagram, this leads to an MC curve that is above the labour supply curve S.
+The first-order condition for maximum profit is then satisfied at point A of the diagram, where the MC and MRP  curves intersect. This determines the profit-maximizing employment as L on the horizontal axis. The corresponding wage w is then obtained from the supply curve, through point M.
+The monopsonistic equilibrium at M can be contrasted with the equilibrium that would obtain under competitive conditions. Suppose a competitive employer entered the market and offered a wage higher than that at M. Then every employee of the first employer would choose instead to work for the competitor. Moreover, the competitor would gain all the former profits of the first employer, minus a less-than-offsetting amount from the wage increase of the first employer's employees, plus profit arising from additional employees who decided to work in the market because of the wage increase. But the first employer would respond by offering an even higher wage, poaching the new rival's employees, and so forth. As a result, a group of perfectly competitive firms would be forced, through competition, to intersection C rather than M. Just as a monopoly is thwarted by the competition to win sales, minimizing prices and maximizing output, competition for employees between the employers in this case would maximize both wages and employment.
+
+
+=== Welfare implications ===
+The lower employment and wages caused by monopsony power have two distinct effects on the economic welfare of the people involved. Firstly, it redistributes welfare away from workers and to their employer(s). Secondly, it reduces the aggregate (or social) welfare enjoyed by both groups taken together, as the employers' net gain is smaller than the loss inflicted on workers.
+The diagram on the right illustrates both effects, using the standard approach based on the notion of economic surplus. According to this notion, the workers' economic surplus (or net gain from the exchange) is given by the area between the S curve and the horizontal line corresponding to the wage, up to the employment level. Similarly, the employers' surplus is the area between the horizontal line corresponding to the wage and the MRP curve, up to the employment level. The social surplus is then the sum of these two areas.Following such definitions, the grey rectangle, in the diagram, is the part of the competitive social surplus that has been redistributed from the workers to their employer(s) under monopsony. By contrast, the yellow triangle is the part of the competitive social surplus that has been lost by both parties, as a result of the monopsonistic restriction of employment. This is a net social loss and is called deadweight loss. It is a measure of the market failure caused by monopsony power, through a wasteful misallocation of resources.
+As the diagram suggests, the size of both effects increases with the difference between the marginal revenue product MRP and the market wage determined on the supply curve S. This difference corresponds to the vertical side of the yellow triangle, and can be expressed as a proportion of the market wage, according to the formula:
+
+  
+    
+      
+        e
+        =
+        
+          
+            
+              
+                R
+                ′
+              
+              (
+              w
+              )
+              −
+              w
+            
+            w
+          
+        
+        
+        
+      
+    
+    {\displaystyle e={\frac {R'(w)-w}{w}}\,\!}
+  .The ratio 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   has been called the rate of exploitation, and it can be easily shown that it equals the reciprocal of the elasticity of the labour supply curve faced by the firm. Thus the rate of exploitation is zero under competitive conditions, when this elasticity tends to infinity. Empirical estimates of 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   by various means are a common feature of the applied literature devoted to the measurement of observed monopsony power.
+Finally, it is important to notice that, while the gray-area redistribution effect could be reversed by fiscal policy (i.e., taxing employers and transferring the tax revenue to the workers), this is not so for the yellow-area deadweight loss. The market failure can only be addressed in one of two ways: either by breaking up the monopsony through anti-trust intervention, or by regulating the wage policy of firms. The most common kind of regulation is a binding minimum wage higher than the monopsonistic wage.
+
+
+=== Minimum wage ===
+A binding minimum wage can be introduced either directly by law or through collective bargaining laws requiring union membership.  While it is generally agreed that minimum wage price floors reduce employment,  economic literature has yet to form a consensus regarding the effects in the presence of monopsony power. Some studies have shown that if monopsony power is present within a labour market the effect is reversed and a minimum wage could increase employment.This effect is demonstrated in the diagram on the right.
+Here the minimum wage is w'', higher than the monopsonistic w. Because of the binding effects of minimum wage and the excess supply of labour (as defined by the monopsony status), the marginal cost of labour for the firm becomes constant (the price of hiring an additional worker rather than the increasing cost as labour becomes more scarce). This means that the firm maximizes profit at the intersection of the new marginal cost line (MC' in the diagram) and Marginal Revenue Product line (the additional revenue for selling one more unit). This is the point where it becomes more expensive to produce an additional item than is earned in revenue from selling that item.
+This condition is still inefficient compared to a competitive market.  The line segment represented by A—B shows that there are still workers who would like to find a job, but cannot due to the monopsonistic nature of this industry.  This would represent the unemployment rate for this industry. This illustrates that there will be deadweight loss in a monopsonistic labour environment regardless of minimum wage levels, however a minimum wage law can increase total employment within the industry.
+More generally, a binding minimum wage modifies the form of the supply curve faced by the firm, which becomes:
+
+  
+    
+      
+        w
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    w
+                    
+                      m
+                      i
+                      n
+                    
+                  
+                  ,
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  
+                    w
+                    
+                      m
+                      i
+                      n
+                    
+                  
+                  ≥
+                  
+                  w
+                  (
+                  L
+                  )
+                
+              
+              
+                
+                  w
+                  (
+                  L
+                  )
+                  ,
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  
+                    w
+                    
+                      m
+                      i
+                      n
+                    
+                  
+                  ≤
+                  
+                  w
+                  (
+                  L
+                  )
+                
+              
+            
+            
+          
+        
+        
+        
+      
+    
+    {\displaystyle w={\begin{cases}w_{min},&{\mbox{if }}w_{min}\geq \;w(L)\\w(L),&{\mbox{if }}w_{min}\leq \;w(L)\end{cases}}\,\!}
+  where 
+  
+    
+      
+        w
+        (
+        L
+        )
+      
+    
+    {\displaystyle w(L)}
+   is the original supply curve and 
+  
+    
+      
+        
+          w
+          
+            m
+            i
+            n
+          
+        
+      
+    
+    {\displaystyle w_{min}}
+   is the minimum wage. The new curve has thus a horizontal first branch and a kink at the point
+
+  
+    
+      
+        w
+        (
+        L
+        )
+        =
+        
+          w
+          
+            m
+            i
+            n
+          
+        
+        
+        
+      
+    
+    {\displaystyle w(L)=w_{min}\,\!}
+  as is shown in the diagram by the kinked black curve MC' S (the black curve to the right of point B). The resulting equilibria (the profit-maximizing choices that rational companies will make) can then fall into one of three classes according to the value taken by the minimum wage, as shown by the following table:
+
+Yet, even when it is sub-optimal, a minimum wage higher than the monopsonistic rate can raises the level of employment anyway. This is a highly remarkable result because it only follows under monopsony. Indeed, under competitive conditions any minimum wage higher than the market rate would actually reduce employment, according to classical economic models and the consensus of peer-reviewed work. Thus, spotting the effects on employment of newly introduced minimum wage regulations is among the indirect ways economists use to pin down monopsony power in selected labour markets.  This technique was used, for example in a series of studies looking at the American labour market that found monopsonies existed only in several specialized fields such as professional sports and college professors.
+
+
+=== Wage discrimination ===
+Just like a monopolist, a monopsonistic employer may find that its profits are maximized if it discriminates prices. In this case the company pays different wages to different groups of workers (even if their MRP is the same), with lower wages paid to the workers who have a lower elasticity of supply of their labour to the firm.
+Researchers have used this fact to explain at least part of the observed wage differentials whereby women often earn less than men, even after controlling for observed productivity differentials. Robinson's original application of monopsony (1938) was developed to explain wage differentials between equally productive women and men. Ransom and Oaxaca (2004) found that women's wage elasticity is lower than that of men for employees at a grocery store chain in Missouri, controlling for other factors typically associated with wage determination. Ransom and Lambson (2011) found that female teachers are paid less than male teachers due to differences in labour market mobility constraints facing women and men.Some authors have argued informally that, while this is so for market supply, the reverse may somehow be true of the supply to individual firms. In particular, Manning and others have shown that, in the case of the UK Equal Pay Act, implementation has led to higher employment of women. Since the Act was effectively minimum wage legislation for women, this might perhaps be interpreted as a symptom of monopsonistic discrimination.
+
+
+== Dynamic models of monopsony ==
+More recent labor market models of monopsony have indicated that some monopsonistic power is likely present in otherwise competitive markets. Its cause can be linked to imperfect information as a result of search frictions. This may indicate companies operating under competitive market conditions have some limited discretion to manipulate wage rates without losing employees to competitors that is associated with the search friction in that market (ie how hard it is to find and secure another job). This modern perspective of dynamic monopsony first proposed by Allan Manning (2003), also results in an upward sloping labor supply curve, and is more practical as it incorporates multiple employers in a competitive market whilst also allowing for search frictions, and a costly search.
+
+
+== Empirical problems ==
+The simpler explanation of monopsony power in labour markets is barriers to entry on the demand side. Such barriers to entry would result in a limited number of companies competing for labour (oligopsony). If the hypothesis was generally true, one would expect to find that wages decreased as firm size increased or, more accurately, as industry concentration increased.  However, numerous statistical studies document significant positive correlations between firm or establishment size and wages. These results are often explained as being the result of cross-industry competition. For example, if there were only one fast food producer, that industry would be very consolidated. The company, however, would be unable to drive down wages via monopsonistic power if it were also competing against retail stores, construction, and other jobs utilizing the same labour skill set. This finding is both intuitive (low-skilled labour can move more fluidly through different industries) and supported by a study of American labor markets which found monopsony effects were limited to professional sports, teaching, and nursing, fields where skill sets limit moving to comparably paid other industries.However, monopsony power might also be due to circumstances affecting entry of workers on the supply side (like in the referenced case above), directly reducing the elasticity of labour supply to firms. Paramount among these are industry accreditation or licensing fees, regulatory constraints, training or education requirements, and the institutional factors that limit labour mobility between firms, including job protection legislation.
+An alternative that has been suggested as a source of monopsony power is worker preferences over job characteristics. Such job characteristics can include distance from work, type of work, location, the social environment at work, etc. If different workers have different preferences, employers could have local monopsony power over workers that strongly prefer working for them.
+Empirical evidence of monopsony power has been relatively limited. In line with the considerations discussed above, but perhaps counter to common intuition, there is no observable monopsony power in low-skilled labour markets in the US.  Though there has been at least one study finding monopsony power in Indonesia due to barriers to entry in developing countries. Several studies expanding their view for monopsony power have found economic and labor mobility in the US precludes any detectable monopsony effects with the notable exceptions of professional sports and (with some disagreement) nursing. Both of these industries have highly specialized labor conditions and are generally not substitutable. According to a 2020 review of the existing literature on monopsony in labor markets, there is some evidence of monopsony power in higher income industries due to contractual limitations (non-competes for example) though the author notes that the large majority of economists do not ascribe notable monopsony effects to labor markets.
+
+
+== See also ==
+Bilateral monopoly
+Canadian Wheat Board
+Captive supply
+Single-payer health care
+Single desk
+
+
+== References ==
+
+
+== Further reading ==
+Atkinson, S.E.; Kerkvliet, J. (1989). "Dual Measures of Monopoly and Monopsony Power: An Application to Regulated Electric Utilities". The Review of Economics and Statistics. 71 (2): 250–257. doi:10.2307/1926970. JSTOR 1926970.
+Bhaskar, V.; To, T. (1999). "Minimum Wages for Ronald McDonald Monopsonies: A Theory of Monopsonistic Competition". The Economic Journal. 109 (455): 190–203. CiteSeerX 10.1.1.195.6646. doi:10.1111/1468-0297.00427.
+Bhaskar, V.; Manning, A.; To, T. (2002). "Oligopsony and Monopsonistic Competition in Labor Markets". Journal of Economic Perspectives. 16 (2): 155–174. doi:10.1257/0895330027300.
+Boal, W.M. (1995). "Testing for Employer Monopsony in Turn-of-the-Century Coal Mining". The RAND Journal of Economics. 26 (3): 519–36. doi:10.2307/2556001. JSTOR 2556001. S2CID 153960375.
+Boal, W.M.; Ransom, M.R. (1997). "Monopsony in the Labor Market". Journal of Economic Literature. 35 (1): 86–112.
+Just, R.E.; Chern, W.S. (1980). "Tomatoes, Technology, and Oligopsony". The Bell Journal of Economics. 11 (2): 584–602. doi:10.2307/3003381. JSTOR 3003381. OSTI 5651801.
+Lynn, Barry C (July 2006). "Breaking the Chain: The antitrust case against Wal-Mart". Harper's Magazine.
+
+Murray, B.C. (1995). "Measuring Oligopsony Power with Shadow Prices: U.S. Markets for Pulpwood and Sawlogs". The Review of Economics and Statistics. 77 (3): 486–98. doi:10.2307/2109909. JSTOR 2109909.
+Robinson, J. (1933). The Economics of Imperfect Competition London: Macmillan.
+Rodriguez, C.A. (1975). "Trade in Technological Knowledge and the National Advantage". The Journal of Political Economy. 83 (1): 121–36. doi:10.1086/260309. S2CID 155075199.
+Schroeter, J.R. (1988). "Estimating the Degree of Market Power in the Beef Packing Industry". The Review of Economics and Statistics. 70 (1): 158–62. doi:10.2307/1928165. JSTOR 1928165.
+Suresh Naidu and Eric A. Posner. 2021. "Labor Monopsony and the Limits of the Law." Journal of Human Resources
+
+
+== External links ==
+
+"Monopsony in American Labor Markets". Archived from the original on 2006-01-13. Retrieved 2005-12-12.

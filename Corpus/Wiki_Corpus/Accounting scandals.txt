@@ -1,0 +1,79 @@
+Accounting scandals are business scandals which arise from intentional manipulation of financial statements with the disclosure of financial misdeeds by trusted executives of corporations or governments. Such misdeeds typically involve complex methods for misusing or misdirecting funds, overstating revenues, understating expenses, overstating the value of corporate assets, or underreporting the existence of liabilities (these can be detected either manually, or by the means of deep learning). It involves an employee, account, or corporation itself and is misleading to investors and shareholders.This type of "creative accounting" can amount to fraud, and investigations are typically launched by government oversight agencies, such as the Securities and Exchange Commission (SEC) in the United States. Employees who commit accounting fraud at the request of their employers are subject to personal criminal prosecution.
+
+
+== Two types of fraud ==
+
+
+=== Misappropriation of assets ===
+Misappropriation of assets – often called defalcation or employee fraud – occurs when an employee steals a company's asset, whether those assets are of monetary or physical nature. Typically, assets stolen are cash, or cash equivalents, and company data or intellectual property. However, misappropriation of assets also includes taking inventory out of a facility or using company assets for personal purpose without authorization. Company assets include everything from office supplies and inventory to intellectual property.
+
+
+=== Fraudulent financial reporting ===
+Fraudulent financial reporting is also known as earnings management fraud. In this context, management intentionally manipulates accounting policies or accounting estimates to improve financial statements. Public and private corporations commit fraudulent financial reporting to secure investor interest or obtain bank approvals for financing, as justifications for bonuses or increased salaries or to meet the expectations of shareholders. The U.S. Securities and Exchange Commission has brought enforcement actions against corporations for many types of fraudulent financial reporting, including improper revenue recognition, period-end stuffing, fraudulent post-closing entries, improper asset valuations, and misleading non-GAAP financial measures.
+
+
+== The fraud triangle ==
+The fraud triangle is a model for explaining the factors that cause someone to commit fraudulent behaviors in accounting. It consists of three components, which together, lead to fraudulent behavior:
+
+Incentives/ Pressure: Management or other employees have incentives or pressures to commit fraud.
+Opportunities: Circumstances provide opportunities for management or employees to commit fraud.
+Attitudes/rationalization: An attitude, character, or set of ethical values exists that allows management or employees to commit a dishonest act, or they are in an environment that imposes sufficient pressure that causes them to rationalize committing a dishonest act.Incentives/pressures: A common incentive for companies to manipulate financial statement is a decline in the company's financial prospects. Companies may also manipulate earnings to meet analysts' forecasts or benchmarks such as prior-year earnings, to meet debt covenant restrictions, achieve a bonus target based on earnings, or artificially inflate stock prices. As for misappropriation of assets, financial pressures are a common incentive for employees. Employees with excessive financial obligations, or those with substance abuse or gambling problems may steal to meet their personal needs.Opportunities: Although the financial statements of all companies are potentially subject to manipulation, the risk is greater for companies in industries where significant judgments and accounting estimates are involved. Turnover in accounting personnel or other deficiencies in accounting and information processes can create an opportunity for misstatement. As for misappropriation of assets, opportunities are greater in companies with accessible cash or with inventory or other valuable assets, especially if the assets are small or easily removed. A lack of controls over payments to vendors or payroll systems can allow employees to create fictitious vendors or employees and bill the company for services or time.Attitudes/rationalization: The attitude of top management toward financial reporting is a critical risk factor in assessing the likelihood of fraudulent financial statements. If the CEO or other top managers display a significant disregard for the financial reporting process, such as consistently issuing overly optimistic forecasts, or they are overly concerned about the meeting analysts' earnings forecast, fraudulent financial reporting is more likely. Similarly, for misappropriation of assets, if management cheats customers through overcharging for goods or engaging in high-pressure sales tactics, employees may feel that it is acceptable for them to behave in the same fashion.
+
+
+== Causes ==
+Fraud is done by people. There are three ways to unlawfully take another person’s money: force, trickery, and stealth.Frauds such as embezzlement are easy to hide when company records are opaque to begin with. Poor accounting, such as the absence of monthly reconciliations or an independent audit function, also indicate vulnerability to fraud.
+
+
+=== Executive and managerial motivations for fraud ===
+An executive can easily reduce the price of his company's stock due to information asymmetry. He can: accelerate accounting of expenses, delay accounting of revenue, engage in off balance sheet transactions to make the company seem less profitable, or simply report very low estimates of future earnings. Executives may do this to make a company a more attractive takeover target. When the company is bought for less, the acquirer profits from the executive's actions to surreptitiously reduce share price. This can represent tens of billions of dollars (questionably) transferred from former shareholders to the acquirer. The executive is then rewarded with a golden handshake for presiding over the firesale that can sometimes be in the hundreds of millions of dollars for one or two years of work. Managerial opportunism plays a large role in these scandals.
+Similar issues occur when a publicly held asset or non-profit organization undergoes privatization. Executives often profit greatly. Again, they can help by making the organization appear to be in financial crisis. This lowers the sale price, and makes non-profits and governments more likely to sell. It can also contribute to a public perception that private entities are more efficiently run, thereby reinforcing the political will to sell off public assets. Again, due to asymmetric information, policy makers and the general public see a government-owned firm that was a financial 'disaster' miraculously turned around by the private sector (and typically resold) within a few years. Under the Special Plea in Fraud statute, "the government must 'establish by clear and convincing evidence that the contractor knew that its submitted claims were false, and that it intended to defraud the government by submitting those claims.'" Mere negligence, inconsistency, or discrepancies are not actionable under the Special Plea in Fraud statute.
+
+
+=== Employee motivations for fraud ===
+Not all accounting scandals are caused by those at the top. In fact, in 2015, 33% of all business bankruptcies were caused by employee theft. Often middle managers and employees are pressured to or willingly alter financial statements due to their debts or the possibility of personal benefit over that of the company, respectively.  For example, officers who would be compensated more in the short-term (for example, cash in pocket) might be more likely to report inaccurate information on a tab or invoice (enriching the company and maybe eventually getting a raise).
+
+
+== List of biggest accounting scandals ==
+
+
+== Notable outcomes ==
+The Enron scandal turned in to the indictment and criminal conviction of Big Five auditor Arthur Andersen on June 15, 2002. Although the conviction was overturned on May 31, 2005, by the Supreme Court of the United States, the firm ceased performing audits and split into multiple entities. The Enron scandal was defined as being one of the biggest audit failures of all time. The scandal included utilizing loopholes that were found within the GAAP (General Accepted Accounting Principles). For auditing a large-sized company such as Enron, the auditors were criticized for having brief meetings a few times a year that covered large amounts of material. By January 17, 2002, Enron decided to discontinue its business with Arthur Andersen, claiming they had failed in accounting advice and related documents.  Arthur Andersen was judged guilty of obstruction of justice for disposing of many emails and documents that were related to auditing Enron. Since the SEC is not allowed to accept audits from convicted felons, the firm was forced to give up its CPA licenses later in 2002, costing over 113,000 employees their jobs. Although the ruling was later overturned by the U.S. Supreme Court, the once-proud firm's image was tarnished beyond repair, and it has not returned as a viable business even on a limited scale.
+On July 9, 2002, George W. Bush gave a speech about recent accounting scandals that had been uncovered. In spite of its stern tone, the speech did not focus on establishing new policy, but instead focused on actually enforcing current laws, which include holding CEOs and directors personally responsible for accountancy fraud.In July 2002, WorldCom filed for bankruptcy protection in what was considered at the time as the largest corporate insolvency ever. A month earlier, the company's internal auditors discovered over $3.8 billion in illicit accounting entries intended to mask WorldCom's dwindling earnings, which was by itself more than the accounting fraud uncovered at Enron less than a year earlier. Ultimately, WorldCom admitted to inflating its assets by $11 billion.These scandals reignited the debate over the relative merits of US GAAP, which takes a "rules-based" approach to accounting, versus International Accounting Standards and UK GAAP, which takes a "principles-based" approach. The Financial Accounting Standards Board announced that it intends to introduce more principles-based standards. More radical means of accounting reform have been proposed, but so far have very little support. The debate itself, however, overlooks the difficulties of classifying any system of knowledge, including accounting, as rules-based or principles-based. This also led to the establishment of the Sarbanes-Oxley Act.
+On a lighter note, the 2002 Ig Nobel Prize in Economics went to the CEOs of those companies involved in the corporate accounting scandals of that year for "adapting the mathematical concept of imaginary numbers for use in the business world."
+In 2003, Nortel made a big contribution to this list of scandals by incorrectly reporting a one cent per share earnings directly after their massive layoff period. They used this money to pay the top 43 managers of the company. The SEC and the Ontario securities commission eventually settled civil action with Nortel. However, a separate civil action will be taken up against top Nortel executives including former CEO Frank A. Dunn, Douglas C. Beatty, Michael J. Gollogly, and MaryAnne E. Pahapill and Hamilton. These proceedings have been postponed pending criminal proceedings in Canada, which opened in Toronto on January 12, 2012. Crown lawyers at this fraud trial of three former Nortel Networks executives say the men defrauded the shareholders of Nortel of more than $5 million. According to the prosecutor this was accomplished by engineering a financial loss in 2002, and a profit in 2003 thereby triggering Return to Profit bonuses of $70 million for top executives. In 2007, Dunn, Beatty, Gollogly, Pahapill, Hamilton, Craig A. Johnson, James B. Kinney, and Kenneth R.W. Taylor were charged with engaging in accounting fraud by "manipulating reserves to manage Nortel's earnings."In 2005, after a scandal on insurance and mutual funds the year before, AIG was investigated for accounting fraud. The company already lost over $45 billion worth of market capitalization because of the scandal. Investigations also discovered over a $1 billion worth of errors in accounting transactions. The New York Attorney General's investigation led to a $1.6 billion fine for AIG and criminal charges for some of its executives. CEO Maurice R. "Hank" Greenberg was forced to step down and fought fraud charges until 2017, when the 91-year-old reached a $9.9 million settlement. Howard Smith, AIG's chief financial officer, also reached a settlement.
+Well before Bernard Madoff's massive Ponzi scheme came to light, observers doubted whether his listed accounting firm – an unknown two-person firm in a rural area north of New York City – was competent to service a multibillion-dollar operation, especially since it had only one active accountant, David G. Friehling. Indeed, Friehling's practice was so small that for years, he operated out of his house; he only moved into an office when Madoff customers wanted to know more about who was auditing his accounts. Ultimately, Friehling admitted to simply rubber-stamping at least 18 years' worth of Madoff's filings with the SEC. He also revealed that he continued to audit Madoff even though he had invested a substantial amount of money with him (Accountants are not allowed to audit broker-dealers with whom they're investing). He agreed to forfeit $3.18 million in accounting fees and withdrawals from his account with Madoff. His involvement makes the Madoff scheme not only the largest Ponzi scheme ever uncovered, but the largest accounting fraud in world history. The $64.8 billion claimed to be in Madoff accounts dwarfed the $11 billion fraud at WorldCom.
+
+
+== See also ==
+Accounting ethics
+Creative accounting
+Dot-com bubble
+Financial crisis of 2007–2008
+Forensic accounting
+Hollywood accounting
+List of corporate collapses and scandals
+Microcap stock fraud
+Philosophy of accounting
+Repo 105
+Sarbanes–Oxley Act
+Savings and loan crisis
+Securities fraud
+Tobashi scheme
+Vivien v. WorldCom
+White-collar crime
+
+
+== References ==
+
+
+== Further reading ==
+John R. Emshwiller and Rebecca Smith, 24 Days: How Two Wall Street Journal Reporters Uncovered the Lies that Destroyed Faith in Corporate America or Infectious Greed, HarperInformation, 2003, ISBN 0-06-052073-6
+Lawrence A. Cunningham, The Sarbanes-Oxley Yawn: Heavy Rhetoric, Light Reform (And It Might Just Work)
+Zabihollah Rezaee, Financial Statement Fraud: Prevention and Detection, Wiley 2002.
+
+
+== External links ==
+U.S. Securities and Exchange Commission website
+U.S. President Bush's speech, 2002-07-09 NPR report (audio recording)
+"GMI Warns of Accounting Risks at 40 Companies", Accounting Today, November 27, 2012
+"The Impact of Fraud on Shareholder Value", Business Insider, June 18, 2013

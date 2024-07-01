@@ -1,0 +1,112 @@
+ISO 31000 is a family of standards relating to risk management codified by the International Organization for Standardization. ISO 31000:2018 provides principles and generic guidelines on managing risks that could be negative faced by organizations as these could have consequence in terms of economic performance and professional reputation.
+ISO 31000 seeks to provide a universally recognized paradigm for practitioners and companies employing risk management processes to replace the myriad of existing standards, methodologies and paradigms that differed between industries, subject matters and regions. For this purpose, the recommendations provided in ISO 31000 can be customized to any organization and its context [1].
+As of 2020, ISO/TC 262, the committee responsible for this family of standards, has published five standards, while four additional standards are in the proposal/development stages.
+Published standards:
+
+ISO 31000:2018 - Risk management - Guidelines
+ISO/TR 31004:2013 - Risk management - Guidance for the implementation of ISO 31000
+ISO/IEC 31010:2019 - Risk management - Risk assessment techniques
+ISO 31022:2020 - Risk management - Guidelines for the management of legal risk
+ISO 31030:2021 Travel risk management — Guidance for organizations
+IWA 31:2020 - Risk management - Guidelines on using ISO 31000 in management systemsStandards under development:
+
+ISO/AWI 31073 - Risk management - Vocabulary
+ISO/WD 31050 - Guidance for managing emerging risks to enhance resilience
+ISO/CD 31070 - Risk management - Guidelines on core conceptsISO also designed its ISO 21500 Guidance on Project Management standard to align with ISO 31000:2018.Project Committee ISO/PC 317 published ISO 31700 Consumer Protection – privacy by design for consumer goods and services in January 2023.
+
+
+== Introduction ==
+ISO 31000 was published as a standard on 13 November 2009, and provides a standard on the implementation of risk management. A revised and harmonized ISO/IEC Guide 73 was published at the same time. The purpose of ISO 31000:2009 is to be applicable and adaptable for "any public, private or community enterprise, association, group or individual." Accordingly, the general scope of ISO 31000 – as a family of risk management standards – is not developed for a particular industry group, management system or subject matter field in mind, rather to provide best practice structure and guidance to all operations concerned with risk management. It began the process for its first revision on May 13, 2015. A draft International standard (DIS), which was open for public comment, was published on February 17, 2017. The ISO 31000 has been criticized for lack of solidness and misleading language.An update to ISO 31000 was added in early 2018. The update is different in that "ISO 31000:2018 provides more strategic guidance than ISO 31000:2009 and places more emphasis on both the involvement of senior management and the integration of risk management into the organization."
+
+
+== Scope ==
+ISO 31000:2018 provides a set of principles, guidelines for the design, implementation of a risk management framework and recommendations for the application of a risk management process. The risk management process as described in ISO 31000 can be applied to any activity, including decision-making at all levels [2].
+The difference between the terms risk management framework and risk management process is described by ISO as in the following:
+Risk management framework - set of components that provide the foundations and organizational arrangements for designing, implementing, mentoring, reviewing and continually improving risk management throughout the organization. With the help of the PDCA cycle, the system can be improved on an ongoing basis.Risk management process - systematic application of management policies, procedures and practices to the activities of communication, consulting, establishing the context, and identifying, analyzing, evaluating, treating, monitoring and reviewing risk [3]. In other words, what ISO 31000 does is that it formalizes risk management practices, and this approach is intended to facilitate broader adoption by companies who require an enterprise risk management standard that accommodates multiple ‘silo-centric’ management systems.The scope of this approach to risk management is to enable all strategic, management and operational tasks of an organization throughout projects, functions, and processes to be aligned to a common set of risk management objectives.
+Accordingly, ISO 31000 is intended for a broad stakeholder group including:
+
+executive level stakeholders
+appointment holders in the enterprise risk management group
+risk analysts and management officers
+line managers and project managers
+compliance and internal auditors
+independent practitioners.
+
+
+== Definitions ==
+
+One of the key paradigm shifts proposed in ISO 31000 is a change in how risk is conceptualised and defined.  Under both ISO 31000:2009 and ISO Guide 73, the definition of "risk" is no longer "chance or probability of loss", but "effect of uncertainty on objectives" ... thus causing the word "risk" to refer to positive consequences of uncertainty, as well as negative ones.  
+A similar definition was adopted in ISO 9001:2015 (Quality Management System Standard), in which risk is defined as, "effect of uncertainty." Additionally, a new risk related requirement, "risk-based thinking" was introduced there.
+Likewise, a broad new definition for stakeholder was established in ISO 31000, "Person or persons that can affect, be affected by, or perceive themselves to be affected by a decision or activity." It is the verbatim definition given for the term "interested party" as defined in ISO 9001:2015.
+
+
+== Framework approach ==
+ISO 31000:2009 has been developed on the basis of an existing standard on risk management, AS/NZS 4360:2004 (In the form of AS/NZS ISO 31000:2009). Whereas the initial Standards Australia approach provided a process by which risk management could be undertaken, ISO 31000:2009 addresses the entire management system that supports the design, implementation, maintenance and improvement of risk management processes.
+
+
+== Implementation ==
+The intent of ISO 31000 is to be applied within existing management systems to formalize and improve risk management processes as opposed to wholesale substitution of legacy management practices. Subsequently, when implementing ISO 31000, attention is to be given to integrating existing risk management processes in the new paradigm addressed in the standard.
+The focus of many ISO 31000 'harmonization' programmes have centered on:
+
+Transferring accountability gaps in enterprise risk management
+Aligning objectives of the governance frameworks with ISO 31000
+Embedding management system reporting mechanisms
+Creating uniform risk criteria and evaluation metrics
+
+
+== Implications ==
+While adopting any new standard may have re-engineering implications to existing management practices, no requirement to conform is set out in this standard. A detailed framework is described to ensure that an organization will have "the foundations and arrangements" required to embed needed organizational capabilities in order to maintain successful risk management practices. Foundations include risk management policy, objectives and mandate and commitment by top management. Arrangements include plans, relationships, accountabilites, resources, processes and activities.
+Accordingly, senior position holders in an enterprise risk management organisation will need to be cognisant of the implications for adopting the standard and be able to develop effective strategies for implementing the standard, embedding it as an integral part of all organizational processes including supply chains and commercial operations.  In domains that concern risk management which may operate using relatively unsophisticated risk management processes, such as security and corporate social responsibility, more material change will be required, such as creating a clearly articulated risk management policy, formalising risk ownership processes, structuring framework processes and adopting continuous improvement programmes.
+Certain aspects of top management accountability, strategic policy implementation and effective governance frameworks including communications and consultation, will require more consideration by organisations that have used previous risk management methodologies which have not specified such requirements.
+
+
+== Managing risk ==
+ISO 31000 gives a list on how to deal with risk:
+
+Avoiding the risk by deciding not to start or continue with the activity that gives rise to the risk
+Accepting or increasing the risk in order to pursue an opportunity
+Removing the risk source
+Changing the likelihood
+Changing the consequences
+Sharing the risk with another party or parties (including contracts and risk financing)
+Retaining the risk by informed decision
+
+
+== Accreditation ==
+ISO 31000 has not been developed with the intention for certification. (2009)
+
+
+== History ==
+
+
+== See also ==
+Annex SL
+Enterprise risk management
+International Disaster and Risk Conference
+ISO 9000
+ISO 14001
+ISO 19600
+ISO 22000
+ISO 28000
+ISO 45001
+ISO 55000
+Operational risk management
+PDCA
+Risk
+Risk assessment
+Risk management
+Risk management tools
+Security risk
+
+
+== References ==
+
+Airmic / Alarm / IRM (2010) "A structured approach to Enterprise Risk Management (ERM) and the requirements of ISO 31000"
+
+
+== External links ==
+Standard International Organization for Standardization
+Standard AS/NZS ISO 31000:2009 Risk management – Principles and guidelines
+Discussion : LinkedIn discussion forum on ISO 31000:2009 Risk management – Principles and guidelines
+Article ISO 31000 : The Gold Standard, Alex Dali and Christopher Lajtha, Strategic Risk, September 2009
+Article ISO 31000 standard: a different perspective on risk and risk management

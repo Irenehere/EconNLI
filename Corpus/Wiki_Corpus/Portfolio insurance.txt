@@ -1,0 +1,17 @@
+Portfolio insurance is a hedging strategy developed to limit the losses an investor might face from a declining index of stocks without having to sell the stocks themselves. The technique was pioneered by Hayne Leland and Mark Rubinstein in 1976.  Since its inception, the portfolio insurance strategy has been dubiously marketed as a product (similar to an insurance policy).  However, this is a misnomer as it is not a policy and there is no insurer of last resort.    
+This strategy involves selling futures of a stock index during periods of price declines.  The proceeds from the sale of the futures help to offset paper losses of the owned portfolio.  This is similar to buying a put option in that it allows an investor to preserve upside gains but limits downside risk.  Portfolio insurance is most commonly used by institutional investors when the market direction is uncertain or volatile. 
+In practice, a portfolio insurance strategy uses computer-based models to analyze an optimal level of stock-to-cash ratios in various stock market conditions.  Though the number of owned shares could stay the same, the total portfolio value changes with the market.  As the market drops, a portfolio insurer would increase cash levels by selling index futures, maintaining the target ratio.  Conversely, the same portfolio insurer might buy index futures when stock values rise.  This combination of buying and selling of index futures is done in an effort to maintain the proper stock-to-cash ratio demanded by the portfolio insurance model or strategy.
+
+
+== Contribution to the 1987 Stock Market Crash ==
+Both portfolio insurance and index arbitrage are commonly cited as two types of computer program trading which contributed to the stock market crash of October 19, 1987, also known as Black Monday.Though there is no debate that these two programs played a role in the crash, there seems to have been at least some debate as to the magnitude of their influence.  Later analysis that year by a Committee of Inquiry under the Chicago Mercantile Exchange brought forth supporting evidence that the market selloff was more heavily influenced by larger forces such as mutual funds, broker-dealers, and individual shareholders.
+Portfolio insurance has been roundly criticized over time as having been oversold in terms of its ability to protect the investor deploying it as a protection strategy.  In its Preliminary Report, the Committee of Inquiry for the Chicago Mercantile Exchange outlined its criticism:"[S]ome members of the Committee believe that the purveyors of so-called "dynamic hedging" oversold these programs by marketing them as "insurance."  There is no reason to believe, however, that the use of portfolio insurance will diminish now that the limitations of the insurance concept have been demonstrated."In August of 2019, CNBC's Jim Cramer criticized portfolio insurance and the role it played during the 1987 crash.
+
+
+== See also ==
+Constant proportion portfolio insurance
+Securities Investor Protection Corporation
+Financial risk management § Investment management
+
+
+== References ==

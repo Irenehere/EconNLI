@@ -1,0 +1,34 @@
+The monetary transmission mechanism is the process by which asset prices and general economic conditions are affected as a result of monetary policy decisions. Such decisions are intended to influence the aggregate demand, interest rates, and amounts of money and credit in order to affect overall economic performance. The traditional monetary transmission mechanism occurs through interest rate channels, which affect interest rates, costs of borrowing, levels of physical investment, and aggregate demand. Additionally, aggregate demand can be affected through friction in the credit markets, known as the credit view. In short, the monetary transmission mechanism can be defined as the link between monetary policy and aggregate demand.
+
+
+== Traditional interest rate channels ==
+An interest rate channel may be categorized as traditional, which means monetary policy affects real (rather than nominal) interest rates, which influence investment, spending on new housing, consumer spending, and aggregate demand. An easing of monetary policy in the traditional view leads to a decrease in real interest rates, which lowers the cost of borrowing resulting in greater investment spending, which results in an overall increase in aggregate demand.
+
+
+== Credit view ==
+Apart from the traditional channel which focuses on effects as a result of changes to the interest rate, additional methods exist to allow monetary policy to achieve the desired economic results and changes in aggregate demand, but through different channels categorized as the credit view. The credit view argues that financial friction in the credit markets creates additional channels that lead to changes in aggregate demand. These channels operate through effects on bank lending, as well as the effects on the balance sheet of a given firm or household.
+Bank lending channelMonetary policy affects bank deposits, leading to changes in the amount of bank loans and investment in residential housing.
+Balance sheet channelMonetary policy affects stock prices, leading to moral hazard and adverse selection, which leads to changes in lending activity and investment
+Cash flow channelMonetary policy leads to changes in nominal interest rates, which affects cash flow, leading to moral hazard, adverse selection, and changes in lending activity and investment
+Unanticipated price level channelMonetary policy can lead to unanticipated price level changes, resulting in moral hazard, adverse selection, and changes in lending activity and investment
+Household liquidity effectsMonetary policy affects stock prices, leading to changes in financial wealth and the probability of financial distress, which affects residential housing and consumer spending
+
+
+== Other asset price effects ==
+
+Finally, other asset price effects have separate channels which allow monetary policy to affect aggregate demand:
+
+Exchange rate effects on net exportsMonetary policy affects real interest rates and the exchange rate, leading to changes in net exports
+Tobin's q theoryMonetary policy affects stock prices, leading to changes in Tobin's q (the market value of firms divided by the replacement cost of capital) and investment
+Wealth effectsMonetary policy affects stock prices, which affects financial wealth and consumption (consumer spending on nondurable goods and services)
+
+
+== References ==
+
+
+== Further reading ==
+https://www.ecb.europa.eu/mopo/intro/transmission/html/index.en.html European Central Bank. Transmission Mechanism of Monetary Policy. Web. 29 March 2016.
+Christiano, Lawrence; Eichenbaum, Martin (1992). "Liquidity Effects and the Monetary Transmission Mechanism". American Economic Review. Papers and Proceedings. 82 (2): 346–353. JSTOR 2117426.
+https://www.newyorkfed.org/medialibrary/media/research/epr/02v08n1/0205kutt.pdf Kuttner, Kenneth. Mosser, Patricia. The Monetary Transmission Mechanism: Some Answers and Further Questions (2002). Web. 29 March 2016.
+https://www.federalreserve.gov/pubs/feds/2010/201026/201026pap.pdf Boivin, Jean. Kiley, Michael. Mishkin, Frederic. How Has the Monetary Transmission Mechanism Evolved Over Time? (2010). Web. 29 March 2016.
+Mishkin, Frederic S. "26." The Economics of Money, Banking, and Financial Markets. Reading, MA: Addison-Wesley, 1998. Print.

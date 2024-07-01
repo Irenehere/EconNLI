@@ -1,0 +1,798 @@
+Rational pricing is the assumption in financial economics that asset prices – and hence asset pricing models – will reflect the arbitrage-free price of the asset as any deviation from this price will be "arbitraged away". This assumption is useful in pricing fixed income securities, particularly bonds, and is fundamental to the pricing of derivative instruments.
+
+
+== Arbitrage mechanics ==
+Arbitrage is the practice of taking advantage of a state of imbalance between two (or possibly more) markets. Where this mismatch can be exploited (i.e. after transaction costs, storage costs, transport costs, dividends etc.) the arbitrageur can "lock in" a risk-free profit by purchasing and selling simultaneously in both markets.
+In general, arbitrage ensures that "the law of one price" will hold; arbitrage also equalises the prices of assets with identical cash flows, and sets the price of assets with known future cash flows.
+
+
+=== The law of one price ===
+The same asset must trade at the same price on all markets ("the law of one price").
+Where this is not true, the arbitrageur will:
+
+buy the asset on the market where it has the lower price, and simultaneously sell it (short) on the second market at the higher price
+deliver the asset to the buyer and receive that higher price
+pay the seller on the cheaper market with the proceeds and pocket the difference.
+
+
+=== Assets with identical cash flows ===
+Two assets with identical cash flows must trade at the same price. Where this is not true, the arbitrageur will:
+
+sell the asset with the higher price (short sell) and simultaneously buy the asset with the lower price
+fund his purchase of the cheaper asset with the proceeds from the sale of the expensive asset and pocket the difference
+deliver on his obligations to the buyer of the expensive asset, using the cash flows from the cheaper asset.
+
+
+=== An asset with a known future-price ===
+An asset with a known price in the future must today trade at that price discounted at the risk free rate.
+Note that this condition can be viewed as an application of the above, where the two assets in question are the asset to be delivered and the risk free asset.
+(a) where the discounted future price is higher than today's price:
+
+The arbitrageur agrees to deliver the asset on the future date (i.e. sells forward) and simultaneously buys it today with borrowed money.
+On the delivery date, the arbitrageur hands over the underlying, and receives the agreed price.
+He then repays the lender the borrowed amount plus interest.
+The difference between the agreed price and the amount repaid (i.e. owed) is the arbitrage profit.(b) where the discounted future price is lower than today's price:
+
+The arbitrageur agrees to pay for the asset on the future date (i.e. buys forward) and simultaneously sells (short) the underlying today; he invests (or banks) the proceeds.
+On the delivery date, he cashes in the matured investment, which has appreciated at the risk free rate.
+He then takes delivery of the underlying and pays the agreed price using the matured investment.
+The difference between the maturity value and the agreed price is the arbitrage profit.Point (b) is only possible for those holding the asset but not needing it until the future date.  There may be few such parties if short-term demand exceeds supply, leading to backwardation.
+
+
+== Fixed income securities ==
+See also Fixed income arbitrage; Bond credit rating.Rational pricing is one approach used in pricing fixed rate bonds. 
+Here, each cash flow on the bond can be matched by trading in either 
+(a) some multiple of a zero-coupon bond, ZCB, corresponding to each coupon date, and of equivalent credit worthiness (if possible, from the same issuer as the bond being valued) with the corresponding maturity, 
+or (b) in a strip corresponding to each coupon, and a ZCB for the return of principle on maturity. 
+Then, given that the cash flows can be replicated, the price of the bond must today equal the sum of each of its cash flows discounted at the same rate as each ZCB (per #Assets with identical cash flows). 
+Were this not the case, arbitrage would be possible and would bring the price back into line with the price based on ZCBs. The mechanics are as follows.
+Where the price of the bond is misaligned with the present value of the ZCBs, the arbitrageur could:
+
+finance her purchase of whichever of the bond or the sum of the ZCBs was cheaper
+by short selling the other
+and meeting her cash flow commitments using the coupons or maturing zeroes as appropriate
+then, her profit would be the difference between the two values.The pricing formula is then  
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        =
+        
+          ∑
+          
+            t
+            =
+            1
+          
+          
+            T
+          
+        
+        
+          
+            
+              C
+              
+                t
+              
+            
+            
+              (
+              1
+              +
+              
+                r
+                
+                  t
+                
+              
+              
+                )
+                
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle P_{0}=\sum _{t=1}^{T}{\frac {C_{t}}{(1+r_{t})^{t}}}}
+  , where each cash flow 
+  
+    
+      
+        
+          C
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle C_{t}\,}
+   is discounted at the rate  
+  
+    
+      
+        
+          r
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle r_{t}\,}
+   that matches the coupon date. 
+Often, the formula is expressed as 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        =
+        
+          ∑
+          
+            t
+            =
+            1
+          
+          
+            T
+          
+        
+        C
+        (
+        t
+        )
+        ×
+        P
+        (
+        t
+        )
+      
+    
+    {\displaystyle P_{0}=\sum _{t=1}^{T}C(t)\times P(t)}
+  , using prices instead of rates, as prices are more readily available.
+Rational pricing also applies to interest rate modeling more generally: 
+yield curves must be arbitrage-free with respect to the prices of individual instruments. See Bootstrapping (finance) and Multi-curve framework.
+
+
+== Pricing derivatives ==
+A derivative is an instrument that allows for buying and selling of the same asset on two markets – the spot market and the derivatives market. Mathematical finance assumes that any imbalance between the two markets will be arbitraged away. Thus, in a correctly priced derivative contract, the derivative price, the strike price (or reference rate), and the spot price will be related such that arbitrage is not possible. See Fundamental theorem of arbitrage-free pricing.
+
+
+=== Futures ===
+In a futures contract, for no arbitrage to be possible, the price paid on delivery (the forward price) must be the same as the cost (including interest) of buying and storing the asset. In other words, the rational forward price represents the expected future value of the underlying discounted at the risk free rate (the "asset with a known future-price", as above); see Spot–future parity. Thus, for a simple, non-dividend paying asset, the value of the future/forward, 
+  
+    
+      
+        F
+        (
+        t
+        )
+        
+      
+    
+    {\displaystyle F(t)\,}
+  , will be found by accumulating the present value 
+  
+    
+      
+        S
+        (
+        t
+        )
+        
+      
+    
+    {\displaystyle S(t)\,}
+   at time 
+  
+    
+      
+        t
+        
+      
+    
+    {\displaystyle t\,}
+   to maturity 
+  
+    
+      
+        T
+        
+      
+    
+    {\displaystyle T\,}
+   by the rate of risk-free return 
+  
+    
+      
+        r
+        
+      
+    
+    {\displaystyle r\,}
+  .
+
+  
+    
+      
+        F
+        (
+        t
+        )
+        =
+        S
+        (
+        t
+        )
+        ×
+        (
+        1
+        +
+        r
+        
+          )
+          
+            (
+            T
+            −
+            t
+            )
+          
+        
+        
+      
+    
+    {\displaystyle F(t)=S(t)\times (1+r)^{(T-t)}\,}
+  This relationship may be modified for storage costs, dividends, dividend yields, and convenience yields; see futures contract pricing.
+Any deviation from this equality allows for arbitrage as follows.
+
+In the case where the forward price is higher:The arbitrageur sells the futures contract and buys the underlying today (on the spot market) with borrowed money.
+On the delivery date, the arbitrageur hands over the underlying, and receives the agreed forward price.
+He then repays the lender the borrowed amount plus interest.
+The difference between the two amounts is the arbitrage profit.In the case where the forward price is lower:The arbitrageur buys the futures contract and sells the underlying today (on the spot market); he invests the proceeds.
+On the delivery date, he cashes in the matured investment, which has appreciated at the risk free rate.
+He then receives the underlying and pays the agreed forward price using the matured investment. [If he was short the underlying, he returns it now.]
+The difference between the two amounts is the arbitrage profit.
+
+
+=== Swaps ===
+Rational pricing underpins the logic of swap valuation. Here, two counterparties "swap" obligations, effectively exchanging cash flow streams calculated against a notional principal amount, and the value of the swap is the present value (PV) of both sets of future cash flows "netted off" against each other. To be arbitrage free, the terms of a swap contract are such that, initially, the Net present value of these future cash flows is equal to zero; see Swap (finance)#Valuation and Pricing.  Once traded, swaps can (must) also be priced using rational pricing. The examples below are for interest rate swaps –  and is representative of pure rational pricing as it excludes credit risk –  although the principle applies to any type of swap.
+
+
+==== Valuation at initiation ====
+Consider a fixed-to-floating Interest rate swap where Party A pays a fixed rate ("Swap rate"), and Party B pays a floating rate. Here, the fixed rate would be such that the present value of future fixed rate payments by Party A is equal to the present value of the expected future floating rate payments (i.e. the NPV is zero). Were this not the case, an arbitrageur, C, could:
+
+Assume the position with the lower present value of payments, and borrow funds equal to this present value
+Meet the cash flow obligations on the position by using the borrowed funds, and receive the corresponding payments—which have a higher present value
+Use the received payments to repay the debt on the borrowed funds
+Pocket the difference – where the difference between the present value of the loan and the present value of the inflows is the arbitrage profit
+
+
+==== Subsequent valuation ====
+The Floating leg of an interest rate swap can be "decomposed" into a series of forward rate agreements. Here, since the swap has identical payments to the FRA,  arbitrage free pricing must apply as above – i.e. the value of this leg is equal to the value of the corresponding FRAs. Similarly, the "receive-fixed" leg of a swap can be valued by comparison to a bond with the same schedule of payments. (Relatedly, given that their underlyings have the same cash flows, bond options and swaptions are equatable.)  See Swap (finance)#Using bond prices.
+
+
+=== Options ===
+As above, where the value of an asset in the future is known (or expected), this value can be used to determine the asset's rational price today. In an option contract, however, exercise is dependent on the price of the underlying, and hence payment is uncertain. Option pricing models therefore include logic that either "locks in" or "infers" this future value; both approaches deliver identical results. Methods that lock-in future cash flows assume arbitrage free pricing, and those that infer expected value assume risk neutral valuation.
+To do this, (in their simplest, though widely used form) both approaches assume a "binomial model" for the behavior of the underlying instrument, which allows for only two states – up or down. If S is the current price, then in the next period the price will either be S up or S down. Here, the value of the share in the up-state is S × u, and in the down-state is S × d (where u and d are multipliers with d < 1 < u and assuming d < 1+r < u; see the binomial options model). Then, given these two states, the "arbitrage free" approach creates a position that has an identical value in either state – the cash flow in one period is therefore known, and arbitrage pricing is applicable. The risk neutral approach infers expected option value from the intrinsic values at the later two nodes.
+Although this logic appears far removed from the Black–Scholes formula and the lattice approach in the Binomial options model, it in fact underlies both models; see The Black–Scholes PDE. The assumption of binomial behaviour in the underlying price is defensible as the number of time steps between today (valuation) and exercise increases, and the period per time-step is correspondingly short. The Binomial options model allows for a high number of very short time-steps (if coded correctly), while Black–Scholes, in fact, models a continuous process.
+The examples below have shares as the underlying, but may be generalised to other instruments. The value of a put option can be derived as below, or may be found from the value of the call using put–call parity.
+
+
+==== Arbitrage free pricing ====
+Here, the future payoff is "locked in" using either "delta hedging" or the "replicating portfolio" approach. As above, this payoff is then discounted, and the result is used in the valuation of the option today.
+
+
+===== Delta hedging =====
+It is possible to create a position consisting of Δ shares and 1 call sold, such that the position's value will be identical in the S up and S down states, and hence known with certainty (see Delta hedging).  This certain value corresponds to the forward price above ("An asset with a known future price"), and as above, for no arbitrage to be possible, the present value of the position must be its expected future value discounted at the risk free rate, r. The value of a call is then found by equating the two.
+
+Solve for Δ such that:
+value of position in one period = Δ × S up - 
+  
+    
+      
+        m
+        a
+        x
+      
+    
+    {\displaystyle max}
+   (S up – strike price, 0)  =  Δ × S down - 
+  
+    
+      
+        m
+        a
+        x
+      
+    
+    {\displaystyle max}
+   (S down – strike price, 0)
+Solve for the value of the call, using Δ, where:
+value of position today = value of position in one period ÷ (1 + r) =  Δ × S current – value of call
+
+
+===== The replicating portfolio =====
+
+It is possible to create a position consisting of Δ shares and $B borrowed at the risk free rate, which will produce identical cash flows to one option on the underlying share. The position created is known as a "replicating portfolio" since its cash flows replicate those of the option. As shown above ("Assets with identical cash flows"), in the absence of arbitrage opportunities, since the cash flows produced are identical, the price of the option today must be the same as the value of the position today.
+
+Solve simultaneously for Δ and B such that:
+Δ × S up - B × (1 + r) =  
+  
+    
+      
+        max
+      
+    
+    {\displaystyle \max }
+   (0, S up – strike price)
+Δ × S down - B × (1 + r) =  
+  
+    
+      
+        max
+      
+    
+    {\displaystyle \max }
+   (0, S down – strike price)
+Solve for the value of the call, using Δ and B, where:
+call = Δ × S current - BNote that there is no discounting here –  the interest rate appears only as part of the construction. This approach is therefore used in preference to others where it is not clear whether the risk free rate may be applied as the discount rate at each decision point, or whether, instead, a premium over risk free, differing by state, would be required. The best example of this would be under real options analysis where managements' actions actually change the risk characteristics of the project in question, and hence the Required rate of return could differ in the up- and down-states. Here, in the above formulae, we then have: "Δ × S up - B × (1 + r up)..." and "Δ × S down - B × (1 + r down)...". See Real options valuation#Technical considerations. (Another case where the modelling assumptions may depart from rational pricing is the valuation of employee stock options.)
+
+
+==== Risk neutral valuation ====
+Here the value of the option is calculated using the risk neutrality assumption. Under this assumption, the "expected value" (as opposed to "locked in" value) is discounted. The expected value is calculated using the intrinsic values from the later two nodes: "Option up" and "Option down", with u and d as price multipliers as above.  These are then weighted by their respective probabilities: "probability" p of an up move in the underlying, and "probability" (1-p) of a down move. The expected value is then discounted at r, the risk-free rate.
+
+Solve for p
+under risk-neutrality, for no arbitrage to be possible in the share, today's price must represent its expected value discounted at the risk free rate (i.e., the share price is a Martingale):
+
+  
+    
+      
+        
+          
+            
+              
+                S
+              
+              
+                
+                =
+                
+                  
+                    
+                      p
+                      ×
+                      
+                        S
+                        
+                          u
+                        
+                      
+                      +
+                      (
+                      1
+                      −
+                      p
+                      )
+                      ×
+                      
+                        S
+                        
+                          d
+                        
+                      
+                    
+                    
+                      1
+                      +
+                      r
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      p
+                      ×
+                      u
+                      ×
+                      S
+                      +
+                      (
+                      1
+                      −
+                      p
+                      )
+                      ×
+                      d
+                      ×
+                      S
+                    
+                    
+                      1
+                      +
+                      r
+                    
+                  
+                
+              
+            
+            
+              
+                ⇒
+                p
+              
+              
+                
+                =
+                
+                  
+                    
+                      (
+                      1
+                      +
+                      r
+                      )
+                      −
+                      d
+                    
+                    
+                      u
+                      −
+                      d
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}S&={\frac {p\times S_{u}+(1-p)\times S_{d}}{1+r}}\\&={\frac {p\times u\times S+(1-p)\times d\times S}{1+r}}\\\Rightarrow p&={\frac {(1+r)-d}{u-d}}\\\end{aligned}}}
+  
+Solve for call value, using p
+for no arbitrage to be possible in the call, today's price must represent its expected value discounted at the risk free rate:
+
+  
+    
+      
+        
+          
+            
+              
+                C
+              
+              
+                
+                =
+                
+                  
+                    
+                      p
+                      ×
+                      
+                        C
+                        
+                          u
+                        
+                      
+                      +
+                      (
+                      1
+                      −
+                      p
+                      )
+                      ×
+                      
+                        C
+                        
+                          d
+                        
+                      
+                    
+                    
+                      1
+                      +
+                      r
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      p
+                      ×
+                      max
+                      (
+                      
+                        S
+                        
+                          u
+                        
+                      
+                      −
+                      k
+                      ,
+                      0
+                      )
+                      +
+                      (
+                      1
+                      −
+                      p
+                      )
+                      ×
+                      max
+                      (
+                      
+                        S
+                        
+                          d
+                        
+                      
+                      −
+                      k
+                      ,
+                      0
+                      )
+                    
+                    
+                      1
+                      +
+                      r
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}C&={\frac {p\times C_{u}+(1-p)\times C_{d}}{1+r}}\\&={\frac {p\times \max(S_{u}-k,0)+(1-p)\times \max(S_{d}-k,0)}{1+r}}\\\end{aligned}}}
+  
+
+
+===== The risk neutrality assumption =====
+Note that above, the risk neutral formula does not refer to the expected or forecast return of the underlying, nor its volatility –  p as solved, relates to the risk-neutral measure as opposed to the actual probability distribution of prices. Nevertheless, both arbitrage free pricing and risk neutral valuation deliver identical results. In fact, it can be shown that "delta hedging" and "risk-neutral valuation" use identical formulae expressed differently. Given this equivalence, it is valid to assume "risk neutrality" when pricing derivatives. A more formal relationship is described via the fundamental theorem of arbitrage-free pricing.
+
+
+== Pricing shares ==
+The arbitrage pricing theory (APT), a general theory of asset pricing, has become influential in the pricing of shares.  APT holds that the expected return of a financial asset can be modelled as a linear function of various macro-economic factors, where sensitivity to changes in each factor is represented by a factor specific beta coefficient:
+
+  
+    
+      
+        E
+        
+          (
+          
+            r
+            
+              j
+            
+          
+          )
+        
+        =
+        
+          r
+          
+            f
+          
+        
+        +
+        
+          b
+          
+            j
+            1
+          
+        
+        
+          F
+          
+            1
+          
+        
+        +
+        
+          b
+          
+            j
+            2
+          
+        
+        
+          F
+          
+            2
+          
+        
+        +
+        .
+        .
+        .
+        +
+        
+          b
+          
+            j
+            n
+          
+        
+        
+          F
+          
+            n
+          
+        
+        +
+        
+          ϵ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle E\left(r_{j}\right)=r_{f}+b_{j1}F_{1}+b_{j2}F_{2}+...+b_{jn}F_{n}+\epsilon _{j}}
+  where
+
+  
+    
+      
+        E
+        (
+        
+          r
+          
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle E(r_{j})}
+   is the risky asset's expected return,
+
+  
+    
+      
+        
+          r
+          
+            f
+          
+        
+      
+    
+    {\displaystyle r_{f}}
+   is the risk free rate,
+
+  
+    
+      
+        
+          F
+          
+            k
+          
+        
+      
+    
+    {\displaystyle F_{k}}
+   is the macroeconomic factor,
+
+  
+    
+      
+        
+          b
+          
+            j
+            k
+          
+        
+      
+    
+    {\displaystyle b_{jk}}
+   is the sensitivity of the asset to factor 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  ,
+and 
+  
+    
+      
+        
+          ϵ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \epsilon _{j}}
+   is the risky asset's idiosyncratic random shock with mean zero.The model derived rate of return will then be used to price the asset correctly – the asset price should equal the expected end of period price discounted at the rate implied by model. If the price diverges, arbitrage should bring it back into line. Here, to perform the arbitrage, the investor "creates" a correctly priced asset (a synthetic asset), a portfolio with the same net-exposure to each of the macroeconomic factors as the mispriced asset but a different expected return. See the arbitrage pricing theory article for detail on the construction of the portfolio.  The arbitrageur is then in a position to make a risk free profit as follows:
+
+Where the asset price is too low, the portfolio should have appreciated at the rate implied by the APT, whereas the mispriced asset would have appreciated at more than this rate. The arbitrageur could therefore:Today: short sell the portfolio and buy the mispriced-asset with the proceeds.
+At the end of the period: sell the mispriced asset, use the proceeds to buy back the portfolio, and pocket the difference.Where the asset price is too high, the portfolio should have appreciated at the rate implied by the APT, whereas the mispriced asset would have appreciated at less than this rate. The arbitrageur could therefore:Today: short sell the mispriced-asset and buy the portfolio with the proceeds.
+At the end of the period: sell the portfolio, use the proceeds to buy back the mispriced-asset, and pocket the difference.Note that under "true arbitrage", the investor locks-in a guaranteed payoff, whereas under APT arbitrage, the investor locks-in a positive expected payoff. The APT thus assumes "arbitrage in expectations" – i.e. that arbitrage by investors will bring asset prices back into line with the returns expected by the model.
+The capital asset pricing model (CAPM) is an earlier, (more) influential theory on asset pricing. Although based on different assumptions, the CAPM can, in some ways, be considered a "special case" of the APT; specifically, the CAPM's security market line represents a single-factor model of the asset price, where beta is exposure to changes in the "value of the market" as a whole.
+
+
+== No-arbitrage pricing under systemic risk ==
+Classical valuation methods like the Black–Scholes model or the Merton model cannot account for systemic counterparty risk which is present in systems with financial interconnectedness.
+More details regarding risk-neutral, arbitrage-free asset and derivative valuation can be found in the systemic risk
+article (see also valuation under systemic risk).
+
+
+== See also ==
+Asset pricing § Rational pricing
+Contingent claim analysis
+Covered interest arbitrage
+Efficient-market hypothesis
+Fair value
+Fundamental theorem of arbitrage-free pricing
+Homo economicus
+List of valuation topics
+No free lunch with vanishing risk
+Rational choice theory
+Rationality
+Risk-neutral measure
+Volatility arbitrage
+Systemic risk
+Yield curve / interest rate modeling:
+Yield curve § Construction of the full yield curve from market data
+Bootstrapping (finance)
+Multi-curve framework
+
+
+== References ==
+
+
+== External links ==
+Arbitrage free pricingPricing by Arbitrage, The History of Economic Thought Website
+"The Fundamental Theorem" of Finance; part II. Prof. Mark Rubinstein, Haas School of Business
+The Notion of Arbitrage and Free Lunch in Mathematical Finance, Prof. Walter SchachermayerRisk neutrality and arbitrage free pricingRisk-Neutral Probabilities Explained. Nicolas Gisiger
+Risk-neutral Valuation: A Gentle Introduction, Part II. Joseph Tham Duke UniversityApplication to derivativesOption Valuation in the Binomial Model (archived), Prof. Ernst Maug, Rensselaer Polytechnic Institute
+The relationship between futures and spot prices, Investment Analysts Society of Southern Africa
+Swaptions and Options, Prof. Don M. Chance

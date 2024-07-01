@@ -1,0 +1,184 @@
+In finance, valuation is the process of determining the value of a (potential) investment, asset, or security. 
+Generally, there are three approaches taken, namely discounted cashflow valuation, relative valuation, and contingent claim valuation.Valuations can be done for assets (for example, investments in marketable securities such as companies' shares and related rights, business enterprises, or intangible assets such as patents, data and trademarks) 
+or for liabilities (e.g., bonds issued by a company). 
+Valuation is a subjective exercise, and in fact, the process of valuation itself can also affect the value of the asset in question. 
+Valuations may be needed for various reasons such as investment analysis, capital budgeting, merger and acquisition transactions, financial reporting, taxable events to determine the proper tax liability.
+In a business valuation context, various techniques are used to determine the (hypothetical) price that a third party would pay for a given company;
+while in a portfolio management context, stock valuation is used by analysts to determine the price at which the stock is fairly valued relative to its projected and historical earnings, and to thus profit from related price movement.
+
+
+== Valuation overview ==
+Common terms for the value of an asset or liability are market value, fair value, and intrinsic value. The meanings of these terms differ. For instance, when an analyst believes a stock's intrinsic value is greater (or less) than its market price, an analyst makes a "buy" (or "sell") recommendation. Moreover, an asset's intrinsic value may be subject to personal opinion and vary among analysts. The International Valuation Standards include definitions for common bases of value and generally accepted practice procedures for valuing assets of all types. Regardless, the valuation itself is done generally using one or more of the following approaches; but see also, Outline of finance  § Valuation:
+
+Absolute value models ("Intrinsic valuation") that determine the present value of an asset's expected future cash flows. These models take two general forms: multi-period models such as discounted cash flow models, or single-period models such as the Gordon model (which, in fact, often "telescope" the former). These models rely on mathematics rather than price observation. See § Discounted cash flow valuation there.
+Relative value models determine value based on the observation of market prices of 'comparable' assets, relative to a common variable like earnings, cashflows, book value or sales. This result will often be used to complement / revisit the intrinsic valuation. See § Relative valuation there.
+Option pricing models, in this context, are used to value specific balance-sheet items, or the asset itself, when these have option-like characteristics.  Examples of the first type are warrants, employee stock options, and investments with embedded options such as callable bonds; the second type are usually real options.  The most common option pricing models employed here are the Black–Scholes-Merton models and lattice models. This approach is sometimes referred to as contingent claim valuation, in that the value will be contingent on some other asset; see § Contingent claim valuation there.
+
+
+== Usage ==
+In finance, valuation analysis is required for many reasons including tax assessment, wills and estates, divorce settlements, business analysis, and basic bookkeeping and accounting. Since the value of things fluctuates over time, valuations are as of a specific date like the end of the accounting quarter or year. They may alternatively be mark-to-market estimates of the current value of assets or liabilities as of this minute or this day for the purposes of managing portfolios and associated financial risk (for example, within large financial firms including investment banks and stockbrokers).
+Some balance sheet items are much easier to value than others. Publicly traded stocks and bonds have prices that are quoted frequently and readily available. Other assets are harder to value. For instance, private firms that have no frequently quoted price. Additionally, financial instruments that have prices that are partly dependent on theoretical models of one kind or another are difficult to value and this generates valuation risk. For example, options are generally valued using the Black–Scholes model while the liabilities of life assurance firms are valued using the theory of present value. Intangible business assets, like goodwill and intellectual property, are open to a wide range of value interpretations. Another intangible asset, data, is increasingly being recognized as a valuable asset in the information economy.It is possible and conventional for financial professionals to make their own estimates of the valuations of assets or liabilities that they are interested in. Their calculations are of various kinds including analyses of companies that focus on price-to-book, price-to-earnings, price-to-cash-flow and present value calculations, and analyses of bonds that focus on credit ratings, assessments of default risk, risk premia, and levels of real interest rates. All of these approaches may be thought of as creating estimates of value that compete for credibility with the prevailing share or bond prices, where applicable, and may or may not result in buying or selling by market participants. Where the valuation is for the purpose of a merger or acquisition the respective businesses make available further detailed financial information, usually on the completion of a non-disclosure agreement.
+Valuation requires judgment and assumptions:
+
+There are different circumstances and purposes to value an asset (e.g., distressed firm, tax purposes, mergers and acquisitions, financial reporting). Such differences can lead to different valuation methods or different interpretations of the method results
+All valuation models and methods have limitations (e.g., degree of complexity, relevance of observations, mathematical form)
+Model inputs can vary significantly because of necessary judgment and differing assumptionsUsers of valuations benefit when key information, assumptions, and limitations are disclosed to them. Then they can weigh the degree of reliability of the result and make their decision.
+
+
+== Business valuation ==
+
+Businesses or fractional interests in businesses may be valued for various purposes such as mergers and acquisitions, sale of securities, and taxable events. When correct, a valuation should reflect the capacity of the business to match a certain market demand, as it is the only true predictor of future cash flows. An accurate valuation of privately owned companies largely depends on the reliability of the firm's historic financial information. Public company financial statements are audited by Certified Public Accountants (USA), Chartered Certified Accountants (ACCA) or Chartered Accountants (UK), and Chartered Professional Accountants (Canada) and overseen by a government regulator. Alternatively, private firms do not have government oversight—unless operating in a regulated industry—and are usually not required to have their financial statements audited. Moreover, managers of private firms often prepare their financial statements to minimize profits and, therefore, taxes. Alternatively, managers of public firms tend to want higher profits to increase their stock price. Therefore, a firm's historic financial information may not be accurate and can lead to over- and undervaluation. In an acquisition, a buyer often performs due diligence to verify the seller's information.
+Financial statements prepared in accordance with generally accepted accounting principles (GAAP) show many assets based on their historic costs rather than at their current market values. For instance, a firm's balance sheet will usually show the value of land it owns at what the firm paid for it rather than at its current market value. But under GAAP requirements, a firm must show the fair values (which usually approximates market value) of some types of assets such as financial instruments that are held for sale rather than at their original cost. When a firm is required to show some of its assets at fair value, some call this process "mark-to-market". But reporting asset values on financial statements at fair values gives managers ample opportunity to slant asset values upward to artificially increase profits and their stock prices. Managers may be motivated to alter earnings upward so they can earn bonuses. Despite the risk of manager bias, equity investors and creditors prefer to know the market values of a firm's assets—rather than their historical costs—because current values give them better information to make decisions.
+There are commonly three pillars to valuing business entities: comparable company analyses, discounted cash flow analysis, and precedent transaction analysis. Business valuation credentials include the Chartered Business Valuator (CBV) offered by the CBV Institute, ASA and CEIV from the American Society of Appraisers, and the CVA by the National Association of Certified Valuators and Analysts.
+
+
+=== Discounted cash flow method ===
+
+This method estimates the value of an asset based on its expected future cash flows, which are discounted to the present (i.e., the present value). This concept of discounting future money is commonly known as the time value of money. For instance, an asset that matures and pays $1 in one year is worth less than $1 today. The size of the discount is based on an opportunity cost of capital and it is expressed as a percentage or discount rate.
+In finance theory, the amount of the opportunity cost is based on a relation between the risk and return of some sort of investment. Classic economic theory maintains that people are rational and averse to risk. They, therefore, need an incentive to accept risk. The incentive in finance comes in the form of higher expected returns after buying a risky asset. In other words, the more risky the investment, the more return investors want from that investment. Using the same example as above, assume the first investment opportunity is a government bond that will pay interest of 5% per year and the principal and interest payments are guaranteed by the government. Alternatively, the second investment opportunity is a bond issued by small company and that bond also pays annual interest of 5%. If given a choice between the two bonds, virtually all investors would buy the government bond rather than the small-firm bond because the first is less risky while paying the same interest rate as the riskier second bond. In this case, an investor has no incentive to buy the riskier second bond. Furthermore, in order to attract capital from investors, the small firm issuing the second bond must pay an interest rate higher than 5% that the government bond pays. Otherwise, no investor is likely to buy that bond and, therefore, the firm will be unable to raise capital. But by offering to pay an interest rate more than 5% the firm gives investors an incentive to buy a riskier bond.
+For a valuation using the discounted cash flow method, one first estimates the future cash flows from the investment and then estimates a reasonable discount rate after considering the riskiness of those cash flows and interest rates in the capital markets. Next, one makes a calculation to compute the present value of the future cash flows.
+
+
+=== Guideline companies method ===
+
+This method determines the value of a firm by observing the prices of similar companies (called "guideline companies") that sold in the market. Those sales could be shares of stock or sales of entire firms. The observed prices serve as valuation benchmarks. From the prices, one calculates price multiples such as the price-to-earnings or price-to-book ratios—one or more of which used to value the firm. For example, the average price-to-earnings multiple of the guideline companies is applied to the subject firm's earnings to estimate its value.
+Many price multiples can be calculated. Most are based on a financial statement element such as a firm's earnings (price-to-earnings) or book value (price-to-book value) but multiples can be based on other factors such as price-per-subscriber.
+
+
+=== Net asset value method ===
+The third-most common method of estimating the value of a company looks to the assets and liabilities of the business. At a minimum, a solvent company could shut down operations, sell off the assets, and pay the creditors. Any cash that would remain establishes a floor value for the company. This method is known as the net asset value or cost method. In general the discounted cash flows of a well-performing company exceed this floor value. Some companies, however, are worth more "dead than alive", like weakly performing companies that own many tangible assets. This method can also be used to value heterogeneous portfolios of investments, as well as nonprofits, for which discounted cash flow analysis is not relevant. The valuation premise normally used is that of an orderly liquidation of the assets, although some valuation scenarios (e.g., purchase price allocation) imply an "in-use" valuation such as depreciated replacement cost new.
+An alternative approach to the net asset value method is the excess earnings method. (This method was first described in the U.S. Internal Revenue Service's  Appeals and Review Memorandum 34, and later refined by Revenue Ruling 68-609.) The excess earnings method has the appraiser identify the value of tangible assets, estimate an appropriate return on those tangible assets, and subtract that return from the total return for the business, leaving the "excess" return, which is presumed to come from the intangible assets. An appropriate capitalization rate is applied to the excess return, resulting in the value of those intangible assets. That value is added to the value of the tangible assets and any non-operating assets, and the total is the value estimate for the business as a whole. See Clean surplus accounting, Residual income valuation.
+
+
+== Specialised cases ==
+The approaches to valuation, as outlined, are generic and will be modified for the unique positioning and characteristics
+
+of the business in question.
+
+In the below cases, however, more specific valuation-practices have developed.
+For these situations, more than elsewhere, real options valuation may provide a more appropriate (or at least complementary)  technique;
+ 
+see Business valuation § Option pricing approaches and Corporate finance § Valuing flexibility.
+
+
+=== Valuation of a suffering company ===
+Investors in a suffering company, or in other "distressed securities", may intend 
+(i) to restructure the business, with the valuation reflecting its potential thereafter, 
+or 
+(ii) to purchase the company - or its debt - at a discount,  as part of an Investment Strategy aimed at realizing a profit on recovery.
+Preliminary to the valuation, the financial statements are initially recast, to "better reflect the firm's indebtedness, financing costs and recurring earnings". 
+Here adjustments are made to working capital, deferred capital expenditures, cost of goods sold, non-recurring professional fees and costs, above- or below-market leases, excess salaries in the case of private companies, and certain non-operating income/expense items.The valuation is built on this base, with any of the standard market-, income-, or asset-based approaches employed.  Often these are used in combination, providing a "triangulation" or (weighted) average.
+Particularly in the second case above, the company may be valued using real options analysis, serving to complement (or sometimes replace) this standard value; see Business valuation § Option pricing approaches and Merton model.
+As required, various adjustments are then made to this result, so as to reflect characteristics of the firm external to its profitability and cash flow. These adjustments consider any lack of marketability resulting in a discount, and re the stake in question, any control premium or lack of control discount.
+Balance sheet items external to the valuation, but due to the new owners, are similarly recognized; these include excess (or restricted) cash, and other non-operating assets and liabilities.
+
+
+=== Valuation of a startup company ===
+Startup companies such as Uber, which was valued at $50 billion in early 2015, are assigned post-money valuations based on the price at which their most recent investor put money into the company. The price reflects what investors, for the most part venture capital firms, are willing to pay for a share of the firm. They are not listed on any stock market, nor is the valuation based on their assets or profits, but on their potential for success, growth, and eventually, possible profits. 
+Many startup companies use internal growth factors to show their potential growth which may attribute to their valuation. 
+The professional investors who fund startups are experts, but hardly infallible, see Dot-com bubble.Valuation using discounted cash flows discusses various considerations here.
+
+
+=== Valuation of intangible assets ===
+Valuation models can be used to value intangible assets such as for patent valuation, but also in copyrights, software, trade secrets, and customer relationships.
+As economies are becoming increasingly informational, it is recognized that there is a need for new methods to value data, another intangible asset.
+Valuations here are often necessary both for financial reporting and intellectual property transactions.
+They are also inherent in securities analysis - listed and private - in cases where analysts must estimate the incremental contribution of patents (etc) to equity value; see next paragraph. 
+Since few sales of benchmark intangible assets can ever be observed, one often values these sorts of assets using either a present value model, or by  estimating the cost of recreating the asset in question. 
+In some cases, option-based techniques or decision trees may be applied.
+Regardless of the method, the process is often time-consuming and costly.
+If required, stock markets can give an indirect estimate of a corporation's intangible asset value; this can be reckoned as the difference between its market capitalisation and its book value (including only hard assets), i.e. effectively its goodwill.
+As regards listed equity, the above techniques are most often applied in the biotech-, life sciences- and pharmaceutical sectors 
+
+(see List of largest biotechnology and pharmaceutical companies).
+These businesses are involved in research and development (R&D), and testing, that typically takes years to complete (and where the new product may ultimately not be approved; see Contingent value rights).
+Industry specialists thus apply the above techniques  - and here especially rNPV -   to the pipeline of products under development, and, at the same time, also estimate the impact on existing revenue streams due to expiring patents. 
+For relative valuation, a specialized ratio is R&D spend as a percentage of sales. 
+Similar analysis may be applied to options on films re the valuation of film studios.
+
+
+=== Valuation of mining projects ===
+
+In mining, valuation is the process of determining the value or worth of a mining property - i.e. as distinct from a listed mining corporate.  Mining valuations are sometimes required for IPOs, fairness opinions, litigation, mergers and acquisitions, and shareholder-related matters. In valuing a mining project or mining property, fair market value is the standard of value to be used.
+In general, this result will be a function of the property's "reserve" - the estimated size and grade of the deposit in question - and the complexity and costs of extracting this."CIMVal" generally applied by the Toronto Stock Exchange, is widely recognised as a "standard" for the valuation of mining projects. (CIMVal: Canadian Institute of Mining, Metallurgy and Petroleum on Valuation of Mineral Properties
+)
+The Australasian equivalent is VALMIN; 
+the Southern African is SAMVAL.
+These standards stress the use of the cost approach, market approach, and the income approach, depending on the stage of development of the mining property or project.  
+See  for further discussion and context.
+Analyzing listed mining corporates (and other resource companies) is also specialized,
+as the valuation requires a good understanding of the company's overall assets, its operational business model as well as key market drivers,
+and an understanding of that sector of the stock market.
+Re the latter, a distinction is usually made based on size and financial capabilities; see Mining  § Corporate classifications.
+
+The price of a "Junior" mining stock, typically having one asset, will at its early stages be linked to the result of its feasibility study; later, the price will be a function of that mine's viability and value, largely applying the above techniques.
+A "Major", on the other hand, has numerous properties, and the contents of any single deposit will impact stock value in a limited fashion; this due to diversification, access to funding, and, also, since the share price inheres goodwill. Typically, then, the exposure is more to the market value of each mineral in the portfolio, than to the individual properties.
+
+
+=== Valuing financial services firms ===
+There are two main difficulties with  valuing  financial services  firms.
+
+The first is that the cash flows to a financial service firm cannot be easily estimated, since capital expenditures, working capital and debt are not clearly defined:  
+"debt for a financial service firm is more akin to raw material than to a source of capital; the notion of cost of capital and enterprise value (EV) may be meaningless as a consequence."
+(See related discussion re. the risk management of financial- vs non-financial firms.)
+The second is that these firms operate under a highly regulated environment, and valuation assumptions (and model outputs) must incorporate regulatory limits, at least as "bounds".
+The approach taken for a DCF valuation, is to then "remove" debt from the valuation, by discounting free cash flow to equity at the cost of equity (or equivalently to apply a modified dividend discount model). This is in contrast to the more typical approach of discounting free cash flow to the Firm where EBITDA less capital expenditures and working capital is discounted at the weighted average cost of capital, which incorporates the cost of debt.
+For a multiple based valuation, similarly, price to earnings is preferred to EV/EBITDA.
+Here, there are also industry-specific measures used to compare between investments and within sub-sectors; this, once normalized by market cap (or other appropriate result), and recognizing regulatory differences: 
+
+Insurance companies: embedded value and actuarial reserves
+Banking sector: net interest margin and provision for credit losses
+Wealth- and investment management firms: assets under management
+Investment banks: price to tangible book value and return on tangible equity.
+
+
+== Mismarking ==
+
+Mismarking in securities valuation takes place when the value that is assigned to securities does not reflect what the securities are actually worth, due to intentional fraudulent mispricing.Mismarking misleads investors and fund executives about how much the securities in a securities portfolio managed by a trader are worth (the securities' net asset value, or NAV), and thus misrepresents performance.When a rogue trader engages in mismarking, it allows him to obtain a higher bonus from the financial firm for which he works, where his bonus is calculated by the performance of the securities portfolio that he is managing.
+
+
+== See also ==
+Appraisal (disambiguation)
+Asset price inflation
+Business valuation
+Business valuation standard
+Control premium
+Depreciation
+Earnings response coefficient
+Efficient-market hypothesis
+Enterprise value
+Equity value
+Film finance
+Fundamental analysis
+Intellectual property valuation
+Investment management
+Lipper average
+Market-based valuation
+Minority discount
+Paper valuation
+Patent valuation
+PEG ratio
+Present value
+Present value of growth opportunities
+Price discovery
+Pricing
+Real options valuation
+Real estate appraisal
+Standard cost accounting
+Stock valuation
+Sum-of-the-parts analysis
+Terminal value
+Undervalued stock
+Valuation risk
+Specific pricing models
+Capital asset pricing model
+Arbitrage pricing theory
+Black–Scholes (for options)
+Fuzzy pay-off method for real option valuation
+Single-index model
+Markov switching multifractal
+Multiple factor models
+Chepakovich valuation model
+
+
+== References ==

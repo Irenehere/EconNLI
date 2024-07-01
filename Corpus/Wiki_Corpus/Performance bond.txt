@@ -1,0 +1,46 @@
+A performance bond, also known as a contract bond, is a surety bond issued by an insurance company or a bank to guarantee satisfactory completion of a project by a contractor. The term is also used to denote a collateral deposit of good faith money, intended to secure a futures contract, commonly known as margin.
+
+
+== History ==
+Performance bonds have been around since 2,750 BC. The Romans developed laws of surety around 150 AD, the principles of which still exist.
+
+
+== Overview ==
+A job requiring a payment and performance bond will usually require a bid bond, to bid the job. When the job is awarded to the winning bid, a payment and performance bond will then be required as a security to the job completion. For example, a contractor may cause a performance bond to be issued in favour of a client for whom the contractor is constructing a building. If the contractor fails to construct the building according to the specifications laid out by the contract (most often due to the bankruptcy of the contractor), the client is guaranteed compensation for any monetary loss up to the amount of the performance bond.
+Performance bonds are commonly used in the construction and development of real property, where an owner or investor may require the developer to assure that contractors or project managers procure such bonds in order to guarantee that the value of the work will not be lost in the case of an unfortunate event (such as insolvency of the contractor). In other instances, a performance bond may be requested to be issued in other large contracts besides civil construction projects. Another example of this use is in commodity contracts where the seller is asked to provide a Bond to reassure the buyer that if the commodity being sold is not in fact delivered (for whatever reason) the buyer will at least receive compensation for his lost costs.
+Performance bonds are generally issued as part of a 'Performance and Payment Bond', where a payment bond guarantees that the contractor will pay the labour and material costs they are obliged to.
+
+
+=== Performance bond cost ===
+Surety bond companies calculate the premium they charge for surety bonds based on three primary criteria: bond type, bond amount, and the applicant's risk. Once the bond type, amount, and applicant risk are adequately assessed, a surety bond underwriter is able to assign an appropriate surety bond price.
+
+
+=== Bond type ===
+Surety bond companies have actuarial information on the lifetime claims history for each bond type. Over time, surety bond underwriters are able to determine that some surety bonds are more risky than others. For example, a California Motor Vehicle Dealer bond has significantly more claims than a straightforward notary bond. If a given surety bond type has paid out a high percentage of claims, then the premium amount paid by applicants will be higher.
+
+
+=== Applicant's history/risk ===
+Surety bond companies attempt to predict the risk that an applicant represents. Those who are perceived to be a higher risk will pay a higher surety bond premium.  Since surety bond companies are providing a financial guarantee on the future work performance of those who are bonded, they must have a clear picture of the individual's history.
+
+
+== In the United States ==
+In the United States, under the Miller Act of 1932, all Construction Contracts issued by the Federal Government must be backed by performance and payment bonds. States have enacted what is referred to as "Little Miller Act" statutes requiring performance and payment bonds on State Funded projects as well.
+There are over 25,000 types of Surety Bonds in the United States. Each bond has a designated bond amount. Surety bond companies will determine the bond rate based on risk and then charge a surety bond premium in the range 1-15% of the bond amount.
+
+
+== In the United Kingdom ==
+In the United Kingdom, performance bonds are commonly required for construction projects. These bonds provide financial security and peace of mind for all parties involved in the project, including the contractor, project owner, and suppliers. 
+Performance bonds ensure that the contractor completes the project as specified in the contract. If they fail to do so, the obligee can make a claim against the bond to recover damages or losses incurred. 
+
+
+== See also ==
+Completion guarantee
+General contractor
+Independent contractor
+Shop drawing
+Subcontractor
+Submittals (construction)
+Surety bond
+
+
+== References ==

@@ -1,0 +1,26 @@
+Huw David Dixon (/hju: devəd dɪksən/), born 1958, is a British economist. He has been a professor at Cardiff Business School since 2006, having previously been Head of Economics at the University of York (2003–2006) after being a professor of economics there (1992–2003), and the University of Swansea (1991–1992), a Reader at Essex University (1987–1991) and a lecturer at Birkbeck College (University of London) 1983–1987.
+
+
+== Education ==
+He graduated from his first degree in Philosophy and Economics from Balliol College, University of Oxford in 1980, and he went on to do his PhD at Nuffield College, University of Oxford under the supervision of Nobel Laureate Sir James Mirrlees graduating in 1984.
+
+
+== Career ==
+Dixon was a fellow of the CEPR from 1991 to 2001, a member of the Royal Economic Society council (1996–2001), and a fellow of the Ces-ifo institute since 2000. He has been on the editorial board of the Review of Economic Studies (1986–1993), the Journal of Industrial Economics. He edited the Controversies section of the Economic Journal (1994-9) and has been the chair of the Royal Economic Society Conference 1992.Dixon has a wide scope in terms of the areas of economics he has researched and published in and he has been described as one of Europe's leading economists. The topics include:
+
+Bertrand–Edgeworth models with strictly convex costs. Francis Edgeworth developed the analysis of the model of Bertrand competition in a setting where firms had constant marginal cost up to capacity. Dixon explored how this could be generalized to the case of convex costs. He established the existence of a mixed-strategy Nash equilibrium, and of an Epsilon-equilibrium in a large market, and in other aspects.
+Strategic investment Models. The use of capital to alter the way firms compete in oligopoly by altering their marginal cost, or conjectural variations.
+Bounded rationality. Dixon explored the implications of evolutionary ideas for oligopoly theory and learning. He also developed one of the first models of endogenous aspirations in economics.
+New Keynesian Macreconomics. Dixon was one of the first economists to examine the effect of imperfect competition on the effectiveness of fiscal policy in his paper A simple model of imperfect competition with Walrasian features. This is an idea that was much explored in many other papers by him  and more recently. This paper was the first to demonstrate in a simple general equilibrium model that the fiscal multiplier could be increasing with the degree of imperfect competition in the output market. The reason for this is that imperfect competition in the output market tends to reduce the real wage, leading to the household substituting away from consumption towards leisure. When government spending is increased, the corresponding increase in lump-sum taxation causes both leisure and consumption decrease (assuming that they are both a normal good). The greater the degree of imperfect competition in the output market, the lower the real wage and hence the more the reduction falls on leisure (i.e. households work more) and less on consumption. Hence the fiscal multiplier is less than one, but increasing in the degree of imperfect competition in the output market.Other topics include imperfect competition in macroeconomics, nominal rigidity. Most of his work is New Keynesian. Dixon supports the High Speed 2 development for the United Kingdom, and expressed his support in a Financial Times article on 6 January 2012, along with other leading economists. He has contributed to The Times Higher Education Supplement multiple times regarding economics.
+
+
+== Works ==
+He has authored a book Surfing Economics, which explores New Keynesian economics, the Natural Rate, Bounded Rationality, Social Learning and the meaning of Economics.
+
+
+== References ==
+
+
+== External links ==
+Cardiff Business School: Huw Dixon (homepage)
+Official website huwdixon.org

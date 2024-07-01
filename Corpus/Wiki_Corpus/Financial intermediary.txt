@@ -1,0 +1,58 @@
+A financial intermediary is an institution or individual that serves as a middleman among diverse parties in order to facilitate financial transactions. Common types include commercial banks, investment banks, stockbrokers, pooled investment funds, and stock exchanges. Financial intermediaries reallocate otherwise uninvested capital to productive enterprises through a variety of debt, equity, or hybrid stakeholding structures.Through the process of financial intermediation, certain assets or liabilities are transformed into different assets or liabilities. As such, financial intermediaries channel funds from people who have surplus capital (savers) to those who require liquid funds to carry out a desired activity (investors).A financial intermediary is typically an institution that facilitates the channeling of funds between lenders and borrowers indirectly. That is, savers (lenders) give funds to an intermediary institution (such as a bank), and that institution gives those funds to spenders (borrowers). This may be in the form of loans or mortgages. Alternatively, they may lend the money directly via the financial markets, and eliminate the financial intermediary, which is known as financial disintermediation.
+In the context of climate finance and development, financial intermediaries generally refer to private sector intermediaries, such as banks, private equity, venture capital funds, leasing companies, insurance and pension funds, and micro-credit providers. Increasingly, international financial institutions provide funding via companies in the financial sector, rather than directly financing projects.
+
+
+== Functions performed by financial intermediaries ==
+The hypothesis of financial intermediaries adopted by mainstream economics offers the following three major functions they are meant to perform:
+
+Creditors provide a line of credit to qualified clients and collect the premiums of debt instruments such as loans for financing homes, education, auto, credit cards, small businesses, and personal needs.
+Risk transformation
+Convenience denomination
+
+
+== Advantages and disadvantages of financial intermediaries ==
+There are two essential advantages from using financial intermediaries:
+
+Cost advantage over direct lending/borrowing
+Market failure protection; The conflicting needs of lenders and borrowers are reconciled, preventing market failureThe cost advantages of using financial intermediaries include:
+
+Reconciling conflicting preferences of lenders and borrowers
+Risk aversion intermediaries help spread out and decrease the risks
+Economies of scale - using financial intermediaries reduces the costs of lending and borrowing
+Economies of scope - intermediaries concentrate on the demands of the lenders and borrowers and are able to enhance their products and services (use same inputs to produce different outputs)Various disadvantages have also been noted in the context of climate finance and development finance institutions. These include a lack of transparency, inadequate attention to social and environmental concerns, and a failure to link directly to proven developmental impacts.
+
+
+== Types of financial intermediaries ==
+According to the dominant economic view of monetary operations, the following institutions are or can act as financial intermediaries:
+
+Banks
+Mutual savings banks
+Savings banks
+Building societies
+Credit unions
+Financial advisers or brokers
+Insurance companies
+Collective investment schemes
+Pension funds
+Cooperative societies
+Stock exchangesAccording to the alternative view of monetary and banking operations, banks are  not intermediaries but "fundamentally money creation" institutions, while the other  institutions in the category of supposed "intermediaries" are simply investment funds.
+
+
+== Summary ==
+Financial intermediaries are meant to  bring together those economic agents with surplus funds who want to lend (invest) to those with a shortage of funds who want to borrow. In doing this, they  offer the  benefits of maturity and risk transformation. Specialist financial intermediaries are ostensibly enjoying a related (cost) advantage in offering financial services, which not only enables them to make profit, but also raises the overall efficiency of the economy. Their existence and services are explained by the "information problems" associated with financial markets.
+
+
+== See also ==
+Debt
+Financial economics
+Investment
+Saving
+Financial market efficiency
+
+
+== References ==
+
+
+== Bibliography ==
+Pilbeam, Keith. Finance and Financial Markets. New York: PALGRAVE MACMILLAN, 2005.
+Valdez, Steven. An Introduction To Global Financial Markets. Macmillan Press, 2007.

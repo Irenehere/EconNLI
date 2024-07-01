@@ -1,0 +1,91 @@
+Working capital (WC) is a financial metric which represents operating liquidity available to a business, organisation, or other entity, including governmental entities. Along with fixed assets such as plant and equipment, working capital is considered a part of operating capital. Gross working capital is equal to current assets. Working capital is calculated as current assets minus current liabilities. If current assets are less than current liabilities, an entity has a working capital deficiency, also called a working capital deficit and negative working capital.A company can be endowed with assets and profitability but may fall short of liquidity if its assets cannot be readily converted into cash.  Positive working capital is required to ensure that a firm is able to continue its operations and that it has sufficient funds to satisfy both maturing short-term debt and upcoming operational expenses. The management of working capital involves managing inventories, accounts receivable and payable, and cash.
+
+
+== Calculation ==
+Working capital is the difference between current assets and current liabilities. It is not to be confused with trade working capital (the latter excludes cash).
+The basic calculation of working capital is based on the entity's gross current assets. 
+
+  
+    
+      
+        
+          Working Capital
+        
+        =
+        
+          Current Assets
+        
+        −
+        
+          Current Liabilities
+        
+      
+    
+    {\displaystyle {\text{Working Capital}}={\text{Current Assets}}-{\text{Current Liabilities}}}
+  
+
+
+=== Inputs ===
+Current assets and current liabilities include four accounts which are of special importance. These accounts represent the areas of the business where managers have the most direct impact:
+
+cash and cash equivalents (current asset)
+accounts receivable (current asset)
+inventory (current asset), and
+accounts payable (current liability)The current portion of debt (payable within 12 months) is critical because it represents a short-term claim to current assets and is often secured by long-term assets. Common types of short-term debt are bank loans and lines of credit.
+An increase in net working capital indicates that the business has either increased current assets (that it has increased its receivables or other current assets) or has decreased current liabilities—for example has paid off some short-term creditors, or a combination of both.
+
+
+== Working capital cycle ==
+
+
+=== Definition ===
+The working capital cycle (WCC), also known as the cash conversion cycle, is the amount of time it takes to turn the net current assets and current liabilities into cash. The longer this cycle, the longer a business is tying up capital in its working capital without earning a return on it. Companies strive to reduce their working capital cycle by collecting receivables quicker or sometimes stretching accounts payable. Under certain conditions, minimizing working capital might adversely affect the company's ability to realize profitability, e.g. when unforeseen hikes in demand exceed inventories, or when a shortfall in cash restricts the company's ability to acquire trade or production inputs.
+
+
+=== Meaning ===
+A positive working capital cycle balances incoming and outgoing payments to minimize net working capital and maximize free cash flow. For example, a company that pays its financing is a carrying cost tinexpensive way to grow. Sophisticated buyers review closely a target's working capital cycle because it provides them with an idea of the management's effectiveness at managing their balance sheet and generating free cash flows.
+As an absolute rule of funders, each of them wants to see a positive working capital because positive working capital implies there are sufficient current assets to meet current obligations. In contrast, companies risk being unable to meet current obligations with current assets when working capital is negative. While it is theoretically possible for a company to indefinitely show negative working capital on regularly reported balance sheets (since working capital may actually be positive between reporting periods), working capital will generally need to be non-negative for the business to be sustainable
+Reasons why a business may show negative or low working capital over the long term while not indicating financial distress include:
+
+Assets above or liabilities below their true economic value
+Accrual basis accounting creating deferred revenue while the cost of goods sold is lower than the revenue to be generated
+E.g. a software as a service business or newspaper receives cash from customers early on, but has to include the cash as a deferred revenue liability until the service is delivered. The cost of delivering the service or newspaper is usually lower than revenue thus, when the revenue is recognized, the business will generate gross income.
+
+
+== Working capital management ==
+ Decisions relating to working capital and short-term financing are referred to as working capital management. These involve managing the relationship between a firm's short-term assets and its short-term liabilities. The goal of working capital management is to ensure that the firm is able to continue its operations and that it has sufficient cash flow to satisfy both maturing short-term debt and upcoming operational expenses.
+A managerial accounting strategy focusing on maintaining efficient levels of both components of working capital, current assets, and current liabilities, in respect to each other. Working capital management ensures a company has sufficient cash flow in order to meet its short-term debt obligations and operating expenses.
+
+
+=== Decision criteria ===
+By definition, working capital management entails short-term decisions—generally, relating to the next one-year period—which are "reversible".  These decisions are therefore not taken on the same basis as capital-investment decisions (NPV or related, as above); rather, they will be based on cash flows, or profitability, or both.
+
+One measure of cash flow is provided by the cash conversion cycle—the net number of days from the outlay of cash for raw material to receiving payment from the customer.  As a management tool, this metric makes explicit the inter-relatedness of decisions relating to inventories, accounts receivable and payable, and cash.  Because this number effectively corresponds to the time that the firm's cash is tied up in operations and unavailable for other activities, management generally aims at a low net count.
+In this context, the most useful measure of profitability is return on capital (ROC).  The result is shown as a percentage, determined by dividing relevant income for the 12 months by capital employed; return on equity (ROE) shows this result for the firm's shareholders.  Firm value is enhanced when, and if, the return on capital, which results from working-capital management, exceeds the cost of capital, which results from capital investment decisions as above.  ROC measures are therefore useful as a management tool, in that they link short-term policy with long-term decision making.  See economic value added (EVA).
+Credit policy of the firm:  Another factor affecting working capital management is credit policy of the firm.  It includes buying of raw material and selling of finished goods either in cash or on credit.  This affects the cash conversion cycle.
+
+
+=== Management of working capital ===
+Guided by the above criteria, management will use a combination of policies and techniques for the management of working capital. The policies aim at managing the current assets (generally cash and cash equivalents, inventories and debtors) and the short-term financing, such that cash flows and returns are acceptable.
+
+Cash management. Identify the cash balance which allows for the business to meet day to day expenses, but reduces cash holding costs.
+Inventory management. Identify the level of inventory which allows for uninterrupted production but reduces the investment in raw materials—and minimizes reordering costs—and hence increases cash flow. Besides this, the lead times in production should be lowered to reduce Work in Process (WIP) and similarly, the Finished Goods should be kept on as low level as possible to avoid overproduction—see Supply chain management; Just In Time (JIT); Economic order quantity (EOQ); Economic quantity
+Debtors management. Identify the appropriate credit policy, i.e. credit terms which will attract customers, such that any impact on cash flows and the cash conversion cycle will be offset by increased revenue and hence Return on Capital (or vice versa); see Discounts and allowances.
+Short-term financing. Identify the appropriate source of financing, given the cash conversion cycle: the inventory is ideally financed by credit granted by the supplier; however, it may be necessary to utilize a bank loan (or overdraft), or to "convert debtors to cash" through "factoring".
+
+
+== See also ==
+Cash conversion cycle
+Overtrading
+Quick ratio analysis
+Sustainable growth rate
+Trade finance
+Working capital management
+
+
+== References ==
+
+
+== External links ==
+How to Calculate Working Capital
+Value Based Working Capital Management

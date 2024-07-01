@@ -1,0 +1,42 @@
+Antoine Augustin Cournot (French pronunciation: ​[ɑ̃twan oɡystɛ̃ kuʁno]; 28 August 1801 – 31 March 1877) was a French philosopher and mathematician who also contributed to the development of economics.
+
+
+== Biography ==
+Antoine Augustin Cournot was born at Gray, Haute-Saône. In 1821 he entered one of the most prestigious Grandes Écoles, the École Normale Supérieure, and, according to Sandmo:
+
+in 1823 he took a license degree in mathematics at Sorbonne University. He then became the private secretary of a field marshal who required assistance in writing his memoirs. This position left Cournot with considerable time for his own pursuits. In the course of his ten years in the field marshal's employment he took two doctoral degrees, one in mechanics and one in astronomy. In addition, he published a number of articles and even acquired a degree in law.
+Subsequently, Cournot held positions as professor of mathematics, chief examiner for undergraduate students, and rector of Dijon Academy.
+By the time Cournot died in 1877, he was nearly blind.
+
+
+== Work ==
+
+
+=== Economics ===
+Cournot was mainly a mathematician, but had some influence in economics. His theories on monopolies and duopolies are still prevalent. In 1838 the book Researches on Mathematical Principles of the Theory of Wealth was published, in which he used the application of the formulas and symbols of mathematics in economic analysis. This book was strongly criticized and scarcely successful during Cournot's lifetime. He attempted nonetheless to rewrite it twice. It is influential in economics today.  Today many economists believe this book to be the point of departure for modern economic analysis. Cournot introduced the ideas of functions and probability into economic analysis. He derived the first formula for the rule of supply and demand as a function of price and was the first to draw supply and demand curves on a graph, anticipating the work of Alfred Marshall by roughly thirty years. The Cournot duopoly model developed in his book also introduced the concept of a (pure strategy) Nash equilibrium, the reaction function and best-response dynamics.
+Cournot believed that economists must utilize the tools of mathematics only to establish probable limits and to express less stable facts in more absolute terms. He further held that the practical uses of mathematics in economics do not necessarily involve strict numerical precision.In the field of economics he is best known for his work in the field of oligopoly theory, Cournot competition, which is named after him.
+
+
+=== Philosophy ===
+Cournot worked on determinism (in physics) and chance.
+Unlike Pierre-Simon de Laplace, who thought that nothing happens by chance, and Aristotle, who thought that randomness and causality had nothing to do which each other, Cournot united the concepts, defining randomness as the
+encounter of two independent causal series.
+This definition allows randomness even in perfectly deterministic events, and is used to generate random numbers by the combination of unrelated signals (for instance, temperature and sound).
+
+
+== See also ==
+Hotelling's linear city model
+
+
+== References ==
+
+
+== Further reading ==
+Touffut, Jean-Philippe, ed. (2007). Augustin Cournot: Modelling Economics. Cheltenham: Edward Elgar. ISBN 978-1-84720-654-1.
+For an early 20th century evaluation see: Chisholm, Hugh, ed. (1911). "Cournot, Antoine Augustin" . Encyclopædia Britannica. Vol. 7 (11th ed.). Cambridge University Press. p. 321.
+
+
+== External links ==
+
+"Antoine Augustin Cournot" in New School Profiles
+O'Connor, John J.; Robertson, Edmund F., "Antoine Augustin Cournot", MacTutor History of Mathematics Archive, University of St Andrews

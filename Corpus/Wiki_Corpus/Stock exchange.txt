@@ -1,0 +1,137 @@
+A stock exchange, securities exchange, or bourse is an exchange where stockbrokers and traders can buy and sell securities, such as shares of stock, bonds and other financial instruments. Stock exchanges may also provide facilities for the issue and redemption of such securities and instruments and capital events including the payment of income and dividends. Securities traded on a stock exchange include stock issued by listed companies, unit trusts, derivatives, pooled investment products and bonds. Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.To be able to trade a security on a certain stock exchange, the security must be listed there. Usually, there is a central location for record keeping, but trade is increasingly less linked to a physical place as modern markets use electronic communication networks, which give them advantages of increased speed and reduced cost of transactions. Trade on an exchange is restricted to brokers who are members of the exchange. In recent years, various other trading venues such as electronic communication networks, alternative trading systems and "dark pools" have taken much of the trading activity away from traditional stock exchanges.Initial public offerings of stocks and bonds to investors is done in the primary market and subsequent trading is done in the secondary market. A stock exchange is often the most important component of a stock market. Supply and demand in stock markets are driven by various factors that, as in all free markets, affect the price of stocks (see stock valuation).
+There is usually no obligation for stock to be issued through the stock exchange itself, nor must stock be subsequently traded on an exchange. Such trading may be off exchange or over-the-counter. This is the usual way that derivatives and bonds are traded. Increasingly, stock exchanges are part of a global securities market. Stock exchanges also serve an economic function in providing liquidity to shareholders in providing an efficient means of disposing of shares.
+
+
+== History ==
+Stock market-based economies launched with BC Phoenicia's large trade network. The beginnings of lending were in Italy in the late Middle Ages.
+In the 1300s, Venetian lenders would carry slates with information on the various issues for sale and meet with clients, much like a broker does today.
+
+Venetian merchants introduced the principle of exchanging debts between moneylenders; a lender looking to unload a high-risk, high-interest loan might exchange it for a different loan with another lender. These lenders also bought government debt issues.
+As the natural evolution of their business continued, the lenders began to sell debt issues to the first individual investors in the late 1900s. The Venetians were the leaders in the field and the first to start trading securities from other governments, yet did not embark on private trade with India. Nor did the Italians connect on land with the Chinese Silk Road. Along the potential overland trade route, Habsburg (Austrian) emperor Frederick II repulsed advances by Mongol Batu Kahn (Golden Horde) in 1241. 
+There is little consensus among scholars as to when corporate stock was first traded. Some view the key event as the Dutch East India Company's founding in 1602, while others point to much earlier developments (Bruges, Antwerp in 1531 and in Lyon in 1548). The first book in history of securities exchange, the Confusion of Confusions, was written by the Dutch-Jewish trader Joseph de la Vega and the Amsterdam Stock Exchange is often considered the oldest "modern" securities market in the world. On the other hand, economist Ulrike Malmendier of the University of California at Berkeley argues that a share market existed as far back as ancient Rome, that derives from Etruscan "Argentari". In the Roman Republic, which existed for centuries before the Empire was founded, there were societates publicanorum, organizations of contractors or leaseholders who performed temple-building and other services for the government. One such service was the feeding of geese on the Capitoline Hill as a reward to the birds after their honking warned of a Gallic invasion in 390 B.C. Participants in such organizations had partes or shares, a concept mentioned various times by the statesman and orator Cicero. In one speech, Cicero mentions "shares that had a very high price at the time". Such evidence, in Malmendier's view, suggests the instruments were tradable, with fluctuating values based on an organization's success. The societas declined into obscurity in the time of the emperors, as most of their services were taken over by direct agents of the state.
+Tradable bonds as a commonly used type of security were a more recent innovation, spearheaded by the Italian city-states of the late medieval and early Renaissance periods.
+Joseph de la Vega, also known as Joseph Penso de la Vega and by other variations of his name, was an Amsterdam trader from a Spanish Jewish family and a prolific writer as well as a successful businessman in 17th-century Amsterdam. His 1688 book Confusion of Confusions explained the workings of the city's stock market. It was the earliest book about stock trading and inner workings of a stock market, taking the form of a dialogue between a merchant, a shareholder and a philosopher, the book described a market that was sophisticated but also prone to excesses, and de la Vega offered advice to his readers on such topics as the unpredictability of market shifts and the importance of patience in investment.
+
+In England, the Dutch King William III sought to modernize the kingdom's finances to pay for its wars, and thus the first government bonds were issued in 1693 and the Bank of England was set up the following year. Soon thereafter, English joint-stock companies began going public.
+London's first stockbrokers, however, were barred from the old commercial center known as the Royal Exchange, reportedly because of their rude manners. Instead, the new trade was conducted from coffee houses along Exchange Alley. By 1698, a broker named John Castaing, operating out of Jonathan's Coffee House, was posting regular lists of stock and commodity prices. Those lists mark the beginning of the London Stock Exchange.One of history's greatest financial bubbles occurred around 1720. At the center of it were the South Sea Company, set up in 1711 to conduct English trade with South America, and the Mississippi Company, focused on commerce with France's Louisiana colony and touted by transplanted Scottish financier John Law, who was acting in effect as France's central banker. Investors snapped up shares in both, and whatever else was available. In 1720, at the height of the mania, there was even an offering of "a company for carrying out an undertaking of great advantage, but nobody to know what it is".
+By the end of that same year, share prices had started collapsing, as it became clear that expectations of imminent wealth from the Americas were overblown. In London, Parliament passed the Bubble Act, which stated that only royally chartered companies could issue public shares. In Paris, Law was stripped of office and fled the country. Stock trading was more limited and subdued in subsequent decades. Yet the market survived, and by the 1790s shares were being traded in the young United States. On May 17, 1792, the New York Stock Exchange opened under a Platanus occidentalis (buttonwood tree) in New York City, as 24 stockbrokers signed the Buttonwood Agreement, agreeing to trade five securities under that buttonwood tree.
+Bombay Stock Exchange was started by Premchand Roychand in 1875. While BSE Limited is now synonymous with Dalal Street, it was not always so. In the 1850s, five stock brokers gathered together under a Banyan tree in front of Mumbai Town Hall, where Horniman Circle is now situated. A decade later, the brokers moved their location to another leafy setting, this time under banyan trees at the junction of Meadows Street and what was then called Esplanade Road, now Mahatma Gandhi Road. With a rapid increase in the number of brokers, they had to shift places repeatedly. At last, in 1874, the brokers found a permanent location, the one that they could call their own. The brokers group became an official organization known as "The Native Share & Stock Brokers Association" in 1875.The Bombay Stock Exchange continued to operate out of a building near the Town Hall until 1928. The present site near Horniman Circle was acquired by the exchange in 1928, and a building was constructed and occupied in 1930. The street on which the site is located came to be called Dalal Street in Hindi (meaning "Broker Street") due to the location of the exchange.
+On 31 August 1957, the BSE became the first stock exchange to be recognized by the Indian Government under the Securities Contracts Regulation Act. Construction of the present building, the Phiroze Jeejeebhoy Towers at Dalal Street, Fort area, began in the late 1970s and was completed and occupied by the BSE in 1980. Initially named the BSE Towers, the name of the building was changed soon after occupation, in memory of Sir Phiroze Jamshedji Jeejeebhoy, chairman of the BSE since 1966, following his death.
+In 1986, the BSE developed the S&P BSE SENSEX index, giving the BSE a means to measure the overall performance of the exchange. In 2000, the BSE used this index to open its derivatives market, trading S&P BSE SENSEX futures contracts. The development of S&P BSE SENSEX options along with equity derivatives followed in 2001 and 2002, expanding the BSE's trading platform.
+Historically an open outcry floor trading exchange, the Bombay Stock Exchange switched to an electronic trading system developed by Cmc ltd. in 1995. It took the exchange only 50 days to make this transition. This automated, screen-based trading platform called BSE On-Line Trading (BOLT) had a capacity of 8 million orders per day. Now BSE has raised capital by issuing shares and as on 3 May 2017 the BSE share which is traded in NSE only closed with ₹999.
+
+
+== Roles ==
+Stock exchanges have multiple roles in the economy. This may include the following:
+
+
+=== Raising capital for businesses ===
+Besides the borrowing capacity provided to an individual or firm by the banking system, in the form of credit or a loan, a stock exchange provides companies with the facility to raise capital for expansion through selling shares to the investing public.Capital intensive companies, particularly high tech companies, typically need to raise high volumes of capital in their early stages. For this reason, the public market provided by the stock exchanges has been one of the most important funding sources for many capital intensive startups. In the 1990s and early 2000s, hi-tech listed companies experienced a boom and bust in the world's major stock exchanges. Since then, it has been much more demanding for the high-tech entrepreneur to take his/her company public, unless either the company is already generating sales and earnings, or the company has demonstrated credibility and potential from successful outcomes: clinical trials, market research, patent registrations, etc. This is quite different from the situation of the 1990s to early-2000s period, when a number of companies (particularly Internet boom and biotechnology companies) went public in the most prominent stock exchanges around the world in the total absence of sales, earnings, or any type of well-documented promising outcome. Though it is not as common, it still happens that highly speculative and financially unpredictable hi-tech startups are listed for the first time in a major stock exchange. Additionally, there are smaller, specialized entry markets for these kind of companies with stock indexes tracking their performance (examples include the Alternext, CAC Small, SDAX, TecDAX).
+
+
+==== Alternatives to stock exchanges for raising capital ====
+Alternative investment funds refer to funds that include hedge funds, venture capital, private equity, angel funds, real estate, commodities, collectibles, structured products, etc. Alternative investment funds are an alternative to traditional investment options (stocks, bonds, and cash).
+
+
+===== Research and Development limited partnerships =====
+Companies have also raised significant amounts of capital through R&D limited partnerships. Tax law changes that were enacted in 1987 in the United States changed the tax deductibility of investments in R&D limited partnerships. In order for a partnership to be of interest to investors today, the cash on cash return must be high enough to entice investors.
+
+
+===== Venture capital =====
+A general source of capital for startup companies has been venture capital. This source remains largely available today, but the maximum statistical amount that the venture company firms in aggregate will invest in any one company is not limitless (it was approximately $15 million in 2001 for a biotechnology company).
+
+
+===== Corporate partners =====
+Another alternative source of cash for a private company is a corporate partner, usually an established multinational company, which provides capital for the smaller company in return for marketing rights, patent rights, or equity. Corporate partnerships have been used successfully in a large number of cases.
+
+
+=== Mobilizing savings for investment ===
+When people draw their savings and invest in shares (through an initial public offering or the seasoned equity offering of an already listed company), it usually leads to rational allocation of resources because funds, which could have been consumed, or kept in idle deposits with banks, are mobilized and redirected to help companies' management boards finance their organizations. This may promote business activity with benefits for several economic sectors such as agriculture, commerce and industry, resulting in stronger economic growth and higher productivity levels of firms.
+
+
+=== Facilitating acquisitions ===
+Companies view acquisitions as an opportunity to expand product lines, increase distribution channels, hedge against volatility, increase their market share, or acquire other necessary business assets. A takeover bid or mergers and acquisitions through the stock market is one of the simplest and most common ways for a company to grow by acquisition or fusion.
+
+
+=== Profit sharing ===
+Both casual and professional stock investors, as large as institutional investors or as small as an ordinary middle-class family, through dividends and stock price increases that may result in capital gains, share in the wealth of profitable businesses. Unprofitable and troubled businesses may result in capital losses for shareholders.
+
+
+=== Corporate governance ===
+By having a wide and varied scope of owners, companies generally tend to improve management standards and efficiency to satisfy the demands of these shareholders and the more stringent rules for public corporations imposed by public stock exchanges and the government. This improvement can be attributed in some cases to the price mechanism exerted through shares of stock, wherein the price of the stock falls when management is considered poor (making the firm vulnerable to a takeover by new management) or rises when management is doing well (making the firm less vulnerable to a takeover).  In addition, publicly listed shares are subject to greater transparency so that investors can make informed decisions about a purchase.  Consequently, it is alleged that public companies (companies that are owned by shareholders who are members of the general public and trade shares on public exchanges) tend to have better management records than privately held companies (those companies where shares are not publicly traded, often owned by the company founders, their families and heirs, or otherwise by a small group of investors).
+Despite this claim, some well-documented cases are known where it is alleged that there has been considerable slippage in corporate governance on the part of some public companies, particularly in the cases of accounting scandals. The policies that led to the dot-com bubble in the late 1990s and the subprime mortgage crisis in 2007–08 are also examples of corporate mismanagement. The mismanagement of companies such as Pets.com (2000), Enron (2001), One.Tel (2001), Sunbeam Products (2001), Webvan (2001), Adelphia Communications Corporation (2002), MCI WorldCom (2002), Parmalat (2003), American International Group (2008), Bear Stearns (2008), Lehman Brothers (2008), General Motors (2009) and Satyam Computer Services (2009) all received plenty of media attention.
+Many banks and companies worldwide utilize securities identification numbers (ISIN) to identify, uniquely, their stocks, bonds and other securities. Adding an ISIN code helps to distinctly identify securities and the ISIN system is used worldwide by funds, companies, and governments.
+However, when poor financial, ethical or managerial records become public, stock investors tend to lose money as the stock and the company tend to lose value. In the stock exchanges, shareholders of underperforming firms are often penalized by significant share price decline, and they tend as well to dismiss incompetent management teams.
+
+
+=== Creating investment opportunities for small investors ===
+As opposed to other businesses that require huge capital outlay, investing in shares is open to both the large and small stock investors as minimum investment amounts are minimal. Therefore, the stock exchange provides the opportunity for small investors to own shares of the same companies as large investors.
+
+
+=== Government capital-raising for development projects ===
+Governments at various levels may decide to borrow money to finance infrastructure projects such as sewage and water treatment works or housing estates by selling another category of securities known as bonds. These bonds can be raised through the stock exchange whereby members of the public buy them, thus loaning money to the government. The issuance of such bonds can obviate, in the short term, direct taxation of citizens to finance development—though by securing such bonds with the full faith and credit of the government instead of with collateral, the government must eventually tax citizens or otherwise raise additional funds to make any regular coupon payments and refund the principal when the bonds mature.
+
+
+=== Barometer of the economy ===
+At the stock exchange, share prices rise and decreases depending, largely, on economic forces. Share prices tend to rise or remain stable when companies and the economy in general show signs of stability and growth. A recession, depression, or financial crisis could eventually lead to a stock market crash. Therefore, the movement of share prices and in general of the stock indexes can be an indicator of the general trend in the economy.
+
+
+== Listing requirements ==
+Each stock exchange imposes its own listing requirements upon companies that want to be listed on that exchange. Such conditions may include minimum number of shares outstanding, minimum market capitalization, and minimum annual income.
+
+
+=== Examples of listing requirements ===
+The listing requirements imposed by some stock exchanges include:
+
+New York Stock Exchange: the New York Stock Exchange (NYSE) requires a company to have issued at least 1.1 million shares of stock worth $40 million and must have earned more than $10 million over the last three years.
+NASDAQ Stock Exchange: NASDAQ requires a company to have issued at least 1.25 million shares of stock worth at least $70 million and must have earned more than $11 million over the last three years.
+London Stock Exchange: the main market of the London Stock Exchange requires a minimum market capitalization (£700,000), three years of audited financial statements, minimum public float (25%) and sufficient working capital for at least 12 months from the date of listing.
+Bombay Stock Exchange: Bombay Stock Exchange (BSE) requires a minimum market capitalization of ₹250 million (US$3.1 million) and minimum public float equivalent to ₹100 million (US$1.3 million).
+
+
+== Ownership ==
+Stock exchanges originated as mutual organizations, owned by its member stockbrokers. However, the major stock exchanges have demutualized, where the members sell their shares in an initial public offering. In this way the mutual organization becomes a corporation, with shares that are listed on a stock exchange. Examples are Australian Securities Exchange (1998), Euronext (merged with New York Stock Exchange), NASDAQ (2002), Bursa Malaysia (2004), the New York Stock Exchange (2005), Bolsas y Mercados Españoles, and the São Paulo Stock Exchange (2007).
+The Shenzhen Stock Exchange and Shanghai Stock Exchange can be characterized as quasi-state institutions insofar as they were created by government bodies in China and their leading personnel are directly appointed by the China Securities Regulatory Commission.
+Another example is Tashkent Stock Exchange established in 1994, three years after the collapse of the Soviet Union, mainly state-owned but has a form of a public corporation (joint-stock company). Korea Exchange (KRX) owns 25% less one share of the Tashkent Stock Exchange.In 2018, there were 15 licensed stock exchanges in the United States, of which 13 actively traded securities. All of these exchanges were owned by three publicly traded multinational companies, Intercontinental Exchange, Nasdaq, Inc., and Cboe Global Markets, except one, IEX. In 2019, a group of financial corporations announced plans to open a members owned exchange, MEMX, an ownership structure similar to the mutual organizations of earlier exchanges.
+
+
+== Other types of exchanges ==
+In the 19th century, exchanges were opened to trade forward contracts on commodities. Exchange traded forward contracts are called futures contracts. These commodity markets later started offering future contracts on other products, such as interest rates and shares, as well as options contracts. They are now generally known as futures exchanges.
+
+
+== See also ==
+Auction
+Capital market
+Commodities exchange
+Corporate governance
+Federation of Euro-Asian Stock Exchanges
+Financial regulation
+Histoire des bourses de valeurs (French)
+International Organization of Securities Commissions
+Securities market participants (United States)
+Stag profit
+Stock exchanges for developing countries
+Stock market data systems
+World Federation of ExchangesLists:
+
+List of stock exchanges
+List of European stock exchanges
+List of stock exchanges in the Americas
+List of African stock exchanges
+List of stock exchanges in Western Asia
+List of South Asian stock exchanges
+List of East Asian stock exchanges
+List of Southeast Asian stock exchanges
+List of stock exchanges in Oceania
+List of countries without a stock exchange
+List of stock market indices
+List of financial regulatory authorities by country
+List of Swiss financial market legislation
+
+
+== References ==
+
+
+== External links ==
+
+Stock exchange at Curlie

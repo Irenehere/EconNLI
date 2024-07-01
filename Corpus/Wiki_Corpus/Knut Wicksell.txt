@@ -1,0 +1,94 @@
+Johan Gustaf Knut Wicksell (December 20, 1851 – May 3, 1926) was a leading Swedish economist of the Stockholm school. His economic contributions would influence both the Keynesian and Austrian schools of economic thought. He was married to the noted feminist Anna Bugge.
+
+
+== Early life ==
+Wicksell was born in Stockholm on December 20, 1851. His father was a relatively successful businessman and real estate broker. He lost both his parents at a relatively early age. His mother died when he was only six, and his father died when he was fifteen. His father's considerable estate allowed him to enroll at the University of Uppsala in 1869 to study mathematics and physics.
+
+
+== Education ==
+He received his first degree in two years, and he engaged in graduate studies until 1885, when he received his doctorate in mathematics. In 1887, Wicksell received a scholarship to study on the Continent, where he heard lectures by the economist Carl Menger in Vienna. In the following years, his interests began to shift toward the social sciences, particularly economics.
+
+
+== Lecturer ==
+As a lecturer at Uppsala, Wicksell attracted attention because of his opinions about labour. At one lecture, he condemned drunkenness and prostitution as alienating, degrading, and impoverishing. Although he was sometimes identified as a socialist, his solution to the problem was decidedly Malthusian in advocating birth control, which he would defend to the end of his life. His fiery ideas had attracted some attention, but his first work in economics, Value, Capital and Rent (1892), went largely unnoticed. In 1896, he published Studies in the theory of Public Finance and applied the ideas of marginalism to progressive taxation, public goods and other aspects of public policy, attracting considerably more interest.
+Wicksell married Anna Bugge in 1887. Economics in Sweden at the time was taught as part of the law school, and Wicksell was unable to gain a chair until he was awarded a law degree. Accordingly, he returned to the University of Uppsala where he completed the usual four-year law degree course in two years, and he became an associate professor at that university in 1899. The next year, he became a full professor at Lund University, where he would undertake his most influential work.
+After giving a lecture in 1908 satirising the Virgin birth of Jesus, Wicksell was deemed guilty of blasphemy and imprisoned for two months in 1910.
+
+
+== Later life ==
+In 1916, he retired from his post at Lund and took a position at Stockholm advising the government on financial and banking issues. In Stockholm, Wicksell associated himself with other future great economists of the so-called "Stockholm School," such as Bertil Ohlin, Gunnar Myrdal and Erik Lindahl. He also taught a young Dag Hammarskjöld, the future Secretary-General of the United Nations.
+Wicksell died in 1926 while he was writing a final work on the theory of interest.
+
+
+== Work ==
+
+
+=== Influences ===
+Wicksell was enamored with the theory of Léon Walras (the Lausanne school), Eugen von Böhm-Bawerk (the Austrian school), and David Ricardo, and sought a synthesis of the three theoretical visions of the economy. Wicksell's work on creating a synthetic economic theory earned him a reputation as an "economist's economist." For instance, although the marginal productivity theory – the idea that payments to factors of production equilibrate to their marginal productivity – had been laid out by others such as John Bates Clark, Wicksell presented a far simpler and more robust demonstration of the principle, and much of the present conception of that theory stems from Wicksell's model.
+Wicksell's (1898, 1906) theory of the "cumulative process" of inflation remains the first decisive swing at the idea of money as a "veil" as well as Say's law.
+Extending from Ricardo's investigation of income distribution, Wicksell concluded that even a totally unfettered economy was not destined to equalize wealth as a number of Wicksell's predecessors had predicted. Instead, Wicksell posited, wealth created by growth would be distributed to those who had wealth in the first place. From this, and from theories of marginalism, Wicksell defended a place for government intervention to improve national welfare. Wicksell influenced the field of constitutional political economy. His 1896 work on fiscal theory Finanztheoretische Untersuchungen called attention to the significance of the rules within which choices are made by political agents, and he recognized that efforts at reform must be directed toward changes in the rules for making decisions rather than trying to influence the behaviour of the actors.
+
+
+=== Interest and Prices, 1898 ===
+Wicksell's most influential contribution was his theory of interest, originally published in German language as Geldzins und Güterpreise, in 1898. The English translation Interest and Prices became available in 1936; a literal translation of the original title would read Money Interest and Commodity Prices. Wicksell invented the key term natural rate of interest and defined it at that interest rate which is compatible with a stable price level.  If the interest rate falls short of the natural rate, inflation is likely to arise; if the interest rate exceeds the natural rate, this will tend to produce deflation. An interest rate that coincides with the natural rate ensures equilibrium in the commodity market and produces price level stability. This theory was adopted and expanded upon by the Austrian School, which theorized that an economic boom happened when (due to monetary expansions) the spot interest rate fell below the natural, unhampered money market rate.
+
+
+=== Cumulative process ===
+This contribution, called the "cumulative process," implied that if the natural rate of interest was not equal to the interest rate on loans, investment demand and savings would differ. If the interest rate is beneath the natural rate, an economic expansion occurs, and prices, ceteris paribus, will rise. This gave an early theory of endogenous money – money created by the internal workings of the economy, rather than external factors, and various theories of endogenous money have since developed.Wicksell's theory of the "cumulative process" of inflation remains the first decisive swing at the idea of money as a "veil". Wicksell's process has its roots in that of Henry Thornton. Recall that the start of the Quantity theory's mechanism is a helicopter drop of cash: an exogenous increase in the supply of money. Wicksell's theory claims, indeed, that increases in the supply of money leads to rises in price levels, but the original increase is endogenous, created by the relative conditions of the financial and real sectors. With the existence of credit money, Wicksell argued, two interest rates prevail: the "natural" rate and the "money" rate. The natural rate is the return on capital – or the real profit rate. It can be roughly considered to be equivalent to the marginal product of new capital. The money rate, in turn, is the loan rate, an entirely financial construction. Credit, then, is perceived quite appropriately as "money". Banks provide credit, after all, by creating deposits upon which borrowers can draw. Since deposits constitute part of real money balances, therefore the bank can, in essence, "create" money.
+
+
+=== Quantity theory of money ===
+Wicksell's main thesis, that disequilibrium engendered by real changes leads endogenously to an increase in the demand for money – and, simultaneously, its supply as banks try to accommodate it perfectly. Given full employment (a constant Y) and payments structure (constant V), then in terms of the equation of exchange, MV = PY, a rise in M leads only to a rise in P. Thus, the story of the Quantity theory of money, the long-run relationship between money and inflation, is kept in Wicksell.
+Primarily, Say's law is violated and abandoned by the wayside. Namely, when real aggregate supply does constrain, inflation results because capital goods industries cannot meet new real demands for capital goods by entrepreneurs by increasing capacity. They may try but this would involve making higher bids in the factor market which itself is supply-constrained – thus raising factor prices and hence the price of goods in general. In short, inflation is a real phenomenon brought about by a rise in real aggregate demand over and above real aggregate supply.
+Finally, for Wicksell the endogenous creation of money, and how it leads to changes in the commodity market is fundamentally a breakdown of the Neoclassical tradition of a dichotomy between monetary and real sectors. Money is not a "veil" – agents do react to it and this is not due to some irrational "money illusion". However, we should remind ourselves that, for Wicksell, in the long run, the Quantity Theory still holds: money is still neutral in the long run, although to do so, Wicksell has broken the Neoclassical principles of dichotomy, money supply exogeneity and Say's law.
+
+
+=== Reception ===
+Parts of Wicksell's ideas would be expanded upon by the Austrian school, which used it to form a theory of the business cycle based on central bank policy – changes in the level of money in the economy would shift the market rate of exchange in some way relative to the natural rate, and thus trigger a change in the relative proportion of the production of consumer goods to investment, which would ultimately result in an economic correction, or recession, in which the proportion of production of consumption goods to investment in the economy is pushed back towards the level that the natural rate of interest would result in. The cumulative process was the leading theory of the business cycle until John Maynard Keynes' The General Theory of Employment, Interest and Money. Wicksell's theory would be a strong influence in Keynes's ideas of growth and recession,
+in Gunnar Myrdal's key concept Circular Cumulative Causation  and also in Joseph Schumpeter's "creative destruction" theory of the business cycle.
+Wicksell's main intellectual rival was the American economist Irving Fisher, who espoused a more succinct explanation of the quantity theory of money, resting it almost exclusively on long run prices. Wicksell's theory was considerably more complicated, beginning with interest rates in a system of changes in the real economy. Although both economists concluded from their theories that at the heart of the business cycle (and economic crisis) was government monetary policy, their disagreement would not be solved in their lifetimes, and indeed, it was inherited by the policy debates between the Keynesians and monetarists beginning a half-century later.
+Wicksell also expressed his views on many social issues and was often a critic of the status quo. He questioned the institutions of rank, marriage, the church, the monarchy, and the military. While Wicksell fought for a more equal distribution of wealth and income, he saw himself primarily as an educator of the public. He desired to influence more than just the field of monetary economics.
+
+
+== Legacy ==
+Elements of his public policy were taken strongly to heart by the Swedish government, including his price-level targeting rule during the 1930s (Jonung 1979) and his vision of a welfare state. Wicksell's contributions to economics have been described by some economists, including historian-of-economics Mark Blaug, as fundamental to modern macroeconomics. Michael Woodford has especially praised Wicksell's advocacy of using the interest rate to maintain price stability, noting that it was a remarkable insight when most monetary policy was based on the gold standard (Woodford, 2003, p. 32). Woodford calls his own framework 'neo-Wicksellian', and he titled his textbook on monetary policy in homage to Wicksell's work.
+
+
+=== Economists influenced by Wicksell ===
+
+
+=== Schools of thought influenced by Wicksell ===
+
+
+== Bibliography ==
+Interest and Prices (pdf), Ludwig von Mises Institute, 2007
+Value, Capital and Rent (pdf), Ludwig von Mises Institute, 2007
+Lectures on Political Economy (volume 1 and 2, pdf), Ludwig von Mises Institute, 2007
+
+
+== See also ==
+Benefit principle
+Wicksell effect
+Wicksell's theory of capital
+Wicksellian Differential
+
+
+== References ==
+
+
+== Sources ==
+Boianovsky, Mauro; Erreygers, Guido (2005). "Social comptabilism and pure credit systems. Solvay and Wicksell on monetary reform", in : Fontaine, Philippe, Leonard, Robert, (ed.), The experiment in the history of economics, London, Routledge.
+Carlson, Benny; Jonung, Lars (September 2006). "Knut Wicksell, Gustav Cassel, Eli Heckscher, Bertil Ohlin and Gunnar Myrdal on the Role of the Economist in Public Debate"
+Jonung, Lars (1979). "Knut Wicksell's norm of price stabilization and Swedish monetary policy in the 1930s". Journal of Monetary Economics 5, pp. 45–46.
+Wagner, Richard (2008). "Wicksell, Knut (1851–1926)". In Hamowy, Ronald (ed.). The Encyclopedia of Libertarianism. Thousand Oaks, CA: Sage; Cato Institute. pp. 543–544. doi:10.4135/9781412965811.n329. ISBN 978-1412965804. LCCN 2008009151. OCLC 750831024.
+Woodford, Michael (2003). Interest and Prices: Foundations of a Theory of Monetary Policy. Princeton University Press, ISBN 0-691-01049-8.
+
+
+== External links ==
+Works by Knut Wicksell at Project Gutenberg
+Works by or about Knut Wicksell at Internet Archive
+Axel Leijonhufvud, The Wicksell Connection http://www.econ.ucla.edu/workingpapers/wp165.pdf
+Wicksell and origins of modern monetary theory-Lars Pålsson Syll
+Knut Wicksell’s critique of market fundamentalism-Lars Pålsson Syll
+Knut Wicksell (1851–1926). 2008. {{cite book}}: |work= ignored (help)
+Gårdlund, Torsten (1958). The Life of Knut Wicksell. Stockholm economic studies, 0348-3614 ; N.S., 2. Translated by Adler, Nancy. Stockholm: Almqvist & Wicksells. SELIBR 8078584. Retrieved 22 November 2014.

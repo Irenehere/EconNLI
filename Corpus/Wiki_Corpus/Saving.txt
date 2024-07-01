@@ -1,0 +1,36 @@
+Saving is income not spent, or deferred consumption. Methods of saving include putting money aside in, for example, a deposit account, a pension account, an investment fund, or as cash. Saving also involves reducing expenditures, such as recurring costs. In terms of personal finance, saving generally specifies low-risk preservation of money, as in a deposit account, versus investment, wherein risk is a lot higher; in economics more broadly, it refers to any income not used for immediate consumption. Saving does not automatically include interest.
+Saving differs from savings. The former refers to the act of not consuming one's assets, whereas the latter refers to either multiple opportunities to reduce costs; or one's assets in the form of cash. Saving refers to an activity occurring over time, a flow variable, whereas savings refers to something that exists at any one time, a stock variable. This distinction is often misunderstood, and even professional economists and investment professionals will often refer to "saving" as "savings".In different contexts there can be subtle differences in what counts as saving. For example, the part of a person's income that is spent on mortgage loan principal repayments is not spent on present consumption and is therefore saving by the above definition, even though people do not always think of repaying a loan as saving. However, in the U.S. measurement of the numbers behind its gross national product (i.e., the National Income and Product Accounts), personal interest payments are not treated as "saving" unless the institutions and people who receive them save them.
+Saving is closely related to physical investment, in that the former provides a source of funds for the latter. By not using income to buy consumer goods and services, it is possible for resources to instead be invested by being used to produce fixed capital, such as factories and machinery. Saving can therefore be vital to increase the amount of fixed capital available, which contributes to economic growth.
+However, increased saving does not always correspond to increased investment. If savings are not deposited into a financial intermediary such as a bank, there is no chance for those savings to be recycled as investment by business. This means that saving may increase without increasing investment, possibly causing a short-fall of demand (a pile-up of inventories, a cut-back of production, employment, and income, and thus a recession) rather than to economic growth. In the short term, if saving falls below investment, it can lead to a growth of aggregate demand and an economic boom. In the long term if saving falls below investment it eventually reduces investment and detracts from future growth. Future growth is made possible by foregoing present consumption to increase investment. However, savings not deposited into a financial intermediary amount to an (interest-free) loan to the government or central bank, who can recycle this loan.
+In a primitive agricultural economy, savings might take the form of holding back the best of the corn harvest as seed corn for the next planting season. If the whole crop were consumed the economy would convert to hunting and gathering the next season.
+
+
+== Interest rates ==
+Classical economics posited that interest rates would adjust to equate saving and investment, avoiding a pile-up of inventories (general overproduction). A rise in saving would cause a fall in interest rates, stimulating investment, hence always investment would equal saving.
+But John Maynard Keynes argued that neither saving nor investment was very responsive to interest rates (i.e., that both were interest-inelastic) so that large interest rate changes were needed to re-equate them after one changed. Further, it was the demand for and supplies of stocks of money that determined interest rates in the short run. Thus, saving could exceed investment for significant amounts of time, causing a general glut and a recession.
+
+
+== Saving in personal finance ==
+Within personal finance, the act of saving corresponds to nominal preservation of money for future use. A deposit account paying interest is typically used to hold money for future needs, i.e. an emergency fund, to make a capital purchase (car, house, vacation, etc.) or to give to someone else (children, tax bill etc.).
+Within personal finance, money used to purchase stocks, put in an investment fund or used to buy any asset where there is an element of capital risk is deemed an investment. This distinction is important as the investment risk can cause a capital loss when an investment is realized, unlike cash saving(s). Cash savings accounts are considered to have minimal risk. In the United States, all banks are required to have deposit insurance, typically issued by the Federal Deposit Insurance Corporation or FDIC. In extreme cases, a bank failure can cause deposits to be lost as it happened at the start of the Great Depression. The FDIC has prevented that from happening ever since.
+In many instances the terms saving and investment are used interchangeably. For example, many deposit accounts are labeled as investment accounts by banks for marketing purposes. As a rule of thumb, if money is "invested" in cash, then it is savings. If money is used to purchase some asset that is hoped to increase in value over time, but that may fluctuate in market value, then it is an investment.
+
+
+== Saving in economics ==
+
+In economics, saving is defined as after tax income minus consumption. The fraction of income saved is called the average propensity to save, while the fraction of an increment to income that is saved is called the marginal propensity to save. The rate of saving is directly affected by the general level of interest rates. The capital markets equilibrate the sum of (personal) saving, government surpluses, and net exports to physical investment.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Dell'Amore, Giordano (1983). "Household Propensity to Save", in Arnaldo Mauri (ed.), Mobilization of Household Savings, a Tool for Development, Finafrica, Milan.
+Modigliani, Franco (1988). "The Role of Intergenerational Transfers and the Life-cycle Saving in the Accumulation of Wealth", Journal of Economic Perspectives, n. 2, 1988.
+
+
+== Further reading ==
+Kotlikoff, Laurence J. (2008). "Saving". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.

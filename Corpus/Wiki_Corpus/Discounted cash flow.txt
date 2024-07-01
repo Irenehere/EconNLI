@@ -1,0 +1,409 @@
+The discounted cash flow (DCF) analysis, in finance, is a method used to value a security, project, company, or asset, that incorporates the time value of money. 
+Discounted cash flow analysis is widely used in investment finance, real estate development, corporate financial management, and patent valuation. Used in industry as early as the 1700s or 1800s, it was widely discussed in financial economics in the 1960s, and U.S. courts began employing the concept in the 1980s and 1990s. 
+
+
+== Application ==
+In discount cash flow analysis, all future cash flows are estimated and discounted by using cost of capital to give their present values (PVs). The sum of all future cash flows, both incoming and outgoing, is the net present value (NPV), which is taken as the value of the cash flows in question;
+see aside.
+For further context see Valuation (finance) § Valuation overview; 
+and for the mechanics see valuation using discounted cash flows, which includes modifications typical for startups, private equity and venture capital, corporate finance "projects", and mergers and acquisitions.
+Using DCF analysis to compute the NPV takes as input cash flows and a discount rate and gives as output a present value. The opposite process takes cash flows and a price (present value) as inputs, and provides as output the discount rate; this is used in bond markets to obtain the yield.
+
+
+== History ==
+Discounted cash flow calculations have been used in some form since money was first lent at interest in ancient times. Studies of ancient Egyptian and Babylonian mathematics suggest that they used techniques similar to discounting future cash flows. Modern discounted cash flow analysis has been used since at least the early 1700s in the UK coal industry.Discounted cash flow valuation is differentiated from the accounting book value, which is based on the amount paid for the asset. Following the stock market crash of 1929, discounted cash flow analysis gained popularity as a valuation method for stocks. Irving Fisher in his 1930 book The Theory of Interest and John Burr Williams's 1938 text The Theory of Investment Value first formally expressed the DCF method in modern economic terms.
+
+
+== Mathematics ==
+
+
+=== Discounted cash flows ===
+The discounted cash flow formula is derived from the present value formula for calculating the time value of money
+
+  
+    
+      
+        D
+        C
+        F
+        =
+        
+          
+            
+              C
+              
+                F
+                
+                  1
+                
+              
+            
+            
+              (
+              1
+              +
+              r
+              
+                )
+                
+                  1
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              C
+              
+                F
+                
+                  2
+                
+              
+            
+            
+              (
+              1
+              +
+              r
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        ⋯
+        +
+        
+          
+            
+              C
+              
+                F
+                
+                  n
+                
+              
+            
+            
+              (
+              1
+              +
+              r
+              
+                )
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle DCF={\frac {CF_{1}}{(1+r)^{1}}}+{\frac {CF_{2}}{(1+r)^{2}}}+\dotsb +{\frac {CF_{n}}{(1+r)^{n}}}}
+  and compounding returns:
+
+  
+    
+      
+        F
+        V
+        =
+        D
+        C
+        F
+        ⋅
+        (
+        1
+        +
+        r
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle FV=DCF\cdot (1+r)^{n}}
+  .Thus the discounted present value (for one cash flow in one future period) is expressed as:
+
+  
+    
+      
+        D
+        P
+        V
+        =
+        
+          
+            
+              F
+              V
+            
+            
+              (
+              1
+              +
+              r
+              
+                )
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle DPV={\frac {FV}{(1+r)^{n}}}}
+  where
+
+DPV is the discounted present value of the future cash flow (FV), or FV adjusted for the delay in receipt;
+FV is the nominal value of a cash flow amount in a future period (see Mid-year adjustment);
+r is the interest rate or discount rate, which reflects the cost of tying up capital and may also allow for the risk that the payment may not be received in full;
+n is the time in years before the future cash flow occurs.Where multiple cash flows in multiple time periods are discounted, it is necessary to sum them as follows:
+
+  
+    
+      
+        D
+        P
+        V
+        =
+        
+          ∑
+          
+            t
+            =
+            0
+          
+          
+            N
+          
+        
+        
+          
+            
+              F
+              
+                V
+                
+                  t
+                
+              
+            
+            
+              (
+              1
+              +
+              r
+              
+                )
+                
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle DPV=\sum _{t=0}^{N}{\frac {FV_{t}}{(1+r)^{t}}}}
+  for each future cash flow (FV) at any time period (t) in years from the present time, summed over all time periods. The sum can then be used as a net present value figure. If the amount to be paid at time 0 (now) for all the future cash flows is known, then that amount can be substituted for DPV and the equation can be solved for r, that is the internal rate of return.
+All the above assumes that the interest rate remains constant throughout the whole period.
+If the cash flow stream is assumed to continue indefinitely, the finite forecast is usually combined with the assumption of constant cash flow growth beyond the discrete projection period. The total value of such cash flow stream is the sum of the finite discounted cash flow forecast and the Terminal value (finance).
+
+
+=== Continuous cash flows ===
+For continuous cash flows, the summation in the above formula is replaced by an integration:
+
+  
+    
+      
+        D
+        P
+        V
+        =
+        
+          ∫
+          
+            0
+          
+          
+            T
+          
+        
+        F
+        V
+        (
+        t
+        )
+        
+        
+          e
+          
+            −
+            λ
+            t
+          
+        
+        d
+        t
+        =
+        
+          ∫
+          
+            0
+          
+          
+            T
+          
+        
+        
+          
+            
+              F
+              V
+              (
+              t
+              )
+            
+            
+              (
+              1
+              +
+              r
+              
+                )
+                
+                  t
+                
+              
+            
+          
+        
+        
+        d
+        t
+        
+        ,
+      
+    
+    {\displaystyle DPV=\int _{0}^{T}FV(t)\,e^{-\lambda t}dt=\int _{0}^{T}{\frac {FV(t)}{(1+r)^{t}}}\,dt\,,}
+  where 
+  
+    
+      
+        F
+        V
+        (
+        t
+        )
+      
+    
+    {\displaystyle FV(t)}
+   is now the rate of cash flow, and 
+  
+    
+      
+        λ
+        =
+        ln
+        ⁡
+        (
+        1
+        +
+        r
+        )
+      
+    
+    {\displaystyle \lambda =\ln(1+r)}
+  .
+
+
+== Discount rate ==
+The act of discounting future cash flows asks "how much money would have to be invested currently, at a given rate of return, to yield the forecast cash flow, at its future date?"  In other words, discounting returns the present value of future cash flows, where the rate used is the cost of capital that appropriately reflects the risk, and timing, of the cash flows.
+This "required return" thus incorporates:
+
+Time value of money (risk-free rate) – according to the theory of time preference, investors would rather have cash immediately than having to wait and must therefore be compensated by paying for the delay.
+Risk premium – reflects the extra return investors demand because they want to be compensated for the risk that the cash flow might not materialize after all.For the latter, various models have been developed, where the premium is (typically) calculated as a function of the asset's performance with reference to some macroeconomic variable - for example, the CAPM compares the asset's historical returns to the "overall market's"; see Capital asset pricing model § Asset-specific required return and Asset pricing § General equilibrium asset pricing.
+An alternate, although less common approach, is to apply a "fundamental valuation" method, such as the "T-model", which instead relies on accounting information.
+Other methods of discounting, such as hyperbolic discounting, are studied in academia and said to reflect intuitive decision-making, but are not generally used in industry. In this context the above is referred to as "exponential discounting".
+The terminology "expected return", although formally the mathematical expected value, is often used interchangeably with the above, where "expected" means "required" or "demanded" by investors.
+The method may also be modified by industry, for example various formulae have been proposed when choosing a discount rate in a healthcare setting;
+similarly in a mining setting, where risk-characteristics can differ (dramatically) by property. 
+
+
+== Methods of appraisal of a company or project ==
+For these valuation purposes, a number of different DCF methods are distinguished today, some of which are outlined below. The details are likely to vary depending on the capital structure of the company. However the assumptions used in the appraisal (especially the equity discount rate and the projection of the cash flows to be achieved) are likely to be at least as important as the precise model used.  Both the income stream selected and the associated cost of capital model determine the valuation result obtained with each method. (This is one reason these valuation methods are formally referred to as the Discounted Future Economic Income methods.) 
+The below is offered as a high-level treatment; for the components / steps of business modeling here, see Outline of finance § Financial modeling.
+
+
+=== Equity-approach ===
+Flows to equity approach (FTE)
+Discount the cash flows available to the holders of equity capital, after allowing for cost of servicing debt capital
+Advantages: Makes explicit allowance for the cost of debt capital
+Disadvantages: Requires judgement on choice of discount rate
+
+
+=== Entity-approach ===
+Adjusted present value approach (APV)
+Discount the cash flows before allowing for the debt capital (but allowing for the tax relief obtained on the debt capital)
+Advantages: Simpler to apply if a specific project is being valued which does not have earmarked debt capital finance
+Disadvantages: Requires judgement on choice of discount rate; no explicit allowance for cost of debt capital, which may be much higher than a risk-free rate
+Weighted average cost of capital approach (WACC)
+Derive a weighted cost of the capital obtained from the various sources and use that discount rate to discount the cash flows from the project
+Advantages: Overcomes the requirement for debt capital finance to be earmarked to particular projects
+Disadvantages: Care must be exercised in the selection of the appropriate income stream. The net cash flow to total invested capital is the generally accepted choice.
+Total cash flow approach (TCF)This distinction illustrates that the Discounted Cash Flow method can be used to determine the value of various business ownership interests. These can include equity or debt holders.
+Alternatively, the method can be used to value the company based on the value of total invested capital. In each case, the differences lie in the choice of the income stream and discount rate. For example, the net cash flow to total invested capital and WACC are appropriate when valuing a company based on the market value of all invested capital.
+
+
+== Shortcomings ==
+
+The following difficulties are identified with the application of DCF in valuation:
+
+Forecast reliability: Traditional DCF models assume we can accurately forecast revenue and earnings 3–5 years into the future. But studies have shown that growth is neither predictable nor persistent. (See Stock valuation#Growth rate and Sustainable growth rate#From a financial perspective.) In other terms, using DCF models is problematic due to the problem of induction, i.e. presupposing that a sequence of events in the future will occur as it always has in the past. Colloquially, in the world of finance, the problem of induction is often simplified with the common phrase: past returns are not indicative of future results. In fact, the SEC demands that all mutual funds use this sentence to warn their investors.This observation has led some to conclude that DCF models should only be used to value companies with steady cash flows. For example, DCF models are widely used to value mature companies in stable industry sectors, such as utilities. For industries that are especially unpredictable and thus harder to forecast, DCF models can prove especially challenging. Industry Examples:
+Real Estate: Investors use DCF models to value commercial real estate development projects. This practice has two main shortcomings. First, the discount rate assumption relies on the market for competing investments at the time of the analysis, which may not persist into the future. Second, assumptions about ten-year income increases are usually based on historic increases in the market rent. Yet the cyclical nature of most real estate markets is not factored in. Most real estate loans are made during boom real estate markets and these markets usually last fewer than ten years. In this case, due to the problem of induction, using a DCF model to value commercial real estate during any but the early years of a boom market can lead to overvaluation.
+Early-stage Technology Companies: In valuing startups, the DCF method can be applied a number of times, with differing assumptions, to assess a range of possible future outcomes—such as the best, worst and mostly likely case scenarios. Even so, the lack of historical company data and uncertainty about factors that can affect the company's development make DCF models especially difficult for valuing startups. There is a lack of credibility regarding future cash flows, future cost of capital, and the company's growth rate. By forecasting limited data into an unpredictable future, the problem of induction is especially pronounced.
+Discount rate estimation: Traditionally, DCF models assume that the capital asset pricing model can be used to assess the riskiness of an investment and set an appropriate discount rate. Some economists, however, suggest that the capital asset pricing model has been empirically invalidated. various other models are proposed (see asset pricing), although all are subject to some theoretical or empirical criticism.
+Input-output problem: DCF is merely a mechanical valuation tool, which makes it subject to the principle "garbage in, garbage out." Small changes in inputs can result in large changes in the value of a company. This is especially the case with terminal values, which make up a large proportion of the Discounted Cash Flow's final value.
+Missing variables: Traditional DCF calculations only consider the financial costs and benefits of a decision. They do not include the environmental, social and governance performance of an organization. This criticism, true for all valuation techniques, is addressed through an approach called "IntFV" discussed below.
+
+
+== Integrated future value ==
+To address the lack of integration of the short and long term importance, value and risks associated with natural and social capital into the traditional DCF calculation, companies are valuing their environmental, social and governance (ESG) performance through an Integrated Management approach to reporting, that expands DCF or Net Present Value to Integrated Future Value (IntFV).This allows companies to value their investments not just for their financial return but also the long term environmental and social return of their investments. By highlighting environmental, social and governance performance in reporting, decision makers have the opportunity to identify new areas for value creation that are not revealed through traditional financial reporting.
+As an example, the social cost of carbon is one value that can be incorporated into Integrated Future Value calculations to encompass the damage to society from greenhouse gas emissions that result from an investment.
+This is an integrated approach to reporting that supports Integrated Bottom Line (IBL) decision making, which takes triple bottom line (TBL) a step further and combines financial, environmental and social performance reporting into one balance sheet. This approach provides decision makers with the insight to identify opportunities for value creation that promote growth and change within an organization.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+International Federation of Accountants (2008). Project Appraisal Using Discounted Cash Flow (PDF). Archived (PDF) from the original on 14 April 2019.
+Copeland, Thomas E.; Tim Koller; Jack Murrin (2000). Valuation: Measuring and Managing the Value of Companies. New York: John Wiley & Sons. ISBN 0-471-36190-9.
+Damodaran, Aswath (1996). Investment Valuation: Tools and Techniques for Determining the Value of Any Asset. New York: John Wiley & Sons. ISBN 0-471-13393-0.
+Rosenbaum, Joshua; Joshua Pearl (2009). Investment Banking: Valuation, Leveraged Buyouts, and Mergers & Acquisitions. Hoboken, NJ: John Wiley & Sons. ISBN 978-0-470-44220-3.
+James R. Hitchnera (2006). Financial Valuation: Applications and Models. Wiley Finance. ISBN 0-471-76117-6.
+Chander Sawhney (2012). Discounted Cash Flow – The Prominent Income Approach to Valuation. corporatevaluations.in.
+
+
+== External links ==
+Calculating Intrinsic Value Using the DCF Model, wealthyeducation.com
+Calculating Terminal Value Using the DCF Model, wealthyeducation.com
+Continuous compounding/cash flows, ocw.mit.edu
+Getting Started With Discounted Cash Flows. The Street.

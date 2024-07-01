@@ -1,0 +1,32 @@
+In finance, mainly for financial services firms, economic capital (ecap) is the amount of risk capital, assessed on a realistic basis, which a firm requires to cover the risks that it is running or collecting as a going concern, such as market risk, credit risk, legal risk, and operational risk. It is the amount of money that is needed to secure survival in a worst-case scenario. Firms and financial services regulators should then aim to hold risk capital of an amount equal at least to economic capital.
+Typically, economic capital is calculated by determining the amount of capital that the firm needs to ensure that its realistic balance sheet stays solvent over a certain time period with a pre-specified probability. Therefore, economic capital is often calculated as value at risk. The balance sheet, in this case, would be prepared showing market value (rather than book value) of assets and liabilities.
+The first accounts of economic capital date back to the ancient Phoenicians, who took rudimentary tallies of frequency and severity of illnesses among rural farmers to gain an intuition of expected losses in productivity. These calculations were advanced by correlations to climate change, political outbreaks, and birth rate change.The concept of economic capital differs from regulatory capital in the sense that regulatory capital is the mandatory capital the regulators require to be maintained while economic capital is the best estimate of required capital that financial institutions use internally to manage their own risk and to allocate the cost of maintaining regulatory capital among different units within the organization.
+
+
+== In social science ==
+In social science, economic capital is distinguished in relation to other types of capital which may not necessarily reflect a monetary or exchange-value. These forms of capital include natural capital, cultural capital and social capital; the latter two represent a type of power or status that an individual can attain in a capitalist society via formal education or through social ties. Non-economic forms of capital have been variously discussed most famously by sociologist Pierre Bourdieu.
+
+
+== See also ==
+Asset allocation
+Basel I
+Basel II
+Capital structure
+Financial risk management
+Financial services conglomerate
+RAROC, risk-adjusted return on capital
+RORAC, return on risk-adjusted capital
+Solvency II
+
+
+== References ==
+Porteous, Bruce; Pradip Tapadar (December 2005). Economic Capital and Financial Risk Management for Financial Services Firms and Conglomerates. Palgrave Macmillan. ISBN 1-4039-3608-0.
+Porteous, Bruce; Tapadar, Pradip (2008). "The Impact of Capital Structure on Economic Capital and Risk Adjusted Performance" (PDF). ASTIN Bulletin. 38: 341–380. doi:10.2143/ast.38.1.2030416. Retrieved October 11, 2011.
+Porteous, Bruce; Tapadar, Pradip (2008). "Asset Allocation to Optimise Life Insurance Annuity Firm Economic Capital and Risk Adjusted Performance" (PDF). Annals of Actuarial Science. 3 (1–2): 187–214. doi:10.1017/s1748499500000506. S2CID 154591323.
+
+
+== External links ==
+FDIC.gov, Economic Capital and the Assessment of Capital Adequacy Federal Deposit Insurance Corporation
+BIS.org, "Basel Committee, Bank for International Settlements"
+Economic Capital - A Preamble
+CEIOPS"

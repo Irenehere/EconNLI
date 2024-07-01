@@ -1,0 +1,170 @@
+In finance, interest rate immunization is a portfolio management strategy designed to take advantage of the offsetting effects of interest rate risk and reinvestment risk.In theory, immunization can be used to ensure that the value of a portfolio of assets (typically bonds or other fixed income securities) will increase or decrease by the same amount as a designated set of liabilities, thus leaving the equity component of capital unchanged, regardless of changes in the interest rate. It has found applications in financial management of pension funds, insurance companies, banks and savings and loan associations. 
+Immunization can be accomplished by several methods, including cash flow matching, duration matching, and volatility and convexity matching.  It can also be accomplished by trading in bond forwards, futures, or options.
+Other types of financial risks, such as foreign exchange risk or stock market risk, can be immunised using similar strategies.  If the immunization is incomplete, these strategies are usually called hedging.  If the immunization is complete, these strategies are usually called arbitrage.
+
+
+== History ==
+Immunisation was discovered independently by several researchers in the early 1940s and 1950s. This work was largely ignored before being re-introduced in the early 1970s, whereafter it gained popularity. See Dedicated Portfolio Theory#History for details.
+
+
+=== Redington ===
+Frank Redington is generally considered to be the originator of the immunization strategy. Redington was an  actuary from the United Kingdom. In 1952 he published his "Review of the Principle of Life-Office Valuations," in which he defined immunization as "the investment of the assets in such a way that the existing business is immune to a general change in the rate of interest." Redington believed that if a company (for example, a life insurance company) structured its investment portfolio assets to be of the same duration as its liabilities, and market interest rates decreased during the planning horizon, the lower yield earned on reinvested cash flows would be offset by the increased value of portfolio assets remaining at the end of the planning period. On the other hand, if market interest rates increased, the same offset effect would occur: higher yields earned on reinvested cash flows would be offset by a reduction in the value of the portfolio. In either scenario, with offsetting effects on each side of the balance sheet, the shareholders' equity value of the business would be immunized from the effect of changes in interest rates.
+
+
+=== Fisher and Weil ===
+In 1971, Lawrence Fisher and Roman Weil framed the issue as follows: to immunize a portfolio, "the average duration of the bond portfolio must be set equal to the remaining time in the planning horizon, and the market value of assets must be greater than or equal to the present value of the liabilities discounted at the internal rate of return of the portfolio."
+
+
+== Applications ==
+Pension funds use immunization to lock in current market rates, when they are attractive, over a specified planning horizon, and to fund a future stream of pension benefit payments to retirees. Banks and thrift (savings and loan) associations immunize in order to manage the relationship between assets and liabilities, which affects their capital requirements. Insurance companies construct immunized portfolios to support guaranteed investment contracts, structured financial instruments which are sold to institutional investors.
+
+
+== How portfolios are immunized ==
+Immunization theory assumes that the yield curve is flat, and that interest rate changes are parallel shifts up or down in that yield curve.
+
+
+=== Cash flow matching ===
+Conceptually, the easiest form of immunization is cash flow matching.  For example, if a financial company is obliged to pay 100 dollars to someone in 10 years, it can protect itself by buying and holding a 10-year, zero-coupon bond that matures in 10 years and has a redemption value of $100.  Thus, the firm's expected cash inflows would exactly match its expected cash outflows, and a change in interest rates would not affect the firm's ability to pay its obligations. Nevertheless, a firm with many expected cash flows can find that cash flow matching can be difficult or expensive to achieve in practice. Once, that meant that only institutional investors could afford it.  But the advent of the Internet and the personal computer relieved much of this difficulty. Dedicated portfolio theory is based on cash flow matching and is being used by personal financial advisors to construct retirement portfolios for private individuals.  Withdrawals from the portfolio to pay living expenses represent the stream of expected future cash flows to be matched.  Individual bonds with staggered maturities are purchased whose coupon interest payments and redemptions supply the cash flows to meet the withdrawals of the retirees.
+Mathematically, this can be expressed as follows. Let the net cash flow at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   be denoted by 
+  
+    
+      
+        
+          R
+          
+            t
+          
+        
+      
+    
+    {\displaystyle R_{t}}
+  , i.e.:
+
+  
+    
+      
+        
+          R
+          
+            t
+          
+        
+        =
+        
+          A
+          
+            t
+          
+        
+        −
+        
+          L
+          
+            t
+          
+        
+        
+           for 
+        
+        t
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle R_{t}=A_{t}-L_{t}{\text{ for }}t=1,2,3,\ldots ,n}
+  where 
+  
+    
+      
+        
+          A
+          
+            t
+          
+        
+      
+    
+    {\displaystyle A_{t}}
+   and 
+  
+    
+      
+        
+          L
+          
+            t
+          
+        
+      
+    
+    {\displaystyle L_{t}}
+   represent cash inflows and outflows or liabilities respectively.
+Assuming that the present value of cash inflows from the assets is equal to the present value of the cash outflows from the liabilities, then:
+
+  
+    
+      
+        P
+        (
+        i
+        )
+        =
+        0
+      
+    
+    {\displaystyle P(i)=0}
+    
+
+
+=== Duration matching ===
+
+Another immunization method is duration matching. Here, a portfolio manager creates a bond portfolio with a duration equal to the duration of the liabilities. To make the match actually profitable under changing interest rates, the assets and liabilities are arranged so that the total convexity of the assets exceed the convexity of the liabilities. In other words, one can match the first derivatives (with respect to interest rate) of the price functions of the assets and liabilities and make sure that the second derivative of the asset price function is set to be greater than or equal to the second derivative of the liability price function.
+
+
+=== Rebalancing ===
+Immunization requires that the average durations of assets and liabilities be kept equal at all times. This makes it necessary to rebalance the portfolio investments regularly, because the years remaining in the planning period grow shorter with each passing year. Coupon income, reinvestment income, proceeds from maturities and sales proceeds must be reinvested in securities that will keep the portfolio's duration equal to the remaining years in the planning period.
+
+
+=== Immunization in practice ===
+An immunization strategy is designed so that as interest rates change, interest-rate risk and reinvestment risk will offset each other. However, as Dr. Frank Fabozzi points out, the Macaulay duration metric and immunization theory are based on the assumption that any shifts in the yield curve during the planning period will be parallel, i.e. equal at each point in the term structure of interest rates. But when a non-parallel shift in the yield curve occurs, there is a risk that the portfolio will not be immunized even if its duration matches the liability duration. Immunization risk can be quantified so that a portfolio that minimizes this risk can be constructed.A principal component analysis of changes along the U.S. Government Treasury yield curve reveals that more than 90% of yield curve shifts are parallel shifts, followed by a smaller percentage of slope shifts and a small percentage of curvature shifts. Using that knowledge, an immunized portfolio can be created by creating long positions with durations at the long and short end of the curve, and a matching short position with a duration in the middle of the curve.  These positions protect against parallel shifts and slope changes, in exchange for exposure to curvature changes.Immunization can be done in a portfolio of a single asset type, such as government bonds, by creating long and short positions along the yield curve.  It is usually possible to immunize a portfolio against the most prevalent risk factors.
+
+
+== See also ==
+Asset–liability mismatch
+Bond convexity
+Bond duration
+Bond (finance)
+Debt sculpting
+Duration gap
+Hedging
+Interest rate parity
+
+
+== References ==
+
+
+== External links ==
+Guide to Hedging Interest Rate Risk
+
+
+== Further reading ==
+Leibowitz, Martin L. and Weinberger, Alfred. Contingent Immunization—Part I: Risk Control Procedures. Financial Analysts Journal. March 1, 1986. Volume 38, Issue 6.
+Leibowitz, Martin L. The Dedicated Bond Portfolio in Pension Funds—Part II: Immunization, Horizon Matching and Contingent Procedures. Financial Analysts Journal. November 1, 1982. Volume 42. Issue 2.
+Phoa, Wesley. Advanced Fixed Income Analytics, Frank J. Fabozzi Associates, New Hope Pennsylvania, 1998.  ISBN 1-883249-34-1
+Stulz, René M. (2003). Risk Management & Derivatives (1st ed.). Mason, Ohio: Thomson South-Western. ISBN 0-538-86101-0.

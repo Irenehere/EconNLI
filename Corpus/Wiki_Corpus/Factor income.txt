@@ -1,0 +1,5 @@
+Factor income is the flow of income that is derived from the factors of production, i.e., the general inputs required to produce goods and services. Factor income on the use of land is called rent, income generated from labor is called wages, and income generated from capital is called profit. The factor income of all normal residents of a country is referred to as the national income, while factor income and current transfers together are referred to as private income.Factor income is used to analyze macroeconomic situations and to find out the difference between gross domestic product and gross domestic income which is also the difference between the total value of the goods and services produced in a country and the net income of the citizens of the country. This helps the government understand the magnitude of income of the country's citizens and the citizens living abroad.
+The applicability of the concept of factor income can be seen in developing countries where large portion of their income is from foreign direct investment which creates a massive gap between gross domestic product (GDP) and gross national income (GNI).
+
+
+== References ==

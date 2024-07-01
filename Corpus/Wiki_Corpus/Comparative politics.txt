@@ -1,0 +1,104 @@
+Comparative politics is a field in political science characterized either by the use of the comparative method or other empirical methods to explore politics both within and between countries. Substantively, this can include questions relating to political institutions, political behavior, conflict, and the causes and consequences of economic development. When applied to specific fields of study, comparative politics may be referred to by other names, such as comparative government (the comparative study of forms of government).
+
+
+== Definition ==
+Comparative politics is the systematic study and comparison of the diverse political systems in the world. It is comparative in searching to explain why different political systems have similarities or differences and how developmental changes came to be between them. It is systematic in that it looks for trends, patterns, and regularities among these political systems. The research field takes into account political systems throughout the globe, focusing on themes such as democratization, globalization, and integration. New theories and approaches have been used in political science in the last 40 years thanks to comparative politics. Some of these focus on political culture, dependency theory, developmentalism, corporatism, indigenous theories of change, comparative political economy, state-society relations, and new institutionalism. Some examples of comparative politics are studying the differences between presidential and parliamentary systems, democracies and dictatorships, parliamentary systems in different countries, multi-party systems such as Canada and two-party systems such as the United States. Comparative politics must be conducted at a specific point in time, usually the present. A researcher cannot compare systems from different periods of time; it must be static.While historically the discipline explored broad questions in political science through between-country comparisons, contemporary comparative political science primarily uses subnational comparisons. More recently, there has been a significant increase in the interest of subnational comparisons and the benefit it has on comparative politics. We would know far less about major credible issues within political science if it weren't for subnational research. Subnational research contributes important methodological, theoretical, and substantive ideas to the study of politics. Important developments often obscured by a national-level focus are easier to decipher through subnational research. An example could be regions inside countries where the presence of state institutions have been reduced in effect or value.The name comparative politics refers to the discipline's historical association with the comparative method, described in detail below. Arend Lijphart argues that comparative politics does not have a substantive focus in itself, but rather a methodological one: it focuses on "the how but does not specify the what of the analysis." Peter Mair and Richard Rose advance a slightly different definition, arguing that comparative politics is defined by a combination of a substantive focus on the study of countries' political systems and a method of identifying and explaining similarities and differences between these countries using common concepts.Sometimes, especially in the United States, the term "comparative politics" is used to refer to "the politics of foreign countries." This usage of the term is disputed.Comparative politics is significant because it helps people understand the nature and working of political frameworks around the world. There are many types of political systems worldwide according to the authentic, social, ethnic, racial, and social history. Indeed, even comparative constructions of political association shift starting with one country then onto the next. For instance, India and the United States are majority-rule nations; nonetheless, the U.S. has a liberal vote-based presidential system contrasted with the parliamentary system used in India. Even the political decision measure is more diverse in the United States when found in light of the Indian popular government. The United States has a president as their leader, while India has a prime minister. Relative legislative issues encourage us to comprehend these central contracts and how the two nations are altogether different regardless of being majority rule. This field of study is critical for the fields of international relations and conflict resolution. Near politics encourages international relations to clarify worldwide legislative issues and the present winning conditions worldwide. Although both are subfields of political science, comparative politics examines the causes of international strategy and the effect of worldwide approaches and frameworks on homegrown political conduct and working.
+
+
+== History of the field ==
+Harry H. Eckstein traces the history of the field of comparative politics back to Aristotle, and sees a string of thinkers from Machiavelli and Montesquieu, to Gaetano Mosca and Max Weber, Vilfredo Pareto and Robert Michels, on to James Bryce - with his Modern Democracies (1921) - and Carl Joachim Friedrich - with his Constitutional Government and Democracy (1937) - contributing to its history.
+
+
+=== Two traditions reaching back to Aristotle and Plato ===
+Philippe C. Schmitter argues that the "family tree" of comparative politics has two main traditions: one, invented by Aristotle, that he calls "sociological constitutionalism"; a second, that he traced back to Plato, that he calls "legal constitutionalism"".Schmitter places various scholars under each tradition:
+
+1. Sociological constitutionalism: Some classic scholars in this tradition are: "Polybius, Machiavelli, Montesquieu, Benjamin Constant, Alexis de Tocqueville, Lorenz von Stein, Karl Marx, Moisei Ostrogorski, Max Weber, Emile Durkheim, Robert Michels, Gaetano Mosca, Vilfredo Pareto, and Herbert Tingsten." Schmitter argues that, in the twentieth century, this tradition was known by the label of "historical political sociology" and included scholars such as "Stein Rokkan, T.H. Marshall, Reinhard Bendix, Otto Kirchheimer, Seymour Martin Lipset, Juan Linz, Hans Daalder, Mattei Dogan, S.N. Eisenstadt, Harry Eckstein, and Dankwart Rustow."
+2. Legal constitutionalism: Some classic scholars in this tradition are: "Léon Duguit, Georges Burdeau, James Bryce, A. Lawrence Lowell, and Woodrow Wilson." Schmitter argues that in the twentieth century this tradition was continued by: "Maurice Duverger, Herman Finer, Samuel Finer, Giovanni Sartori, Carl J. Friedrich, Samuel Beer, Jean Blondel, F.A. Hermens, and Klaus von Beyme."
+
+
+=== Periodization as a field of political science ===
+Gerardo L. Munck offers the following periodization for the evolution of modern comparative politics, as a field of political science - understood as an academic discipline - in the United States:
+1. The Constitution of Political Science as a Discipline, 1880–1920
+2. The Behavioral Revolution, 1921–66
+3. The Post-Behavioral Period, 1967–88
+4. The Second Scientific Revolution 1989–2005
+
+
+=== Contemporary patterns, 2000-present ===
+Since the turn of the century, several trends in the field can be detected.
+End of the pretense of rational choice theory to hegemonize the field
+Lack of a unifying metatheory
+Greater attention to causal inference, and increased use of experimental methods.
+Continued use of observation methods, including qualitative methods.
+New concern with a "hegemony of methods" as theorizing is not given as much attention.
+
+
+== Substantive areas of research ==
+By some definitions, comparative politics can be traced back to Greek philosophy, as Plato's Republic and Aristotle's The Politics.
+As a modern sub-discipline, comparative politics is constituted by research across a range of substantive areas, including the study of:
+
+Politics of democratic states
+Politics of authoritarian states
+Public goods provision and distributive politics
+Political violence
+Political identity, including ethnic and religious politics
+Democratization and regime change
+Elections and electoral and party systems
+Political economy of development
+Collective action
+Voting behavior
+Origins of the state
+Comparative political institutions
+Methodologies for comparative political research
+Quantitative politics with democracy indicesWhile many researchers, research regimes, and research institutions are identified according to the above categories or foci, it is not uncommon to claim geographic or country specialization as the differentiating category.
+The division between comparative politics and international relations is artificial, as processes within nations shape international processes, and international processes shape processes within states. Some scholars have called for an integration of the fields. Comparative politics does not have similar "isms" as international relations scholarship.
+
+
+== Methodology ==
+While the name of the subfield suggests one methodological approach (the comparative method), political scientists in comparative politics use the same diversity of social scientific methods as scientists elsewhere in the field, including experiments, comparative historical analysis, case studies, survey methodology, and ethnography. Researchers choose a methodological approach in comparative politics driven by two concerns: ontological orientation and the type of question or phenomenon of interest.
+
+
+=== (Mill's) comparative method ===
+
+Most Similar Systems Design/Mill's Method of Difference: This method consists in comparing very similar cases which only differ in the dependent variable, on the assumption that this would make it easier to find those independent variables which explain the presence/absence of the dependent variable.
+Most Different Systems Design/Mill's Method of Similarity: This method consists in comparing very different cases, all of which however have in common the same dependent variable, so that any other circumstance which is present in all the cases can be regarded as the independent variable.
+
+
+=== Subnational comparative analysis ===
+Since the turn of the century, many students of comparative politics have compared units within a country. Relatedly, there has been a growing discussion of what Richard O. Snyder calls the "subnational comparative method."
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Alford, Robert R., and Roger Friedland. 1985. Powers of Theory. Capitalism, the State, and Democracy. New York: Cambridge University Press.
+Almond, Gabriel A. 1968. "Politics, Comparative," pp. 331–36, in David L. Sills (ed.), International Encyclopaedia of the Social Sciences Vol. 12. New York: Macmillan.
+Baldez, Lisa. 2010. "The Gender Lacuna in Comparative Politics". Perspectives on Politics 8(1): 199–205.
+Boix, Carles, and Susan C. Stokes (eds.). 2007. The Oxford Handbook of Comparative Politics. Oxford, UK: Oxford University Press.
+Campus, Donatella, and Gianfranco Pasquino  (eds.). 2009. Masters of Political Science, Vol. 1. Colchester: ECPR Press.
+Campus, Donatella, Gianfranco Pasquino, and Martin Bull (eds.). 2011. Masters of Political Science, Vol. 2. Colchester: ECPR Press.
+Chilcote, Ronald H., 1994. Theories of Comparative Politics: The Search for a Paradigm Revisited, Second edition. Boulder: Westview Press.
+Daalder, Hans (ed.). 1997. Comparative European Politics: The Story of a Profession. London: Pinter.
+Dosek, Tomas. 2020. "Multilevel Research Designs: Case Selection, Levels of Analysis, and Scope Conditions". Studies in Comparative International Development 55:4" 460–80.
+Eckstein, Harry. 1963. "A Perspective on Comparative Politics, Past and Present," pp. 3–32, in David Apter and Harry Eckstein (eds.), Comparative Politics: A Reader. New York: Free Press of Glencoe. [4]
+Janos, Andrew C. 1986. Politics and Paradigms. Changing Theories of Change in Social Science. Stanford, Cal.: Stanford University Press.
+Landman, Todd, and Neil Robinson (eds.). 2009. The Sage Handbook of Comparative Politics. London: Sage Publications.
+Lichbach, Mark Irving, and Alan S. Zuckerman (eds.). 2009. Comparative Politics: Rationality, Culture, and Structure, 2nd ed. New York: Cambridge University Press.
+Mair, Peter. 1996. "Comparative Politics: An Overview," pp. 309–35, in Robert E. Goodin and Hans-Dieter Klingemann (eds.), A New Handbook of Political Science. Oxford: Oxford University Press.
+Munck, Gerardo L. 2007. "The Past and Present of Comparative Politics," pp. 32–59, in Gerardo Munck and Richard Snyder, Passion, Craft, and Method in Comparative Politics. Baltimore, Md.: The Johns Hopkins University Press.
+Munck, Gerardo L., and Richard Snyder (eds.). 2007. Passion, Craft, and Method in Comparative Politics. Baltimore, MD: The Johns Hopkins University Press.
+Pepinsky, Thomas B. 2019. "The Return of the Single-Country Study." Annual Review of Political Science Vol. 22: 187–203.
+Schmitter, Philippe C. 2009. "The Nature and Future of Comparative Politics." European Political Science Review 1,1: 33–61.
+von Beyme, Klaus. 2008. "The Evolution of Comparative Politics," pp. 27–43, in Daniel Caramani (ed.), Comparative Politics. Oxford: Oxford University Press.
+Wilson, Matthew Charles. 2017. "Trends in Political Science Research and the Progress of Comparative Politics," PS: Political Science & Politics 50(4): 979–84.
+
+
+== External links ==
+
+Comparative Methods in Political & Social Research: useful resources from Prof. David Levi-Faur's course at the University of Haifa.
+Comparative Politics in Argentina & Latin America: Site dedicated to the development of comparative politics in Latin America. Paper Works, Articles and links to specialized web sites.
+Comparative Politics Research Group Archived 2017-10-01 at the Wayback Machine: An initiative by the University of Innsbruck containing useful resources and references to scientific publications.

@@ -1,0 +1,182 @@
+In economics, cost pass-through (also known as price transmission or simply pass-through) is a process (or result) of a business changing pricing of its output (products or services) to reflect a change in costs of its own input (materials, labor, etc.). The effect of passthrough is quantified as passthrough rate, a ratio between the change in costs and the change in prices. Depending on circumstances, a business might decide to absorb part of the cost changes (resulting in ratio below 1.0) or amplify them (ratio above 1.0).Cost pass-through is extensively used when analyzing the state of competition or evaluating mergers. In the studies of inflation, a  pass-through from prices to wages (i.e., in opposite direction) is also considered.
+
+
+== Simple examples ==
+When an increase in costs (the cost shock) happens in a perfectly competitive market, a bigger share of the  change will be borne by the party that is less sensitive to the price.For example, in the perfectly inelastic demand case (consumers have to have the good whatever the price is), a cost shock will be passed to consumers in its entirety (full pass-through, passthrough rate will be equal to 1.0). In the case of a perfectly elastic demand (consumers ready to abandon the market if faced with any price increase), producers will be forced to fully absorb the shock (pass-through rate 0.0).In the intermediate case of consumers being somewhat price-sensitive, the demand for goods will be reduced; the ultimate pass-through effect will be dependent on the slope of the supply curve. If it slopes upwards (the more units are produced, the costlier each one is, e.g., due to capacity constraints), the per-unit costs will go down, providing the producer with some room to partially absorb the cost shock. If the supply curve slopes downward (case of economy of scale), reduced production will make each unit costlier to produce, so the pass-through rate can become higher than 1.0 (so called over-shifting).
+
+
+== Terminology ==
+In addition to the absolute pass-through that uses incremental values (i.e., $2 cost shock causing $1 increase in price yields a 50% pass-through rate), some researchers use pass-through elasticity, where the ratio is calculated based on percentage change of price and cost (for example, with elasticity of 0.5, a 2% increase in cost yields a 1% increase in price). The relationship between these values is based on the ratio of the price to marginal cost: 
+  
+    
+      
+        
+          a
+          b
+          s
+          o
+          l
+          u
+          t
+          e
+          P
+          a
+          s
+          s
+          t
+          h
+          r
+          o
+          u
+          g
+          h
+        
+        =
+        
+          p
+          a
+          s
+          s
+          t
+          h
+          r
+          o
+          u
+          g
+          h
+          E
+          l
+          a
+          s
+          t
+          i
+          c
+          i
+          t
+          y
+        
+        ×
+        
+          
+            
+              p
+              r
+              i
+              c
+              e
+            
+            
+              m
+              a
+              r
+              g
+              i
+              n
+              a
+              l
+              C
+              o
+              s
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {absolutePassthrough}={passthroughElasticity}\times {\frac {price}{marginalCost}}}
+     
+Number of businesses affected by the change in costs can vary from one (in this case, a term firm-specific pass-through is used) to all the companies in an industry (industry-wide pass-through), consideration of intermediate scenarios between these two extremes is also meaningful; the pass-through rate significantly depends on the scenario. In an oligopolistic market cost shocks experienced by one producer affect the competitors through a change in equilibrium price (so called cross pass-through effect).
+
+In many cases in short-term the prices  increase more with the cost increases, and decrease proportionally less when the costs get lower; this situation is characterized as an asymmetric pass-through. This asymmetry eventually dissipates, although there is no set time interval for this downward adjustment of the price.While studying a market with vertically separated companies (for example, a producer and a reseller), terms upstream pass-through and downstream pass-through are used to denote, respectively, the producer and reseller pass-through rates.
+
+
+== Theoretical considerations ==
+The cost pass-through in a perfectly competitive market is higher with less elastic demand and more elastic supply.The convex demand curve corresponds to higher pass-through, concave demand is characterized by lower pass-through value. The pass-through for concave demand is always below 1.0 if the marginal cost is constant. In the case of perfectly competitive market, 
+  
+    
+      
+        
+          p
+          a
+          s
+          s
+          t
+          h
+          r
+          o
+          u
+          g
+          h
+        
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                
+                  
+                    d
+                    e
+                    m
+                    a
+                    n
+                    d
+                    E
+                    l
+                    a
+                    s
+                    t
+                    i
+                    c
+                    i
+                    t
+                    y
+                  
+                  
+                    s
+                    u
+                    p
+                    p
+                    l
+                    y
+                    E
+                    l
+                    a
+                    s
+                    t
+                    i
+                    c
+                    i
+                    t
+                    y
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {passthrough}={\frac {1}{1+{\frac {demandElasticity}{supplyElasticity}}}}}
+  .
+
+
+== Practical estimates ==
+There are few ways to estimate (or predict) the pass-through rate:
+qualitative assessment relies on the accounting documentation, interviews, past examples of the similar cost shocks. This is the only approach that can be used when there is too little information available to construct an econometric model. The nature of the qualitative assessment makes it hard to decouple the effects of a cost shock from the ones caused by changes in other market conditions;
+econometric estimation using non-structural econometric methods;
+structural estimation combined with counterfactual analysis.The attempts to accurately estimate the cost pass-through are hampered by multiple practical issues:
+
+in a vertically separated market the cost pass-through in the short term can be distorted by the terms of existing contracts.Empirical data on pass-through values shows large variability both between the particular industry cases and between different companies affected by similar price shocks: absolute industry-wide passthrough rate were observed to be anywhere between 20% and way above 100%, with pass-through elasticities occupying the full range of 0.0 to 1.0 (elasticities close to 1.0 in practice correspond to absolute rates above 100% due to mark-up inherent in a successful business operation).
+
+
+== References ==
+
+
+== Sources ==
+RBB Economics (February 2014). "Cost pass-through: theory, measurement, and potential policy implications" (PDF). Government of the UK.
+Bolt, Wilko; Bonam, Dennis; Rooij, Maarten van; De Veirman, Emmanuel; Volkerink, Maikel (2022). "Wage-price dynamics: a negative spiral?" (PDF). dnb.nl. De Nederlandsche Bank N.V. Retrieved 26 August 2023.
+Hayashida, Kohei (2020-03-31). "Milk Demand Heterogeneity and Cost Pass-through in Japan: A Microdata Approach towards Competition Structure". Japanese Journal of Agricultural Economics. The Agricultural Economics Society of Japan. 22 (0): 1–17. doi:10.18480/jjae.22.0_1. ISSN 2432-2385.

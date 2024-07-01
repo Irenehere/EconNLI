@@ -1,0 +1,61 @@
+Structural unemployment is a form of involuntary unemployment caused by a mismatch between the skills that workers in the economy can offer, and the skills demanded of workers by employers (also known as the skills gap). Structural unemployment is often brought about by technological changes that make the job skills of many workers obsolete.
+Structural unemployment is one of three categories of unemployment distinguished by economists, the others being frictional unemployment and cyclical unemployment.
+Because it requires either migration or re-training, structural unemployment can be long-term and slow to fix.
+
+
+== Causes and examples ==
+
+From an individual perspective, structural unemployment can be due to: 
+
+Inability to afford or decision not to pursue further education or job training.
+Choice of a field of study which did not produce marketable job skills.
+Inability to afford relocation.
+Inability to relocate due to inability to sell a house (for example due to the collapse of a real estate bubble or of the local economy).
+Decision not to relocate, in order to stay with a spouse, family, friends, etc.From a larger perspective, there can be a number of reasons for structural unemployment across large numbers of workers:
+
+Technological obsolescence makes a specific expertise useless.  For example, demand for manual typesetters disappeared with digitization of printing plate production.
+Productivity increases reduce the number of workers (with the same or similar skills) needed to satisfy demand.
+New technology significantly increases productivity, but requires a smaller number of higher-skilled workers.  For example, fewer agricultural workers are needed when the work is mechanized; those that remain must be trained to operate equipment.  Another common example is the use of industrial robots to automate manufacturing. A study by Carl Benedikt Frey and Michael Osborne found in 2013 that almost half of U.S. jobs are at risk of automation.
+Competition causes the same jobs to move to a different location, and workers do not or cannot follow.  Examples:
+Manufacturing jobs in the United States moved from what are now called Rust Belt cities to lower-cost cities in the South and rural areas.
+Globalization has caused many manufacturing jobs to move from high-wage to low-wage countries.
+Free trade agreements can cause jobs to move as competitive advantage changes.
+Political changes, for example the collapse of the Soviet Union.Large-scale changes in the economy can be particularly challenging.  For example, if a large company is the only employer in a given industry for a certain city, when it closes workers will have no competing company to move to, and the local education system and government will be burdened with many people who need job re-training all at once (possibly at the same time the local economy fails to create new jobs due to decreased overall demand).
+Employers may also reject workers for reasons unrelated to skills or geography, so for example structural unemployment can also result from discrimination, including ableism and cultural factors such as race or sexual orientation.
+While temporary changes in overall demand for labor cause cyclical unemployment, structural unemployment can be caused by temporary changes in demand from different industries. For example, seasonal unemployment often affects farm workers after harvesting is complete, and workers in resort towns after the tourist season ends.  The dot-com bubble caused a temporary spike in demand for information technology workers, which was suddenly reversed in 2000–2001.
+Structural unemployment is often associated with workers being unable to shift from industry to industry, but it can also happen within industries as technology changes the nature of work within a given field. This is a driver of skills gaps as technology and globalization "hollow out" many middle-skill jobs, positions that traditionally have not required a college degree.
+
+
+== Relation to other unemployment ==
+Structural unemployment is hard to separate empirically from frictional unemployment, except to say that for any given individual it lasts longer. As with frictional unemployment, simple demand-side stimulus will not work to easily abolish this type of unemployment.
+Seasonal unemployment may be seen as a kind of structural unemployment, since it is a type of unemployment that is linked to certain kinds of jobs (construction work, migratory farm work). The most-cited official unemployment measures erase this kind of unemployment from the statistics using "seasonal adjustment" techniques.
+Structural unemployment may also be encouraged to rise by persistent cyclical unemployment: if an economy suffers from long-lasting low aggregate demand, it means that many of the unemployed become disheartened, while their skills (including job-searching skills) become "rusty" and obsolete. Problems with debt may lead to homelessness and a fall into the vicious circle of poverty. This means that they may not fit the job vacancies that are created when the economy recovers. The implication is that sustained high demand may lower structural unemployment. This theory of persistence in structural unemployment has been referred to as an example of path dependence or "hysteresis."
+
+
+== Debates ==
+
+There has been considerable debate over how much a role structural unemployment plays in the persistently high unemployment rates seen in much of the world since the 2007-09 global recession. Narayana Kocherlakota, then president of the Federal Reserve Bank of Minneapolis, said in a 2010 speech that as much as 3 percent of the 9.5 percent unemployment rate at the time could be the result of a mismatch. Other studies argued that a skills mismatch was a minor factor, since unemployment rose for nearly all industries and demographic groups during the "Great Recession." A Federal Reserve Bank of New York study found no strong evidence of mismatch for construction workers, a group often alleged to be prone to structural unemployment because of the regional nature of construction.Some economists posit that the minimum wage is in part to blame for structural unemployment, although structural unemployment does exist even in the absence of a minimum wage. They assert that because the governmentally imposed minimum wage is higher than some individuals' marginal revenue product in any given job, those individuals remain unemployed because employers legally cannot pay them what they are "worth." Others believe that in such cases (for example, when a person is intellectually disabled or suffers a debilitating physical condition) it is the responsibility of the state to provide for the citizen in question. When a minimum wage does not exist, more people may be employed, but they may be underemployed and thus unable to fully provide for themselves.
+Management professor Peter Cappelli blames poor human resource practices for complaints that not enough qualified job applicants are found, such as replacing skilled HR workers with software that is less capable of matching resumes that exhibit the right combination of skills but without word-for-word alignment with a job posting.  (This actually may be a form of frictional unemployment if a match will eventually be made, perhaps with a different employer.)  Cappelli also points to a decrease in apprenticeships and hiring from within an organization.  Instead, companies attempt to avoid the time and cost of on-the-job training by hiring people from who already have experience doing the same job elsewhere (including at a competitor).“Skill Gap Study for Beauty & Wellness Sector” is an India specific study on the human resource requirement in this rapidly growing sector for the next seven years (till 2030), and it offers a consolidated view on the impact of skilling in the growth trajectory of each sub-sector. The emergence of new technologies, products and services in Beauty & Wellness industry requires an extensive upskilling & reskilling of the existing workforce to remain relevant in the industry. Consequently, hiring efforts at Beauty & Wellness industry also requires calibration as the skilled workforce will continue to play a critical role and be a key differentiator.
+
+
+== See also ==
+Classical unemployment
+Deindustrialization
+Involuntary unemployment
+Natural rate of unemployment
+Jobless recovery
+Post-industrial society
+Reserve army of labour
+Types of unemployment
+
+
+== References ==
+
+
+== Bibliography ==
+Ford, Martin R. (2009), The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future, Acculant Publishing, ISBN 978-1448659814. (e-book available free online.)
+Rifkin, Jeremy (1995), The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era, New York: Tarcher–G.P. Putnam's Sons, ISBN 978-0-87477-779-6.
+
+
+== Further reading ==
+Ganapati, Priya. Brainy Robots To Lead To Longer Unemployment Lines? October 25, 2008.

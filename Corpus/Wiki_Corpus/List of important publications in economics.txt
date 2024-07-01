@@ -1,0 +1,328 @@
+This is a list of important publications in economics, organized by field.
+Some reasons why a particular publication might be regarded as important:
+
+Topic creator – A publication that created a new topic
+Breakthrough – A publication that changed scientific knowledge significantly
+Influence – A publication which has significantly influenced the world or has had a massive impact on the teaching of economics.
+
+
+== Political economy and economics ==
+
+
+=== The Wealth of Nations ===
+Adam Smith
+An Inquiry into the Nature and Causes of the Wealth of Nations, 1776.
+Read it on WikisourceDescription: The book is usually considered to be the beginning of modern economics.: 15 : 45   It begins with a discussion of the Industrial Revolution. Later it critiques the mercantilism and a synthesis of the emerging economic thinking of his time. It is best known for the idea of the invisible hand, although this idea is only mentioned once in the book.: 43, 47  Smith was critical of the "vile maxim" of the "masters of mankind", all for themselves and nothing for other people. The Butcher, the Baker, and the Brewer provide goods and services to each other out of self-interest; the unplanned result of this division of labor is a better standard of living for all three.: 48 Importance: Topic creator, Breakthrough, Influence, Introduction
+
+
+=== Principles of Political Economy and Taxation ===
+David Ricardo
+On the Principles of Political Economy and Taxation, 1817.Description: Elaborates, clarifies and corrects previous theories, and adds important new concepts
+Importance: Breakthrough, influence (esp on Marx), broadened scientific foundations of economics
+
+
+=== Das Kapital ===
+Karl Marx
+Das Kapital, 1867
+Das Kapital on Wikisource
+Annotations, Explanations and Clarifications to Capital.Description: A political-economic treatise by Karl Marx. Marx wrote this critical analysis of capitalism and of the political economy from the perspective of historical materialism, the view that history can be understood as a sequence of modes of production in which exploiting classes extract an economic surplus from exploited classes.
+Importance: Breakthrough, Influence
+
+
+=== Progress and Poverty ===
+Henry George
+Progress and Poverty, 1879.
+Progress and Poverty on WikisourceDescription: Describes how poverty in the midst of plenty results from unequal rights to use natural resources, and declining wages in the face of increasing labor productivity results from the Law of Rent. Advocated Georgism, specifically a land value tax.
+Importance: Influence, Breakthrough...
+
+
+=== Principles of Economics (Menger) ===
+Carl Menger, 1871. Principles of Economics, trans. from German, 1981.
+Link to German versionInfluence: Credited with co-founding of marginal utility analysis and the Austrian School of economics.
+
+
+=== Principles of Economics (Marshall) ===
+Alfred Marshall, 1890.  Principles of Economics, 8th ed., 1920.Influence: Standard text for generations of economics students.
+
+
+=== Economics ===
+Paul A. Samuelson, 1948. Economics: An Introductory Analysis
+_____ and William D. Nordhaus Economics, 19th ed. McGraw-Hill.Importance:: Influential multi-level, best-selling principles textbook that popularized neoclassical synthesis of Keynesian economics and neoclassical economics.
+
+
+== Microeconomics ==
+
+
+=== Value and Capital ===
+John R. Hicks
+Oxford, Clarendon Press, 1939, 1946, 2nd ed.Description: See Importance.
+Importance: The book built on ordinal utility and mainstreamed the now-standard distinction between the substitution effect and the income effect for an individual in demand theory in the 2-good case. It generalized analysis to the case of one good and all other goods, that is, the composite good. It aggregated individuals and businesses through demand and supply across the economy. It anticipated the aggregation problem, most acutely for the stock of capital goods. It introduced general equilibrium theory to an English-speaking audience, refined the theory, and for the first time attempted a rigorous statement of stability conditions for general equilibrium.
+
+
+== Macroeconomics ==
+Among the most important list of publication in macroeconomics are:
+
+
+=== General Theory of Employment, Interest and Money ===
+John Maynard Keynes, General Theory of Employment, Interest and Money, 1936Description: In this book, Keynes put forward a theory based upon the notion of aggregate demand to explain variations in the overall level of economic activity, such as were observed in the Great Depression. The total income in a society is defined by the sum of consumption and investment; and in a state of unemployment and unused production capacity, one can only enhance employment and total income by first increasing expenditures for either consumption or investment.
+Importance: Topic creator, Breakthrough, Influence
+
+
+=== A Monetary History of the United States ===
+Milton Friedman and Anna Schwartz, A Monetary History of the United States, 1963Description: Friedman and Schwartz used changes in monetary aggregates to explain business cycle fluctuations in the United States economy.
+Importance: Influence
+
+
+== Game theory ==
+
+
+=== Theory of Games and Economic Behavior ===
+John von Neumann and Oskar Morgenstern
+Princeton University Press, 1944Description: The book by the mathematician John von Neumann and economist Oskar Morgenstern. It contained a mathematical theory of economic and social organization, based on a theory of games of strategy.
+This is now a classic work, upon which modern-day game theory is based. Game theory has since been widely used to analyze real-world phenomena from arms races to optimal policy choices of presidential candidates, from vaccination policy to major league baseball salary negotiations. It is today established, both throughout the social sciences and in a wide range of other sciences.
+Importance: Topic creator, Influence
+
+
+== Mathematical economics ==
+
+
+=== Foundations of Economic Analysis ===
+Paul A. Samuelson
+Harvard University Press (1947, Enlarged ed. 1983)The book showed how operationally meaningful theorems can be described with a small number of analogous methods, thus providing "a general theory of economic theories."  It moved mathematics out of the appendices (as in John R. Hicks's Value and Capital) and helped change how standard economic analysis across subjects could be done with the same mathematical methods.
+Importance and Influence: Accelerated change in standard methods
+
+
+== Econometrics ==
+
+
+=== A New Framework for Testing Rationality and Measuring Aggregate Shocks Using Panel Data ===
+Davies, A. and Lahiri, K.
+Journal of Econometrics 68: 205–227, 1995.Description:
+Importance:
+
+
+=== Cointegration and Error Correction: Representation, Estimation and Testing ===
+Granger, Clive William James and Engle, R. F.
+Econometrica, 55(2), March, pp. 251–276, 1987.Description:
+Importance:
+
+
+=== Handbook of Econometrics ===
+Griliches, Zvi and Intrigilator, M. D. (eds.)
+Handbook of Econometrics, Five volumes (Amsterdam: North-Holland), 1984.Description:
+Importance :
+
+
+=== Analysis of Panel Data ===
+Hsiao, C.
+Econometric Society Monograph, 1986.Description:
+Importance:
+
+
+=== Distribution of the Estimators for Autoregressive Time Series with a Unit Root ===
+Dickey, D. A. and Fuller, W. A
+Journal of the American Statistical Association 74: 427–431, 1979.Description: Describes the Dickey–Fuller test.
+Importance:
+
+
+=== The Standard Error of Regressions ===
+Deirdre McCloskey and Stephen T. Ziliak
+Journal of Economic Literature 34: 97–114, 1996.Description: Emphasizes the difference between statistical significance and economic significance, and shows that the understanding is not clear in a review of papers from The American Economic Review.
+Importance: Raised the caution against "asterisk economics" in econometrics to another level. See McCloskey critique.
+
+
+=== Policy Evaluation: A Critique ===
+Lucas, Robert E. Junior
+in Brunner, K. and Meltzer, A. H. (eds.) The Phillips Curve and Labour Markets, Journal of Monetary Economics (Supplement), 1(xx), xx, pp. 19–46, 1976.Description:
+Importance:
+
+
+== Labor Economics ==
+
+
+=== Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education ===
+Gary S. Becker
+Chicago (IL), University of Chicago Press, 1964.Description: Extensive study about the theoretical inclusion and empirical importance of education in production.
+Importance: Classic study of how investment in an individual's education and training is similar to business investments.
+
+
+=== Schooling, Experience, and Earnings ===
+Jacob Mincer
+Human Behavior & Social Institutions No. 2, ERIC, 1974.Description: Empirical investigation of the labor market returns to education.
+Importance: Popularizing the empirical research in that subfield. Coining the so-called "Mincer equation".
+
+
+== Behavioral economics ==
+
+
+=== Advances in Behavioral Economics ===
+Camerer, C., Loewenstein, G., and M. Rabin.
+Princeton (NJ), Princeton University Press, 2003Description:  Definitive one-volume resource on the field.
+Importance: Introduction
+
+
+=== Judgment Under Uncertainty: Heuristics and Biases ===
+Tversky, A., and D. Kahneman.
+Science 185: 1124–31, 1974Description:
+Importance:
+
+
+=== Prospect Theory: An Analysis of Decision Under Risk ===
+Kahneman, D., and A. Tversky.
+Econometrica 47: 263–91, 1979.Description: In this article, Prospect theory, a descriptive theory of choices under uncertainty, is introduced, bringing together ideas from psychology (framing and probability weighting) and economics (expected utility).
+Importance: Topic creator, Breakthrough
+
+
+=== Irrational Behavior and Economic Theory ===
+ Becker, G. 
+Journal of Political Economy 70: 1-13, 1962.Description: In this paper, Becker demonstrates that neoclassical economic demand curves follow simply from the fact that compensated price changes in the goods available to consumers with fixed budget sets cause corresponding shifts in the consumption opportunity sets of those consumers and thus do not require any assumptions about the rationality of market participants to justify their use.
+Importance: Potentially debunks any economic policy or market level analysis implications of the field of behavioral economics.
+
+
+== Experimental economics ==
+
+
+=== Experimental Economics: Rethinking the Rules ===
+Nicholas Bardsley, Robin Cubitt, Graham Loomes, Peter Moffatt, Chris Starmer & Robert Sugden
+Princeton (NJ), Princeton University Press, 2005.Description: A first structured and methodical survey of economic methods, with a focus on methodology.
+Importance: Consolidation of the field, methodological issues.
+
+
+=== Behavioral Game Theory ===
+Camerer, C.F.
+Princeton (NJ), Princeton University Press, 2003.Description: A handbook for advanced experimental and behavioral economics students.
+Importance: Introduction
+
+
+=== The Handbook of Experimental Economics ===
+Kagel, J. H. and Roth, A. E. (eds.)
+Princeton (NJ), Princeton University Press, 1995.Description: The most influential experimental economics handbook.
+Importance: Introduction, Influence
+
+
+== Finance ==
+
+
+=== Portfolio Theory ===
+Harry Markowitz
+"Portfolio Selection", Journal of Finance, 7 (1), 1952, 77–91.Description: Development of the utility framework which shows an optimum can be reached using a portfolio of investments. In effect the first real proof that you should not put all your eggs in one basket.
+Importance: Precursor to most modern portfolio theory work in finance.
+
+
+=== Capital asset pricing model ===
+William F. Sharpe
+"Capital asset prices: A theory of market equilibrium under conditions of risk", Journal of Finance, 19 (3), 1964, 425–442Description: Development of the capital asset pricing model used to determine appropriate prices for assets.
+Importance: Topic creator, Influence
+
+
+=== The pricing of options and corporate liabilities ===
+Fischer Black and Myron Scholes
+"The Pricing of Options and Corporate Liabilities" Journal of Political Economy 81, 1973, 637–654.Description: It developed the Black–Scholes model for determining the price of options, in particular stock options. The use of the Black–Scholes formula has become pervasive in financial markets, and has been extended by numerous refinements.
+Importance: Breakthrough, Influence
+
+
+== Socioeconomics ==
+
+
+== Ecological economics ==
+The Entropy Law and the Economic Process (1971, Harvard University Press) by Nicholas Georgescu-Roegen.
+Steady-State Economics (2nd edition, 1991, Island Press) by Herman Daly
+Natural Capitalism, Paul Hawken
+Small Is Beautiful, E.F. Schumacher
+
+
+== Consumer theory ==
+Economics and Consumer Behavior, Deaton & Muellbauer, Cambridge.
+
+
+== Production theory ==
+
+
+== Industrial organization ==
+
+
+=== The theory of Industrial Organisation ===
+Tirole, JeanDescription:
+Importance:
+
+
+=== Sunk costs and industry structure ===
+SuttonDescription:
+Importance:
+
+
+== Managerial economics ==
+Png, Ivan (2002), Managerial Economics, 2nd edition, Malden, MA: Blackwell.
+Png, Ivan (2005), Managerial Economics, Asia-Pacific edition, Singapore: Pearson Education Asia.
+
+
+== Development economics ==
+The Theory of Economic Growth (1955) Arthur LewisDescription: First modern development economics textbook
+Importance: Introduction
+
+Development microeconomics (1999) Pranab Bardhan and Christopher Udry, OxfordDescription: Widely used textbook.
+Importance: Introduction
+
+Development macroeconomics – Pierre-Richard Agénor and Peter J. Montiel.Description: Widely used textbook.
+Importance: Introduction
+
+Development Economics through the Decades: A Critical Look at 30 Years of the World Development Report (2009) – Shahid Yusuf.Description: examines the last 30 years of development economics, viewed through the World Bank's World Development Reports.
+
+The End of Poverty: Economic Possibilities for our time (2005) Jeffrey Sachs
+
+
+== Welfare economics ==
+
+
+=== The Economics of Welfare ===
+Arthur Cecil Pigou
+The Economics of Welfare, 4th ed. 1932Description: Pigou was the one of the most influential economists that dealt with Welfare economics. He developed the idea of Pigovian tax.
+Importance: Topic creator, Breakthrough, Influence
+
+
+=== Collective Choice and Social Welfare ===
+Amartya Sen
+Collective Choice and Social Welfare, 1970Description: Inspired renewed interest in basic welfare issues, mentioned in Sen's Nobel citation
+Importance: Influence
+
+
+== Health economics ==
+
+
+=== Uncertainty and the Welfare Economics of Medical Care ===
+Kenneth Arrow
+American Economic Review 53(5): 941–973, 1963Description: Explores the "specific differentia of medical care as the object of normative economics", demonstrating that the consideration of uncertainty is key to understanding markets in health care.
+Importance: Generally considered a seminal work of enduring significance; key to the foundation of health economics as a field of study.
+
+
+=== The Economics of Health and Health Care ===
+Folland S., Goodman AC. and Stano M.
+(4th edition). New Jersey: Prentice Hall, 2001.Description: The standard health economics textbook in most leading universities. It assumes some background knowledge in economics.
+Importance: Introduction.
+
+
+=== Handbook of Health Economics ===
+Culyer AJ. and Newhouse JP. (Eds) Volumes 1A and 1B. Elsevier: Amsterdam, 2000.
+Culyer AJ., McGuire TG. and Barros PP. (Eds) Volume 2. Elsevier: Amsterdam, 2011.Description: The most comprehensive available collection of essays on contemporary health economics. Advanced readers will appreciate its mathematical rigor. Those who are seeking research or dissertation topics should find this two-volume set to be an invaluable resource.
+
+
+== Institutional economics ==
+
+Veblen, Thorstein (1994) [1899]. The Theory of the Leisure Class. Penguin twentieth-century classics. Introduction by Robert Lekachman. New York: Penguin Books. ISBN 978-0-14-018795-3. OCLC 31212002.
+— (1978) [1904]. The Theory of Business Enterprise. New Brunswick, New Jersey: Transaction Books. ISBN 0-87855-699-0.
+Berle, Adolf A.; Means, Gardiner C. (1991) [1932]. The modern corporation and private property. With a new introduction by Murray L. Weidenbaum and Mark Jensen (4th print ed.). New Brunswick, N.J.: Transaction Publishers. ISBN 978-0-88738-887-3.
+Galbraith, John Kenneth (1998) [1958]. The Affluent Society (40th anniversary ed.). Boston, Mass: A Mariner Book. ISBN 978-0-395-92500-3.
+Galbraith, John Kenneth (2007) [1967]. The New Industrial State. With a new foreword by James K. Galbraith (1st Princeton ed.). Princeton, NJ: Princeton Univ. Press. ISBN 978-0-691-13141-2.
+
+
+== Law and economics ==
+
+Posner, Richard A. "Economic Analysis of Law." (1973)
+
+
+== References ==
+
+
+== External links ==
+UTS working paper series
+Some essays in economics

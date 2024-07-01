@@ -1,0 +1,485 @@
+Dividend policy is concerned with financial policies regarding paying cash dividend in the present or paying an increased dividend at a later stage.  Whether to issue dividends, and what amount, is determined mainly on the basis of the company's unappropriated profit (excess cash) and influenced by the company's long-term earning power. When cash surplus exists and is not needed by the firm, then management is expected to pay out some or all of those surplus earnings in the form of cash dividends or to repurchase the company's stock through a share buyback program.
+If there are no NPV positive opportunities, i.e. projects where returns exceed the hurdle rate, and excess cash surplus is not needed, then – finance theory suggests – management should return some or all of the excess cash to shareholders as dividends. This is the general case, however there are exceptions. For example, shareholders of a "growth stock", expect that the company will, almost by definition, retain most of the excess earnings so as to fund future growth internally.  By with holding current dividend payments to shareholders, managers of growth companies are hoping that dividend payments will be increased proportionality higher in the future, to offset the retainment of current earnings and the internal financing of present investment projects.
+Management must also choose the form of the dividend distribution, generally as cash dividends or via a share buyback. Various factors may be taken into consideration: where shareholders must pay tax on dividends, firms may elect to retain earnings or to perform a stock buyback, in both cases increasing the value of shares outstanding. Alternatively, some companies will pay "dividends" from stock rather than in cash; see Corporate action.  Financial theory suggests that the dividend policy should be set based upon the type of company and what management determines is the best use of those dividend resources for the firm to its shareholders.  As a general rule, shareholders of growth companies would prefer managers to have a share buyback program, whereas shareholders of value or secondary stocks would prefer the management of these companies to payout surplus earnings in the form of cash dividends.
+
+
+== Relevance of dividend policy ==
+
+
+=== Lintner's model ===
+John Lintner's dividend policy model is a model theorizing how a publicly-traded company sets its dividend policy. The logic is that every company wants to maintain a constant rate of dividend even if the results in a particular period are not up to the mark. The assumption is that investors will prefer to receive a certain dividend payout.
+The model states that dividends are paid according to two factors. The first is the net present value of earnings, with higher values indicating higher dividends. The second is the sustainability of earnings; that is, a company may increase its earnings without increasing its dividend payouts until managers are convinced that it will continue to maintain such earnings. The theory was adopted based on observations that many companies will set their long-run target dividends-to-earnings ratios based upon the amount of positive net-present-value projects that they have available.
+The model then uses two parameters, the target payout ratio and the speed where current dividends adjust to that target:
+
+  
+  
+    
+      
+        
+          
+            
+              
+                
+                  D
+                  
+                    t
+                  
+                
+              
+              
+                
+                =
+                
+                  D
+                  
+                    t
+                    −
+                    1
+                  
+                
+                +
+                ρ
+                ⋅
+                
+                  (
+                  
+                    
+                      D
+                      
+                        t
+                      
+                      
+                        ∗
+                      
+                    
+                    −
+                    
+                      D
+                      
+                        t
+                        −
+                        1
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  D
+                  
+                    t
+                    −
+                    1
+                  
+                
+                +
+                ρ
+                ⋅
+                
+                  (
+                  
+                    τ
+                    ⋅
+                    
+                      E
+                      
+                        t
+                      
+                    
+                    −
+                    
+                      D
+                      
+                        t
+                        −
+                        1
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                ρ
+                ⋅
+                τ
+                ⋅
+                
+                  E
+                  
+                    t
+                  
+                
+                +
+                (
+                1
+                −
+                ρ
+                )
+                ⋅
+                
+                  D
+                  
+                    t
+                    −
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                ρ
+                ⋅
+                
+                  D
+                  
+                    t
+                  
+                  
+                    ∗
+                  
+                
+                +
+                (
+                1
+                −
+                ρ
+                )
+                ⋅
+                
+                  D
+                  
+                    t
+                    −
+                    1
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}D_{t}&=D_{t-1}+\rho \cdot \left(D_{t}^{*}-D_{t-1}\right)\\&=D_{t-1}+\rho \cdot \left(\tau \cdot E_{t}-D_{t-1}\right)\\&=\rho \cdot \tau \cdot E_{t}+(1-\rho )\cdot D_{t-1}\\&=\rho \cdot D_{t}^{*}+(1-\rho )\cdot D_{t-1}\end{aligned}}}
+  
+
+where:
+
+  
+    
+      
+        
+          D
+          
+            t
+          
+        
+      
+    
+    {\displaystyle D_{t}}
+   is the dividend per share at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+
+  
+    
+      
+        
+          D
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle D_{t-1}}
+   is the dividend per share at time 
+  
+    
+      
+        (
+        t
+        −
+        1
+        )
+      
+    
+    {\displaystyle (t-1)}
+  , i.e. last year's dividend per share
+
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the speed of adjustment rate or the partial adjustment coefficient, with 
+  
+    
+      
+        0
+        ≤
+        ρ
+        ≤
+        1
+      
+    
+    {\displaystyle 0\leq \rho \leq 1}
+  
+
+  
+    
+      
+        
+          D
+          
+            t
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle D_{t}^{*}}
+   is the target dividend per share at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , with 
+  
+    
+      
+        
+          D
+          
+            t
+          
+          
+            ∗
+          
+        
+        =
+        τ
+        ⋅
+        
+          E
+          
+            t
+          
+        
+      
+    
+    {\displaystyle D_{t}^{*}=\tau \cdot E_{t}}
+  
+
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   is the target payout ratio on earnings per share (or on free-cash-flow per share), with 
+  
+    
+      
+        0
+        ≤
+        τ
+        ≤
+        1
+      
+    
+    {\displaystyle 0\leq \tau \leq 1}
+  
+
+  
+    
+      
+        
+          E
+          
+            t
+          
+        
+      
+    
+    {\displaystyle E_{t}}
+   is the earnings per share (or free-cash-flow per share) at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  When applying its model to U.S. stocks, Lintner found 
+  
+    
+      
+        ρ
+        ≃
+        30
+        %
+      
+    
+    {\displaystyle \rho \simeq 30\%}
+   and 
+  
+    
+      
+        τ
+        ≃
+        50
+        %
+      
+    
+    {\displaystyle \tau \simeq 50\%}
+  .
+
+
+=== Capital structure substitution theory and dividends ===
+The capital structure substitution theory (CSS) describes the relationship between earnings, stock price and capital structure of public companies. The theory is based on one simple hypothesis: company managements manipulate capital structure such that earnings-per-share (EPS) are maximized. The resulting dynamic debt-equity target explains why some companies use dividends and others do not. When redistributing cash to shareholders, company managements can typically choose between dividends and share repurchases. But as dividends are in most cases taxed higher than capital gains, investors are expected to prefer capital gains. However, the CSS theory shows that for some companies share repurchases lead to a reduction in EPS. These companies typically prefer dividends over share repurchases.
+
+
+==== Mathematical representation ====
+From the CSS theory it can be derived that debt-free companies should prefer repurchases whereas companies with a debt-equity ratio larger than 
+
+  
+  
+    
+      
+        
+          
+            D
+            
+              E
+              
+                q
+              
+            
+          
+        
+        >
+        
+          
+            
+              1
+              −
+              
+                T
+                
+                  C
+                
+              
+            
+            
+              1
+              −
+              
+                T
+                
+                  D
+                
+              
+            
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle {\frac {D}{E_{\text{q}}}}>{\frac {1-T_{\text{C}}}{1-T_{\text{D}}}}-1}
+  
+
+should prefer dividends as a means to distribute cash to shareholders, where
+
+D is the company's total long-term debt
+
+  
+    
+      
+        
+          E
+          
+            q
+          
+        
+      
+    
+    {\displaystyle E_{\text{q}}}
+   is the company's total equity
+
+  
+    
+      
+        
+          T
+          
+            C
+          
+        
+      
+    
+    {\displaystyle T_{\text{C}}}
+   is the tax rate on capital gains
+
+  
+    
+      
+        
+          T
+          
+            D
+          
+        
+      
+    
+    {\displaystyle T_{\text{D}}}
+   is the tax rate on dividendsLow-valued, high-leverage companies with limited investment opportunities and a high profitability use dividends as the preferred means to distribute cash to shareholders, as is documented by empirical research.
+
+
+==== Conclusion ====
+The CSS theory provides more guidance on dividend policy to company managements than the Walter model and the Gordon model. It also reverses the traditional order of cause and effect by implying that company valuation ratios drive dividend policy, and not vice versa. The CSS theory does not have 'invisible' or 'hidden' parameters such as the equity risk premium, the discount rate, the expected growth rate or expected inflation. As a consequence the theory can be tested in an unambiguous way.
+
+
+== See also ==
+Clientele effect
+
+
+== External links ==
+Dividend Policy by Alex Tajirian
+Corporate Dividend Policy by Henry Servaes (London Business School) and Peter Tufano (Harvard Business School)
+
+
+== References ==

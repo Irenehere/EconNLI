@@ -1,0 +1,150 @@
+ChatGPT
+              precision    recall  f1-score   support
+
+           0     0.8743    0.6125    0.7204       511
+           1     0.7027    0.9123    0.7939       513
+
+    accuracy                         0.7627      1024
+   macro avg     0.7885    0.7624    0.7571      1024
+weighted avg     0.7883    0.7627    0.7572      1024
+
+
+GPT4
+              precision    recall  f1-score   support
+
+           0     0.8947    0.7622    0.8232       513
+           1     0.7929    0.9103    0.8475       513
+
+    accuracy                         0.8363      1026
+   macro avg     0.8438    0.8363    0.8354      1026
+weighted avg     0.8438    0.8363    0.8354      1026
+
+ChatGPT, ICL 
+              precision    recall  f1-score   support
+
+           0     0.8479    0.5867    0.6935       513
+           1     0.6841    0.8947    0.7753       513
+
+    accuracy                         0.7407      1026
+   macro avg     0.7660    0.7407    0.7344      1026
+weighted avg     0.7660    0.7407    0.7344      1026
+
+GPT4, ICL 
+              precision    recall  f1-score   support
+
+           0     0.8993    0.7836    0.8375       513
+           1     0.8083    0.9123    0.8571       513
+
+    accuracy                         0.8480      1026
+   macro avg     0.8538    0.8480    0.8473      1026
+weighted avg     0.8538    0.8480    0.8473      1026
+
+meta-llama/Llama-2-13b-chat-hf, ICL 
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       513
+           1     0.5000    1.0000    0.6667       513
+
+    accuracy                         0.5000      1026
+   macro avg     0.2500    0.5000    0.3333      1026
+weighted avg     0.2500    0.5000    0.3333      1026
+
+meta-llama/Llama-2-7b-chat-hf, ICL 
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       513
+           1     0.5000    1.0000    0.6667       513
+
+    accuracy                         0.5000      1026
+   macro avg     0.2500    0.5000    0.3333      1026
+weighted avg     0.2500    0.5000    0.3333      1026
+
+ChanceFocus/finma-7b-nlp, ICL 
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       513
+           1     0.5000    1.0000    0.6667       513
+
+    accuracy                         0.5000      1026
+   macro avg     0.2500    0.5000    0.3333      1026
+weighted avg     0.2500    0.5000    0.3333      1026
+
+../llama/alpaca-7b/, Zero-shot 
+              precision    recall  f1-score   support
+
+           0     0.5466    0.2632    0.3553       513
+           1     0.5148    0.7817    0.6207       513
+
+    accuracy                         0.5224      1026
+   macro avg     0.5307    0.5224    0.4880      1026
+weighted avg     0.5307    0.5224    0.4880      1026
+
+../llama/alpaca-7b/, ICL 
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000       513
+           1     0.5000    1.0000    0.6667       513
+
+    accuracy                         0.5000      1026
+   macro avg     0.2500    0.5000    0.3333      1026
+weighted avg     0.2500    0.5000    0.3333      1026
+
+ChatGPT, COT 
+              precision    recall  f1-score   support
+
+           0     0.8072    0.6621    0.7275       506
+           1     0.7164    0.8438    0.7749       512
+
+    accuracy                         0.7534      1018
+   macro avg     0.7618    0.7529    0.7512      1018
+weighted avg     0.7616    0.7534    0.7513      1018
+
+GPT4, COT 
+              precision    recall  f1-score   support
+
+           0     0.9078    0.6164    0.7343       511
+           1     0.7096    0.9374    0.8078       511
+
+    accuracy                         0.7769      1022
+   macro avg     0.8087    0.7769    0.7710      1022
+weighted avg     0.8087    0.7769    0.7710      1022
+
+../llama/alpaca-7b/, COT 
+              precision    recall  f1-score   support
+
+           0     0.5410    0.6179    0.5769       513
+           1     0.5545    0.4756    0.5121       513
+
+    accuracy                         0.5468      1026
+   macro avg     0.5478    0.5468    0.5445      1026
+weighted avg     0.5478    0.5468    0.5445      1026
+
+meta-llama/Llama-2-13b-chat-hf, COT 
+              precision    recall  f1-score   support
+
+           0     0.6833    0.3280    0.4432       500
+           1     0.5636    0.8510    0.6781       510
+
+    accuracy                         0.5921      1010
+   macro avg     0.6235    0.5895    0.5607      1010
+weighted avg     0.6229    0.5921    0.5618      1010
+
+ChanceFocus/finma-7b-nlp, COT 
+              precision    recall  f1-score   support
+
+           0     0.5796    0.7739    0.6628       513
+           1     0.6598    0.4386    0.5269       513
+
+    accuracy                         0.6062      1026
+   macro avg     0.6197    0.6062    0.5949      1026
+weighted avg     0.6197    0.6062    0.5949      1026
+
+meta-llama/Llama-2-7b-chat-hf, COT 
+              precision    recall  f1-score   support
+
+           0     0.7652    0.1715    0.2803       513
+           1     0.5345    0.9476    0.6835       515
+
+    accuracy                         0.5603      1028
+   macro avg     0.6499    0.5596    0.4819      1028
+weighted avg     0.6496    0.5603    0.4823      1028

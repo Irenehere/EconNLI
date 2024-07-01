@@ -1,0 +1,71 @@
+The bond market (also debt market or credit market) is a financial market where participants can issue new debt, known as the primary market, or buy and sell debt securities, known as the secondary market. This is usually in the form of bonds, but it may include notes, bills, and so on for public and private expenditures. The bond market has largely been dominated by the United States, which accounts for about 39% of the market.  As of 2021, the size of the bond market (total debt outstanding) is estimated to be at $119 trillion worldwide and $46 trillion for the US market, according to the Securities Industry and Financial Markets Association (SIFMA).Bonds and bank loans form what is known as the credit market.  The global credit market in aggregate is about three times the size of the global equity market. Bank loans are not securities under the Securities and Exchange Act, but bonds typically are and are therefore more highly regulated.   Bonds are typically not secured by collateral (although they can be), and are sold in relatively small denominations of around $1,000 to $10,000.  Unlike bank loans, bonds may be held by retail investors.  Bonds are more frequently traded than loans, although not as often as equity.
+Nearly all of the average daily trading in the U.S. bond market takes place between broker-dealers and large institutions in a decentralized over-the-counter (OTC) market. However, a small number of bonds, primarily corporate ones, are listed on exchanges.  Bond trading prices and volumes are reported on Financial Industry Regulatory Authority's (FINRA) Trade Reporting And Compliance Engine, or TRACE.
+An important part of the bond market is the government bond market, because of its size and liquidity. Government bonds are often used to compare other bonds to measure credit risk. Because of the inverse relationship between bond valuation and interest rates (or yields), the bond market is often used to indicate changes in interest rates or the shape of the yield curve, the measure of "cost of funding".  The yield on government bonds in low risk countries such as the United States and Germany is thought to indicate a risk-free rate of default. Other bonds denominated in the same currencies (U.S. Dollars or Euros) will typically have higher yields, in large part because other borrowers are more likely than the U.S. or German Central Governments to default, and the losses to investors in the case of default are expected to be higher.  The primary way to default is to not pay in full or not pay on time.
+
+
+== Types ==
+The Securities Industry and Financial Markets Association (SIFMA) classifies the broader bond market into five specific bond markets.
+
+Corporate
+Government and agency
+Municipal
+Mortgage-backed, asset-backed, and collateralized debt obligations
+Funding
+
+
+== Participants ==
+Bond market participants are similar to participants in most financial markets and are essentially either buyers (debt issuer) of funds or sellers (institution) of funds and often both.
+Participants include:
+
+Institutional investors
+Governments
+Traders
+IndividualsBecause of the specificity of individual bond issues, and the lack of liquidity in many smaller issues, the majority of outstanding bonds are held by institutions like pension funds, banks and mutual funds. In the United States, approximately 10% of the market is held by private individuals.
+
+
+== Size ==
+Amounts outstanding on the global bond market increased by 2% in the twelve months to March 2012 to nearly $100 trillion. Domestic bonds accounted for 70% of the total and international bonds for the remainder. The United States was the largest market with 33% of the total followed by Japan (14%). As a proportion of global GDP, the bond market increased to over 140% in 2011 from 119% in 2008 and 80% a decade earlier. The considerable growth means that in March 2012 it was much larger than the global equity market which had a market capitalisation of around $53 trillion. Growth of the market since the start of the economic slowdown was largely a result of an increase in issuance by governments. In terms of number of bonds, there are over 500,000 unique corporate bonds in the US.The outstanding value of international bonds increased by 2% in 2011 to $30 trillion. The $1.2 trillion issued during the year was down by around a fifth on the previous year's total. The first half of 2012 was off to a strong start with issuance of over $800 billion. The United States was the leading center in terms of value outstanding with 24% of the total followed by the UK 13%.
+
+
+=== U.S. bond market size ===
+
+According to the Securities Industry and Financial Markets Association (SIFMA), as of Q1 2017, the U.S. bond market size is (in billions):
+
+The total federal government debts recognized by SIFMA are significantly less than the total bills, notes and bonds issued by the U.S. Treasury Department, of some $19.8 trillion at the time. This figure is likely to have excluded the inter-governmental debts such as those held by the Federal Reserve and the Social Security Trust Fund.
+
+
+== Volatility ==
+For market participants who own a bond, collect the coupon and hold it to maturity, market volatility is irrelevant; principal and interest are received according to a pre-determined schedule.
+But participants who buy and sell bonds before maturity are exposed to many risks, most importantly changes in interest rates. When interest rates increase, the value of existing bonds falls, since new issues pay a higher yield. Likewise, when interest rates decrease, the value of existing bonds rises, since new issues pay a lower yield. This is the fundamental concept of bond market volatility—changes in bond prices are inverse to changes in interest rates. Fluctuating interest rates are part of a country's monetary policy and bond market volatility is a response to expected monetary policy and economic changes.
+Economists' views of economic indicators versus actual released data contribute to market volatility. A tight consensus is generally reflected in bond prices and there is little price movement in the market after the release of "in-line" data. If the economic release differs from the consensus view, the market usually undergoes rapid price movement as participants interpret the data. Uncertainty (as measured by a wide consensus) generally brings more volatility before and after a release. Economic releases vary in importance and impact depending on where the economy is in the business cycle.
+
+
+== Bond investments ==
+Bonds typically trade in $1,000 increments and are priced as a percentage of par value (100%). Many bonds have minimums imposed by the bond or the dealer. Typical sizes offered are increments of $10,000. For broker/dealers, however, anything smaller than a $100,000 trade is viewed as an "odd lot".
+Bonds typically pay interest at set intervals. Bonds with fixed coupons divide the stated coupon into parts defined by their payment schedule, for example, semi-annual pay. Bonds with floating rate coupons have set calculation schedules where the floating rate is calculated shortly before the next payment. Zero-coupon bonds do not pay interest. They are issued at a deep discount to account for the implied interest.
+Because most bonds have predictable income, they are typically purchased as part of a more conservative investment scheme. Nevertheless, investors have the ability to actively trade bonds, especially corporate bonds and municipal bonds with the market and can make or lose money depending on economic, interest rate, and issuer factors.
+Bond interest is taxed as ordinary income, in contrast to dividend income, which receives favorable taxation rates. However many government and municipal bonds are exempt from one or more types of taxation.
+Investment companies allow individual investors the ability to participate in the bond markets through bond funds, closed-end funds and unit-investment trusts.  In 2006 total bond fund net inflows increased 97% from $30.8 billion in 2005 to $60.8 billion in 2006. Exchange-traded funds (ETFs) are another alternative to trading or investing directly in a bond issue. These securities allow individual investors the ability to overcome large initial and incremental trading sizes.
+
+
+== Bond indices ==
+
+A number of bond indices exist for the purposes of managing portfolios and measuring performance, similar to the S&P 500 or Russell Indexes for stocks. The most common American benchmarks are the Barclays Capital Aggregate Bond Index, Citigroup BIG and Merrill Lynch Domestic Master. Most indices are parts of families of broader indices that can be used to measure global bond portfolios, or may be further subdivided by maturity or sector for managing specialized portfolios.
+
+
+== History ==
+In ancient Sumer, temples functioned both as places of worship and as banks, under the oversight of the priests and the ruler. Loans were made at a customary fixed 20% interest rate; this custom was continued in Babylon, Mesopotamia and written into the Code of Hammurabi.The first known bond in history dates from circa 2400BC in Nippur, Mesopotamia (modern-day Iraq). It guaranteed the payment of grain by the principal.  The surety bond guaranteed reimbursement if the principal failed to make payment. Corn was the currency of that time period.
+In these ancient times, loans were initially made in cattle or grain from which interest could be paid from growing the herd or crop and returning a portion to the lender.  Silver became popular as it was less perishable and allowed large values to be transported more easily, but unlike cattle or grain could not naturally produce interest.  Taxation derived from human labor evolved as a solution to this problem.By the Plantagenet era, the English Crown had long-standing links with Italian financiers and merchants such as Ricciardi of Lucca in Tuscany.  These trade links were based on loans, similar to modern-day Bank loans; other loans were linked to the need to finance the Crusades and the city-states of Italy found themselves - uniquely - at the intersection of international trade, finance and religion.  The loans of the time were however not yet securitized in the form of bonds.  That innovation came from further north: Venice.
+In 12th Century Venice, the city-state's government began issuing war-bonds known as prestiti, perpetuities paying a fixed rate of 5% These were initially regarded with suspicion but the ability to buy and sell them became regarded as valuable.  Securities of this late Medieval period were priced with techniques very similar to those used in modern-day Quantitative finance. The bond market had begun.Following the Hundred Years' War, monarchs of England and France defaulted on very large debts to Venetian bankers causing a collapse of the system of Lombard banking in 1345.  This economic set-back hit every part of economic life - including clothing, food and hygiene - and during the ensuing Black Death the European economy and bond market were depleted even further.  Venice banned its bankers from trading government debt but the idea of debt as a tradable instrument and thus the bond market endured.
+With their origins in antiquity, bonds are much older than the equity market which appeared with the first ever joint-stock corporation the Dutch East India Company in 1602 (although some scholars argue that something similar to the joint-stock corporation existed in Ancient Rome).
+The first-ever Sovereign bond was issued in 1693 by the newly formed Bank of England.  This bond was used to fund conflict with France.  Other European governments followed suit.
+The U.S.A. first issued sovereign Treasury bonds to finance the American Revolutionary War.  Sovereign debt ("Liberty Bonds") was again used to finance its World War I efforts and issued in 1917 shortly after the U.S. declared war on Germany.
+Each maturity of bond (one-year, two-year, five-year and so on) was thought of as a separate market until the mid-1970s when traders at Salomon Brothers began drawing a curve through their yields.  This innovation - the yield curve - transformed the way bonds were both priced and traded and paved the way for quantitative finance to flourish.
+Starting in the late 1970s, non-investment grade public companies were allowed to issue corporate debt.
+The next innovation was the advent of Derivatives in the 1980s and onwards, which saw the creation of Collateralized debt obligations, Residential mortgage-backed securities and the advent of the Structured products industry.
+
+
+== See also ==
+
+
+== References ==

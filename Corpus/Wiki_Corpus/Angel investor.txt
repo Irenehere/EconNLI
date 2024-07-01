@@ -1,0 +1,62 @@
+An angel investor (also known as a business angel, informal investor, angel funder, private investor, or seed investor) is an individual who provides capital to a business or businesses, including startups, usually in exchange for convertible debt or ownership equity. Angel investors often provide support to startups at a very early stage (when the risk of their failure is relatively high), once or in a consecutive manner, and when most investors are not prepared to back them. In a survey of 150 founders conducted by Wilbur Labs, about 70% of entrepreneurs will face potential business failure, and nearly 66% will face this potential failure within 25 months of launching their company. A small but increasing number of angel investors invest online through equity crowdfunding or organize themselves into angel groups or angel networks to share investment capital and provide advice to their portfolio companies. The number of angel investors has greatly increased since the mid-20th century.
+
+
+== Etymology and origin ==
+The application of the term "angel" originates in Broadway theater, where it was used to describe wealthy individuals who provided money for theatrical productions that would otherwise have had to shut down. In 1978, William Wetzel, a then-professor at the University of New Hampshire and founder of its Center for Venture Research, completed a pioneering study on how entrepreneurs raised seed capital in the US. He began using the term "angel" to describe the investors who supported them. A similar term, "patron", is commonly used in arts.
+Angel investors are often retired entrepreneurs or executives who may be interested in angel investing for reasons that go beyond pure monetary return. These reasons include: wanting to keep abreast of current developments in a particular business arena, mentoring another generation of entrepreneurs, and making use of their experience and networks on a less than full-time basis. Because innovations tend to be produced by outsiders and founders in startups, rather than existing organizations, angel investors provide (in addition to funds) feedback, advice, and contacts. Because there are no public exchanges listing their securities, private companies meet angel investors in several ways, including referrals from the investors' trusted sources and other business contacts, at investor conferences and symposia, and at face-to-face meetings organized by groups of angels where companies pitch directly to investors.
+According to the Center for Venture Research, there were 363,460 active angel investors in the US in 2021. In the late 1980s, angels started to coalesce into informal groups with the goal of sharing deal flow and due diligence work and pooling their funds to make larger investments. Angel groups are generally local organizations made up of 10 to 150 accredited investors interested in early-stage investing. In 1996, there were about 10 angel groups in the US; by 2006, there were over 200.
+
+
+== Source and extent of funding ==
+Angels typically invest their own funds (unlike venture capitalists, who manage the pooled money of others in a professionally managed fund). Although typically reflecting the investment judgment of an individual, the entity providing the funding may be a trust, business, limited liability company, investment fund, or other vehicle.  A Harvard report by William R. Kerr, Josh Lerner, and Antoinette Schoar provides evidence that angel-funded startups are more likely to succeed than companies reliant on other forms of initial financing. The paper found "that angel funding is positively correlated with higher survival, additional fundraising outside the angel group, and faster growth measured through growth in website traffic".
+Angel capital fills the gap in seed funding between "friends and family" and more robust start-up financing through formal venture capital. Although it is usually difficult to raise more than a few hundred thousand dollars from friends and family, most traditional venture capital funds are usually not able to make or evaluate small investments under US$1–2 million. On an annual basis, the combined value of all angel investments in the US almost reaches the combined value of all US venture capital funds, while angel investors invest in more than 60 times as many companies as venture capital firms (US$20.1 billion vs. $23.26 billion in the US in 2010, into 61,900 companies vs. 1,012 companies).There is no "set amount" for angel investors - investments can range from a few thousand to a few million dollars. In a large shift from 2009, healthcare/medical accounted for the largest share of angel investments in 2010, with 30% of total angel investments (vs. 17% in 2009), followed by software (16% vs. 19% in 2007), biotech (15% vs. 8% in 2009), industrial/energy (8% vs. 17% in 2009), retail (5% vs. 8% in 2009) and IT services (5%).  While more readily available than venture financing, angel investment is still extremely difficult to raise. However, some new models are developing that are trying to make this easier.Much like other forms of private equity, angel investment decision-making has been shown to suffer from cognitive biases such as the illusion of control and overconfidence.
+
+
+== Investment profile ==
+Angel investments bear extremely high risks and are usually subject to dilution from future investment rounds. As such, they require a very high return on investment. Additionally, angel investors often mitigate the risk of an angel investment by allocating less than 10% of their portfolio to these types of investments. Because a large percentage of angel investments are lost completely when early-stage companies fail, professional angel investors seek investments that have the potential to return at least ten or more times their original investment within 5 years through a defined exit strategy, such as plans for an initial public offering or an acquisition. After taking into account the need to cover failed investments and the multi-year holding time for even the successful ones, however, the actual effective internal rate of return for a typical successful portfolio of angel investments is typically as 'low' as 20–30%. While the investor's need for high rates of return on any given investment can make angel financing an expensive source of funds, cheaper sources of capital, such as bank financing, are usually not available for most early-stage ventures.
+
+
+== Founding angels ==
+In recent years, a new trend has emerged in the business world known as 'founding angels'. These are angel investors who get involved with a startup even before it is officially established. Unlike a traditional business angel, because founding angels invest so early they are typically seen as 'founders' and typically have much greater involvement in the early stages of the business.Founding angels most often co-found startups with scientists, developers, or engineers in the technology space who bring in the technology upon which the start-up is based. After they are founded, they are actively engaged in the management of startups, typically in a non-executive position, supporting the day-to-day running of the business. They less often have a predefined exit strategy, and more often hold onto equity long into the company's development.
+
+
+== Geographical differences ==
+
+
+=== Canada ===
+Canada is reportedly home to the most sophisticated and advanced network of angel investors in the world. Incorporated in 2002, the National Angel Capital Organization (NACO) pioneered the angel investing movement and supported the formation of regional angel networks in Canada. According to both NACO and the Business Development Bank of Canada, there are 20,000–50,000 active angel investors in Canada. Over 4,000 are members of 45 angel groups that are NACO members.
+
+
+=== China ===
+Before 2000, it was difficult for startups in China to find local angel investors. Entrepreneurs, such as Jack Ma of Alibaba Group and many others, needed to raise funds from Softbank, Goldman Sachs, Fidelity, and other institutions. However, by 2015, several Chinese Angel groups had been in operation.
+
+
+=== Russia ===
+In 2012, the International Business Angels Assembly took place in the Russian Federation. This was an exclusive event devoted to private investing into innovative projects in Eastern Europe.
+
+
+=== United Kingdom ===
+A study by NESTA in 2009 estimated there were between 4,000 and 6,000 angel investors in the UK with an average investment size of £42,000 per investment. Furthermore, each angel investor on average acquired 8 percent of the venture in the deal, with 10 percent of investments accounting for more than 20 percent of the venture.
+In terms of returns, 35 percent of investments produced returns of between one and five times the initial investment, while 9 percent produced returns of multiples of ten times or more. The mean return, however, was 2.2 times the investment in 3.6 years and an approximate internal rate of return of 22 percent gross.
+The UK Business Angel market grew in 2009 through 2010 and, despite recessionary concerns, continues to show signs of growth. In 2013, this dynamic kept going on in the UK as angel investors were named by two-thirds of technology entrepreneurs as a means of funding. By 2015, angel investments had increased throughout the UK, with angels making an average number of five investments, compared to 2.5 in 2009. The same report also found an increase in angel investors making impact investments, with 25% of angels saying they had made an impact investment in 2014.
+
+
+=== United States ===
+Geographically, Silicon Valley dominates United States angel investing, receiving 39% of the $7.5 billion invested in US-based companies throughout Q2 2011, 3–4 times as much as the total amount invested within New England. Total angel investments in the United States in 2021 were $29.1 billion, an increase of 15.2 percent over 2020, with 69,060 companies receiving funding.  In the United States, angels are generally accredited investors in order to comply with current SEC regulations, although the JOBS Act of 2012 loosened those requirements starting in January 2013. Reaching nearly $23 billion in 2012 in the US, angel investors are not only responsible for funding over 67,000 start-up ventures annually, but their capital also contributed to job growth by helping to finance 274,800 new jobs in 2012. In 2013, 41% of tech sector executives named angel investors as a means of funding.
+
+
+=== Saudi Arabia ===
+Saudi Vision 2030 was launched in 2016, and since then, the entrepreneurship ecosystem is being built from scratch. The number of angel investor groups reached 8 in 2022.
+
+
+=== India ===
+The Indian Government introduced Atal Incubation centers and Technology Incubation and Development of Entrepreneurs, a program to solely support ICT startups in building emerging technologies including AI, IoT, and blockchain.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==

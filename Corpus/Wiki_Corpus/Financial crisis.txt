@@ -1,0 +1,298 @@
+A financial crisis is any of a broad variety of situations in which some financial assets suddenly lose a large part of their nominal value. In the 19th and early 20th centuries, many financial crises were associated with banking panics, and many recessions coincided with these panics. Other situations that are often called financial crises include stock market crashes and the bursting of other financial bubbles, currency crises, and sovereign defaults. Financial crises directly result in a loss of paper wealth but do not necessarily result in significant changes in the real economy (for example, the crisis resulting from the famous tulip mania bubble in the 17th century).
+Many economists have offered theories about how financial crises develop and how they could be prevented. There is no consensus, however, and financial crises continue to occur from time to time.
+
+
+== Types ==
+
+
+=== Banking crisis ===
+
+When a bank suffers a sudden rush of withdrawals by depositors, this is called a bank run. Since banks lend out most of the cash they receive in deposits (see fractional-reserve banking), it is difficult for them to quickly pay back all deposits if these are suddenly demanded, so a run renders the bank insolvent, causing customers to lose their deposits, to the extent that they are not covered by deposit insurance. An event in which bank runs are widespread is called a systemic banking crisis or banking panic.Examples of bank runs include the run on the Bank of the United States in 1931 and the run on Northern Rock in 2007. Banking crises generally occur after periods of risky lending and resulting loan defaults.
+
+
+=== Currency crisis ===
+
+A currency crisis, also called a devaluation crisis, is normally considered as part of a financial crisis. Kaminsky et al. (1998), for instance, define currency crises as occurring when a weighted average of monthly percentage depreciations in the exchange rate and monthly percentage declines in exchange reserves exceeds its mean by more than three standard deviations. Frankel and Rose (1996) define a currency crisis as a nominal depreciation of a currency of at least 25% but it is also defined as at least a 10% increase in the rate of depreciation. In general, a currency crisis can be defined as a situation when the participants in an exchange market come to recognize that a pegged exchange rate is about to fail, causing speculation against the peg that hastens the failure and forces a devaluation.
+
+
+=== Speculative bubbles and crashes ===
+
+A speculative bubble exists in the event of large, sustained overpricing of some class of assets. One factor that frequently contributes to a bubble is the presence of buyers who purchase an asset based solely on the expectation that they can later resell it at a higher price, rather than calculating the income it will generate in the future. If there is a bubble, there is also a risk of a crash in asset prices: market participants will go on buying only as long as they expect others to buy, and when many decide to sell the price will fall. However, it is difficult to predict whether an asset's price actually equals its fundamental value, so it is hard to detect bubbles reliably. Some economists insist that bubbles never or almost never occur.
+Well-known examples of bubbles (or purported bubbles) and crashes in stock prices and other asset prices include the 17th century Dutch tulip mania, the 18th century South Sea Bubble, the Wall Street Crash of 1929, the Japanese property bubble of the 1980s, the crash of the United States housing bubble during 2006-2008. The 2000s sparked a real estate bubble where housing prices were increasing significantly as an asset good.
+
+
+=== International financial crisis ===
+
+When a country that maintains a fixed exchange rate is suddenly forced to devalue its currency due to accruing an unsustainable current account deficit, this is called a currency crisis or balance of payments crisis. When a country fails to pay back its sovereign debt, this is called a sovereign default. While devaluation and default could both be voluntary decisions of the government, they are often perceived to be the involuntary results of a change in investor sentiment that leads to a sudden stop in capital inflows or a sudden increase in capital flight.
+Several currencies that formed part of the European Exchange Rate Mechanism suffered crises in 1992–93 and were forced to devalue or withdraw from the mechanism. Another round of currency crises took place in Asia in 1997–98. Many Latin American countries defaulted on their debt in the early 1980s. The 1998 Russian financial crisis resulted in a devaluation of the ruble and default on Russian government bonds.
+
+
+=== Wider economic crisis ===
+
+Negative GDP growth lasting two or more quarters is called a recession. An especially prolonged or severe recession may be called a depression, while a long period of slow but not necessarily negative growth is sometimes called economic stagnation.
+
+Some economists argue that many recessions have been caused in large part by financial crises. One important example is the Great Depression, which was preceded in many countries by bank runs and stock market crashes. The subprime mortgage crisis and the bursting of other real estate bubbles around the world also led to recession in the U.S. and a number of other countries in late 2008 and 2009.
+Some economists argue that financial crises are caused by recessions instead of the other way around, and that even where a financial crisis is the initial shock that sets off a recession, other factors may be more important in prolonging the recession. In particular, Milton Friedman and Anna Schwartz argued that the initial economic decline associated with the crash of 1929 and the bank panics of the 1930s would not have turned into a prolonged depression if it had not been reinforced by monetary policy mistakes on the part of the Federal Reserve, a position supported by Ben Bernanke.
+
+
+== Causes and consequences ==
+
+
+=== Strategic complementarities in financial markets ===
+
+It is often observed that successful investment requires each investor in a financial market to guess what other investors will do. George Soros has called this need to guess the intentions of others 'reflexivity'. Similarly, John Maynard Keynes compared financial markets to a beauty contest game in which each participant tries to predict which model other participants will consider most beautiful.Furthermore, in many cases, investors have incentives to coordinate their choices. For example, someone who thinks other investors want to heavily buy Japanese yen may expect the yen to rise in value, and therefore has an incentive to buy yen, too. Likewise, a depositor in IndyMac Bank who expects other depositors to withdraw their funds may expect the bank to fail, and therefore has an incentive to withdraw, too. Economists call an incentive to mimic the strategies of others strategic complementarity.It has been argued that if people or firms have a sufficiently strong incentive to do the same thing they expect others to do, then self-fulfilling prophecies may occur. For example, if investors expect the value of the yen to rise, this may cause its value to rise; if depositors expect a bank to fail this may cause it to fail. Therefore, financial crises are sometimes viewed as a vicious circle in which investors shun some institution or asset because they expect others to do so.
+
+
+=== Leverage ===
+
+Leverage, which means borrowing to finance investments, is frequently cited as a contributor to financial crises. When a financial institution (or an individual) only invests its own money, it can, in the very worst case, lose its own money. But when it borrows in order to invest more, it can potentially earn more from its investment, but it can also lose more than all it has. Therefore, leverage magnifies the potential returns from investment, but also creates a risk of bankruptcy. Since bankruptcy means that a firm fails to honor all its promised payments to other firms, it may spread financial troubles from one firm to another (see 'Contagion' below).
+The average degree of leverage in the economy often rises prior to a financial crisis. For example, borrowing to finance investment in the stock market ("margin buying") became increasingly common prior to the Wall Street Crash of 1929.
+
+
+=== Asset-liability mismatch ===
+
+Another factor believed to contribute to financial crises is asset-liability mismatch, a situation in which the risks associated with an institution's debts and assets are not appropriately aligned. For example, commercial banks offer deposit accounts that can be withdrawn at any time and they use the proceeds to make long-term loans to businesses and homeowners. The mismatch between the banks' short-term liabilities (its deposits) and its long-term assets (its loans) is seen as one of the reasons bank runs occur (when depositors panic and decide to withdraw their funds more quickly than the bank can get back the proceeds of its loans). Likewise, Bear Stearns failed in 2007–08 because it was unable to renew the short-term debt it used to finance long-term investments in mortgage securities.
+In an international context, many emerging market governments are unable to sell bonds denominated in their own currencies, and therefore sell bonds denominated in US dollars instead. This generates a mismatch between the currency denomination of their liabilities (their bonds) and their assets (their local tax revenues), so that they run a risk of sovereign default due to fluctuations in exchange rates.
+
+
+=== Uncertainty and herd behavior ===
+
+Many analyses of financial crises emphasize the role of investment mistakes caused by lack of knowledge or the imperfections of human reasoning. Behavioural finance studies errors in economic and quantitative reasoning. Psychologist Torbjorn K A Eliazon has also analyzed failures of economic reasoning in his concept of 'œcopathy'.Historians, notably Charles P. Kindleberger, have pointed out that crises often follow soon after major financial or technical innovations that present investors with new types of financial opportunities, which he called "displacements" of investors' expectations. Early examples include the South Sea Bubble and Mississippi Bubble of 1720, which occurred when the notion of investment in shares of company stock was itself new and unfamiliar, and the Crash of 1929, which followed the introduction of new electrical and transportation technologies. More recently, many financial crises followed changes in the investment environment brought about by financial deregulation, and the crash of the dot com bubble in 2001 arguably began with "irrational exuberance" about Internet technology.Unfamiliarity with recent technical and financial innovations may help explain how investors sometimes grossly overestimate asset values. Also, if the first investors in a new class of assets (for example, stock in "dot com" companies) profit from rising asset values as other investors learn about the innovation (in our example, as others learn about the potential of the Internet), then still more others may follow their example, driving the price even higher as they rush to buy in hopes of similar profits. If such "herd behaviour" causes prices to spiral up far above the true value of the assets, a crash may become inevitable. If for any reason the price briefly falls, so that investors realize that further gains are not assured, then the spiral may go into reverse, with price decreases causing a rush of sales, reinforcing the decrease in prices.
+
+
+=== Regulatory failures ===
+
+Governments have attempted to eliminate or mitigate financial crises by regulating the financial sector. One major goal of regulation is transparency: making institutions' financial situations publicly known by requiring regular reporting under standardized accounting procedures. Another goal of regulation is making sure institutions have sufficient assets to meet their contractual obligations, through reserve requirements, capital requirements, and other limits on leverage.
+Some financial crises have been blamed on insufficient regulation, and have led to changes in regulation in order to avoid a repeat. For example, the former Managing Director of the International Monetary Fund, Dominique Strauss-Kahn, has blamed the financial crisis of 2007–2008 on 'regulatory failure to guard against excessive risk-taking in the financial system, especially in the US'. Likewise, the New York Times singled out the deregulation of credit default swaps as a cause of the crisis.However, excessive regulation has also been cited as a possible cause of financial crises. In particular, the Basel II Accord has been criticized for requiring banks to increase their capital when risks rise, which might cause them to decrease lending precisely when capital is scarce, potentially aggravating a financial crisis.International regulatory convergence has been interpreted in terms of regulatory herding, deepening market herding (discussed above) and so increasing systemic risk. From this perspective, maintaining diverse regulatory regimes would be a safeguard.
+Fraud has played a role in the collapse of some financial institutions, when companies have attracted depositors with misleading claims about their investment strategies, or have embezzled the resulting income. Examples include Charles Ponzi's scam in early 20th century Boston, the collapse of the MMM investment fund in Russia in 1994, the scams that led to the Albanian Lottery Uprising of 1997, and the collapse of Madoff Investment Securities in 2008.
+Many rogue traders that have caused large losses at financial institutions have been accused of acting fraudulently in order to hide their trades. Fraud in mortgage financing has also been cited as one possible cause of the 2008 subprime mortgage crisis; government officials stated on 23 September 2008 that the FBI was looking into possible fraud by mortgage financing companies Fannie Mae and Freddie Mac, Lehman Brothers, and insurer American International Group. Likewise it has been argued that many financial companies failed in the recent crisis because their managers failed to carry out their fiduciary duties.
+
+
+=== Contagion ===
+
+Contagion refers to the idea that financial crises may spread from one institution to another, as when a bank run spreads from a few banks to many others, or from one country to another, as when currency crises, sovereign defaults, or stock market crashes spread across countries. When the failure of one particular financial institution threatens the stability of many other institutions, this is called systemic risk.One widely cited example of contagion was the spread of the Thai crisis in 1997 to other countries like South Korea. However, economists often debate whether observing crises in many countries around the same time is truly caused by contagion from one market to another, or whether it is instead caused by similar underlying problems that would have affected each country individually even in the absence of international linkages.
+
+
+=== Interest rate disparity and capital flows ===
+The nineteenth century Banking School theory of crises suggested that crises were caused by flows of investment capital between areas with different rates of interest. Capital could be borrowed in areas with low interest rates and invested in areas of high interest. Using this method a small profit could be made with little or no capital. However, when interest rates changed and the incentive for the flow was removed or reversed sudden changes in capital flows could occur. The subjects of investment might be starved of cash possibly becoming insolvent and creating a credit crunch and the loaning banks would be left with defaulting investors leading to a banking crisis. As Charles Read has pointed out, the modern equivalent of this process involves the Carry Trade, see Carry (investment).
+
+
+=== Recessionary effects ===
+Some financial crises have little effect outside of the financial sector, like the Wall Street crash of 1987, but other crises are believed to have played a role in decreasing growth in the rest of the economy. There are many theories why a financial crisis could have a recessionary effect on the rest of the economy. These theoretical ideas include the 'financial accelerator', 'flight to quality' and 'flight to liquidity', and the Kiyotaki-Moore model. Some 'third generation' models of currency crises explore how currency crises and banking crises together can cause recessions.
+
+
+== Theories ==
+
+
+=== Austrian theories ===
+
+Austrian School economists Ludwig von Mises and Friedrich Hayek discussed the business cycle starting with Mises' Theory of Money and Credit, published in 1912.
+
+
+=== Marxist theories ===
+
+Recurrent major depressions in the world economy at the pace of 20 and 50 years have been the subject of studies since Jean Charles Léonard de Sismondi (1773–1842) provided the first theory of crisis in a critique of classical political economy's assumption of equilibrium between supply and demand. Developing an economic crisis theory became the central recurring concept throughout Karl Marx's mature work. Marx's law of the tendency for the rate of profit to fall borrowed many features of the presentation of John Stuart Mill's discussion Of the Tendency of Profits to a Minimum (Principles of Political Economy Book IV Chapter IV). The theory is a corollary of the Tendency towards the Centralization of Profits.
+In a capitalist system, successfully-operating businesses return less money to their workers (in the form of wages) than the value of the goods produced by those workers (i.e. the amount of money the products are sold for). This profit first goes towards covering the initial investment in the business. In the long-run, however, when one considers the combined economic activity of all successfully-operating business, it is clear that less money (in the form of wages) is being returned to the mass of the population (the workers) than is available to them to buy all of these goods being produced. Furthermore, the expansion of businesses in the process of competing for markets leads to an abundance of goods and a general fall in their prices, further exacerbating the tendency for the rate of profit to fall.
+The viability of this theory depends upon two main factors: firstly, the degree to which profit is taxed by government and returned to the mass of people in the form of welfare, family benefits and health and education spending; and secondly, the proportion of the population who are workers rather than investors/business owners. Given the extraordinary capital expenditure required to enter modern economic sectors like airline transport, the military industry, or chemical production, these sectors are extremely difficult for new businesses to enter and are being concentrated in fewer and fewer hands.
+Empirical and econometric research continues especially in the world systems theory and in the debate about Nikolai Kondratiev and the so-called 50-years Kondratiev waves. Major figures of world systems theory, like Andre Gunder Frank and Immanuel Wallerstein, consistently warned about the crash that the world economy is now facing. World systems scholars and Kondratiev cycle researchers always implied that Washington Consensus oriented economists never understood the dangers and perils, which leading industrial nations will be facing and are now facing at the end of the long economic cycle which began after the oil crisis of 1973.
+
+
+=== Minsky's theory ===
+Hyman Minsky has proposed a post-Keynesian explanation that is most applicable to a closed economy. He theorized that financial fragility is a typical feature of any capitalist economy. High fragility leads to a higher risk of a financial crisis. To facilitate his analysis, Minsky defines three approaches to financing firms may choose, according to their tolerance of risk. They are hedge finance, speculative finance, and Ponzi finance. Ponzi finance leads to the most fragility.
+
+for hedge finance, income flows are expected to meet financial obligations in every period, including both the principal and the interest on loans.
+for speculative finance, a firm must roll over debt because income flows are expected to only cover interest costs. None of the principal is paid off.
+for Ponzi finance, expected income flows will not even cover interest cost, so the firm must borrow more or sell off assets simply to service its debt. The hope is that either the market value of assets or income will rise enough to pay off interest and principal.Financial fragility levels move together with the business cycle. After a recession, firms have lost much financing and choose only hedge, the safest. As the economy grows and expected profits rise, firms tend to believe that they can allow themselves to take on speculative financing. In this case, they know that profits will not cover all the interest all the time. Firms, however, believe that profits will rise and the loans will eventually be repaid without much trouble. More loans lead to more investment, and the economy grows further. Then lenders also start believing that they will get back all the money they lend. Therefore, they are ready to lend to firms without full guarantees of success.
+Lenders know that such firms will have problems repaying. Still, they believe these firms will refinance from elsewhere as their expected profits rise. This is Ponzi financing. In this way, the economy has taken on much risky credit. Now it is only a question of time before some big firm actually defaults. Lenders understand the actual risks in the economy and stop giving credit so easily. Refinancing becomes impossible for many, and more firms default. If no new money comes into the economy to allow the refinancing process, a real economic crisis begins. During the recession, firms start to hedge again, and the cycle is closed.
+
+
+=== Banking School theory of crises ===
+The Banking School theory of crises describes a continuous cycle driven by varying interest rates. It is based on the work of Thomas Tooke, Thomas Attwood, Henry Thornton, William Jevons and a number of bankers opposed to the Bank Charter Act 1844.
+Starting at a time when short-term interest rates are low, frustration builds up among investors who search for a better yield in countries and locations with higher rates, leading to increased capital flows to countries with higher rates. Internally, short-term rates rise above long-term rates causing failures where borrowing at short term rates has been used to invest long-term where the funds cannot be liquidated quickly (a similar mechanism was implicated in the March 2023 failure of SVB Bank). Internationally, arbitrage and the need to stop capital flows, which caused bullion drains in the gold standard of the nineteenth century and drains of foreign capital later, bring interest rates in the low-rate country up to equal those in the country which is the subject of investment. 
+The capital flows reverse or cease suddenly causing the subject of investment to be starved of funds and the remaining investors (often those who are least knowledgeable) to be left with devalued assets. Bankruptcies, defaults and bank failures follow as rates are pushed high. After the crisis governments push short-term interest rates low again to diminish the cost of servicing government borrowing which has been used to overcome the crisis. Funds build up again looking for investment opportunities and the cycle restarts from the beginning.
+
+
+=== Coordination games ===
+
+Mathematical approaches to modeling financial crises have emphasized that there is often positive feedback between market participants' decisions (see strategic complementarity). Positive feedback implies that there may be dramatic changes in asset values in response to small changes in economic fundamentals. For example, some models of currency crises (including that of Paul Krugman) imply that a fixed exchange rate may be stable for a long period of time, but will collapse suddenly in an avalanche of currency sales in response to a sufficient deterioration of government finances or underlying economic conditions.According to some theories, positive feedback implies that the economy can have more than one equilibrium. There may be an equilibrium in which market participants invest heavily in asset markets because they expect assets to be valuable. This is the type of argument underlying Diamond and Dybvig's model of bank runs, in which savers withdraw their assets from the bank because they expect others to withdraw too. Likewise, in Obstfeld's model of currency crises, when economic conditions are neither too bad nor too good, there are two possible outcomes: speculators may or may not decide to attack the currency depending on what they expect other speculators to do.
+
+
+=== Herding models and learning models ===
+
+A variety of models have been developed in which asset values may spiral excessively up or down as investors learn from each other. In these models, asset purchases by a few agents encourage others to buy too, not because the true value of the asset increases when many buy (which is called "strategic complementarity"), but because investors come to believe the true asset value is high when they observe others buying.
+In "herding" models, it is assumed that investors are fully rational, but only have partial information about the economy. In these models, when a few investors buy some type of asset, this reveals that they have some positive information about that asset, which increases the rational incentive of others to buy the asset too. Even though this is a fully rational decision, it may sometimes lead to mistakenly high asset values (implying, eventually, a crash) since the first investors may, by chance, have been mistaken. Herding models, based on Complexity Science, indicate that it is the internal structure of the market, not external influences, which is primarily responsible for crashes.In "adaptive learning" or "adaptive expectations" models, investors are assumed to be imperfectly rational, basing their reasoning only on recent experience. In such models, if the price of a given asset rises for some period of time, investors may begin to believe that its price always rises, which increases their tendency to buy and thus drives the price up further. Likewise, observing a few price decreases may give rise to a downward price spiral, so in models of this type large fluctuations in asset prices may occur. Agent-based models of financial markets often assume investors act on the basis of adaptive learning or adaptive expectations.
+
+
+== Global financial crisis ==
+
+As the most recent and most damaging financial crisis event, the Global financial crisis, deserves special attention, as its causes, effects, response, and lessons are most applicable to the current financial system.
+
+
+== History ==
+
+A noted survey of financial crises is This Time is Different: Eight Centuries of Financial Folly (Reinhart & Rogoff 2009), by economists Carmen Reinhart and Kenneth Rogoff, who are regarded as among the foremost historians of financial crises. In this survey, they trace the history of financial crisis back to sovereign defaults – default on public debt, – which were the form of crisis prior to the 18th century and continue, then and now causing private bank failures; crises since the 18th century feature both public debt default and private debt default. Reinhart and Rogoff also class debasement of currency and hyperinflation as being forms of financial crisis, broadly speaking, because they lead to unilateral reduction (repudiation) of debt.
+
+
+=== Prior to 19th century ===
+Reinhart and Rogoff trace inflation (to reduce debt) to Dionysius I rule in Syracuse and begin their "eight centuries" in 1258; debasement of currency also occurred under the Roman Empire and Byzantine Empire. A financial crisis in 33 A.D. caused by a contraction of money supply had been recorded by several Roman historians.Among the earliest crises Reinhart and Rogoff study is the 1340 default of England, due to setbacks in its war with France (the Hundred Years' War; see details). Further early sovereign defaults include seven defaults by the Spanish Empire, four under Philip II, three under his successors.
+Other global and national financial mania since the 17th century include:
+
+1637: Bursting of tulip mania in the Netherlands – while tulip mania is popularly reported as an example of a financial crisis, and was a speculative bubble, modern scholarship holds that its broader economic impact was limited to negligible, and that it did not precipitate a financial crisis.
+1720: Bursting of South Sea Bubble (Great Britain) and Mississippi Bubble (France) – earliest of modern financial crises; in both cases the company assumed the national debt of the country (80–85% in Great Britain, 100% in France), and thereupon the bubble burst. The resulting crisis of confidence probably had a deep impact on the financial and political development of France.
+Crisis of 1763 - started in Amsterdam, begun by the collapse of Johann Ernst Gotzkowsky and Leendert Pieter de Neufville's bank, spread to Germany and Scandinavia.
+Crisis of 1772 – in London and Amsterdam. 20 important banks in London went bankrupt after one banking house defaulted (bankers Neal, James, Fordyce and Down)
+France's Financial and Debt Crisis (1783–1788)- France severe financial crisis due to the immense debt accrued through the French involvement in the Seven Years' War (1756–1763) and the American Revolution (1775-1783).
+Panic of 1792 – run on banks in US precipitated by the expansion of credit by the newly formed Bank of the United States
+Panic of 1796–1797 – British and US credit crisis caused by land speculation bubble
+
+
+=== 19th century ===
+Danish state bankruptcy of 1813
+Financial Crisis of 1818 - in England caused banks to call in loans and curtail new lending, draining specie out of the U.S.
+Panic of 1819: pervasive USA economic recession w/ bank failures; culmination of U.S.'s 1st boom-to-bust economic cycle
+Panic of 1825: pervasive British economic recession in which many British banks failed, & Bank of England nearly failed
+Panic of 1837: pervasive USA economic recession w/ bank failures; a 5-year depression ensued
+Panic of 1847: a collapse of British financial markets associated with the end of the 1840s railway boom. Also see Bank Charter Act of 1844
+Panic of 1857: pervasive USA economic recession w/ bank failures. The world economy was also more interconnected by the 1850s, which also made the Panic of 1857 the first worldwide economic crisis.
+Panic of 1866: the Overend Gurney crisis (primarily British)
+Black Friday (1869): aka Gold Panic of 1869
+Panic of 1873: pervasive USA economic recession w/ bank failures, known then as the 5 year Great Depression & now as the Long Depression
+Panic of 1884: a panic in the United States centred on New York banks
+Panic of 1890: aka Baring Crisis; near-failure of a major London bank led to corresponding South American financial crises
+Panic of 1893: a panic in the United States marked by the collapse of railroad overbuilding and shaky railroad financing which set off a series of bank failures
+Australian banking crisis of 1893
+Panic of 1896: an acute economic depression in the United States precipitated by a drop in silver reserves and market concerns on the effects it would have on the gold standard
+
+
+=== 20th century ===
+Panic of 1901: limited to crashing of the New York Stock Exchange
+Panic of 1907: pervasive USA economic recession w/ bank failures
+Panic of 1910–1911
+1910: Shanghai rubber stock market crisis
+1914: The Great Financial Crisis (see Aldrich-Vreeland Act)
+Wall Street Crash of 1929, followed by the Great Depression: the largest and most important economic depression in the 20th century
+1937-1938: an economic downturn that occurred during the Great Depression.
+1973: 1973 oil crisis – oil prices soared, causing the 1973–1974 stock market crash
+Secondary banking crisis of 1973–1975: United Kingdom
+1980s: Latin American debt crisis – beginning in Mexico in 1982 with the Mexican Weekend
+1980s-1990: Savings and loan crisis
+Bank stock crisis (Israel 1983)
+1987: Black Monday (1987) – the largest one-day percentage decline in stock market history
+1988–1992 Norwegian banking crisis
+1989–1991: United States Savings & Loan crisis
+1990: Japanese asset price bubble collapsed
+Early 1990s: Scandinavian banking crisis, Swedish banking crisis, Finnish banking crisis of 1990s
+Early 1990s recession
+1991:  1991 Indian economic crisis
+1992–1993: Black Wednesday – speculative attacks on currencies in the European Exchange Rate Mechanism
+1994–1995:  Economic crisis in Mexico – speculative attack and default on Mexican debt
+1997–1998: 1997 Asian Financial Crisis – devaluations and banking crises across Asia
+1998:  Russian financial crisis
+
+
+=== 21st century ===
+2000–2001:  2001 Turkish economic crisis
+2000: Early 2000s recession
+1999–2002:  Argentine economic crisis (1999-2002)
+2001: Bursting of dot-com bubble
+2007–2008: Global financial crisis of 2007–2008
+2008–2011:  Icelandic financial crisis
+2008–2014:  Spanish financial crisis
+2009–2010:  European debt crisis
+2010–2018:  Greek government-debt crisis
+2013–:  Ongoing Venezuelan economic crisis
+2014:  2014 Brazilian economic crisis
+2014–2016:  Russian financial crisis
+2018–:  Ongoing Turkish currency and debt crisis
+2019–:  Ongoing Sri Lankan currency and debt crisis
+2019–:  Ongoing Lebanese liquidity crisis
+2020: 2020 stock market crash (especially Black Monday and Black Thursday)
+2022:  Russian financial crisis
+2022–:  Ongoing Pakistani currency and debt crisis
+
+
+== See also ==
+
+Specific:
+
+
+== Literature ==
+
+
+=== General perspectives ===
+Walter Bagehot (1873), Lombard Street: A Description of the Money Market.
+Charles P. Kindleberger and Robert Aliber (2005), Manias, Panics, and Crashes: A History of Financial Crises (Palgrave Macmillan, 2005 ISBN 978-1-4039-3651-6).
+Gernot Kohler and Emilio José Chaves (Editors) "Globalization: Critical Perspectives" Hauppauge, New York: Nova Science Publishers ISBN 1-59033-346-2. With contributions by Samir Amin, Christopher Chase Dunn, Andre Gunder Frank, Immanuel Wallerstein
+Hyman P. Minsky (1986, 2008), Stabilizing an Unstable Economy.
+Reinhart, Carmen; Rogoff, Kenneth (2009). This Time is Different: Eight Centuries of Financial Folly. Princeton University Press. p. 496. ISBN 978-0-691-14216-6.
+Ferguson, Niall (2009). The Ascent of Money: A Financial History of the World. Penguin. pp. 448. ISBN 978-0-14-311617-2.
+Joachim Vogt (2014), Fear, Folly, and Financial Crises – Some Policy Lessons from History, UBS Center Public Papers, Issue 2, UBS International Center of Economics in Society, Zurich.
+Read, Charles (2022). Calming the storms : the carry trade, the banking school and British financial crises since 1825. Cham, Switzerland. ISBN 978-3-031-11914-9. OCLC 1360456914.{{cite book}}:  CS1 maint: location missing publisher (link)
+
+
+=== Banking crises ===
+Allen, Franklin; Gale, Douglas (February 2000). "Financial Contagion". Journal of Political Economy. 108 (1): 1–33. doi:10.1086/262109. S2CID 222441436.
+Franklin Allen and Douglas Gale (2007), Understanding Financial Crises.
+Charles W. Calomiris and Stephen H. Haber (2014), Fragile by Design: The Political Origins of Banking Crises and Scarce Credit, Princeton, NJ: Princeton University Press.
+Jean-Charles Rochet (2008), Why Are There So Many Banking Crises? The Politics and Policy of Bank Regulation.
+R. Glenn Hubbard, ed., (1991) Financial Markets and Financial Crises.
+Diamond, Douglas W.; Dybvig, Philip H. (June 1983). "Bank Runs, Deposit Insurance, and Liquidity" (PDF). Journal of Political Economy. 91 (3): 401–419. doi:10.1086/261155. S2CID 14214187.
+Luc Laeven and Fabian Valencia (2008), 'Systemic banking crises: a new database'. International Monetary Fund Working Paper 08/224.
+Thomas Marois (2012), States, Banks and Crisis: Emerging Finance Capitalism in Mexico and Turkey, Edward Elgar Publishing Limited, Cheltenham, UK.
+
+
+=== Bubbles and crashes ===
+Dutton, Roy (2010), Financial Meltdown 2010 (Hardback). Infodial. ISBN 978-0-9556554-3-2
+Charles Mackay (1841), Extraordinary Popular Delusions and the Madness of Crowds
+Didier Sornette (2003), Why Stock Markets Crash, Princeton University Press.
+Robert J. Shiller (1999, 2006), Irrational Exuberance.
+Markus Brunnermeier (2008), 'Bubbles', New Palgrave Dictionary of Economics, 2nd ed.
+Douglas French (2009) Early Speculative Bubbles and Increases in the Supply of Money
+Markus K. Brunnermeier (2001), Asset Pricing under Asymmetric Information: Bubbles, Crashes, Technical Analysis, and Herding, Oxford University Press. ISBN 0-19-829698-3.
+
+
+=== International financial crises ===
+Acocella, N. Di Bartolomeo, G. and Hughes Hallett, A. [2012], ‘Central banks and economic policy after the crisis: what have we learned?’, ch. 5 in: Baker, H.K. and Riddick, L.A. (eds.), ‘Survey of International Finance’, Oxford University Press.
+Paul Krugman (1995), Currencies and Crises.
+Craig Burnside, Martin Eichenbaum, and Sergio Rebelo (2008), 'Currency crisis models', New Palgrave Dictionary of Economics, 2nd ed.
+Maurice Obstfeld (1996), 'Models of currency crises with self-fulfilling features'. European Economic Review 40.
+Stephen Morris and Hyun Song Shin (1998), 'Unique equilibrium in a model of self-fulfilling currency attacks'. American Economic Review 88 (3).
+Barry Eichengreen (2004), Capital Flows and Crises.
+Charles Goodhart and P. Delargy (1998), 'Financial crises: plus ça change, plus c'est la même chose'. International Finance 1 (2), pp. 261–87.
+Jean Tirole (2002), Financial Crises, Liquidity, and the International Monetary System.
+Guillermo Calvo (2005), Emerging Capital Markets in Turmoil: Bad Luck or Bad Policy?
+Barry Eichengreen (2002), Financial Crises: And What to Do about Them.
+Charles Calomiris (1998), 'Blueprints for a new global financial architecture'.
+
+
+=== The Great Depression and earlier banking crises ===
+Murray Rothbard (1962), The Panic of 1819
+Murray Rothbard (1963), America`s Great Depression.
+Milton Friedman and Anna Schwartz (1971), A Monetary History of the United States.
+Ben S. Bernanke (2000), Essays on the Great Depression.
+Robert F. Bruner (2007), The Panic of 1907. Lessons Learned from the Market's Perfect Storm.
+
+
+=== Recent international financial crises ===
+Barry Eichengreen and Peter Lindert, eds., (1992), The International Debt Crisis in Historical Perspective.
+Lessons from the Asian financial crisis / edited by Richard Carney.  New York, NY : Routledge, 2009. ISBN 978-0-415-48190-8 (hardback) ISBN 0-415-48190-2 (hardback) ISBN 978-0-203-88477-5 (ebook) ISBN 0-203-88477-9 (ebook)
+Robertson, Justin, 1972– US-Asia economic relations : a political economy of crisis and the rise of new business actors / Justin Robertson.  Abingdon, Oxon ; New York, NY : Routledge, 2008. ISBN 978-0-415-46951-7 (hbk.) ISBN 978-0-203-89052-3 (ebook)
+
+
+=== 2007–2012 financial crisis ===
+Robert J. Shiller (2008), The Subprime Solution: How Today's Global Financial Crisis Happened, and What to Do About It. ISBN 0-691-13929-6.
+JC Coffee, ‘What went wrong? An initial inquiry into the causes of the 2008 financial crisis’ (2009) 9(1) Journal of Corporate Law Studies 1
+Marchionne, Francesco; Fratianni, Michele U. (10 April 2009). "The Role of Banks in the Subprime Financial Crisis". SSRN 1383473. {{cite journal}}: Cite journal requires |journal= (help)
+Markus Brunnermeier (2009), 'Deciphering the liquidity and credit crunch 2007–2008'. Journal of Economic Perspectives 23 (1), pp. 77–100.
+Paul Krugman (2008), The Return of Depression Economics and the Crisis of 2008. ISBN 0-393-07101-4.
+"The myths about the economic crisis, the reformist left and economic democracy"  by Takis Fotopoulos, The International Journal of Inclusive Democracy, vol 4, no 4, Oct. 2008.
+United States. Congress. House. Committee on the Judiciary. Subcommittee on Commercial and Administrative Law. Working families in financial crisis : medical debt and bankruptcy : hearing before the Subcommittee on Commercial and Administrative Law of the Committee on the Judiciary, House of Representatives, One Hundred Tenth Congress, first session, 17 July 2007.  Washington : U.S. G.P.O. : For sale by the Supt. of Docs., U.S. G.P.O., 2008. 277 p. : ISBN 978-0-16-081376-4 ISBN 016081376X [2]
+Williams, Mark T. (March 2010). Uncontrolled Risk: The Lessons of Lehman Brothers and How Systemic Risk Can Still Bring Down the World Financial System. ISBN 9780071749046. {{cite book}}: |work= ignored (help)
+Tkac, Paula A.; Dwyer, Gerald P. (August 2009). "The Financial Crisis of 2008 in Fixed-income Markets". SSRN 1464891. {{cite journal}}: Cite journal requires |journal= (help)
+
+
+== References ==
+
+
+== External links ==
+Financial Crises: Lessons from History. BBC.

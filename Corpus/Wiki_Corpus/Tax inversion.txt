@@ -1,0 +1,244 @@
+A tax inversion or corporate tax inversion is a form of tax avoidance where a corporation restructures so that the current parent is replaced by a foreign parent, and the original parent company becomes a subsidiary of the foreign parent, thus moving its tax residence to the foreign country. Executives and operational headquarters can stay in the original country. The US definition requires that the original shareholders remain a majority control of the post-inverted company. In US federal legislation a company which has been restructured in this manner is referred to as an "inverted domestic corporation", and the term "corporate expatriate" is also used.
+The majority of the less than 100 material tax inversions recorded since 1993 have been of US corporations (85 inversions), seeking to pay less to the US corporate tax system. The only other jurisdiction to experience a material outflow of tax inversions was the United Kingdom from 2007 to 2010 (22 inversions); however, UK inversions largely ceased after the reform of the UK corporate tax code from 2009 to 2012.
+
+The first inversion was McDermott International in 1983. Reforms by US Congress in 2004 halted "naked inversions", however, the size of individual "merger inversions" grew dramatically; in 2014 alone, they exceeded the cumulative value of all inversions since 1983. New US Treasury rules in 2014–16 blocked several major inversions (e.g. 2016 USD$160 billion Pfizer–Allergan plc inversion, and the 2015 USD$54 billion AbbVie–Shire plc inversion), and the Tax Cuts and Jobs Act of 2017 (TCJA) further reduced the taxation incentives of inversions. As of June 2019, there have been no material US inversions post-2017, and notably, two large Irish-based tax inversion targets were acquired in non-tax inversion transactions, where the acquirer remained in their higher-tax jurisdiction:  Shire plc by Japanese pharma Takeda for US$63 billion (announced in 2018, closed in 2019), and Allergan plc by U.S. pharma AbbVie for US$64 billion (announced in 2019, expected to close in 2020); in addition, Broadcom Inc. redomesticated to the United States.
+As of June 2019 the most popular destination in history for US corporate tax inversions is Ireland (with 22 inversions); Ireland was also the most popular destination for UK inversions.  The largest completed corporate tax inversion in history was the US$48 billion merger of Medtronic with Covidien plc in Ireland in 2015 (the vast majority of their merged revenues are still from the US).  The largest aborted tax inversion was the US$160 billion merger of Pfizer with Allergan plc in Ireland in 2016.  The largest hybrid-intellectual property (IP) tax inversion was the US$300 billion acquisition of Apple Inc.'s IP by Apple Ireland in 2015.
+
+
+== Concept ==
+While the legal steps taken to execute a tax inversion can be complex as the corporations need to avoid both regulatory and Internal Revenue Service (IRS) hurdles in re-locating their tax residence to a lower-tax jurisdiction, simplified examples are available; such as provided in August 2014, by Bloomberg journalist Matt Levine when reporting on the Burger King tax inversion to Canada.  Before the 2017 TCJA, U.S. companies paid a corporate tax rate of 35% on all income they earned in both the U.S., and abroad, but they obtained a credit against their U.S. tax liability for the amount of any foreign tax paid.  Given that the U.S. tax rate of 35% was one of the highest in the world, the corporate's maximum global tax liability should, therefore, have been 35%.  This pre-TCJA U.S. tax system, was referred to as a "worldwide tax system", as opposed to the "territorial tax system" used by almost all other developed countries. Levine explained:If we're incorporated in the U.S., we'll pay 35 percent taxes on our income in the U.S. and Canada and Mexico and Ireland and Bermuda and the Cayman Islands, but if we're incorporated in Canada [who operate a "territorial tax system"], we'll pay 35 percent on our income in the U.S. but 15 percent in Canada and 30 percent in Mexico and 12.5 percent in Ireland and zero percent in Bermuda and zero percent in the Cayman Islands.By changing its headquarters to another country with a territorial tax regime, the corporation typically pays taxes on its earnings in each of those countries at the specific rates of each country. In addition, the corporation executing the tax inversion may find additional tax avoidance strategies, called § Earnings Stripping tools, that can shift untaxed profits from the higher-tax locations (e.g. the U.S.), to the new lower-tax country to which the corporation has now inverted.
+
+
+== History ==
+The following are notable events in the history of US and non-US corporate tax inversions:
+
+
+=== US experience ===
+1983. The first officially recognized US corporate tax inversion was of McDermott International from Texas to Panama.  Academics refer to it as a first-generation inversion.
+1990. The relocation of Flextronics from California to Singapore; however it is not considered as a full tax inversion.
+1994. The second officially recognized US corporate tax inversion was of Helen of Troy Limited from Texas to Bermuda.  Academics refer to it as a second-generation inversion.
+1994. James R. Hines Jr. publishes the important Hines–Rice paper, which shows that many US corporations had chosen to shift profits to tax havens, instead of using tax inversions.
+1996–2004. The first major wave of US tax inversions mainly to Caribbean tax havens such as Bermuda and Cayman Islands; these inversions were mostly "naked inversions" where the corporate re-domiciled to a tax haven in which they had no existing business, and included: Ingersoll-Rand, Accenture, Seagate, Cooper, and Tyco. Academics refer to them as third-generation inversions.
+2004. US Congress passes the American Jobs Creation Act of 2004 (AJCA) with IRS Section 7874 that requires existing shareholders to own less than 80% of the new entity, and introduces a "substantial business activities" test in the new foreign location; AJCA ends "naked inversions" to Caribbean-type tax havens.
+2009–2012. Several US inversions from the first wave to the Caribbean-type tax havens relocate to OECD tax havens, such as Ireland (Ingersoll-Rand, Accenture, Seagate, Cooper, and Tyco), and Switzerland (Weatherford and Noble), fearing a backlash from a new Democratic administration.
+2012–2016. The second major wave of US tax inversions use mergers to meet the "substantial business activities" of IRS 7874; Ireland and the UK are main destinations and the size of these inversions are much larger than the first wave (see graphic), and included: Medtronic, Liberty Global, Eaton Corporation, Johnson Controls, and Perrigo. Academics refer to them as fourth-generation inversions.
+2012. The US Treasury issues T.D. 9592 increasing the "substantial business activities" threshold in the foreign destination from 10% to over 25%.
+2014. The value of new proposed US tax inversions in 2014 alone (US$319 billion) exceeds the cumulative value of all previous US tax inversions in history.
+2014. The US Treasury further tightens the regulations around the existing AJCA/TD 9592 thresholds; AbbVie cancels a US$54 billion inversion to Ireland with Shire plc.
+2015. Medtronic completes the largest tax inversion in history in a US$48 billion merger with Covidien plc in Ireland.
+2015. Apple Inc. completes the largest hybrid IP-inversion in history by moving US$300 billion of IP to Ireland (see leprechaun economics).
+2015. Two previous US tax inversions to Ireland, Actavis plc and Allergan plc, execute a US$70 billion merger to prepare for a tax inversion with Pfizer.
+2016. The US Treasury tightens, and introduces new regulations around the existing AJCA/T.D. 9592 thresholds which blocks the US$160 billion merger of Pfizer with Allergan plc in Ireland.
+2017. The US Congressional Budget Office forecasts a 2.5% (or US$12 billion) permanent reduction in annual US corporate tax revenues from inversions.
+2017. The US Tax Cuts and Jobs Act reforms US tax code and introduces a lower 21% headline tax rate and moves to a hybrid–"territorial tax system".
+2019. AbbVie announced an agreement to acquire Allergan plc for $US63 billion; however the acquisition would not be structured as a tax inversion, and that the group would be domiciled in the U.S. for tax purposes.  AbbVie announced that post the 2017 TCJA, its effective tax rate was already lower than that of Irish-based Allergan plc at 9%, and that post the acquisition, it would rise to 13%.
+
+
+=== UK experience ===
+2007–2010. The United Kingdom loses a wave of tax inversions mainly to Ireland including: Experian plc, WPP plc, United Business Media plc, Henderson Group plc, Shire plc, and Charter.
+2009–2012. The United Kingdom reforms its corporate tax code introducing a lower 19% corporate tax rate and moves to a full "territorial tax system".
+2013. Liberty Global completes the second largest US tax inversion in history in a US$24 billion merger with Virgin Media in the UK.
+2015. The UK HMRC reports many UK inversions to Ireland returned (e.g. WPP plc, United Business Media plc, Henderson Group plc); and that the UK was a major destination for US inversions.
+2016. The UK becomes the third most popular destination in history for US tax inversions with 11 inversions (Ireland is top with 21 inversions).
+
+
+=== Other experience ===
+2014. Irish International Financial Services Centre tax-law firms sometimes list Pentair in their brochures as a Swiss tax inversion to Ireland; however Pentair was really a 2012 US tax inversion to Switzerland, who then used Ireland as a base for two years, before moving to the UK in 2016.
+2018. The Japanese Takeda Pharmaceutical Company announced that it was merging with Irish-based Shire plc (a previous UK inversion to Ireland in 2008); however, after some initial confusion, Takeda clarified that it was not executing an inversion to Ireland and that its legal headquarters would remain in Japan.
+
+
+== Drivers ==
+
+
+=== Reduced taxes ===
+While corporates who execute inversions downplay taxation in their rationale for the transaction, and instead emphasise strategic rationale, research is unanimous that tax was the driver for most US tax inversions from 1983 to 2016.
+The main objective of these transactions was tax savings, and they involved little to no shift in actual economic activity.
+Inversions are undertaken to reduce taxes
+ One such strategy is a corporate inversion, which is executed to result in a significant reduction in worldwide tax payments for a company.
+
+
+=== Types of tax saving ===
+US research on US tax inversions breaks down the tax savings into three areas:
+
+Tax on US income.  Before the 2017 TCJA, the US corporate tax rate was one of the highest rates in the developed world at 35%. The development of § Tools that could shift or earnings strip US-sourced profits to other jurisdictions without incurring US taxes, created an incentive for US corporates to execute tax inversions to lower tax jurisdictions.  The "first wave" of US inversions from 1996 to 2004 focused on debt-based tools, however, the significantly larger "second wave" of US inversions from 2012 to 2016 also made use of IP-based BEPS tools.
+Tax on non-US income.  Before the 2017 TCJA, the US corporate tax code applied the 35% rate of taxation to all worldwide corporate profits.  The US was one of only eight jurisdictions using a "worldwide tax system".  All other jurisdictions used a "territorial tax system" where very low rates of taxation are applied to foreign-sourced profits (e.g. in Germany was at 5%).  US tax academics noted this was the reason why non-US corporations made limited use of tax havens; in contrast, US corporations have been shown to be the largest global users of tax havens.
+Tax on offshore reserves.  Tax academics have shown that the dominance of US corporations in using tax havens was driven by strategies to shield non-US income from US taxation.  BEPS tools such as the "Double Irish", enabled US corporations to build up untaxed offshore cash reserves estimated at US$1–2 trillion in 2017.  Ensuring that such reserves would be protected from any initiatives by Congress to subject them to US taxes required an inversion to another jurisdiction.  Medtronic's US$20 billion in untaxed offshore reserves was noted as a driver for their 2015 inversion.In 2015, the UK HMRC identified high corporate taxes and a "worldwide tax system" for the wave of UK tax inversions to Ireland in 2007–2010.
+
+
+=== Evidence of tax savings ===
+In September 2017, the US Congressional Budget Office analyzed the post-tax outcomes of US corporate tax inversions from 1994 to 2014, and found the following:
+After year one, the aggregate effective rate of worldwide taxation of the inverted company fell from a 29% rate to an 18% rate; and
+By year three, the aggregate worldwide tax expense was 34% lower, while the US tax expense was 64% lower.A 2014 report by the Financial Times on US pharmaceutical tax inversions during 2012–2014, showed their aggregate worldwide tax rates dropped from 26 to 28% to 16–21%.  A similar 2014 study by Forbes Magazine using the projected post-inversion tax rates from the inverting corporates also confirmed the same movement in tax rates.
+
+
+=== Shareholder impact ===
+A number of studies have shown that the after-tax returns to original company shareholders post-inversion are more mixed, and often poor:
+
+A 2014 report by Reuters on 52 completed US tax inversions since 1983 showed that 19 outperformed the S&P500, another 19 underperformed the S&P500, another 10 were bought by rivals, another 3 went bankrupt and the final one returned to the US.  Reuters concluded that: "But the analysis makes one thing clear: inversions, on their own, despite largely providing the tax savings that companies seek, are no guarantee of superior returns for investors".
+A 2017 study published in the Journal of Financial Economics, found that while inversions lowered the corporate tax and increased the economic value of the corporate, the after-tax benefits to shareholders were distributed disproportionately. CEOs and short-term shareholders, foreign shareholders, and tax-exempt shareholders benefitted disproportionately from inversions.  However, long-term domestic shareholders did not benefit from inversions, since the US tax code requires taxable shareholders to recognize their capital gains at the time of the inversion.
+A 2019 study published in the International Review of Financial Analysis, found in the short-term, shares of inverting corporates increased in value.  In the medium to longer-term, however, they found that the share price tended to decline.  The driver was shown to be partly agency costs, and a distinction was drawn between the material gains of the CEO from the inversion and the losses of long-term shareholders.  There were concerns on the acquisition premiums paid in inversion mergers, and that inversions tended to be favoured by corporates with poor growth outlooks.
+
+
+== Types ==
+
+
+=== Definition ===
+In 2017, the US Congressional Budget Office (CBO) stated that it only considered a transaction to be a tax inversion under the following conditions:
+
+In all definitions, the executive management (e.g. CEO, CFO), and the substantive offices and assets of the company, can remain in the US.  For example, the executives of Medtronic, who executed the largest tax inversion in history by legally moving Medtronic to Ireland in 2015, remained in their main operational headquarters of Fridley, Minnesota in the US.  All of Medtronic's substantive business and management operations still reside in the US.Sometimes, the 2015 US$70 billion merger of Allergan plc and Activis plc, both previous US tax inversions to Ireland, are listed as a tax inversion (and the largest executed inversion in history).  However, as both companies were legally Irish companies, their merger was not considered a tax inversion.
+
+
+=== Major classes ===
+In 2019, in the "anatomy of an inversion" the US Congressional Research Service (CRS) classified US tax inversion into three broad types:
+Substantial business presence. A US corporation creates a new foreign subsidiary, and exchanges each other's equity in proportion to their valuations so that after the exchange, the new entity is a foreign corporation with a US subsidiary. There is no "change of control". This is also called a "naked tax inversion", a "shell inversion", a "self-help inversion", a "pure inversion", or "redomiciling". Since the 2004 ACJA, and the 2012–16 Treasury rules, only US corporations with an existing "substantial business presence" in the foreign location that constitutes more than 25% of the post-inversion corporation (called the "expanded affiliate group" (EAG) in the legalisation) can execute a "self-inversion". This stopped US corporations inverting to smaller tax havens.
+US corporation acquired by a larger foreign corporation.  A US corp0000000000000000000000000000000000000000000000000000000000oration merges with a larger foreign corporation.  The US shareholders, therefore, own a minority of the merged group and "effective control" moves outside of the US to the shareholders of the foreign corporation. The CBO does not recognize these transactions as being tax inversions (including where the acquiring corporation is a private equity fund, or the transaction is from a bankruptcy).
+A smaller foreign corporation acquired by a larger US corporation.  A US corporation merges with a smaller foreign corporation who becomes the new legal parent of the group.  The existing US shareholders still own a majority merged group this thus maintain "effective control", however, it is now a foreign company under the US tax code.  The CBO considers these type of transactions as tax inversions (a "merger tax inversion"). Since 2004 ACJA and 2012–16 Treasury rules, only mergers where the existing US shareholders own less than 80% of the EAG are recognized as foreign by the IRS (and mergers where the foreign-headquartered EAG is still over 80% owned by the original US corporate shareholders, is considered by the IRS to be a US corporation for taxation purposes).
+
+
+=== Hybrid inversions ===
+
+In 1994, US tax academic James R. Hines Jr. published the important Hines–Rice paper, which showed that many US corporations had chosen to shift profits to tax havens, instead of outright moving to the tax haven by executing a tax inversion.  Hines, and later again with US tax academic Dhammika Dharmapala, would show that base erosion and profit shifting (BEPS), was an even greater loss of corporate tax revenue to the US exchequer, than full tax inversions.In 2018, academics identified a new class of tax inversion as details of Apple's Q1 2015 leprechaun economics transaction in Ireland emerged.  While Apple's tax residence remained in the US, Apple moved the legal tax residence of a large part of its business to Ireland in a US$300 billion quasi-tax inversion of its intellectual property (IP).The use of IP-based BEPS tools (e.g. Apple and Google's Double Irish and Microsoft's Single Malt), has been attributed as the driver for the reduction in the marginal aggregate effective US corporate tax rate, falling from circa 30% in 2000, to circa 20% by 2016 (see graphic).  For example, the CAIA BEPS tool Apple used in 2015 would give Apple an "effective tax rate" of under 2.5% on the worldwide profits Apple generated on this IP that was shifted to Ireland.However, these IP assets had normally been housed in small Caribbean tax haven-type locations; Apple has been reported as using Bermuda and Jersey to house its IP. Such locations could not meet the 25% "substantive business test" of regulation T.D. 9592 for an inversion. However, Apple's 2015 BEPS transaction to Ireland was the first time a US corporation moved a substantial amount of IP to a full OECD jurisdiction where it already had a "substantive business operations".In July 2018, Seamus Coffey, Chairperson of the Irish Fiscal Advisory Council and author of the Irish State's 2016 review of the Irish Corporate Tax Code,  posted that Ireland could see a "boom" in the onshoring of U.S. IP, via the CAIA BEPS tool, between now and 2020, when the Double Irish is fully closed.  In February 2019, Brad Setser from the Council on Foreign Relations, wrote a New York Times article highlighting issues with TCJA in terms of combatting power of BEPS tools.
+
+
+== Industries ==
+In 2017, the Congressional Budgetary Office reported that of the 60 US tax inversions from 1983 to 2015 which the CBO officially recognize, over 40% came from three industries: Pharmaceutical preparations (9), Fire, marine, and casualty insurance (7), and Oil & Gas Well Drilling and Servicing (7).The US Oil & Gas Well Drilling and Servicing and US Casualty Insurance inversions are mostly associated with the first wave of US tax inversions before 2004; the very first US tax inversion, McDermott International in 1983, was from the Oil & Gas Well Drilling and Servicing industry.  These US companies that inverted in these two industries shared the common attributes of having mostly international client bases, and of having assets that were easily "portable" outside of the US.  The assets of the Oil & Gas corporate tax inversions were already mostly held in securitization vehicles often legally located in offshore financial centres.  Similarly, the assets of the Casualty Insurance corporate tax inversions were also mainly global reinsurance contracts that were also legally located in offshore financial centres.The US Life Sciences industry (Pharmaceutical and Medical Devices) became a significant part of the second wave of US tax inversions from 2012 to 2016.  It also involved some of the largest and most public executed US tax inversions (e.g. Medtronic (2015) and Perrigo (2013)), as well as the aborted 2016 inversion of Pfizer and Allergan, which would have been largest inversion in history at US$160 billion.
+In July 2015, The Wall Street Journal reported that the circa 4% "effective tax rate" being paid by US pharmaceuticals who inverted to Ireland made them highly acquisitive of other US firms (i.e. they could afford to pay more to acquire US competitors and redomicile them to Ireland).  The WSJ listed the extensive post-inversion acquisitions of Activis/Allergan, Endo, Mallinckrodt and Horizon.In August 2016, after the US Treasury blocked Pfizer's US$160 billion tax inversion to Ireland with Allergan, Bloomberg stated that "Big Pharma Murdered Tax Inversions".
+
+
+== Earnings stripping ==
+
+An important concept in inversions are the tools required to shift untaxed profits from the corporate's existing operating jurisdictions to the new destination.  This is known as earnings stripping.  Without these tools, a tax inversion might not deliver the expected tax savings, as the profits might arrive at the new destination having incurred full taxes in the jurisdictions in which they were sourced.For example, when Medtronic inverted to Ireland in 2015, over 60% of the merged group's revenue still came from the US healthcare system. Similarly, over 80% of Allergan's revenues comes from the US healthcare system post its Irish inversion.  Medtronic and Allergan, therefore, could only avail of Ireland's lower effective tax rates if they could shift US-sourced profits to Ireland without incurring full US corporate taxes.  Studies have shown that the earnings stripping of US-sourced earnings is a critical component of reducing the aggregate effective tax rate post the inversion (per § Evidence of tax savings).The two main types of tools used in tax inversions are:
+Debt-based tools.  This is where the foreign parent of the newly inverted company raises debt to acquire the original US company.  This debt is then "moved down" into the US subsidiary and the US profits are thus shifted untaxed to the foreign patent via interest payments on this debt.  Early US tax inversions involved highly leveraged structures with real external debt.
+IP-based BEPS tools.  This is where the IP of the newly inverted group is moved to the lower-tax jurisdiction of the parent, who charges it out to the higher-tax jurisdictions in which the group operates (including its original US jurisdiction).  This can only be achieved where the IP is already housed in an offshore location (e.g. Bermuda), so that its movement does not itself incur US tax charges.§ Countermeasures created in the 2017 TCJA, directly targeted debt-based tools via the new BEAT tax, and introduce a competing US IP-based BEPS tool called the FDII tax.
+
+
+== Costs ==
+There have been several estimates of the aggregate cost of US tax inversions to the US exchequer (also called the erosion of the US tax base).  However, there is a significant variation in these aggregate estimates of tax erosion over the years due to two specific factors:
+
+Variation in US inversions.  Firstly, there has been material variation in the financial scale of inversions since 1983.  In 2014, a Joint Committee on Taxation (JCT), estimated that stopping inversions would prevent US$19.5 billion in lost taxes over the next decade (2015–2024), or US$1.95 billion annually on average.  At the time, this figure was just 0.4% of the estimated total US corporate taxation revenues for the next decade, of US$4.5 trillion (2015–2024).  However, just three years later, the scale of US tax inversions had increased dramatically, leading the CBO to re-forecast in 2017 that by 2027, annual US taxes would be circa 2.5% (or US$12 billion) lower due to tax inversions.
+Effect of hybrid inversions.  Secondly, estimates can vary dramatically depending on whether the effect of hybrid inversions is included.  The CBO (and other US State estimates above) ignore hybrid inversions.  In 2016, tax academic Kimberly Clausing estimated that the loss to the US exchequer from all classes of inversions, using the broadest types of hybrid inversions (and all base erosion and profit shifting earnings stripping activity), by US corporations was between US$77 to US$111 billion in 2012 (having been zero 20 years ago).
+
+
+== Destinations ==
+
+
+=== US inversions ===
+The US Congressional Budget Office and the Congressional Research Service have cataloged 85 US tax inversions since 1983 to 2017 (the CBO does not recognize all of them as official tax inversions).  Bloomberg used this data to identify the most attractive destinations for US inversions titled Tracking the Tax Runaways which won the 2015 Pulitzer Prize for Explanatory Reporting, and was updated to 2018.The first wave of US tax inversions from 1996 to 2004 was mainly to Caribbean tax havens such as Bermuda and the Cayman Islands.  These were mostly "naked inversions" where the company had little or no previous  "substantial business activities" in the location.  They also used debt-based earnings stripping tools to shift US profits to the new destination.  The 2004 ACJA ended these types of "naked inversions" with IRS Section 7874.A significantly larger second wave of US tax inversions from 2012 to 2016 was mainly to the OECD tax havens of Ireland, and after their 2009 reforms, to the United Kingdom.  These inversions involved mergers with real companies that met the "substantial business activities" test of IRS Section 7874.  These destinations also had advanced IP-based BEPS tools (e.g. the Irish CAIA tool, the Double Irish tool, the UK Patent box tool) that could deliver an "effective tax rate" closer to zero on profits shifted to the destination.The destinations for the 85 US corporate tax inversions since 1983 are as follows:
+
+
+=== UK inversions ===
+A 2012 article in Tax Notes listed the 22 tax inversions of UK companies to other destinations from 2006 to 2010, until UK tax reform ceased further material inversions.While the full list is not available, the US Tax Foundation listed the nine most important UK inversions of which six went to Ireland (Experian plc, WPP plc, United Business Media plc, Henderson Group plc, Shire plc, and Charter International), and one each went to Switzerland (Informa), Luxembourg (Regus), and the Netherlands (Brit Insurance).
+
+
+=== Other jurisdictions ===
+Few other jurisdictions outside of the US and the UK have experienced a material outflow of corporate tax inversions to other destinations.
+
+
+== Countermeasures ==
+
+
+=== United States ===
+
+There have been three phases of initiatives that the US Government have taken to counter US corporate tax inversions:
+
+2004 American Jobs Creation Act (ACJA):In 2002, the US Treasury reported to Congress that there had been a "marked increase in the frequency, size, and visibility" of "naked inversions".  The Treasury cited three concerns: the erosion of the US tax base,  a cost advantage for foreign-controlled firms, and a reduction in perceived fairness of the tax system.  In response, Congress passed the AJCA, which added Section 7876 to the US tax-code that effectively ended "naked inversions" to Caribbean-type tax havens where the US corporation had no previous business presence in the location.  The main provisions were:US inversions where the existing US shareholders owned more than 80% of the post-inversion group, or Expanded Affiliate Group (EAG), would not be recognized.
+Where the existing US shareholders owned between 60% but less than 80% of the EAG, the inversion would be recognized as a foreign company but with restricted tax benefits.
+Section 7876 included a "safe harbour" from its provisions where the EAG had an existing "substantive business presence" in the foreign country but left it to the Treasury to define what this meant.
+Shortly afterwards, the Treasury stated that to meet the "substantive business presence" the EAG had to have had over 10% of its employees, and assets, and income in the foreign location.2012–2016 US Treasury Regulations:In 2012, the Treasury issued regulation T.D. 9592 that increased the threshold for the "substantive business presence" safe harbour exemption from Section 7876, from 10% to 25%.
+In 2014, the Treasury issued tax notice 2014–52 that blocked various legal structuring techniques to circumvent the earlier ACJA and TD 9592 regulations; AbbVie and Chiquita cancel inversions.
+In 2016, the Treasury issued a series of rulings to clarify past rulings, and introduce new provisions that blocked additional legal structuring techniques to circumvent the ACJA.
+In 2016, two days after the final Treasury ruling in 2016, Pfizer announced that it was aborting its planned US$160 billion tax inversion to Ireland via a merger with Allergan plc.
+2017 Tax Cuts and Jobs Act (TCJA):While the 2004 ACJA and the 2012–2016 Treasury Regulations sought to block US corporate tax inversions, the TCJA attempted to remove the taxation incentives by reforming elements of the US tax code.  Such a reform had been completed by the UK in 2009–2012 (see below).  The main provisions were:Reduction in the headline US corporate tax rate from 35% to 21%.
+Transformation of the US corporate tax code from a "worldwide tax system" to a hybrid-"territorial tax system".
+Specific anti-US earnings stripping provisions such as the BEAT tax.
+New US IP-based BEPS tools such as the 13.125% FDII tax rate.In Q1 2018, U.S. multinationals like Pfizer announced in Q1 2018, a post-TCJA global tax rate for 2019 of circa 17%, which is close to the circa 15–16% 2019 tax rate guided by previous U.S. corporate tax inversions to Ireland including: Eaton, Allergan, and Medtronic.  In March 2018, the Head of Life Sciences in Goldman Sachs made the following comment:
+
+"Now that [U.S.] corporate tax reform has passed, the advantages of being an inverted company are less obvious"
+In a report to Congress in March 2019, the Congressional Research Service noted that "there are also indications that most tax motivated inversions had already been discouraged by the 2016 regulations" and that with the addition of the since the 2017 TCJA that "Some firms appear to be considering reversing their headquarters [or past inversion] decision".In June 2019, U.S.-based AbbVie announced an agreement to acquire Irish-based Allergan plc for US$63 billion; however the acquisition would not be structured as a tax inversion, and that the Group would be domiciled in the U.S. for tax purposes.  AbbVie announced that post the 2017 TCJA, its effective tax rate was already lower than that of Irish-based Allergan plc at 9%, and that post the acquisition, it would rise to 13%. In 2014 the U.S. Treasury effectively blocked AbbVie's attempt to execute a tax inversion with Irish-based Shire plc.
+
+
+=== United Kingdom ===
+After losing 22 tax inversions from 2007 to 2010, mostly to Ireland, the UK moved to reform its corporate tax code from 2009 to 2012, executing the following:
+Reduction in the headline UK corporate tax rate from 28% to 20% (and eventually to 19%).
+Transformation of the UK corporate tax code from a "worldwide tax system" to a "territorial tax system".
+Creation of new IP-based BEPS tools including a low-tax Patent box.In 2014, The Wall Street Journal reported that "In U.S. tax inversion Deals, U.K. is now a winner".  In a 2015 presentation, the UK HMRC showed that many of the outstanding UK inversions from 2007 to 2010 period had returned to the UK as a result of the tax reforms (most of the rest had entered into subsequent transactions and could not return, including Shire).
+
+
+== Notable inversions ==
+
+
+=== US inversions ===
+
+
+==== Executed ====
+
+Of the 85 tax inversions executed by US corporates to other jurisdictions, the following are notable:
+
+1982 McDermott International to Panama, first-ever tax inversion, and first ever "naked inversion"; only ever US tax inversion to Panama.
+1994 Helen of Troy to Bermuda, second-ever tax inversion and also a "naked inversion".
+1997 Tyco International to Bermuda; Tyco would later spin-off Covidien who would execute the largest inversion in history with Medtronic in 2015; Tyco itself would merge with Johnson Controls in 2016 in the 3rd-largest inversion in history.
+1998 Fruit of the Loom to the Cayman Islands; entered into bankruptcy 3 years later and was then bought by Berkshire Hathaway.
+1999 Transocean to the Cayman Islands.
+2001 Ingersoll Rand to Bermuda; would "self-invert" to Ireland in 2009.
+2001 Accenture to Bermuda, would later "self-invert" to Ireland in 2009 to become Ireland's first tax inversion and first Irish CAIA BEPS tool user.
+2003 Michael Kors to the British Virgin Islands; only ever US inversion to the BVI, later self-inverted to the UK.
+2009 Valaris plc to the United Kingdom, first US inversion to the UK.
+2012 Eaton Corporation to Ireland with a $US12 billion merger with Cooper Industries, 4th-largest inversion in history.
+2013 Actavis to Ireland with a US$5 billion merger with Warner Chilcott, and would later execute a US$70 billion merger with Allergan in Ireland in 2015.
+2013 Liberty Global to the United Kingdom with a US$23 billion merger with Virgin Media, 2nd-largest inversion in history.
+2013 Perrigo to Ireland with a US$9 billion merger with Elan Corporation, 6th-largest inversion in history.
+2014 Burger King to Canada with a US$12 billion merger with Tim Hortons, 5th-largest inversion in history.
+2015 Medtronic to Ireland with a US$48 billion merger with Covidien plc, largest inversion in history.
+2015 Mylan to the Netherlands in a merger with the international generics division of Abbott Laboratories; first merger of a US corporation with the non-US business of a US corporation.
+2016 Johnson Controls to Ireland with a US$17 billion merger with Tyco International, 3rd-largest inversion in history.
+
+
+==== Aborted ====
+2014 Abbvie to Ireland with a US$54 billion merger with Shire plc, would have been the 2nd-largest inversion in history; blocked by US Treasury.
+2014 Walgreens to the United Kingdom, as it had already merged with US$16 billion UK-based Alliance Boots; decided to maintain its legal headquarters in the US.
+2014 Pfizer to the United Kingdom with a US$120 billion merger with Astra Zeneca, would have been the largest inversion in history; Astra rejected Pfizer's GBP£55 per share offer.
+2016 Pfizer to Ireland with a US$160 billion merger with Allergan, would have been the largest inversion in history; blocked by US Treasury.
+
+
+=== UK inversions ===
+Of the 22 inversions executed by UK companies to other jurisdictions, the following are notable:
+
+
+==== Executed ====
+
+2006 Experian plc to Ireland with a "self-inversion", first ever UK inversion to Ireland.
+2008 WPP plc to Ireland, would later return to the UK.
+2009 Shire plc to Ireland, would later merge with Takeda Pharmaceuticals in 2018.
+
+
+== See also ==
+Base erosion and profit shifting
+Double Irish arrangement
+Tax haven
+Conduit and Sink OFCs
+Ireland as a tax haven
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+Marples, Donald J.; Gravelle, Jane G. (2019). Corporate Expatriation, Inversions, and Mergers: Tax Issues (PDF) (Report). Congressional Research Service.
+Marples, Donald J.; Gravelle, Jane G. (2018). Issues in International Corporate Taxation: The 2017 Revision (P.L. 115-97) (PDF) (Report). Congressional Research Service.
+Mider, Zachary (2017). Tracking the Tax Runaways (Report). Bloomberg News.
+Hall, Keith (2017). An Analysis of Corporate Tax Inversions (PDF) (Report). Congressional Budget Office.
+Neely, Michelle C.; Sherrer, Larry D. (2017). "A look at Corporate Tax Inversions: Inside and Out" (PDF). The Regional Economist. Federal Reserve Bank of St. Louis.
+Lunder, Erika K. (2016). Corporate Inversions: Frequently Asked Legal Questions (PDF) (Report). Congressional Research Service.
+Talley, Eric (2015). "Corporate Inversions and the Unbundling of Regulatory Competition" (PDF). Virginia Law Review. 101: 1650–1721.
+Marples, Donald J.; Gravelle, Jane G. (2014). Corporate Expatriation, Inversions, and Mergers: Tax Issues (PDF) (Report). Congressional Research Service.
+McBride, Will (2014). Tax Reform in the UK Reversed the Tide of Corporate Tax Inversions (PDF) (Report). Tax Foundation.
+Clausing, Kimberly (2014). Corporate Inversions (PDF) (Report). Urban Institute and Brookings Institution.
+
+
+== External links ==
+
+Tax Inversions Zachary Mider, Bloomberg Special Reports, 2015 Pulitzer Prize for Explanatory Reporting
+Tax Inversions Reports by the Financial Times

@@ -1,0 +1,33 @@
+In financial transactions, a warrant is a written order by one person that instructs or authorises another person to pay a specified recipient a specific amount of money or supply goods at a specific date. A warrant may or may not be negotiable and may be a bearer instrument that authorises payment to the warrant holder on demand or after a specific date. Governments and businesses may pay wages and other accounts by issuing warrants instead of cheques. 
+
+
+== History ==
+Warrants were used in the 18th century by the military to authorize payments to soldiers and suppliers. George Washington, for example, signed warrants that ordered quartermasters to deliver money or acquire supplies. These warrants were used by quartermasters to issue vouchers to acquire food, supplies, munitions, clothing, transportation, etc., for the use of the American military and to maintain Washington's headquarters. Warrants could be redeemed by the army paymasters, but most often they were used like cash by the recipient. Warrants, like bills of exchange and vouchers, were often heavily discounted and depreciated in value. The fortunes of war could be traced through the discount rates on warrants, vouchers, and Continental dollars.
+In the early days of the colony at Sydney Cove in Australia, the merchant Robert Campbell was one of the first merchants to attempt to trade, but lacked sufficient currency. When he first sailed into Sydney aboard his company's ship the Hunter in 1798, Campbell was forced to sell his first consignment of goods to a syndicate of military officers in return for Paymaster's Bills drawn on London, which were like warrants.The term warrant may continue to be used broadly as an order to pay or an order to deliver goods.
+
+
+== United States ==
+In government finance, a warrant is a written order to pay that instructs a federal, state, or county government treasurer to pay the warrant holder on demand or after a specific date. Such warrants look like checks and clear through the banking system like checks, but are not drawn against cleared funds in a checking account (demand deposit account). Instead, they may be drawn against "available funds" or "out of fund 0027" so that the issuer can collect interest on the float or delay redemption. If the warrant is conditional on funds being available, the warrant is not a negotiable debt instrument.
+In the United States, warrants are issued by government entities such as the military and state and county governments. They are issued for payroll to individual employees, accounts payable to vendors, to local governments, to taxpayers receiving tax refunds, to recipients of unemployment benefits, and to owners of unclaimed money. 
+Warrants deposited in a bank are routed (based on the MICR routing number) to a collecting bank which processes them as collection items like maturing treasury bills and presents the warrants to the government entity's treasury department for payment to the bank each business day.
+Regular warrants are redeemable by the government treasurer after they are issued. "Registered warrants" bear interest and need not be redeemed by the treasurer until the warrant maturity date. If warrants cannot be immediately redeemed by the issuing entity, the collecting bank may accept the warrants as short term debt instruments and collect interest when redeemed in accordance with a prior agreement with the issuing entity. The collecting bank may refuse to accept a warrant issue, in which case other banks may also refuse to accept them."The warrants of a municipal corporation are not negotiable instruments. They do not constitute a new debt, or evidence of a new debt, but are only the prescribed means devised by law for drawing money from the treasury."The U.S. Securities and Exchange Commission said on July 9, 2009, that California's registered warrants are "securities" under federal securities law and will be regulated as municipal securities by the Municipal Securities Rulemaking Board. Under these regulations, anybody who profits by buying and reselling warrants must be registered as a municipal securities broker-dealer.Although registered warrants are evidence of a municipality's obligation to pay, because they demonstrate an intent to disburse funds when those funds become available, the US Supreme Court has ruled that a holder of a valid warrant cannot obtain a writ of mandamus for specific performance of the obligation to pay, enforced against a treasurer or other employee of the municipality.Warrants can be replaced with substitute checks under the Check 21 Act. Such substitute checks show the MICR routing numbers that identify them as warrants.
+
+
+== United Kingdom ==
+In the UK, warrants are issued as payment by the NS&I when a Premium Bond is chosen.
+The difference between a warrant and a cheque is that a cheque usually places no explicit time frame on when the amount is to be paid.
+
+
+== Canada ==
+
+
+== See also ==
+Government debt
+
+
+== References ==
+
+
+== External links ==
+California law on Registered Warrants
+Country regulations for Registered Warrants

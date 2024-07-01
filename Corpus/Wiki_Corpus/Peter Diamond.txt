@@ -1,0 +1,64 @@
+Peter Arthur Diamond (born April 29, 1940) is an American economist known for his analysis of U.S. Social Security policy and his work as an advisor to the Advisory Council on Social Security in the late 1980s and 1990s. He was awarded the Nobel Memorial Prize in Economic Sciences in 2010, along with Dale T. Mortensen and Christopher A. Pissarides. He is an Institute Professor at the Massachusetts Institute of Technology. On June 6, 2011, he withdrew his nomination to serve on the Federal Reserve's board of governors, citing intractable Republican opposition for 14 months.
+
+
+== Early life and education ==
+Diamond was born to a Jewish family in New York City. His grandparents immigrated to the U.S. at the turn of the 20th century. His mother's parents and six older siblings came from Poland. His father's parents met in New York, she came from Russia and he came from Romania. His parents, both born in 1908, grew up in New York City and never lived outside the metropolitan area. Both finished high school and went to work, his father studying at Brooklyn Law School at night while selling shoes during the day. They married in 1929. He has one brother, Richard, born in 1934.He started public school in the Bronx, and switched to suburban public schools in the second grade when the family moved to Woodmere, on Long Island. He eventually graduated from Lawrence High School.  He earned a bachelor's degree summa cum laude in mathematics from Yale University (1960), and a Ph.D. at the Massachusetts Institute of Technology (1963).
+
+
+== Career ==
+He was an assistant professor at the University of California, Berkeley, from 1963 to 1965 and an acting associate professor there before joining the MIT faculty as an associate professor in 1966. Diamond was promoted to full professor in 1970, served as head of the Department of Economics in 1985–86 and was named an Institute Professor in 1997.In 1968, Diamond was elected a fellow and served as president of the Econometric Society. In 2003, he served as president of the American Economic Association. He is a Fellow of the American Academy of Arts and Sciences (1978), a Member of the National Academy of Sciences (1984), and is a Founding Member of the National Academy of Social Insurance (1988). Diamond was the 2008 recipient of the Robert M. Ball Award for Outstanding Achievements in Social Insurance, awarded by NASI. As a Fulbright Distinguished Chair, in 2000 he taught economics at the University of Siena.
+Diamond wrote a book on Social Security with Peter R. Orszag, President Obama's former director of the Office of Management and Budget, titled Saving Social security: a balanced approach (2004,-5, Brookings Institution Press). An earlier paper from Brookings Institution introduced their ideas.
+In April 2010, Diamond, along with Janet Yellen and Sarah Bloom Raskin, was nominated by President Barack Obama to fill the vacancies on the Federal Reserve Board. In August 2010, the Senate returned Diamond's nomination to the White House, effectively rejecting his nomination. President Obama renominated him in September. In June 2011, following a third round of consideration for the Fed seat, Diamond wrote in a New York Times op-ed column that he planned to withdraw his name. In the column, he strongly criticized the nomination process and "partisan polarization" in Washington, saying he was effectively blocked by Republicans on the Senate Banking Committee. He also detailed the consideration process, saying that in the first and second rounds, three Republicans had favored his confirmation. In the third, when his name was resubmitted in January 2011, the Republicans all followed ranking minority member Shelby (R, Alabama) in voting against it. Diamond continued, quoting Shelby:"Does Dr. Diamond have any experience in conducting monetary policy? No," [Shelby] said in March. "His academic work has been on pensions and labor market theory." But [Diamond began his reply, in the column] understanding the labor market—and the process by which workers and jobs come together and separate—is critical to devising an effective monetary policy. Diamond went on to discuss how his expertise would, he felt, have benefited the central bank and his opinion that "[s]killed analytical thinking should not be drowned out by mistaken, ideologically driven views." In a statement, Shelby "wouldn't be drawn into a public spat with the nominee," saying simply "I have said many times that I commend Dr. Diamond's talent and career. I wish him the best in the future."Ben Bernanke (Nobel Prize winner and former Chairman of the Fed) was once a student of Diamond.In October 2010, Diamond was awarded the Nobel Prize in Economic Sciences, along with Dale T. Mortensen from Northwestern University and Christopher A. Pissarides from the London School of Economics "for their analysis of markets with search frictions".In 2011 he received The John R. Commons Award from Omicron Delta Epsilon, the economics honor society.Andrei Shleifer and Emmanuel Saez are two of his doctoral supervisees who won the John Bates Clark Medal for the best American economist under the age of 40.
+Diamond has been married to Kate (Priscilla Myrick) since 1966. They have two sons.
+
+
+== Professional activity ==
+Diamond has made fundamental contributions to a variety of areas, including government debt and capital accumulation, capital markets and risk sharing, optimal taxation, search and matching in labor markets, and social insurance.
+
+
+=== Dynamic inefficiency ===
+
+Diamond (1965) extended the Ramsey–Cass–Koopmans model, from a representative infinitely-lived agent to a setup where new individuals are continually being born and old individuals are continually dying. He built on a framework developed by Paul Samuelson, who had termed it "an exact consumption-loan model."Since individuals born at different times attain different utility levels, it is not clear how to evaluate social welfare.  One of the main results of this paper is that the decentralized equilibrium might not be dynamically Pareto efficient, even though markets are competitive and externalities are absent. In particular, depending on the preferences and technology, the economy might find itself saving too much, pushing the capital stock above what Edmund Phelps called the Golden Rule level. In this situation, government debt can crowd out capital and, in doing so, increase welfare.
+
+
+=== Diamond–Mirrlees production efficiency result ===
+The Diamond–Mirrlees production efficiency result follows from a set of assumptions which characterise what can be called a 'DM world'.
+It is characterised by 7 assumptions:
+i) perfect competition
+ii) constant returns to scale to production
+iii) lump sum taxation is not possible
+iv) there is a revenue requirement i.e. the government has to raise revenue to fund its expenditures 
+v) full instrument set: the government has the flexibility to levy taxes on all commodities and all factors of production in the economy
+vi) non-satiation in at least one good
+vii) individualistic social welfare function.
+Under these assumptions, it can be shown that the second best allocation requires production efficiency to be preserved throughout the economy. This result arises from the assumptions that characterise the DM world:
+
+The production side of the economy is independent from the consumption side of the economy (assumption i and ii): perfect competition and constant returns to scale implies no profits (if not producers would increase production infinitely and thus profits). This means that the income of consumers do not depend on the producer prices. In addition, this also means that the incidence of the tax would fall 100% on consumers. Again, this is an application of the theory of the second best: Pareto efficiency should be restored in independent markets.
+The economy is not able to operate in a first-best world (assumption iii and iv): the government must raise revenue but is not able to raise this through lump sum taxation, thus a Pareto optimal allocation of resources is not possible. Note, this is the only irremovable distortion in the DM world.
+The government has a full instrument set that allows any configuration of prices to be achieved, which allows the government to bring about any configuration of relative consumer prices that is consistent with the revenue requirement.The key idea is that when the government can control all consumer prices, the producer prices are independent from the consumer prices and the consumption decision part of the optimal taxation problem becomes independent of the production decision. The implication of the result is that there should be no taxes on intermediate goods and imports. Another implication is that public and private sector production should be based on the same relative prices. In practice, one needs to consider if the assumptions of the DM world are likely to apply; nevertheless, the efficiency result is a useful benchmark against which to judge  whether any policy violation of production efficiency is justified.
+
+
+=== Labor market search and match ===
+
+Diamond (1982) is one of the first papers which explicitly models the search process involved in making trades and hiring workers, which results in equilibrium unemployment.
+
+
+=== Social Security policy ===
+Diamond has focused much of his professional career on the analysis of U.S. Social Security policy as well as its analogs in other countries, such as China. In numerous journal articles and books, he has presented analyses of social welfare programs in general and the American Social Security Administration in particular. He has frequently proposed policy adjustments, such as incremental but small increases in social security contributions using actuarial tables to adjust for changes in life expectancy and an increase in the proportion of earnings that are subject to taxation.
+
+
+== See also ==
+List of Jewish Nobel laureates
+
+
+== References ==
+
+
+== External links ==
+ Media related to Peter Diamond at Wikimedia Commons
+Peter Diamond Archived December 1, 2010, at the Wayback Machine at MIT
+Peter Diamond on Nobelprize.org  including the Nobel Prize lecture  8 December 2010 Unemployment, Vacancies, Wages
+Appearances on C-SPAN
+Peter A. Diamond collected news and commentary at The New York Times
+An interview with Peter Diamond Archived October 12, 2010, at the Wayback Machine, July 12, 2006
+Documentary films on Peter Diamond, with critiques of his work, as part of the Nobel Perspectives project

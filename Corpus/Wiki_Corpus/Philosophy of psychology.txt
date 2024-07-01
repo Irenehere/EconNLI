@@ -1,0 +1,56 @@
+Philosophy of psychology is concerned with the philosophical foundations of the study of psychology. It deals with both epistemological and ontological issues and shares interests with other fields, including philosophy of mind and theoretical psychology. Philosophical and theoretical psychology are intimately tied and are therefore sometimes used interchangeably or used together. However, philosophy of psychology relies more on debates general to philosophy and on philosophical methods, whereas theoretical psychology draws on multiple areas. 
+
+
+== Epistemology ==
+Some of the issues studied by the philosophy of psychology are epistemological concerns about the methodology of psychological investigation. For example:
+
+What constitutes a psychological explanation?
+What is the most appropriate methodology for psychology: mentalism, behaviorism, or a compromise?
+Are self-reports a reliable data-gathering method?
+What conclusions can be drawn from null hypothesis tests?
+Can first-person experiences (emotions, desires, beliefs, etc.) be measured objectively?
+
+
+== Ontology ==
+Philosophers of psychology also concern themselves with ontological issues, like:
+
+Can psychology be theoretically reduced to neuroscience?
+What are psychological phenomena?
+What is the relationship between subjectivity and objectivity in psychology?
+
+
+== Relations to other fields ==
+Philosophy of psychology also closely monitors contemporary work conducted in cognitive neuroscience, cognitive psychology, and artificial intelligence, for example questioning whether psychological phenomena can be explained using the methods of neuroscience, evolutionary theory, and computational modeling, respectively. Although these are all closely related fields, some concerns still arise about the appropriateness of importing their methods into psychology. Some such concerns are whether psychology, as the study of individuals as information processing systems (see Donald Broadbent), is autonomous from what happens in the brain (even if psychologists largely agree that the brain in some sense causes behavior (see supervenience)); whether the mind is "hard-wired" enough for evolutionary investigations to be fruitful; and whether computational models can do anything more than offer possible implementations of cognitive theories that tell us nothing about the mind (Fodor & Pylyshyn 1988).
+Related to the philosophy of psychology are philosophical and epistemological inquiries about clinical psychiatry and psychopathology. Philosophy of psychiatry is mainly concerned with the role of values in psychiatry: derived from philosophical value theory and phenomenology, values-based practice is aimed at improving and humanizing clinical decision-making in the highly complex environment of mental health care. Philosophy of psychopathology is mainly involved in the epistemological reflection about the implicit philosophical foundations of psychiatric classification and evidence-based psychiatry. It aims is to unveil the constructive activity underlying the description of mental phenomena.
+
+
+== Main areas ==
+Different schools and systems of psychology represent approaches to psychological problems, which are often based on different philosophies of consciousness.
+Functional psychology
+Functionalism treats the psyche as derived from the activity of external stimuli, deprived of its essential autonomy, denying free will, which influenced behaviourism later on; one of the founders of functionalism was James, also close to pragmatism, where human action is put before questions and doubts about the nature of the world and man himself.
+Psychoanalysis
+Freud`s doctrine, called Metapsychology, was to give the human self greater freedom from instinctive and irrational desires in a dialogue with a psychologist through analysis of the unconscious. Later the psychoanalytic movement split, part of it treating psychoanalysis as a practice of working with archetypes (analytical psychology), part criticising the social limitations of the unconscious (Freudo-Marxism), and later Lacan`s structural psychoanalysis, which interpreted the unconscious as a language.
+Phenomenological psychology
+Edmund Husserl rejected the physicalism of most of the psychological teachings of his time and began to understand consciousness as the only reality accessible to reliable cognition. His disciple Heidegger added to this the assertion of the fundamental finitude of man and the threat of a loss of authenticity in the technical world, and thus laid the foundation for existential psychology.
+Structuralism
+The recognised creator of psychology as a science, W. Wundt described the primordial structures of the psyche that determine perception and behaviour, but faced the problem of the impossibility of direct access to these structures and the vagueness of their description. Half a century later his ideas, combined with Sossur`s semiotics, strongly influenced the general humanities of structuralism and the post-structuralism and post-modernism that emerged from it, where structures were treated as linguistic invariants.
+
+
+== References ==
+
+
+== Further reading ==
+J. Stacy Adams. 1976. Advances in Experimental Social Psychology. Academic Press, 1976 ISBN 0120152096, 9780120152094.
+Leonard Berkowitz. 1972. Social psychology. Scott Foresman & Co, 1972.
+Ned Block. 1980. Readings in Philosophy of Psychology, Volume 1. Harvard University Press, 1980. ISBN 067474876X, 9780674748767.
+Stuart C. Brown, Royal Institute of Philosophy. 1974. Macmillan, 1974. Original from	the University of Michigan
+Joseph Margolis. 2008. Philosophy of Psychology. Prentice-Hall foundations of philosophy series. Prentice-Hall, 1984. ISBN 0136643264, 9780136643265.
+Ken Richardson. 2008. Understanding psychology. Open University Press, 1988. ISBN 0335098428, 9780335098422.
+George Botterill, Peter Carruthers. 1999. The Philosophy of Psychology. Cambridge University Press. ISBN 0521559154, 9780521559157.
+Craig Steven Titus. 2009. Philosophical Psychology: Psychology, Emotions, and Freedom. CUA Press. ISBN 0977310361, 9780977310364.
+Jose Bermudez. 2005. Philosophy of Psychology: A Contemporary Introduction. Routledge. ISBN 9780415368629.
+Terence Horgan, John Tienson. 1996. Connectionism and the Philosophy of Psychology. MIT Press. ISBN 0262082489, 9780262082488
+
+
+== External links ==
+Part 7 of MindPapers: Philosophy of Cognitive Science (contains over 1,500 articles, many with online copies)

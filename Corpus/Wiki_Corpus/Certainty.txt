@@ -1,0 +1,56 @@
+Certainty (also known as epistemic certainty or objective certainty) is the epistemic property of beliefs which a person has no rational grounds for doubting. One standard way of defining epistemic certainty is that a belief is certain if and only if the person holding that belief could not be mistaken in holding that belief. Other common definitions of certainty involve the indubitable nature of such beliefs or define certainty as a property of those beliefs with the greatest possible justification. Certainty is closely related to knowledge, although contemporary philosophers tend to treat knowledge as having lower requirements than certainty.Importantly, epistemic certainty is not the same thing as psychological certainty (also known as subjective certainty or certitude), which describes the highest degree to which a person could be convinced that something is true. While a person may be completely convinced that a particular belief is true, and might even be psychologically incapable of entertaining its falsity, this does not entail that the belief is itself beyond rational doubt or incapable of being false. While the word "certainty" is sometimes used to refer to a person's subjective certainty about the truth of a belief, philosophers are primarily interested in the question of whether any beliefs ever attain objective certainty.
+The philosophical question of whether one can ever be truly certain about anything has been widely debated for centuries. Many proponents of philosophical skepticism deny that certainty is possible, or claim that it is only possible in a priori domains such as logic or mathematics. Historically, many philosophers have held that knowledge requires epistemic certainty, and therefore that one must have infallible justification in order to count as knowing the truth of a proposition. However, many philosophers such as René Descartes were troubled by the resulting skeptical implications, since all of our experiences at least seem to be compatible with various skeptical scenarios. It is generally accepted today that most of our beliefs are compatible with their falsity and are therefore fallible, although the status of being certain is still often ascribed to a limited range of beliefs (such as "I exist"). The apparent fallibility of our beliefs has led many contemporary philosophers to deny that knowledge requires certainty.
+
+
+== Ludwig Wittgenstein – 20th century ==
+
+On Certainty is a series of notes made by Ludwig Wittgenstein just prior to his death. The main theme of the work is that context plays a role in epistemology. Wittgenstein asserts an anti-foundationalist message throughout the work: that every claim can be doubted but certainty is possible in a framework. "The function [propositions] serve in language is to serve as a kind of framework within which empirical propositions can make sense".
+
+
+== Degrees of certainty ==
+
+Physicist Lawrence M. Krauss suggests that the need for identifying degrees of certainty is under-appreciated in various domains, including policy-making and the understanding of science. This is because different goals require different degrees of certainty – and politicians are not always aware of (or do not make it clear) how much certainty we are working with.Rudolf Carnap viewed certainty as a matter of degree ("degrees of certainty") which could be objectively measured, with degree one being certainty. Bayesian analysis derives degrees of certainty which are interpreted as a measure of subjective psychological belief.
+Alternatively, one might use the legal degrees of certainty. These standards of evidence ascend as follows: no credible evidence, some credible evidence, a preponderance of evidence, clear and convincing evidence, beyond reasonable doubt, and beyond any shadow of a doubt (i.e. undoubtable – recognized as an impossible standard to meet – which serves only to terminate the list).
+If knowledge requires absolute certainty, then knowledge is most likely impossible, as evidenced by the apparent fallibility of our beliefs.
+
+
+== Foundational crisis of mathematics ==
+
+The foundational crisis of mathematics was the early 20th century's term for the search for proper foundations of mathematics.
+After several schools of the philosophy of mathematics ran into difficulties one after the other in the 20th century, the assumption that mathematics had any foundation that could be stated within mathematics itself began to be heavily challenged.
+One attempt after another to provide unassailable foundations for mathematics was found to suffer from various paradoxes (such as Russell's paradox) and to be inconsistent.
+Various schools of thought were opposing each other. The leading school was that of the formalist approach, of which David Hilbert was the foremost proponent, culminating in what is known as Hilbert's program, which sought to ground mathematics on a small basis of a formal system proved sound by metamathematical finitistic means. The main opponent was the intuitionist school, led by L.E.J. Brouwer, which resolutely discarded formalism as a meaningless game with symbols. The fight was acrimonious. In 1920 Hilbert succeeded in having Brouwer, whom he considered a threat to mathematics, removed from the editorial board of Mathematische Annalen, the leading mathematical journal of the time.
+Gödel's incompleteness theorems, proved in 1931, showed that essential aspects of Hilbert's program could not be attained. In Gödel's first result he showed how to construct, for any sufficiently powerful and consistent finitely axiomatizable system – such as necessary to axiomatize the elementary theory of arithmetic – a statement that can be shown to be true, but that does not follow from the rules of the system. It thus became clear that the notion of mathematical truth cannot be reduced to a purely formal system as envisaged in Hilbert's program. In a next result Gödel showed that such a system was not powerful enough for proving its own consistency, let alone that a simpler system could do the job. This proves that there is no hope to prove the consistency of any system that contains an axiomatization of elementary arithmetic, and, in particular, to prove the consistency of Zermelo–Fraenkel set theory (ZFC), the system which is generally used for building all mathematics.
+However, if ZFC is not consistent, there exists a proof of both a theorem and its negation, and this would imply a proof of all theorems and all their negations. As, despite the large number of mathematical areas that have been deeply studied, no such contradiction has ever been found, this provides an almost certainty of mathematical results. Moreover, if such a contradiction would eventually be found, most mathematicians are convinced that it will be possible to resolve it by a slight modification of the axioms of ZFC.
+Moreover, the method of forcing allows proving the consistency of a theory, provided that another theory is consistent. For example, if ZFC is consistent, adding to it the continuum hypothesis or a negation of it defines two theories that are both consistent (in other words, the continuum is independent from the axioms of ZFC). This existence of proofs of relative consistency implies that the consistency of modern mathematics depends weakly on a particular choice on the axioms on which mathematics are built.
+In this sense, the crisis has been resolved, as, although consistency of ZFC is not provable, it solves (or avoids) all logical paradoxes at the origin of the crisis, and there are many facts that provide a quasi-certainty of the consistency of modern mathematics.
+
+
+== See also ==
+Almost surely
+Fideism
+Gut feeling
+Infallibility
+Justified true belief
+Neuroethological innate behavior, instinct
+Pascal's Wager
+Pragmatism
+Scientific consensus
+Skeptical hypothesis
+As contrary concepts
+Fallibilism
+Indeterminism
+Multiverse
+
+
+== References ==
+
+
+== External links ==
+
+ "Certitude". Catholic Encyclopedia. 1913.
+certainty, The American Heritage Dictionary of the English Language. Bartleby.com
+"certainty vs. doubt". About.com. Retrieved 2008-02-23.
+Reed, Baron. "Certainty". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+"Certainty". Internet Encyclopedia of Philosophy.
+The certainty of belief

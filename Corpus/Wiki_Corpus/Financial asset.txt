@@ -1,0 +1,28 @@
+A financial asset is a non-physical asset whose value is derived from a contractual claim, such as bank deposits, bonds, and participations in companies' share capital. Financial assets are usually more liquid than tangible assets, such as commodities or real estate.The opposite of financial assets is non-financial assets, which include both tangible property (sometimes also called real assets) such as land, real estate or commodities, and intangible assets such as intellectual property, including copyrights, patents, trademarks and data.
+
+
+== Types ==
+According to the International Financial Reporting Standards (IFRS), a financial asset can be:
+
+Cash or cash equivalent,
+Equity instruments of another entity,
+Contractual right to receive cash or another financial asset from another entity or to exchange financial assets or financial liabilities with another entity under conditions that are potentially favorable to the entity,
+A contract that will or may be settled in the entity's own equity instruments and is either a non-derivative for which the entity is or may be obliged to receive a variable number of the entity's own equity instruments, or a derivative that will or may be settled other than by exchange of a fixed amount of cash or another financial asset for a fixed number of the entity's own equity instruments.
+
+
+== Treatment of financial assets under IFRS ==
+Under IFRS, financial assets are classified into four broad categories which determine the way in which they are measured and reported:
+
+Financial assets "held for trading" — i.e., which were acquired or incurred principally for the purpose of selling, or are part of a portfolio with evidence of short-term profit-taking, or are derivatives — are measured at fair value through profit or loss.
+Financial assets with fixed or with determinable payments and fixed maturity which the company has to be willing and able to hold till maturity are classified as "held-to-maturity" investments. Held-to-maturity investments are either measured at fair value through profit or loss by designation, or determined to be financial assets available for sale by designation.
+Financial assets with fixed or determinable payments which are not listed in an active market are considered to be "loans and receivables". Loans and receivables are also either measured at fair value through profit or loss by designation or determined to be financial assets available for sale by designation.
+All other financial assets are categorized as financial assets "available for sale" and are measured at fair value through profit or loss by designation.For financial assets to be measured at fair value through profit or loss by designation, designation is only possible at the amount the asset was initially recognized at. Moreover, designation is not possible for equity instruments which are not traded in an active market and the fair value of which cannot be reliably determined. Further (alternative) requirements for designation are e.g. at least a clear diminution of a "mismatch" with other financial assets or liabilities, an internal valuation and reporting and steering at fair value, or a combined contract with an embedded derivative which is not immaterial and which may be separated. Regarding financial assets available for sale by designation, designation is only possible at the amount the asset was initially recognised at as well. However, there are no further restrictions or requirements.
+
+
+== See also ==
+Security (finance)
+Financial accounting
+Financial statements
+
+
+== References ==

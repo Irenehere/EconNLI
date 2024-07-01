@@ -1,0 +1,31 @@
+ScienceDirect is a website that provides access to a large bibliographic database of scientific and medical publications of the Dutch publisher Elsevier. It hosts over 18 million pieces of content from more than 4,000 academic journals and 30,000 e-books of this publisher. The access to the full-text requires subscription, while the bibliographic metadata is free to read. ScienceDirect is operated by Elsevier. It was launched in March 1997.
+
+
+== Usage ==
+The journals are grouped into four main sections:
+
+Physical Sciences and Engineering
+Life Sciences
+Health Sciences
+Social Sciences and Humanities.Article abstracts are freely available, and access to their full texts (in PDF and, for newer publications, also HTML) generally requires a subscription or pay-per-view purchase unless the content is freely available in open access.
+Subscriptions to the overall offering hosted on ScienceDirect, rather than to specific titles it carries, are usually acquired through a so called big deal. The other big five have similar offers.
+ScienceDirect also competes for audience with other large aggregators and hosts of scholarly communication content such as academic social network ResearchGate and open access repository arXiv, as well as with fully open access publishing venues and mega journals like PLOS.
+ScienceDirect also carries Cell.
+
+
+== See also ==
+List of academic databases and search engines
+Scopus
+
+
+== References ==
+
+
+== Further reading ==
+Boukacem-Zeghmouri, Chérifa; Bador, Pascal; Lafouge, Thierry; Prost, Hélène (2016). "Relationships between consumption, publication and impact in French universities in a value perspective: A bibliometric analysis" (PDF). Scientometrics. 106: 263–280. doi:10.1007/s11192-015-1779-z. S2CID 8897085.
+Emrani, Ebrahim; Moradi-Salari, A.; Jamali, Hamid R. (2013). "Usage data, e-journal selection and negotiations: Iranian consortium experience". hdl:10760/19670. {{cite journal}}: Cite journal requires |journal= (help)
+Gies, Ted (2018). "The Science Direct accessibility journey: A case study". Learned Publishing. 31: 69–76. doi:10.1002/leap.1142.
+
+
+== External links ==
+Official website

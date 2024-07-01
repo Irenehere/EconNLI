@@ -1,0 +1,44 @@
+In economics, the freshwater school (or sometimes sweetwater school) comprises US-based macroeconomists who, in the early 1970s, challenged the prevailing consensus in macroeconomics research.  A key element of their approach was the argument that macroeconomics had to be dynamic and based on how individuals and institutions interact in markets and make decisions under uncertainty.This new approach was centered in the faculties of the University of Chicago, Carnegie Mellon University, Stanford University, Cornell University, Northwestern University, the University of Minnesota, the University of Wisconsin-Madison and the University of Rochester. They were called the "freshwater school" because Chicago, Pittsburgh, Ithaca, Minneapolis, Madison, Rochester etc. are close to the North American Great Lakes.The established methodological approach to macroeconomic research was primarily defended by economists at the universities and other institutions near the east and west coasts of the United States. These included University of California, Berkeley, University of California, Los Angeles, Brown University, Duke University, Harvard University, MIT, University of Pennsylvania, Princeton University, Columbia University, and Yale University. They were therefore often called "saltwater schools".
+
+
+== History ==
+The terms "freshwater" and "saltwater" were first used in reference to economists by Robert E. Hall in 1976, to contrast the views of these two groups on macroeconomic research. More than anything else it was a methodological disagreement about to what extent researchers should employ the theory of economic decision making and how individuals and firms interact in markets when striving to account for aggregate ("macroeconomic") phenomena.
+In many respects, the saltwater-freshwater dichotomy no longer holds true. In his overview article from 2006, Greg Mankiw writes:
+
+An old adage holds that science progresses funeral by funeral. Today, with the benefits of longer life expectancy, it would be more accurate (if less vivid) to say that science progresses retirement by retirement. In macroeconomics, as the older generation of protagonists has retired or neared retirement, it has been replaced by a younger generation of macroeconomists who have adopted a culture of greater civility. At the same time, a new consensus has emerged about the best way to understand economic fluctuations. [...] Like the neoclassical-Keynesian synthesis of an earlier generation, the new synthesis attempts to merge the strengths of the competing approaches that preceded it.
+
+
+== Differences ==
+The differences in methodological approach to answer aggregate economic questions lead to different policy implications.
+
+
+=== Discretionary policies ===
+One of the main differences between so-called "freshwater economics" and "saltwater economics" were in their findings on the effects of and relative importance of structural and discretionary policies.
+An implication of saltwater economic theory was that the government has an important role to play in order to actively and discretionarily stabilize the economy over the business cycle through striving to fine-tune "aggregate demand".Researchers associated with the "freshwater school" found that government economic policies are of utmost importance for both the economy's abilities to respond to shocks and for its long-term potential to provide welfare to its citizens. These economic policies are the rules and structure of the economy. They might be how markets are regulated, what government insurance programs are provided, the tax system, and the degree of redistribution, etc.  Most researchers that have been associated with the "freshwater school" have, however, found it hard to identify mechanisms through which it is possible for governments to actively stabilize the economy through discretionary changes in aggregate public spending.
+
+
+=== Internal model consistency ("rational expectations") ===
+Another important difference between so-called "freshwater economics" and "saltwater economics" is what is required from an economic model and, in particular, about the internal consistency of the economic model.
+In general, "saltwater economists" insist less on internal model consistency than freshwater economists. Typically, they find "examples of irrational behavior interesting and important." Like behavioral psychologists, they tend to be interested in situations where individuals and groups behave in a seemingly boundedly rational way.
+In contrast, freshwater economists have in general been interested in accounting for the behaviour of large groups of people interacting in markets, and believe that understanding market failures requires framing problems that way.
+
+
+=== Fiscal policy ===
+
+"Saltwater Keynesian economists" argue that business cycles represent market failures, and should be counteracted through discretionary changes in aggregate public spending and the short-term nominal interest rate.
+"Freshwater economists" often reject the effectiveness of discretionary changes in aggregate public spending as a means to efficiently stabilize business cycles.  Economists loosely associated with the "freshwater school" have found that market failures might be important both as a cause of and as amplification and propagation of business cycles. However, it does not follow from these findings that governments can effectively mitigate business cycles fluctuations through discretionary changes in aggregate public spending or the short-term nominal interest rate. Instead they find, in general, that government policies would be more effective if they concentrate on structural reforms that target identified market failures. These economists also emphasize that the government budget constraint is the unavoidable accounting identity and connection between deficits, debt, and inflation.
+
+
+== See also ==
+Freshwater theories
+Saltwater theories
+GeneralSchools of economic thought
+Chicago school of economics
+
+
+== Notes ==
+
+
+== External links ==
+The State of Economics:The other-worldly philosophers in The Economist.com.
+Background on "fresh water" and "salt water" macroeconomics, by Robert Waldmann

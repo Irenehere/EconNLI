@@ -1,0 +1,26 @@
+In economics, perfect information (sometimes referred to as "no hidden information") is a feature of perfect competition. With perfect information in a market, all consumers and producers have complete and instantaneous knowledge of all market prices, their own utility, and own cost functions.
+In game theory, a sequential game has perfect information if each player, when making any decision, is perfectly informed of all the events that have previously occurred, including the "initialization event" of the game (e.g. the starting hands of each player in a card game).Perfect information is importantly different from complete information, which implies common knowledge of each player's utility functions, payoffs, strategies and "types". A game with perfect information may or may not have complete information.
+Games where some aspect of play is hidden from opponents – such as the cards in poker and bridge – are examples of games with imperfect information.
+
+
+== Examples ==
+Chess is an example of a game with perfect information, as each player can see all the pieces on the board at all times. Other games with perfect information include tic-tac-toe, Reversi, checkers, and Go.Academic literature has not produced consensus on a standard definition of perfect information which defines whether games with chance, but no secret information, and games with simultaneous moves are games of perfect information.Games which are sequential (players alternate in moving) and which have chance events (with known probabilities to all players) but no secret information, are sometimes considered games of perfect information. This includes games such as backgammon and Monopoly. But there are some academic papers which do not regard such games as games of perfect information because the results of chance themselves are unknown prior to them occurring.Games with simultaneous moves are generally not considered games of perfect information. This is because each player holds information which is secret, and must play a move without knowing the opponent's secret information. Nevertheless, some such games are symmetrical, and fair. An example of a game in this category includes rock paper scissors.
+
+
+== See also ==
+Extensive form game
+Information asymmetry
+Partial knowledge
+Screening game
+Signaling game
+
+
+== References ==
+
+
+== Further reading ==
+Fudenberg, D. and Tirole, J. (1993) Game Theory, MIT Press. (see Chapter 3, sect 2.2)
+Gibbons, R. (1992) A primer in game theory, Harvester-Wheatsheaf. (see Chapter 2)
+Luce, R.D. and Raiffa, H. (1957) Games and Decisions: Introduction and Critical Survey, Wiley & Sons (see Chapter 3, section 2)
+The Economics of Groundhog Day by economist D.W. MacKenzie, using the 1993 film Groundhog Day to argue that perfect information, and therefore perfect competition, is impossible.
+Watson, J. (2013) Strategy: An Introduction to Game Theory, W.W. Norton and Co.

@@ -1,0 +1,71 @@
+Enterprise value (EV), total enterprise value (TEV), or firm value (FV) is an economic measure reflecting the market value of a business (i.e. as distinct from market price). It is a sum of claims by all claimants: creditors (secured and unsecured) and shareholders (preferred and common). Enterprise value is one of the fundamental metrics used in business valuation, financial analysis, accounting, portfolio analysis, and risk analysis.
+Enterprise value is more comprehensive than market capitalization, which only reflects common equity. Importantly, EV reflects the opportunistic nature of business and may change substantially over time because of both external and internal conditions. Therefore, financial analysts often use a comfortable range of EV in their calculations.
+
+
+== EV equation ==
+For detailed information on the valuation process see Valuation (finance).
+
+Enterprise value =
+common equity at market value (this line item is also known as "market cap")
++ debt at market value (here debt refers to interest-bearing liabilities, both long-term and short-term)
++ minority interest at market value, if any
++ preferred equity at market value
++ unfunded pension liabilities and other debt-deemed provisions
+– value of associate companies
+– cash and cash equivalents.
+
+
+== Understanding ==
+A simplified way to understand the EV concept is to envision purchasing an entire business. If you settle with all the security holders, you pay EV. Counterintuitively, increases or decreases in enterprise value do not necessarily correspond to "value creation" or "value destruction". Any acquisition of assets (whether paid for in cash or through share issues) will increase EV, whether or not those assets are productive. Similarly, reductions in capital intensity (for example by reducing working capital) will reduce EV.
+EV can be negative if the company, for example, holds abnormally high amounts of cash that are not reflected in the market value of the stock and total capitalization.All the components are relevant in liquidation analysis, since using absolute priority in bankruptcy all securities senior to the equity have par claims. Generally, also, debt is less liquid than equity, so the "market price" may be significantly different from the price at which an entire debt issue could be purchased. In valuing equities, this approach is more conservative than using the "market price". 
+Cash is subtracted because it reduces the net cost to a potential purchaser. The effect applies whether the cash is used to issue dividends or to pay down debt.
+Value of minority interest is added because it reflects the claim on assets consolidated into the firm in question.
+Value of associate companies is subtracted because it reflects the claim on assets consolidated into other firms.
+EV should also include such special components as unfunded pension liabilities, employee stock options, environmental provisions, abandonment provisions, and so on since they also reflect claims on the company.
+There are certain limitations and traps in using enterprise value. One of which can be a simplified aggregation of company's financial situation. One unit of additional debt may not be of same importance as additional one unit of missing cash.It can be demonstrated that enterprise value depends on the probability of default (the rating) and works as a "negative growth rate" in the future.
+
+
+== Usage ==
+Because EV is a capital structure-neutral metric, it is useful when comparing companies with diverse capital structures. Price/earnings ratios, for example, will be significantly more volatile in companies that are highly leveraged.
+Stock market investors use EV/EBITDA to compare returns between equivalent companies on a risk-adjusted basis.  They can then superimpose their own choice of debt levels.  In practice, equity investors may have difficulty accurately assessing EV if they do not have access to the market quotations of the company debt.  It is not sufficient to substitute the book value of the debt because a) the market interest rates may have changed, and b) the market's perception of the risk of the loan may have changed since the debt was issued.  Remember, the point of EV is to neutralize the different risks, and costs of different capital structures.
+Buyers of controlling interests in a business use EV to compare returns between businesses, as above. They also use the EV valuation (or a debt free cash free valuation) to determine how much to pay for the whole entity (not just the equity) since the change of control may require debt repayment. They may also want to change the capital structure once in control.
+
+
+== Technical considerations ==
+
+
+=== Data availability ===
+Unlike market capitalization, where both the market price and the outstanding number of shares in issue are readily available and easy to find, it is virtually impossible to calculate an EV without making a number of adjustments to published data, including often subjective estimations of value:
+
+The vast majority of corporate debt is not publicly traded. Most corporate debt is in the form of bank financing, finance leases and other forms of debt for which there is no market price.
+Associates and minority interests are stated at historical book values in the accounts, which may be very different from their market values.
+Unfunded pension liabilities rely on a variety of actuarial assumptions and represent an estimate of the outstanding liability, not a true “market” value.
+Public data for certain key inputs of EV, such as cash balances, debt levels and provisions are only published infrequently (often only once a year in the annual report & accounts of the company).
+Published accounts are only disclosed weeks or months after the year-end date, meaning that the information disclosed is already out of date.In practice, EV calculations rely on reasonable estimates of the market value of these components. For example, in many professional valuations:
+
+Unfunded pension liabilities are valued at face value as set out in notes to the latest available accounts.
+Debt that is not publicly traded is usually taken at face value, unless the company is highly geared (in which case a more sophisticated analysis is required).
+Associates & minority interests are usually valued either at book value or as a multiple of their earnings.
+
+
+=== Avoiding temporal mismatches ===
+When using valuation multiples such as EV/EBITDA and EV/EBIT, the numerator should correspond to the denominator. In other words, the profitability metric in the denominator should be available to all stakeholders represented in the numerator. The EV should, therefore, correspond to the market value of the assets that were used to generate the profits in question, excluding assets acquired (and including assets disposed) during a different financial reporting period. This requires restating EV for any mergers and acquisitions (whether paid in cash or equity), significant capital investments or significant changes in working capital occurring after or during the reporting period being examined. Ideally, multiples should be calculated using the market value of the weighted average capital employed of the company during the comparable financial period.
+When calculating multiples over different time periods (e.g. historic multiples vs forward multiples), EV should be adjusted to reflect the weighted average invested capital of the company in each period.
+
+
+== See also ==
+DCF, discounted cash flow method of valuation
+Capital structure
+WACC, weighted average cost of capital
+Social accounting
+Residual income valuation
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Investopedia Video: Introduction To Enterprise Value

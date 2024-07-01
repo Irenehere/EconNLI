@@ -1,0 +1,77 @@
+In macroeconomics and finance, a transfer payment (also called a government transfer or simply fiscal transfer) is a redistribution of income and wealth by means of the government making a payment, without goods or services being received in return. These payments are considered to be non-exhaustive because they do not directly absorb resources or create output. Examples of transfer payments include welfare, financial aid, social security, and government subsidies for certain businesses.
+Unlike the exchange transaction which mutually benefits all the parties involved in it, the transfer payment consists of a donor and a recipient, with the donor giving up something of value without receiving anything in return. Transfers can be made both between individuals and entities, such as private companies or governmental bodies. These transactions can be both voluntary or involuntary and are generally motivated either by the altruism of the donor or the malevolence of the recipient.For the purpose of calculating gross domestic product (GDP), government spending does not include transfer payments, which are the reallocation of money from one party to another rather than expenditure on newly produced goods and services.
+
+
+== Criticism ==
+A criticism of transfer payments is that they do not produce outcomes that are economically advantageous. Governments pool taxes and other sources of revenue together and spend the money to further a certain agenda. Some of the spending pays for goods and services, such as buildings, equipment, and government worker salaries. These expenditures are exchanges in which money is traded for something with a recognized value. The payments may be viewed as boosting industrial activity and employment. However, government transfer payments do not boost production or economic activity. For example, foreign aid does not necessarily prompt foreign trade. Additionally, some argue that welfare programs, such as unemployment benefits, reduce incentives to take paid work.
+Furthermore, the macroeconomic effect of transfer payments is reduced in the lower income countries and regions/states. The reasons for such disparity are the following:
+the level of transfer payments is subject to the fiscal capacities of the administering entity
+the size of transfer payments is generally dependent on the previous earnings of the beneficiary
+largest share of transfer payments is typically administered to the older age groups, which constitute to a smallest share of population of the lower income countries, regions or states
+
+
+== Methods of payment ==
+
+
+=== Cash ===
+
+More than 100 million poor people worldwide receive a government transfer payment. It is estimated that 90% of high-income nations make these payments via electronic transfer methods, whereas over half of the world's developing countries utilizes paper payments such as cash or checks. Transfer payment via cash is the most popular method of transferring benefits to beneficiaries. However, cash transfer programs are constrained by three factors: financial resources, institutional capacity, and ideology, particularly in countries in the Global South. Many governments in poorer countries, where cash transfers could potentially have the most impressive impact, are often unwilling to implement such programmes due to fears of inflation and more importantly, dependency on the transfers.
+
+
+=== In-kind transfer ===
+In-kind transfer payments consist of individual goods and services provided to households by governmental bodies and non-profit institutions serving households (NPISHs), which are either acquired on the market or produced as non-market output by governmental bodies or NPISHs.The items included are:
+
+Social security benefits, reimbursements
+Other social security benefits in kind (e.g. food stamps)
+Social assistance benefits in kind
+Transfers of individual non-market goods or services
+
+
+== Social security benefit ==
+Primarily, social security benefits are designed to provide income continuity to those persons who have retired from labour force because of either inability to work (physical disability or mental trauma), to find employment or due to old age (retirement).
+These include, but are not limited to:
+Unemployment compensations
+Old age insurance
+Civil service pensions
+State and local government pensions
+Survivors benefits
+Supplemental Security Income
+
+
+== Around the globe ==
+
+
+=== Australia ===
+In Australia, the horizontal fiscal imbalance arises because of the mismatch between the tax revenues and government expenses for the various state and territorial governments.  This imbalance is addressed by a horizontal fiscal equalisation (HFE) policy overseen by the Commonwealth Grants Commission.
+
+
+=== Canada ===
+In Canada, Federal-Provincial transfers usually refer to a system of payments from the federal government to the provinces as part of Canada's "fiscal federalism" through explicit and implicit redistribution. These transfers are intended to assist provinces with less fiscal capacity than others in providing comparable public services in all regions, including health and education. Transfers include explicit programs such as equalization payments, Canada Health Transfer (CHT) and the Canada Social Transfer (CST) (formerly the Canada Health and Social Transfer) and Territorial Formula Financing. There are also implicit transfers that result from federal taxation and spending decisions and policies.Canada's transfer payments originated in the British North America Act (1867)'s Sections 118 as provincial subsidies. By 1907, these payments were altered as new provinces joined the Dominion. In a 1957 arrangement, poorer provinces received annual payments: Prince Edward Island received $2.5 million and the three provinces, Newfoundland, Nova Scotia, and New Brunswick each received $7.5 million. These payments ended and were rolled into the 1967 equalization program intended to "enable each province to provide an adequate level of public services without resort to rates of taxation substantially higher than those of other provinces."In Canada, transfers payments are contentious and equalization formulas are often revised. Implicit transfers through federal taxation, for example, are greater in higher income provinces such as British Columbia, Alberta, Saskatchewan, and Ontario and lower in provinces such as Manitoba, Quebec, and the Atlantic provinces. Canada measures average fiscal capacity of each province which varies widely. Alberta is the highest at $12,577 per person and PEI is the lowest at $6,013 per person. In 2016 federal income tax in Alberta was more than $8,000 compared to less than $3,000 in PEI. All provinces pay the same federal tax rates.Economist Trevor Tombe's wrote that by 2018, transfer payments had become "complex arrangements" that are much larger than the original subsidies and are "more equally distributed". By 2018, inter-provincial redistribution has decreased to less than 2% of Canada's GDP, its lowest in 60 years. In the early 1980s it was 3.5%.
+
+
+=== China ===
+Since July 2011, existing regional and local social security schemes, including pooling arrangements, are gradually being unified under the country's first national law on social transfer payments. The government aims to establish a comprehensive, equitable, and unified pension system that covers both urban and rural residents by 2020. In 2016, the government decided to establish a unified health insurance system for both rural and non-salaried urban residents. The government has also announced that medical insurance and maternity insurance programs will be merged.
+
+
+=== India ===
+India has four types of social transfer payments – old age and disability benefits, sickness and maternity benefits, work injury transfers, and unemployment benefits. Most sources of payments are employers (via provident funds), and the government.
+
+
+=== United States ===
+The U.S. still utilizes paper transfer payments in its Social Security administration as many recipients, particularly those in lower-income categories, are unbanked, i.e. do not have a bank account to facilitate direct deposits. However, the U.S. has been able to implement electronic transfer systems in its food stamps and education assistance programs.
+
+
+== See also ==
+Barnett formula
+Government budget
+Public finance
+Transfer payments multiplier
+Welfare state
+Workfare
+
+
+== References ==
+
+
+== External links ==
+Department of Finance (Canada): Federal Transfers to Provinces and Territories

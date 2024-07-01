@@ -1,0 +1,38 @@
+A quantitative fund is an investment fund that uses quantitative investment management instead of fundamental human analysis.
+
+
+== Investment process ==
+See Outline of finance  § Quantitative investing for a listing of relevant articles.An investment process is classified as quantitative when investment management is fully based on the use of mathematical and statistical methods to make investment decisions. If investment decisions are based on fundamental analysis and human judgement, the process is classified as fundamental. The quantitative investment process, essentially, breaks down into three key components:
+
+Input system: Providing all necessary inputs such as market data and rules (see financial data vendor);
+Forecasting engine: Generating estimations for prices and returns and also, risk parameters;
+Portfolio construction engine: portfolio composition using optimizers or a heuristics-based system (see Portfolio optimization and Mathematical tools).Quantitative portfolio managers and quantitative analysts usually require a strong background in mathematics and computer science, besides knowledge of the academic financial literature. Many quantitative specialists have a PhD in Financial Economics, Engineering or Mathematics. In depth knowledge is needed to as the investment algorithms employ advanced optimization methods using the latest academic insights. Statistical models are used to explore profits that may be made out of systematic market abnormalities which can be very fast such and requires high-frequency trading, but can also be slower requiring less turnover when the alpha is based on factor investing.
+
+
+== History and performance ==
+Hedge funds have been driving the growth of quantitative funds over the past decades. A good description of the history of hedge funds can be found in the book  "More Money than God". Several of these early funds were quantitatively managed. Over the past two decades quantitatively managed funds have become popular as an increasing number of asset managers adopted quantitative investing and launched a wide range mutual funds as well as exchange traded funds. Most quantitative funds are equity funds, besides fixed income quantitative funds which have become more popular in the past years. After the sub-prime mortgage market turbulence, which cast long shadows over many parts of the financial industry, the total mutual fund asset that employ quantitative model is estimated to be over US$400 billion at the end of June 2016.  As of 2019 the figure was to surpass the $1tn management mark in 2018. Quantitative investing accounts for 16 percent of actively managed assets in the U.S. in 2006, up from 13 percent in 2003, according to Vanguard.Many quantitative funds were able to deliver high long-term risk-adjusted returns profiting from the positive exposure of factors such as value, momentum, low-volatility and quality. This positive performance gave rise to the further growth of quantitative funds. Performance of several well-known quant factors was weak in the period 2018-2020, a period also referred to as the 'quant winter'.
+
+
+== Fund structures ==
+Quantitative strategies are offered in different type of fund structures: 
+
+Hedge fund. The first quantitative funds were offered as hedge funds and not available to a broad public. The goal of those funds is to earn an absolute return with little constraints and freedom to apply leverage, shorting and derivatives.
+Mutual fund. With the increasing popularity of quant investing, quant strategies were also wrapped into mutual funds. Quant mutual funds aim to deliver alpha on top of a benchmark usually a stock market index.
+Exchange traded fund (ETF). After hedge funds and mutual funds, quant strategies were also wrapped into exchange traded funds usually tracking a rules-based factor-based index. These strategies are also referred to as 'smart-beta' strategies.Hedge funds have most investment freedom and can employ varieties of strategies such as market neutral, statistical arbitrage, or high-frequency trading strategies to enhance the return of one's portfolio, whereas ETFs are most constrained. 
+
+
+== List of notable quantitative funds ==
+The following firms are known for their quantitative funds. 
+
+The largest asset managers such as 'big three' BlackRock, State Street, and Vanguard also offer quantitative funds to investors.
+
+
+== See also ==
+Value investing
+Momentum investing
+Low-volatility investing
+Factor investing
+Growth investing
+
+
+== References ==

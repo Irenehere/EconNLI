@@ -1,0 +1,38 @@
+Addison–Wesley is an American publisher of textbooks and computer literature. It is an imprint of Pearson plc, a global publishing and education company. In addition to publishing books, Addison–Wesley also distributes its technical titles through the O'Reilly Online Learning e-reference service. Addison–Wesley's majority of sales derive from the United States (55%) and Europe (22%).The Addison–Wesley Professional Imprint produces content including books, eBooks, and video for the professional IT worker including developers, programmers, managers, system administrators.  Classic titles include The Art of Computer Programming, The C++ Programming Language, The Mythical Man-Month, and Design Patterns.
+
+
+== History ==
+Lew Addison Cummings and Melbourne Wesley Cummings founded Addison–Wesley in 1942, with the first book published by Addison–Wesley being Massachusetts Institute of Technology professor Francis Weston Sears' Mechanics.
+Its first computer book was Programs for an Electronic Digital Computer, by Wilkes, Wheeler, and Gill. In 1977, Addison–Wesley acquired W. A. Benjamin Company, and merged it with the Cummings division of the company to form Benjamin Cummings. It was purchased by the global publishing and education company Pearson PLC in 1988 and became part of Addison Wesley Longman in 1994. The trade publishing division of Addison–Wesley was sold to Perseus Books Group in 1997, leaving Addison–Wesley as solely an educational publisher. Pearson acquired the educational division of Simon & Schuster in 1998, and merged it with Addison Wesley Longman to form Pearson Education and subsequently rebranded to Pearson in 2011. Pearson moved the former Addison Wesley Longman offices from Reading, Massachusetts, to Boston in 2004. Its current executives hail from the original Addison–Wesley with a storied history of their own.
+
+
+== Notable books ==
+Addison–Wesley Secondary Math: An Integrated Approach: Focus on Algebra
+The Art of Computer Programming by Donald Knuth
+The Feynman Lectures on Physics by Richard Feynman, Robert B. Leighton, and Matthew Sands
+Alonso, M.; Finn, E.J. (1968). Fundamental University Physics Volume. Addison–Wesley. ISBN 978-0-201-00262-1.
+Concrete Mathematics: A Foundation For Computer Science by Ronald Graham, Donald Knuth, and Oren Patashnik
+Evolutionary Biology by Dr. Eli C. Minkoff
+Programming Pearls by Jon Bentley
+Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+The C++ Programming Language by Bjarne Stroustrup
+Hacker's Delight by Henry S. Warren, Jr.
+Exploratory Data Analysis (see) by John W. Tukey, based on a course taught at Princeton.
+The Mythical Man-Month by Fred P. Brooks. Jr.
+Advanced Programming in the UNIX Environment and TCP/IP Illustrated by W. Richard Stevens
+Iron John: A Book About Men by Robert Bly
+Theory Z by William G. Ouchi
+The Nature of Prejudice by Gordon W. Allport
+
+
+== Former imprints ==
+Merloyd Lawrence Books
+
+
+== References ==
+
+
+== External links ==
+Official site (education)
+Official site (professional)
+Official site (Germany) Archived 2016-01-09 at the Wayback Machine

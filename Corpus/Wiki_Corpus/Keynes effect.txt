@@ -1,0 +1,11 @@
+The Keynes effect is the effect that changes in the price level have upon goods market spending via changes in interest rates. As prices fall, a given nominal money supply will be associated with a larger real money supply, causing interest rates to fall and in turn causing investment spending on physical capital to increase.
+This implies that insufficient demand in the product market cannot exist forever, because insufficient demand will cause a lower price level, resulting in increased demand.
+There are two cases in which the Keynes effect does not occur: in the liquidity trap (when the LM curve is horizontal and thus changes in the real money supply do not affect interest rates), and when expenditure is inelastic with respect to (unresponsive to) interest rates (when the IS curve is vertical). The Patinkin-Pigou real balance effect suggests that due to wealth effects of changes in the price level upon spending itself, insufficient demand cannot persist even in the two cases in which the Keynes effect does not operate.
+
+
+== See also ==
+Pigou effect
+John Maynard Keynes
+
+
+== References ==

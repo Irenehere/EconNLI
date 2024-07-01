@@ -1,0 +1,69 @@
+Asset management is a systematic approach to the governance and realization of all value for which a group or entity is responsible. It may apply both to tangible assets (physical objects such as complex process or manufacturing plants, infrastructure, buildings or equipment) and to intangible assets (such as intellectual property, goodwill or financial assets). Asset management is a systematic process of developing, operating, maintaining, upgrading, and disposing of assets in the most cost-effective manner (including all costs, risks, and performance attributes).Theory of asset management primarily deals with the periodic matter of improving, maintaining or in other circumstances assuring the economic and capital value of an asset over time. The term is commonly used in engineering, the business world, and public infrastructure sectors to ensure a coordinated approach to the optimization of costs, risks, service/performance, and sustainability. The term has traditionally been used in the financial sector to describe people and companies who manage investments on behalf of others. Those include, for example, investment managers who manage the assets of a pension fund.
+The ISO 55000 series of standards, developed by ISO TC 251, are the international standards for Asset Management. ISO 55000 provides an introduction and requirements specification for a management system for asset management. The ISO 55000 standard defines an asset as an "item, thing or entity that has potential or actual value to an organization". ISO 55001 specifies requirements for an asset management system within the context of the organization, and ISO 55002 gives guidelines for the application of an asset management system, in accordance with the requirements of ISO 55001.
+
+
+== By industry ==
+
+
+=== Financial asset management ===
+The most frequent usage of the term portfolio manager (asset manager) refers to investment management, the sector of the financial services industry that manages investment funds and segregated client accounts. Asset management is part of a financial company that employs experts who manage money and handle the investments of clients. This is done either actively or passively.
+
+Active asset management: involves active tasks such as studying the client's assets to planning and looking after the investments, all things are looked after by the asset managers, and recommendations are provided based on the financial health of each client. Active asset management comes at a higher price to investors because more work is involved.Passive asset management: assets are allocated to mirror a market or a sector index. Unlike active asset management, passive asset management is a lot less laborious. It is also less tailored, requires less looking after, and consequently is cheaper for investors.
+
+
+=== Physical and Infrastructure asset management ===
+
+Physical and Infrastructure asset management is the combination of management, financial, economic, engineering, and other practices applied to physical assets to provide the best value level of service for the costs involved. It includes the management of the entire life cycle—including design, construction, commissioning, operating, maintaining, repairing, modifying, replacing, and decommissioning/disposal—of physical and infrastructure assets. Operation and maintenance of assets in a constrained budget environment require a prioritization scheme. As a way of illustration, the recent development of renewable energy has seen the rise of effective asset managers involved in the management of solar systems (solar parks, rooftops, and windmills). These teams often collaborate with financial asset managers in order to offer turnkey solutions to investors. 
+Infrastructure asset management became very important in most of the developed countries in the 21st century, since their infrastructure network was almost completed in the 20th century and they have to manage to operate and maintain them cost-effectively.Physical, or Infrastructure Asset Management is a growing specialist engineering discipline, with many international technical societies now established to advance knowledge in this area, including the Engineers Australia technical society of the Asset Management Council (AMC), the World Partners in Asset Management (WPiAM), Society for Maintenance and Reliability Professionals (SMRP), the Institute of Asset Management (IAM), the International Society of Engineering Asset Management (ISEAM), and the Global Forum on Maintenance and Asset Management (GFMAM).
+
+
+=== Engineering asset management ===
+Engineering asset management is a more recent term that is used to describe the management of complex physical assets, a specific engineering practice that is concerned with optimizing assets, in the context of the organizations goals and objectives, through using multidiscipline engineering methodologies, and Terotechnology (which includes management, engineering, and financial expertise), to balance cost, risk, and performance.
+Engineering asset management includes multiple engineering disciplines, including but not limited to Maintenance engineering, Systems engineering, Reliability engineering, Process safety management, Industrial engineering, and Risk analysis (engineering). Engineering asset management is a term synonymous with physical and infrastructure asset management, it is used to describe management of more complex physical assets which require the application of specialist asset management engineering methods over their life-cycles in order to maximize value for their owners, whilst keeping risk to an acceptable level.
+
+
+=== Software asset management ===
+Software asset management is one kind of infrastructure asset management.
+
+
+=== International Standard series on Asset Management ===
+The International Organization for Standardization published its management system standard for asset management in 2014. The ISO 55000 series provides terminology, requirements, and guidance for implementing, maintaining and improving an effective asset management system. The key to forming a structure of this sort is directly connected to local governance. 
+
+Physical asset management: the practice of managing the entire life cycle (design, construction, commissioning, operating, maintaining, repairing, modifying, replacing, and decommissioning/disposal) of physical and infrastructure assets such as structures, production, and service plant, power, water, and waste treatment facilities, distribution networks, transport systems, buildings, and other physical assets.  The increasing availability of data from asset systems is allowing the principles of Total Cost of Ownership to be applied to facility management of an individual system, a building, or across a campus.  Physical asset management is related to asset health management.
+Infrastructure asset management expands on this theme in relation primarily to the public sector, utilities, property, and transport systems. Additionally, Asset Management can refer to shaping the future interfaces between the human, built, and natural environments through collaborative and evidence-based decision processes
+Fixed assets management: an accounting process that seeks to track fixed assets for financial accounting
+IT asset management: the set of business practices that join financial, contractual, and inventory functions to support life cycle management and strategic decision making for the IT environment.
+Digital asset management: a form of electronic media content management that includes digital assets
+
+
+=== Enterprise asset management ===
+Enterprise asset management (EAM) systems are asset information systems that support the management of an organization's assets.   An EAM includes an asset registry (inventory of assets and their attributes) combined with a computerized maintenance management system (CMMS) and other modules (such as inventory or materials management). Assets that are geographically distributed, interconnected or networked, are often also represented through the use of geographic information systems (GIS).
+GIS-centric asset registry standardizes data and improves interoperability, providing users the capability to reuse, coordinate, and share information efficiently and effectively. A GIS platform combined with information of both the "hard" and "soft" assets helps to remove the traditional silos of departmental functions. While the hard assets are the typical physical assets or infrastructure assets, the soft assets might include permits, licenses, brands, patents, right-of-ways, and other entitlements or valued items.
+The EAM system is only one of the 'enablers' of good asset management.  Asset managers need to make informed decisions to fulfill their organizational goals, this requires good asset information but also leadership, clarity of strategic priorities, competencies, inter-departmental collaboration and communications, workforce, and supply chain engagement, risk and change management systems, performance monitoring, and continual improvement.
+
+
+=== Public asset management ===
+Public asset management expands the definition of enterprise asset management (EAM) by incorporating the management of all things of value to a municipal jurisdiction and its citizens' expectations. An example in which public asset management is used is land-use development and planning.
+
+
+== Intellectual and non-physical asset management ==
+Increasingly both consumers and organizations use assets, e.g. software, music, books, etc. where the user's rights are constrained by a license agreement. An asset management system would identify the constraints upon such licenses, e.g. a period. If, for example, one licenses software, often the license is for a given period. Adobe and Microsoft both offer time-based software licenses. In both the corporate and consumer worlds, there is a distinction between software ownership and the updating of software. One may own a version of the software, but not newer versions of the software. Cellular phones are often not updated by vendors, in an attempt to force a purchase of newer hardware. Large companies such as Oracle, that license software to clients distinguish between the right to use and the right to receive maintenance/support.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Baird, G. "Defining Public Asset Management for Municipal Water Utilities". Journal American Water Works Association May 2011, 103:5:30, www.awwa.org
+Global Forum on Maintenance and Asset Management "The asset Management Landscape - Second Edition". Gfmam.org March 2014, gfmam.org/webform/download-the-am-landscape-v2
+SEBOK.org, Systems Engineering Body of Knowledge (SEBoK)
+
+
+== External links ==
+ISO/TC 251 - ISO Asset Management Information
+ISO page for ISO 55000
+IAM page for an introduction to Asset Management
+Stages in IT Asset Lifecycle Management

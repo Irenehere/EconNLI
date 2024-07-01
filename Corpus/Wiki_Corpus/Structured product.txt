@@ -1,0 +1,101 @@
+A structured product, also known as a market-linked investment, is a pre-packaged structured finance investment strategy based on a single security, a basket of securities, options, indices, commodities, debt issuance or foreign currencies, and to a lesser extent, derivatives.
+Structured products are not homogeneous — there are numerous varieties of derivatives and underlying assets — but they can be classified under the aside categories.
+Typically, a desk will employ a specialized "structurer" to design and manage its structured-product offering.
+
+
+== Formal definitions ==
+U.S. Securities and Exchange Commission (SEC) Rule 434 (regarding certain prospectus deliveries) defines structured securities as "securities whose cash flow characteristics depend upon one or more indices or that have embedded forwards or options or securities where an investor's investment return and the issuer's payment obligations are contingent on, or highly sensitive to, changes in the value of underlying assets, indices, interest rates or cash flows".
+
+
+== Utility ==
+From the investor's point of view, the concept of structuring means customizing a specified return stream; 
+structured products can be used as an alternative to a direct investment, as part of the asset allocation process to reduce risk exposure of a portfolio, or to utilize the current market trend. From the issuer's point of view, structuring means that a number of existing financial products are combined to achieve the client's desired return function. Theoretically an investor can do this themselves, but the cost and transaction volume requirements of many options and swaps are beyond many individual investors. As such, structured products were created to meet specific needs that cannot be met from the standardized financial instruments available in the markets. The more outlandish the idea and with less time to play out, the cheaper pricing will naturally be (see moneyness).
+Two typical use cases:
+
+An investor dislikes a specific stock and does not want to hold it in their portfolio, but knows how much regret a 20 percent rise in the stock would cause. Therefore, the investor chooses to purchase a structured product on the stock instead: an agreement ('contract', 'certificate', 'note') with another entity (e.g. a bank) that pays out the full return on the given stock, but only if the stock surpasses a specified threshold, such as this 20%, over a specified time period. This product is known as a market-linked note. Numerous combinations of conditions and assets are available to construct this, see below, and the pricing is then based on past likelihoods and actual occurrences, and current market expectations of such returns happening over such timespans given the agreed constraints.
+A feature of some structured products is a principal guarantee function, which offers protection of principal if held to maturity.  For example, an investor invests $100, the issuer simply invests in a risk-free bond that has sufficient interest to grow to $100 after the five-year period. This bond might cost $80 today and after five years it will grow to $100. With the remaining funds, the issuer purchases the options and swaps needed to perform whatever the investment strategy calls for. See structured note.
+
+
+== Origin ==
+Structured investments arose from the needs of companies that want to issue debt more cheaply. This could have been done by issuing a convertible bond—i.e., debt that could be converted to equity under certain circumstances. In exchange for the potential for a higher return (if the equity value would increase and the bond could be converted at a profit), investors would accept lower interest rates in the meantime. However, the worth of this tradeoff is debatable, as the movement of the company's equity value could be unpredictable.
+Investment banks then decided to add features to the basic convertible bond, such as increased income in exchange for limits on the convertibility of the stock, or principal protection. These extra features were all strategies investors could perform themselves using options and other derivatives, except that they were prepackaged as one product. The goal was again to give investors more reasons to accept a lower interest rate on debt in exchange for certain features. On the other hand, the goal for investment banks was to increase profit margins since the newer products with added features were harder to value, and thus harder to gauge bank profits.Interest in these investments has been growing in recent years, and high-net-worth investors now use structured products as way of portfolio diversification. Nowadays the product range is very wide, and reverse convertible securities represent the other end of the product spectrum (yield enhancement products). Structured products are also available at the mass retail level—particularly in Europe, where national post offices, and even supermarkets, sell investments on these to their customers; these are referred to as PRIIPs.Structured product business, as a key part of customer-driven derivatives business, has changed dramatically in recent years. Its modern setup requires a comprehensive understanding of:
+
+Prevailing regulatory environment, specifically existing and forthcoming regulations including MiFID II, KYC, PRIIPs-KIDs, etc.
+Principles of risk-based capital/liquidity requirements specified by Basel III, FRTB, etc.
+Real-life quantitative pricing models able to handle multi-curve environments, volatility smile/skew, etc.
+Structured product payoff features and their risk characteristics, as above
+Structured product manufacture process, and the "derivatives business" value chain - i.e. linking trading, structuring, quantitative modelling and risk management
+Structured product distribution channels, product wrappers, impact of e-platforms
+
+
+== Product design and manufacture ==
+Structured products aspire to provide investors with highly targeted investments tied to their specific risk profiles, return requirements and market expectations.
+Benefits of structured products may include:
+
+Principal protection, as above (depending on the type of structured product)
+Tax-efficient access to fully taxable investments
+Enhanced returns within an investment (depending on the type of structured product)
+Reduced volatility (or risk) within an investment (depending on the type of structured product)
+Ability to earn a positive return in low-yield or flat equity market environments
+Ability to minimize issuer risk by using collateral secured instruments (COSIs) backed with collateral in the form of securities or cash depositsHistorically, this aspiration is met with an ad hoc approach: the structure of the product is postulated in a way that seems appropriate for the client. Within this approach it can be difficult to articulate the precise problem the product is designed to solve, let alone to claim the product as optimal for the client. Nevertheless, this approach is still widely used in practice.
+A more advanced mathematical approach to product design has been proposed. It allows the structure of financial products to be derived as a mathematically optimal solution to the clients' needs. This approach demands higher proficiency from both the structurer who designs the product, and the client who needs to understand the proposal.
+Once the product is designed, it is manufactured through the process of financial engineering. This involves replicating the product through a trading strategy involving underlying instruments such as bonds, shares, indices, commodities as well as simple derivatives like vanilla options, swaps and forward contracts.
+
+
+== Risks ==
+The market for derivatives has grown quickly in recent years because, as above, they perform an economic function by enabling the risk averse to transfer risk to those who are willing to bear it for a fee.
+At the same time, there are several risks associated with many structured products, especially those that present risks of loss of principal due to market movements, are similar to risks involved with options. 
+Disadvantages of structured products may include:
+Credit risk – structured products are unsecured debt from investment banks
+Lack of liquidity – structured products are primarily traded over the counter and issuers are not obligated to provide a bid
+Highly complex – the complexity of the return calculations means that it is difficult to determine how the structured product would perform versus simply owning the underlying asset
+Intuition-based methods of product design often produce trades that are mathematically equivalent to gambling. (the above "Quantitative Structuring approach" can be used to eliminate this problem)
+Lack of clarity on what exact problem the product is actually solving (does not apply to products built through the Quantitative Structuring approach).
+Lack of transparency on pricing - the investment bank fees are hidden in the product pricing and difficult for the customer to discernMore generally, the serious risks in options trading are well-established and customers must be explicitly approved for options trading. The U.S. Financial Industry Regulatory Authority (FINRA) suggests that firms "consider" whether purchasers of some or all structured products should be required to go through a similar approval process, so that only accounts approved for options trading would also be approved for some or all structured products.
+Further, "principal-protected" products are not always insured by the Federal Deposit Insurance Corporation in the United States; they may only be insured by the issuer, and thus could potentially lose the principal if there is a liquidity crisis or bankruptcy. Some firms attempted to create a new market for structured products that are no longer trading; some have traded in secondary markets for as low as pennies on the dollar.The regulatory framework for structured products is hazy and they may fall in legal grey areas. In India, equity-related structured products may violate the Securities Contract Regulation Act, which prohibits issuing and trading equity derivatives that do not trade on a nationally recognized exchange.
+A Quantitative framework in order to assess the risk-reward profile of structured products based on probability theory was developed by Marcello Minenna.
+
+
+== Structural Process ==
+
+
+=== Securitization ===
+Securitization in relation to structured products is the undertaking and pooling of bundles of debt which may include commercial mortgages, residential mortgages, and other debt obligations such as credit cards.
+It is under the branch of structured finance which relates to the management of leverage and the risk and serves as a very large source of financing across economies around the world. Securitized products such as Mortgage-backed securities allow investors to get paid from principal and interest cash flows which are usually collected from underlying debt and collateral and then paid back based upon the capital structure of the security, whether it be in relation to mortgages and real estate, or any other debt products that can be financed in this way. Securitized products also provide a huge source of financing in economies and funds more than 50% of US household debt. The securitization process follows a waterfall model which is divided into tranches and pays investors based upon the level of riskiness their investments hold. Securities with lower risk are usually paid first and are considered investment grade investors which invest in bonds that usually have a “AAA rating” with subprime securities having lower credit ratings such as “BBB”.In order to originate and structure these products, the securitization process employs a special purpose vehicle technique so that a separate company is created in which the securitized debt in formed as a limited liability venture, so it can carry large mortgages with varying levels of riskiness without having to deploy this capital on their own balance sheets.
+
+
+== COVID-19 Implications ==
+In light of the COVID-19 pandemic, structured products saw a major increase in their prices including products such as Commercial Mortgage-backed securities, Residential Mortgage-backed securities, Collateralized loan obligations, and other esoteric asset backed securities due to the federal reserve significantly lowering interest rates. More significantly, bonds and the credit market react this way due to being contra-cyclical with interest rate decreases having the opposite affect on bond prices. In recent times however, in order to control extremely high levels of inflation, the fed has raised interest rates leading to the price of the bond market and  structured notes falling significantly, as well as the formulation of a much higher rate of yield to investors like asset managers, hedge funds, and investment banks who buy these products.
+
+
+== Future outlook ==
+Despite phenomenally high interest rates, the future outlook for the credit and structured finance environment is generally positive as we head into 2023, with bond issuance volumes significantly picking up despite rising yields. Credit market performance has also been better than what was expected since the pandemic started, however there have been net losses on securitizations undertaken since the rate shave began to rise.
+
+
+== See also ==
+Accumulator
+Credit derivative
+Derivative (finance)
+Exotic derivatives
+Structured finance
+Structured note
+Equity-linked note
+Floating rate note
+Inverse floating rate note
+Credit-linked note
+Market-linked note
+Structurer
+
+
+== References ==
+
+
+== External links ==
+Structured Product Guides and Education
+Investopedia - Understanding Structured Products
+Structured Products Association (US)
+Structured Products magazine
+Structured Products Information for the UK market
+UK Structured Products Association
+European Structured Products Association
+Structured Retail Products Ltd, Euromoney Institutional Investor Group

@@ -1,0 +1,49 @@
+A bond fund or debt fund is a fund that invests in bonds, or other debt securities. Bond funds can be contrasted with stock funds and money funds. Bond funds typically pay periodic dividends that include interest payments on the fund's underlying securities plus periodic realized capital appreciation.  Bond funds typically pay higher dividends than CDs and money market accounts. Most bond funds pay out dividends more frequently than individual bonds.
+
+
+== Types ==
+Bond Funds can be classified by their primary underlying assets:
+Government: Government bonds are considered safest, since a government can always "print more money" to pay its debt. In the United States, these are United States Treasury securities or Treasurys. Due to the safety, the yields are typically low.
+Agency: In the United States, these are bonds issued by government agencies such as the Government National Mortgage Association (Ginnie Mae), Federal Home Loan Mortgage Corp. (Freddie Mac), and Federal National Mortgage Association (Fannie Mae).
+Municipal: Bonds issued by state and local governments and agencies are subject to certain tax preferences and are typically exempt from federal taxes. In some cases, these bonds are even exempt from state or local taxes.
+Corporate: Bonds are issued by corporations.  All corporate bonds are guaranteed by the borrowing (issuing) company, and the risk depends on the company's ability to pay the loan at maturity.  Some bond funds specialize in high-yield securities (junk bonds), which are corporate bonds carrying a higher risk, due to the potential inability of the issuer to repay the bond.  Bond funds specializing in junk bonds – also known as "below investment-grade bonds" – pay higher dividends than other bond funds, with the dividend return correlating approximately with the risk.Bond funds may also be classified by factors such as type of yield (high income) or term (short, medium, long) or some other specialty such as zero-coupon bonds, international bonds, multisector bonds or convertible bonds.
+
+
+== Credit rating ==
+An important property of bond funds is the rating of the bonds they own. Funds may be rated from high to low credit quality. The quality of a fund is the average of the bonds owned by the fund. Funds that pay higher yields typically own lower quality bonds.
+Like stocks, the price of high-yield bonds is subject to fashion. For example, in late 2008, many high-yield bond funds were priced at 70 cents on the dollar. In fact, there were few bond defaults and the price recovered. Due to the lower price, investors sold out of high-yield bond funds, having a desire for "safe" cash and bonds.
+
+
+== Bond duration ==
+Funds invest in different maturities of bonds. This may be described by terms like "short", "intermediate", and "long". This affects how the fund value changes with interest rates. Funds invested in longer bonds will have more change. As a general rule, the yield for longer bonds is higher.Bond funds usually have a target length, such as five to ten years. Thus over time, they need to sell shorter bonds and buy longer bonds to stay in range. A bond fund with such a target length will never "mature" like a specific bond. Some UITs own bonds with a specific maturity date and will terminate at that point.
+
+
+== Advantages over individual bonds ==
+Management: Fund managers provide dedicated management and save the individual investor from researching issuer creditworthiness, maturity, price, face value, coupon rate, yield, and countless other factors that affect bond investing.
+Diversification: Bond funds invest in many individual bonds, so that even a relatively small investment is diversified—and when an underperforming bond is just one of many bonds in a fund, its negative impact on an investor's overall portfolio is lessened.
+Automatic income reinvestment: In a fund, income from all bonds can be reinvested automatically and consistently added to the value of the fund.
+Liquidity:  You can sell shares in a bond fund at any time without regard to bond maturities.
+
+
+== Disadvantages over individual bonds ==
+Fees: Bond funds typically charge a fee, often as a percentage of the total investment amount. This fee is not applicable to individually held bonds.
+Variable Dividends: Bond fund dividend payments may not be fixed as with the interest payments of an individually held bond, leading to potential fluctuation of the value of dividend payments.
+Variable NAV: The Net Asset Value (NAV) of a bond fund may change over time, unlike an individual bond in which the total issue price will be returned upon maturity (provided the bond issuer does not default).
+
+
+== Total return ==
+
+Price charts on bond funds typically do not reflect their performance due to the lack of yield consideration. To accurately evaluate a bond fund's performance, both the share price and yield must be considered. The combination of these two indicators is known as the total return.
+
+
+== See also ==
+Financial risk management § Investment management
+Income fund
+Money fund
+Stable value fund
+Stock fund
+Target date fund
+Yield curve
+
+
+== References ==

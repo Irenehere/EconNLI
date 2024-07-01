@@ -1,0 +1,30 @@
+Edward Hastings Chamberlin (May 18, 1899 – July 16, 1967) was an American economist. He was born in La Conner, Washington, and died in Cambridge, Massachusetts.
+Chamberlin studied first at the University of Iowa (where he was influenced by Frank H. Knight), then pursued graduate studies at the University of Michigan, eventually receiving his Ph.D. from Harvard University in 1927.
+
+
+== Economics ==
+For most of his career Edward Chamberlin taught economics at Harvard (1937–1967). He made significant contributions to microeconomics, particularly on competition theory and consumer choice, and their connection to prices. He coined the term "product differentiation" to describe how a supplier may be able to charge a higher price for a product than perfect competition would allow.
+Chamberlin's most significant contribution was the Chamberlinian monopolistic competition theory. He published his book The Theory of Monopolistic Competition in 1933, the same year that Joan Robinson published hers on the same topic: The Economics of Imperfect Competition, so these two economists can be regarded as the parents of the modern study of imperfect competition. Chamberlin's book is often compared to Robinson's in which she coined the term "monopsony" to describe the buyer converse of a seller monopoly. Monopsony is commonly applied to buyers of labor, where the employer has wage setting power that allows it to exercise Pigouvian exploitation and pay workers less than their marginal productivity. Robinson used monopsony to describe the wage gap between women and men workers of equal productivity.Chamberlin advocated for the differentiation of product to explain how a firm distinguishes itself from other sellers. The key to this is to leverage buyer's preferences and not shoot in the dark and hope for random results; it must be purposeful. Chamberlin also suggested that a monopolistic form of differentiation could present itself in the form of a patent or copyright. While patents and copyrights are empirically monopolistic, it is representative of a monopolist "maximizing his total profit within the market he controls", which still leaves other sellers the opportunity to differentiate their own products. Trademarks are also of consideration, but it is noted that the caveat of trade-marking a product is that it is legally enforceable in that they cannot be used by anyone else.
+Chamberlin is informally credited as the founder of Industrial Organization, which is a field of economics that pertains to the ways by which firms compete with one another. This field encompasses many topics, including profit maximization, market power, product quality, and antitrust law, which is imperative when studying firm behavior and business practices (Church and Ware, p. 12). Several facets of industrial organization are embedded in Chamberlin's economic theories, including product differentiation and the use of patents to maximize profits and strengthen one's monopolistic position in the market.
+Chamberlin is also considered one of the first theorists who applied the marginal revenue idea, which is implicit on Cournot's monopoly theory in the late 1920s and early 1930s. Chamberlin is thought to have conducted "not only the first market experiment, but also the first economic experiment of any kind," with experiments he used in the classroom to illustrate how prices do not necessarily reach equilibrium. Chamberlin concludes that most market prices are determined by both monopolistic and competitive aspects.Chamberlin's theory of monopolistic competition is used by sociologist Harrison White in his "markets from networks" model of market structure and competition.
+The works of Chamberlin, Robinson, and other contributors to the Structure-Conduct-Performance Paradigm were discounted by game theorists in the 1960s, but Nobel-Prize winner Paul Krugman and others built the foundations of the New Theory of International Trade by combining such theories of industrial structure with production functions that assumed significant economies of scale and scope.
+
+
+== Major works ==
+"Duopoly: Values where sellers are few", 1929, QJE
+"The Theory of Monopolistic Competition: A Re-orientation of the Theory of Value", Harvard University Press, 1933 1st ed. & 1962 8th ed.
+"Proportionality, Divisibility and Economics of Scale", 1948, QJE
+"An Experimental Imperfect Market", 1948, JPE
+"Product Heterogeneity and Public Policy", 1950, AER
+Monopolistic Competition Revisited, 1951
+"Impact of Recent Monopoly Theory on the Schumpeterian System", 1951, REStat
+"Full Cost and Monopolistic Competition", 1952, EJ
+"The Product as an Economic Variable", 1953, QJE
+"Some Aspects of Nonprice Competition", 1954, in Huegy, editor, Role and Nature of Competition
+"Measuring the Degree of Monopoly and Competition", 1954, in Chamberlin, editor, Monopoly and Competition and their Regulation
+"The Monopoly Power of Labor", 1957, in Wright, editor, Impact of the Union
+"On the Origin of Oligopoly", 1957, EJ
+Towards a More General Theory of Value, 1957
+
+
+== References ==

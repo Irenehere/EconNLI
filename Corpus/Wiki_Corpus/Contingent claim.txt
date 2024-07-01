@@ -1,0 +1,22 @@
+In finance, a contingent claim is a derivative whose future payoff depends on the value of another “underlying” asset, or more generally, that is dependent on the realization of some uncertain future event. 
+These are so named, since there is only a payoff under certain contingencies. 
+Any derivative instrument that is not a contingent claim is called a forward commitment.The prototypical contingent claim is an option, the right to buy or sell the underlying asset at a specified exercise price by a certain expiration date;  whereas (vanilla) swaps, forwards, and futures are forward commitments, since these grant no such optionality.Contingent claims are applied under financial economics in developing models and theory, and in corporate finance as a valuation framework.
+This approach originates with Robert C. Merton,
+  
+decomposing the value of a corporate into a set of options in his "Merton model" of credit risk.
+
+
+== Financial economics ==
+In financial economics contingent claim analysis is widely used  as a framework both for developing pricing models, and for extending the theory.   Thus, from its origins in option pricing and the valuation of corporate liabilities, it has become a major approach to intertemporal equilibrium under uncertainty. This framework is therefore “broader than ‘option pricing’ because it encompasses the full gamut of valuation approaches directed toward the pricing of contingent claims.” This would include "the full range of models designed to price government, corporate, and mortgage-backed securities... as well as options and futures on fixed income securities." The general approach here is to define risky outcomes relative to states of the world, and to then use claims to represent and value state outcomes. Thus given a definition of risky states, all financial instruments and arrangements can be represented as combinations of contingent claims on those states.   See Arrow-Debreu security, Risk-neutral measure, Financial economics  § State prices.
+
+
+== Corporate finance ==
+
+A recent development in corporate finance, is “the acceptance, at least in some cases, that the value of an asset may be greater than the present value of expected cash flows, if the cash flows are contingent on the occurrence or non-occurrence of an event”.   This contingent claim valuation, uses  option pricing models to measure the value of assets that share option-like characteristics.
+While these models were initially used to value traded options, there has been an attempt in recent years to extend the reach of these models into more traditional valuation. The fundamental premise here, is that “discounted cash flow models tend to understate the value of assets that provide payoffs that are contingent on the occurrence of an event."  See Real options valuation generally, and  § Applicability of standard techniques there.  (One major modification here is that these models often rely on a replicating portfolio as opposed to traditional risk neutral pricing.)
+Typical corporate finance "project" valuations would include patents, undeveloped natural resource reserves, and contingent value rights  – all of these  exhibiting optionality.  See Valuation (finance)  § Specialised cases.
+Funding dependent, structured finance investments and special purpose entities also often inhere optionality and must be modeled correspondingly.
+Contingent claim valuation is also used here to value specific balance sheet assets and liabilities which  similarly exhibit option like characteristics.  Examples are  employee stock options, warrants and other convertible securities, and investments with embedded options such as callable bonds or contingent convertible bonds.
+
+
+== References ==

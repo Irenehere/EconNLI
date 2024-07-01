@@ -1,0 +1,40 @@
+Endogenous money is an economy’s supply of money that is determined endogenously—that is, as a result of the interactions of other economic variables, rather than exogenously (autonomously) by an external authority such as a central bank.
+The theoretical basis of this position is that money comes into existence through the requirements of the real economy and that the banking system reserves expand or contract as needed to accommodate loan demand at prevailing interest rates.
+Central banks implement policy primarily through controlling short-term interest rates. The money supply then adapts to the changes in demand for reserves and credit caused by the interest rate change. The supply curve shifts to the right when financial intermediaries issue new substitutes for money, reacting to profit opportunities during the cycle.
+
+
+== History ==
+Theories of endogenous money date to the 19th century, with the work of Knut Wicksell, and later Joseph Schumpeter. Early versions of this theory appear in Adam Smith's 1776 book The Wealth of Nations.With the existence of credit money, Wicksell argued, two interest rates prevail: the "natural" rate and the "money" rate. The natural rate is the return on capital—or the real profit rate. It can be roughly considered to be equivalent to the marginal product of new capital. The money rate, in turn, is the loan rate, an entirely financial construction. Credit, then, is perceived quite appropriately as "money". Banks provide credit by creating deposits upon which borrowers can draw. Since deposits constitute part of real money balances, therefore the bank can, in essence, "create" money.
+For Wicksell, the endogenous creation of money, and how it leads to changes in the real market is fundamentally a breakdown of the classical dichotomy between the monetary and real sectors. Money is not a "veil" - agents do react to it and this is not due to some irrational money illusion. However, for Wicksell, in the long run, the quantity theory still holds: money is still neutral in the long run.
+
+
+== Theory ==
+The theory is based on three main claims:
+Loans create deposits: for the banking system as a whole, drawing down a bank loan by a non-bank borrower creates new deposits (and the repayment of a bank loan destroys deposits). So while the quantity of bank loans may not equal deposits in an economy, a deposit is the logical concomitant of a loan – banks do not need to increase deposits prior to extending a loan.
+While banks can be capital-constrained, in most countries a solvent bank is never reserve-constrained or funding-constrained: it can always obtain reserves or funding either from the interbank market or from the central bank.
+Banks rationally pursue any profitable lending opportunities that they can identify up to the level consistent with their level of capital, treating reserve requirements and funding issues as matters to be addressed later—or rather, at an aggregate level.
+Therefore, the quantity of broad money in an economy is determined endogenously: in other words, the quantity of deposits held by the non-bank sector 'flexes' up or down according to the aggregate preferences of non-banks. Significantly, the theory states that if the non-bank sector's deposits are augmented by a policy-driven exogenous shock (such as quantitative easing), the sector can be expected to find ways to 'shed' most or all of the excess deposit balances by making payments to banks (comprising repayments of bank loans, or purchases of securities).
+
+
+== Branches ==
+Endogenous money is a heterodox economic theory with several strands, mostly associated with the post-Keynesian school. Multiple theory branches developed separately and are to some extent compatible (emphasizing different aspects of money), while remaining united in opposition to the New Keynesian theory of money creation.
+
+Monetary circuit theory was developed in France and Italy, and emphasizes credit money creation by banks. A detailed explanation of monetary circuit theory was provided by Augusto Graziani in the book The Monetary Theory of Production.
+Horizontalism was developed in America by economist Basil Moore, who was also its main proponent in the 1970s and 1980s. It emphasizes credit money creation by banks. He developed endogenous money very gradually, and not until 1979, in Eichner's Guide, did he have come around to 'monetary factors' or endogenous money.
+Gunnar Heinsohn and Otto Steiger in their book "Eigentum, Zins und Geld" developed a theory called "Property Theory of Money", which also explains money by endogenous processes.
+
+
+== See also ==
+Fractional-reserve banking
+Chartalism
+
+
+== Notes ==
+
+
+== References ==
+Wicksell, Knut (1898), Interest and Prices
+Leijonhufvud, Axel The Wicksell Connection: Variation on a Theme. UCLA. November 1979.
+Lavoie, Marc (2003), "A Primer on Endogenous Credit-money" (PDF), in Rochon, Louis-Philippe; Rossi, Sergio (eds.), Modern Theories of Money: The Nature and Role of Money in Capitalist Economies, Edward Elgar Publishing, pp. 506–543, ISBN 1-84064-789-2
+Graziani, Augusto The Monetary Theory of Production. Cambridge, 2003
+Wicksell and origins of modern monetary theory-Lars Pålsson Syll

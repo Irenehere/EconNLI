@@ -1,0 +1,468 @@
+The Modigliani–Miller theorem (of Franco Modigliani, Merton Miller) is an influential element of economic theory; it forms the basis for modern thinking on capital structure. The basic theorem states that in the absence of taxes, bankruptcy costs, agency costs, and asymmetric information, and in an efficient market, the enterprise value of a firm is unaffected by how that firm is financed. This is not to be confused with the value of the equity of the firm. Since the value of the firm depends neither on its dividend policy nor its decision to raise capital by issuing shares or selling debt, the Modigliani–Miller theorem is often called the capital structure irrelevance principle.
+The key Modigliani–Miller theorem was developed in a world without taxes. However, if we move to a world where there are taxes, when the interest on debt is tax-deductible, and ignoring other frictions, the value of the company increases in proportion to the amount of debt used. The additional value equals the total discounted value of future taxes saved by issuing debt instead of equity.
+Modigliani was awarded the 1985 Nobel Prize in Economics for this and other contributions.
+Miller was a professor at the University of Chicago when he was awarded the 1990 Nobel Prize in Economics, along with Harry Markowitz and William F. Sharpe, for their "work in the theory of financial economics", with Miller specifically cited for "fundamental contributions to the theory of corporate finance".
+
+
+== Historical background ==
+Miller and Modigliani derived and published their theorem when they were both professors at the Graduate School of Industrial Administration (GSIA) of Carnegie Mellon University.  Despite limited prior experience in corporate finance, Miller and Modigliani were assigned to teach the subject to current business students. Finding the published material on the topic lacking, the professors created the theorem based on their own research. The result of this was the article in the American Economic Review and what has later been known as the M&M theorem.
+Miller and Modigliani published a number of follow-up papers discussing some of these issues. The theorem was first proposed by F. Modigliani and M. Miller in 1958.
+
+
+== The theorem ==
+Consider two firms which are identical except for their financial structures. The first (Firm U) is unlevered: that is, it is financed by equity only.  The other (Firm L) is levered: it is financed partly by equity, and partly by debt. The Modigliani–Miller theorem states that the enterprise value of the two firms is the same. Enterprise value encompasses claims by both creditors and shareholders, and is not to be confused with the value of the equity of the firm.
+The operational justification of the theorem can be visualized using the working of arbitrage. Consider that the two firms in a perfect capital market: both the firms are identical in all aspects except, one of the firms employ debt in its capital structure while the other doesn't. Investors of the firm which has higher overall value can sell their stake and buy the stake in the firm whose value is lower. They will be able to earn the same return at a lower capital outlay and hence, lower perceived risk. Due to arbitrage, there would be an excess selling of the stake in the higher value firm bringing its price down, meanwhile for the lower value firm, due to the increased buying the price of its stake will rise. This corrects the market distortion, created by unequal risk amount and ultimately the value of both the firms will be leveled.
+According to MM Hypothesis, the value of levered firm can never be higher than that of the unlevered firm. The two must be equal. There is neither an advantage nor a disadvantage in using debt in a firm's capital structure.
+
+
+== Without taxes ==
+
+
+=== Proposition I ===
+
+  
+    
+      
+        
+          V
+          
+            U
+          
+        
+        =
+        
+          V
+          
+            L
+          
+        
+        
+      
+    
+    {\displaystyle V_{U}=V_{L}\,}
+  
+where
+
+  
+    
+      
+        
+          V
+          
+            U
+          
+        
+      
+    
+    {\displaystyle V_{U}}
+   is the value of an unlevered firm = price of buying a firm composed only of equity, and 
+  
+    
+      
+        
+          V
+          
+            L
+          
+        
+      
+    
+    {\displaystyle V_{L}}
+   is the value of a levered firm = price of buying a firm that is composed of some mix of debt and equity. Another word for levered is geared, which has the same meaning.To see why this should be true, suppose an investor is considering buying one of the two firms, U or L. Instead of purchasing the shares of the levered firm L, he could purchase the shares of firm U and borrow the same amount of money B that firm L does.  The eventual returns to either of these investments would be the same. Therefore the price of L must be the same as the price of U minus the money borrowed B, which is the value of L's debt.
+This discussion also clarifies the role of some of the theorem's assumptions.  We have implicitly assumed that the investor's cost of borrowing money is the same as that of the firm, which need not be true in the presence of asymmetric information, in the absence of efficient markets, or if the investor has a different risk profile than the firm.
+
+
+=== Proposition II ===
+
+  
+    
+      
+        
+          r
+          
+            E
+          
+        
+        =
+        
+          r
+          
+            0
+          
+        
+        +
+        
+          
+            D
+            E
+          
+        
+        (
+        
+          r
+          
+            0
+          
+        
+        −
+        
+          r
+          
+            D
+          
+        
+        )
+      
+    
+    {\displaystyle r_{E}=r_{0}+{\frac {D}{E}}(r_{0}-r_{D})}
+  where
+
+  
+    
+      
+        
+          r
+          
+            E
+          
+        
+      
+    
+    {\displaystyle r_{E}}
+   is the expected rate of return on equity of a leveraged firm, or cost of equity.
+
+  
+    
+      
+        
+          r
+          
+            0
+          
+        
+      
+    
+    {\displaystyle r_{0}}
+   is the company cost of equity capital with no leverage (unlevered cost of equity, or return on assets with D/E = 0).
+
+  
+    
+      
+        
+          r
+          
+            D
+          
+        
+      
+    
+    {\displaystyle r_{D}}
+   is the expected rate of return on borrowings, or cost of debt.
+
+  
+    
+      
+        
+          
+            D
+            E
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{E}}}
+   is the debt-to-equity ratio.A higher debt-to-equity ratio  leads to a higher required return on equity, because of the higher risk involved for equity-holders in a company with debt. The formula is derived from the theory of weighted average cost of capital (WACC).
+These propositions are true under the following assumptions:
+
+no transaction costs exist, and
+individuals and corporations borrow at the same rates.These results might seem irrelevant (after all, none of the conditions are met in the real world), but the theorem is still taught and studied because it tells something very important. That is, capital structure matters precisely because one or more of these assumptions is violated.  It tells where to look for determinants of optimal capital structure and how those factors might affect optimal capital structure.
+
+
+== With taxes ==
+
+
+=== Proposition I ===
+
+  
+    
+      
+        
+          V
+          
+            L
+          
+        
+        =
+        
+          V
+          
+            U
+          
+        
+        +
+        
+          T
+          
+            C
+          
+        
+        D
+        
+      
+    
+    {\displaystyle V_{L}=V_{U}+T_{C}D\,}
+  where
+
+  
+    
+      
+        
+          V
+          
+            L
+          
+        
+      
+    
+    {\displaystyle V_{L}}
+   is the value of a levered   firm.
+
+  
+    
+      
+        
+          V
+          
+            U
+          
+        
+      
+    
+    {\displaystyle V_{U}}
+   is the value of an unlevered firm.
+
+  
+    
+      
+        
+          T
+          
+            C
+          
+        
+        D
+      
+    
+    {\displaystyle T_{C}D}
+   is the tax rate (
+  
+    
+      
+        
+          T
+          
+            C
+          
+        
+      
+    
+    {\displaystyle T_{C}}
+  ) x the value of debt (D)"Derivation of 
+  
+    
+      
+        
+          T
+          
+            C
+          
+        
+        D
+      
+    
+    {\displaystyle T_{C}D}
+  - 
+Amount of Annual Interest= Debt x Interest Rate
+Annual Tax Shield= Debt x Interest Rate x Tax Rate
+Capitalisation Value (Perpetual Firm) = (Debt × Interest Rate x Tax Rate) ÷ Cost of Debt
+
+the term 
+  
+    
+      
+        
+          T
+          
+            C
+          
+        
+        D
+      
+    
+    {\displaystyle T_{C}D}
+   assumes debt is perpetualThis means that there are advantages for firms to be levered, since corporations can deduct interest payments. Therefore leverage lowers tax payments. Dividend payments are non-deductible.
+
+
+=== Proposition II ===
+
+  
+    
+      
+        
+          r
+          
+            E
+          
+        
+        =
+        
+          r
+          
+            0
+          
+        
+        +
+        
+          
+            D
+            E
+          
+        
+        (
+        
+          r
+          
+            0
+          
+        
+        −
+        
+          r
+          
+            D
+          
+        
+        )
+        (
+        1
+        −
+        
+          T
+          
+            C
+          
+        
+        )
+      
+    
+    {\displaystyle r_{E}=r_{0}+{\frac {D}{E}}(r_{0}-r_{D})(1-T_{C})}
+  where:
+
+  
+    
+      
+        
+          r
+          
+            E
+          
+        
+      
+    
+    {\displaystyle r_{E}}
+   is the required rate of return on equity, or cost of levered equity = unlevered equity + financing premium.
+
+  
+    
+      
+        
+          r
+          
+            0
+          
+        
+      
+    
+    {\displaystyle r_{0}}
+   is the company cost of equity capital with no leverage (unlevered cost of equity, or return on assets with D/E = 0).
+
+  
+    
+      
+        
+          r
+          
+            D
+          
+        
+      
+    
+    {\displaystyle r_{D}}
+   is the required rate of return on borrowings, or cost of debt.
+
+  
+    
+      
+        
+          D
+        
+        
+          /
+        
+        
+          E
+        
+      
+    
+    {\displaystyle {D}/{E}}
+   is the debt-to-equity ratio.
+
+  
+    
+      
+        
+          T
+          
+            c
+          
+        
+      
+    
+    {\displaystyle T_{c}}
+   is the tax rate.The same relationship as earlier described stating that the cost of equity rises with leverage, because the risk to equity rises, still holds. The formula, however, has implications for the difference with the WACC. Their second attempt on capital structure included taxes has identified that as the level of gearing increases by replacing equity with cheap debt the level of the WACC drops and an optimal capital structure does indeed exist at a point where debt is 100%.
+The following assumptions are made in the propositions with taxes:
+
+corporations are taxed at the rate 
+  
+    
+      
+        
+          T
+          
+            C
+          
+        
+      
+    
+    {\displaystyle T_{C}}
+   on earnings after interest,
+no transaction costs exist, and
+individuals and corporations borrow at the same rate.
+
+
+== Notes ==
+
+
+== Further reading ==
+Brealey, Richard A.; Myers, Stewart C. (2008) [1981]. Principles of Corporate Finance (9th ed.). Boston: McGraw-Hill/Irwin. ISBN 978-0-07-340510-0.
+Stewart, G. Bennett (1991). The Quest for Value: The EVA management guide. New York: HarperBusiness. ISBN 978-0-88730-418-7.
+Modigliani, F.; Miller, M. (1958). "The Cost of Capital, Corporation Finance and the Theory of Investment". American Economic Review. 48 (3): 261–297. JSTOR 1809766.
+Modigliani, F.; Miller, M. (1963). "Corporate income taxes and the cost of capital: a correction". American Economic Review. 53 (3): 433–443. JSTOR 1809167.
+Miles, J.; Ezzell, J. (1980). "The weighted average cost of capital, perfect capital markets and project life: a clarification". Journal of Financial and Quantitative Analysis. 15 (3): 719–730. CiteSeerX 10.1.1.455.6733. doi:10.2307/2330405. JSTOR 2330405. S2CID 154350056.
+Sargent, Thomas J. (1987). Macroeconomic Theory (Second ed.). London: Academic Press. pp. 157–162. ISBN 978-0-12-619751-8.
+Sethi, S. P.; Derzko, N. A.; Lehoczky, J. P. (1991). "A Stochastic Extension of the Miller-Modigliani Framework". Mathematical Finance. 1 (4): 57–76. doi:10.1111/j.1467-9965.1991.tb00019.x. S2CID 153374059.
+Sethi, S. P. (1996). "When Does the Share Price Equal the Present Value of Future Dividends?". Economic Theory. 8: 307–319.
+
+
+== External links ==
+Ruben D Cohen: An Implication of the Modigliani-Miller Capital Structuring Theorems on the Relation between Equity and Debt

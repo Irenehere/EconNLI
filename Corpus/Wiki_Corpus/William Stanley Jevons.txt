@@ -1,0 +1,129 @@
+William Stanley Jevons  (; 1 September 1835 – 13 August 1882) was an English economist and logician.
+Irving Fisher described Jevons's book A General Mathematical Theory of Political Economy (1862) as the start of the mathematical method in economics. It made the case that economics, as a science concerned with quantities, is necessarily mathematical. In so doing, it expounded upon the "final" (marginal) utility theory of value. Jevons' work, along with similar discoveries made by Carl Menger in Vienna (1871) and by Léon Walras in Switzerland (1874), marked the opening of a new period in the history of economic thought. Jevons's contribution to the marginal revolution in economics in the late 19th century established his reputation as a leading political economist and logician of the time.
+Jevons broke off his studies of the natural sciences in London in 1854 to work as an assayer in Sydney, where he acquired an interest in political economy. Returning to the UK in 1859, he published General Mathematical Theory of Political Economy in 1862, outlining the marginal utility theory of value, and A Serious Fall in the Value of Gold in 1863. For Jevons, the utility or value to a consumer of an additional unit of a product is inversely related to the number of units of that product he already owns, at least beyond some critical quantity.
+Jevons received public recognition for his work on The Coal Question (1865), in which he called attention to the gradual exhaustion of Britain's coal supplies and also put forth the view that increases in energy production efficiency leads to more, not less, consumption.: 7f, 161f  This view is known today as the Jevons paradox, named after him. Due to this particular work, Jevons is regarded today as the first economist of some standing to develop an 'ecological' perspective on the economy.: 295f : 147 : 2 The most important of his works on logic and scientific methods is his Principles of Science (1874), as well as The Theory of Political Economy (1871) and The State in Relation to Labour (1882). Among his inventions was the logic piano, a mechanical computer.
+
+
+== Background ==
+Jevons was born in Liverpool, Lancashire, England. His father, Thomas Jevons, was an iron merchant who wrote about legal and economic subjects as well. His mother Mary Anne Jevons was the daughter of William Roscoe. At the age of fifteen he was sent to London to attend the University College School. Around this time, he seemed to have formed the belief that he was capable of important achievements as a thinker. Towards the end of 1853, after having spent two years at University College, where his favourite subjects were chemistry and botany, he received an offer as metallurgical assayer for the new mint in Australia. The idea of leaving the UK was distasteful, but pecuniary considerations had, in consequence of the failure of his father's firm in 1847, become of vital importance, and he accepted the post.Jevons left the UK for Sydney in June 1854 to take up a role as an Assayer at the Mint. Jevons lived with his colleague and his wife first at Church Hill, then in Annangrove at Petersham and at Double Bay before returning to England. In letters to his family he described his life, took photographs and produced a social map of Sydney. Jevons returned to England via America five years later.He resigned his appointment, and in the autumn of 1859 re-entered the University College London as a student. He was granted B.A. and M.A. degrees from the University of London. He now gave his principal attention to the moral sciences, but his interest in natural science was by no means exhausted: throughout his life he continued to write occasional papers on scientific subjects, and his knowledge of the physical sciences greatly contributed to the success of his chief logical work, The Principles of Science. Not long after taking his M.A. degree, Jevons obtained a post as tutor at Owens College, Manchester.
+In 1866, he was elected professor of logic and mental and moral philosophy and Cobden professor of political economy at Owens College.
+
+
+== Theory of utility ==
+Jevons arrived quite early in his career at the doctrines that constituted his most characteristic and original contributions to economics and logic. The theory of utility, which became the keynote of his general theory of political economy, was practically formulated in a letter written in 1860; and the germ of his logical principles of the substitution of similars may be found in the view which he propounded in another letter written in 1861, that "philosophy would be found to consist solely in pointing out the likeness of things." The theory of utility above referred to, namely, that the degree of utility of a commodity is some continuous mathematical function of the quantity of the commodity available, together with the implied doctrine that economics is essentially a mathematical science, took more definite form in a paper on "A General Mathematical Theory of Political Economy", written for the British Association in 1862. This paper does not appear to have attracted much attention either in 1862 or on its publication four years later in the Journal of the Statistical Society; and it was not till 1871, when the Theory of Political Economy appeared, that Jevons set forth his doctrines in a fully developed form.It was not until after the publication of this work that Jevons became acquainted with the applications of mathematics to political economy made by earlier writers, notably Antoine Augustin Cournot and H.H. Gossen. The theory of utility was at about 1870 being independently developed on somewhat similar lines by Carl Menger in Austria and Léon Walras in Switzerland. As regards the discovery of the connection between value in exchange and final (or marginal) utility, the priority belongs to Gossen, but this in no way detracts from the great importance of the service which Jevons rendered to British economics by his fresh discovery of the principle, and by the way in which he ultimately forced it into notice. In his reaction from the prevailing view he sometimes expressed himself without due qualification: the declaration, for instance, made at the commencement of the Theory of Political Economy, that value depends entirely upon utility, lent itself to misinterpretation. But a certain exaggeration of emphasis may be pardoned in a writer seeking to attract the attention of an indifferent public. The Neoclassical Revolution, which would reshape economics, had been started.Jevons did not explicitly distinguish between the concepts of ordinal and cardinal utility. Cardinal utility allows the relative magnitude of utilities to be discussed, while ordinal utility only implies that goods can be compared and ranked according to which good provided the most utility. Although Jevons predated the debate about ordinality or cardinality of utility, his mathematics required the use of cardinal utility functions. For example, in "The Theory of Political Economy", Chapter II, the subsection on "Theory of Dimensions of Economic Quantities", Jevons makes the statement that "In the first place, pleasure and pain must be regarded as measured upon the same scale, and as having, therefore, the same dimensions, being quantities of the same kind, which can be added and subtracted...." Speaking of measurement, addition and subtraction requires cardinality, as does Jevons's heavy use of integral calculus. Cardinality does not imply direct measurability, in which Jevons did not believe.
+
+
+== Practical economics ==
+It was not, however, as a theorist dealing with the fundamental data of economic science, but as a writer on practical economic questions, that Jevons first received general recognition. A Serious Fall in the Value of Gold (1863) and The Coal Question (1865) placed him in the front rank as a writer on applied economics and statistics; and he would be remembered as one of the leading economists of the 19th century even had his Theory of Political Economy never been written. His economic works include Money and the Mechanism of Exchange (1875) written in a popular style, and descriptive rather than theoretical; a Primer on Political Economy (1878); The State in Relation to Labour (1882), and two works published after his death, Methods of Social Reform" and "Investigations in Currency and Finance, containing papers that had appeared separately during his lifetime. The last-named volume contains Jevons's speculations on the connection between commercial crises and sunspots. He was engaged at the time of his death upon the preparation of a large treatise on economics and had drawn up a table of contents and completed some chapters and parts of chapters. This fragment was published in 1905 under the title of The Principles of Economics: a fragment of a treatise on the industrial mechanism of society, and other papers.In The Coal Question, Jevons covered a breadth of concepts on energy depletion that have recently been revisited by writers covering the subject of peak oil. For example, Jevons explained that improving energy efficiency typically reduced energy costs and thereby increased rather than decreased energy use, an effect now known as the Jevons paradox. The Coal Question remains a paradigmatic study of resource depletion theory. Jevons's son, H. Stanley Jevons, published an 800-page follow-up study in 1915 in which the difficulties of estimating recoverable reserves of a theoretically finite resource are discussed in detail.In 1875, Jevons read a paper On the influence of the sun-spot period upon the price of corn at a meeting of the British Association for the Advancement of Science. This captured the attention of the media and led to the coining of the word sunspottery for claims of links between various cyclic events and sun-spots. In a later work, "Commercial Crises and Sun-Spots", Jevons analyzed business cycles, proposing that crises in the economy might not be random events, but might be based on discernible prior causes. To clarify the concept, he presented a statistical study relating business cycles with sunspots. His reasoning was that sunspots affected the weather, which, in turn, affected crops. Crop changes could then be expected to cause economic changes. Subsequent studies have found that sunny weather has a small but significant positive impact on stock returns, probably due to its impact on traders' moods.
+
+
+== Logic ==
+In 1864 Jevons published Pure Logic; or, the Logic of Quality apart from Quantity, which was based on Boole's system of logic, but freed from what he considered the false mathematical dress of that system. In 1866 what he regarded as the great and universal principle of all reasoning dawned upon him; and in 1869 Jevons published a sketch of this fundamental doctrine under the title of The Substitution of Similars. He expressed this principle in its simplest form by saying: "Whatever is true of a thing is true of its like", and he worked out in detail its various applications including the logical abacus, a method of performing simple logical inference by manipulating a truth table consisting of labeled wooden boards. He noted that the operations could be performed by a simple mechanism and later he had a "logical machine" built from his specifications in 1869, sometimes called the "Logic Piano" because of its resemblance to an upright piano. The machine was exhibited before the Royal Society in 1870.In the following year appeared the Elementary Lessons on Logic, which soon became the most widely read elementary textbook on logic in the English language. In the meantime he was engaged upon a much more important logical treatise, which appeared in 1874 under the title of The Principles of Science. In this work Jevons embodied the substance of his earlier works on pure logic and the substitution of similars; he also enunciated and developed the view that induction is simply an inverse employment of deduction; he treated in a luminous manner the general theory of probability, and the relation between probability and induction; and his knowledge of the various natural sciences enabled him throughout to relieve the abstract character of logical doctrine by concrete scientific illustrations, often worked out in great detail. An example is his discussion of the use of one-way functions in cryptography, including remarks on the integer factorization problem that foreshadowed its use in public-key cryptography. Jevons's general theory of induction was a revival of the theory laid down by Whewell and criticised by John Stuart Mill; but it was put in a new form, and was free from some of the non-essential adjuncts that rendered Whewell's exposition open to attack. The work as a whole was one of the most notable contributions to logical doctrine that appeared in the UK in the 19th century. "Though less attractively written than Mill's System of Logic, Principles of Science is a book that keeps much closer to the facts of scientific practice." His Studies in Deductive Logic, consisting mainly of exercises and problems for the use of students, was published in 1880. In 1877 and the following years Jevons contributed to the Contemporary Review some articles on Mill, which he had intended to supplement by further articles, and eventually publish in a volume as a criticism of Mill's philosophy. These articles and one other were republished after Jevons's death, together with his earlier logical treatises, in a volume, entitled Pure Logic, and other Minor Works. The articles on criticisms of Mill contain much that is ingenious and much that is forcible, but on the whole they cannot be regarded as taking rank with Jevons's other work. His strength lay in his power as an original thinker rather than as a critic; and he will be remembered by his constructive work as logician, economist and statistician.
+
+
+== Jevons's number ==
+Jevons wrote in his 1874 book Principles of Science:
+
+"Can the reader say what two numbers multiplied together will produce the number 8,616,460,799? I think it unlikely that anyone but myself will ever know."This became known as Jevons's number and was factored by Charles J. Busk in 1889, Derrick Norman Lehmer in 1903, and later on a pocket calculator by Solomon W. Golomb. It is the product of two prime numbers, 89,681 and 96,079.
+
+
+== Geometry ==
+One of Jevons's contemporaries, Hermann von Helmholtz, who was interested in non-Euclidean geometry, discussed two groups of two-dimensional creatures with one group living in the plane while the other living in the surface of a sphere. He asserted that since these creatures were embedded in two dimensions, they would develop a planar version of Euclidean geometry, but that since the nature of these surfaces were different, they would arrive at very different versions of this geometry. He then extended this argument into three dimensions, noting that this raises fundamental questions of the relationship of spatial perception to mathematical truth.Jevons made an almost immediate response to this article. While Helmholtz focused on how humans perceived space, Jevons focused on the question of truth in geometry. Jevons agreed that while Helmholtz's argument was compelling in constructing a situation where the Euclidean axioms of geometry would not apply, he believed that they had no effect on the truth of these axioms. Jevons hence makes the distinction between truth and applicability or perception, suggesting that these concepts were independent in the domain of geometry.
+Jevons did not claim that geometry was developed without any consideration for spatial reality. Instead, he suggested that his geometric systems were representations of reality but in a more fundamental way that transcends what one can perceive about reality. Jevons claimed that there was a flaw in Helmholtz's argument relating to the concept of infinitesimally small. This concept involves how these creatures reason about geometry and space at a very small scale, which is not necessarily the same as the reasoning that Helmholtz assumed on a more global scale. Jevons claimed that the Euclidean relations could be reduced locally in the different scenarios that Helmholtz created and hence the creatures should have been able to experience the Euclidean properties, just in a different representation. For example, Jevons claimed that the two-dimensional creatures living on the surface of a sphere should be able to construct the plane and even construct systems of higher dimensions and that although they may not be able to perceive such situations in reality, it would reveal fundamental mathematical truths in their theoretical existence.In 1872, Helmholtz gave a response to Jevons, who claimed that Helmholtz failed to show why geometric truth should be separate from the reality of spatial perception. Helmholtz criticized Jevons's definition of truth and in particular, experiential truth. Helmholtz asserts that there should be a difference between experiential truth and mathematical truth and that these versions of truth are not necessarily consistent. This conversation between Helmholtz and Jevons was a microcosm of an ongoing debate between truth and perception in the wake of the introduction of non-Euclidean geometry in the late 19th century.
+
+
+== Personal life ==
+In 1867, Jevons married Harriet Ann Taylor, whose father, John Edward Taylor, had been the founder and proprietor of the Manchester Guardian. Jevons suffered from ill health and sleeplessness, and found the delivery of lectures covering so wide a range of subjects very burdensome. In 1876, he was glad to exchange the Owens professorship for the professorship of political economy in University College, London. Travelling and music were the principal recreations of his life; but his health continued to be bad, and he suffered from depression. He found his professorial duties increasingly irksome, and feeling that the pressure of literary work left him no spare energy, he decided in 1880 to resign the post. On 13 August 1882 he drowned whilst bathing near Hastings.Jevons was brought up a Christian Unitarian. Excerpts from his journals indicate he remained committed to his Christian beliefs until death. He is buried in the Hampstead Cemetery.
+
+
+== Legacy ==
+Jevons was a prolific writer, and at the time of his death was a leader in the UK both as a logician and as an economist. Alfred Marshall said of his work in economics that it "will probably be found to have more constructive force than any, save that of Ricardo, that has been done during the last hundred years."Jevons's theory of induction has continued to be influential: "Jevons's general view of induction has received a powerful and original formulation in the work of a modern-day philosopher, Professor K. R. Popper."
+
+
+== Works ==
+1862. A General Mathematical Theory of Political Economy
+1863. A Serious Fall in the Value of Gold, Edward Stanford.
+1864. Pure Logic; or, the Logic of Quality apart from Quantity, Edward Stanford, London
+1865. The Coal Question, Macmillan and Co.
+1869. The Substitution of Similars, The True Principle of Reasoning, Macmillan & Co.
+1870. Elementary Lessons in Logic, Macmillan & Co., London
+1871. The Match Tax: A Problem in Finance, Edward Stanford.
+1871. The Theory of Political Economy, Macmillan & Co."Theory of Political Economy". In James R. Newman, ed., The World of Mathematics, Vol. 2, Part IV, 1956.
+1874. Principles of Science, Macmillan & Co.
+1875. Money and the Mechanism of Exchange, D. Appleton and Co.
+1878. A Primer on Political Economy
+1880. Studies in Deductive Logic – 1884 edition (Macmillan & Co., London)
+1882. The State in Relation to Labour
+1883. Methods of Social Reform and Other Papers, Macmillan and Co.
+Methods of Social Reform, and Other Papers, Kelley, 1965.
+1884. Investigations in Currency and Finance, Macmillan and Co. 1884.
+1886. Letters and Journal of W. Stanley Jevons, Ed. by Harriet A. Jevons, Macmillan & Co.
+1972–81. Papers and Correspondence, edited by R. D. Collison Black, Macmillan & the Royal Economic Society (7 vol.)
+
+
+=== Articles ===
+"On the Variation of Prices and the Value of the Currency since 1782", Journal of the Statistical Society of London, Vol. 28, No. 2, June 1865.
+"On the Frequent Autumnal Pressure in the Money Market, and the Action of the Bank of England", Journal of the Statistical Society of London, Vol. 29, No. 2, June 1866.
+"On the Condition of the Metallic Currency of the United Kingdom, with Reference to the Question of International Coinage", Journal of the Statistical Society of London, Vol. 31, No. 4, December 1868.
+"Who Discovered the Quantification of the Predicate?", The Contemporary Review, Vol. XXI, December 1872/May 1873.
+"The Philosophy of Inductive Inference", Fortnightly Review, Vol. XIV, New Series, 1873.
+"The Use of Hypothesis", Fortnightly Review, Vol. XIV, New Series, 1873.
+"The Railways and the State". In: Essays and Addresses, Macmillan & Co., 1874.
+"The Future of Political Economy", Fortnightly Review, Vol. XX, New Series, 1876.
+"Cruelty to Animals: A Study in Sociology", Fortnightly Review, Vol. XIX, New Series, 1876.
+"The Silver Question", Journal of Social Science, No. IX, January 1878.
+"John Stuart Mill's Philosophy Tested", Part II, The Contemporary Review, Vol. XXXI, December 1877/January 1878; Part III, Vol. XXXII, April 1878.
+"Methods of Social Reform, I: Amusements of the People", The Contemporary Review, Vol. XXXIII, October 1878.
+"Methods of Social Reform, II: A State Parcel Post", The Contemporary Review, Vol. XXXIV, January 1879.
+"The Periodicity of Commercial Crises, and its Physical Explanation," Journal of The Statistical and Social Inquiry Society of Ireland, Vol. VII, Part 54, 1878/1879.
+"Experimental Legislation and the Drink Traffic", The Contemporary Review, Vol. XXXVII, January/June 1880.
+"Recent Mathematico-Logical Memoirs", Nature, Vol. XXIII, 24 March 1881.
+"Richard Cantillon and the Nationality of Political Economy", The Contemporary Review, Vol. XXXIX, January/June 1881.
+"The Rationale of Free Public Libraries", The Contemporary Review, Vol. XXXIX, January/June 1881.
+"Bimetallism", The Contemporary Review, Vol. XXXIX, January/June 1881.
+"Married Women in Factories", The Contemporary Review, Vol. XLI, January/June 1882.
+
+
+=== Miscellany ===
+Luigi Cossa, Guide to the Study of Political Economy, with a Preface by W. Stanley Jevons, Macmillan & Co., 1880.
+Jevons & his theory on a possible ommection between sunspots & economic activity cycles, were mentioned by Lovecraft in his The Shadow Out of Time as discussed by Nathaniel Wingate Peaslee just before he was abducted by the Great Race.
+
+
+== References ==
+
+
+== Sources ==
+This article incorporates text from a publication now in the public domain: Keynes, John Neville (1911). "Jevons, William Stanley". In Chisholm, Hugh (ed.). Encyclopædia Britannica. Vol. 15 (11th ed.). Cambridge University Press. pp. 361–362.
+R.D. Collison Black (1987). "Jevons, William Stanley", The New Palgrave: A Dictionary of Economics, v. 2, pp. 1008–14.
+Ivor Grattan-Guinness, 2000. The Search for Mathematical Roots 1870–1940. Princeton University Press.
+Terry Peach (1987). "Jevons as an economic theorist", The New Palgrave: A Dictionary of Economics, v. 2, pp. 1014–19.
+The first part of this article was based on an article in the Encyclopedia of Marxism at www.marxists.org.
+
+
+== Further reading ==
+
+
+== External links ==
+
+O'Connor, John J.; Robertson, Edmund F., "William Stanley Jevons", MacTutor History of Mathematics Archive, University of St Andrews
+New School: William Stanley Jevons
+Royal Society certificate of election 1872
+Jevons and the Logic 'Piano' at The Rutherford Journal
+The Coal Question – Encyclopedia of Earth
+Letters and Journal of W. Stanley Jevons, edited by his wife (1886). This work contains a bibliography of Jevons's writings.
+Powerhouse Museum, Sydney. "The curious economist: William Stanley Jevons in Sydney". Retrieved 9 May 2007.
+William Stanley Jevons (1835–1833). 2008. {{cite book}}: |work= ignored (help)
+Jevons Family Archive at John Rylands Library, Manchester.Works available online
+Works by William Stanley Jevons at Project Gutenberg
+Works by or about William Stanley Jevons at Internet Archive
+The Coal Question (also available here)
+The Theory of Political Economy
+Money and the Mechanism of Exchange
+Elementary Lessons in Logic
+Money and the Mechanism of Exchange
+The Theory of Political Economy
+William Stanley Jevons
+Brief Account of a General Mathematical Theory of Political Economy
+The Principles of Political Economy, 1871,
+The Theory of Political Economy, 1879, 2nd ed.
+The Theory of Political Economy, 1888, 3rd ed. (1879 ed. + 3rd Preface by Harriet A. Jevons & adds to bibliographic 1st Appendix).

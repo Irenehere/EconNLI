@@ -1,0 +1,40 @@
+In economics, total-factor productivity (TFP), also called multi-factor productivity, is usually measured as the ratio of aggregate output (e.g., GDP) to aggregate inputs.  Under some simplifying assumptions about the production technology, growth in TFP becomes the portion of growth in output not explained by growth in traditionally measured inputs of labour and capital used in production. TFP is calculated by dividing output by the weighted geometric average of labour and capital input, with the standard weighting of 0.7 for labour and 0.3 for capital.  Total factor productivity is a measure of productive efficiency in that it measures how much output can be produced from a certain amount of inputs. It accounts for part of the differences in cross-country per-capita income.  For relatively small percentage changes, the rate of TFP growth can be estimated by subtracting growth rates of labor and capital inputs from the growth rate of output.
+
+
+== Background ==
+Technology growth and efficiency are regarded as two of the biggest sub-sections of total factor productivity, the former possessing "special" inherent features such as positive externalities and non-rivals which enhance its position as a driver of economic growth.Total factor productivity (TFP) is often considered the primary contributor to GDP growth rate. Other contributing factors include labor inputs, human capital, and physical capital. Total factor productivity measures residual growth in total output of a firm, industry or national economy that cannot be explained by the accumulation of traditional inputs such as labor and capital. Since this cannot be measured directly the process of calculating derives TFP as the residual which accounts for effects on total output not caused by inputs.
+It has been shown that there is a historical correlation between TFP and energy conversion efficiency. Also, it has been found that integration (among firms for example) has a causal positive impact on total factor productivity.
+
+
+== Calculation ==
+The equation below (in Cobb–Douglas form) is often used to represent total output (Y) as a function of total-factor productivity (A), capital input (K), labour input (L), and the two inputs' respective shares of output (α and β are the share of contribution for K and L respectively). As usual for equations of this form, an increase in either A, K or L will lead to an increase in output.
+
+
+== Estimation and refinements ==
+As a residual, TFP is also dependent on estimates of the other components.In 2001, William Easterly and Ross Levine estimated that for an average country the TFP accounts for 60 percent of growth of output per worker.: 185 A 2005 study on human capital attempted to correct for weaknesses in estimations of the labour component of the equation, by refining estimates of the quality of labour. Specifically, years of schooling is often taken as a proxy for the quality of labour (and stock of human capital), which does not account for differences in schooling between countries. Using these re-estimations, the contribution of TFP was substantially lower.Robert Ayres and Benjamin Warr have found that the model can be improved by using the efficiency of energy conversion, which roughly tracks technological progress.
+
+
+== Critiques ==
+The word "total" suggests all inputs have been measured. Official statisticians tend to use the term "multifactor productivity" (MFP) instead of TFP because some inputs such as energy are usually not included. External costs including attributes of the workforce, public infrastructure such as highways and environmental sustainability costs such as mineral depletion and pollution are not traditionally included.Growth accounting exercises and total factor productivity are open to the Cambridge critique. Therefore, some economists believe that the method and its results are invalid or need to be carefully interpreted and used along with other alternative approaches.On the basis of dimensional analysis, TFP has been criticized as lacking meaningful units of measurement.: 96  The units of the quantities in the Cobb–Douglas equation are:
+Y: widgets/year (wid/yr)
+L: man-hours/year (manhr/yr)
+K: capital-hours/year (caphr/yr; this raises issues of heterogeneous capital)
+α, β: pure numbers (non-dimensional), due to being exponents
+A: (widgets × yearα + β – 1) / (caphrα × manhrβ), a balancing quantity, which is TFP.In this construction the units of A would not have a simple economic interpretation, and the concept of TFP appears to be a modeling artifact.  Official statistics avoid measuring levels, instead constructing unitless growth rates of output and inputs and thus also for the residual.
+
+
+== See also ==
+Productivity model
+Productivity paradox
+Tacit knowledge
+List of production functions
+
+
+== References ==
+
+
+== Bibliography ==
+Caves, Douglas W; Christensen, Laurits R; Diewert, W Erwin (1982). "Multilateral Comparisons of Output, Input, and Productivity Using Superlative Index Numbers". Economic Journal. 92 (365): 73–86. doi:10.2307/2232257. JSTOR 2232257.
+Caves, Douglas W; Christensen, Laurits R; Diewert, W Erwin (1982). "The Economic Theory of Index Numbers and the Measurement of Input, Output, and Productivity". Econometrica. 50 (6): 1393–1414. doi:10.2307/1913388. JSTOR 1913388.
+Färe, R.; Grosskopf, S.; Norris, M.; Zhang, Z. (1994). "Productivity growth, technical progress, and efficiency change in industrialized countries". The American Economic Review. 84: 66–83.
+Hulten, Charles R.; Dean, Edwin R.; Harper, Michael J. (2001). New Developments in Productivity Analysis: Chapter: Total Factor Productivity: A Short Biography; Sponsored by: National Bureau of Economic Research (PDF). University of Chicago Press. pp. 1–54. ISBN 0-226-36062-8. Retrieved 22 October 2013<Chapter by Charles Hulten>{{cite book}}:  CS1 maint: postscript (link)

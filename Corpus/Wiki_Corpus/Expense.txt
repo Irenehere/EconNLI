@@ -1,0 +1,52 @@
+An expense is an item requiring an outflow of money, or any form of fortune in general, to another person or group as payment for an item, service, or other category of costs. For a tenant, rent is an expense. For students or parents, tuition is an expense. Buying food, clothing, furniture, or an automobile is often referred to as an expense. An expense is a cost that is "paid" or "remitted", usually in exchange for something of value. Something that seems to cost a great deal is "expensive". Something that seems to cost little is "inexpensive". "Expenses of the table" are expenses for dining, refreshments, a feast, etc.
+
+In accounting, expense is any specific outflow of cash or other valuable assets from a person or company to another person or company. This outflow is generally one side of a trade for products or services that have equal or better current or future value to the buyer than to the seller. Technically, an expense is an event in which a proprietary stake is diminished or exhausted, or a liability is incurred. In terms of the accounting equation, expenses reduce owners' equity. The International Accounting Standards Board defines expenses as:...decreases in economic benefits during the accounting period in the form of outflows or depletions of assets or incurrences of liabilities that result in decreases in equity, other than those relating to distributions to equity participants.
+Expense is a term also used in sociology, in which a particular fortune or price is sacrificed voluntarily or involuntarily by something or someone to something or somebody else, often in the context that the latter is taking advantage of the former.
+
+
+== Bookkeeping for expenses ==
+In double-entry bookkeeping, expenses are recorded as a debit to an expense account (an income statement account) and a credit to either an asset account or a liability account, which are balance sheet accounts. An expense decreases assets or increases liabilities. Typical business expenses include salaries, utilities, depreciation of capital assets, and interest expense for loans. The purchase of a capital asset such as a building or equipment is not an expense.
+
+
+== Cash flow ==
+In a cash flow statement (flow of funds statement), expenditures are divided into three categories:
+
+Operating: Operational expense – salary for employees
+Investing: Capital expenditure – buying equipment
+Expenditures (financial) Financing expense – interest expense for loans and bondsWhether a particular expenditure is classified as an expense, which is reported immediately on the business's income statement or whether it is classified as a capital expenditure (or an expenditure subject to depreciation), which is not an expense flow of funds statement. Though, these latter types of expenditures are reported as expenses when they are depreciated by businesses that use accrual-basis accounting- as most large businesses and all C corporations do.
+Defining an expense as capital or income using the most common interpretation depends upon its term.
+When an expense is seen as a purchase, it alleviates this distinction. Soon after the purchase (that which was expenses holds no value), it is usually identified as an expense. It will be viewed as capital with life that should be amortized/depreciated and retained on the balance sheet if it retains value soon and long after the purchase.
+
+
+== Deduction of business expenses under the United States tax code ==
+For tax purposes, the Internal Revenue Code permits the deduction of business expenses in the tax payable year in which those expenses are paid or incurred. This is in contrast to capital expenditures that are paid or incurred to acquire an asset. Expenses are costs that do not acquire, improve, or prolong the life of an asset. For example, a person who buys a new truck for a business would be making a capital expenditure because they have acquired a new business-related asset. This cost could not be deducted in the current taxable year. However, the gas the person buys during that year to fuel that truck would be considered a deductible expense. The cost of purchasing gas does not improve or prolong the life of the truck but simply allows the truck to run.Even if something qualifies as an expense, it is not necessarily deductible. As a general rule, expenses are deductible if they relate to a taxpayer's trade or business activity or if the expense is paid or incurred in the production or collection of income from an activity that does not rise to the level of a trade or business (investment activity).
+Section 162(a) of the Internal Revenue Code is the deduction provision for business or trade expenses. In order to be a trade or business expense and qualify for a deduction, it must satisfy 5 elements in addition to qualifying as an expense. It must be (1) ordinary and (2) necessary (Welch v. Helvering defines this as necessary for the development of the business at least in that they were appropriate and helpful). Expenses paid to preserve one's reputation do not appear to qualify). In addition, it must be (3) paid or incurred during the taxable year. It must be paid (4) in carrying on (meaning not prior to the start of a business or in creating it) (5) a trade or business activity. To qualify as a trade or business activity, it must be continuous and regular, and profit must be the primary motive. An expense can be a loss or profit. But the loss or profit need not really be an expense.
+Section 212 of the Internal Revenue Code is the deduction provision for investment expenses. In addition to being an expense and satisfying elements 1-4 above, expenses are deductible as an investment activity under Section 212 of the Internal Revenue Code if they are (1) for the production or collection of income, (2) for the management, conservation, or maintenance of property held for the production of income, or (3) in connection with the determination, collection, or refund of any tax.
+In investing, one controversy that mounted throughout 2002 and 2003 was whether companies should report the granting of stock options to employees as an expense on the income statement, or should not report this at all in the income statement, which is what had previously been the norm.
+
+
+== Expense report ==
+An expense report is a form of document that contains all the expenses that an individual has incurred as a result of the business operation. For example, if the owner of a business travels to another location for a meeting, the cost of travel, the meals, and all other expenses that he/she has incurred may be added to the expense report. Consequently, these expenses will be considered business expenses and are tax-deductible.
+Many businesses benefit from automated expense reports systems for expense management. Depending on the system chosen, these software solutions can reduce time costs, errors, and fraud.
+
+
+== See also ==
+Amortization (business)
+Balance sheet
+Capital Expenditures
+Cash flow statement
+Depreciation
+Expense management
+Expenses versus Capital Expenditures
+Income statement
+Operating expense
+Per diem
+Stock option expensing
+
+
+== References ==
+
+
+== External links ==
+
+IRS Expense Guidelines

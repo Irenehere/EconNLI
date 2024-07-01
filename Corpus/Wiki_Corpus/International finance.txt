@@ -1,0 +1,37 @@
+International finance (also referred to as international monetary economics or international macroeconomics) is the branch of financial economics broadly concerned with monetary and macroeconomic interrelations between two or more countries. International finance examines the dynamics of the global financial system, international monetary systems, balance of payments, exchange rates, foreign direct investment, and how these topics relate to international trade.Sometimes referred to as multinational finance, international finance is additionally concerned with matters of international financial management. Investors and multinational corporations must assess and manage international risks such as political risk and foreign exchange risk, including transaction exposure, economic exposure, and translation exposure.Some examples of key concepts within international finance are the Mundell–Fleming model, the optimum currency area theory, purchasing power parity, interest rate parity, and the international Fisher effect. Whereas the study of international trade makes use of mostly microeconomic concepts, international finance research investigates predominantly macroeconomic concepts.
+The foreign exchange and political risk dimensions of international finance largely stem from sovereign nations having the right and power to issue currencies, formulate their own economic policies, impose taxes, and regulate movement of people, goods, and capital across their borders.
+
+
+== History ==
+
+
+=== China and fiat currency ===
+The idea of fiat currency was established just over a thousand years ago in China during the Yuan, Tang, Song and Ming dynasties. In the Tang Dynasty (618-907) there was a high demand for metallic currency that exceeded the supply of precious metals. The people were already familiar with the use of credit notes, and they rapidly began accepting pieces of paper or paper drafts.A shortage of coins forced these people to change from coins to notes. During the Song Dynasty (960-1276), there was a booming business in the Sichuan region that led to a shortage of copper money. This led to traders issuing private notes covered by a monetary reserve. This was considered to be the first ever legal tender. Paper money became the only legal tender in the Yuan Dynasty (1276-1367) and issuing of notes was conferred to the Ministry of Finance during the Ming Dynasty (1368-1644). Fiat money can serve as a good currency if it can handle the role that a nation's economy needs of its monetary unit: storing value, providing a numerical account, and facilitating exchange. It also has excellent seigniorage, meaning it is more cost-efficient than a currency directly tied to produce than a currency directly tied to a commodity.On the International stage fiat currencies were not truly relevant until the US removed its currency from the gold standard in 1971. At this point other nations followed suit creating an environment where an infinite amount of money could be created. Before this, a nation's currency—which was unaccredited by precious metals—would not be accepted in exchange for goods and services outside of the host country where it was produced.
+
+
+=== Bretton Woods Conference ===
+
+The Establishment of the International Monetary Fund (IMF) and the World Bank are one of the most significant turning points in the History of international finance. Through Decades of negotiation between international powers and the persistence of economic superpowers no single event inspired unity of determining the fair rules of trade and monetary policy than the Second World War. In Bretton Woods, New Hampshire, delegates from 44 nations gathered to determine what would be the rules for international trade after the war.After the Bretton Woods Conference was completed the framework for the IMF and World Bank were laid out and begun to be developed. As a result, international trade skyrocketed since exchange between countries and between continents finally had a measurable way to determine exchange rates and fair value of currency.  Individual countries' banks were no longer the determining factor in determining a fair exchange rate, removing inconsistencies between individual countries' monetary systems.The Bretton Woods system did not last very long, as after WW2 the United States was the physical owner of most of the world's gold supply. This meant countries' currencies were supposed to be pegged to a resource over which the US had a near monopoly. This state of affairs only lasted around 20 years as most notably in 1971 the French who were skeptical of the US dollar being the world's reserve currency reclaimed most of their gold that they exported to the US for protection. This action was inherently a destabilizing force to the US dollar since at any time before this individuals or businesses were able to exchange their US dollars for gold. Many other nations followed suit in a metaphorical "Gold Rush" to get gold from the US by exchanging dollars. The result of this action was the world's reserve currency, the US dollar, no longer being pegged to gold from 1971, with Richard Nixon removing the convertibility factor of the US dollar. This fundamentally changed international finance as no longer was the world's currency based on anything physical, it transitioned into a fiat currency (money without intrinsic value that is used as money because of government decree).
+
+
+== See also ==
+Finance
+Global financial system
+International economics
+International monetary systems
+International tradeBanking in the United States
+History of banking in the United States
+Banking in the United Kingdom
+Banking in Germany
+Banking in France
+
+
+== Notes and references ==
+
+
+== Further reading ==
+Born, Karl Erich. International Banking in the 19th and 20th Centuries (St Martin's, 1983) online
+
+
+== External links ==
+Historical documents on international finance available on FRASER

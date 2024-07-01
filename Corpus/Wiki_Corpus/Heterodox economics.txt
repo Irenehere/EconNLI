@@ -1,0 +1,103 @@
+Heterodox economics is any economic thought or theory that contrasts with orthodox schools of economic thought, or that may be beyond neoclassical economics. These include institutional, evolutionary, feminist, social, post-Keynesian (not to be confused with New Keynesian), ecological, Austrian, complexity, Marxian, socialist, and anarchist economics.Economics may be called orthodox or conventional economics by its critics. Alternatively, mainstream economics deals with the "rationality–individualism–equilibrium nexus" and heterodox economics is more "radical" in dealing with the "institutions–history–social structure nexus".A 2008 review documented several prominent groups of heterodox economists since at least the 1990s as working together with a resulting increase in coherence across different constituents. Along these lines, the International Confederation of Associations for Pluralism in Economics (ICAPE) does not define "heterodox economics" and has avoided defining its scope. ICAPE defines its mission as "promoting pluralism in economics."
+In defining a common ground in the "critical commentary", one writer described fellow heterodox economists as trying  to do three things: (1) identify shared ideas that generate a pattern of heterodox critique across topics and chapters of introductory macro texts; (2) give special attention to ideas that link methodological differences to policy differences; and (3) characterize the common ground in ways that permit distinct paradigms to develop common differences with textbook economics in different ways.One study suggests four key factors as important to the study of economics by self-identified heterodox economists: history, natural systems, uncertainty, and power.
+
+
+== History ==
+In the mid-19th century, such thinkers as Auguste Comte, Thomas Carlyle, John Ruskin and Karl Marx made early critiques of orthodox economy. A number of heterodox schools of economic thought challenged the dominance of neoclassical economics after the neoclassical revolution of the 1870s. In addition to socialist critics of capitalism, heterodox schools in this period included advocates of various forms of mercantilism, such as the American School dissenters from neoclassical methodology such as the historical school, and advocates of unorthodox monetary theories such as Social credit. Other heterodox schools active before and during the Great Depression included Technocracy and Georgism.
+Physical scientists and biologists were the first individuals to use energy flows to explain social and economic development. Joseph Henry, an American physicist and first secretary of the Smithsonian Institution, remarked that the "fundamental principle of political economy is that the physical labor of man can only be ameliorated by… the transformation of matter from a crude state to a artificial condition...by expending what is called power or energy."The rise, and absorption into the mainstream of Keynesian economics, which appeared to provide a more coherent policy response to unemployment than unorthodox monetary or trade policies contributed to the decline of interest in these schools.
+After 1945, the neoclassical synthesis of Keynesian and neoclassical economics resulted in a clearly defined mainstream position based on a division of the field into microeconomics (generally neoclassical but with a newly developed theory of market failure) and macroeconomics (divided between Keynesian and monetarist views on such issues as the role of monetary policy).  Austrians and post-Keynesians who dissented from this synthesis emerged as clearly defined heterodox schools. In addition, the Marxist and institutionalist schools remained active but with limited acceptance or credibility.Up to 1980 the most notable themes of heterodox economics in its various forms included:
+
+rejection of the atomistic individual conception in favor of a socially embedded individual conception;
+emphasis on time as an irreversible historical process;
+reasoning in terms of mutual influences between individuals and social structures.From approximately 1980 mainstream economics has been significantly influenced by a number of new research programs, including  behavioral economics, complexity economics, evolutionary economics, experimental economics, and neuroeconomics. One key development has been an epistemic turn away from theory towards an empirically driven approach focused centrally on questions of causal inference. As a consequence, some heterodox economists, such as John B. Davis, proposed that the definition of heterodox economics has to be adapted to this new, more complex reality:
+...heterodox economics post-1980 is a complex structure, being composed out of two broadly different kinds of heterodox work, each internally differentiated with a number of research programs having different historical origins and orientations: the traditional left heterodoxy familiar to most and the 'new heterodoxy' resulting from other science imports.
+
+
+== Rejection of neoclassical economics ==
+
+There is no single "heterodox economic theory"; there are many different "heterodox theories" in existence. What they all share, however, is a rejection of the neoclassical orthodoxy as representing the appropriate tool for understanding the workings of economic and social life. The reasons for this rejection may vary. Some of the elements commonly found in heterodox critiques are listed below.
+
+
+=== Criticism of the neoclassical model of individual behavior ===
+One of the most broadly accepted principles of neoclassical economics is the assumption of the "rationality of economic agents". Indeed, for a number of economists, the notion of rational maximizing behavior is taken to be synonymous with economic behavior (Hirshleifer 1984). When some economists' studies do not embrace the rationality assumption, they are seen as placing the analyses outside the boundaries of the Neoclassical economics discipline (Landsberg 1989, 596). Neoclassical economics begins with the a priori assumptions that agents are rational and that they seek to maximize their individual utility (or profits) subject to environmental constraints. These assumptions provide the backbone for rational choice theory.
+Many heterodox schools are critical of the homo economicus model of human behavior used in standard neoclassical model. A typical version of the critique is that of Satya Gabriel:
+Neoclassical economic theory is grounded in a particular conception of human psychology, agency or decision-making.  It is assumed that all human beings make economic decisions so as to maximize pleasure or utility.  Some heterodox theories reject this basic assumption of neoclassical theory, arguing for alternative understandings of how economic decisions are made and/or how human psychology works.  It is possible to accept the notion that humans are pleasure seeking machines, yet reject the idea that economic decisions are governed by such pleasure seeking.  Human beings may, for example, be unable to make choices consistent with pleasure maximization due to social constraints and/or coercion.  Humans may also be unable to correctly assess the choice points that are most likely to lead to maximum pleasure, even if they are unconstrained (except in budgetary terms) in making such choices.  And it is also possible that the notion of pleasure seeking is itself a meaningless assumption because it is either impossible to test or too general to refute.  Economic theories that reject the basic assumption of economic decisions as the outcome of pleasure maximization are heterodox.
+Shiozawa emphasizes that economic agents act in a complex world and therefore impossible for them to attain maximal utility point. They instead behave as if there are a repertories of many ready made rules, one of which they chose according to relevant situation.
+
+
+=== Criticism of the neoclassical model of market equilibrium ===
+In microeconomic theory, cost-minimization by consumers and by firms implies the existence of supply and demand correspondences for which market clearing equilibrium prices exist, if there are large numbers of consumers and producers. Under convexity assumptions or under some marginal-cost pricing rules, each equilibrium will be Pareto efficient: In large economies, non-convexity also leads to quasi-equilibria that are nearly efficient.
+However, the concept of market equilibrium has been criticized by Austrians, post-Keynesians and others, who object to applications of microeconomic theory to real-world markets, when such markets are not usefully approximated by microeconomic models. Heterodox economists assert that micro-economic models rarely capture reality.
+Mainstream microeconomics may be defined in terms of optimization and equilibrium, following the approaches of Paul Samuelson and Hal Varian. On the other hand, heterodox economics may be labeled as falling into the nexus of institutions, history, and social structure.
+
+
+== Most recent developments ==
+Over the past two decades, the intellectual agendas of heterodox economists have taken a decidedly pluralist turn. Leading heterodox thinkers have moved beyond the established paradigms of Austrian, Feminist, Institutional-Evolutionary, Marxian, Post Keynesian, Radical, Social, and Sraffian economics—opening up new lines of analysis, criticism, and dialogue among dissenting schools of thought. This cross-fertilization of ideas is creating a new generation of scholarship in which novel combinations of heterodox ideas are being brought to bear on important contemporary and historical problems, such as socially grounded reconstructions of the individual in economic theory; the goals and tools of economic measurement and professional ethics; the complexities of policymaking in today's global political economy; and innovative connections among formerly separate theoretical traditions (Marxian, Austrian, feminist, ecological, Sraffian, institutionalist, and post-Keynesian) (for a review of post-Keynesian economics, see Lavoie (1992); Rochon (1999)).
+David Colander, an advocate of complexity economics, argues that the ideas of heterodox economists are now being discussed in the mainstream without mention of the heterodox economists, because the tools to analyze institutions, uncertainty, and other factors have now been developed by the mainstream. He suggests that heterodox economists should embrace rigorous mathematics and attempt to work from within the mainstream, rather than treating it as an enemy.Some schools of heterodox economic thought have also taken a transdisciplinary approach. Thermoeconomics is based on the claim that human economic processes are governed by the second law of thermodynamics. The posited relationship between economic theory, energy and entropy, has been extended further by systems scientists to explain the role of energy in biological evolution in terms of such economic criteria as productivity, efficiency, and especially the costs and benefits of the various mechanisms for capturing and utilizing available energy to build biomass and do work.Various student movements have emerged in response to the exclusion of heterodox economics in the curricula of most economics degrees. The International Student Initiative for Pluralist Economics was set up as an umbrella network for various smaller university groups such as Rethinking Economics to promote pluralism in economics, including more heterodox approaches.
+
+
+== Fields of heterodox economic thought ==
+
+# Listed in  Journal of Economic Literature codes
+scrolled to at JEL: B5 – Current Heterodox Approaches.
+§ Listed in The New Palgrave Dictionary of EconomicsSome schools in the social sciences aim to promote certain perspectives: classical and modern political economy; economic sociology and anthropology; gender and racial issues in economics; and so on.
+
+
+=== Notable heterodox economists ===
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== Articles ===
+Bauer, Leonhard and Matis, Herbert 1988. "From moral to political economy: The Genesis of social sciences" History of European Ideas, 9(2): 125–43.
+Dequech, David 2007. "Neoclassical, mainstream, orthodox, and heterodox economics," Journal of Post Keynesian Economics, 30(2): 279–302.
+Flaherty, Diane, 1987.  "radical political economy," The New Palgrave: A Dictionary of Economics, v, 4. pp. 36–39.
+_____, 2008.  "radical economics," The New Palgrave Dictionary of Economics, 2nd Edition.Abstract.
+Lee, Frederic. S. 2008. "heterodox economics", The New Palgrave Dictionary of Economics, 2nd Edition. Abstract.
+
+
+=== Books ===
+Jo, Tae-Hee, Chester, Lynne, and D'Ippoliti. eds. 2017. The Routledge Handbook of Heterodox Economics. London and New York: Routledge. ISBN 978-1138899940.
+Crozier, John Beattie (1906). The Wheel of Wealth: Being a Reconstruction of the Science and Art of Political Economy on the Lines of Modern Evolution. London: Longmans, Green & Co.
+Gerber, Julien-Francois and Steppacher, Rolf, ed., 2012. Towards an Integrated Paradigm in Heterodox Economics: Alternative Approaches to the Current Eco-Social Crises. Palgrave Macmillan. ISBN 978-0230303584
+Lee, Frederic S. 2009. A History of Heterodox Economics Challenging the Mainstream in the Twentieth Century. London and New York: Routledge. 2009 ISBN 978-0415777148
+Harvey, John T. and Garnett Jr., Robert F., ed., 2007. Future Directions for Heterodox Economics, Series Advances in Heterodox Economics, The University of Michigan Press. ISBN 978-0472032471
+ What Every Economics Student Needs to Know.. Routledge 2014. ISBN 9780765639233
+McDermott, John, 2003. Economics in Real Time: A Theoretical Reconstruction, Series Advances in Heterodox Economics, The University of Michigan Press. ISBN 978-0472113576
+Rochon, Louis-Philippe  and Rossi, Sergio, editors, 2003.  Modern Theories of Money: The Nature and Role of Money in Capitalist Economies. Edward Elgar Publishing. ISBN 1840647892
+Solow, Robert M. (20 March 1988). "The Wide, Wide World Of Wealth (The New Palgrave: A Dictionary of Economics'. Edited by John Eatwell, Murray Milgate and Peter Newman. Four volumes. 4,103 pp. New York: Stockton Press.)". New York Times.
+Stigler, George J. (December 1988). "Palgrave's Dictionary of Economics". Journal of Economic Literature. 26 (4): 1729–36. JSTOR 2726859.
+Stilwell, Frank., 2011. Political Economy: The Contest of Economic Ideas. Oxford University Press. ISBN 978-0195514582
+Foundations of Real-World Economics: What Every Economics Student Needs to Know, 2nd edition, Abingdon-on-Thames, UK: Routledge: 2019.
+
+
+=== Articles, conferences, papers ===
+Lavoie, Marc, 2006. Do Heterodox Theories Have Anything in Common? A Post-Keynesian Point of View.
+Lawson, Tony, 2006.  "The Nature of Heterodox Economics," Cambridge Journal of Economics, 30(4), pp. 483–505. Pre-publication copy.
+
+
+=== Journals ===
+Evolutionary and Institutional Economics Review (Freely downloadable)
+Journal of Institutional Economics
+Cambridge Journal of Economics
+Real-world economics review
+International Journal of Pluralism and Economics Education
+Review of Radical Political Economy
+
+
+== External links ==
+Association for Heterodox Economics
+Heterodox Economics Newsletter
+Heterodox Economics Directory (Graduate and Undergraduate Programs, Journals, Publishers and Book Series, Associations, Blogs, and Institutions and Other Web Sites)
+Association for Evolutionary Economics (AFEE) 
+International Confederation of Associations for Pluralism in Economics (ICAPE)
+Union for Radical Political Economics (URPE)
+Association for Social Economics (ASE)
+Post-Keynesian Economics Study Group (PKSG)

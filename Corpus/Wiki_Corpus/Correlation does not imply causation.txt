@@ -1,0 +1,160 @@
+The phrase "correlation does not imply causation" refers to the inability to legitimately deduce a cause-and-effect relationship between two events or  variables solely on the basis of an observed association or correlation between them. The idea that "correlation implies causation" is an example of a questionable-cause logical fallacy, in which two events occurring together are taken to have established a cause-and-effect relationship. This fallacy is also known by the Latin phrase cum hoc ergo propter hoc ('with this, therefore because of this'). This differs from the fallacy known as post hoc ergo propter hoc ("after this, therefore because of this"), in which an event following another is seen as a necessary consequence of the former event, and from conflation, the errant merging of two events, ideas, databases, etc., into one.
+As with any logical fallacy, identifying that the reasoning behind an argument is flawed does not necessarily imply that the resulting conclusion is false. Statistical methods have been proposed that use correlation as the basis for hypothesis tests for causality, including the Granger causality test and convergent cross mapping.
+
+
+== Usage and meaning of terms ==
+
+
+=== "Imply" ===
+In casual use, the word "implies" loosely means suggests, rather than requires. However, in logic, the technical use of the word "implies" means "is a sufficient condition for." That is the meaning intended by statisticians when they say causation is not certain. Indeed, p implies q has the technical meaning of the material conditional: if p then q symbolized as p → q. That is, "if circumstance p is true, then q follows." In that sense, it is always correct to say "Correlation does not imply causation." 
+
+
+=== "Cause" ===
+The word "cause" (or "causation") has multiple meanings in English. In philosophical terminology. "cause" can refer to necessary, sufficient, or contributing causes. In examining correlation, "cause" is most often used to mean "one contributing cause" (but not necessarily the only contributing cause).
+If there is causation, there is correlation but also a sequence in time from cause to effect, a plausible mechanism, and sometimes common and intermediate causes. Correlation is often used to infer causation because it is a necessary condition: that is, if A causes B, then A and B must necessarily be correlated. However it is not a sufficient condition.
+
+
+== Causal analysis ==
+
+Causal analysis is the field of experimental design and statistics pertaining to establishing cause and effect. For any two correlated events, A and B, there are four possible relationships:
+
+A causes B (direct causation);
+B causes A (reverse causation);
+A and B are both caused by C (common causation);
+There is no connection between A and B; the correlation is a coincidence.These relationships are not mutually exclusive; they may exist in any combination. For example, it is possible that both A can cause effect B and B can cause effect A (bidirectional or cyclic causation). For example, CT scans cause brain cancers (through the delivered ionizing radiation), but brain cancers also cause persons to get a CT scan (the symptoms prompt doctors to order CT scans). Thus the relationship between brain cancers and CT scans is bidirectional.No conclusion can thus be made regarding the existence or the direction of a cause-and-effect relationship only from the fact that A and B are correlated. Determining whether there is an actual cause-and-effect relationship, and if so which direction the causality is, requires further investigation. If the relationship between A and B is statistically significant, the final relationship in the list above ("coincidence") may be statistically ruled out, but the correlation itself will not clarify whether A caused B, B caused A, or A and B were both caused by some other effect, C.
+
+
+=== In philosophy and physics ===
+
+The nature of causality is systematically investigated in several academic disciplines, including philosophy and physics.
+In academia, there are a significant number of theories on causality; The Oxford Handbook of Causation (Beebee, Hitchcock & Menzies 2009) encompasses 770 pages. Among the more influential theories within philosophy are Aristotle's Four causes and Al-Ghazali's occasionalism. David Hume argued that beliefs about causality are based on experience, and experience similarly based on the assumption that the future models the past, which in turn can be based only on experience, which leads to circular logic. In conclusion, he asserted that causality is not based on actual reasoning: only correlation can actually be perceived. Immanuel Kant, according to Beebee, Hitchcock & Menzies (2009), held that "a causal principle according to which every event has a cause, or follows according to a causal law, cannot be established through induction as a purely empirical claim, since it would then lack strict universality, or necessity".
+Outside the field of philosophy, theories of causation can be identified in classical mechanics, statistical mechanics, quantum mechanics, spacetime theories, biology, social sciences, and law. To establish a correlation as causal within physics, it is normally understood that the cause and the effect must connect through a local mechanism (cf. for instance the concept of impact) or a nonlocal mechanism (cf. the concept of field), in accordance with known laws of nature.
+From the point of view of thermodynamics, universal properties of causes as compared to effects have been identified through the Second Law of Thermodynamics, confirming the ancient, medieval and Cartesian view that "the cause is greater than the effect" for the particular case of thermodynamic free energy. That in turn is challenged by popular interpretations of the concepts of nonlinear systems and the butterfly effect in which small events cause large effects because of, respectively, unpredictability and an unlikely triggering of large amounts of potential energy.
+
+
+=== Causality construed from counterfactual states ===
+
+Intuitively, causation seems to require not just a correlation, but a counterfactual dependence. Suppose that a student performed poorly on a test and guesses that the cause was his not studying. To prove this, one thinks of the counterfactual – the same student writing the same test under the same circumstances but having studied the night before. If one could rewind history, and change only one small thing (making the student study for the exam), then causation could be observed (by comparing version 1 to version 2). Because one cannot rewind history and replay events after making small controlled changes, causation can only be inferred, never exactly known. That is referred to as the Fundamental Problem of Causal Inference – it is impossible to directly observe causal effects.A major goal of scientific experiments and statistical methods is to approximate as best possible the counterfactual state of the world. For example, one could run an experiment on identical twins who were known to consistently get the same grades on their tests. One twin is sent to study for six hours while the other is sent to the amusement park. If their test scores suddenly diverged by a large degree, that would be strong evidence that studying (or going to the amusement park) had a causal effect on test scores. In that case, correlation between studying and test scores would almost certainly imply causation.
+Well-designed experimental studies replace equality of individuals as in the previous example by equality of groups. The objective is to construct two groups that are similar except for the treatment that the groups receive. That is achieved by selecting subjects from a single population and randomly assigning them to two or more groups. The likelihood of the groups behaving similarly to one another (on average) rises with the number of subjects in each group.  If the groups are essentially equivalent except for the treatment they receive, and a difference in the outcome for the groups is observed, then this constitutes evidence that the treatment is responsible for the outcome, or in other words the treatment causes the observed effect.  However, an observed effect could also be caused "by chance", for example as a result of random perturbations in the population. Statistical tests exist to quantify the likelihood of erroneously concluding that an observed difference exists when in fact it does not exist (for example, see P-value).
+Examples in Medicine
+
+Obesity and Type 2 Diabetes
+There is a strong correlation between obesity and type 2 diabetes. However, this does not mean that obesity causes type 2 diabetes. Rather, both conditions may be caused by a common factor, such as a sedentary lifestyle and unhealthy diet. Additionally, some people with type 2 diabetes may be thin, while others who are obese may not have diabetes.
+Smoking and Lung Cancer
+Smoking is strongly correlated with lung cancer. However, this does not mean that smoking causes lung cancer. While smoking is a major risk factor for lung cancer, there are other factors that may contribute to the development of lung cancer, such as exposure to environmental toxins and genetic factors.
+Vitamin D and Multiple Sclerosis
+Some studies have found a correlation between low vitamin D levels and multiple sclerosis (MS). However, this does not necessarily mean that low vitamin D levels cause MS. It's possible that people with MS have lower vitamin D levels because of their decreased mobility and sun exposure, rather than the other way around.In conclusion, correlation does not always equal causation, and it's important to carefully consider other factors that may be involved in any observed relationship between two variables.
+
+
+=== Causality predicted by an extrapolation of trends ===
+
+When experimental studies are impossible, and only pre-existing data are available, as is usually the case for example in economics, regression analysis can be used. Factors other than the potential causative variable of interest are controlled for by including them as regressors in addition to the regressor representing the variable of interest.  False inferences of causation due to reverse causation (or wrong estimates of the magnitude of causation because of the presence of bidirectional causation) can be avoided by using explanators (regressors) that are necessarily exogenous, such as physical explanators like rainfall amount (as a determinant of, say, futures prices), lagged variables whose values were determined before the dependent variable's value was determined, instrumental variables for the explanators (chosen based on their known exogeneity), etc.  See causality in statistics and economics.  Spurious correlation from mutual influence from a third, common, causative variable, is harder to avoid: the model must be specified such that there is a theoretical reason to believe that no such underlying causative variable has been omitted from its analysis.
+
+
+== Examples of illogically inferring causation from correlation ==
+
+
+=== B causes A (reverse causation or reverse causality) ===
+Reverse causation or reverse causality or wrong direction is an informal fallacy of questionable cause where cause and effect are reversed. The cause is said to be the effect and vice versa.
+
+Example 1
+The faster that windmills are observed to rotate, the more wind is observed.
+Therefore, wind is caused by the rotation of windmills. (Or, simply put: windmills, as their name indicates, are machines used to produce wind.)In this example, the correlation (simultaneity) between windmill activity and wind velocity does not imply that wind is caused by windmills. It is rather the other way around, as suggested by the fact that wind does not need windmills to exist, while windmills need wind to rotate. Wind can be observed in places where there are no windmills or non-rotating windmills—and there are good reasons to believe that wind existed before the invention of windmills.
+
+Example 2
+Subjects with low cholesterol correlate with an increase in mortality.
+Therefore, low cholesterol increases your risk of mortality.It is the other way around since the disease, such as cancer, causes a low cholesterol because of a myriad of factors, such as weight loss, and an increase in mortality.
+This is also seen with ex-smokers. Ex-smokers are more likely to die of lung cancer than current smokers. When lifelong smokers are told they have lung cancer, many quit smoking. This change can make it seem as if ex-smokers are more likely to die of lung cancer than current smokers. This can also be seen in alcoholics. As alcoholics become diagnosed with cirrhosis of the liver, many quit drinking. However, they also experience an increased risk of mortality. In these instances, it is the diseases that cause an increased risk of mortality, but the increased mortality is attributed to the beneficial effects that follow the diagnosis, making healthy changes look unhealthy.
+Example 3
+In other cases it may simply be unclear which is the cause and which is the effect. For example:
+
+Children that watch a lot of TV are the most violent. Clearly, TV makes children more violent.This could easily be the other way round; that is, violent children like watching more TV than less violent ones.
+Example 4
+A correlation between recreational drug use and psychiatric disorders might be either way around: perhaps the drugs cause the disorders, or perhaps people use drugs to self medicate for preexisting conditions. Gateway drug theory may argue that marijuana usage leads to usage of harder drugs, but hard drug usage may lead to marijuana usage (see also confusion of the inverse). Indeed, in the social sciences where controlled experiments often cannot be used to discern the direction of causation, this fallacy can fuel long-standing scientific arguments. One such example can be found in education economics, between the screening/signaling and human capital models: it could either be that having innate ability enables one to complete an education, or that completing an education builds one's ability.
+Example 5
+A historical example of this is that Europeans in the Middle Ages believed that lice were beneficial to health since there would rarely be any lice on sick people. The reasoning was that the people got sick because the lice left. The real reason however is that lice are extremely sensitive to body temperature. A small increase of body temperature, such as in a fever, makes the lice look for another host. The medical thermometer had not yet been invented and so that increase in temperature was rarely noticed. Noticeable symptoms came later, which gave the impression that the lice had left before the person became sick.In other cases, two phenomena can each be a partial cause of the other; consider poverty and lack of education, or procrastination and poor self-esteem. One making an argument based on these two phenomena must however be careful to avoid the fallacy of circular cause and consequence. Poverty is a cause of lack of education, but it is not the sole cause, and vice versa.
+
+
+=== Third factor C (the common-causal variable) causes both A and B ===
+
+The third-cause fallacy (also known as ignoring a common cause or questionable cause) is a logical fallacy in which a spurious relationship is confused for causation. It asserts that X causes Y when in reality, both X and Y are caused by Z. It is a variation on the post hoc ergo propter hoc fallacy and a member of the questionable cause group of fallacies.
+All of those examples deal with a lurking variable, which is simply a hidden third variable that affects both causes of the correlation. A difficulty often also arises where the third factor, though fundamentally different from A and B, is so closely related to A and/or B as to be confused with them or very difficult to scientifically disentangle from them (see Example 4).
+
+Example 1
+Sleeping with one's shoes on is strongly correlated with waking up with a headache.
+Therefore, sleeping with one's shoes on causes headache.The above example commits the correlation-implies-causation fallacy, as it prematurely concludes that sleeping with one's shoes on causes headache. A more plausible explanation is that both are caused by a third factor, in this case going to bed drunk, which thereby gives rise to a correlation. So the conclusion is false.
+
+Example 2
+Young children who sleep with the light on are much more likely to develop myopia in later life.
+Therefore, sleeping with the light on causes myopia.This is a scientific example that resulted from a study at the University of Pennsylvania Medical Center. Published in the May 13, 1999, issue of Nature, the study received much coverage at the time in the popular press. However, a later study at Ohio State University did not find that infants sleeping with the light on caused the development of myopia. It did find a strong link between parental myopia and the development of child myopia, also noting that myopic parents were more likely to leave a light on in their children's bedroom. In this case, the cause of both conditions is parental myopia, and the above-stated conclusion is false.
+
+Example 3
+As ice cream sales increase, the rate of drowning deaths increases sharply.
+Therefore, ice cream consumption causes drowning.This example fails to recognize the importance of time of year and temperature to ice cream sales. Ice cream is sold during the hot summer months at a much greater rate than during colder times, and it is during these hot summer months that people are more likely to engage in activities involving water, such as swimming. The increased drowning deaths are simply caused by more exposure to water-based activities, not ice cream. The stated conclusion is false.
+
+Example 4
+A hypothetical study shows a relationship between test anxiety scores and shyness scores, with a statistical r value (strength of correlation) of +.59.
+Therefore, it may be simply concluded that shyness, in some part, causally influences test anxiety.However, as encountered in many psychological studies, another variable, a "self-consciousness score", is discovered that has a sharper correlation (+.73) with shyness.  This suggests a possible "third variable" problem, however, when three such closely related measures are found, it further suggests that each may have bidirectional tendencies (see "bidirectional variable", above), being a cluster of correlated values each influencing one another to some extent. Therefore, the simple conclusion above may be false.
+
+Example 5
+Since the 1950s, both the atmospheric CO2 level and obesity levels have increased sharply.
+Hence, atmospheric CO2 causes obesity.Richer populations tend to eat more food and produce more CO2.
+
+Example 6
+HDL ("good") cholesterol is negatively correlated with incidence of heart attack.
+Therefore, taking medication to raise HDL decreases the chance of having a heart attack.Further research has called this conclusion into question. Instead, it may be that other underlying factors, like genes, diet and exercise, affect both HDL levels and the likelihood of having a heart attack; it is possible that medicines may affect the directly measurable factor, HDL levels, without affecting the chance of heart attack.
+
+
+=== Bidirectional causation: A causes B, and B causes A ===
+Causality is not necessarily one-way; 
+in a predator-prey relationship, predator numbers affect prey numbers, but prey numbers, i.e. food supply, also affect predator numbers. Another well-known example is that cyclists have a lower Body Mass Index than people who do not cycle. This is often explained by assuming that cycling increases physical activity levels and therefore decreases BMI. Because results from prospective studies on people who increase their bicycle use show a smaller effect on BMI than cross-sectional studies, there may be some reverse causality as well (i.e. people with a lower BMI are more likely to cycle).
+
+
+=== The relationship between A and B is coincidental ===
+
+The two variables are not related at all, but correlate by chance. The more things are examined, the more likely it is that two unrelated variables will appear to be related. For example:
+
+The result of the last home game by the Washington Commanders prior to the presidential election predicted the outcome of every presidential election from 1936 to 2000 inclusive, despite the fact that the outcomes of football games had nothing to do with the outcome of the popular election. This streak was finally broken in 2004 (or 2012 using an alternative formulation of the original rule).
+The Mierscheid law, which correlates the Social Democratic Party of Germany's share of the popular vote with the size of crude steel production in Western Germany.
+Alternating bald–hairy Russian leaders: A bald (or obviously balding) state leader of Russia has succeeded a non-bald ("hairy") one, and vice versa, for nearly 200 years.
+The Bible code, Hebrew words predicting historical events supposedly hidden within the Torah: the huge number of combinations of letters makes appearances of any word in sufficiently lengthy text statistically insignificant.
+
+
+== Use of correlation as scientific evidence ==
+Much of scientific evidence is based upon a correlation of variables that are observed to occur together. Scientists are careful to point out that correlation does not necessarily mean causation. The assumption that A causes B simply because A correlates with B is often not accepted as a legitimate form of argument.
+However, sometimes people commit the opposite fallacy of dismissing correlation entirely. That would dismiss a large swath of important scientific evidence. Since it may be difficult or ethically impossible to run controlled double-blind studies, correlational evidence from several different angles may be useful for prediction despite failing to provide evidence for causation. For example, social workers might be interested in knowing how child abuse relates to academic performance. Although it would be unethical to perform an experiment in which children are randomly assigned to receive or not receive abuse, researchers can look at existing groups using a non-experimental correlational design. If in fact a negative correlation exists between abuse and academic performance, researchers could potentially use this knowledge of a statistical correlation to make predictions about children outside the study who experience abuse even though the study failed to provide causal evidence that abuse decreases academic performance. The combination of limited available methodologies with the dismissing correlation fallacy has on occasion been used to counter a scientific finding. For example, the tobacco industry has historically relied on a dismissal of correlational evidence to reject a link between tobacco smoke and lung cancer, as did biologist and statistician Ronald Fisher (frequently on the industry's behalf).Correlation is a valuable type of scientific evidence in fields such as medicine, psychology, and sociology. Correlations must first be confirmed as real, and every possible causative relationship must then be systematically explored. In the end, correlation alone cannot be used as evidence for a cause-and-effect relationship between a treatment and benefit, a risk factor and a disease, or a social or economic factor and various outcomes. It is one of the most abused types of evidence because it is easy and even tempting to come to premature conclusions based upon the preliminary appearance of a correlation.
+
+
+== See also ==
+Affirming the consequent – Type of fallacious argument (logical fallacy)
+Alignments of random points – Phenomenon in statistics
+Anecdotal evidence – Evidence relying on personal testimony
+Apophenia – Tendency to perceive connections between unrelated things
+Post hoc analysis – Statistical analyses that were not specified before the data were seen
+Multiple comparisons problem – Statistical interpretation with many tests
+Look-elsewhere effect
+Data dredging – Misuse of data analysis
+Testing hypotheses suggested by the data – when statistical hypotheses are tested with the same dataset that suggested them, they are likely to be accepted, even though not necessarily true due to circular reasoningPages displaying wikidata descriptions as a fallback
+Bible code – Purported set of secret messages encoded within the Hebrew text of the Torah
+Coincidence#Causality – Concurrence of events with no connection
+Confounding – Variable or factor in causal inference
+Confusion of the inverse – Logical fallacy
+French paradox – Observation that amount heart diseases French people have is much less than is expected
+Design of experiments – Design of tasks
+Joint effect – Apparent, but false, correlation between causally-independent variablesPages displaying short descriptions of redirect targets
+Mediation (statistics) – Statistical model
+Normally distributed and uncorrelated does not imply independent
+Pirates and global warming – Satirical deityPages displaying short descriptions of redirect targets
+Reproducibility – Aspect of scientific research
+Spurious relationship – Apparent, but false, correlation between causally-independent variables
+Teleology – Thinking in terms of destiny or purpose
+
+
+== References ==
+
+Bundled references
+
+
+=== Bibliography ===
+Beebee, Helen; Hitchcock, Christopher; Menzies, Peter (2009). The Oxford Handbook of Causation. Oxford University Press. ISBN 978-0-19-162946-4.
+Tufte, Edward R. (2006). The Cognitive Style of PowerPoint: Pitching Out Corrupts Within (2nd ed.). Cheshire, Connecticut: Graphics Press. ISBN 978-0-9613921-5-4.

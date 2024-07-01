@@ -1,0 +1,1510 @@
+In statistics, stochastic volatility models are those in which the variance of a stochastic process is itself randomly distributed. They are used in the field of mathematical finance to evaluate derivative securities, such as options. The name derives from the models' treatment of the underlying security's volatility as a random process, governed by state variables such as the price level of the underlying security, the tendency of volatility to revert to some long-run mean value, and the variance of the volatility process itself, among others.
+Stochastic volatility models are one approach to resolve a shortcoming of the Black–Scholes model. In particular, models based on Black-Scholes assume that the underlying volatility is constant over the life of the derivative, and unaffected by the changes in the price level of the underlying security. However, these models cannot explain long-observed features of the implied volatility surface such as volatility smile and skew, which indicate that implied volatility does tend to vary with respect to strike price and expiry. By assuming that the volatility of the underlying price is a stochastic process rather than a constant, it becomes possible to model derivatives more accurately.
+A middle ground between the bare Black-Scholes model and stochastic volatility models is covered by local volatility models. In these models the underlying volatility does not feature any new randomness but it isn't a constant either. In local volatility models the volatility is a non-trivial function of the underlying asset, without any extra randomness. According to this definition, models like constant elasticity of variance would be local volatility models, although they are sometimes classified as stochastic volatility models. The classification can be a little ambiguous in some cases.    
+The early history of stochastic volatility has multiple roots (i.e. stochastic process, option pricing and econometrics), it is reviewed in Chapter 1 of Neil Shephard (2005) "Stochastic Volatility," Oxford University Press.    
+
+
+== Basic model ==
+Starting from a constant volatility approach, assume that the derivative's underlying asset price follows a standard model for geometric Brownian motion:
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        μ
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        σ
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle dS_{t}=\mu S_{t}\,dt+\sigma S_{t}\,dW_{t}\,}
+  where 
+  
+    
+      
+        μ
+        
+      
+    
+    {\displaystyle \mu \,}
+   is the constant drift (i.e. expected return) of the security price 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle S_{t}\,}
+  , 
+  
+    
+      
+        σ
+        
+      
+    
+    {\displaystyle \sigma \,}
+   is the constant volatility, and 
+  
+    
+      
+        d
+        
+          W
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle dW_{t}\,}
+   is a standard Wiener process with zero mean and unit rate of variance. The explicit solution of this stochastic differential equation is
+
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+        =
+        
+          S
+          
+            0
+          
+        
+        
+          e
+          
+            (
+            μ
+            −
+            
+              
+                1
+                2
+              
+            
+            
+              σ
+              
+                2
+              
+            
+            )
+            t
+            +
+            σ
+            
+              W
+              
+                t
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle S_{t}=S_{0}e^{(\mu -{\frac {1}{2}}\sigma ^{2})t+\sigma W_{t}}.}
+  The maximum likelihood estimator to estimate the constant volatility 
+  
+    
+      
+        σ
+        
+      
+    
+    {\displaystyle \sigma \,}
+   for given stock prices 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle S_{t}\,}
+   at different times 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        
+      
+    
+    {\displaystyle t_{i}\,}
+   is
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        σ
+                        ^
+                      
+                    
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        1
+                        n
+                      
+                    
+                    
+                      ∑
+                      
+                        i
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      
+                        
+                          (
+                          ln
+                          ⁡
+                          
+                            S
+                            
+                              
+                                t
+                                
+                                  i
+                                
+                              
+                            
+                          
+                          −
+                          ln
+                          ⁡
+                          
+                            S
+                            
+                              
+                                t
+                                
+                                  i
+                                  −
+                                  1
+                                
+                              
+                            
+                          
+                          
+                            )
+                            
+                              2
+                            
+                          
+                        
+                        
+                          
+                            t
+                            
+                              i
+                            
+                          
+                          −
+                          
+                            t
+                            
+                              i
+                              −
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                −
+                
+                  
+                    1
+                    n
+                  
+                
+                
+                  
+                    
+                      (
+                      ln
+                      ⁡
+                      
+                        S
+                        
+                          
+                            t
+                            
+                              n
+                            
+                          
+                        
+                      
+                      −
+                      ln
+                      ⁡
+                      
+                        S
+                        
+                          
+                            t
+                            
+                              0
+                            
+                          
+                        
+                      
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                    
+                      
+                        t
+                        
+                          n
+                        
+                      
+                      −
+                      
+                        t
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    1
+                    n
+                  
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                (
+                
+                  t
+                  
+                    i
+                  
+                
+                −
+                
+                  t
+                  
+                    i
+                    −
+                    1
+                  
+                
+                )
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            ln
+                            ⁡
+                            
+                              
+                                
+                                  S
+                                  
+                                    
+                                      t
+                                      
+                                        i
+                                      
+                                    
+                                  
+                                
+                                
+                                  S
+                                  
+                                    
+                                      t
+                                      
+                                        i
+                                        −
+                                        1
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                          
+                            
+                              t
+                              
+                                i
+                              
+                            
+                            −
+                            
+                              t
+                              
+                                i
+                                −
+                                1
+                              
+                            
+                          
+                        
+                      
+                      −
+                      
+                        
+                          
+                            ln
+                            ⁡
+                            
+                              
+                                
+                                  S
+                                  
+                                    
+                                      t
+                                      
+                                        n
+                                      
+                                    
+                                  
+                                
+                                
+                                  S
+                                  
+                                    
+                                      t
+                                      
+                                        0
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                          
+                            
+                              t
+                              
+                                n
+                              
+                            
+                            −
+                            
+                              t
+                              
+                                0
+                              
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                ;
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\widehat {\sigma }}^{2}&=\left({\frac {1}{n}}\sum _{i=1}^{n}{\frac {(\ln S_{t_{i}}-\ln S_{t_{i-1}})^{2}}{t_{i}-t_{i-1}}}\right)-{\frac {1}{n}}{\frac {(\ln S_{t_{n}}-\ln S_{t_{0}})^{2}}{t_{n}-t_{0}}}\\&={\frac {1}{n}}\sum _{i=1}^{n}(t_{i}-t_{i-1})\left({\frac {\ln {\frac {S_{t_{i}}}{S_{t_{i-1}}}}}{t_{i}-t_{i-1}}}-{\frac {\ln {\frac {S_{t_{n}}}{S_{t_{0}}}}}{t_{n}-t_{0}}}\right)^{2};\end{aligned}}}
+  its expected value is 
+  
+    
+      
+        E
+        ⁡
+        
+          [
+          
+            
+              
+                
+                  σ
+                  ^
+                
+              
+            
+            
+              2
+            
+          
+          ]
+        
+        =
+        
+          
+            
+              n
+              −
+              1
+            
+            n
+          
+        
+        
+          σ
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {E} \left[{\widehat {\sigma }}^{2}\right]={\frac {n-1}{n}}\sigma ^{2}.}
+  
+This basic model with constant volatility 
+  
+    
+      
+        σ
+        
+      
+    
+    {\displaystyle \sigma \,}
+   is the starting point for non-stochastic volatility models such as Black–Scholes model and Cox–Ross–Rubinstein model.
+For a stochastic volatility model, replace the constant volatility 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   with a function 
+  
+    
+      
+        
+          ν
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \nu _{t}}
+   that models the variance of 
+  
+    
+      
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle S_{t}}
+  . This variance function is also modeled as Brownian motion, and the form of 
+  
+    
+      
+        
+          ν
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \nu _{t}}
+   depends on the particular SV model under study. 
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        μ
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        
+          
+            
+              ν
+              
+                t
+              
+            
+          
+        
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle dS_{t}=\mu S_{t}\,dt+{\sqrt {\nu _{t}}}S_{t}\,dW_{t}\,}
+  
+  
+    
+      
+        d
+        
+          ν
+          
+            t
+          
+        
+        =
+        
+          α
+          
+            ν
+            ,
+            t
+          
+        
+        
+        d
+        t
+        +
+        
+          β
+          
+            ν
+            ,
+            t
+          
+        
+        
+        d
+        
+          B
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle d\nu _{t}=\alpha _{\nu ,t}\,dt+\beta _{\nu ,t}\,dB_{t}\,}
+  where 
+  
+    
+      
+        
+          α
+          
+            ν
+            ,
+            t
+          
+        
+      
+    
+    {\displaystyle \alpha _{\nu ,t}}
+   and 
+  
+    
+      
+        
+          β
+          
+            ν
+            ,
+            t
+          
+        
+      
+    
+    {\displaystyle \beta _{\nu ,t}}
+   are some functions of 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  , and 
+  
+    
+      
+        d
+        
+          B
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dB_{t}}
+   is another standard gaussian that is correlated with 
+  
+    
+      
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dW_{t}}
+   with constant correlation factor 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  .
+
+
+=== Heston model ===
+
+The popular Heston model is a commonly used SV model, in which the randomness of the variance process varies as the square root of variance. In this case, the differential equation for variance takes the form:
+
+  
+    
+      
+        d
+        
+          ν
+          
+            t
+          
+        
+        =
+        θ
+        (
+        ω
+        −
+        
+          ν
+          
+            t
+          
+        
+        )
+        
+        d
+        t
+        +
+        ξ
+        
+          
+            
+              ν
+              
+                t
+              
+            
+          
+        
+        
+        d
+        
+          B
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle d\nu _{t}=\theta (\omega -\nu _{t})\,dt+\xi {\sqrt {\nu _{t}}}\,dB_{t}\,}
+  where 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is the mean long-term variance, 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is the rate at which the variance reverts toward its long-term mean, 
+  
+    
+      
+        ξ
+      
+    
+    {\displaystyle \xi }
+   is the volatility of the variance process, and 
+  
+    
+      
+        d
+        
+          B
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dB_{t}}
+   is, like 
+  
+    
+      
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dW_{t}}
+  , a gaussian with zero mean and 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+   variance. However, 
+  
+    
+      
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dW_{t}}
+   and 
+  
+    
+      
+        d
+        
+          B
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dB_{t}}
+   are correlated with the constant correlation value 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  .
+In other words, the Heston SV model assumes that the variance is a random process that
+
+exhibits a tendency to revert towards a long-term mean 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   at a rate 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  ,
+exhibits a volatility proportional to the square root of its level
+and whose source of randomness is correlated (with correlation 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  ) with the randomness of the underlying's price processes.Some parametrisation of the volatility surface, such as 'SVI', are based on the Heston model. 
+
+
+=== CEV model ===
+
+The CEV model describes the relationship between volatility and price, introducing stochastic volatility:
+
+  
+    
+      
+        d
+        
+          S
+          
+            t
+          
+        
+        =
+        μ
+        
+          S
+          
+            t
+          
+        
+        
+        d
+        t
+        +
+        σ
+        
+          S
+          
+            t
+          
+          
+            
+            γ
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle dS_{t}=\mu S_{t}\,dt+\sigma S_{t}^{\,\gamma }\,dW_{t}}
+  Conceptually, in some markets volatility rises when prices rise (e.g. commodities), so 
+  
+    
+      
+        γ
+        >
+        1
+      
+    
+    {\displaystyle \gamma >1}
+  .  In other markets, volatility tends to rise as prices fall, modelled with 
+  
+    
+      
+        γ
+        <
+        1
+      
+    
+    {\displaystyle \gamma <1}
+  .
+Some argue that because the CEV model does not incorporate its own stochastic process for volatility, it is not truly a stochastic volatility model.  Instead, they call it a local volatility model.
+
+
+=== SABR volatility model ===
+
+The SABR model (Stochastic Alpha, Beta, Rho), introduced by Hagan et al. describes a single forward 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   (related to any asset e.g. an index, interest rate, bond, currency or equity) under stochastic volatility 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  :
+
+  
+    
+      
+        d
+        
+          F
+          
+            t
+          
+        
+        =
+        
+          σ
+          
+            t
+          
+        
+        
+          F
+          
+            t
+          
+          
+            β
+          
+        
+        
+        d
+        
+          W
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle dF_{t}=\sigma _{t}F_{t}^{\beta }\,dW_{t},}
+  
+  
+    
+      
+        d
+        
+          σ
+          
+            t
+          
+        
+        =
+        α
+        
+          σ
+          
+            t
+          
+        
+        
+        d
+        
+          Z
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle d\sigma _{t}=\alpha \sigma _{t}\,dZ_{t},}
+  The initial values 
+  
+    
+      
+        
+          F
+          
+            0
+          
+        
+      
+    
+    {\displaystyle F_{0}}
+   and 
+  
+    
+      
+        
+          σ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \sigma _{0}}
+   are the current forward price and volatility, whereas 
+  
+    
+      
+        
+          W
+          
+            t
+          
+        
+      
+    
+    {\displaystyle W_{t}}
+   and 
+  
+    
+      
+        
+          Z
+          
+            t
+          
+        
+      
+    
+    {\displaystyle Z_{t}}
+   are two correlated Wiener processes (i.e. Brownian motions) with correlation coefficient 
+  
+    
+      
+        −
+        1
+        <
+        ρ
+        <
+        1
+      
+    
+    {\displaystyle -1<\rho <1}
+  . The constant parameters 
+  
+    
+      
+        β
+        ,
+        
+        α
+      
+    
+    {\displaystyle \beta ,\;\alpha }
+   are such that 
+  
+    
+      
+        0
+        ≤
+        β
+        ≤
+        1
+        ,
+        
+        α
+        ≥
+        0
+      
+    
+    {\displaystyle 0\leq \beta \leq 1,\;\alpha \geq 0}
+  .
+The main feature of the SABR model is to be able to reproduce the smile effect of the volatility smile.
+
+
+=== GARCH model ===
+The Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model is another popular model for estimating stochastic volatility. It assumes that the randomness of the variance process varies with the variance, as opposed to the square root of the variance as in the Heston model. The standard GARCH(1,1) model has the following form for the continuous variance differential:
+
+  
+    
+      
+        d
+        
+          ν
+          
+            t
+          
+        
+        =
+        θ
+        (
+        ω
+        −
+        
+          ν
+          
+            t
+          
+        
+        )
+        
+        d
+        t
+        +
+        ξ
+        
+          ν
+          
+            t
+          
+        
+        
+        d
+        
+          B
+          
+            t
+          
+        
+        
+      
+    
+    {\displaystyle d\nu _{t}=\theta (\omega -\nu _{t})\,dt+\xi \nu _{t}\,dB_{t}\,}
+  The GARCH model has been extended via numerous variants, including the NGARCH, TGARCH, IGARCH, LGARCH, EGARCH, GJR-GARCH, etc. Strictly, however, the conditional volatilities from GARCH models are not stochastic since at time t the volatility is completely pre-determined (deterministic) given previous values.
+
+
+=== 3/2 model ===
+The 3/2 model is similar to the Heston model, but assumes that the randomness of the variance process varies with 
+  
+    
+      
+        
+          ν
+          
+            t
+          
+          
+            3
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \nu _{t}^{3/2}}
+  . The form of the variance differential is:
+
+  
+    
+      
+        d
+        
+          ν
+          
+            t
+          
+        
+        =
+        
+          ν
+          
+            t
+          
+        
+        (
+        ω
+        −
+        θ
+        
+          ν
+          
+            t
+          
+        
+        )
+        
+        d
+        t
+        +
+        ξ
+        
+          ν
+          
+            t
+          
+          
+            3
+            
+              /
+            
+            2
+          
+        
+        
+        d
+        
+          B
+          
+            t
+          
+        
+        .
+        
+      
+    
+    {\displaystyle d\nu _{t}=\nu _{t}(\omega -\theta \nu _{t})\,dt+\xi \nu _{t}^{3/2}\,dB_{t}.\,}
+  However the meaning of the parameters is different from Heston model. In this model, both mean reverting and volatility of variance parameters are stochastic quantities given by 
+  
+    
+      
+        θ
+        
+          ν
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \theta \nu _{t}}
+    and 
+  
+    
+      
+        ξ
+        
+          ν
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \xi \nu _{t}}
+   respectively.
+
+
+=== Rough volatility models ===
+Using estimation of volatility from high frequency data, smoothness of the volatility process has been questioned.
+It has been found that log-volatility behaves as a fractional Brownian motion with Hurst exponent of order 
+  
+    
+      
+        H
+        =
+        0.1
+      
+    
+    {\displaystyle H=0.1}
+  , at any reasonable timescale. This led to adopting a fractional stochastic volatility (FSV) model, leading to an overall Rough FSV (RFSV) where "rough"  is to highlight that 
+  
+    
+      
+        H
+        <
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle H<1/2}
+  . The RFSV model is consistent with time series data, allowing for improved forecasts of realized volatility.
+
+
+== Calibration and estimation ==
+Once a particular SV model is chosen, it must be calibrated against existing market data. Calibration is the process of identifying the set of model parameters that are most likely given the observed data. One popular technique is to use maximum likelihood estimation (MLE). For instance, in the Heston model, the set of model parameters 
+  
+    
+      
+        
+          Ψ
+          
+            0
+          
+        
+        =
+        {
+        ω
+        ,
+        θ
+        ,
+        ξ
+        ,
+        ρ
+        }
+        
+      
+    
+    {\displaystyle \Psi _{0}=\{\omega ,\theta ,\xi ,\rho \}\,}
+   can be estimated applying an MLE algorithm such as the Powell Directed Set method [1] to observations of historic underlying security prices.
+In this case, you start with an estimate for 
+  
+    
+      
+        
+          Ψ
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle \Psi _{0}\,}
+  , compute the residual errors when applying the historic price data to the resulting model, and then adjust 
+  
+    
+      
+        Ψ
+        
+      
+    
+    {\displaystyle \Psi \,}
+   to try to minimize these errors. Once the calibration has been performed, it is standard practice to re-calibrate the model periodically.
+An alternative to calibration is statistical estimation, thereby accounting for parameter uncertainty. Many frequentist and Bayesian methods have been proposed and implemented, typically for a subset of the abovementioned models. The following list contains extension packages for the open source statistical software R that have been specifically designed for heteroskedasticity estimation. The first three cater for GARCH-type models with deterministic volatilities; the fourth deals with stochastic volatility estimation.
+
+rugarch: ARFIMA, in-mean, external regressors and various GARCH flavors, with methods for fit, forecast, simulation, inference and plotting.
+fGarch: Part of the Rmetrics environment for teaching "Financial Engineering and Computational Finance".
+bayesGARCH: Bayesian estimation of the GARCH(1,1) model with Student's t innovations.
+stochvol: Efficient algorithms for fully Bayesian estimation of stochastic volatility (SV) models via Markov chain Monte Carlo (MCMC) methods.Many numerical methods have been developed over time and have solved pricing financial assets such as options with stochastic volatility models. A recent developed application is the local stochastic volatility model. This local stochastic volatility model gives better results in pricing new financial assets such as forex options. 
+There are also alternate statistical estimation libraries in other languages such as Python:
+
+PyFlux Includes Bayesian and classical inference support for GARCH and beta-t-EGARCH models.
+
+
+== See also ==
+Black–Scholes model
+Heston model
+Local volatility
+Markov switching multifractal
+Risk-neutral measure
+SABR volatility model
+Stochastic volatility jump
+Subordinator
+Volatility
+Volatility clustering
+Volatility, uncertainty, complexity and ambiguity
+
+
+== References ==
+
+
+== Sources ==
+Stochastic Volatility and Mean-variance Analysis, Hyungsok Ahn, Paul Wilmott, (2006).
+A closed-form solution for options with stochastic volatility, SL Heston, (1993).
+Inside Volatility Arbitrage, Alireza Javaheri, (2005).
+Accelerating the Calibration of Stochastic Volatility Models, Kilin, Fiodar (2006).

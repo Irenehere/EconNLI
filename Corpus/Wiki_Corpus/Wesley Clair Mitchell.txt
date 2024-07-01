@@ -1,0 +1,65 @@
+Wesley Clair Mitchell (August 5, 1874 – October 29, 1948) was an American economist known for his empirical work on business cycles and for guiding the National Bureau of Economic Research in its first decades.
+Mitchell was referred to as Thorstein Veblen's "star student."Paul Samuelson named Mitchell (along with Harry Gunnison Brown, Allyn Abbott Young, Henry Ludwell Moore, Frank Knight, Jacob Viner, and Henry Schultz) as one of the several "American saints in economics" born after 1860.
+
+
+== Biography ==
+Mitchell was born in Rushville, Illinois, the second child and oldest son of a Civil War army doctor turned farmer. In a family with seven children and a disabled father with an appetite for business ventures "verging on rashness" a lot of responsibility fell on the oldest son. Despite these challenges, Wesley Clair went to study at the University of Chicago and was awarded a PhD in 1899.Mitchell's career as a researcher and teacher took the following course: instructor in economics at Chicago (1899–1903), assistant professor (1903–08) and professor (1909–12) of economics at the University of California, Berkeley, visiting lecturer at Harvard University (1908–09), lecturer (1913) and full professor (1914–44) at Columbia University. In 1916 he was elected as a Fellow of the American Statistical Association. He was elected to both the American Academy of Arts and Sciences and the American Philosophical Society in 1931.He was one of the founders of the New School for Social Research, where he taught for a time between 1919 and 1922, and of the National Bureau of Economic Research (1920), where he was director of research until 1945.
+There were interruptions for government service during the First World War and Mitchell served on many government committees; he was chairman of the President's Committee on Social Trends (1929–33). In 1923–4 he was president of the American Economic Association. Mitchell and John Whitridge Williams represented the United States at the World Population Conference held in Geneva, Switzerland in 1927. From 1941 he was on the original standing committee of the Foundation for the Study of Cycles.
+The National Bureau was the institution through which Mitchell had greatest influence. There his important associates included Arthur Burns and Simon Kuznets. In his autobiography Kuznets acknowledges his "great intellectual debt to Mitchell."
+Mitchell has also made valuable contributions to the history of economic thought.
+Mitchell was married to Lucy Sprague Mitchell, a pioneering educator and the founder of Bank Street College of Education. He assisted his wife with the founding of the school.
+
+
+== Work ==
+
+
+=== University of Chicago ===
+Mitchell’s teachers included economists Thorstein Veblen and J. L. Laughlin and philosopher John Dewey. Although Veblen and Dewey did more to shape Mitchell’s outlook, Laughlin supervised his dissertation. Laughlin's main interest was in currency questions; he was a strong opponent of the quantity theory of money. The currency question facing the US in the 1890s was the choice between alternative monetary standards: inconvertible paper, gold monometallism and gold/silver bimetallism.
+Mitchell’s thesis, published as A History of the Greenbacks, considered the consequences of the inconvertible paper regime established by the Union in the Civil War. However this, and the follow-up study Gold Prices and Wages Under the Greenback Standard, transcended conventional monetary history of the kind Laughlin did and provided a comprehensive quantitative account of the behavior of the US economy in the recent past.
+
+
+=== Business Cycles, 1913 ===
+Mitchell's next project, which would occupy him for the rest of his life, was the study and measurement of the business cycle, which was then emerging as the big problem in economics. His magnum opus, Business Cycles appeared in 1913. The Preface begins
+
+This book offers an analytic description of the complicated processes by which seasons of business prosperity, crisis, depression, and revival come about in the modern world. The materials used consist chiefly of market reports and statistics concerning the business cycles which have run their course since 1890 in the United States, England, Germany and France.
+
+In chapter I Mitchell reviews 13 theories of the business cycle and admits that "All are plausible." He then puts them aside, arguing,
+
+To observe, analyse, and systematise the phenomena of prosperity, crisis, and depression is the chief task. And there is better prospect of rendering service if we attack this task directly, than if we take the round about way of considering the phenomena with reference to the theory.
+
+Mitchell's research strategy was thus quite different from that adopted by H. L. Moore or Irving Fisher who started from a hypothesis and went looking for evidence to support it. Moore and Mitchell offer another contrast in that, while Moore embraced the new statistical methods of correlation and regression, Mitchell found little use for them.
+
+
+=== Measuring Business Cycles ===
+Thirty years later Mitchell was still working on business cycles and he published another large work, Measuring Business Cycles with A.F. Burns. This book presented the characteristic "National Bureau" methods of analyzing business cycles. While Mitchell was still following the 1913 agenda, other economists had taken to studying the economy using models and even to constructing macroeconometric models. Against this background of Keynesian economics and the new econometric methods Mitchell and his project looked dated.
+Milton Friedman believed that, "Mitchell is generally considered primarily an empirical scientist rather than a theorist".  However, Mitchell's main creative efforts went into his empirical work on business cycles.  Mitchell stated an endogenous theory, based on the internal dynamics of capitalism.  Whereas neoclassical theories are deduced from unproven psychological axioms, he builds his theory from inductive generalities gained from empirical research.  Also, he was considered a critic of conventional economic theory.  As influenced greatly by Veblen, Mitchell is usually categorized with him as an American institutionalist.
+
+
+== Bibliography ==
+A History of the Greenbacks, University of Chicago Press, 1903. ISBN 978-0-548-15056-6
+Gold Prices and Wages Under the Greenback Standard, University of California Press, 1908. ISBN 978-0-678-00200-1
+Business Cycles, University of California Press, 1913. ISBN 978-0-8337-2407-6
+Mitchell, Wesley C. (November 1914). "Human Behavior and Economics: A Survey of Recent Literature". The Quarterly Journal of Economics. 29 (1): 1–47. doi:10.2307/1885296. JSTOR 1885296.
+The Making and Using of Index Numbers, Bulletin of the US Bureau of Labor Statistics, 1915. ISBN 978-0-678-00098-4
+Business Cycles: The Problem and its Setting,  New York: National Bureau of Economic Research, 1927. ISBN 978-0-405-07608-4
+The Backward Art of Spending Money: and other essays,  New York: McGraw-Hill, 1937. ISBN 978-0-7658-0611-6
+Measuring Business Cycles (with A.F. Burns), New York: National Bureau of Economic Research, 1946. ISBN 978-0-87014-085-3
+What Happens During Business Cycles,  New York: National Bureau of Economic Research, 1951. ISBN 978-0-87014-088-4
+Types of Economic Theory from Mercantilism to Institutionalism,  ed. Joseph Dorfman, 2 vols. New York: Augustus M. Kelley, 1967. (Reconstructed from Mitchell's lecture notes). ISBN 978-0-678-00234-6There is a bibliography in the volume edited by Burns (below).
+Lucy Sprague Mitchell, Wesley Mitchell's wife, wrote the book Two lives; the story of Wesley Clair Mitchell and myself (New York, Simon and Schuster, 1953).
+
+
+== See also ==
+Economic Cycle Research Institute
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+History of Economic Thought: Wesley Clair Mitchell
+S. Fabricant: The Founding of the NBER
+Finding aid to the Wesley Clair Mitchell papers at Columbia University Rare Book & Manuscript Library

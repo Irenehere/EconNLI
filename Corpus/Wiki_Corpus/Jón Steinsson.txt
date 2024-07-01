@@ -1,0 +1,33 @@
+Jón Steinsson is Chancellor's Professor of Economics at University of California, Berkeley, a research associate and co-director of the Monetary Economics program of the National Bureau of Economic Research, and associate editor of both American Economic Review: Insights, and the Quarterly Journal of Economics. He received his PhD in economics from Harvard and his AB from Princeton.
+
+
+== Research ==
+Steinsson's research focuses on empirical issues in macroeconomics, including price stickiness, the impact of fiscal shocks, and measurement errors in official statistics. In his most cited work, "Five facts about prices", he and Emi Nakamura showed that many measured price changes are due to temporary sales, scheduled far in advance, rather than happening as dynamic responses to economic conditions. This suggested that even though economic data features frequent price changes, this can be compatible with macroeconomic models featuring substantial price rigidity. In another highly cited work, "Fiscal stimulus in a monetary union", he and Emi Nakamura use variation in US government military spending across states to estimate the open-economy government spending multiplier, finding values substantially higher than one. This confirms the prediction of Keynesian macroeconomic models that fiscal stimulus can have substantial effects on output, particularly at the zero lower bound.
+
+
+== Personal ==
+Steinsson is married to fellow economist and frequent co-author Emi Nakamura, with whom he has two children.
+
+
+== Selected works ==
+
+
+=== Inflation and price dispersion ===
+"Five facts about prices: A reevaluation of menu cost models" (with Emi Nakamura)  This paper analyzes detailed microeconomic price data in the U.S. They document that, outside of sales, prices change relatively infrequently, giving support to macroeconomic models which feature price rigidity: the median frequency of price changes is 9-12% per month. They show that previous work finding more frequent price adjustment failed to take into account the effect of sales (which change prices, but do not constitute price flexibility in the sense relevant for macroeconomic models). They use their data firms' price-setting behavior to test the menu cost model of price rigidity and find mixed support.  Full citation: Nakamura, Emi; Steinsson, Jón (2008). "Five facts about prices: A reevaluation of menu cost models". The Quarterly Journal of Economics. 123 (4): 1415–1464. doi:10.1162/qjec.2008.123.4.1415. JSTOR 40506213.
+"The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation" (with Emi Nakamura, Patrick Sun and Daniel Villar)  This paper attempts to measure the costs of inflation. In the commonly used New Keynesian macroeconomic models, the social costs of inflation arise from inefficient price dispersion. In typical models, higher inflation implies higher price dispersion, and therefore higher welfare losses. Nakamura et al. digitize price data from the era of high inflation in the US in the 1970s and 1980s to test this hypothesis. They find "no evidence that the absolute size of price changes rose during the Great Inflation", and conclude that "This suggests that the standard New Keynesian analysis of the welfare costs of inflation is wrong and its implications for the optimal inflation rate need to be reassessed".  Full citation: Nakamura, Emi; Steinsson, Jón; Sun, Patrick; Villar, Daniel (2018). "The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation" (PDF). Quarterly Journal of Economics. 133 (4): 1933–1908. doi:10.1093/qje/qjy017. S2CID 14408509.
+
+
+=== Monetary policy ===
+"The Power of Forward Guidance Revisited" (with Alisdair McKay and Emi Nakamura)  Standard models imply that forward guidance has an extremely large effect on current real economic outcomes. This paper argues that the effects of forward guidance are likely to be substantially reduced (relative to this benchmark) if financial markets are incomplete in two plausible ways: specifically, if agents face borrowing constraints and uninsurable income risk.  Full citation: McKay, Alisdair; Nakamura, Emi; Steinsson, Jón (2016). "The Power of Forward Guidance Revisited" (PDF). American Economic Review. 106 (10): 3133–3158. doi:10.1257/aer.20150063. S2CID 54010965.
+"Monetary non-neutrality in a multisector menu cost model" (with Emi Nakamura)  This paper shows that two alterations to the typical menu cost model – introducing heterogeneity in the frequency of firm price changes, and intermediate inputs – triple the real effects of nominal shocks relative to the benchmark model. This was able to reconcile a puzzle in prior work: the monetary policy transmission mechanism was thought to work through price rigidity, yet typical menu cost models calibrated to empirical evidence on price changes could not generate large effects of nominal shocks on real variables.  Full citation: Nakamura, Emi; Steinsson, Jón (2010). "Monetary non-neutrality in a multisector menu cost model" (PDF). The Quarterly Journal of Economics. 125 (3): 961–1013. doi:10.1162/qjec.2010.125.3.961. JSTOR 27867504. S2CID 9417107.
+
+
+=== Fiscal policy ===
+"Fiscal stimulus in a monetary union: Evidence from US regions" (with Emi Nakamura)  This paper uses regional variation in US military spending to estimate an "open economy multiplier" to fiscal policy shocks of 1.5. This empirical evidence "indicates that demand shocks can have large effects on output", particularly at the zero lower bound.  Full citation: Nakamura, Emi; Steinsson, Jón (2014). "Fiscal stimulus in a monetary union: Evidence from US regions" (PDF). The American Economic Review. 104 (3): 753–792. doi:10.1257/aer.104.3.753. JSTOR 42920719. S2CID 6641769.
+
+
+=== Economic crises ===
+"Crises and recoveries in an empirical model of consumption disasters" (with Emi Nakamura, Robert Barro and Jose Ursua)  Full citation: Nakamura, Emi; Steinsson, Jón; Barro, R; Ursúa, J (2013). "Crises and recoveries in an empirical model of consumption disasters" (PDF). American Economic Journal: Macroeconomics. 5 (3): 35–74. doi:10.1257/mac.5.3.35. S2CID 8348799.
+
+
+== References ==

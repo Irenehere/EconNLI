@@ -1,0 +1,107 @@
+Finite difference methods for option pricing are numerical methods used in mathematical finance for the valuation of options.  Finite difference methods were first applied to option pricing by Eduardo Schwartz in 1977.: 180 In general, finite difference methods are used to price options by approximating the (continuous-time) differential equation that describes how an option price evolves over time by a set of (discrete-time) difference equations. The discrete difference equations may then be solved iteratively to calculate a price for the option.  The approach arises since the evolution of the option value can be modelled via a partial differential equation (PDE), as a function of (at least) time and price of underlying; see for example the Black–Scholes PDE. Once in this form, a finite difference model can be derived, and the valuation obtained.The approach can be used to solve derivative pricing problems that have, in general, the same level of complexity as those problems solved by tree approaches.
+
+
+== Method ==
+As above, the PDE is expressed in a discretized form, using finite differences, and the evolution in the option price is then modelled using a lattice with corresponding dimensions: time runs from 0 to maturity; and price runs from 0 to a "high" value, such that the option is deeply in or out of the money. The option is then valued as follows:
+Maturity values are simply the difference between the exercise price of the option and the value of the underlying at each point (for a call, e.g., 
+  
+    
+      
+        C
+        (
+        S
+        ,
+        T
+        )
+        =
+        m
+        a
+        x
+        {
+        S
+        −
+        K
+        ,
+        0
+        }
+      
+    
+    {\displaystyle C(S,T)=max\{S-K,0\}}
+  ).
+Values at the boundaries - i.e. at each earlier time where spot is at its highest or zero - are set based on moneyness or arbitrage bounds on option prices (for a call, 
+  
+    
+      
+        C
+        (
+        0
+        ,
+        t
+        )
+        =
+        0
+      
+    
+    {\displaystyle C(0,t)=0}
+   for all t and 
+  
+    
+      
+        C
+        (
+        S
+        ,
+        t
+        )
+        =
+        S
+        −
+        K
+        
+          e
+          
+            −
+            r
+            (
+            T
+            −
+            t
+            )
+          
+        
+      
+    
+    {\displaystyle C(S,t)=S-Ke^{-r(T-t)}}
+   as 
+  
+    
+      
+        S
+        →
+        ∞
+      
+    
+    {\displaystyle S\rightarrow \infty }
+  ).
+Values at other lattice points are calculated recursively (iteratively), starting at the time step preceding maturity and ending at time = 0. Here, using a technique such as Crank–Nicolson or the explicit method:the PDE is discretized per the technique chosen, such that the value at each lattice point is specified as a function of the value at later and adjacent points; see Stencil (numerical analysis);
+the value at each point is then found using the technique in question; working backwards in time from maturity, and inwards from the boundary prices.
+4. The value of the option today, where the underlying is at its spot price, (or at any time/price combination,) is then found by interpolation.
+
+
+== Application ==
+As above, these methods can solve derivative pricing problems that have, in general, the same level of complexity as those problems solved by tree approaches, but, given their relative complexity, are usually employed only when other approaches are inappropriate;  an example here, being changing interest rates and / or  time linked dividend policy.  At the same time, like tree-based methods, this approach is limited in terms of the number of underlying variables, and for problems with multiple dimensions, Monte Carlo methods for option pricing are usually preferred. : 182  Note that, when standard assumptions are applied, the explicit technique encompasses the binomial- and trinomial tree methods. Tree based methods, then, suitably parameterized, are a special case of the explicit finite difference method.
+
+
+== References ==
+
+
+== External links ==
+Option Pricing Using Finite Difference Methods Archived 2010-07-20 at the Wayback Machine, Prof. Don M. Chance, Louisiana State University
+Finite Difference Approach to Option Pricing (includes Matlab Code);  Numerical Solution of Black–Scholes Equation, Tom Coleman, Cornell University
+Option Pricing – Finite Difference Methods, Dr. Phil Goddard
+Numerically Solving PDE’s: Crank-Nicolson Algorithm, Prof. R. Jones, Simon Fraser University
+Numerical Schemes for Pricing Options, Prof. Yue Kuen Kwok, Hong Kong University of Science and Technology
+Introduction to the Numerical Solution of Partial Differential Equations in Finance, Claus Munk, University of Aarhus
+Numerical Methods for the Valuation of Financial Derivatives Archived 2011-10-05 at the Wayback Machine, D.B. Ntwiga, University of the Western Cape
+The Finite Difference Method, Katia Rocha, Instituto de Pesquisa Econômica Aplicada
+Analytical Finance: Finite difference methods, Jan Röman, Mälardalen University

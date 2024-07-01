@@ -1,0 +1,106 @@
+Hyman Philip Minsky (September 23, 1919 – October 24, 1996) was an American economist, a professor of economics at Washington University in St. Louis, and a distinguished scholar at the Levy Economics Institute of Bard College. His research attempted to provide an understanding and explanation of the characteristics of financial crises, which he attributed to swings in a potentially fragile financial system. Minsky is sometimes described as a post-Keynesian economist because, in the Keynesian tradition, he supported some government intervention in financial markets, opposed some of the financial deregulation of the 1980s, stressed the importance of the Federal Reserve as a lender of last resort and argued against the over-accumulation of private debt in the financial markets.Minsky's economic theories were largely ignored for decades, until the subprime mortgage crisis of 2008 caused a renewed interest in them.
+
+
+== Education ==
+A native of Chicago, Illinois, Minsky was born into a Jewish family of Menshevik emigrants from Belarus. His mother, Dora Zakon, was active in the nascent trade union movement. His father, Sam Minsky, was active in the Jewish section of the Socialist party of Chicago. In 1937, Minsky graduated from George Washington High School in New York City. In 1941, Minsky received his B.S. in mathematics from the University of Chicago and went on to earn an M.P.A. and a Ph.D. in economics from Harvard University, where he studied under Joseph Schumpeter and Wassily Leontief.
+
+
+== Career ==
+Minsky taught at Brown University from 1949 to 1958, and from 1957 to 1965 was an associate professor of economics at the University of California, Berkeley. In 1965 he became Professor of Economics of Washington University in St Louis and retired from there in 1990. At the time of his death he was a Distinguished Scholar at the Levy Economics Institute of Bard College. He was a consultant to the Commission on Money and Credit (1957–1961) while at Berkeley.
+
+
+== Financial theory ==
+Minsky proposed theories linking financial market fragility, in the normal life cycle of an economy, with speculative investment bubbles endogenous to financial markets. Minsky stated that in prosperous times, when corporate cash flow rises beyond what is needed to pay off debt, a speculative euphoria develops, and soon thereafter debts exceed what borrowers can pay off from their incoming revenues, which in turn produces a financial crisis. As a result of such speculative borrowing bubbles, banks and lenders tighten credit availability, even to companies that can afford loans, and the economy subsequently contracts.
+This slow movement of the financial system from stability to fragility, followed by crisis, is something for which Minsky is best known, and the phrase "Minsky moment" refers to this aspect of Minsky's academic work."He offered very good insights in the '60s and '70s when linkages between the financial markets and the economy were not as well understood as they are now," said Henry Kaufman, a Wall Street money manager and economist. "He showed us that financial markets could move frequently to excess. And he underscored the importance of the Federal Reserve as a lender of last resort."Minsky's model of the credit system, which he dubbed the "financial instability hypothesis" (FIH), incorporated many ideas already circulated by John Stuart Mill, Alfred Marshall, Knut Wicksell and Irving Fisher. "A fundamental characteristic of our economy," Minsky wrote in 1974, "is that the financial system swings between robustness and fragility and these swings are an integral part of the process that generates business cycles."Disagreeing with many mainstream economists of the day, he argued that these swings, and the booms and busts that can accompany them, are inevitable in a so-called free market economy – unless government steps in to control them, through regulation, central bank action and other tools. Such mechanisms did in fact come into existence in response to crises such as the Panic of 1907 and the Great Depression. Minsky opposed the deregulation that characterized the 1980s.
+It was at the University of California, Berkeley, that seminars attended by Bank of America executives helped him to develop his theories about lending and economic activity, views he laid out in two books, John Maynard Keynes (1975), a classic study of the economist and his contributions, and Stabilizing an Unstable Economy (1986), and more than a hundred professional articles.
+
+
+=== Further developments ===
+Minsky's theories have enjoyed some popularity, but have had little influence in mainstream economics or in central bank policy.
+Minsky stated his theories verbally, and did not build mathematical models based on them. Minsky preferred to use interlocking balance sheets rather than mathematical equations to model economies: "The alternative to beginning one's theorizing about capitalist economies by positing utility functions over the reals and production functions with something labeled K (called capital) is to begin with the interlocking balance sheets of the economy." Consequently, his theories have not been incorporated into mainstream economic models, which do not include private debt as a factor.
+Minsky's theories, which emphasize the macroeconomic dangers of speculative bubbles in asset prices, have also not been incorporated into central bank policy. However, in the wake of the financial crisis of 2007–2010 there has been increased interest in policy implications of his theories, with some central bankers advocating that central bank policy include a Minsky factor.
+
+
+== Minsky's theories and the subprime mortgage crisis ==
+
+
+=== Minsky's financial instability-hypothesis ===
+Hyman Minsky's theories about debt accumulation received  revived attention in the media during the subprime mortgage crisis of the first decade of this century. The New Yorker has labelled it "the Minsky Moment".Minsky argued that a key mechanism that pushes an economy towards a crisis is the accumulation of debt by the non-government sector. He identified three types of borrowers that contribute to the accumulation of insolvent debt: hedge borrowers, speculative borrowers, and Ponzi borrowers.
+The "hedge borrower" can make debt payments (covering interest and principal) from current cash flows from investments. For the "speculative borrower", the cash flow from investments can service the debt, i.e., cover the interest due, but the borrower must regularly roll over, or re-borrow, the principal. The "Ponzi borrower" (named for Charles Ponzi, see also Ponzi scheme) borrows based on the belief that the appreciation of the value of the asset will be sufficient to refinance the debt but could not make sufficient payments on interest or principal with the cash flow from investments; only the appreciating asset value can keep the Ponzi borrower afloat.
+These 3 types of borrowers manifest into a 3-phased system:
+
+Hedge Phase: This phase occurs right after a financial crisis and after recovery, during a point at which banks and borrowers are overly cautious. This causes loans to be minimal ensuring that the borrower can afford to repay both the initial principal and the interest. Thus, the economy is most likely seeking equilibrium and virtually self-containing. This is the "not too hot not too cold" Goldilocks phase of debt accumulation.
+Speculative Phase: The Speculative period emerges as confidence in the banking system is slowly renewed. This confidence brings about complacency that good market conditions will continue. Rather than issue loans to borrowers that can pay both principal and interest, loans are issued where the borrower can only afford to pay the interest; the principal will be repaid by refinancing. This begins the decline to instability.
+Ponzi Phase: As confidence continues to grow in the banking system and banks continue to believe that asset prices will continue to rise, the third stage in the cycle, the Ponzi stage, begins. In this stage the borrower can neither afford to pay the principal nor the interest on the loans which are issued by banks leading to foreclosures and vast debt failures.If the use of Ponzi finance is general enough in the financial system, then the inevitable disillusionment of the Ponzi borrower can cause the system to seize up: when the bubble pops, i.e., when asset prices stop increasing, the speculative borrower can no longer refinance (roll over) the principal even if able to cover interest payments. As with a line of dominoes, collapse of the speculative borrowers can then bring down even hedge borrowers, who are unable to find loans despite the apparent soundness of the underlying investments.
+
+
+=== Application to the subprime mortgage crisis ===
+Economist Paul McCulley described how Minsky's hypothesis translates to the subprime mortgage crisis. McCulley illustrated the three types of borrowing categories using an analogy from the mortgage market: a hedge borrower would have a traditional mortgage loan and is paying back both the principal and interest; the speculative borrower would have an interest-only loan, meaning they are paying back only the interest and must refinance later to pay back the principal; and the ponzi borrower would have a negative amortization loan, meaning the payments do not cover the interest amount and the principal is actually increasing. Lenders only provided funds to ponzi borrowers due to a belief that housing values would continue to increase.
+McCulley writes that the progression through Minsky's three borrowing stages was evident as the credit and housing bubbles built through approximately August 2007. Demand for housing was both a cause and effect of the rapidly expanding shadow banking system, which helped fund the shift to more lending of the speculative and ponzi types, through ever-riskier mortgage loans at higher levels of leverage. This helped drive the housing bubble, as the availability of credit encouraged higher home prices. Since the bubble burst, we are seeing the progression in reverse, as businesses de-leverage, lending standards are raised and the share of borrowers in the three stages shifts back towards the hedge borrower.
+McCulley also points out that human nature is inherently pro-cyclical, meaning, in Minsky's words, that "from time to time, capitalist economies exhibit inflations and debt deflations which seem to have the potential to spin out of control. In such processes, the economic system's reactions to a movement of the economy amplify the movement – inflation feeds upon inflation and debt-deflation feeds upon debt-deflation." In other words, people are momentum investors by nature, not value investors. People naturally take actions that expand the high and low points of cycles. One implication for policymakers and regulators is the implementation of counter-cyclical policies, such as contingent capital requirements for banks that increase during boom periods and are reduced during busts.
+
+
+== Minsky's periods of capitalism ==
+Though Minsky's research in the 1980s depended on Keynesian analysis, he thought that changes in the structure of the US economy by then required new analysis, and for this he turned to Schumpeter. Both Schumpeter (and Keynes), Minsky argued, believed that finance was the engine of investment in capitalist economies, so the evolution of financial systems, motivated by profit-seeking, could explain the shifting nature of capitalism across time. From this, Minsky split capitalism into four stages: Commercial, Financial, Managerial and Money Manager. Each is characterized by what is being financed and who is doing the financing.
+
+
+=== Commercial Capitalism ===
+Minsky's first period correlated to Merchant Capitalism. In this period, banks use their privileged knowledge of distant banks and local merchants to gain a profit. They issued bills for commodities, essentially creating credit for the merchants and a corresponding liability to themselves, so in the case of unexpected losses they guaranteed to pay. When a credit contract was fulfilled, the credit was destroyed. Banks financed the inventories of merchant, but not capital stock ––this means that the primary source of profit was through trade, and not expanding production as in later periods. As Minsky explained, "commercial capitalism might well be taken to correspond to the structure of finance when production is by labor and tools, rather than by machinery and labor."
+
+
+=== Financial Capitalism ===
+The industrial revolution put more importance on employing machinery in production, and the non-labor costs that came with it. This required 'durable assets' and so brought about the corporation as an entity, with limited liability for investors. The main source of financing shifted from commercial banks to investment banks, especially with the proliferation of stocks and bonds in security markets. As competition between firms could lead to a decline in prices, threatening their ability to fulfill existing financial commitments, investment banks started promoting a consolidation of capital by facilitating trusts, mergers and acquisition. The Stock Market Crash of 1929 ended their dominance of the economy.
+
+
+=== Managerial Capitalism ===
+Relying on the profit theory of Michal Kalecki, Minsky argues that level of investment determines aggregate demand and thus the flow of profits (i.e. investment finances itself.) According to Minsky, the Keynesian deficit spending of post-depression economies guaranteed the flow of profits, and allowed for the return of firms financing themselves out of profits (something that hadn't been widespread since the first period of capitalism.) Management in firms became more independent on the investment banker and the shareholder, leading to longer time horizons in business decisions, which Minsky believed was potentially beneficial. He offsets this, however, by pointing out that firms became bureaucratized, lacking the dynamic efficiency of earlier capitalism, such that they became "prisoners of tradition." Government spending decisions shifting to underwriting consumption rather than the development of capital assets also contributed to stagnation, although stable aggregate demand meant there was an absence of depressions or recessions.
+
+
+=== Money Manager Capitalism ===
+Minsky argues that due to tax laws and the way markets capitalized on income, the value of equity in indebted firms was higher than conservatively financed ones. This led to a shift, as explained by Minsky, A market in the control of firms developed: the fund managers whose compensation was based on the total returns earned by the portfolio they managed were quick to accept the higher price for the assets in their portfolio that resulted from the refinancing that accompanied changes in the control of firms. In addition to selling the equities that led to the change in control, the manager of money were buyers of the liabilities (bonds) that came out of such a refinancing.
+The independence of operating corporations from the money and financial markets that characterized the managerial capitalism was thus a transitory stage. The emergence of return and capital-gains-oriented blocks of managed money resulted in financial markets once again being a major influence in determining the performance of the economy. However, unlike the earlier epoch of finance capitalism, the emphasis was not upon the capital development of the economy but rather the upon the quick turn of the speculator, upon trading profits. Minsky noted that the rise of money management, trading huge multi-million dollar blocks every day, led to an increase in securities and people taking financial positions to gain a profit. This positioning itself was financed by banks. Minsky noted that financial institutions had become so far removed from the financing of capital development at this point, but rather committed large cash flows to 'debt validation.' Further economists such as Charles Whalen and Jan Toporowski have discussed Minsky's periods of capitalism. Both suggest an intermediary stage between commercial and financial capitalism, what Whalen calls "industrial capitalism" and what Toporowski calls "classic capitalism." This was characterized by the traditional capitalist-entrepreneur, the full proprietor of their firm whose was particularly focused on the expansion of production through developing capital assets. Whalen contrasts this expansion with the consolidation of capital under Financial Capitalism. Toporowski links money manager capitalism to current trends in globalization and financialization.
+
+
+== Views on John Maynard Keynes ==
+In his book John Maynard Keynes (1975), Minsky criticized the neoclassical synthesis'  interpretation of The General Theory of Employment, Interest and Money. He also put forth his own interpretation of the General Theory, one which emphasized aspects that were de-emphasized or ignored by the neoclassical synthesis, like Knightian uncertainty.
+
+
+== Selected publications ==
+(2013) Ending Poverty: Jobs, Not Welfare. Levy Economic Institute, New York. ISBN 978-1936192311
+(2008) [1st. Pub. 1975]. John Maynard Keynes. McGraw-Hill Professional, New York. ISBN 978-0-07-159301-4
+(2008) [1st. Pub. 1986]. Stabilizing an Unstable Economy. McGraw-Hill Professional,  New York. ISBN 978-0-07-159299-4
+(1982) Can "It" Happen Again?. M.E. Sharpe, Armonk. ISBN 978-0-87332-213-3
+(Winter 1981–82) "The breakdown of the 1960s policy synthesis". New York: Telos Press. Archived at Hyman P. Minsky Archive. 166.
+
+
+== See also ==
+2008–2009 Keynesian resurgence
+Rudolf Hilferding, whose writings on 'Finance Capitalism' anticipated Minsky's elaboration on Financial Capitalism
+
+
+== References ==
+
+
+== Further reading ==
+Robert Barbera (2009). The Cost of Capitalism. McGraw-Hill Professional. ISBN 978-0-07-162844-0
+George Cooper (2008).  The Origin of Financial Crises: Central Banks, Credit Bubbles, and the Efficient Market Fallacy. Vintage; 1st Edition.  ISBN 978-0307473455
+Gary Dymski, Gerald Epstein, Robert Pollin (1993).  Transforming the U.S. Financial System: An Equitable and Efficient Structure for the 21st Century (Economic Policy Institute).  Routledge.  ISBN 978-1563242694
+Steven M. Fazzari, Dimitri B. Papadimitriou (1992). Financial Conditions and Macroeconomic Performance: Essays in Honor of Hyman P.Minsky. Routledge.  ISBN 978-1563240164
+Jannatul Islam (2014).  Hyman P. Minsky Hypothesis to Evaluate Credit Crunch.  LAP LAMBERT Academic Publishing.  ISBN 978-3659607707
+Robert Pollin, Gary Dymski (1994).  New Perspectives in Monetary Macroeconomics: Explorations in the Tradition of Hyman P. Minsky.  University of Michigan Press.  ISBN 978-0472104727
+Jan Toporowski, Daniela Tavasci (2010).  Minsky, Crisis and Development.  Palgrave Macmillan.  ISBN 978-0230235076
+L. Randall Wray (2015).  Why Minsky Matters: An Introduction to the Work of a Maverick Economist. Princeton University Press.  ISBN 978-0691159126
+
+
+== External links ==
+
+Hyman Philip Minsky, Distinguished Scholar, The Levy Economics Institute of Bard College, Blithewood, Bard College, Annandale-on-Hudson, New York
+Marc Schnyder: Die Hypothese finanzieller Instabilität von Hyman P. Minsky Thesis, University of Fribourg, Switzerland, (German)
+In Time of Tumult, Obscure Economist Gains Currency
+John Cassidy, 'The Minsky Moment', The New Yorker, 4 February 2008.
+Minsky Archive
+(Available only to subscribers). Stephen Mihm "Why Capitalism fails," boston.com (September 13, 2009).
+Optimistic for a more humane economy
+'The Fed discovers Hyman Minsky', The Economist, 7 Jan 2010.
+Thomas I. Palley, "The Limits of Minsky's Financial Instability Hypothesis as an Explanation of the Crisis," Monthly Review, Volume 61, Issue 11 (April 2010).
+Thomas I. Palley, "A Theory of Minsky Super-Cycles and Financial Crises," Contributions to Political Economy, 30 (1), 31 – 46.

@@ -1,0 +1,40 @@
+Option-adjusted spread (OAS) is the yield spread which has to be added to a benchmark yield curve to discount a security's payments to match its market price, using a dynamic pricing model that accounts for embedded options. OAS is hence model-dependent. This concept can be applied to a mortgage-backed security (MBS), or another bond with embedded options, or any other interest rate derivative or option. More loosely, the OAS of a security can be interpreted as its "expected outperformance" versus the benchmarks, if the cash flows and the yield curve behave consistently with the valuation model.
+In the context of an MBS or callable bond, the embedded option relates primarily to the borrower's right to early repayment, a right commonly exercised via the borrower refinancing the debt. These securities must therefore pay higher yields than noncallable debt, and their values are more fairly compared by OAS than by yield. OAS is usually measured in basis points (bp, or 0.01%).
+For a security whose cash flows are independent of future interest rates, OAS is essentially the same as Z-spread.
+
+
+== Definition ==
+In contrast to simpler "yield-curve spread" measurements of bond premium using a fixed cash-flow model (I-spread or Z-spread), the OAS quantifies the yield premium using a probabilistic model that incorporates two types of volatility:
+
+Variable interest rates
+Variable prepayment rates (for an MBS).Designing such models in the first place is complicated because prepayment rates are a path-dependent and behavioural function of the stochastic interest rate. (They tend to go up as interest rates come down.) Specially calibrated Monte Carlo techniques are generally used to simulate hundreds of yield-curve scenarios for the calculation.
+OAS is an emerging term with fluid use across MBS finance. The definition here is based on Lakhbir Hayre's Mortgage-Backed Securities textbook. Other definitions are rough analogs:
+
+Take the expected value (mean NPV) across the range of all possible rate scenarios when discounting each scenario's actual cash flows with the Treasury yield curve plus a spread, X. The OAS is defined as the value of X that equates the market price of the MBS to its expected value in this theoretical framework.Treasury bonds (or alternate benchmarks, such as the noncallable bonds of some other borrower, or interest rate swaps) are generally not available with maturities exactly matching MBS cash flow payments, so interpolations are necessary to make the OAS calculation.
+
+
+== Convexity ==
+For an MBS, the word "Option" in Option-adjusted spread relates primarily to the right of property owners, whose mortgages back the security, to prepay the mortgage amount. Since mortgage borrowers will tend to exercise this right when it is favourable for them and unfavourable for the bond-holder, buying an MBS implicitly involves selling an option. (The presence of interest-rate caps can create further optionality.) The embedded "option cost" can be quantified by subtracting the OAS from the Z-spread (which ignores optionality and volatility).
+Since prepayments typically rise as interest rates fall and vice versa, the basic (pass-through) MBS typically has negative bond convexity (second derivative of price over yield), meaning that the price has more downside than upside as interest rates vary. The MBS-holder's exposure to borrower prepayment has several names:
+
+call risk
+extension risk
+prepayment risk
+reinvestment riskThis difference in convexity can also be used to explain the price differential from an MBS to a Treasury bond. However, the OAS figure is usually preferred. The discussion of the "negative convexity" and "option cost" of a bond is essentially a discussion of a single MBS feature (rate-dependent cash flows) measured in different ways.
+
+
+== See also ==
+Asset swap spread
+I-spread
+Z-spread
+Yield to maturity
+
+
+== References ==
+Hayre, Lakhbir (2001). Salomon Smith Barney Guide to Mortgage-Backed and Asset-Backed Securities. Wiley. ISBN 0-471-38587-5.
+Hull, John C. (2006). Options, Futures and Other Derivatives. Pearson. ISBN 0-13-149908-4.
+
+
+== Further reading ==
+Miller, Tom (2007). Introduction to Option-Adjusted Spread Analysis. Bloomberg Press. ISBN 978-1-57660-241-6.
+Risk Management Task Force (2004). "Risk Metric Definitions: Option-Adjusted Spread (OAS)" (PDF). Society of Actuaries.

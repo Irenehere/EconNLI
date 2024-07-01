@@ -1,0 +1,152 @@
+Wassily Wassilyevich Leontief (Russian: Васи́лий Васи́льевич Лео́нтьев; August 5, 1905 – February 5, 1999), was a Soviet-American economist known for his research on input–output analysis and how changes in one economic sector may affect other sectors.Leontief won the Nobel Memorial Prize in Economic Sciences in 1973, and four of his doctoral students have also been awarded the prize (Paul Samuelson 1970, Robert Solow 1987, Vernon L. Smith 2002, Thomas Schelling 2005).
+
+
+== Biography ==
+
+
+=== Early life ===
+Wassily Leontief was born on August 5, 1905, in Munich, Germany, the son of Wassily W. Leontief (professor of Economics) and Zlata (German spelling Slata; later Evgenia) Leontief (née Becker). Wassily Leontief Sr. belonged to a family of Russian old-believer merchants living in St. Petersburg since 1741. Evgenia (Genya) Becker belonged to a wealthy Jewish family from Odessa. At 15 in 1921, Wassily Jr. entered University of Leningrad in present-day St. Petersburg. He earned his Learned Economist degree (equivalent to Master of Arts) in 1925 at the age of 19.
+
+
+=== Opposition in USSR ===
+Leontief sided with campaigners for academic autonomy, freedom of speech and in support of Pitirim Sorokin. As a consequence, he was detained several times by the Cheka. In 1925, he was allowed to leave the USSR, mostly because the Cheka believed that he was mortally ill  with a sarcoma, a diagnosis that later proved false. He continued his studies at the Friedrich Wilhelm University in Berlin and, in 1928, earned a Ph.D. degree in economics under the direction of Werner Sombart, writing his dissertation on The Economy as Circular Flow (original German title: Die Wirtschaft als Kreislauf).
+
+
+=== Early professional life ===
+From 1927 to 1930, he worked at the Institute for the World Economy of the University of Kiel. There he researched the derivation of statistical demand and supply curves. In 1929, he traveled to China to assist its ministry of railroads as an advisor.
+In 1931, he went to the United States and was employed by the National Bureau of Economic Research.
+During World War II, Leontief served as consultant at the U. S. Office of Strategic Services.
+
+
+=== Harvard ===
+Leontief joined Harvard University's department of economics in 1932 and in 1946 became professor of economics there.
+In 1949, Leontief used an early computer at Harvard and data from the U.S. Bureau of Labor Statistics to divide the U.S. economy into 500 sectors. Leontief modeled each sector with a linear equation based on the data and used the computer, the Harvard Mark II, to solve the system, one of the first significant uses of computers for mathematical modeling, along with George W. Snedecor's usage of the Atanasoff–Berry computer.
+Leontief set up the Harvard Economic Research Project in 1948 and remained its director until 1973.  Starting in 1965, he chaired the Harvard Society of Fellows.
+
+
+=== New York University ===
+In 1975, Leontief joined New York University and founded and directed the Institute for Economic Analysis. He taught graduate and undergraduate classes.
+
+
+== Personal life ==
+In 1932, Leontief married the poet Estelle Marks (1908-2005). Their only child, Svetlana Leontief Alpers, was born in 1936. Estelle wrote a memoir, Genia and Wassily, of their relations with his parents after they came to the US as émigrés.
+As hobbies Leontief enjoyed fly fishing, ballet, and fine wines. He vacationed for years at his farm in West Burke, Vermont, but after moving to New York in the 1970s moved his summer residence to Lakeville, Connecticut.Leontief died in New York City on Friday, February 5, 1999, at the age of 93.
+
+
+== Major contributions ==
+Leontief is credited with developing early contributions to input–output analysis and earned the Nobel Prize in Economics for his development of its associated theory. He has also made contributions in other areas of economics, such as international trade where he documented the Leontief paradox. He was also one of the first to establish the composite commodity theorem.
+Leontief earned the Nobel Prize in economics for his work on input–output tables. Input–output tables analyze the process by which inputs from one industry produce outputs for consumption or for inputs for another industry. With the input–output table, one can estimate the change in demand for inputs resulting from a change in production of the final good. The analysis assumes that input proportions are fixed; thus the use of input–output analysis is limited to rough approximations rather than prediction. Input–output was novel and inspired large-scale empirical work; in 2010 its iterative method was recognized as an early intellectual precursor to Google's PageRank.Leontief used input–output analysis to study the characteristics of trade flow between the U.S. and other countries, and found what has been named Leontief's paradox; "this country resorts to foreign trade in order to economize its capital and dispose of its surplus labor, rather than vice versa", i.e., U.S. exports were relatively labor-intensive when compared to U.S. imports. This is the opposite of what one would expect, considering the fact that the U.S.'s comparative advantage was in capital-intensive goods. According to some economists, this paradox has since been explained as due to the fact that when a country produces "more than two goods, the abundance of capital relative to labor does not imply that the capital intensity of its exports should exceed that of imports."Leontief was also a very strong proponent of the use of quantitative data in the study of economics. Throughout his life Leontief campaigned against "theoretical assumptions and non-observed facts". According to Leontief, too many economists were reluctant to "get their hands dirty" by working with raw empirical facts. To that end, Wassily Leontief did much to make quantitative data more accessible, and more indispensable, to the study of economics.
+
+
+== Publications ==
+1925: Баланс народного хозяйства СССР. ("Balans narodnogo khozyaystva SSSR") in Planovoe Khozyaystvo; translated into Italian in Spulber N.(Ed.) as "Il Bilancio dell'economia nazionale dell'URSS." in  La Strategia Sovietica per Sviluppo Economico 1924–1930, Giulio Einaudi ed., Torino [discussing the Soviet "Balance of the National Economy", 1923–4]
+1928: Die Wirtschaft als Kreislauf, Tübingen: Mohr: re-published as The economy as a circular flow, pp. 181–212 in: Structural Change and Economic Dynamics, Volume 2, Issue 1, June 1991; this translation is abridged to avoid controversial statements.
+Wassily W. Leontief (Aug 1936). "Quantitative Input and Output Relations in the Economic System of the United States". Review of Economics and Statistics. 18 (3): 105–125. doi:10.2307/1927837. JSTOR 1927837.
+Wassily W. Leontief (Aug 1937). "Interrelation of Prices, Output, Savings and Investment: A Study in Empirical Application of Economic Theory of General Interdependence". Review of Economics and Statistics. 19 (3): 109–132. doi:10.2307/1927343. JSTOR 1927343.
+1941: Structure of the American Economy, 1919–1929
+1953: Studies in the Structure of the American Economy
+1966: Input-Output Economics
+1966: Essays in Economics
+Wassily W. Leontief (Aug 1967). "An Alternative to Aggregation in Input-Output Analysis and National Accounts". Review of Economics and Statistics. 49 (3): 412–419. doi:10.2307/1926651. JSTOR 1926651.
+Wassily W. Leontief (Aug 1970). "Environmental repercussions and the economic structure: an input-output approach". Review of Economics and Statistics. 52 (3): 262–271. doi:10.2307/1926294. JSTOR 1926294.
+Wassily W. Leontief (1970). "The Dynamic Inverse". In A.P. Carter and A. Brody (ed.). Contributions to Input-Output Analysis: Proc. 4th Int. Conf. on Input-Output Techniques (1). North-Holland Publishing Company. pp. 17–46.
+1977: Essays in Economics, II
+1977: The Future of the World Economy
+1983: Military Spending: Facts and Figures, Worldwide Implications and Future Outlook co-authed with F. Duchin.
+1983: The Future of Non-Fuel Minerals in the U. S. And World Economy co-authed with J. Koo, S. Nasar and I. Sohn
+1986: The Future Impact of Automation on Workers co-authored with F. Duchin
+Wassily W. Leontief (1986). Input-Output Economics (2nd ed.). New York: Oxford University Press. ISBN 9780195035278.
+
+
+== Awards ==
+1953: Order of the Cherubim, University of Pisa
+1962: Dr honoris causa, University of Brussels
+1967: Dr of the University, University of York
+1968: Officer of the French Légion d'honneur
+1970: Bernhard-Harms Prize Economics, West Germany
+1971: Dr honoris causa, University of Louvain
+1972: Dr honoris causa, University of Paris (Sorbonne)
+1973: Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel, a.k.a. Nobel Prize in Economics
+1976: Dr honoris causa, University of Pennsylvania
+1980: Dr honoris causa, University of Toulouse, France
+1980: Dr honoris causa, University of Louisville, Kentucky
+1980: Doctor of Social Sciences, University of Vermont
+1980: Doctor of Laws, C. W. Post Center, Long Island University
+1980: Russian-American Hall of Fame
+1981: Karl Marx University, Budapest, Hungary
+1984: Order of the Rising Sun, Japan
+1985: Commandeur, French Order of Arts and Letters
+1988: Dr honoris causa, Adelphi College
+1988: Foreign member, USSR Academy of Sciences
+1989: Society of the Optimate, Italian Cultural Institute, New York
+1990: Dr honoris causa, University of Córdoba, Spain
+1991: Takemi Memorial Award, Institute of Seizon & Life Sciences, Japan
+1995: Harry Edmonds Award for Life Achievement, International House, New York
+1995: Dr honoris causa, Humboldt University, Berlin, Germany
+Award of Excellence, The International Center in New York
+
+
+== In honor ==
+The Global Development and Environment Institute at Tufts University awards the Leontief Prize in Economics each year in his honor.
+Leontief is listed in the Russian-American Chamber of Fame of Congress of Russian Americans, which is dedicated to Russian immigrants who made outstanding contributions to American science or culture.
+
+
+== Memberships ==
+1954: President of the Econometric Society
+1968: Corresponding Member of the Institut de France
+1970: President of the American Economic Association
+1970: Corresponding Fellow of the British Academy
+1974: US-USSR Commission on the Social Sciences and Humanities of the International Research and Exchanges Board
+1975: American Committee on East-West Accord
+1975: Accademia Nazionale dei Lincie, Italy
+1976: President and Section F. of the British Association for the Advancement of Science
+1976: Honorary Member of the Royal Irish Academy
+1977: Fellow of the American Association for the Advancement of Science
+1978: Commission to Study the Organization of Peace
+1978–1986: Board of Trustees of North Carolina School of Science and Mathematics
+1979: Century Club
+1979: Issues Committee of the Progressive Alliance
+1980: Committee for National Security
+1981: Board of Visitors, College of Liberal Arts, Boston University
+1981: Board of Editors, Journal of Business Strategy
+1982: International Advisory Council of the Delian Institute of International Relations
+1982: Accademia Mediterranea Delle Scienze, Italy
+1983: Board of Advisors, Environmental Fund
+1983: Board of Directors, Tolstoy Foundation
+1985: International Committee, Carnegie Mellon University
+1990: Academy of Creative Endeavors, USSR
+1992: International Charitable Foundation, Russia
+1993: Academie Europeenne
+1993: Honorary President of the World Academy for the Progress of Planning Science, Italy
+1993: Member of the Academie Universelle des Cultures, France
+1994: Fellow of the New York Academy of Sciences
+1995: Member of the International Leadership Center on Longevity & Society, Mt. Sinai Hospital
+American Philosophical Society
+American Academy of Arts and Sciences
+International Statistical Institute
+Honorary Member of the Japan Economic Research Center, Tokyo
+Honorary Fellow of the Royal Statistical Society, London
+Trustee of Economists for Peace and Security
+
+
+== Quotes ==
+Much of current academic teaching and research has been criticized for its lack of relevance, that is, of immediate practical impact. ... The trouble is caused, however, not by an inadequate selection of targets, but rather by our inability to hit squarely on them, ... by the palpable inadequacy of the scientific means with which  they try to solve them. ... The weak and all too slowly growing empirical foundations clearly cannot support the proliferating superstructure of pure, or should I say, speculative economic theory.... By the time it comes to interpretations of the substantive conclusions, the assumptions on which the model has been based are easily forgotten. But it is precisely the empirical validity of these assumptions on which the usefulness of the entire exercise depends. ... A natural Darwinian feedback operating through selection of academic personnel contributes greatly to the perpetuation of this state of affairs.
+The role of humans as the most important factor of production is bound to diminish in the same way that the role of horses in agricultural production was first diminished and then eliminated by the introduction of tractors.
+
+
+== See also ==
+List of economists
+List of Jewish Nobel laureates
+
+
+== References and sources ==
+
+
+== External links ==
+
+Wassily Leontief on Nobelprize.org 
+Information from www.iioa.org
+Article by James K. Galbraith
+Interview with W.Leontief by S.A.Kalyadina (in Russian)
+IDEAS/RePEc
+Appearances on C-SPAN

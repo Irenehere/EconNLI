@@ -1,0 +1,57 @@
+The Master of Finance is a master's degree awarded by universities or graduate schools preparing students for careers in finance. The degree is often titled Master in Finance (M.Fin., MiF, MFin), or Master of Science in Finance (MSF in North America, and MSc in Finance in the UK and Europe).  In the U.S. and Canada the program may be positioned as a professional degree. Particularly in Australia, the degree may be offered as a Master of Applied Finance (MAppFin). In some cases, the degree is offered as a Master of Management in Finance (MMF). More specifically focused and titled degrees are also offered.
+
+
+== Structure ==
+MSF and M.Fin / MSc programs differ as to career preparation and hence degree focus — with the former centered on financial management and investment management, and the latter on more technical roles 
+(although, see below for further discussion as to this distinction). Both degree types, though, emphasize quantitative topics, and may also offer some non-quantitative elective coursework, such as corporate governance, business ethics and business strategy. Programs generally require one to two years of study, and are often offered as a non-thesis degree.
+The MSF program, typically, prepares graduates for careers in corporate finance, investment banking and investment management.  The core curriculum is thus focused on managerial finance, corporate finance and investment analysis. These topics are usually preceded by more fundamental coursework in economics, (managerial) accounting, and "quantitative methods" (usually time value of money and business statistics). In many programs, these fundamental topics are a prerequisite for admission or assumed as known, and if part of the curriculum, students with appropriate background may be exempt from these. The program usually concludes with coursework in advanced topics — where several areas are integrated or applied — such as portfolio management, financial modeling, mergers and acquisitions, real options, and lately Fintech;managerial economics and various quantitative finance topics may also be offered as advanced courses.
+The M.Fin / MSc prepares graduates for more technical roles,  and thus "focuses on the theory and practice of finance" with a "strong emphasis on financial economics in addition to financial engineering and computational methods." The MSF core topics are (often) also covered, although in (substantially) less detail. Elective work includes specific topics in quantitative finance and computational finance, but also in corporate finance, private equity and the like; several of the MSF advanced topics — such as real options and managerial economics — will thus also be offered, here differing as to a more technical orientation. As regards coverage of quantitative finance as compared to more specialized degrees, see below. Topics (or specializations) in data science and machine learning are becoming common.The MSF-M.Fin distinction is not absolute: some MSF programs, although general in coverage, are "quantitatively rigorous" or offer a "quantitative track" (and may be STEM-designated); while others are specifically technically oriented, or, in some cases, even offer a finance and mathematics dual degree. 
+Also, although the "MSc in Finance" generally corresponds to the M.Fin, many schools offer a range of MSc programs where finance may be combined with accountancy and/or management, and these then correspond to the MSF. 
+MMF programs may, similarly, offer either broad- or specialized finance coverage.Many MSc programs are further specialized,
+with the degree as a whole focused on, for example, financial management, behavioral finance, Islamic finance, personal finance / financial planning, or wealth management. 
+As mentioned, these degrees may be specifically titled, e.g.: 
+MSc in Investment Management, 
+Master of Financial Planning,
+MSc Financial Management,
+
+Masters in Corporate Finance,
+
+and MS in Fintech.
+ERM and Applied Risk Management degrees may be offered here, 
+while more technical / mathematical programs are usually through an MQF or similar; see below.
+The MAppFin spans the MSF-M.Fin spectrum in terms of available specializations and corresponding coursework; it differs in that it is "for and by practitioners" and therefore "blends... finance theory with industry practice", as appropriate to the specialization. Similar to the MSc, programs are sometimes specifically focused on Financial Planning or Banking, for example, as opposed to more general coverage of finance. Some universities offer both the MAppFin and the MFin, with the latter requiring additional semester-time and coursework (and exclusively offering doctoral access). These programs may also differ as to entrance requirements.Programs require a bachelor's degree for admission, but many do not require that the undergraduate major be in finance, economics, or even general business. The usual requirement is a sufficient level of numeracy, often including exposure to probability / statistics and calculus. The M.Fin and MSc will often require more advanced topics such as multivariate calculus, linear algebra and differential equations; these may also require a greater background in Finance or Economics than the MSF. Some programs may require work experience (sometimes at the managerial level), particularly if the candidate lacks a relevant undergraduate degree.
+
+
+== Comparison with other qualifications ==
+
+Although there is some overlap with an MBA, the finance Masters provides a broader and deeper exposure to finance, but more limited exposure to general management topics. Thus, the program focuses on finance and financial markets, while an MBA, by contrast, is more diverse, covering general aspects of business, such as human resource management and operations management.  At the same time, an MBA without a specialization in finance will not have covered many of the topics dealt with in the MSF (breadth), and, often even where there is specialization, those areas that are covered may be in less depth (certainly as regards the M.Fin). 
+MBA candidates will sometimes "dual major" with an MBA/MSF — certain universities also offer this combination as a joint degree — or later pursue an M.Fin degree to gain specialized finance knowledge; some universities offer an advanced certificate in finance appended to the MBA, allowing students to complete coursework beyond the standard finance specialization.Other specialized business Masters, such as the MSM (Finance) 
+and the MCom (Finance) 
+closely correspond to the MSF, similarly. 
+Note that the latter Master of Commerce is often theory-centric, placing less emphasis on practice; 
+at the same time, notwithstanding its foundational courses in business, it often shares the same electives as the MFin.
+As above, some MSF and all M.Fin programs overlap with degrees in financial engineering, computational finance and mathematical finance; see Master of Quantitative Finance (MQF). Note, however, that the treatment of any common topics — usually financial modeling, derivatives and risk management — will differ as to level of detail and approach. The MSF deals with these topics conceptually, as opposed to technically, and the overlap is therefore slight: although practical, these topics are too technical for a generalist finance degree, and the exposure will be limited to the generalist level. The M.Fin / MSc, on the other hand, cover these topics in a substantively mathematical fashion, and the treatment is often identical. The distinction here though, is that these place relatively more emphasis on financial theory than the MQF, and also allow for electives outside of quantitative finance; at the same time, their range of quantitative electives is often smaller. Entrance requirements to the MQF are significantly more mathematical than for the MSF, while for the M.Fin / MSc the requirements may be identical.
+A Master of Financial Economics focuses on theoretical finance, and on developing models and theory. The overlap with the M.Fin / MSc, then, as with the MQF, is often substantial. As regards the MSF, on the other hand, although the two programs do differ in the weight assigned to theory, there is some overlap: firstly, some MSF curricula do include a formal study of finance theory; secondly, even where the theory is not studied formally, MSF programs do cover the assumptions underpinning the models studied (at least in overview); thirdly, many financial economics programs include coverage of individual financial instruments, corporate finance and portfolio management, although this treatment is usually less practical. (As regards managerial economics, similar comments apply. The course is taught to strengthen the theoretical underpin of the degree; however, since the emphasis is application, it is not developed.) At some universities, the more general Master of Applied Economics combines economic theory with selections from finance and data analytics.The Chartered Financial Analyst (CFA) designation is sometimes compared to a Masters in Finance. In fact, several universities have embedded a significant percentage of the CFA Program "Candidate Body of Knowledge" into their degree programs; and the degree title may reflect this: "Master in Financial Analysis" or similar. 
+In general though, the CFA program is focused on portfolio management and investment analysis, and provides more depth in these areas than the standard Finance Masters, whereas for other areas of finance the CFA coverage is in less depth. Likewise, several programs have curricula aligned with the FRM / PRM, or the CAIA 
+(note that the so-called "Indian C.F.A." is, in fact, a master's degree). 
+A further distinction — as regards all such designations — is that (most) Masters programs include practice on, for example, the Bloomberg Terminal, and in building advanced financial models, while "hands on" training of this sort will not (typically) be included in a professional certification program.
+
+
+== See also ==
+Outline of finance
+List of master's degrees
+Master of Financial Economics
+Master of Quantitative Finance
+Master of Economics
+QEM
+Category:Professional certification in finance
+Bachelor of Finance
+Financial analyst § Qualification
+
+
+== References ==
+
+
+== External links ==
+FT Ranking of post-experience Masters in Finance programmes
+FT Ranking of pre-experience Masters in Finance programmes

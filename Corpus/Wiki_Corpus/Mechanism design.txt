@@ -1,0 +1,3063 @@
+Mechanism design is a field in economics and game theory that takes an objectives-first approach to designing economic mechanisms or incentives, toward desired objectives, in strategic settings, where players act rationally. Because it starts at the end of the game, then goes backwards, it is also called reverse game theory. It has broad applications, from economics and politics in such fields as market design, auction theory and social choice theory to networked-systems (internet interdomain routing, sponsored search auctions).
+Mechanism design studies solution concepts for a class of private-information games. Leonid Hurwicz explains that 'in a design problem, the goal function is the main "given", while the
+mechanism is the unknown. Therefore, the design problem is the "inverse" of traditional economic theory, which is typically devoted to the analysis of the performance of a given mechanism.' So, two distinguishing features of these games are:
+
+that a game "designer" chooses the game structure rather than inheriting one
+that the designer is interested in the game's outcomeThe 2007 Nobel Memorial Prize in Economic Sciences was awarded to Leonid Hurwicz, Eric Maskin, and Roger Myerson "for having laid the foundations of mechanism design theory".
+
+
+== Intuition ==
+In an interesting class of Bayesian games, one player, called the "principal", would like to condition his behavior on information privately known to other players. For example, the principal would like to know the true quality of a used car a salesman is pitching. He cannot learn anything simply by asking the salesman, because it is in the salesman's interest to distort the truth. However, in mechanism design the principal does have one advantage: He may design a game whose rules can influence others to act the way he would like.
+Without mechanism design theory, the principal's problem would be difficult to solve. He would have to consider all the possible games and choose the one that best influences other players' tactics. In addition, the principal would have to draw conclusions from agents who may lie to him. Thanks to mechanism design, and particularly the revelation principle, the principal only needs to consider games in which agents truthfully report their private information.
+
+
+== Foundations ==
+
+
+=== Mechanism ===
+A game of mechanism design is a game of private information in which one of the agents, called the principal, chooses the payoff structure. Following Harsanyi (1967), the agents receive secret "messages" from nature containing information relevant to payoffs. For example, a message may contain information about their preferences or the quality of a good for sale. We call this information the agent's "type" (usually noted 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   and accordingly the space of types 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  ). Agents then report a type to the principal (usually noted with a hat 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\theta }}}
+  ) that can be a strategic lie. After the report, the principal and the agents are paid according to the payoff structure the principal chose.
+The timing of the game is:
+
+The principal commits to a mechanism 
+  
+    
+      
+        y
+        (
+        )
+      
+    
+    {\displaystyle y()}
+   that grants an outcome 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   as a function of reported type
+The agents report, possibly dishonestly, a type profile 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\theta }}}
+  
+The mechanism is executed (agents receive outcome 
+  
+    
+      
+        y
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+      
+    
+    {\displaystyle y({\hat {\theta }})}
+  )In order to understand who gets what, it is common to divide the outcome 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   into a goods allocation and a money transfer, 
+  
+    
+      
+        y
+        (
+        θ
+        )
+        =
+        {
+        x
+        (
+        θ
+        )
+        ,
+        t
+        (
+        θ
+        )
+        }
+        ,
+         
+        x
+        ∈
+        X
+        ,
+        t
+        ∈
+        T
+      
+    
+    {\displaystyle y(\theta )=\{x(\theta ),t(\theta )\},\ x\in X,t\in T}
+   where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   stands for an allocation of goods rendered or received as a function of type, and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   stands for a monetary transfer as a function of type.
+As a benchmark the designer often defines what would happen under full information. Define a social choice function 
+  
+    
+      
+        f
+        (
+        θ
+        )
+      
+    
+    {\displaystyle f(\theta )}
+   mapping the (true) type profile directly to the allocation of goods received or rendered,
+
+  
+    
+      
+        f
+        (
+        θ
+        )
+        :
+        Θ
+        →
+        X
+      
+    
+    {\displaystyle f(\theta ):\Theta \rightarrow X}
+  In contrast a mechanism maps the reported type profile to an outcome (again, both a goods allocation 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and a money transfer 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  )
+
+  
+    
+      
+        y
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        :
+        Θ
+        →
+        Y
+      
+    
+    {\displaystyle y({\hat {\theta }}):\Theta \rightarrow Y}
+  
+
+
+=== Revelation principle ===
+
+A proposed mechanism constitutes a Bayesian game (a game of private information), and if it is well-behaved the game has a Bayesian Nash equilibrium. At equilibrium agents choose their reports strategically as a function of type
+
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        θ
+        )
+      
+    
+    {\displaystyle {\hat {\theta }}(\theta )}
+  It is difficult to solve for Bayesian equilibria in such a setting because it involves solving for agents' best-response strategies and for the best inference from a possible strategic lie. Thanks to a sweeping result called the revelation principle, no matter the mechanism a designer can confine attention to equilibria in which agents truthfully report type. The revelation principle states: "To every Bayesian Nash equilibrium there corresponds a Bayesian game with the same equilibrium outcome but in which players truthfully report type."
+This is extremely useful. The principle allows one to solve for a Bayesian equilibrium by assuming all players truthfully report type (subject to an incentive compatibility constraint). In one blow it eliminates the need to consider either strategic behavior or lying.
+Its proof is quite direct. Assume a Bayesian game in which the agent's strategy and payoff are functions of its type and what others do, 
+  
+    
+      
+        
+          u
+          
+            i
+          
+        
+        
+          (
+          
+            
+              s
+              
+                i
+              
+            
+            (
+            
+              θ
+              
+                i
+              
+            
+            )
+            ,
+            
+              s
+              
+                −
+                i
+              
+            
+            (
+            
+              θ
+              
+                −
+                i
+              
+            
+            )
+            ,
+            
+              θ
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle u_{i}\left(s_{i}(\theta _{i}),s_{-i}(\theta _{-i}),\theta _{i}\right)}
+  . By definition agent i's equilibrium strategy 
+  
+    
+      
+        s
+        (
+        
+          θ
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle s(\theta _{i})}
+   is Nash in expected utility:
+
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+        (
+        
+          θ
+          
+            i
+          
+        
+        )
+        ∈
+        arg
+        ⁡
+        
+          max
+          
+            
+              s
+              
+                i
+              
+              ′
+            
+            ∈
+            
+              S
+              
+                i
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              θ
+              
+                −
+                i
+              
+            
+          
+        
+         
+        p
+        (
+        
+          θ
+          
+            −
+            i
+          
+        
+        ∣
+        
+          θ
+          
+            i
+          
+        
+        )
+         
+        
+          u
+          
+            i
+          
+        
+        
+          (
+          
+            
+              s
+              
+                i
+              
+              ′
+            
+            ,
+            
+              s
+              
+                −
+                i
+              
+            
+            (
+            
+              θ
+              
+                −
+                i
+              
+            
+            )
+            ,
+            
+              θ
+              
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle s_{i}(\theta _{i})\in \arg \max _{s'_{i}\in S_{i}}\sum _{\theta _{-i}}\ p(\theta _{-i}\mid \theta _{i})\ u_{i}\left(s'_{i},s_{-i}(\theta _{-i}),\theta _{i}\right)}
+  Simply define a mechanism that would induce agents to choose the same equilibrium. The easiest one to define is for the mechanism to commit to playing the agents' equilibrium strategies for them.
+
+  
+    
+      
+        y
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        :
+        Θ
+        →
+        S
+        (
+        Θ
+        )
+        →
+        Y
+      
+    
+    {\displaystyle y({\hat {\theta }}):\Theta \rightarrow S(\Theta )\rightarrow Y}
+  Under such a mechanism the agents of course find it optimal to reveal type since the mechanism plays the strategies they found optimal anyway. Formally, choose 
+  
+    
+      
+        y
+        (
+        θ
+        )
+      
+    
+    {\displaystyle y(\theta )}
+   such that
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  θ
+                  
+                    i
+                  
+                
+                ∈
+                
+
+                
+              
+              
+                arg
+                ⁡
+                
+                  max
+                  
+                    
+                      θ
+                      
+                        i
+                      
+                      ′
+                    
+                    ∈
+                    Θ
+                  
+                
+                
+                  ∑
+                  
+                    
+                      θ
+                      
+                        −
+                        i
+                      
+                    
+                  
+                
+                 
+                p
+                (
+                
+                  θ
+                  
+                    −
+                    i
+                  
+                
+                ∣
+                
+                  θ
+                  
+                    i
+                  
+                
+                )
+                 
+                
+                  u
+                  
+                    i
+                  
+                
+                
+                  (
+                  
+                    y
+                    (
+                    
+                      θ
+                      
+                        i
+                      
+                      ′
+                    
+                    ,
+                    
+                      θ
+                      
+                        −
+                        i
+                      
+                    
+                    )
+                    ,
+                    
+                      θ
+                      
+                        i
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    
+                      θ
+                      
+                        −
+                        i
+                      
+                    
+                  
+                
+                 
+                p
+                (
+                
+                  θ
+                  
+                    −
+                    i
+                  
+                
+                ∣
+                
+                  θ
+                  
+                    i
+                  
+                
+                )
+                 
+                
+                  u
+                  
+                    i
+                  
+                
+                
+                  (
+                  
+                    
+                      s
+                      
+                        i
+                      
+                    
+                    (
+                    θ
+                    )
+                    ,
+                    
+                      s
+                      
+                        −
+                        i
+                      
+                    
+                    (
+                    
+                      θ
+                      
+                        −
+                        i
+                      
+                    
+                    )
+                    ,
+                    
+                      θ
+                      
+                        i
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\theta _{i}\in {}&\arg \max _{\theta '_{i}\in \Theta }\sum _{\theta _{-i}}\ p(\theta _{-i}\mid \theta _{i})\ u_{i}\left(y(\theta '_{i},\theta _{-i}),\theta _{i}\right)\\[5pt]&=\sum _{\theta _{-i}}\ p(\theta _{-i}\mid \theta _{i})\ u_{i}\left(s_{i}(\theta ),s_{-i}(\theta _{-i}),\theta _{i}\right)\end{aligned}}}
+  
+
+
+=== Implementability ===
+The designer of a mechanism generally hopes either
+
+to design a mechanism 
+  
+    
+      
+        y
+        (
+        )
+      
+    
+    {\displaystyle y()}
+   that "implements" a social choice function
+to find the mechanism 
+  
+    
+      
+        y
+        (
+        )
+      
+    
+    {\displaystyle y()}
+   that maximizes some value criterion (e.g. profit)To implement a social choice function 
+  
+    
+      
+        f
+        (
+        θ
+        )
+      
+    
+    {\displaystyle f(\theta )}
+   is to find some transfer function 
+  
+    
+      
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )}
+   that motivates agents to pick 
+  
+    
+      
+        f
+        (
+        θ
+        )
+      
+    
+    {\displaystyle f(\theta )}
+  . Formally, if the equilibrium strategy profile under the mechanism maps to the same goods allocation as a social choice function,
+
+  
+    
+      
+        f
+        (
+        θ
+        )
+        =
+        x
+        
+          (
+          
+            
+              
+                
+                  θ
+                  ^
+                
+              
+            
+            (
+            θ
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle f(\theta )=x\left({\hat {\theta }}(\theta )\right)}
+  we say the mechanism implements the social choice function.
+Thanks to the revelation principle, the designer can usually find a transfer function 
+  
+    
+      
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )}
+   to implement a social choice by solving an associated truthtelling game. If agents find it optimal to truthfully report type,
+
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        θ
+        )
+        =
+        θ
+      
+    
+    {\displaystyle {\hat {\theta }}(\theta )=\theta }
+  we say such a mechanism is truthfully implementable (or just "implementable"). The task is then to solve for a truthfully implementable 
+  
+    
+      
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )}
+   and impute this transfer function to the original game. An allocation 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   is truthfully implementable if there exists a transfer function 
+  
+    
+      
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )}
+   such that
+
+  
+    
+      
+        u
+        (
+        x
+        (
+        θ
+        )
+        ,
+        t
+        (
+        θ
+        )
+        ,
+        θ
+        )
+        ≥
+        u
+        (
+        x
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        ,
+        t
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        ,
+        θ
+        )
+         
+        ∀
+        θ
+        ,
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        ∈
+        Θ
+      
+    
+    {\displaystyle u(x(\theta ),t(\theta ),\theta )\geq u(x({\hat {\theta }}),t({\hat {\theta }}),\theta )\ \forall \theta ,{\hat {\theta }}\in \Theta }
+  which is also called the incentive compatibility (IC) constraint.
+In applications, the IC condition is the key to describing the shape of 
+  
+    
+      
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )}
+   in any useful way. Under certain conditions it can even isolate the transfer function analytically.  Additionally, a participation (individual rationality) constraint is sometimes added if agents have the option of not playing.
+
+
+==== Necessity ====
+Consider a setting in which all agents have a type-contingent utility function 
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        ,
+        θ
+        )
+      
+    
+    {\displaystyle u(x,t,\theta )}
+  . Consider also a goods allocation 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   that is vector-valued and size 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   (which permits 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   number of goods) and assume it is piecewise continuous with respect to its arguments.
+The function 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   is implementable only if
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            ∂
+            
+              ∂
+              θ
+            
+          
+        
+        
+          (
+          
+            
+              
+                ∂
+                u
+                
+                  /
+                
+                ∂
+                
+                  x
+                  
+                    k
+                  
+                
+              
+              
+                |
+                
+                  ∂
+                  u
+                  
+                    /
+                  
+                  ∂
+                  t
+                
+                |
+              
+            
+          
+          )
+        
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle \sum _{k=1}^{n}{\frac {\partial }{\partial \theta }}\left({\frac {\partial u/\partial x_{k}}{\left|\partial u/\partial t\right|}}\right){\frac {\partial x}{\partial \theta }}\geq 0}
+  whenever 
+  
+    
+      
+        x
+        =
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x=x(\theta )}
+   and 
+  
+    
+      
+        t
+        =
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t=t(\theta )}
+   and x is continuous at 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  . This is a necessary condition and is derived from the first- and second-order conditions of the agent's optimization problem assuming truth-telling.
+Its meaning can be understood in two pieces. The first piece says the agent's marginal rate of substitution (MRS) increases as a function of the type,
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              θ
+            
+          
+        
+        
+          (
+          
+            
+              
+                ∂
+                u
+                
+                  /
+                
+                ∂
+                
+                  x
+                  
+                    k
+                  
+                
+              
+              
+                |
+                
+                  ∂
+                  u
+                  
+                    /
+                  
+                  ∂
+                  t
+                
+                |
+              
+            
+          
+          )
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            M
+            R
+            S
+          
+          
+            x
+            ,
+            t
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial }{\partial \theta }}\left({\frac {\partial u/\partial x_{k}}{\left|\partial u/\partial t\right|}}\right)={\frac {\partial }{\partial \theta }}\mathrm {MRS} _{x,t}}
+  In short, agents will not tell the truth if the mechanism does not offer higher agent types a better deal. Otherwise, higher types facing any mechanism that punishes high types for reporting will lie and declare they are lower types, violating the truthtelling IC constraint. The second piece is a monotonicity condition waiting to happen,
+
+  
+    
+      
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial x}{\partial \theta }}}
+  which, to be positive, means higher types must be given more of the good.
+There is potential for the two pieces to interact. If for some type range the contract offered less quantity to higher types 
+  
+    
+      
+        ∂
+        x
+        
+          /
+        
+        ∂
+        θ
+        <
+        0
+      
+    
+    {\displaystyle \partial x/\partial \theta <0}
+  , it is possible the mechanism could compensate by giving higher types a discount. But such a contract already exists for low-type agents, so this solution is pathological. Such a solution sometimes occurs in the process of solving for a mechanism. In these cases it must be "ironed." In a multiple-good environment it is also possible for the designer to reward the agent with more of one good to substitute for less of another (e.g. butter for margarine). Multiple-good mechanisms are an ongoing problem in mechanism design theory.
+
+
+==== Sufficiency ====
+Mechanism design papers usually make two assumptions to ensure implementability:
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              θ
+            
+          
+        
+        
+          
+            
+              ∂
+              u
+              
+                /
+              
+              ∂
+              
+                x
+                
+                  k
+                
+              
+            
+            
+              |
+              
+                ∂
+                u
+                
+                  /
+                
+                ∂
+                t
+              
+              |
+            
+          
+        
+        >
+        0
+         
+        ∀
+        k
+      
+    
+    {\displaystyle {\frac {\partial }{\partial \theta }}{\frac {\partial u/\partial x_{k}}{\left|\partial u/\partial t\right|}}>0\ \forall k}
+  This is known by several names: the single-crossing condition, the sorting condition and the Spence–Mirrlees condition. It means the utility function is of such a shape that the agent's MRS is increasing in type.
+
+  
+    
+      
+        ∃
+        
+          K
+          
+            0
+          
+        
+        ,
+        
+          K
+          
+            1
+          
+        
+        
+           such that 
+        
+        
+          |
+          
+            
+              
+                ∂
+                u
+                
+                  /
+                
+                ∂
+                
+                  x
+                  
+                    k
+                  
+                
+              
+              
+                ∂
+                u
+                
+                  /
+                
+                ∂
+                t
+              
+            
+          
+          |
+        
+        ≤
+        
+          K
+          
+            0
+          
+        
+        +
+        
+          K
+          
+            1
+          
+        
+        
+          |
+        
+        t
+        
+          |
+        
+      
+    
+    {\displaystyle \exists K_{0},K_{1}{\text{ such that }}\left|{\frac {\partial u/\partial x_{k}}{\partial u/\partial t}}\right|\leq K_{0}+K_{1}|t|}
+  This is a technical condition bounding the rate of growth of the MRS.
+These assumptions are sufficient to provide that any monotonic 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   is implementable (a 
+  
+    
+      
+        t
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )}
+   exists that can implement it). In addition, in the single-good setting the single-crossing condition is sufficient to provide that only a monotonic 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   is implementable, so the designer can confine his search to a monotonic 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+  .
+
+
+== Highlighted results ==
+
+
+=== Revenue equivalence theorem ===
+
+Vickrey (1961) gives a celebrated result that any member of a large class of auctions assures the seller of the same expected revenue and that the expected revenue is the best the seller can do. This is the case if
+
+The buyers have identical valuation functions (which may be a function of type)
+The buyers' types are independently distributed
+The buyers types are drawn from a continuous distribution
+The type distribution bears the monotone hazard rate property
+The mechanism sells the good to the buyer with the highest valuationThe last condition is crucial to the theorem. An implication is that for the seller to achieve higher revenue he must take a chance on giving the item to an agent with a lower valuation. Usually this means he must risk not selling the item at all.
+
+
+=== Vickrey–Clarke–Groves mechanisms ===
+
+The Vickrey (1961) auction model was later expanded by Clarke (1971) and Groves to treat a public choice problem in which a public project's cost is borne by all agents, e.g. whether to build a municipal bridge. The resulting "Vickrey–Clarke–Groves" mechanism can motivate agents to choose the socially efficient allocation of the public good even if agents have privately known valuations. In other words, it can solve the "tragedy of the commons"—under certain conditions, in particular quasilinear utility or if budget balance is not required.
+Consider a setting in which 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   number of agents have quasilinear utility with private valuations 
+  
+    
+      
+        v
+        (
+        x
+        ,
+        t
+        ,
+        θ
+        )
+      
+    
+    {\displaystyle v(x,t,\theta )}
+   where the currency 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is valued linearly. The VCG designer designs an incentive compatible (hence truthfully implementable) mechanism to obtain the true type profile, from which the designer implements the socially optimal allocation
+
+  
+    
+      
+        
+          x
+          
+            I
+          
+          
+            ∗
+          
+        
+        (
+        θ
+        )
+        ∈
+        
+          
+            argmax
+            
+              x
+              ∈
+              X
+            
+          
+        
+        
+          ∑
+          
+            i
+            ∈
+            I
+          
+        
+        v
+        (
+        x
+        ,
+        
+          θ
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle x_{I}^{*}(\theta )\in {\underset {x\in X}{\operatorname {argmax} }}\sum _{i\in I}v(x,\theta _{i})}
+  The cleverness of the VCG mechanism is the way it motivates truthful revelation. It eliminates incentives to misreport by penalizing any agent by the cost of the distortion he causes. Among the reports the agent may make, the VCG mechanism permits a "null" report saying he is indifferent to the public good and cares only about the money transfer. This effectively removes the agent from the game. If an agent does choose to report a type, the VCG mechanism charges the agent a fee if his report is pivotal, that is if his report changes the optimal allocation x so as to harm other agents. The payment is calculated
+
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        =
+        
+          ∑
+          
+            j
+            ∈
+            I
+            −
+            i
+          
+        
+        
+          v
+          
+            j
+          
+        
+        (
+        
+          x
+          
+            I
+            −
+            i
+          
+          
+            ∗
+          
+        
+        (
+        
+          θ
+          
+            I
+            −
+            i
+          
+        
+        )
+        ,
+        
+          θ
+          
+            j
+          
+        
+        )
+        −
+        
+          ∑
+          
+            j
+            ∈
+            I
+            −
+            i
+          
+        
+        
+          v
+          
+            j
+          
+        
+        (
+        
+          x
+          
+            I
+          
+          
+            ∗
+          
+        
+        (
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        ,
+        
+          θ
+          
+            I
+          
+        
+        )
+        ,
+        
+          θ
+          
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle t_{i}({\hat {\theta }})=\sum _{j\in I-i}v_{j}(x_{I-i}^{*}(\theta _{I-i}),\theta _{j})-\sum _{j\in I-i}v_{j}(x_{I}^{*}({\hat {\theta }}_{i},\theta _{I}),\theta _{j})}
+  which sums the distortion in the utilities of the other agents (and not his own) caused by one agent reporting.
+
+
+=== Gibbard–Satterthwaite theorem ===
+
+Gibbard (1973) and Satterthwaite (1975) give an impossibility result similar in spirit to Arrow's impossibility theorem. For a very general class of games, only "dictatorial" social choice functions can be implemented.
+A social choice function f() is dictatorial if one agent always receives his most-favored goods allocation,
+
+  
+    
+      
+        
+          for 
+        
+        f
+        (
+        Θ
+        )
+        
+          , 
+        
+        ∃
+        i
+        ∈
+        I
+        
+           such that 
+        
+        
+          u
+          
+            i
+          
+        
+        (
+        x
+        ,
+        
+          θ
+          
+            i
+          
+        
+        )
+        ≥
+        
+          u
+          
+            i
+          
+        
+        (
+        
+          x
+          ′
+        
+        ,
+        
+          θ
+          
+            i
+          
+        
+        )
+         
+        ∀
+        
+          x
+          ′
+        
+        ∈
+        X
+      
+    
+    {\displaystyle {\text{for }}f(\Theta ){\text{, }}\exists i\in I{\text{ such that }}u_{i}(x,\theta _{i})\geq u_{i}(x',\theta _{i})\ \forall x'\in X}
+  The theorem states that under general conditions any truthfully implementable social choice function must be dictatorial if,
+
+X is finite and contains at least three elements
+Preferences are rational
+
+  
+    
+      
+        f
+        (
+        Θ
+        )
+        =
+        X
+      
+    
+    {\displaystyle f(\Theta )=X}
+  
+
+
+=== Myerson–Satterthwaite theorem ===
+
+Myerson and Satterthwaite (1983) show there is no efficient way for two parties to trade a good when they each have secret and probabilistically varying valuations for it, without the risk of forcing one party to trade at a loss. It is among the most remarkable negative results in economics—a kind of negative mirror to the fundamental theorems of welfare economics.
+
+
+=== Shapley value ===
+
+Phillips and Marden (2018) proved that for cost-sharing games with concave cost functions, the optimal cost-sharing rule that firstly optimizes the worst-case inefficiencies in a game (the price of anarchy), and then secondly optimizes the best-case outcomes (the price of stability), is precisely the Shapley value cost-sharing rule. A symmetrical statement is similarly valid for utility-sharing games with convex utility functions.
+
+
+== Examples ==
+
+
+=== Price discrimination ===
+Mirrlees (1971) introduces a setting in which the transfer function t() is easy to solve for. Due to its relevance and tractability it is a common setting in the literature. Consider a single-good, single-agent setting in which the agent has quasilinear utility with an unknown type parameter 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        ,
+        θ
+        )
+        =
+        V
+        (
+        x
+        ,
+        θ
+        )
+        −
+        t
+      
+    
+    {\displaystyle u(x,t,\theta )=V(x,\theta )-t}
+  and in which the principal has a prior CDF over the agent's type 
+  
+    
+      
+        P
+        (
+        θ
+        )
+      
+    
+    {\displaystyle P(\theta )}
+  . The principal can produce goods at a convex marginal cost c(x) and wants to maximize the expected profit from the transaction
+
+  
+    
+      
+        
+          max
+          
+            x
+            (
+            θ
+            )
+            ,
+            t
+            (
+            θ
+            )
+          
+        
+        
+          
+            E
+          
+          
+            θ
+          
+        
+        
+          [
+          
+            t
+            (
+            θ
+            )
+            −
+            c
+            
+              (
+              
+                x
+                (
+                θ
+                )
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \max _{x(\theta ),t(\theta )}\mathbb {E} _{\theta }\left[t(\theta )-c\left(x(\theta )\right)\right]}
+  subject to IC and IR conditions
+
+  
+    
+      
+        u
+        (
+        x
+        (
+        θ
+        )
+        ,
+        t
+        (
+        θ
+        )
+        ,
+        θ
+        )
+        ≥
+        u
+        (
+        x
+        (
+        
+          θ
+          ′
+        
+        )
+        ,
+        t
+        (
+        
+          θ
+          ′
+        
+        )
+        ,
+        θ
+        )
+         
+        ∀
+        θ
+        ,
+        
+          θ
+          ′
+        
+      
+    
+    {\displaystyle u(x(\theta ),t(\theta ),\theta )\geq u(x(\theta '),t(\theta '),\theta )\ \forall \theta ,\theta '}
+  
+
+  
+    
+      
+        u
+        (
+        x
+        (
+        θ
+        )
+        ,
+        t
+        (
+        θ
+        )
+        ,
+        θ
+        )
+        ≥
+        
+          
+            u
+            _
+          
+        
+        (
+        θ
+        )
+         
+        ∀
+        θ
+      
+    
+    {\displaystyle u(x(\theta ),t(\theta ),\theta )\geq {\underline {u}}(\theta )\ \forall \theta }
+  The principal here is a monopolist trying to set a profit-maximizing price scheme in which it cannot identify the type of the customer. A common example is an airline setting fares for business, leisure and student travelers. Due to the IR condition it has to give every type a good enough deal to induce participation. Due to the IC condition it has to give every type a good enough deal that the type prefers its deal to that of any other.
+A trick given by Mirrlees (1971) is to use the envelope theorem to eliminate the transfer function from the expectation to be maximized,
+
+  
+    
+      
+        
+          let 
+        
+        U
+        (
+        θ
+        )
+        =
+        
+          max
+          
+            
+              θ
+              ′
+            
+          
+        
+        u
+        
+          (
+          
+            x
+            (
+            
+              θ
+              ′
+            
+            )
+            ,
+            t
+            (
+            
+              θ
+              ′
+            
+            )
+            ,
+            θ
+          
+          )
+        
+      
+    
+    {\displaystyle {\text{let }}U(\theta )=\max _{\theta '}u\left(x(\theta '),t(\theta '),\theta \right)}
+  
+
+  
+    
+      
+        
+          
+            
+              d
+              U
+            
+            
+              d
+              θ
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              θ
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              V
+            
+            
+              ∂
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dU}{d\theta }}={\frac {\partial u}{\partial \theta }}={\frac {\partial V}{\partial \theta }}}
+  Integrating,
+
+  
+    
+      
+        U
+        (
+        θ
+        )
+        =
+        
+          
+            u
+            _
+          
+        
+        (
+        
+          θ
+          
+            0
+          
+        
+        )
+        +
+        
+          ∫
+          
+            
+              θ
+              
+                0
+              
+            
+          
+          
+            θ
+          
+        
+        
+          
+            
+              ∂
+              V
+            
+            
+              ∂
+              
+                
+                  
+                    θ
+                    ~
+                  
+                
+              
+            
+          
+        
+        d
+        
+          
+            
+              θ
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle U(\theta )={\underline {u}}(\theta _{0})+\int _{\theta _{0}}^{\theta }{\frac {\partial V}{\partial {\tilde {\theta }}}}d{\tilde {\theta }}}
+  where 
+  
+    
+      
+        
+          θ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \theta _{0}}
+   is some index type. Replacing the incentive-compatible 
+  
+    
+      
+        t
+        (
+        θ
+        )
+        =
+        V
+        (
+        x
+        (
+        θ
+        )
+        ,
+        θ
+        )
+        −
+        U
+        (
+        θ
+        )
+      
+    
+    {\displaystyle t(\theta )=V(x(\theta ),\theta )-U(\theta )}
+   in the maximand,
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    E
+                  
+                  
+                    θ
+                  
+                
+                
+                  [
+                  
+                    V
+                    (
+                    x
+                    (
+                    θ
+                    )
+                    ,
+                    θ
+                    )
+                    −
+                    
+                      
+                        u
+                        _
+                      
+                    
+                    (
+                    
+                      θ
+                      
+                        0
+                      
+                    
+                    )
+                    −
+                    
+                      ∫
+                      
+                        
+                          θ
+                          
+                            0
+                          
+                        
+                      
+                      
+                        θ
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          V
+                        
+                        
+                          ∂
+                          
+                            
+                              
+                                θ
+                                ~
+                              
+                            
+                          
+                        
+                      
+                    
+                    d
+                    
+                      
+                        
+                          θ
+                          ~
+                        
+                      
+                    
+                    −
+                    c
+                    
+                      (
+                      
+                        x
+                        (
+                        θ
+                        )
+                      
+                      )
+                    
+                  
+                  ]
+                
+              
+            
+            
+              
+              
+                
+                
+
+                
+                =
+                
+                  
+                    E
+                  
+                  
+                    θ
+                  
+                
+                
+                  [
+                  
+                    V
+                    (
+                    x
+                    (
+                    θ
+                    )
+                    ,
+                    θ
+                    )
+                    −
+                    
+                      
+                        u
+                        _
+                      
+                    
+                    (
+                    
+                      θ
+                      
+                        0
+                      
+                    
+                    )
+                    −
+                    
+                      
+                        
+                          1
+                          −
+                          P
+                          (
+                          θ
+                          )
+                        
+                        
+                          p
+                          (
+                          θ
+                          )
+                        
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          V
+                        
+                        
+                          ∂
+                          θ
+                        
+                      
+                    
+                    −
+                    c
+                    
+                      (
+                      
+                        x
+                        (
+                        θ
+                        )
+                      
+                      )
+                    
+                  
+                  ]
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&\mathbb {E} _{\theta }\left[V(x(\theta ),\theta )-{\underline {u}}(\theta _{0})-\int _{\theta _{0}}^{\theta }{\frac {\partial V}{\partial {\tilde {\theta }}}}d{\tilde {\theta }}-c\left(x(\theta )\right)\right]\\&{}=\mathbb {E} _{\theta }\left[V(x(\theta ),\theta )-{\underline {u}}(\theta _{0})-{\frac {1-P(\theta )}{p(\theta )}}{\frac {\partial V}{\partial \theta }}-c\left(x(\theta )\right)\right]\end{aligned}}}
+  after an integration by parts. This function can be maximized pointwise.
+Because 
+  
+    
+      
+        U
+        (
+        θ
+        )
+      
+    
+    {\displaystyle U(\theta )}
+   is incentive-compatible already the designer can drop the IC constraint. If the utility function satisfies the Spence–Mirrlees condition then a monotonic 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   function exists. The IR constraint can be checked at equilibrium and the fee schedule raised or lowered accordingly. Additionally, note the presence of a hazard rate in the expression. If the type distribution bears the monotone hazard ratio property, the FOC is sufficient to solve for t(). If not, then it is necessary to check whether the monotonicity constraint (see sufficiency, above) is satisfied everywhere along the allocation and fee schedules. If not, then the designer must use Myerson ironing.
+
+
+=== Myerson ironing ===
+In some applications the designer may solve the first-order conditions for the price and allocation schedules yet find they are not monotonic. For example, in the quasilinear setting this often happens when the hazard ratio is itself not monotone. By the Spence–Mirrlees condition the optimal price and allocation schedules must be monotonic, so the designer must eliminate any interval over which the schedule changes direction by flattening it.
+Intuitively, what is going on is the designer finds it optimal to bunch certain types together and give them the same contract. Normally the designer motivates higher types to distinguish themselves by giving them a better deal. If there are insufficiently few higher types on the margin the designer does not find it worthwhile to grant lower types a concession (called their information rent) in order to charge higher types a type-specific contract.
+Consider a monopolist principal selling to agents with quasilinear utility, the example above. Suppose the allocation schedule 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   satisfying the first-order conditions has a single interior peak at 
+  
+    
+      
+        
+          θ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \theta _{1}}
+   and a single interior trough at 
+  
+    
+      
+        
+          θ
+          
+            2
+          
+        
+        >
+        
+          θ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \theta _{2}>\theta _{1}}
+  , illustrated at right.
+
+Following Myerson (1981) flatten it by choosing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   satisfying  where 
+  
+    
+      
+        
+          ϕ
+          
+            1
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \phi _{1}(x)}
+   is the inverse function of x mapping to 
+  
+    
+      
+        θ
+        ≤
+        
+          θ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \theta \leq \theta _{1}}
+   and 
+  
+    
+      
+        
+          ϕ
+          
+            2
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \phi _{2}(x)}
+  is the inverse function of x mapping to 
+  
+    
+      
+        θ
+        ≥
+        
+          θ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \theta \geq \theta _{2}}
+  . That is, 
+  
+    
+      
+        
+          ϕ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \phi _{1}}
+   returns a 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   before the interior peak and 
+  
+    
+      
+        
+          ϕ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \phi _{2}}
+   returns a 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   after the interior trough.
+If the nonmonotonic region of 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   borders the edge of the type space, simply set the appropriate 
+  
+    
+      
+        ϕ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \phi (x)}
+   function (or both) to the boundary type. If there are multiple regions, see a textbook for an iterative procedure; it may be that more than one troughs should be ironed together.
+
+
+==== Proof ====
+The proof uses the theory of optimal control. It considers the set of intervals 
+  
+    
+      
+        
+          [
+          
+            
+              
+                θ
+                _
+              
+            
+            ,
+            
+              
+                θ
+                ¯
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[{\underline {\theta }},{\overline {\theta }}\right]}
+   in the nonmonotonic region of 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   over which it might flatten the schedule. It then writes a Hamiltonian to obtain necessary conditions for a 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   within the intervals
+
+that does satisfy monotonicity
+for which the monotonicity constraint is not binding on the boundaries of the intervalCondition two ensures that the 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   satisfying the optimal control problem reconnects to the schedule in the original problem at the interval boundaries (no jumps). Any 
+  
+    
+      
+        x
+        (
+        θ
+        )
+      
+    
+    {\displaystyle x(\theta )}
+   satisfying the necessary conditions must be flat because it must be monotonic and yet reconnect at the boundaries.
+As before maximize the principal's expected payoff, but this time subject to the monotonicity constraint
+
+  
+    
+      
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle {\frac {\partial x}{\partial \theta }}\geq 0}
+  and use a Hamiltonian to do it, with shadow price 
+  
+    
+      
+        ν
+        (
+        θ
+        )
+      
+    
+    {\displaystyle \nu (\theta )}
+  
+
+  
+    
+      
+        H
+        =
+        
+          (
+          
+            V
+            (
+            x
+            ,
+            θ
+            )
+            −
+            
+              
+                u
+                _
+              
+            
+            (
+            
+              θ
+              
+                0
+              
+            
+            )
+            −
+            
+              
+                
+                  1
+                  −
+                  P
+                  (
+                  θ
+                  )
+                
+                
+                  p
+                  (
+                  θ
+                  )
+                
+              
+            
+            
+              
+                
+                  ∂
+                  V
+                
+                
+                  ∂
+                  θ
+                
+              
+            
+            (
+            x
+            ,
+            θ
+            )
+            −
+            c
+            (
+            x
+            )
+          
+          )
+        
+        p
+        (
+        θ
+        )
+        +
+        ν
+        (
+        θ
+        )
+        
+          
+            
+              ∂
+              x
+            
+            
+              ∂
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle H=\left(V(x,\theta )-{\underline {u}}(\theta _{0})-{\frac {1-P(\theta )}{p(\theta )}}{\frac {\partial V}{\partial \theta }}(x,\theta )-c(x)\right)p(\theta )+\nu (\theta ){\frac {\partial x}{\partial \theta }}}
+  where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a state variable and 
+  
+    
+      
+        ∂
+        x
+        
+          /
+        
+        ∂
+        θ
+      
+    
+    {\displaystyle \partial x/\partial \theta }
+   the control. As usual in optimal control the costate evolution equation must satisfy
+
+  
+    
+      
+        
+          
+            
+              ∂
+              ν
+            
+            
+              ∂
+              θ
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ∂
+              H
+            
+            
+              ∂
+              x
+            
+          
+        
+        =
+        −
+        
+          (
+          
+            
+              
+                
+                  ∂
+                  V
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            (
+            x
+            ,
+            θ
+            )
+            −
+            
+              
+                
+                  1
+                  −
+                  P
+                  (
+                  θ
+                  )
+                
+                
+                  p
+                  (
+                  θ
+                  )
+                
+              
+            
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  V
+                
+                
+                  ∂
+                  θ
+                  
+                  ∂
+                  x
+                
+              
+            
+            (
+            x
+            ,
+            θ
+            )
+            −
+            
+              
+                
+                  ∂
+                  c
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            (
+            x
+            )
+          
+          )
+        
+        p
+        (
+        θ
+        )
+      
+    
+    {\displaystyle {\frac {\partial \nu }{\partial \theta }}=-{\frac {\partial H}{\partial x}}=-\left({\frac {\partial V}{\partial x}}(x,\theta )-{\frac {1-P(\theta )}{p(\theta )}}{\frac {\partial ^{2}V}{\partial \theta \,\partial x}}(x,\theta )-{\frac {\partial c}{\partial x}}(x)\right)p(\theta )}
+  Taking advantage of condition 2, note the monotonicity constraint is not binding at the boundaries of the 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   interval,
+
+  
+    
+      
+        ν
+        (
+        
+          
+            θ
+            _
+          
+        
+        )
+        =
+        ν
+        (
+        
+          
+            θ
+            ¯
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle \nu ({\underline {\theta }})=\nu ({\overline {\theta }})=0}
+  meaning the costate variable condition can be integrated and also equals 0
+
+  
+    
+      
+        
+          ∫
+          
+            
+              θ
+              _
+            
+          
+          
+            
+              θ
+              ¯
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  ∂
+                  V
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            (
+            x
+            ,
+            θ
+            )
+            −
+            
+              
+                
+                  1
+                  −
+                  P
+                  (
+                  θ
+                  )
+                
+                
+                  p
+                  (
+                  θ
+                  )
+                
+              
+            
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  V
+                
+                
+                  ∂
+                  θ
+                  
+                  ∂
+                  x
+                
+              
+            
+            (
+            x
+            ,
+            θ
+            )
+            −
+            
+              
+                
+                  ∂
+                  c
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            (
+            x
+            )
+          
+          )
+        
+        p
+        (
+        θ
+        )
+        
+        d
+        θ
+        =
+        0
+      
+    
+    {\displaystyle \int _{\underline {\theta }}^{\overline {\theta }}\left({\frac {\partial V}{\partial x}}(x,\theta )-{\frac {1-P(\theta )}{p(\theta )}}{\frac {\partial ^{2}V}{\partial \theta \,\partial x}}(x,\theta )-{\frac {\partial c}{\partial x}}(x)\right)p(\theta )\,d\theta =0}
+  The average distortion of the principal's surplus must be 0. To flatten the schedule, find an 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   such that its inverse image maps to a 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   interval satisfying the condition above.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Clarke, Edward H. (1971). "Multipart Pricing of Public Goods" (PDF). Public Choice. 11 (1): 17–33. doi:10.1007/BF01726210. JSTOR 30022651. S2CID 154860771.
+Gibbard, Allan (1973). "Manipulation of voting schemes: A general result" (PDF). Econometrica. 41 (4): 587–601. doi:10.2307/1914083. JSTOR 1914083.
+Groves, Theodore (1973). "Incentives in Teams" (PDF). Econometrica. 41 (4): 617–631. doi:10.2307/1914085. JSTOR 1914085.
+Harsanyi, John C. (1967). "Games with incomplete information played by "Bayesian" players, I-III. part I. The Basic Model". Management Science. 14 (3): 159–182. doi:10.1287/mnsc.14.3.159. JSTOR 2628393.
+Mirrlees, J. A. (1971). "An Exploration in the Theory of Optimum Income Taxation" (PDF). Review of Economic Studies. 38 (2): 175–208. doi:10.2307/2296779. JSTOR 2296779. Archived from the original (PDF) on 2017-05-10. Retrieved 2016-08-12.
+Myerson, Roger B.; Satterthwaite, Mark A. (1983). "Efficient Mechanisms for Bilateral Trading" (PDF). Journal of Economic Theory. 29 (2): 265–281. doi:10.1016/0022-0531(83)90048-0. hdl:10419/220829.
+Satterthwaite, Mark Allen (1975). "Strategy-proofness and Arrow's conditions: Existence and correspondence theorems for voting procedures and social welfare functions". Journal of Economic Theory. 10 (2): 187–217. CiteSeerX 10.1.1.471.9842. doi:10.1016/0022-0531(75)90050-2.
+Vickrey, William (1961). "Counterspeculation, Auctions, and Competitive Sealed Tenders" (PDF). The Journal of Finance. 16 (1): 8–37. doi:10.1111/j.1540-6261.1961.tb02789.x.
+
+
+== Further reading ==
+Chapter 7 of Fudenberg, Drew; Tirole, Jean (1991), Game Theory, Boston: MIT Press, ISBN 978-0-262-06141-4. A standard text for graduate game theory.
+Chapter 23 of Mas-Colell; Whinston; Green (1995), Microeconomic Theory, Oxford: Oxford University Press, ISBN 978-0-19-507340-9. A standard text for graduate microeconomics.
+Milgrom, Paul (2004), Putting Auction Theory to Work, New York: Cambridge University Press, ISBN 978-0-521-55184-7. Applications of mechanism design principles in the context of auctions.
+Noam Nisan. A Google tech talk on mechanism design.
+Legros, Patrick; Cantillon, Estelle (2007). "What is mechanism design and why does it matter for policy-making?". Centre for Economic Policy Research.
+Roger B. Myerson (2008). "Mechanism Design," The New Palgrave Dictionary of Economics Online, Abstract.
+Diamantaras, Dimitrios (2009), A Toolbox for Economic Design, New York: Palgrave Macmillan, ISBN 978-0-230-61060-6. A graduate text specifically focused on mechanism design.
+
+
+== External links ==
+Eric Maskin "Nobel Prize Lecture" delivered on 8 December 2007 at Aula Magna, Stockholm University.

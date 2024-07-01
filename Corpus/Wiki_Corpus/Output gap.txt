@@ -1,0 +1,399 @@
+The GDP gap or the output gap is the difference between actual GDP or actual output and potential GDP, in an attempt to identify the current economic position over the business cycle. The measure of output gap is largely used in macroeconomic policy (in particular in the context of EU fiscal rules compliance). The GDP gap is a highly criticized notion, in particular due to the fact that the potential GDP is not an observable variable, it is instead often derived from past GDP data, which could lead to systemic downward biases.
+
+
+== Calculation ==
+The calculation for the output gap is (Y–Y*)/Y* where Y is actual output and Y* is potential output. If this calculation yields a positive number it is called an inflationary gap and indicates the growth of aggregate demand is outpacing the growth of aggregate supply—possibly creating inflation; if the calculation yields a negative number it is called a recessionary gap—possibly signifying deflation.The percentage GDP gap is the actual GDP minus the potential GDP divided by the potential GDP.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    GDP
+                  
+                
+                
+                  a
+                  c
+                  t
+                  u
+                  a
+                  l
+                
+              
+              −
+              
+                
+                  
+                    GDP
+                  
+                
+                
+                  p
+                  o
+                  t
+                  e
+                  n
+                  t
+                  i
+                  a
+                  l
+                
+              
+            
+            
+              
+                
+                  GDP
+                
+              
+              
+                p
+                o
+                t
+                e
+                n
+                t
+                i
+                a
+                l
+              
+            
+          
+        
+        ×
+        100
+      
+    
+    {\displaystyle {\frac {{\mbox{GDP}}_{actual}-{\mbox{GDP}}_{potential}}{{\mbox{GDP}}_{potential}}}\times 100}
+  .For example, February 2013 data from the Congressional Budget Office showed that the United States had a projected output gap for 2013 of roughly $1 trillion, or nearly 6% of potential GDP.Using 
+  
+    
+      
+        ln
+        ⁡
+        (
+        1
+        +
+        x
+        )
+        ≈
+        x
+      
+    
+    {\displaystyle \ln(1+x)\approx x}
+   approximation, the following equation holds.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        
+                          
+                            GDP
+                          
+                        
+                        
+                          a
+                          c
+                          t
+                          u
+                          a
+                          l
+                        
+                      
+                      −
+                      
+                        
+                          
+                            GDP
+                          
+                        
+                        
+                          p
+                          o
+                          t
+                          e
+                          n
+                          t
+                          i
+                          a
+                          l
+                        
+                      
+                    
+                    
+                      
+                        
+                          GDP
+                        
+                      
+                      
+                        p
+                        o
+                        t
+                        e
+                        n
+                        t
+                        i
+                        a
+                        l
+                      
+                    
+                  
+                
+              
+              
+                
+                ≈
+                ln
+                ⁡
+                
+                  (
+                  
+                    1
+                    +
+                    
+                      
+                        
+                          
+                            
+                              
+                                GDP
+                              
+                            
+                            
+                              a
+                              c
+                              t
+                              u
+                              a
+                              l
+                            
+                          
+                          −
+                          
+                            
+                              
+                                GDP
+                              
+                            
+                            
+                              p
+                              o
+                              t
+                              e
+                              n
+                              t
+                              i
+                              a
+                              l
+                            
+                          
+                        
+                        
+                          
+                            
+                              GDP
+                            
+                          
+                          
+                            p
+                            o
+                            t
+                            e
+                            n
+                            t
+                            i
+                            a
+                            l
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                ln
+                ⁡
+                (
+                
+                  
+                    
+                      GDP
+                    
+                  
+                  
+                    a
+                    c
+                    t
+                    u
+                    a
+                    l
+                  
+                
+                )
+                −
+                ln
+                ⁡
+                (
+                
+                  
+                    
+                      GDP
+                    
+                  
+                  
+                    p
+                    o
+                    t
+                    e
+                    n
+                    t
+                    i
+                    a
+                    l
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {{\mbox{GDP}}_{actual}-{\mbox{GDP}}_{potential}}{{\mbox{GDP}}_{potential}}}&\approx \ln \left(1+{\frac {{\mbox{GDP}}_{actual}-{\mbox{GDP}}_{potential}}{{\mbox{GDP}}_{potential}}}\right)\\&=\ln({\mbox{GDP}}_{actual})-\ln({\mbox{GDP}}_{potential})\end{aligned}}}
+  
+
+
+== Okun's law: the relationship between GDP gap and unemployment ==
+Okun's law is based on regression analysis of U.S. data that shows a correlation between unemployment and GDP gap. Okun's law can be stated as:  For every 1% increase in cyclical unemployment (actual rate of unemployment – natural rate of unemployment), GDP gap will decrease by β%.
+
+%GDP gap = −β x %Cyclical unemploymentThis can also be expressed as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    GDP
+                  
+                
+                
+                  a
+                  c
+                  t
+                  u
+                  a
+                  l
+                
+              
+              −
+              
+                
+                  
+                    GDP
+                  
+                
+                
+                  p
+                  o
+                  t
+                  e
+                  n
+                  t
+                  i
+                  a
+                  l
+                
+              
+            
+            
+              
+                
+                  GDP
+                
+              
+              
+                p
+                o
+                t
+                e
+                n
+                t
+                i
+                a
+                l
+              
+            
+          
+        
+        =
+        −
+        β
+        (
+        u
+        −
+        
+          
+            
+              u
+              ¯
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {{\mbox{GDP}}_{actual}-{\mbox{GDP}}_{potential}}{{\mbox{GDP}}_{potential}}}=-\beta (u-{\bar {u}})}
+  where:
+
+u is the actual rate of unemployment
+ū is the natural rate of unemployment
+β is a constant derived from regression to show the link between deviations from natural output and natural unemployment. β > 0.
+
+
+== Consequences of a large output gap ==
+A persistent, large output gap has severe consequences for, among other things, a country's labor market, a country's long-run economic potential, and a country's public finances. First, the longer the output gap persists, the longer the labor market will underperform, as output gaps indicate that workers who would like to work are instead idled because the economy is not producing to capacity. The United States' labor market slack is evident in an October 2013 unemployment rate of 7.3 percent, compared with an average annual rate of 4.6 percent in 2007, before the brunt of the recession struck.Second, the longer a sizable output gap persists, the more damage will be inflicted on an economy's long-term potential through what economists term “hysteresis effects.” In essence, workers and capital remaining idle for long stretches due to an economy operating below its capacity can cause long-lasting damage to workers and the broader economy. For example, the longer jobless workers remain unemployed, the more their skills and professional networks can atrophy, potentially rendering these workers unemployable. For the United States, this concern is especially salient given that the long-term unemployment rate—the share of the unemployed who have been out of work for more than six months—stood at 36.9 percent in September 2013.  Also, an underperforming economy can result in reduced investments in areas that pay dividends over the long term, such as education, and research and development. Such reductions are likely to impair an economy's long-run potential.
+Third, a persistent, large output gap can have deleterious effects on a country's public finances. This is partially because a struggling economy with a weak labor market results in forgone tax revenue, as unemployed or underemployed workers are either paying no income taxes, or paying less in income taxes than they would if fully employed. Additionally, a higher incidence of unemployment increases public spending on safety-net programs (in the United States, these include unemployment insurance, food stamps, Medicaid, and the Temporary Assistance for Needy Families program). Reduced tax revenue and increased public spending both exacerbate budget deficits. Indeed, research has found that for each dollar U.S. gross domestic product moves away from potential output, U.S. cyclical budget deficits increase 37 cents.
+
+
+== Controversy on the EU's output gap measurements ==
+The calculations of the output gap by the European Commission has come under heavy criticism by a range of academics and think tanks, in large part fostered by Robin Brooks, chief economist of the prestigious Institute of International Finance, who have launched a "campaign against nonsense output gaps." The criticism addressed to the European Commission include the complexity and contradictions in the methodology (which is in fact the one proposed by experts sitting in the "Output Gap Working Group" and approved by finance ministers in the ECOFIN meetings). Critics argue the methodology results in a highly pro-cyclical output gap indexes, and sometimes implausible outcomes, in particular in the case of Italy. In September 2019, several senior officials from the European Commission's including the Director General of the DG ECFIN, Mr Marco Buti, have written a joint article refuting this criticism. But the critics said they remained unconvinced.
+
+
+== See also ==
+Phillips curve
+ZIRP
+NAIRU
+Potential growth
+
+
+== References ==
+
+
+== External links ==
+Recurring Reports | Congressional Budget Office - Budget and Economic Outlook and Updates include US real potential GDP.
+100*(Real Gross Domestic Product-Real Potential Gross Domestic Product)/Real Potential Gross Domestic Product | FRED | St. Louis Fed - US GDP gap

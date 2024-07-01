@@ -1,0 +1,38 @@
+In finance, an exotic option is an option which has features making it more complex than commonly traded vanilla options.  Like the more general exotic derivatives they may have several triggers relating to determination of payoff.  An exotic option may also include a non-standard underlying instrument, developed for a particular client or for a particular market.  Exotic options are more complex than options that trade on an exchange, and are generally traded over the counter.
+
+
+== Etymology ==
+The term "exotic option" was popularized by Mark Rubinstein's 1990 working paper (published 1992, with Eric Reiner) "Exotic Options", with the term based either on exotic wagers in horse racing, or due to the use of international terms such as "Asian option", suggesting the "exotic Orient".Journalist Brian Palmer used the "successful $1 bet on the superfecta" in the 2010 Kentucky Derby that "paid a whopping $101,284.60" as an example of the controversial high-risk, high-payout exotic bets that were observed by track-watchers since the 1970s in his article about why we use the term exotic for certain types of financial instrument. Palmer compared these horse racing bets to the controversial emerging exotic financial instruments that concerned then-chairman of the Federal Reserve Paul Volcker in 1980. He argued that just as the exotic wagers survived the media controversy so will the exotic options.In 1987, Bankers Trust's Mark Standish and David Spaughton were in Tokyo on business when "they developed the first commercially used pricing formula for options linked to the average price of crude oil." They called this exotic option the Asian option, because they were in Asia.
+
+
+== Development ==
+Exotic options are often created by financial engineers and rely on complex models to attempt to price them.
+
+
+== Features ==
+A straight call or put option, either American or European, would be considered a non-exotic or vanilla option. There are two general types of exotic options: path-independent and path-dependent. An option is path-independent if its value depends only on the final price of the underlying instrument. Path-dependent options depend not only on the final price of the underlying instrument, but also on all the prices leading to the final price. An exotic option could have one or more of the following features:
+
+The payoff at maturity depends not just on the value of the underlying instrument at maturity, but also on its value at several times during the contract's life (for example an Asian option depending on some average, a lookback option depending on the maximum or minimum, a barrier option which ceases to exist if a certain level is reached or not reached by the underlying, a digital option, peroni options, range options, spread options, etc.)
+It could depend on more than one index, such as in basket options, outperformance options, Himalaya options, or other mountain range options.
+The manner of settlement may vary depending on the moneyness of the option at expiry, such as a cash or share option.
+There could be callability and putability rights.
+It could involve foreign exchange rates in various ways, such as a quanto or composite option.Even products traded actively in the market can have some exotic characteristics, such as convertible bonds, whose valuation can depend on the price and volatility of the underlying equity, the issuer's credit rating, the level and volatility of interest rates, and the correlations between these factors.
+
+
+== Barriers ==
+Barriers in exotic option are determined by the underlying price and ability of the stock to be active or inactive during the trade period, for instance up-and-out option has a high chance of being inactive should the underlying price go beyond the marked barrier. Down-and-in-option is very likely to be active should the underlying prices of the stock go below the marked barrier. Up-and-in option is very likely to be active should the underlying price go beyond the marked barrier.
+One-touch double barrier binary options are path-dependent options in which the existence and payment of the options depend on the movement of the underlying price through their option life.
+
+
+== Examples ==
+
+
+== References ==
+
+
+== Further reading ==
+Haug, Espen Gaarder (2007). The Complete Guide to Option Pricing Formulas. New York: McGraw-Hill. ISBN 978-0-07-147734-5.
+Banks, Erik; Paul Siegel (2007). The Options Applications Handbook: Hedging and Speculating Techniques for Professional Investors. New York: Wiley. ISBN 978-0-07-145315-8.
+Kuznetsov, Alex (2006). The Complete Guide to Capital Markets for Quantitative Professionals. New York: McGraw-Hill. ISBN 0-07-146829-3.
+Kyprianou, Andreas E.; Wim Schoutens; Paul Wilmott (2005). Exotic Option Pricing and Advanced Levy Models. Hoboken, NJ: John Wiley & Sons. ISBN 0-470-01684-1.
+Rebonato, Riccardo (1998). Interest-rate Option Models: Understanding, Analysing and Using Models for Exotic Interest-rate Options. New York: McGraw-Hill. ISBN 0-471-97958-9.

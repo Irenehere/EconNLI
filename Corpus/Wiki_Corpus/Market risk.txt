@@ -1,0 +1,64 @@
+Market risk is   the risk of losses in positions arising from movements in market variables like prices and volatility.
+There is no unique classification as each classification may refer to different aspects of market risk. Nevertheless, the most commonly used types of market risk are:
+
+Equity risk, the risk that stock or stock indices (e.g. Euro Stoxx 50, etc.) prices or their implied volatility will change.
+Interest rate risk, the risk that interest rates (e.g. Libor, Euribor, etc.) or their implied volatility will change.
+Currency risk, the risk that foreign exchange rates (e.g. EUR/USD, EUR/GBP, etc.) or their implied volatility will change.
+Commodity risk, the risk that commodity prices (e.g. corn, crude oil) or their implied volatility will change.
+Margining risk results from uncertain future cash outflows due to margin calls covering adverse value changes of a given position.
+Shape risk
+Holding period risk
+Basis riskThe capital requirement for market risk is addressed under a revised framework known as "Fundamental Review of the Trading Book" (FRTB).
+
+
+== Risk management ==
+All businesses take risks based on two factors: the probability an adverse circumstance will come about and the cost of such adverse circumstance.
+Risk management is then the study of how to control risks and balance the possibility of gains.
+For a discussion of the practice of (market) risk management in banks, investment firms, and corporates more generally see Financial risk management § Application.
+
+
+== Measuring the potential loss amount due to market risk ==
+As with other forms of risk, the potential loss amount due to market risk may be measured in several ways or conventions. Traditionally, one convention is to use value at risk (VaR). The conventions of using VaR are well established and accepted in the short-term risk management practice.
+However, VaR contains a number of limiting assumptions that constrain its accuracy.  The first assumption is that the composition of the portfolio measured remains unchanged over the specified period.  Over short time horizons, this limiting assumption is often regarded as reasonable. However, over longer time horizons, many of the positions in the portfolio may have been changed.  The VaR of the unchanged portfolio is no longer relevant.  Other problematic issues with VaR is that it is not sub-additive, and therefore not a coherent risk measure.  As a result, other suggestions for measuring market risk is conditional value-at-risk (CVaR) that is coherent for general loss distributions, including discrete distributions and is sub-additive.The variance covariance and historical simulation approach to calculating VaR assumes that historical correlations are stable and will not change in the future or breakdown under times of market stress.  However these assumptions are inappropriate as during periods of high volatility and market turbulence, historical correlations tend to break down.  Intuitively, this is evident during a financial crisis where all industry sectors experience a significant increase in correlations, as opposed to an upward trending market.  This phenomenon is also known as asymmetric correlations or asymmetric dependence.  Rather than using the historical simulation, Monte-Carlo simulations with well-specified multivariate models are an excellent alternative. For example, to improve the estimation of the variance-covariance matrix, one can generate a forecast of asset distributions via Monte-Carlo simulation based upon the Gaussian copula and well-specified marginals.  Allowing the modelling process to allow for empirical characteristics in stock returns such as auto-regression, asymmetric volatility, skewness, and kurtosis is important. Not accounting for these attributes lead to severe estimation error in the correlation and variance-covariance that have negative biases (as much as 70% of the true values).  Estimation of VaR or CVaR for large portfolios of assets using the variance-covariance matrix may be inappropriate if the underlying returns distributions exhibit asymmetric dependence. In such scenarios, vine copulas that allow for asymmetric dependence (e.g., Clayton, Rotated Gumbel) across portfolios of assets are most appropriate in the calculation of tail risk using VaR or CVaR.Besides, care has to be taken regarding the intervening cash flow, embedded options, changes in floating rate interest rates of the financial positions in the portfolio.  They cannot be ignored if their impact can be large.
+
+
+== Regulatory views ==
+The Basel Committee set revised minimum capital requirements for market risk in January 2016.
+These revisions, the "Fundamental Review of the Trading Book", address deficiencies relating to the existing Internal models and Standardised approach for the calculation of market-risk capital, and in particular discuss the following:
+
+Boundary between the "Trading book" and  the "Banking book"
+Use of value at risk vs. expected shortfall to measure of risk under stress
+The risk of market illiquidity
+
+
+== Use in annual reports of U.S. corporations ==
+In the United States, a section on market risk is mandated by the SEC in all annual reports submitted on Form 10-K. The company must detail how its results may depend directly on financial markets. This is designed to show, for example, an investor who believes he is investing in a normal milk company, that the company is also carrying out non-dairy activities such as investing in complex derivatives or foreign exchange futures.
+
+
+== Market risk for physical investments ==
+Physical investments face market risks as well, for example real capital such as real estate can lose market value and cost components such as fuel costs can fluctuate with market prices. On the other hand some investments in physical capital can reduce risk and the value of the risk reduction can be estimated with financial calculation methods, just as market risk in financial markets is estimated. For example energy efficiency investments, in addition to reducing fuel costs, reduce exposure fuel price risk. As less fuel is consumed, a smaller cost component is susceptible to fluctuations in fuel prices. The value of this risk reduction can be calculated using the Tuominen-Seppänen method and its value has been shown to be approximately 10% compared to direct cost savings for a typical energy efficient building.
+
+
+== See also ==
+Systemic risk
+Cost risk
+Demand risk
+Valuation risk
+Risk modeling
+Risk attitude
+Modern portfolio theory
+Risk return ratio
+Fundamental Review of the Trading Book (FRTB)
+Internal models approach (market risk)
+Standardized approach (market risk)
+
+
+== References ==
+
+Dorfman, Mark S. (1997). Introduction to Risk Management and Insurance (6th ed.). Prentice Hall. ISBN 0-13-752106-5.
+
+
+== External links ==
+Bank Management and Control, Springer Nature – Management for Professionals, 2020
+Managing market risks by forwarding pricing
+How hedge funds limit exposure to market risk

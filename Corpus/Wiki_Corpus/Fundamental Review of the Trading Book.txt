@@ -1,0 +1,25 @@
+The Fundamental Review of the Trading Book (FRTB), is a set of proposals by the Basel Committee on Banking Supervision for a new market risk-related capital requirement for banks.
+
+
+== Background ==
+The reform, which is part of Basel III, is one of the initiatives taken to strengthen the financial system, noting that the previous proposals (Basel II) did not prevent the financial crisis of 2007–2008. It was first published as a Consultative Document in October 2013. Following feedback received on the consultative document, an initial proposal was published in January 2016, which was revised in January 2019.
+
+
+== Key features ==
+The FRTB revisions address deficiencies relating to the existing  Standardised approach and Internal models approach and particularly revisit the following:
+
+The boundary between the "trading book" and the "banking book": i.e. assets intended for active trading; as opposed to assets expected to be held to maturity, usually customer loans, and deposits from retail and corporate customers  (important since the "[v]ast majority of losses were from trading books during the 2008 crisis")
+The use of expected shortfall instead of value at risk as a measure of risk under stress; thus ensuring that banks capture tail risk events
+The risk of market illiquidity
+
+
+== Implementation ==
+FRTB sets a "higher bar" for banks to use their own, internal models for calculating capital, as opposed to the standardised approach.  The rationale is that the standardised approach is directly implementable, but, at the same time, carries more capital; whereas the internal models approach, by contrast, carries less capital, but the modelling is more complex, requiring that expected shortfall is applied, together with add-ons for the "non-modellable risk factors" that lack sufficient data. Given this complexity, for a desk to qualify for the internal models approach, its model must pass two tests: a profit and loss attribution test and a backtest.
+
+
+== References ==
+
+
+== Bibliography ==
+Ioannis Akkizidis, Lampros Kalyvas (2018). Basel III Modelling: Implementation, Impact and Implications. Palgrave Macmillan. ISBN 978-3319704241
+Sanjay Sharma, John Beckwith (2018). The FRTB: Concepts, Implications and Implementation. Risk Books.  ISBN 9781782723240

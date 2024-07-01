@@ -1,0 +1,23 @@
+Arsène Jules Étienne Juvenel Dupuit (18 May 1804 – 5 September 1866) was a French civil engineer and economist.
+He was born in Fossano, Cisalpine Republic then under the rule of Napoleon Bonaparte. At the age of ten he went to Versailles with his family where he studied — winning a Physics prize at graduation. He then studied in the École Polytechnique as a civil engineer. He gradually took on more responsibility in various regional posts. He received a Légion d'honneur in 1843 for his work on the French road system, and shortly after moved to Paris. He also studied flood management in 1848 and supervised the construction of the Paris sewer system. He died in Paris.
+Engineering questions led to his interest in economics, a subject in which he was self-taught. His 1844 article was concerned with deciding the optimum toll for a bridge. It was here that he introduced his curve of diminishing marginal utility. As the quantity of a good consumed rises, the marginal utility of the good declines for the user. So the lower the toll (lower marginal utility), the more people who would use the bridge (higher consumption). Conversely as the quantity rises (people allowed on the bridge), the willingness of a person to pay for that good (the price) declines.
+Thus, the concept of diminishing marginal utility should translate itself into a downward-sloping demand function. In this way he identified the demand curve as the marginal utility curve. This was the first time an economist had put forward a theory of demand derived from marginal utility. Although not the first time that the demand curve had been drawn, it was the first time that it had been proved rather than asserted. Dupuit, however, did not include a supply curve in his theory.
+Dupuit went on to define "relative utility" as the area under the demand/marginal utility curve above the price and used it as a measure of the welfare effects of different prices – concluding that public welfare is maximized when the price (or bridge toll) is zero. This was later known as Marshall's "consumer surplus".
+Dupuit's reputation as an economist does not rest on his advocacy of laissez-faire economics (he wrote "Commercial Freedom" in 1861) but on frequent contributions to periodicals. Wanting to evaluate the net economic benefit of public services, Dupuit analysed capacities for economic development, and attempted to construct a framework for utility theory and measuring the prosperity derived with public works. He also wrote on monopoly and price discrimination.
+Dupuit also considered the groundwater flow equation, which governs the flow of groundwater. He assumed that the equation could be simplified for analytical solutions by assuming that groundwater is hydrostatic and flows horizontally. This assumption is regularly used today, and is known by hydrogeologists as the Dupuit assumption.
+
+
+== See also ==
+Robert Ekelund
+
+
+== References ==
+Hager, W.H. (2004): Jules Dupuit—Eminent Hydraulic Engineer. Journal of Hydraulic Engineering, Volume 130, Issue 9, pp. 843–848. doi:10.1061/(ASCE)0733-9429(2004)130:9(843)
+Dupuit, Arsène Jules Étienne Juvénal (1844): De la mesure de l’utilité des travaux publics, Annales des ponts et chaussées, Second series, 8.
+Translated by R.H. Barback as On the measurement of the utility of public works, International Economic Papers, 1952, 2, 83–110
+reprinted in: Kenneth J. Arrow and Tibor Scitovsky, eds., Readings in welfare economics (Richard D. Irwin, Homewood, IL, 1969), 255–283.
+Robert Ekelund and Robert F. Hébert: Secret Origins of Modern Microeconomics: Dupuit and the Engineers University of Chicago Press, 1999.
+
+
+== External links ==
+Biography of Jules Dupuit

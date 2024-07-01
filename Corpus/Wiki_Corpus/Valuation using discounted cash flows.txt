@@ -1,0 +1,268 @@
+Valuation using discounted cash flows (DCF valuation) is a method of estimating the current value of a company based on projected future cash flows adjusted for the time value of money.
+The cash flows are made up of those within the “explicit” forecast period, together with a continuing or terminal value that represents the cash flow stream after the forecast period.
+In several contexts, DCF valuation is referred to as the "income approach".
+Discounted cash flow valuation was used in industry as early as the 1700s or 1800s; it was explicated by John Burr Williams in his The Theory of Investment Value in 1938; it was widely discussed in financial economics in the 1960s; and became widely used in U.S. courts in the 1980s and 1990s.
+This article details the mechanics of the valuation, via a worked example; 
+it also discusses modifications typical for startups, private equity and venture capital, corporate finance "projects", and mergers and acquisitions, 
+and for sector-specific valuations in financial services and mining.
+See Discounted cash flow for further discussion, and Valuation (finance) § Valuation overview for context.
+
+
+== Basic formula for firm valuation using DCF model ==
+Value of firm = 
+  
+    
+      
+        
+          ∑
+          
+            t
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            
+              F
+              C
+              F
+              
+                F
+                
+                  t
+                
+              
+            
+            
+              (
+              1
+              +
+              W
+              A
+              C
+              
+                C
+                
+                  t
+                
+              
+              
+                )
+                
+                  t
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              [
+              
+                
+                  
+                    F
+                    C
+                    F
+                    
+                      F
+                      
+                        n
+                        +
+                        1
+                      
+                    
+                  
+                  
+                    (
+                    W
+                    A
+                    C
+                    
+                      C
+                      
+                        n
+                        +
+                        1
+                      
+                    
+                    −
+                    
+                      g
+                      
+                        n
+                        +
+                        1
+                      
+                    
+                    )
+                  
+                
+              
+              ]
+            
+            
+              (
+              1
+              +
+              W
+              A
+              C
+              
+                C
+                
+                  n
+                
+              
+              
+                )
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{t=1}^{n}{\frac {FCFF_{t}}{(1+WACC_{t})^{t}}}+{\frac {\left[{\frac {FCFF_{n+1}}{(WACC_{n+1}-g_{n+1})}}\right]}{(1+WACC_{n})^{n}}}}
+  
+where
+
+FCFF is the free cash flow to the firm (essentially operating cash flow minus capital expenditures) as reduced for tax
+WACC is the weighted average cost of capital, combining the cost of equity and the after-tax cost of debt
+t is the time period
+n is the number of time periods to "maturity" or exit
+g is the sustainable growth rate at that pointIn general,  "Value of firm" represents the firm's enterprise value (i.e. its market value as distinct from market price); for corporate finance valuations, this represents the project's net present value or NPV.
+The second term represents the continuing value of future cash flows beyond the forecasting term; here applying a "perpetuity growth model".
+Note that for valuing equity, as opposed to "the firm", free cash flow to equity (FCFE) or dividends are modeled, and these are discounted at the cost of equity instead of WACC which incorporates the cost of debt.
+Free cash flows to the firm are those distributed among – or at least due to – all securities holders of a corporate entity (see Corporate finance § Capital structure); to equity, are those distributed to shareholders only.
+Where the latter are dividends then the dividend discount model can be applied, modifying the formula above.
+
+
+== Use ==
+The diagram aside shows an overview of the process of company valuation. All steps are explained in detail below.
+
+
+=== Determine forecast period ===
+
+The initial step is to decide the forecast period, i.e. the time period for which the individual yearly cash flows input to the DCF formula will be explicitly modeled. Cash flows after the forecast period are represented by a single number; see § Determine the continuing value below.
+The forecast period must be chosen to be appropriate to the company's strategy, its market, or industry; theoretically corresponding to the time for the company's (excess) return to "converge" to that of its industry, with constant, long term growth applying to the continuing value thereafter; although, regardless, 5–10 years is common in practice (see Sustainable growth rate § From a financial perspective for discussion of the economic argument here).
+For private equity and venture capital investments, the period will depend on the investment timescale and exit strategy.
+
+
+=== Determine cash flow for each forecast period ===
+As above, an explicit cash flow forecast is required for each year during the forecast period. These must be "Free cash flow" or dividends.
+Typically, this forecast will be constructed using historical internal accounting and sales data, in addition to external industry data and economic indicators (for these latter, outside of large institutions, typically relying on published surveys and industry reports).
+The key aspect of the forecast is, arguably, predicting revenue, a function of the analyst's forecasts re market size, demand, inventory availability, and the firm's market share and market power.
+Future costs, fixed and variable, and investment in PPE (see, here, owner earnings) with corresponding capital requirements, can then be estimated as a function of sales via "common-sized analysis".
+At the same time, the resultant line items must talk to the business' operations: in general, growth in revenue will require corresponding increases in working capital, fixed assets and associated financing; and in the long term, profitability (and other financial ratios) should tend to the industry average, as mentioned above; see Financial modeling § Accounting, and Sustainable growth rate § From a financial perspective.
+Approaches to identifying which assumptions are most impactful on the value – and thus need the most attention – and to model "calibration" are discussed below (the process is then somewhat iterative). For the components / steps of business modeling here, see Outline of finance § Financial modeling, as well as financial forecast more generally.
+There are several context dependent modifications:
+
+Importantly, in the case of a startup, substantial costs are often incurred at the start of the first year – and with certainty – and these should then be modelled separately from other cash flows, and not discounted at all. (See comment in example.) Forecasted ongoing costs, and capital requirements, can be proxied on a similar company, or industry averages; analogous to the "common-sized" approach mentioned; often these are based on management's assumptions re COGS, payroll, and other expenses.
+For corporate finance projects, cash flows should be estimated incrementally, i.e. the analysis should only consider cash flows that could change if the proposed investment is implemented. (This principle is generally correct, and applies to all (equity) investments, not just to corporate finance; in fact, the above formulae do reflect this, since, from the perspective of a listed or private equity investor all expected cash flows are incremental, and the full FCFF or dividend stream is then discounted.)
+For an M&A valuation  the free cash flow is the amount of cash available to be paid out to all investors in the company after the necessary investments under the business plan being valued. Synergies or strategic opportunities will often be dealt with either by probability weighting / haircutting these, or by separating these into their own DCF valuation where a higher discount rate reflects their uncertainty. Tax will receive very close attention. Often each business-line will be valued separately in a sum-of-the-parts analysis.
+When valuing financial services firms, FCFE or dividends are typically modeled, as opposed to FCFF. This is because, often, capital expenditures, working capital and debt are not clearly defined for these corporates ("debt... is more akin to raw material than to a source of capital"), and cash flows to the firm, and hence enterprise value, cannot then be easily estimated. Discounting is correspondingly at the cost of equity. Further, as these firms operate within a highly regulated environment, forecast assumptions must incorporate this reality, and outputs must similarly be "bound" by regulatory limits. (Loan covenants in place will similarly impact corporate finance and M&A models.)Alternate approaches within DCF valuation will more directly consider economic profit, and the definitions of "cashflow" will differ correspondingly; the best known is EVA. With the cost of capital correctly and correspondingly adjusted, the valuation should yield the same result, for standard cases. 
+These approaches may be considered more appropriate for firms with negative free cash flow several years out, but which are expected to generate positive cash flow thereafter. Further, these may be less sensitive to terminal value. See Residual income valuation § Comparison with other valuation methods.
+
+
+=== Determine discount factor / rate ===
+A fundamental element of the valuation is to determine the appropriate required rate of return, as based on the risk level associated with the company and its market.
+Typically, for an established (listed) company: 
+
+For the cost of equity, the analyst will apply a model such as the CAPM most commonly; see Capital asset pricing model § Asset-specific required return and Beta (finance). An unlisted company’s Beta can be based on that of a listed proxy as adjusted for gearing,  ie debt, via Hamada's equation. (Other approaches, such as the "Build-Up method" or T-model are also applied.)
+The cost of debt may be calculated for each period as the scheduled after-tax interest payment as a percentage of outstanding debt; see Corporate finance § Debt capital.
+The value-weighted combination of these will then return the appropriate discount rate for each year of the forecast period. As the weight (and cost) of debt could vary over the forecast, each period's discount factor will be compounded over the periods to that date.By contrast, for venture capital and private equity valuations – and particularly where the company is a startup, as in the example – the discount factor is often set by funding stage, as opposed to modeled ("Risk Group" in the example).
+In its early stages, where the business is more likely to fail, a higher return is demanded in compensation; 
+when mature, an approach similar to the preceding may be applied.
+See: Private equity § Investment timescales; Venture capital § Financing stages.
+(Some analysts may instead account for this uncertainty by adjusting the cash flows directly: using certainty equivalents; or applying (subjective) "haircuts" to the forecast numbers, a "penalized present value"; or via probability-weighting these as in rNPV.)
+Corporate finance analysts usually apply the first, listed company, approach: here though it is the risk-characteristics of the project that must determine the cost of equity, and not those of the parent company. 
+M&A analysts likewise apply the first approach, with risk as well as the target capital structure informing both the cost of equity and, naturally, WACC.
+For the approach taken in the mining industry, where risk-characteristics can differ (dramatically) by property, see: .
+
+
+=== Determine current value ===
+To determine current value, the analyst calculates the current value of the future cash flows simply by multiplying each period's cash flow by the discount factor for the period in question; see time value of money.
+Where the forecast is yearly, an adjustment is sometimes made: although annual cash flows are discounted, it is not true that the entire cash flow comes in at the year end; rather, cash will flow in over the full year. To account for this, a "mid-year adjustment" is applied via the discount rate (and not to the forecast itself), affecting the required averaging.
+For companies with strong seasonality 
+— e.g. retailers and holiday sales, agribusiness with fluctuations in working capital linked to production, Oil and gas companies with weather related demand —  
+further adjustments may be required; see: 
+
+
+=== Determine the continuing value ===
+
+The continuing, or "terminal" value, is the estimated value of all cash flows after the forecast period. 
+
+Typically the approach is to calculate this value using a "perpetuity growth model", essentially returning the value of the future cash flows via a geometric series. Key here is the treatment of the long term growth rate, and correspondingly, the forecast period number of years assumed for the company to arrive at this mature stage; see Sustainable growth rate § From a financial perspective and Stock valuation § Growth rate.
+The alternative, exit multiple approach, (implicitly) assumes that the business will be sold at the end of the projection period at some multiple of its final explicitly forecast cash flow: see Valuation using multiples. This is often the approach taken for venture capital valuations, where an exit transaction is explicitly planned.Whichever approach, the terminal value is then discounted by the factor corresponding to the final explicit date.
+Note that this step carries more risk than the previous: being more distant in time, and effectively summarizing the company's future, there is (significantly) more uncertainty as compared to the explicit forecast period; and yet, potentially (often) this result contributes a significant proportion of the total value.
+Here, a very high proportion may suggest a flaw in the valuation (as commented in the example); but at the same time may, in fact, reflect how investors make money from equity investments – i.e. predominantly from capital gains or price appreciation. Its implied exit multiple can then act as a check, or "triangulation", on the perpetuity derived number.Given this dependence on terminal value, analysts will often establish a "valuation range", or sensitivity table (see graphic), corresponding to various appropriate – and internally consistent – discount rates, exit multiples and perpetuity growth rates.
+For a discussion of the risks and advantages of the two methods, see Terminal value (finance) § Comparison of methodologies.
+For the valuation of mining projects (i.e. as to opposed to listed mining corporates) the forecast period is the same as the "life of mine" – i.e. the DCF model will explicitly forecast all cashflows due to mining the reserve (including the expenses due to mine closure)
+– and a continuing value is therefore not part of the valuation.
+
+
+=== Determine equity value ===
+The equity value is the sum of the present values of the explicitly forecast cash flows, and the continuing value; see Equity (finance) § Valuation and Intrinsic value (finance) § Equity.
+Where the forecast is of free cash flow to firm, as above, the value of equity is calculated by subtracting any outstanding debts from the total of all discounted cash flows; where free cash flow to equity (or dividends) has been modeled, this latter step is not required – and the discount rate would have been the cost of equity, as opposed to WACC.
+(Some add readily available cash to the FCFF value.)
+The accuracy of the DCF valuation will be impacted by the accuracy of the various (numerous) inputs and assumptions.
+Addressing this, private equity and venture capital analysts, in particular, apply (some of) the following.
+With the first two, the output price is then market related, and the model will be driven by the relevant variables and assumptions. The latter two can be applied only at this stage.
+
+The DCF value is invariably "checked" by comparing its corresponding P/E or EV/EBITDA to the same of a relevant company or sector, based on share price or most recent transaction.  This assessment is especially useful when the terminal value is estimated using the perpetuity approach; and can then also serve as a model "calibration". The use of traditional multiples may be limited in the case of startups – where profit and cash flows are often negative – and ratios such as price/sales are then employed.
+Very commonly, analysts will produce a valuation range, especially based on different terminal value assumptions as mentioned. They may also carry out a sensitivity analysis – measuring the impact on value for a small change in the input –  to demonstrate how "robust" the stated value is; and identify which model inputs are most critical to the value. This allows for focus on the inputs that "really drive value", reducing the need to estimate dozens of variables.
+Analysts in private equity and corporate finance often also generate scenario-based valuations, based on different assumptions on economy-wide, "global" factors as well as company-specific factors. In theory, an "unbiased" value is the probability-weighted average of the various scenarios (discounted using a WACC appropriate to each); see First Chicago Method and expected commercial value. Note that in practice the required probability factors are usually too uncertain to do this.
+An extension of scenario-based valuations is to use Monte Carlo simulation, passing relevant model inputs through a spreadsheet risk-analysis add-in, such as @Risk or Crystal Ball. The output is a histogram of DCF values, which allows the analyst to read the expected (i.e. average) value over the inputs, or the probability that the investment will have at least a particular value, or will generate a specific return.  The approach is sometimes applied to corporate finance projects, see Corporate finance § Quantifying uncertainty. But, again, in the venture capital context, it is not often applied, seen as adding "precision but not accuracy" (and requiring knowledge of the underlying distributions); and the investment in time (and software) is then judged as unlikely to be warranted.The DCF value may be applied differently depending on context.
+An investor in listed equity will compare the value per share to the share's traded price, amongst other stock selection criteria. To the extent that the price is lower than the DCF number, so she will be inclined to invest; see Margin of safety (financial), Undervalued stock, and Value investing. The above calibration will be less relevant here; reasonable and robust assumptions more so. 
+A related approach is to "reverse engineer" the stock price; i.e. to  "figure out how much cash flow the company would be expected to make to generate its current valuation... [then] depending on the plausibility of the cash flows, decide whether the stock is worth its going price." 
+More extensively, using a DCF model, investors can "estimat[e] the expectations embedded in a company's stock price.... [and] then assess the likelihood of expectations revisions."
+Corporations will often have several potential projects under consideration (or active), see Capital budgeting § Ranked projects. NPV is typically the primary selection criterion between these; although other investment measures considered, as visible from the DCF model itself, include ROI, IRR and payback period.
+Private equity and venture capital teams will similarly consider various measures and criteria, as well as recent comparable transactions, "Precedent Transactions Analysis", when selecting between potential investments; the valuation will typically be one step in, or following, a thorough due diligence.
+For an M&A valuation, the DCF may be one of the several results combined so as to determine the value of the deal; 
+note that for early stage companies, however, the DCF will typically not be included in the "valuation arsenal", given their low profitability and higher reliance on revenue growth.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Literature ==
+Standard texts
+
+Richard Brealey, Stewart Myers, Franklin Allen (2013). Principles of Corporate Finance. Mcgraw-Hill
+Aswath Damodaran (2012). Investment Valuation: Tools and Techniques for Determining the Value of Any Asset . Wiley
+Tim Koller, Marc Goedhart, David Wessels (McKinsey & Company) (2005). Valuation: Measuring and Managing the Value of Companies. John Wiley & Sons.
+Rosenbaum, Joshua; Joshua Pearl (2009). Investment Banking: Valuation, Leveraged Buyouts, and Mergers & Acquisitions. Hoboken, NJ: John Wiley & Sons. ISBN 978-0-470-44220-3.
+James R. Hitchnera (2006). Financial Valuation: Applications and Models. Wiley Finance. ISBN 0-471-76117-6.
+Jerald E. Pinto (2020). Equity Asset Valuation (CFA Institute Investment Series). Wiley Finance. ISBN 978-1119628101.Discussion
+
+W. Brotherson, K. Eades, R. Harris, R. Higgins (2014). Company Valuation in Mergers and Acquisitions: How is Discounted Cash Flow Applied by Leading Practitioners?, Journal of Applied Finance, Vol. 24;2.
+Goort de Bruijn and Wout Bobbink (2019). Startup valuation: applying the discounted cash flow method in six easy steps. ey.com/nl
+Aswath Damodaran (ND). Discounted Cash Flow Valuation. New York University Stern School of Business
+Aswath Damodaran (ND). Probabilistic Approaches: Scenario Analysis, Decision Trees and Simulations. New York University Stern School of Business
+Frank Fabozzi, Sergio M. Focardi, Caroline Jonas (2017). Equity Valuation – Science, Art, or Craft?. CFA Institute Research Foundation
+Pablo Fernandez (2004). Equivalence of ten different discounted cash flow valuation methods. IESE Research Papers. D549
+Pablo Fernandez (2015). Valuing Companies by Cash Flow Discounting: Ten Methods and Nine Theories. EFMA 2002 London Meetings
+Edward J. Green, Jose A. Lopez, and Zhenyu Wang (2003). Formulating the Imputed Cost of Equity Capital. Federal Reserve Bank of New York (Includes a review of basic valuation models, including DCF and CAPM)
+Campbell Harvey (1997). Equity Valuation (Valuation of Cash Flow Streams). Duke University Fuqua School of Business
+International Federation of Accountants (2008). Project Appraisal Using Discounted Cash Flow
+T. Keck,  E. Levengood, and A. Longfield (1998). Using Discounted Cash Flow Analysis in an International Setting: A Survey of Issues in Modeling the Cost of Capital, Journal of Applied Corporate Finance, Fall, pp. 82–99.
+Eric Kirzner (2006) Selected Moments in the History of Discounted Present Value.  Rotman School of Management (Archived)
+Kubr, Marchesi, Ilar, Kienhuis (1998). Starting Up. McKinsey & Company
+R. S. Ruback. (1995) An Introduction to Cash Flow Valuation Methods (Case # 295-155). Harvard Business School
+Tham, Joseph and Tran Viet Thang (2003). Equivalence between Discounted Cash Flow (DCF) and Residual Income (RI) (Working paper; Duke University - Center for Health Policy, Law and Management)Resources
+
+Valuation spreadsheets, Aswath Damodaran
+discounted cash flow valuation spreadsheet, Alfred Rappaport and Michael J. Mauboussin ("Expectations Investing")
+DCF Valuation Sheet, Danielle Stein Fairhurst ("Financial Modeling in Excel For Dummies")

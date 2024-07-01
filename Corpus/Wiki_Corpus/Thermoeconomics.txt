@@ -1,0 +1,55 @@
+Thermoeconomics, also referred to as biophysical economics, is a school of heterodox economics that applies the laws of statistical mechanics to economic theory.  Thermoeconomics can be thought of as the statistical physics of economic value and is a subfield of econophysics.
+It is the study of the ways and means by which human societies procure and use energy and other biological and physical resources to produce, distribute, consume and exchange goods and services, while generating various types of waste and environmental impacts. Biophysical economics builds on both social sciences and natural sciences to overcome some of the most fundamental limitations and blind spots of conventional economics. It makes it possible to understand some key requirements and framework conditions for economic growth, as well as related constraints and boundaries.
+
+
+== Thermodynamics ==
+"Rien ne se perd, rien ne se crée, tout se transforme"
+"Nothing is lost, nothing is created, everything is transformed."
+
+-Antoine Lavoisier, one of the fathers of chemistryThermoeconomists maintain that human economic systems can be modeled as thermodynamic systems.  Thermoeconomists argue that economic systems always involve matter, energy, entropy, and information.   Then, based on this premise, theoretical economic analogs of the first and second laws of thermodynamics are developed. The global economy is viewed as an open system.
+Moreover, many economic activities result in the formation of structures.  Thermoeconomics applies the statistical mechanics of non-equilibrium thermodynamics to model these activities.  In thermodynamic terminology, human economic activity may be described as a dissipative system, which flourishes by consuming free energy in transformations and exchange of resources, goods, and services.
+
+
+== Energy Return on Investment ==
+
+Thermoeconomics is based on the proposition that the role of energy in biological evolution should be defined and understood not through the second law of thermodynamics but in terms of such economic criteria as productivity, efficiency, and especially the costs and benefits (or profitability) of the various mechanisms for capturing and utilizing available energy to build biomass and do work.
+
+
+== Peak Oil ==
+
+
+=== Political Implications ===
+"[T]he escalation of social protest and political instability around the world is causally related to the unstoppable thermodynamics of global hydrocarbon energy decline and its interconnected environmental and economic consequences."
+
+
+=== Energy Backed Credit ===
+Under this analysis, a reduction of GDP in advanced economies is now likely:
+
+when we can no longer access consumption via adding credit, and
+with a shift towards lower quality and more costly energy and resources.The 20th  century experienced increasing energy quality and decreasing energy prices. The 21st century will be a story of decreasing energy quality and increasing energy cost.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Georgescu-Roegen, Nicholas (1971). The Entropy Law and the Economic Process. Cambridge, Massachusetts: Harvard University Press. ISBN 978-1583486009.
+Pokrovskii, Vladimir (2011). Econodynamics. The Theory of Social Production. New Economic Windows. Berlin: Springer. ISBN 978-1-4419-9364-9.
+Kümmel, Reiner (2011). The Second Law of Economics: Energy, Entropy, and the Origins of Wealth. The Frontiers Collection. Berlin: Springer. ISBN 978-94-007-2095-4.
+Chen, Jing (2015). The Unity of Science and Economics: A New Foundation of Economic Theory: Springer.
+Charles A.S. Hall, Kent Klitgaard (2018). Energy and the Wealth of Nations: An Introduction to Biophysical Economics: Springer. ISBN 978-3-319-66217-6
+Jean-Marc Jancovici, Christopher Blain (2020). World Without End. Europe Comics
+N.J. Hagens (2019). Economics for the future – Beyond the superorganism. Science Direct.
+Nafeez Ahmed (2017). Failing States, Collapsing Systems: BioPhysical Triggers of Political Violence. Springer Briefs in Energy
+Smil, Vaclav (2018). Energy and Civilization: A History. MIT Press
+
+
+== External links ==
+Yuri Yegorov, article Econo-physics: A Perspective of Matching Two Sciences, Evol. Inst. Econ. Rev. 4(1): 143–170 (2007)
+Borisas Cimbleris (1998): Economy and Thermodynamics
+Schwartzman, David. (2007). "The Limits to Entropy: the Continuing Misuse of Thermodynamics in Environmental and Marxist theory", In Press, Science & Society.
+Saslow, Wayne M. (1999). "An Economic Analogy to Thermodynamics" American Association of Physics Teachers.
+Biophysical Economics Institute

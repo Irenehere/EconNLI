@@ -1,0 +1,29 @@
+In economic theory and econometrics, the term heterogeneity refers to differences across the units being studied. For example, a macroeconomic model in which consumers are assumed to differ from one another is said to have heterogeneous agents.
+
+
+== Unobserved heterogeneity in econometrics ==
+
+In econometrics, statistical inferences may be erroneous if, in addition to the observed variables under study, there exist other relevant variables that are unobserved, but correlated with the observed variables; dependent and independent variables .Methods for obtaining valid statistical inferences in the presence of unobserved heterogeneity include the instrumental variables method; multilevel models, including fixed effects and random effects models; and the Heckman correction for selection bias.
+
+
+== Economic models with heterogeneous agents ==
+
+Economic models are often formulated by means of a representative agent. Depending on the application, individual agents can be aggregated to or represented by a single agent. For example, individual demand can be aggregated to market demand if and only if individual preferences are of the Gorman polar form (or equivalently satisfy linear and parallel Engel curves). Under this condition, even heterogeneous preferences can be represented by a single aggregate agent simply by summing over individual demand to market demand. However, some questions in economic theory cannot be accurately addressed without considering differences across agents, requiring a heterogeneous agent model. 
+How to solve a heterogeneous agent model depends on the assumptions that are made about the expectations of the agents in the model. Broadly speaking, models with heterogeneous agents fall into the category of agent-based computational economics (ACE) if the agents have adaptive expectations (see artificial financial market), or into the category of dynamic stochastic general equilibrium (DSGE) if the agents have rational expectations. DSGE models with heterogeneneous agents are especially difficult to solve, and have only recently become a widespread topic of research; most early DSGE research instead focused on representative agent models.
+
+
+=== Methods for solving DSGE models with heterogeneous agents ===
+Heathcote, Storesletten and Violante (AEJ Macro 2009) make convenient functional form assumptions that allow for some dimensions of heterogeneity but nonetheless maintain an analytical solution for the general equilibrium.
+Krusell and Smith (JPE 1998) permit an arbitrary distribution of wealth but assume all prices and equilibrium variables are approximately functions of the mean or of a few other statistics of that distribution.
+Algan, Allais, and den Haan (2009) approximate the distribution by a parameterized distributional form at all times.
+Reiter (JEDC 2009) and Mertens and Judd (mimeo 2011) develop perturbation methods for approximating the dynamics of the distribution under arbitrary distributional forms.
+
+
+== See also ==
+Representative vs. heterogeneous agents in economics
+Agent-based computational economics
+New Keynesian economics (2010s)
+Economic inequality
+
+
+== References ==

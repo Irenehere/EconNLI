@@ -1,0 +1,67 @@
+The historical school of economics was an approach to academic economics and to public administration that emerged in the 19th century in Germany, and held sway there until well into the 20th century.  The professors involved compiled massive economic histories of Germany and Europe.   Numerous Americans were their students. The school was opposed by theoretical economists. Prominent leaders included Gustav von Schmoller (1838–1917), and Max Weber (1864–1920) in Germany, and Joseph Schumpeter (1883–1950) in Austria and the United States.
+
+
+== Tenets ==
+The historical school held that history was the key source of knowledge about human actions and economic matters, since economics was culture-specific, and hence not generalizable over space and time. The school rejected the universal validity of economic theorems. They saw economics as resulting from careful empirical and historical analysis instead of from logic and mathematics. The school also preferred reality, historical, political, and social, as well as economic, to mathematical modelling.
+Most members of the school were also Sozialpolitiker (social policy advocates), i.e. concerned with social reform and improved conditions for the common man during a period of heavy industrialization. They were more disparagingly referred to as Kathedersozialisten, rendered in English as "socialists of the chair" (compare armchair revolutionary), due to their positions as professors.
+The historical school can be divided into three tendencies:
+the Older, led by Wilhelm Roscher, Karl Knies, and Bruno Hildebrand;
+the Younger, led by Gustav von Schmoller, and also including Etienne Laspeyres, Karl Bücher, Adolph Wagner, Georg Friedrich Knapp and to some extent Lujo Brentano;
+the Youngest, led by Werner Sombart and including, to a very large extent, Max Weber.Predecessors included Friedrich List.The historical school largely controlled appointments to chairs of economics in German universities, as many of the advisors of Friedrich Althoff, head of the university department in the Prussian Ministry of Education 1882–1907, had studied under members of the school. Moreover, Prussia was the intellectual powerhouse of Germany, so dominated academia, not only in central Europe, but also in the United States until about 1900, because the American economics profession was led by holders of German PhDs. The historical school was involved in the Methodenstreit ("strife over method") with the Austrian school, whose orientation was more theoretical and aprioristic.
+
+
+== Influence in Britain and the United States ==
+The historical school had a significant impact on Britain, 1860s–1930s. Thorold Rogers (1823–1890) was the Tooke Professor of Statistics and Economic Science at King's College London, from 1859 until his death. He is best known for compiling the monumental  A History of Agriculture and Prices in England from 1259 to 1793 (7 vol. 1866–1902), which is still useful to scholars.  William Ashley (1860–1927) introduced British scholars to the historical school  as developed in Germany.  In the United States the school influenced the institutional economists, such as Thorstein Veblen (1857–1929) and especially the Wisconsin school of labor history led by John R. Commons (1862–1945). More importantly, numerous aspiring economists undertook graduate studies at German universities, including John Bates Clark, Richard T. Ely, Jeremiah Jenks, Simon Patten, and Frank William Taussig.
+Canadian scholars influenced by the school were led by Harold Innis (1894–1952) at Toronto.  His  staples thesis holds that Canada's culture, political history and economy have been decisively influenced by the exploitation and export of a series of "staples" such as fur, fishing, lumber, wheat, mined metals and coal.  The staple thesis dominated economic history in Canada 1930s–1960s, and is still used by some.After 1930 the historical school declined or disappeared in most economics departments.  It lingered in history departments and business schools.  The major influence in the 1930s and 1940s was Joseph Schumpeter with his dynamic, change-oriented, and innovation-based economics. Although his writings could be critical of the school, Schumpeter's work on the role of innovation and entrepreneurship can be seen as a continuation of ideas originated by the historical school, especially the work of von Schmoller and Sombart.  Alfred D. Chandler, Jr. (1918–2007), had a major impact on approaching business issues through historical studies.
+
+
+== Members of the school ==
+
+
+== English school ==
+
+Although not nearly as famous as its German counterpart, there was also an English historical school, whose figures included Francis Bacon and Herbert Spencer. This school heavily critiqued the deductive approach of the classical economists, especially the writings of David Ricardo. This school revered the inductive process and called for the merging of historical fact with those of the present period. Included in this school are:  William Whewell, Richard Jones, Walter Bagehot, Thorold Rogers, Arnold Toynbee, and William Cunningham, to name a few.
+
+
+== See also ==
+Freiburg school
+Historism
+Institutional economics, a related school developed in the United States
+German Historical School of Law
+Productivity improving technologies (historical)
+
+
+== References ==
+
+
+== Further reading ==
+Avtonomov, Vladimir, and Georgy Gloveli. (2015) "The influence of the German Historical School on economic theory and economic thought in Russia." The German Historical School and European Economic Thought: 185+.
+Bliss, W.D.P. ed. (1898). The encyclopedia of social reform: including political economy, political science, sociology and statistics. pp. 1039 ff. {{cite book}}: |author= has generic name (help).
+Bücher, Karl (1927). Industrial Evolution. 6th ed. New York, NY: Holt.
+Backhaus, Jürgen G. (1994), ed. "Gustav Schmoller and the Problems of Today". History of Economic Ideas, vols. I/1993/3, II/1994/1.
+Backhaus, Jürgen G. (1997), ed. Essays in Social Security and Taxation. Gustav von Schmoller and Adolph Wagner Reconsidered. Marburg: Metropolis.
+Backhaus, Jürgen G. (2000), ed. Karl Bücher: Theory – History – Anthropology – Non Market Economies. Marburg: Metropolis.
+Balabkins, Nicholas W. (1988). Not by theory alone...: The Economics of Gustav von Schmoller and Its Legacy to America. (Berlin: Duncker & Humblot).
+Campagnolo, Gilles, and Christel Vivel. "Before Schumpeter: forerunners of the theory of the entrepreneur in 1900s German political economy – Werner Sombart, Friedrich von Wieser." European Journal of the History of Economic Thought 19.6 (2012): 908–43.
+Chang, Ha-Joon (2002). Kicking Away the Ladder. Development Strategy in Historical Perspective. London: Anthem.
+Dorfman, Joseph. "The role of the German historical school in American economic thought." American Economic Review (1955): 17–28. in JSTOR
+Grimmer-Solem, Erik (2003). The Rise of Historical Economics and Social Reform in Germany, 1864–1894. (Oxford University Press).
+Grimmer-Solem, Erik, and Roberto Romani. "The historical school, 1870–1900: A cross-national reassessment." History of European Ideas 24.4–5 (1998): 267–99.
+Hauk, A. M.  (2012) Methodology of the Social Sciences, Ethics, and Economics in the Newer Historical School: From Max Weber and Rickert to Sombart and Rothacker Ed. Peter Koslowski. Springer Science & Business Media.
+Hodgson, Geoffrey M. (2001). How economics forgot history. The problem of historical specificity in social science. London – New York: Routledge.
+Kadish, Alon (2012). Historians, Economists, and Economic History pp. 3–35 excerpt
+Koslowski, Peter, ed. (2013). The Theory of Capitalism in the German Economic Tradition: Historism, Ordo-Liberalism, Critical Theory, Solidarism. Springer Science & Business Media.
+Lindenfeld, David F. (1993). "The Myth of the Older Historical School of Economics." Central European History 26#4: 405–16.
+Pearson, Heath. "Was there really a German historical school of economics?." History of Political Economy 31.3 (1999): 547–62.
+Reinert, Erik (2007). How Rich Countries Got Rich ... and Why Poor Countries Stay Poor. New York: Carroll & Graf Publishers.
+Roscher, Wilhelm. Principles of Political Economy. 2 vols. From the 13th (1877) German edition. Chicago: Callaghan.
+Schumpeter, J. A. (1984). "History of Economic Analysis". London: Routledge.
+Seligman, Edwin A. (1925). Essays in Economics. New York: Macmillan.
+Shionoya, Yuichi (2001), ed. The German Historical School: The Historical and Ethical Approach to Economics. (Routledge).
+Shionoya, Yuichi (2005), The Soul of the German Historical School. Springer.
+Tribe, Keith (1988) Governing Economy. The Reformation of German Economic Discourse (Cambridge University Press).
+Tribe, Keith (1995) Strategies of Economic Order. German Economic Discourse 1750–1950 (Cambridge University Press) (Republished 2006)
+
+
+== External links ==
+New School for Social Research

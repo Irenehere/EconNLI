@@ -1,0 +1,103 @@
+Financial risk is any of various types of risk associated with financing, including financial transactions that include company loans in risk of default. Often it is understood to include only downside risk, meaning the potential for financial loss and uncertainty about its extent.A science has evolved around managing market and financial risk under the general title of modern portfolio theory initiated by Harry Markowitz in 1952 with his article, "Portfolio Selection".  In modern portfolio theory, the variance (or standard deviation) of a portfolio is used as the definition of risk. 
+
+
+== Types ==
+According to Bender and Panz (2021), financial risks can be sorted into five different categories. In their study, they apply an algorithm-based framework and identify 193 single financial risk types, which are sorted into the five categories market risk, liquidity risk, credit risk, business risk and investment risk.
+
+
+=== Market risk ===
+
+The four standard market risk factors are equity risk, interest rate risk, currency risk, and commodity risk:
+Equity risk is the risk that stock prices in general (not related to a particular company or industry) or the implied volatility will change. When it comes to long-term investing, equities provide a return that will hopefully exceed the risk free rate of return The difference between return and the risk free rate is known as the equity risk premium. When investing in equity, it is said that higher risk provides higher returns. Hypothetically, an investor will be compensated for bearing more risk and thus will have more incentive to invest in riskier stock. A significant portion of high risk/ high return investments come from emerging markets that are perceived as volatile.
+Interest rate risk is the risk that interest rates or the implied volatility will change. The change in market rates and their impact on the profitability of a bank, lead to interest rate risk. Interest rate risk can affect the financial position of a bank and may create unfavorable financial results. The potential for the interest rate to change at any given time can have either positive or negative effects for the bank and the consumer. If a bank gives out a 30-year mortgage at a rate of 4% and the interest rate rises to 6%, the bank loses and the consumer wins. This is an opportunity cost for the bank and a reason why the bank could be affected financially.
+Currency risk is the risk that foreign exchange rates or the implied volatility will change, which affects, for example, the value of an asset held in that currency. Currency fluctuations in the marketplace can have a drastic impact on an international firm's value because of the price effect on domestic and foreign goods, as well as the value of foreign currency denominate assets and liabilities. When a currency appreciates or depreciates, a firm can be at risk depending on where they are operating and what currency denominations they are holding. The fluctuation in currency markets can have effects on both the imports and exports of an international firm. For example, if the euro depreciates against the dollar, the U.S. exporters take a loss while the U.S. importers gain. This is because it takes less dollars to buy a euro and vice versa, meaning the U.S. wants to buy goods and the EU is willing to sell them; it is too expensive for the EU to import from U.S. at this time.
+Commodity risk is the risk that commodity prices (e.g. corn, copper, crude oil) or implied volatility will change. There is too much variation between the amount of risks producers and consumers of commodities face in order to have a helpful framework or guide.
+
+
+=== Model risk ===
+
+Financial risk measurement, pricing of financial instruments, and portfolio selection are all based on statistical models. If the model is wrong, risk numbers, prices, or optimal portfolios are wrong. Model risk quantifies the consequences of using the wrong models in risk measurement, pricing, or portfolio selection.
+The main element of a statistical model in finance is a risk factor distribution. Recent papers treat the factor distribution as unknown random variable and measuring risk of model misspecification. Jokhadze and Schmidt (2018) propose practical model risk measurement framework. They introduce superposed risk measures that incorporate model risk and enables consistent market and model risk management. Further, they provide axioms of model risk measures and define several practical examples of superposed model risk measures in the context of financial risk management and contingent claim pricing.
+
+
+=== Credit risk ===
+
+Credit risk management is a profession that focuses on reducing and preventing losses by understanding and measuring the probability of those losses. Credit risk management is used by banks, credit lenders, and other financial institutions to mitigate losses primarily associated with nonpayment of loans. A credit risk occurs when there is potential that a borrower may default or miss on an obligation as stated in a contract between the financial institution and the borrower.
+Attaining good customer data is an essential factor for managing credit risk. Gathering the right information and building the right relationships with the selected customer base is crucial for business risk strategy. In order to identify potential issues and risks that may arise in the future, analyzing financial and nonfinancial information pertaining to the customer is critical. Risks such as that in business, industry of investment, and management risks are to be evaluated. Credit risk management evaluates the company's financial statements and analyzes the company's decision making when it comes to financial choices. Furthermore, credit risks management analyzes where and how the loan will be utilized and when the expected repayment of the loan is as well as the reason behind the company's need to borrow the loan.
+Expected Loss (EL) is a concept used for Credit Risk Management to measure the average potential rate of losses that a company accounts for over a specific period of time. The expected credit loss is formulated using the formula:
+Expected Loss = Expected Exposure X Expected Default X Expected Severity
+Expected Exposure refers to exposure expected during the credit event. Some factors impacting expected exposure include expected future events and the type of credit transaction. Expected Default is a risk calculated for the number of times a default will likely occur from the borrower. Expected Severity refers to the total cost incurred in the event a default occurs. This total loss includes loan principle and interests. Unlike Expected Loss, organizations have to hold capital for Unexpected Losses. Unexpected Losses represent losses where an organization will need to predict an average rate of loss. It is considered the most critical type of losses as it represents the instability and unpredictability of true losses that may be encountered at a given timeframe.
+
+
+=== Liquidity risk ===
+
+This is the risk that a given security or asset cannot be traded quickly enough in the market to prevent a loss (or make the required profit). There are two types of liquidity risk:
+
+Asset liquidity – An asset cannot be sold due to lack of liquidity in the market – essentially a sub-set of market risk.  This can be accounted for by:
+Widening difference between supply and demand
+Making explicit liquidity reserves
+Lengthening holding period for VaR calculations
+Funding liquidity – Risk that liabilities:
+Cannot be met when they fall due
+Can only be met at an uneconomic price
+Can be name-specific or systemic
+
+
+=== Valuation Risk ===
+
+
+=== Operational risk ===
+
+
+=== Other risks ===
+Non-financial risks summarize all other possible risks
+
+Reputational risk
+Legal risk
+IT risk
+
+
+== Diversification ==
+
+Financial risk, market risk, and even inflation risk can at least partially be moderated by forms of diversification.
+The returns from different assets are highly unlikely to be perfectly correlated and the correlation may sometimes be negative. For instance, an increase in the price of oil will often favour a company that produces it, but negatively impact the business of a firm such an airline whose variable costs are heavily based upon fuel.
+However, share prices are driven by many factors, such as the general health of the economy which will increase the correlation and reduce the benefit of diversification.
+If one constructs a portfolio by including a wide variety of equities, it will tend to exhibit the same risk and return characteristics as the market as a whole, which many investors see as an attractive prospect, so that index funds have been developed that invest in equities in proportion to the weighting they have in some well-known index such as the FTSE.
+However, history shows that even over substantial periods of time there is a wide range of returns that an index fund may experience; so an index fund by itself is not "fully diversified". Greater diversification can be obtained by diversifying across asset classes; for instance a portfolio of many bonds and many equities can be constructed in order to further narrow the dispersion of possible portfolio outcomes.
+A key issue in diversification is the correlation between assets, the benefits increasing with lower correlation. However this is not an observable quantity, since the future return on any asset can never be known with complete certainty. This was a serious issue in the late-2000s recession when assets that had previously had small or even negative correlations suddenly starting moving in the same direction causing severe financial stress to market participants who had believed that their diversification would protect them against any plausible market conditions, including funds that had been explicitly set up to avoid being affected in this way.Diversification has costs. Correlations must be identified and understood, and since they are not constant it may be necessary to rebalance the portfolio which incurs transaction costs due to buying and selling assets. 
+There is also the risk that as an investor or fund manager diversifies, their ability to monitor and understand the assets may decline leading to the possibility of losses due to poor decisions or unforeseen correlations.
+
+
+== Hedging ==
+
+Hedging is a method for reducing risk where a combination of assets are selected to offset the movements of each other.
+For instance, when investing in a stock it is possible to buy an option to sell that stock at a defined price at some point in the future. The combined portfolio of stock and option is now much less likely to move below a given value. As in diversification there is a cost, this time in buying the option for which there is a premium. Derivatives are used extensively to mitigate many types of risk.According to the article from Investopedia, a hedge is an investment designed to reduce the risk of adverse price movements in an asset. Typically, a hedge consists of taking a counter-position in a related financial instrument, such as a futures contract.The Forward Contract
+The forward contract is a non-standard contract to buy or sell an underlying asset between two independent parties at an agreed price and date.
+The Future Contract
+The futures contract is a standardized contract to buy or sell an underlying asset between two independent parties at an agreed price, quantity and date.
+Option contract
+The Option contract is a contract gives the buyer (the owner or holder of the option) the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option.
+
+
+== Financial / credit risk related acronyms ==
+ACPM - Active credit portfolio management
+EAD  - Exposure at default
+EL   - Expected loss
+LGD  - Loss given default
+PD   - Probability of default
+KMV  - quantitative credit analysis solution developed by credit rating agency Moody's
+VaR  - Value at Risk, a common methodology for measuring risk due to market movements
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Bartram, Söhnke M.; Brown, Gregory W.; Waller, William (August 2013). "How Important is Financial Risk?". Journal of Financial and Quantitative Analysis. doi:10.2139/ssrn.1031910. S2CID 219334657. SSRN 2307939.
+Risk.net "Financial Risk Management News & Analysis
+Elements of Financial Risk Management, 2nd Edition
+Quantitative Risk Management: A Practical Guide to Financial Risk
+Understanding Derivatives: Markets and Infrastructure Federal Reserve Bank of Chicago, Financial Markets Group

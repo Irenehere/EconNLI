@@ -1,0 +1,258 @@
+The overlapping generations (OLG) model is one of the dominating frameworks of analysis in the study of macroeconomic dynamics and economic growth. In contrast, to the  Ramsey–Cass–Koopmans neoclassical growth model in which individuals are infinitely-lived, in the OLG model individuals live a finite length of time, long enough to overlap with at least one period of another agent's life. 
+The OLG model is the natural framework for the study of: (a) the life-cycle behavior (investment in human capital, work and saving for retirement), (b) the implications of the allocation of resources across the generations, such as Social Security, on the income per capita in the long-run, (c) the determinants of economic growth in the course of human history, and (d) the factors that triggered the fertility transition.
+
+
+== History ==
+The construction of the OLG model was inspired by Irving Fisher's monograph The Theory of Interest.  It was first formulated in 1947, in the context of a pure-exchange economy, by Maurice Allais, and more rigorously by Paul Samuelson in 1958. In 1965, Peter Diamond incorporated an aggregate neoclassical production into the model. This OLG model with production was further augmented with the development of the two-sector OLG model by Oded Galor, and the introduction of OLG models with endogenous fertility.Books devoted to the use of the OLG model include Azariadis' Intertemporal Macroeconomics and de la Croix and Michel's Theory of Economic Growth.
+
+
+== Pure-exchange OLG model ==
+The most basic OLG model has the following characteristics:
+Individuals live for two periods; in the first period of life, they are referred to as the Young. In the second period of life, they are referred to as the Old.
+A number of individuals are born in every period. 
+  
+    
+      
+        
+          N
+          
+            t
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle N_{t}^{t}}
+   denotes the number of individuals born in period t.
+
+  
+    
+      
+        
+          N
+          
+            t
+          
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle N_{t}^{t-1}}
+   denotes the number of old people in period t. Since the economy begins in period 1, in period 1 there is a group of people who are already old. They are referred to as the initial old. The number of them can be denoted as 
+  
+    
+      
+        
+          N
+          
+            0
+          
+        
+      
+    
+    {\displaystyle N_{0}}
+   .
+The size of the initial old generation is normalized to 1: 
+  
+    
+      
+        
+          N
+          
+            0
+          
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle N_{0}^{0}=1}
+  .
+People do not die early, so 
+  
+    
+      
+        
+          N
+          
+            t
+          
+          
+            t
+          
+        
+        =
+        
+          N
+          
+            t
+            +
+            1
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle N_{t}^{t}=N_{t+1}^{t}}
+  .
+Population grows at a constant rate n:
+  
+    
+      
+        
+          N
+          
+            t
+          
+          
+            t
+          
+        
+        =
+        (
+        1
+        +
+        n
+        
+          )
+          
+            t
+          
+        
+      
+    
+    {\displaystyle N_{t}^{t}=(1+n)^{t}}
+  In the "pure exchange economy" version of the model, there is only one physical good and it cannot endure for more than one period. Each individual receives a fixed endowment of this good at birth. This endowment is denoted as y.
+In the "production economy" version of the model (see Diamond OLG model below), the physical good can be either consumed or invested to build physical capital. Output is produced from labor and physical capital. Each household is endowed with one unit of time which is inelastically supply on the labor market.
+Preferences over consumption streams are given by
+  
+    
+      
+        u
+        (
+        
+          c
+          
+            t
+          
+          
+            t
+          
+        
+        ,
+        
+          c
+          
+            t
+          
+          
+            t
+            +
+            1
+          
+        
+        )
+        =
+        U
+        (
+        
+          c
+          
+            t
+          
+          
+            t
+          
+        
+        )
+        +
+        β
+        U
+        (
+        
+          c
+          
+            t
+          
+          
+            t
+            +
+            1
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle u(c_{t}^{t},c_{t}^{t+1})=U(c_{t}^{t})+\beta U(c_{t}^{t+1}),}
+  
+where 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   is the rate of time preference.
+
+
+== OLG model with production ==
+
+
+=== Basic one-sector OLG model ===
+The pure-exchange OLG model was augmented with the introduction of an aggregate neoclassical production by Peter Diamond.  In contrast, to Ramsey–Cass–Koopmans neoclassical growth model in which individuals are infinitely-lived and the economy is characterized by a unique steady-state equilibrium, as was established by Oded Galor and Harl Ryder, the OLG economy may be characterized by multiple steady-state equilibria, and initial conditions may therefore affect the long-run evolution of the long-run level of income per capita. 
+
+Since initial conditions in the OLG model may affect economic growth in long-run, the model was useful for the exploration of the convergence hypothesis.The economy has the following characteristics:
+Two generations are alive at any point in time, the young (age 1) and old (age 2).
+The size of the young generation in period t is given by Nt =  N0 Et.
+Households work only in the first period of their life and earn Y1,t income. They earn no income in the second period of their life (Y2,t+1 =  0)
+They consume part of their first period income and save the rest to finance their consumption when old.
+At the end of period t, the assets of the young are the source of the capital used for aggregate production in period t+1.So Kt+1 = Nt,a1,t where a1,t is the assets per young household after their consumption in period 1. In addition to this there is no depreciation.
+The old in period t own the entire capital stock and consume it entirely, so dissaving by the old in period t is given by Nt-1,a1,t-1 = Kt.
+Labor and capital markets are perfectly competitive and the aggregate production technology is CRS, Y = F(K,L).
+
+
+=== Two-sector OLG model ===
+The one-sector OLG model was further augmented with the introduction of a two-sector OLG model by Oded Galor. The two-sector model provides a framework of analysis for the study of the sectoral adjustments to aggregate shocks and implications of international trade for the dynamics of comparative advantage. In contrast to the Uzawa two-sector neoclassical growth model, the two-sector OLG model may be characterized by multiple steady-state equilibria, and initial conditions may therefore affect the long-run position of an economy.
+
+
+=== OLG model with endogenous fertility ===
+Oded Galor and his co-authors develop OLG models where population growth is endogenously determined to explore: (a) the importance the narrowing of the gender wage gap for the fertility decline, (b) the contribution of the rise in the return to human capital and the decline in fertility to the transition from stagnation to growth, and (c) the importance of population adjustment to technological progress for the emergence of the Malthusian trap.
+
+
+== Dynamic inefficiency ==
+One important aspect of the OLG model is that the steady state equilibrium need not be efficient, in contrast to general equilibrium models where the first welfare theorem guarantees Pareto efficiency. Because there are an infinite number of agents in the economy (summing over future time), the total value of resources is infinite, so Pareto improvements can be made by transferring resources from each young generation to the current old generation, similiar to the logic described in the Hilbert Hotel. Not every equilibrium is inefficient; the efficiency of an equilibrium is strongly linked to the interest rate and the Cass Criterion gives necessary and sufficient conditions for when an OLG competitive equilibrium allocation is inefficient.Another attribute of OLG type models is that it is possible that 'over saving' can occur when capital accumulation is added to the model—a situation which could be improved upon by a social planner by forcing households to draw down their capital stocks.  However, certain restrictions on the underlying technology of production and consumer tastes can ensure that the steady state level of saving corresponds to the Golden Rule savings rate of the Solow growth model and thus guarantee intertemporal efficiency. Along the same lines, most empirical research on the subject has noted that oversaving does not seem to be a major problem in the real world.In Diamond's version of the model, individuals tend to save more than is socially optimal, leading to dynamic inefficiency. Subsequent work has investigated whether dynamic inefficiency is a characteristic in some economies and whether government programs to transfer wealth from young to poor do reduce dynamic inefficiency.
+Another fundamental contribution of OLG models is that they justify existence of money as a medium of exchange. A system of expectations exists as an equilibrium in which each new young generation accepts money from the previous old generation in exchange for consumption. They do this because they expect to be able to use that money to purchase consumption when they are the old generation.
+
+
+== See also ==
+Peter A. Diamond
+Karl Shell
+Macroeconomic model
+First welfare theorem
+Walrasian equilibrium
+
+
+== References ==
+
+
+== Further reading ==
+Acemoğlu, Daron (2008). "Growth with Overlapping Generations". Introduction to Modern Economic Growth. Princeton University Press. pp. 327–358. ISBN 978-0-691-13292-1.
+Barro, Robert J.; Sala-i-Martin, Xavier (2004). "Appendix: Overlapping-Generations Models". Economic Growth (Second ed.). New York: McGraw-Hill. pp. 190–200. ISBN 978-0-262-02553-9.
+Blanchard, Olivier Jean; Fischer, Stanley (1989). "The Overlapping Generations Model". Lectures on Macroeconomics. Cambridge: MIT Press. pp. 91–152. ISBN 978-0-262-02283-5.
+Romer, David (2006). "Infinite-Horizon and Overlapping-Generations Models". Advanced Macroeconomics (3rd ed.). New York: McGraw Hill. pp. 47–97. ISBN 978-0-07-287730-4.
+Weil, Philippe (2008). "Overlapping Generations: The First Jubilee". Journal of Economic Perspectives. 22 (4): 115–34. CiteSeerX 10.1.1.513.4087. doi:10.1257/jep.22.4.115.
+Azariadis, Costas (1993), "Intertemporal Macroeconomics", Wiley-Blackwell, ISBN 978-1-55786-366-9.
+de la Croix, David; Michel, Philippe (2002), "A Theory of Economic Growth - Dynamics and Policy in Overlapping Generations", Cambridge University Press, ISBN 9780521001151.

@@ -1,0 +1,267 @@
+International Relations (IR) are the interactions among sovereign states. The scientific study of those interactions is called international studies, international politics, or international affairs. In a broader sense, it concerns all activities among states—such as war, diplomacy, trade, and foreign policy—as well as relations with and among other international actors, such as intergovernmental organizations (IGOs), international nongovernmental organizations (INGOs), international legal bodies, and multinational corporations (MNCs). There are several schools of thought within IR, of which the most prominent are realism, liberalism, and constructivism.
+International relations is widely classified as a major subdiscipline of political science, along with comparative politics, political theory, political methodology, and public administration. It also often draws heavily from other fields, including anthropology, economics, geography, law, philosophy, sociology, and history.While international politics has been analyzed since antiquity, international relations did not become a discrete field until 1919, when it was first offered as an undergraduate major by Aberystwyth University in the United Kingdom. After the Second World War, international relations burgeoned in both importance and scholarship—particularly in North America and Western Europe—partly in response to the geostrategic concerns of the Cold War. The collapse of the Soviet Union and subsequent rise of globalization in the late 20th century presaged new theories and evaluations of the rapidly changing international system.
+
+
+== Terminology ==
+International relations or international affairs is, dependent on the academic institution, either a subdiscipline of political science, or a broader multidisciplinary field of global politics, law, economics or world history. As a subdiscipline of political science, the focus of IR studies lies on political, diplomatic and security connections among states, as well as the study of modern political world history. In many academic institutions, studies of IR are thus situated in the department of politics/social sciences. This is for example the case in Scandinavia, where international relations are often simply referred to as international politics (IP).In institutions where international relations refers to the broader multidisciplinary field of global politics, law, economics and history, the subject may be studied across multiple departments, or be situated in its own department, as is the case at for example the London School of Economics. An undergraduate degree in multidisciplinary international relations may lead to a more specialised master's degree of either international politics, economics, or international law.
+
+In the inaugural issue of World Politics, Frederick S. Dunn wrote that IR was about "relations that take place across national boundaries" and "between autonomous political groups in a world system". Dunn wrote that unique elements characterized IR and separated it from other subfields:international politics is concerned with the special kind of power relationships that exist in a community lacking an overriding authority; international economics deals with trade relations across national boundaries that are complicated by the uncontrolled actions of sovereign states; and international law is law that is based on voluntary acceptance by independent nations.The terms "International studies" and "global studies" have been used by some to refer to a broader multidisciplinary IR field.
+
+
+== History of international relations ==
+
+Studies of international relations started thousands of years ago; Barry Buzan and Richard Little considered the interaction of ancient Sumerian city-states, starting in 3,500 BC, as the first fully-fledged international system. Analyses of the foreign policies of sovereign city states have been done in ancient times, as in Thycydides' analysis of the causes of the Peloponnesian War between Athens and Sparta, as well as by Niccolò Machiavelli in The Prince, published in 1532, where he analyzed the foreign policy of the renaissance city state of Florence. The contemporary field of international relations, however, analyzes the connections existing between sovereign nation-states. This makes the establishment of the modern state system the natural starting point of international relations history.The establishment of modern sovereign states as fundamental political units traces back to the Peace of Westphalia of 1648 in Europe. During the preceding Middle Ages, European organization of political authority was based on a vaguely hierarchical religious order. Contrary to popular belief, Westphalia still embodied layered systems of sovereignty, especially within the Holy Roman Empire. More than the Peace of Westphalia, the Treaty of Utrecht of 1713 is thought to reflect an emerging norm that sovereigns had no internal equals within a defined territory and no external superiors as the ultimate authority within the territory's sovereign borders. These principles underpin the modern international legal and political order.
+The period between roughly 1500 to 1789 saw the rise of independent sovereign states, multilateralism, and the institutionalization of diplomacy and the military. The French Revolution contributed the idea that the citizenry of a state, defined as the nation, that were sovereign, rather than a monarch or noble class. A state wherein the nation is sovereign would thence be termed a nation-state, as opposed to a monarchy or a religious state; the term republic increasingly became its synonym. An alternative model of the nation-state was developed in reaction to the French republican concept by the Germans and others, who instead of giving the citizenry sovereignty, kept the princes and nobility, but defined nation-statehood in ethnic-linguistic terms, establishing the rarely if ever fulfilled ideal that all people speaking one language should belong to one state only. The same claim to sovereignty was made for both forms of nation-state. In Europe today, few states conform to either definition of nation-state: many continue to have royal sovereigns, and hardly any are ethnically homogeneous.
+The particular European system supposing the sovereign equality of states was exported to the Americas, Africa, and Asia via colonialism and the "standards of civilization". The contemporary international system was finally established through decolonization during the Cold War. However, this is somewhat over-simplified. While the nation-state system is considered "modern", many states have not incorporated the system and are termed "pre-modern".
+
+Further, a handful of states have moved beyond insistence on full sovereignty, and can be considered "post-modern". The ability of contemporary IR discourse to explain the relations of these different types of states is disputed. "Levels of analysis" is a way of looking at the international system, which includes the individual level, the domestic state as a unit, the international level of transnational and intergovernmental affairs, and the global level.
+What is explicitly recognized as international relations theory was not developed until after World War I, and is dealt with in more detail below. IR theory, however, has a long tradition of drawing on the work of other social sciences. The use of capitalizations of the "I" and "R" in international relations aims to distinguish the academic discipline of international relations from the phenomena of international relations. Many cite Sun Tzu's The Art of War (6th century BC), Thucydides' History of the Peloponnesian War (5th century BC), Chanakya's Arthashastra (4th century BC), as the inspiration for realist theory, with Hobbes' Leviathan and Machiavelli's The Prince providing further elaboration.
+Similarly, liberalism draws upon the work of Kant and Rousseau, with the work of the former often being cited as the first elaboration of democratic peace theory. Though contemporary human rights is considerably different from the type of rights envisioned under natural law, Francisco de Vitoria, Hugo Grotius and John Locke offered the first accounts of universal entitlement to certain rights on the basis of common humanity. In the 20th century, in addition to contemporary theories of liberal internationalism, Marxism has been a foundation of international relations.
+
+
+=== Emergence as academic discipline ===
+International relations as a distinct field of study began in Britain. IR emerged as a formal academic discipline in 1919 with the founding of the first IR professorship: the Woodrow Wilson Chair at Aberystwyth, University of Wales (now Aberystwyth University), held by Alfred Eckhard Zimmern and endowed by David Davies. International politics courses were established at the University of Wisconsin in 1899 by Paul Samuel Reinsch and at Columbia University in 1910. By 1920, there were four universities that taught courses on international organization.Georgetown University's Edmund A. Walsh School of Foreign Service is the oldest continuously operating school for international affairs in the United States, founded in 1919. In the early 1920s, the London School of Economics' department of international relations was founded at the behest of Nobel Peace Prize winner Philip Noel-Baker: this was the first institute to offer a wide range of degrees in the field. This was rapidly followed by establishment of IR at universities in the US and in Geneva, Switzerland. The creation of the posts of Montague Burton Professor of International Relations at LSE and at Oxford gave further impetus to the academic study of international relations. Furthermore, the International History department at LSE developed a focus on the history of IR in the early modern, colonial and Cold War periods.The first university entirely dedicated to the study of IR was the Graduate Institute of International and Development Studies, which was founded in 1927 to form diplomats associated to the League of Nations. In 1922, Georgetown University graduated its first class of the Master of Science in Foreign Service (MSFS) degree, making it the first international relations graduate program in the United States. This was soon followed by the establishment of the Committee on International Relations (CIR) at the University of Chicago, where the first research graduate degree was conferred in 1928. The Fletcher School of Law and Diplomacy, a collaboration between Tufts University and Harvard, opened its doors in 1933 as the first graduate-only school of international affairs in the United States. In 1965, Glendon College and the Norman Paterson School of International Affairs were the first institutions in Canada to offer an undergraduate and a graduate program in international studies and affairs, respectively.
+The lines between IR and other political science subfields is sometimes blurred, in particular when it comes to the study of conflict, institutions, political economy and political behavior. The division between comparative politics and international relations is artificial, as processes within nations shape international processes, and international processes shape processes within states. Some scholars have called for an integration of the fields. Comparative politics does not have similar "isms" as international relations scholarship.Critical scholarship in International Relations has explored the relationship between the institutionalization of International Relations as an academic discipline and the demands of national governments. Robert Vitalis's book White World Order, Black Power Politics details the historical imbrication of IR in the projects of colonial administration and imperialism, while other scholars have traced the emergence of International Relations in relation to the consolidation of newly independent nation-states within the non-West, such as Brazil and India.
+
+
+== Theory ==
+
+Within the study of international relations, there exists multiple theories seeking to explain how states and other actors operate within the international system. These can generally be divided into the three main strands of realism, liberalism, and constructivism.
+
+
+=== Realism ===
+
+The realist framework of international relations rests on the fundamental assumption that the international state system is an anarchy, with no overarching power restricting the behaviour of sovereign states. As a consequence, states are engaged in a continuous power struggle, where they seek to augment their own military capabilities, economic power, and diplomacy relative to other states; this in order to ensure the protection of their political system, citizens, and vital interests. The realist framework further assumes that states act as unitary, rational actors, where central decision makers in the state apparatus ultimately stand for most of the state's foreign policy decisions. International organisations are in consequence merely seen as tools for individual states used to further their own interests, and are thought to have little power in shaping states' foreign policies on their own.The realist framework is traditionally associated with the analysis of power-politics, and has been used to analyse the conflicts between states in the early European state-system; the causes of the first and second world wars, as well as the behaviour of the United States and the Soviet Union during the Cold War. In settings such as these the realist framework carries great interpretative insights in explaining how the military and economic power struggles of states lead to larger armed conflicts.
+
+
+==== History of realism ====
+History of the Peloponnesian War, written by Thucydides, is considered a foundational text of the realist school of political philosophy. There is debate over whether Thucydides himself was a realist; Richard Ned Lebow has argued that seeing Thucydides as a realist is a misinterpretation of a more complex political message within his work. Amongst others, philosophers like Machiavelli, Hobbes and Rousseau are considered to have contributed to the Realist philosophy. However, while their work may support realist doctrine, it is not likely that they would have classified themselves as realists in this sense. Political realism believes that politics, like society, is governed by objective laws with roots in human nature. To improve society, it is first necessary to understand the laws by which society lives. The operation of these laws being impervious to our preferences, persons will challenge them only at the risk of failure. Realism, believing as it does in the objectivity of the laws of politics, must also believe in the possibility of developing a rational theory that reflects, however imperfectly and one-sidedly, these objective laws. It believes also, then, in the possibility of distinguishing in politics between truth and opinion—between what is true objectively and rationally, supported by evidence and illuminated by reason, and what is only a subjective judgment, divorced from the facts as they are and informed by prejudice and wishful thinking.
+Major theorists include E. H. Carr, Robert Gilpin, Charles P. Kindleberger, Stephen D. Krasner, Hans Morgenthau, Kenneth Waltz, Robert Jervis, Stephen Walt, and John Mearsheimer.
+
+
+=== Liberalism ===
+
+In contrast to realism, the liberal framework emphasises that states, although they are sovereign, do not exist in a purely anarchical system. Rather, liberal theory assumes that states are institutionally constrained by the power of international organisations, and mutually dependent on one another through economic and diplomatic ties. Institutions such as the United Nations, the World Trade Organisation (WTO), and the International Court of Justice are taken to, over time, have developed power and influence to shape the foreign policies of individual states. Furthermore, the existence of the globalised world economy makes continuous military power struggle irrational, as states are dependent on participation in the global trade system to ensure their own survival. As such, the liberal framework stresses cooperation between states as a fundamental part of the international system. States are not seen as unitary actors, but pluralistic arenas where interest groups, non-governmental organisations, and economic actors also shape the creation of foreign policy.The liberal framework is associated with analysis of the globalised world as it emerged in the aftermath of World War II. Increased political cooperation through organisations such as the UN, as well as economic cooperation through institutions such as the WTO, the World Bank and the International Monetary Fund, was thought to have made the realist analysis of power and conflict inadequate in explaining the workings of the international system.
+
+
+==== History of liberalism ====
+The intellectual basis of liberal theory is often cited as Immanuel Kant's essay Perpetual Peace from 1795. In it, he postulates that states, over time, through increased political and economic cooperation, will come to resemble an international federation—a world government; which will be characterised by continual peace and cooperation. In modern times, liberal international relations theory arose after World War I in response to the ability of states to control and limit war in their international relations. Early adherents include Woodrow Wilson and Norman Angell, who argued that states mutually gained from cooperation and that war was so destructive as to be essentially futile. Liberalism was not recognized as a coherent theory as such until it was collectively and derisively termed idealism by E. H. Carr. A new version of "idealism" that focused on human rights as the basis of the legitimacy of international law was advanced by Hans Köchler.
+Major theorists include Montesquieu, Immanuel Kant, Michael W. Doyle, Francis Fukuyama, and Helen Milner.
+
+
+==== Liberal institututionalism ====
+
+Liberal institutionalism (some times referred to as neoliberalism) shows how cooperation can be achieved in international relations even if neorealist assumptions apply (states are the key actors in world politics, the international system is anarchic, and states pursue their self interest). Liberal institutionalists highlight the role of international institutions and regimes in facilitating cooperation between states.Prominent neoliberal institutionalists are John Ikenberry, Robert Keohane, and Joseph Nye. Robert Keohane's 1984 book After Hegemony used insights from the new institutional economics to argue that the international system could remain stable in the absence of a hegemon, thus rebutting hegemonic stability theory.
+
+
+===== Regime theory =====
+
+Regime theory is derived from the liberal tradition that argues that international institutions or regimes affect the behaviour of states (or other international actors). It assumes that cooperation is possible in the anarchic system of states, indeed, regimes are by definition, instances of international cooperation.
+While realism predicts that conflict should be the norm in international relations, regime theorists say that there is cooperation despite anarchy. Often they cite cooperation in trade, human rights and collective security among other issues. These instances of cooperation are regimes. The most commonly cited definition of regimes comes from Stephen Krasner, who defines regimes as "principles, norms, rules, and decision-making procedures around which actor expectations converge in a given issue-area".Not all approaches to regime theory, however, are liberal or neoliberal; some realist scholars like Joseph Grieco have developed hybrid theories which take a realist based approach to this fundamentally liberal theory. (Realists do not say cooperation never happens, just that it is not the norm; it is a difference of degree).
+
+
+=== Constructivism ===
+
+The constructivist framework rests on the fundamental assumption that the international system is built on social constructs; such as ideas, norms, and identities. Various political actors, such as state leaders, policy makers, and the leaders of international organisations, are socialised into different roles and systems of norms, which define how the international system operates. The constructivist scholar Alexander Wendt, in a 1992 article in International Organization, noted in response to realism that "anarchy is what states make of it". By this he means that the anarchic structure that realists claim governs state interaction is in fact a phenomenon that is socially constructed and reproduced by states.
+Constructivism is part of critical theory, and as such seeks to criticise the assumptions underlying traditional IR theory. Constructivist theory would for example claim that the state leaders of the United States and Soviet Union were socialised into different roles and norms, which can provide theoretical insights to how the conflict between the nations was conducted during the Cold War. E.g., prominent US policy makers frequently spoke of the USSR as an 'evil empire', and thus socialised the US population and state apparatus into an anti-communist sentiment, which defined the norms conducted in US foreign policy. Other constructivist analyses include the discourses on European integration; senior policy-making circles were socialised into ideas of Europe as an historical and cultural community, and therefore sought to construct institutions to integrate European nations into a single political body. Constructivism is also present in the analysis of international law, where norms of conduct such as the prohibition of chemical weapons, torture, and the protection of civilians in war, are socialised into international organisations, and stipulated into rules.
+Prominent constructivist IR scholars include Michael Barnett, Martha Finnemore, Ted Hopf, Peter Katzenstein, Kathryn Sikkink, and Alexander Wendt.
+
+
+=== Critical theory (post-structuralism) ===
+Post-structuralism theories of international relations (also called critical theories due to being inherently critical of traditional IR frameworks) developed in the 1980s from postmodernist studies in political science. Post-structuralism explores the deconstruction of concepts traditionally not problematic in IR (such as "power" and "agency") and examines how the construction of these concepts shapes international relations. The examination of "narratives" plays an important part in poststructuralist analysis; for example, feminist poststructuralist work has examined the role that "women" play in global society and how they are constructed in war as "innocent" and "civilians". Rosenberg's article "Why is there no International Historical Sociology" was a key text in the evolution of this strand of international relations theory. Post-structuralism has garnered both significant praise and criticism, with its critics arguing that post-structuralist research often fails to address the real-world problems that international relations studies is supposed to contribute to solving. Constructivist theory (see above) is the most prominent strand of post-structuralism. Other prominent post-structuralist theories are Marxism, dependency theory, feminism, and the theories of the English school. See also Critical international relations theory.
+
+
+==== Marxism ====
+
+Marxist theories of IR reject the realist/liberal view of state conflict or cooperation; instead focusing on the economic and material aspects. It makes the assumption that the economy trumps other concerns, making economic class the fundamental level of analysis. Marxists view the international system as an integrated capitalist system in pursuit of capital accumulation. Thus, colonialism brought in sources for raw materials and captive markets for exports, while decolonialization brought new opportunities in the form of dependence.
+A prominent derivative of Marxian thought is critical international relations theory which is the application of "critical theory" to international relations. Early critical theorists were associated with the Frankfurt School, which followed Marx's concern with the conditions that allow for social change and the establishment of rational institutions. Their emphasis on the "critical" component of theory was derived significantly from their attempt to overcome the limits of positivism. Modern-day proponents such as Andrew Linklater, Robert W. Cox, and Ken Booth focus on the need for human emancipation from the nation-state. Hence, it is "critical" of mainstream IR theories that tend to be both positivist and state-centric.
+
+
+==== Dependency theory ====
+Further linked in with Marxist theories is dependency theory and the core–periphery model, which argue that developed countries, in their pursuit of power, appropriate developing states through international banking, security and trade agreements and unions on a formal level, and do so through the interaction of political and financial advisors, missionaries, relief aid workers, and MNCs on the informal level, in order to integrate them into the capitalist system, strategically appropriating undervalued natural resources and labor hours and fostering economic and political dependence.
+
+
+==== Feminism ====
+
+Feminist IR considers the ways that international politics affects and is affected by both men and women and also at how the core concepts that are employed within the discipline of IR (e.g. war, security, etc.) are themselves gendered. Feminist IR has not only concerned itself with the traditional focus of IR on states, wars, diplomacy and security, but feminist IR scholars have also emphasized the importance of looking at how gender shapes the current global political economy. In this sense, there is no clear cut division between feminists working in IR and those working in the area of International Political Economy (IPE). From its inception, feminist IR has also theorized extensively about men and, in particular, masculinities. Many IR feminists argue that the discipline is inherently masculine in nature. For example, in her article "Sex and Death in the Rational World of Defense Intellectuals" Signs (1988), Carol Cohn claimed that a highly masculinized culture within the defense establishment contributed to the divorcing of war from human emotion.
+Feminist IR emerged largely from the late 1980s onward. The end of the Cold War and the re-evaluation of traditional IR theory during the 1990s opened up a space for gendering International Relations. Because feminist IR is linked broadly to the critical project in IR, by and large most feminist scholarship have sought to problematize the politics of knowledge construction within the discipline—often by adopting methodologies of deconstructivism associated with postmodernism/poststructuralism. However, the growing influence of feminist and women-centric approaches within the international policy communities (for example at the World Bank and the United Nations) is more reflective of the liberal feminist emphasis on equality of opportunity for women.
+Prominent scholars include Carol Cohn, Cynthia Enloe, Sara Ruddick, and J. Ann Tickner.
+
+
+==== International society theory (the English school) ====
+
+International society theory, also called the English School, focuses on the shared norms and values of states and how they regulate international relations. Examples of such norms include diplomacy, order, and international law. Theorists have focused particularly on humanitarian intervention, and are subdivided between solidarists, who tend to advocate it more, and pluralists, who place greater value in order and sovereignty. Nicholas Wheeler is a prominent solidarist, while Hedley Bull and Robert H. Jackson are perhaps the best known pluralists. Some English School theoreticians have used historical cases in order to show the influence that normative frameworks have on the evolution of the international political order at various critical junctures.
+
+
+== Levels of analysis ==
+
+
+=== Systemic level concepts ===
+International relations are often viewed in terms of levels of analysis. The systemic level concepts are those broad concepts that define and shape an international milieu, characterized by anarchy. Focusing on the systemic level of international relations is often, but not always, the preferred method for neo-realists and other structuralist IR analysts.
+
+
+==== Sovereignty ====
+
+Preceding the concepts of interdependence and dependence, international relations relies on the idea of sovereignty. Described in Jean Bodin's Six Books of the Commonwealth in 1576, the three pivotal points derived from the book describe sovereignty as being a state, that the sovereign power(s) have absolute power over their territories, and that such a power is only limited by the sovereign's "own obligations towards other sovereigns and individuals". Such a foundation of sovereignty is indicated by a sovereign's obligation to other sovereigns, interdependence and dependence to take place. While throughout world history there have been instances of groups lacking or losing sovereignty, such as African nations prior to decolonization or the occupation of Iraq during the Iraq War, there is still a need for sovereignty in terms of assessing international relations.
+
+
+==== Power ====
+
+The concept of power in international relations can be described as the degree of resources, capabilities, and influence in international affairs. It is often divided up into the concepts of hard power and soft power, hard power relating primarily to coercive power, such as the use of force, and soft power commonly covering economics, diplomacy and cultural influence. However, there is no clear dividing line between the two forms of power.
+
+
+==== National interest ====
+Perhaps the most significant concept behind that of power and sovereignty, national interest is a state's action in relation to other states where it seeks to gain advantage or benefits to itself. National interest, whether aspirational or operational, is divided by core/vital and peripheral/non-vital interests. Core or vital interests constitute the things which a country is willing to defend or expand with conflict such as territory, ideology (religious, political, economic), or its citizens. Peripheral or non-vital are interests which a state is willing to compromise. For example, in Germany's annexation of the Sudetenland in 1938 (a part of Czechoslovakia) under the Munich Agreement, Czechoslovakia was willing to relinquish territory which was considered ethnically German in order to preserve its own integrity and sovereignty.
+
+
+==== Non-state actors ====
+In the 21st century, the status-quo of the international system is no longer monopolized by states alone. Rather, it is the presence of non-state actors, who autonomously act to implement unpredictable behaviour to the international system. Whether it is transnational corporations, liberation movements, non-governmental agencies, or international organizations, these entities have the potential to significantly influence the outcome of any international transaction. Additionally, this also includes the individual person as while the individual is what constitutes the states collective entity, the individual does have the potential to also create unpredicted behaviours. Al-Qaeda, as an example of a non-state actor, has significantly influenced the way states (and non-state actors) conduct international affairs.
+
+
+==== Power blocs ====
+The existence of power blocs in international relations is a significant factor related to polarity. During the Cold War, the alignment of several nations to one side or another based on ideological differences or national interests has become an endemic feature of international relations. Unlike prior, shorter-term blocs, the Western and Soviet blocs sought to spread their national ideological differences to other nations. Leaders like US President Harry S. Truman under the Truman Doctrine believed it was necessary to spread democracy whereas the Warsaw Pact under Soviet policy sought to spread communism. After the Cold War, and the dissolution of the ideologically homogeneous Eastern bloc still gave rise to others such as the South-South Cooperation movement.
+
+
+==== Polarity ====
+
+Polarity in international relations refers to the arrangement of power within the international system. The concept arose from bipolarity during the Cold War, with the international system dominated by the conflict between two superpowers, and has been applied retrospectively by theorists. However, the term bipolar was notably used by Stalin who said he saw the international system as a bipolar one with two opposing powerbases and ideologies. Consequently, the international system prior to 1945 can be described as multipolar, with power being shared among great powers.
+
+The collapse of the Soviet Union in 1991 had led to unipolarity, with the United States as a sole superpower, although many refuse to acknowledge the fact. China's continued rapid economic growth—it became the world's second-largest economy in 2010—respectable international position, and the power the Chinese Government exerts over its people (consisting of the largest population in the world), resulted in debate over whether China is now a superpower or a possible candidate in the future. However, China's strategic force unable of projecting power beyond its region and its nuclear arsenal of 250 warheads (compared to 7,700 of the United States) mean that the unipolarity will persist in the policy-relevant future.
+Several theories of international relations draw upon the idea of polarity. The balance of power was a concept prevalent in Europe prior to the First World War, the thought being that by balancing power blocs it would create stability and prevent war. Theories of the balance of power gained prominence again during the Cold War, being a central mechanism of Kenneth Waltz's neorealism. Here, the concepts of balancing (rising in power to counter another) and bandwagonning (siding with another) are developed.
+Robert Gilpin's hegemonic stability theory also draws upon the idea of polarity, specifically the state of unipolarity. Hegemony is the preponderance of power at one pole in the international system, and the theory argues this is a stable configuration because of mutual gains by both the dominant power and others in the international system. This is contrary to many neorealist arguments, particularly made by Kenneth Waltz, stating that the end of the Cold War and the state of unipolarity is an unstable configuration that will inevitably change.
+The case of Gilpin proved to be correct and Waltz's article titled "The Stability of a Bipolar World" was followed in 1999 by William Wohlforth's article titled "The Stability of a Unipolar World".Waltz's thesis can be expressed in power transition theory, which states that it is likely that a great power would challenge a hegemon after a certain period, resulting in a major war. It suggests that while hegemony can control the occurrence of wars, it also results in the creation of one. Its main proponent, A. F. K. Organski, argued this based on the occurrence of previous wars during British, Portuguese, and Dutch hegemony.
+
+
+==== Interdependence ====
+Many advocate that the current international system is characterized by growing interdependence; the mutual responsibility and dependency on others. Advocates of this point to growing globalization, particularly with international economic interaction. The role of international institutions, and widespread acceptance of a number of operating principles in the international system, reinforces ideas that relations are characterized by interdependence.
+
+
+==== Dependency ====
+Dependency theory is a theory most commonly associated with Marxism, stating that a set of core states exploit a set of weaker periphery states for their prosperity. Various versions of the theory suggest that this is either an inevitability (standard dependency theory), or use the theory to highlight the necessity for change (Neo-Marxist).
+
+
+==== Systemic tools of international relations ====
+Diplomacy is the practice of communication and negotiation between representatives of states. To some extent, all other tools of international relations can be considered the failure of diplomacy. Keeping in mind, the use of other tools are part of the communication and negotiation inherent within diplomacy. Sanctions, force, and adjusting trade regulations, while not typically considered part of diplomacy, are actually valuable tools in the interest of leverage and placement in negotiations.
+Sanctions are usually a first resort after the failure of diplomacy, and are one of the main tools used to enforce treaties. They can take the form of diplomatic or economic sanctions and involve the cutting of ties and imposition of barriers to communication or trade.
+War, the use of force, is often thought of as the ultimate tool of international relations. A popular definition is that given by Carl von Clausewitz, with war being "the continuation of politics by other means". There is a growing study into "new wars" involving actors other than states. The study of war in international relations is covered by the disciplines of "war studies" and "strategic studies".
+The mobilization of international shame can also be thought of as a tool of international relations. This is attempting to alter states' actions through 'naming and shaming' at the international level. This is mostly done by the large human rights NGOs such as Amnesty International (for instance when it called Guantanamo Bay a "Gulag"), or Human Rights Watch. A prominent use of was the UN Commission on Human Rights 1235 procedure, which publicly exposes state's human rights violations. The current UN Human Rights Council has yet to use this mechanism.
+The allotment of economic and/or diplomatic benefits such as the European Union's enlargement policy; candidate countries are only allowed to join if they meet the Copenhagen criteria.
+The mutual exchange of ideas, information, art, music and language among nations through cultural diplomacy has also been recognized by governments as an important tool in the development of international relations.
+
+
+=== Unit-level concepts in international relations ===
+As a level of analysis the unit level is often referred to as the state level, as it locates its explanation at the level of the state, rather than the international system.
+
+
+==== Regime type ====
+It is often considered that a state's form of government can dictate the way that a state interacts with others in the international relation.
+Democratic peace theory is a theory that suggests that the nature of democracy means that democratic countries will not go to war with each other. The justifications for this are that democracies externalize their norms and only go to war for just causes, and that democracy encourages mutual trust and respect.
+Communism justifies a world revolution, which similarly would lead to peaceful coexistence, based on a proletarian global society.
+
+
+==== Revisionism versus status quo ====
+States can be classified by whether they accept the international status quo, or are revisionist—i.e., want change. Revisionist states seek to fundamentally change the rules and practices of international relations, feeling disadvantaged by the status quo. They see the international system as a largely western creation which serves to reinforce current realities. Japan is an example of a state that has gone from being a revisionist state to one that is satisfied with the status quo, because the status quo is now beneficial to it.
+
+
+==== Religion ====
+Religion can have an effect on the way a state acts within the international system, and different theoretical perspectives treat it in somewhat different fashion. One dramatic example is the Thirty Years' War (1618–48) that ravaged much of Europe, which was at least partly motivated by theological differences within Christianity. Religion is a major organizing principle particularly for Islamic states, whereas secularism sits at the other end of the spectrum, with the separation of state and religion being responsible for the liberal international relations theory. The September 11 attacks in the United States, the role of Islam in terrorism, and religious strife in the Middle East have made the role of religion in international relations a major topic. China's reemergence as a major international power is believed by some scholars to be shaped by Confucianism.
+
+
+=== Individual or sub-unit level concepts ===
+The level beneath that of the unit (state) can be useful both for explaining factors in international relations that other theories fail to explain, and for moving away from a state-centric view of international relations.
+Psychological factors in international relations – Understanding a state is not a "black box" as proposed by realism, and that there may be other influences on foreign policy decisions. Examining the role of personalities in the decision-making process can have some explanatory power, as can the role of misperception between various actors. A prominent application of sub-unit level psychological factors in international relations is the concept of Groupthink, another is the propensity of policymakers to think in terms of analogies.
+Bureaucratic politics – Looks at the role of the bureaucracy in decision-making, and sees decisions as a result of bureaucratic infighting, and as having been shaped by various constraints.
+Religious, ethnic, and secessionist groups – Viewing these aspects of the sub-unit level has explanatory power with regards to ethnic conflicts, religious wars, transnational diaspora (diaspora politics) and other actors which do not consider themselves to fit with the defined state boundaries. This is particularly useful in the context of the pre-modern world of weak states.
+Science, technology and international relations – How science and technology impact global health, business, environment, technology, and development.
+International political economy, and economic factors in international relations
+International political culturology – Looks at how culture and cultural variables impact in international relations
+Personal relations between leaders
+
+
+== Institutions in international relations ==
+International institutions form a vital part of contemporary international relations.
+
+
+=== Generalist inter-state organizations ===
+
+
+==== United Nations ====
+
+The United Nations (UN) is an international organization that describes itself as a "global association of governments facilitating co-operation in international law, international security, economic development, and social equity"; It is the most prominent international institution. Many of the legal institutions follow the same organizational structure as the UN.
+
+
+==== Organisation of Islamic Cooperation ====
+
+The Organisation of Islamic Cooperation (OIC) is an international organization consisting of 57 member states. The organisation attempts to be the collective voice of the Muslim world (Ummah) and attempts to safeguard the interests and ensure the progress and well-being of Muslims.
+
+
+==== Other ====
+Other generalist inter-state organizations include:
+
+
+=== Regional security arrangements ===
+
+
+=== Economic institutions ===
+
+
+=== International legal bodies ===
+
+
+==== Human rights ====
+
+
+==== Legal ====
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Carlsnaes, Walter; et al., eds. (2012). Handbook of International Relations. SAGE Publications. ISBN 9781446265031. Retrieved 2016-02-24.
+Dyvik, Synne L., Jan Selby and Rorden Wilkinson, eds. What's the Point of International Relations (2017)
+Mimiko, [Nahzeem] N. Oluwafemi (2012). Globalization: The politics of global economic relations and international business. Durham, North Carolina, United States: Carolina Academic Press. ISBN 978-1-61163-129-6.
+Reus-Smit, Christian, and Duncan Snidal, eds. The Oxford Handbook of International Relations (2010)
+
+
+=== Theory ===
+Norman Angell The Great Illusion (London: Heinemann, 1910)
+Hedley Bull Anarchical Society (New York: Columbia University Press, 1977)
+E. H. Carr The Twenty Years' Crisis (2001) [1939] (New York: Perennial)
+Robert Cooper The Post-Modern State
+Enloe, Cynthia. "'Gender' Is Not Enough: The Need for a Feminist Consciousness". International Affairs 80.1 (2004): 95–97. Web. 17 Sept. 2013.
+Goodin, Robert E., and Hans-Dieter Klingemann, eds. A New Handbook of Political Science (1998) ch 16–19 pp 401–78
+Charlotte Hooper "Masculinities, IR and the 'Gender Variable': A Cost-Benefit Analysis for (Sympathetic) Gender Sceptics". International Studies 25.3 (1999): 475–491.
+Andrew Hurrell On Global Order: Power, Values, and the Constitution of International Society (Oxford University Press, 2008). On Global Order: Power, Values, and the Constitution of International Society
+Robert Keohane After Hegemony
+Hans Köchler, Democracy and the International Rule of Law. Vienna/New York: Springer, 1995
+Andrew Linklater Men and citizens in the theory of international relations
+Donald Markwell John Maynard Keynes and International Relations: Economic Paths to War and Peace (Oxford: Oxford University Press, 2006).
+Hans J. Morgenthau Scientific Man Vs. Power Politics (Chicago: University of Chicago Press, 1946)
+Reinhold Niebuhr Moral Man and Immoral Society 1932
+Joseph Nye Soft Power: The Means to Success in World Politics, Public Affairs Ltd 2004
+Paul Raskin The Great Transition Today: A Report from the Future
+Benno Teschke The Myth of 1648 (New York: Verso Press, 2003).
+J. Ann Tickner Gender in International Relations (New York: Columbia University Press, 1992).
+Kenneth Waltz Man, the State, and War
+Kenneth Waltz Theory of International Politics (1979), examines the foundation of By Bar
+Michael Walzer Just and Unjust Wars 1977
+Alexander Wendt Social Theory of International Politics 1999
+J. Martin Rochester Fundamental Principles of International Relations (Westview Press, 2010)
+An Introduction to International Relations Theory
+James C. Hsiang Anarchy & Order: The Interplay of Politics and Law in International Relations 1555875718, 9781555875718 Lynne Rienner Pub 1997
+
+
+=== Textbooks ===
+
+
+=== History of international relations ===
+
+
+== External links ==
+
+ Issues in development cooperation at Wikibooks
+The European Institute for International Law and International Relations

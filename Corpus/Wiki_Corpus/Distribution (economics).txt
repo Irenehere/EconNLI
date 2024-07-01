@@ -1,0 +1,112 @@
+In economics, distribution is the way total output, income, or wealth is distributed among individuals or among the factors of production (such as labour, land, and capital). In general theory and in for example the U.S. National Income and Product Accounts, each unit of output corresponds to a unit of income. One use of national accounts is for classifying factor incomes and measuring their respective shares, as in national Income. But, where focus is on income of persons or households, adjustments to the national accounts or other data sources are frequently used. Here, interest is often on the fraction of income going to the top (or bottom) x percent of households, the next x percent, and so forth (defined by equally spaced cut points, say quintiles), and on the factors that might affect them (globalization, tax policy, technology, etc.).
+
+
+== Descriptive, theoretical, scientific, and welfare uses ==
+Income distribution can describe a prospectively observable element of an economy.  It has been used as an input for testing theories explaining the distribution of income, for example human capital theory and the theory of economic discrimination (Becker, 1993, 1971).
+In welfare economics, a level of feasible output possibilities is commonly distinguished from the distribution of income for those output possibilities.  But in the formal theory of social welfare, rules for selection from feasible distributions of income and output are a way of representing normative economics at a high level of generality.
+
+
+== Neoclassical distribution theory ==
+In neoclassical economics, the supply and demand of each factor of production interact in factor markets to determine equilibrium output, income, and the income distribution.
+Factor demand in turn incorporates the marginal-productivity relationship of that factor in the output market.  Analysis applies to not only capital and land but the distribution of income in labor markets.The neoclassical growth model provides an account of how the distribution of income between capital and labor is determined in competitive markets at the macroeconomic level over time with technological change and changes in the size of the capital stock and labor force.  More recent developments of the distinction between human capital and physical capital and between social capital and personal capital have deepened analysis of distribution.
+
+
+== Statistics ==
+Vilfredo Pareto proposed the distribution of income can be described by a power-law: this is now called the Pareto distribution.
+
+
+== See also ==
+Median household income (simplest measure of relative and absolute in income distribution)
+Income quintiles (from the top 20% on down for the U.S.)
+Household income in the United States
+Personal income in the United States
+Economic inequality (worldwide overview; causes, effects, normative perspectives)
+Income inequality metrics
+Gini coefficient
+Lorenz curve
+Generational accounting
+Involuntary unemployment
+
+
+=== Distribution of what? ===
+Goods (economics)
+Income distribution
+Income
+Distribution of wealth
+Wealth concentration
+Wealth
+
+
+=== Distribution theories ===
+
+
+==== Classical distribution theory ====
+Classical economics: value theory
+
+
+==== Marxian distribution theory ====
+Marxian economics: Marx's economic theories
+Value product
+
+
+==== Neoclassical distribution theory ====
+Neoclassical microeconomic model of labor market demand and supply
+Production function
+Outline of industrial organization
+Production theory basics
+
+
+=== Normative economics of distribution ===
+Welfare economics
+Distributive justice
+Justice (economics)
+Social choice theory
+Social welfare function
+
+
+== Notes ==
+
+
+== References ==
+A.B. Atkinson and F. Bourguignon, ed. (2000). Handbook of Income Distribution, v. 1.  Elsevier. Description & chapter-preview links.
+_____ (2001). "Income Distribution," International Encyclopedia of the Social & Behavioral Sciences, pp. 7265–71. Abstract.
+Gary S. Becker (1971). The Economics of Discrimination (2nd ed.). University of Chicago Press. ISBN 978-0-226-04115-5. (UCP descr)
+Gary S. Becker (1993). Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education (3rd ed.). University of Chicago Press. ISBN 978-0-226-04120-9. (UCP descr)
+Harry Brighouse and Adam Swift (2008). "egalitarianism." The New Palgrave Dictionary of Economics. 2nd Edition. Abstract.
+Sheldon Danziger and Peter Gottschalk (1995). America Unequal, Harvard University Press, Cambridge, MA ISBN 0-674-01810-9 (book abstract)
+Sheldon Danziger, Robert Haveman, Robert Plotnick (1981). "How Income Transfer Programs Affect Work, Savings, and the Income Distribution: A Critical Review," Journal of Economic Literature 19(3),  pp. 975–1028.
+Milton Friedman and Simon Kuznets (1945). Income from Independent Professional Practice NBER.
+Julian Lamont (2003). "Distributive Justice", Stanford Encyclopedia of Philosophy.
+Gian Singh Sahota (1978). "Theories of Personal Income Distribution: A Survey", Journal of Economic Literature, 16(1),  pp. 1–55.
+Xavier Sala-Martin (2006)."The World Distribution of Income: Falling Poverty and… Convergence, Period,"(+ button to enlarge), Quarterly Journal of Economics," 121(2), May, pp. 351–97.
+Paul A. Samuelson and William D. Nordhaus (2004). Economics, 18th ed.,ch. 12: How Markets Determine Incomes
+ch. 13: The Labor Market
+ch. 14: Land and Capital
+ch. 14: Appendix Markets and Economic Efficiency .U.S. Census Bureau ([1999] 2004). "Income Inequality (1947–1998)."Some distribution entries from The New Palgrave: A Dictionary of Economics (1987):
+
+"distribution, law of," v. 1, pp. 869–72, by J.B. Clark [1926].
+"distribution theories, classical," v. 1, pp. 872–76, by Luigi Pasinetti.
+"distribution theories, Keynesian," v. 1, pp. 876–78, by Mauro Baranzini.
+"distribution theories, Marxian," v. 1, pp. 878–83, by David M. Gordon.
+"distribution theories, neoclassical," v. 1, pp. 883–86, by Christopher Bliss.
+"distributive justice," v. 1, pp. 886–88, by Edmund S. Phelps.
+"imputation," v. 2, pp. 838–39, by Murray N. Rothbard.
+"inequality between persons," v. 2, pp. 821-24, by Anthony F. Shorrocks.
+"interest and profit," v. 2, pp. 877–79, by Carlo Panico.
+"marginal productivity theory," v. 3, pp. 323–25, by Robert F. Dorfman.
+"Marxian value analysis," v. 3, pp. 383–87 by J.E. Roemer.
+"profit and profit theory," v. 3, pp. 1014–21, by Meghnad Desai.
+"wages, real and money," v. 4, pp. 840–42, by Henry Phelps Brown.Some distribution entries from The New Palgrave Dictionary of Economics (2008), 2nd Ed.:
+
+"classical distribution theories" by Massimo Pivetti. Abstract.
+"convergence" by Steven N. Durlauf and Paul A. Johnson. Abstract.
+"equality of opportunity" by J.E. Roemer. Abstract.
+"income taxation and optimal policies" by Louis Kaplow. Abstract.
+"national income" by Thomas K. Rymes. Abstract.
+"skill-biased technical change" by Giovanni L. Violante. Abstract.
+"wage inequality, changes in" by Stephen Machin and John Van Reenen.  Abstract.
+"women's work and wages" by Francine D. Blau and Lawrence M. Kahn. Abstract.
+
+
+== External links ==
+U.S. National income by type of income, 1959–2005 from 2006 Economic Report of the President via Federal Reserve Bank of St. Louis.

@@ -1,0 +1,31 @@
+Christopher Albert Sims (born October 21, 1942) is an American econometrician and macroeconomist. He is currently the John J.F. Sherrerd '52 University Professor of Economics at Princeton University. Together with Thomas Sargent, he won the Nobel Memorial Prize in Economic Sciences in 2011. The award cited their "empirical research on cause and effect in the macroeconomy".
+
+
+== Biography ==
+Sims was born in Washington, D.C., the son of Ruth Bodman (Leiserson), a Democratic politician and daughter of William Morris Leiserson, and Albert Sims, a state department worker. His father was of English and Northern Irish descent, and his mother was of half Estonian Jewish and half English ancestry. His uncle was Yale economist Mark Leiserson. Sims earned his A.B. in mathematics from Harvard University magna cum laude in 1963 and his PhD in Economics from Harvard in 1968 under supervision of Hendrik S. Houthakker. During the 1963-64 academic year, he was a graduate student at the University of California, Berkeley. He has held teaching positions at Harvard, Yale University and, since 1999, Princeton. He spent the longest portion of his career at Princeton University, teaching there from 1999 to the present day. Sims is a Fellow of the Econometric Society (since 1974),  a member of the American Academy of Arts and Sciences (since 1988), a member of the National Academy of Sciences (since 1989), and a member of the American Philosophical Society (since 2012).  In 1995 he was president of the Econometric Society; in 2012, he was president of the American Economic Association.
+Sims currently lives in New Jersey.
+
+
+== Contributions ==
+Sims has published numerous important papers in his areas of research: econometrics and macroeconomic theory and policy. Among other things, he was one of the main promoters of the use of vector autoregression in empirical macroeconomics. However, some of the maintained assumptions in such models have been incorrectly tested (Sims, 1980) using asymptotic distribution theory since it is infeasible to test over 200 restrictions on model parameters using only 60 observations on time series (Sargan, 1961). He has also advocated Bayesian statistics, arguing for its power in formulating and evaluating economic policies.Sims has been an outspoken opponent of the rational expectations revolution in macroeconomics, arguing that it should be thought of as a "cautionary footnote" to econometric policy analysis, rather than "a deep objection to its foundations." He has been similarly skeptical of the value of real business cycle models.He also helped develop the fiscal theory of the price level and the theory of rational inattention.
+
+
+== Nobel Memorial Prize and lecture ==
+On October 10, 2011, Christopher A. Sims together with Thomas J. Sargent was awarded the Nobel Memorial Prize in Economic Sciences. The award cited their "empirical research on cause and effect in the macroeconomy". His Nobel lecture, titled "Statistical Modeling of Monetary Policy and its Effects" was delivered on December 8, 2011.Translating his work into everyday language, Sims said it provided a technique to assess the direction of causality in central bank monetary policy. It confirmed the theories of monetarists like Milton Friedman that shifts in the money supply affect inflation. However, it also showed that causality went both ways. Variables like interest rates and inflation also led to changes in the money supply.
+
+
+== Further reading ==
+Sims, Christopher (1980). "Macroeconomics and reality" (PDF). Econometrica. 48 (1): 1–48. CiteSeerX 10.1.1.163.5425. doi:10.2307/1912017. JSTOR 1912017.
+Sargan, J.D. (1961). The maximum likelihood estimation of economic relationships with autoregressive residuals. Econometrica, 29, 414-426.
+
+
+== References ==
+
+
+== External links ==
+
+Christopher A. Sims on Nobelprize.org 
+Sims's biography on the official website of the Nobel Prize
+Sims's homepage on the Princeton University website
+Christopher A. Sims publications indexed by Google Scholar
+"Christopher A. Sims". JSTOR.

@@ -1,0 +1,42 @@
+Mainstream economics is the body of knowledge, theories, and models of economics, as taught by universities worldwide, that are generally accepted by economists as a basis for discussion. Also known as orthodox economics, it can be contrasted to heterodox economics, which encompasses various schools or approaches that are only accepted by a minority of economists.
+The economics profession has traditionally been associated with neoclassical economics. However, this association has been challenged by prominent historians of economic thought including David Colander. They argue the current economic mainstream theories, such as game theory, behavioral economics, industrial organization, information economics, and the like, share very little common ground with the initial axioms of neoclassical economics.
+
+
+== History ==
+Economics has always featured multiple schools of economic thought, with different schools having different prominence across countries and over time.Prior to the development and prevalence of classical economics, the dominant school in Europe was mercantilism, which was rather a loose set of related ideas than an institutionalized school. With the development of modern economics, conventionally given as the late 18th-century The Wealth of Nations by Adam Smith, British economics developed and became dominated by what is now called the classical school. From The Wealth of Nations until the Great Depression, the dominant school within the English-speaking world was classical economics, and its successor, neoclassical economics. In continental Europe, the earlier work of the physiocrats in France formed a distinct tradition, as did the later work of the historical school of economics in Germany, and throughout the 19th century there were debates in British economics, notably the opposition underconsumptionist school.
+During the Great Depression and the following Second World War, the school of Keynesian economics gained attention, which built on the work of the underconsumptionist school, and gained prominence as part of the neoclassical synthesis, which was the post–World War II merger of Keynesian macroeconomics and neoclassical microeconomics that prevailed from the 1950s until the 1970s.In the 1970s, the consensus in macroeconomics collapsed as a result of the failure of the neoclassical synthesis to explain the phenomenon of stagflation: subsequent to this, two schools of thought in the field emerged: New Keynesianism and New classical macroeconomics. Both sought to rebuild macroeconomics using microfoundations to explain macroeconomic phenomena using microeconomics.Over the course of the 1980s and the 1990s, macroeconomists coalesced around a paradigm known as the new neoclassical synthesis, which combines elements of both New Keynesian and New classical macroeconomics, and forms the basis for the current consensus, which covers previously disputed areas of macroeconomics. The consensus built around this synthesis is characterised by an unprecedented agreement on methodological questions (such as the need to validate models econometrically); such agreement had, until the new synthesis, historically eluded macroeconomics, even during the neoclassical synthesis.The financial crisis of 2007–2010 and the ensuing global economic crisis exposed modelling failures in the field of short-term macroeconomics. While most macroeconomists had predicted the burst of the housing bubble, according to The Economist  "they did not expect the financial system to break."
+
+
+=== Term ===
+The term "mainstream economics" came into use in the late 20th century. It appeared in 2001 edition of the textbook Economics by Samuelson and Nordhaus on the inside back cover in the "Family Tree of Economics", which depicts arrows into "Modern Mainstream Economics"  from Keynes (1936) and neoclassical economics (1860–1910). The term "neoclassical synthesis" itself also first appears in the 1955 edition of Samuelson's textbook.
+
+
+== Scope ==
+Mainstream economics can be defined, as distinct from other schools of economics, by various criteria, notably by its assumptions, its methods and its topics.
+
+
+=== Assumptions ===
+While being long rejected by many heterodox schools, several assumptions used to underpin many mainstream economic models. These include the neoclassical assumptions of rational choice theory, a representative agent, and, often, rational expectations. However, much of modern economic mainstream modeling consists of exploring the effects that complicating factors have on models, such as imperfect and asymmetric information, bounded rationality, incomplete markets, imperfect competition, heterogeneous agents and transaction costs.Originally, the starting point of orthodox economic analysis was the individual. Individuals and firms were generally defined as units with a common goal: maximisation through rational behaviour. The only differences consisted of:
+
+the specific objective of the maximisation (individuals tend to maximise utility and firms profit);
+and the constraints faced in the process of maximisation (individuals might be constrained by limited income or commodity prices and firms might be constrained by technology or availability of inputs).From this (descriptive) theoretical framework, neoclassical economists like Alfred Marshall often derived – although not systematically – the political prescription that political action should not be used to solve the problems of the economic system. Instead, the solution ought to derive from an intervention on the above-mentioned maximisation objectives and constraints. It is in this context that economic capitalism finds its justification. Yet, mainstream economics now includes descriptive theories of market and government failure and private and public goods. These developments suggest a range of views on the desirability or otherwise of government intervention, from a more normative perspective.
+
+
+=== Methods ===
+Some economic fields include elements of both mainstream economics and heterodox economics: for example, institutional economics, neuroeconomics, and non-linear complexity theory. They may use neoclassical economics as a point of departure. At least one institutionalist, John Davis, has argued that "neoclassical economics no longer dominates a mainstream economics."
+
+
+=== Topics ===
+Economics has been initially shaped as a discipline concerned with a range of issues revolving around money and wealth. However, in the 1930s, mainstream economics began to mutate into a science of human decision. In 1931, Lionel Robbins famously wrote "Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses". This drew a line of demarcation between mainstream economics and other disciplines and schools studying the economy.The mainstream approach of economics as a science of decision-making contributed to enlarge the scope of the discipline. Economists like Gary Becker began to study seemingly distant fields including crime, the family, law, politics, and religion. This expansion is sometimes referred to as economic imperialism.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Works cited ===

@@ -1,0 +1,1694 @@
+The Solow–Swan model or exogenous growth model is an economic model of long-run economic growth. It attempts to explain long-run economic growth by looking at capital accumulation, labor or population growth, and increases in productivity largely driven by technological progress. At its core, it is an aggregate production function, often specified to be of Cobb–Douglas type, which enables the model "to make contact with microeconomics".: 26  The model was developed independently by Robert Solow and Trevor Swan in 1956, and superseded the Keynesian Harrod–Domar model.
+Mathematically, the Solow–Swan model is a nonlinear system consisting of a single ordinary differential equation that models the evolution of the per capita stock of capital. Due to its particularly attractive mathematical characteristics, Solow–Swan proved to be a convenient starting point for various extensions. For instance, in 1965, David Cass and Tjalling Koopmans integrated Frank Ramsey's analysis of consumer optimization, thereby endogenizing the saving rate, to create what is now known as the Ramsey–Cass–Koopmans model.
+
+
+== Background ==
+The Solow–Swan model was an extension to the 1946 Harrod–Domar model that dropped the restrictive assumption that only capital contributes to growth (so long as there is sufficient labor to use all capital).  Important contributions to the model came from the work done by Solow and by Swan in 1956, who independently developed relatively simple growth models. Solow's model fitted available data on US economic growth with some success. In 1987 Solow was awarded the Nobel Prize in Economics for his work. Today, economists use Solow's sources-of-growth accounting to estimate the separate effects on economic growth of technological change, capital, and labor.The Solow model is also one of the most widely used models in economics to explain economic growth. Basically, it asserts that outcomes on the  "total factor productivity (TFP) can lead to limitless increases in the standard of living in a country."
+
+
+=== Extension to the Harrod–Domar model ===
+Solow extended the Harrod–Domar model by adding labor as a factor of production and capital-output ratios that are not fixed as they are in the Harrod–Domar model. These refinements allow increasing capital intensity to be distinguished from technological progress. Solow sees the fixed proportions production function as a "crucial assumption" to the instability results in the Harrod-Domar model. His own work expands upon this by exploring the implications of alternative specifications, namely the Cobb–Douglas and the more general constant elasticity of substitution (CES). Although this has become the canonical and celebrated story in the history of economics, featured in many economic textbooks, recent reappraisal of Harrod's work has contested it. One central criticism is that Harrod's original piece was neither mainly concerned with economic growth nor did he explicitly use a fixed proportions production function.
+
+
+=== Long-run implications ===
+A standard Solow model predicts that in the long run, economies converge to their steady state equilibrium and that permanent growth is achievable only through technological progress. Both shifts in saving and in populational growth cause only level effects in the long-run (i.e. in the absolute value of real income per capita).
+An interesting implication of Solow's model is that poor countries should grow faster and eventually catch-up to richer countries. This convergence could be explained by:
+Lags in the diffusion on knowledge. Differences in real income might shrink as poor countries receive better technology and information;
+Efficient allocation of international capital flows, since the rate of return on capital should be higher in poorer countries. In practice, this is seldom observed and is known as Lucas' paradox;
+A mathematical implication of the model (assuming poor countries have not yet reached their steady state).Baumol attempted to verify this empirically and found a very strong correlation between a countries' output growth over a long period of time (1870 to 1979) and its initial wealth. His findings were later contested by DeLong who claimed that both the non-randomness of the sampled countries, and potential for significant measurement errors for estimates of real income per capita in 1870, biased Baumol's findings. DeLong concludes that there is little evidence to support the convergence theory.
+
+
+=== Assumptions ===
+The key assumption of the Solow–Swan growth model is that capital is subject to diminishing returns in a closed economy.
+
+Given a fixed stock of labor, the impact on output of the last unit of capital accumulated will always be less than the one before.
+Assuming for simplicity no technological progress or labor force growth, diminishing returns implies that at some point the amount of new capital produced is only just enough to make up for the amount of existing capital lost due to depreciation.[1] At this point, because of the assumptions of no technological progress or labor force growth, we can see the economy ceases to grow.
+Assuming non-zero rates of labor growth complicate matters somewhat, but the basic logic still applies[2] – in the short-run, the rate of growth slows as diminishing returns take effect and the economy converges to a constant "steady-state" rate of growth (that is, no economic growth per-capita).
+Including non-zero technological progress is very similar to the assumption of non-zero workforce growth, in terms of "effective labor": a new steady state is reached with constant output per worker-hour required for a unit of output. However, in this case, per-capita output grows at the rate of technological progress in the "steady-state"[3] (that is, the rate of productivity growth).
+
+
+=== Variations in the effects of productivity ===
+In the Solow–Swan model the unexplained change in the growth of output after accounting for the effect of capital accumulation is called the Solow residual.  This residual measures the exogenous increase in total factor productivity (TFP) during a particular time period.  The increase in TFP is often attributed entirely to technological progress, but it also includes any permanent improvement in the efficiency with which factors of production are combined over time. Implicitly TFP growth includes any permanent productivity improvements that result from improved management practices in the private or public sectors of the economy. Paradoxically, even though TFP growth is exogenous in the model, it cannot be observed, so it can only be estimated in conjunction with the simultaneous estimate of the effect of capital accumulation on growth during a particular time period.
+The model can be reformulated in slightly different ways using different productivity assumptions, or different measurement metrics:
+
+Average Labor Productivity (ALP) is economic output per labor hour.
+Multifactor productivity (MFP) is output divided by a weighted average of capital and labor inputs. The weights used are usually based on the aggregate input shares either factor earns. This ratio is often quoted as: 33% return to capital and 67% return to labor (in Western nations).In a growing economy, capital is accumulated faster than people are born, so the denominator in the growth function under the MFP calculation is growing faster than in the ALP calculation. Hence, MFP growth is almost always lower than ALP growth. (Therefore, measuring in ALP terms increases the apparent capital deepening effect.) MFP is measured by the "Solow residual", not ALP.
+
+
+== Mathematics of the model ==
+The textbook Solow–Swan model is set in continuous-time world with no government or international trade. A single good (output) is produced using two factors of production, labor (
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  ) and capital (
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  ) in an aggregate production function that satisfies the Inada conditions, which imply that the elasticity of substitution must be asymptotically equal to one.
+
+  
+    
+      
+        Y
+        (
+        t
+        )
+        =
+        K
+        (
+        t
+        
+          )
+          
+            α
+          
+        
+        (
+        A
+        (
+        t
+        )
+        L
+        (
+        t
+        )
+        
+          )
+          
+            1
+            −
+            α
+          
+        
+        
+      
+    
+    {\displaystyle Y(t)=K(t)^{\alpha }(A(t)L(t))^{1-\alpha }\,}
+  where 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   denotes time, 
+  
+    
+      
+        0
+        <
+        α
+        <
+        1
+      
+    
+    {\displaystyle 0<\alpha <1}
+   is the elasticity of output with respect to capital, and 
+  
+    
+      
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)}
+   represents total production. 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   refers to labor-augmenting technology or “knowledge”, thus 
+  
+    
+      
+        A
+        L
+      
+    
+    {\displaystyle AL}
+   represents effective labor. All factors of production are fully employed, and initial values 
+  
+    
+      
+        A
+        (
+        0
+        )
+      
+    
+    {\displaystyle A(0)}
+  , 
+  
+    
+      
+        K
+        (
+        0
+        )
+      
+    
+    {\displaystyle K(0)}
+  , and 
+  
+    
+      
+        L
+        (
+        0
+        )
+      
+    
+    {\displaystyle L(0)}
+   are given. The number of workers, i.e. labor, as well as the level of technology grow exogenously at rates 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  , respectively:
+
+  
+    
+      
+        L
+        (
+        t
+        )
+        =
+        L
+        (
+        0
+        )
+        
+          e
+          
+            n
+            t
+          
+        
+      
+    
+    {\displaystyle L(t)=L(0)e^{nt}}
+  
+
+  
+    
+      
+        A
+        (
+        t
+        )
+        =
+        A
+        (
+        0
+        )
+        
+          e
+          
+            g
+            t
+          
+        
+      
+    
+    {\displaystyle A(t)=A(0)e^{gt}}
+  The number of effective units of labor, 
+  
+    
+      
+        A
+        (
+        t
+        )
+        L
+        (
+        t
+        )
+      
+    
+    {\displaystyle A(t)L(t)}
+  , therefore grows at rate 
+  
+    
+      
+        (
+        n
+        +
+        g
+        )
+      
+    
+    {\displaystyle (n+g)}
+  . Meanwhile, the stock of capital depreciates over time at a constant rate 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  . However, only a fraction of the output (
+  
+    
+      
+        c
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle cY(t)}
+   with 
+  
+    
+      
+        0
+        <
+        c
+        <
+        1
+      
+    
+    {\displaystyle 0<c<1}
+  ) is consumed, leaving a saved share 
+  
+    
+      
+        s
+        =
+        1
+        −
+        c
+      
+    
+    {\displaystyle s=1-c}
+   for investment. This dynamic is expressed through the following differential equation:
+
+  
+    
+      
+        
+          
+            
+              K
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        s
+        ⋅
+        Y
+        (
+        t
+        )
+        −
+        δ
+        ⋅
+        K
+        (
+        t
+        )
+        
+      
+    
+    {\displaystyle {\dot {K}}(t)=s\cdot Y(t)-\delta \cdot K(t)\,}
+  where 
+  
+    
+      
+        
+          
+            
+              K
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {K}}}
+   is shorthand for 
+  
+    
+      
+        
+          
+            
+              d
+              K
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dK(t)}{dt}}}
+  , the derivative with respect to time. Derivative with respect to time means that it is the change in capital stock—output that is neither consumed nor used to replace worn-out old capital goods is net investment.
+Since the production function 
+  
+    
+      
+        Y
+        (
+        K
+        ,
+        A
+        L
+        )
+      
+    
+    {\displaystyle Y(K,AL)}
+   has constant returns to scale, it can be written as output per effective unit of labour 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , which is a measure for wealth creation:
+
+  
+    
+      
+        y
+        (
+        t
+        )
+        =
+        
+          
+            
+              Y
+              (
+              t
+              )
+            
+            
+              A
+              (
+              t
+              )
+              L
+              (
+              t
+              )
+            
+          
+        
+        =
+        k
+        (
+        t
+        
+          )
+          
+            α
+          
+        
+      
+    
+    {\displaystyle y(t)={\frac {Y(t)}{A(t)L(t)}}=k(t)^{\alpha }}
+  The main interest of the model is the dynamics of capital intensity 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , the capital stock per unit of effective labour. Its behaviour over time is given by the key equation of the Solow–Swan model:
+
+  
+    
+      
+        
+          
+            
+              k
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        s
+        k
+        (
+        t
+        
+          )
+          
+            α
+          
+        
+        −
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        k
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\dot {k}}(t)=sk(t)^{\alpha }-(n+g+\delta )k(t)}
+  The first term, 
+  
+    
+      
+        s
+        k
+        (
+        t
+        
+          )
+          
+            α
+          
+        
+        =
+        s
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle sk(t)^{\alpha }=sy(t)}
+  , is the actual investment per unit of effective labour: the fraction 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   of the output per unit of effective labour 
+  
+    
+      
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)}
+   that is saved and invested. The second term, 
+  
+    
+      
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        k
+        (
+        t
+        )
+      
+    
+    {\displaystyle (n+g+\delta )k(t)}
+  , is the “break-even investment”: the amount of investment that must be invested to prevent 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   from falling.: 16  The equation implies that 
+  
+    
+      
+        k
+        (
+        t
+        )
+      
+    
+    {\displaystyle k(t)}
+   converges to a steady-state value of 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle k^{*}}
+  , defined by 
+  
+    
+      
+        s
+        k
+        (
+        t
+        
+          )
+          
+            α
+          
+        
+        =
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        k
+        (
+        t
+        )
+      
+    
+    {\displaystyle sk(t)^{\alpha }=(n+g+\delta )k(t)}
+  , at which there is neither an increase nor a decrease of capital intensity:
+
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+        =
+        
+          
+            (
+            
+              
+                s
+                
+                  n
+                  +
+                  g
+                  +
+                  δ
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            (
+            1
+            −
+            α
+            )
+          
+        
+        
+      
+    
+    {\displaystyle k^{*}=\left({\frac {s}{n+g+\delta }}\right)^{1/(1-\alpha )}\,}
+  at which the stock of capital 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   and effective labour 
+  
+    
+      
+        A
+        L
+      
+    
+    {\displaystyle AL}
+   are growing at rate 
+  
+    
+      
+        (
+        n
+        +
+        g
+        )
+      
+    
+    {\displaystyle (n+g)}
+  . Likewise, it is possible to calculate the steady-state of created wealth 
+  
+    
+      
+        
+          y
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle y^{*}}
+   that corresponds with 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle k^{*}}
+  :
+
+  
+    
+      
+        
+          y
+          
+            ∗
+          
+        
+        =
+        
+          
+            (
+            
+              
+                s
+                
+                  n
+                  +
+                  g
+                  +
+                  δ
+                
+              
+            
+            )
+          
+          
+            α
+            
+              /
+            
+            (
+            1
+            −
+            α
+            )
+          
+        
+        
+      
+    
+    {\displaystyle y^{*}=\left({\frac {s}{n+g+\delta }}\right)^{\alpha /(1-\alpha )}\,}
+  By assumption of constant returns, output 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   is also growing at that rate. In essence, the Solow–Swan model predicts that an economy will converge to a balanced-growth equilibrium, regardless of its starting point. In this situation, the growth of output per worker is determined solely by the rate of technological progress.: 18 Since, by definition, 
+  
+    
+      
+        
+          
+            
+              K
+              (
+              t
+              )
+            
+            
+              Y
+              (
+              t
+              )
+            
+          
+        
+        =
+        k
+        (
+        t
+        
+          )
+          
+            1
+            −
+            α
+          
+        
+      
+    
+    {\displaystyle {\frac {K(t)}{Y(t)}}=k(t)^{1-\alpha }}
+  , at the equilibrium 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle k^{*}}
+   we have
+
+  
+    
+      
+        
+          
+            
+              K
+              (
+              t
+              )
+            
+            
+              Y
+              (
+              t
+              )
+            
+          
+        
+        =
+        
+          
+            s
+            
+              n
+              +
+              g
+              +
+              δ
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {K(t)}{Y(t)}}={\frac {s}{n+g+\delta }}}
+  Therefore, at the equilibrium, the capital/output ratio depends only on the saving, growth, and depreciation rates. This is the Solow–Swan model's version of the golden rule saving rate.
+Since 
+  
+    
+      
+        
+          α
+        
+        <
+        1
+      
+    
+    {\displaystyle {\alpha }<1}
+  , at any time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   the marginal product of capital 
+  
+    
+      
+        K
+        (
+        t
+        )
+      
+    
+    {\displaystyle K(t)}
+   in the Solow–Swan model is inversely related to the capital/labor ratio.
+
+  
+    
+      
+        M
+        P
+        K
+        =
+        
+          
+            
+              ∂
+              Y
+            
+            
+              ∂
+              K
+            
+          
+        
+        =
+        
+          
+            
+              α
+              
+                A
+                
+                  1
+                  −
+                  α
+                
+              
+            
+            
+              (
+              K
+              
+                /
+              
+              L
+              
+                )
+                
+                  1
+                  −
+                  α
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle MPK={\frac {\partial Y}{\partial K}}={\frac {\alpha A^{1-\alpha }}{(K/L)^{1-\alpha }}}}
+  If productivity 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is the same across countries, then countries with less capital per worker 
+  
+    
+      
+        K
+        
+          /
+        
+        L
+      
+    
+    {\displaystyle K/L}
+   have a higher marginal product, which would provide a higher return on capital investment.  As a consequence, the model predicts that in a world of open market economies and global financial capital, investment will flow from rich countries to poor countries, until capital/worker 
+  
+    
+      
+        K
+        
+          /
+        
+        L
+      
+    
+    {\displaystyle K/L}
+   and income/worker 
+  
+    
+      
+        Y
+        
+          /
+        
+        L
+      
+    
+    {\displaystyle Y/L}
+   equalize across countries.
+Since the marginal product of physical capital is not higher in poor countries than in rich countries,  the implication is that productivity is lower in poor countries. The basic Solow model cannot explain why productivity is lower in these countries.  Lucas suggested that lower levels of human capital in poor countries could explain the lower productivity.Because the marginal product of capital 
+  
+    
+      
+        
+          
+            
+              ∂
+              Y
+            
+            
+              ∂
+              K
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial Y}{\partial K}}}
+   equals the rate of return 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+
+  
+    
+      
+        α
+        =
+        
+          
+            
+              K
+              
+                
+                  
+                    ∂
+                    Y
+                  
+                  
+                    ∂
+                    K
+                  
+                
+              
+            
+            Y
+          
+        
+        =
+        
+          
+            
+              r
+              K
+            
+            Y
+          
+        
+        
+      
+    
+    {\displaystyle \alpha ={\frac {K{\frac {\partial Y}{\partial K}}}{Y}}={\frac {rK}{Y}}\,}
+  so that 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is the fraction of income appropriated by capital. Thus, the Solow–Swan model assumes from the beginning that the labor-capital split of income is constant.
+
+
+== Mankiw–Romer–Weil version of model ==
+
+
+=== Addition of human capital ===
+N. Gregory Mankiw, David Romer, and David Weil created a human capital augmented version of the Solow–Swan model that can explain the failure of international investment to flow to poor countries. In this model output and the marginal product of capital (K) are lower in poor countries because they have less human capital than rich countries.
+Similar to the textbook Solow–Swan model, the production function is of Cobb–Douglas type:
+
+  
+    
+      
+        Y
+        (
+        t
+        )
+        =
+        K
+        (
+        t
+        
+          )
+          
+            α
+          
+        
+        H
+        (
+        t
+        
+          )
+          
+            β
+          
+        
+        (
+        A
+        (
+        t
+        )
+        L
+        (
+        t
+        )
+        
+          )
+          
+            1
+            −
+            α
+            −
+            β
+          
+        
+        ,
+      
+    
+    {\displaystyle Y(t)=K(t)^{\alpha }H(t)^{\beta }(A(t)L(t))^{1-\alpha -\beta },}
+  where 
+  
+    
+      
+        H
+        (
+        t
+        )
+      
+    
+    {\displaystyle H(t)}
+   is the stock of human capital, which depreciates at the same rate 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   as physical capital. For simplicity, they assume the same function of accumulation for both types of capital. Like in Solow–Swan, a fraction of the outcome, 
+  
+    
+      
+        s
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle sY(t)}
+  , is saved each period, but in this case split up and invested partly in physical and partly in human capital, such that 
+  
+    
+      
+        s
+        =
+        
+          s
+          
+            K
+          
+        
+        +
+        
+          s
+          
+            H
+          
+        
+      
+    
+    {\displaystyle s=s_{K}+s_{H}}
+  . Therefore, there are two fundamental dynamic equations in this model:
+
+  
+    
+      
+        
+          
+            
+              k
+              ˙
+            
+          
+        
+        =
+        
+          s
+          
+            K
+          
+        
+        
+          k
+          
+            α
+          
+        
+        
+          h
+          
+            β
+          
+        
+        −
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        k
+      
+    
+    {\displaystyle {\dot {k}}=s_{K}k^{\alpha }h^{\beta }-(n+g+\delta )k}
+  
+
+  
+    
+      
+        
+          
+            
+              h
+              ˙
+            
+          
+        
+        =
+        
+          s
+          
+            H
+          
+        
+        
+          k
+          
+            α
+          
+        
+        
+          h
+          
+            β
+          
+        
+        −
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        h
+      
+    
+    {\displaystyle {\dot {h}}=s_{H}k^{\alpha }h^{\beta }-(n+g+\delta )h}
+  The balanced (or steady-state) equilibrium growth path is determined by 
+  
+    
+      
+        
+          
+            
+              k
+              ˙
+            
+          
+        
+        =
+        
+          
+            
+              h
+              ˙
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\dot {k}}={\dot {h}}=0}
+  , which means 
+  
+    
+      
+        
+          s
+          
+            K
+          
+        
+        
+          k
+          
+            α
+          
+        
+        
+          h
+          
+            β
+          
+        
+        −
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        k
+        =
+        0
+      
+    
+    {\displaystyle s_{K}k^{\alpha }h^{\beta }-(n+g+\delta )k=0}
+   and 
+  
+    
+      
+        
+          s
+          
+            H
+          
+        
+        
+          k
+          
+            α
+          
+        
+        
+          h
+          
+            β
+          
+        
+        −
+        (
+        n
+        +
+        g
+        +
+        δ
+        )
+        h
+        =
+        0
+      
+    
+    {\displaystyle s_{H}k^{\alpha }h^{\beta }-(n+g+\delta )h=0}
+  . Solving for the steady-state level of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   and 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   yields:
+
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    s
+                    
+                      K
+                    
+                    
+                      1
+                      −
+                      β
+                    
+                  
+                  
+                    s
+                    
+                      H
+                    
+                    
+                      β
+                    
+                  
+                
+                
+                  n
+                  +
+                  g
+                  +
+                  δ
+                
+              
+            
+            )
+          
+          
+            
+              1
+              
+                1
+                −
+                α
+                −
+                β
+              
+            
+          
+        
+      
+    
+    {\displaystyle k^{*}=\left({\frac {s_{K}^{1-\beta }s_{H}^{\beta }}{n+g+\delta }}\right)^{\frac {1}{1-\alpha -\beta }}}
+  
+
+  
+    
+      
+        
+          h
+          
+            ∗
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    s
+                    
+                      K
+                    
+                    
+                      α
+                    
+                  
+                  
+                    s
+                    
+                      H
+                    
+                    
+                      1
+                      −
+                      α
+                    
+                  
+                
+                
+                  n
+                  +
+                  g
+                  +
+                  δ
+                
+              
+            
+            )
+          
+          
+            
+              1
+              
+                1
+                −
+                α
+                −
+                β
+              
+            
+          
+        
+      
+    
+    {\displaystyle h^{*}=\left({\frac {s_{K}^{\alpha }s_{H}^{1-\alpha }}{n+g+\delta }}\right)^{\frac {1}{1-\alpha -\beta }}}
+  In the steady state, 
+  
+    
+      
+        
+          y
+          
+            ∗
+          
+        
+        =
+        (
+        
+          k
+          
+            ∗
+          
+        
+        
+          )
+          
+            α
+          
+        
+        (
+        
+          h
+          
+            ∗
+          
+        
+        
+          )
+          
+            β
+          
+        
+      
+    
+    {\displaystyle y^{*}=(k^{*})^{\alpha }(h^{*})^{\beta }}
+  .
+
+
+=== Econometric estimates ===
+Klenow and Rodriguez-Clare cast doubt on the validity of the augmented model because Mankiw, Romer, and Weil's estimates of 
+  
+    
+      
+        
+          β
+        
+      
+    
+    {\displaystyle {\beta }}
+   did not seem consistent with accepted estimates of the effect of increases in schooling on workers' salaries. Though the estimated model explained 78% of variation in income across countries, the estimates of 
+  
+    
+      
+        
+          β
+        
+      
+    
+    {\displaystyle {\beta }}
+   implied that human capital's external effects on national income are greater than its direct effect on workers' salaries.
+
+
+=== Accounting for external effects ===
+Theodore Breton provided an insight that reconciled the large effect of human capital from schooling in the Mankiw, Romer and Weil model with the smaller effect of schooling on workers' salaries. He demonstrated that the mathematical properties of the model include significant external effects between the factors of production, because human capital and physical capital are multiplicative factors of production. The external effect of human capital on the productivity of physical capital is evident in the marginal product of physical capital:
+
+  
+    
+      
+        M
+        P
+        K
+        =
+        
+          
+            
+              ∂
+              Y
+            
+            
+              ∂
+              K
+            
+          
+        
+        =
+        
+          
+            
+              α
+              
+                A
+                
+                  1
+                  −
+                  α
+                
+              
+              (
+              H
+              
+                /
+              
+              L
+              
+                )
+                
+                  β
+                
+              
+            
+            
+              (
+              K
+              
+                /
+              
+              L
+              
+                )
+                
+                  1
+                  −
+                  α
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle MPK={\frac {\partial Y}{\partial K}}={\frac {\alpha A^{1-\alpha }(H/L)^{\beta }}{(K/L)^{1-\alpha }}}}
+  He showed that the large estimates of the effect of human capital in cross-country estimates of the model are consistent with the smaller effect typically found on workers' salaries when the external effects of human capital on physical capital and labor are taken into account. This insight significantly strengthens the case for the Mankiw, Romer, and Weil version of the Solow–Swan model. Most analyses criticizing this model fail to account for the pecuniary external effects of both types of capital inherent in the model.
+
+
+=== Total factor productivity ===
+The exogenous rate of TFP (total factor productivity) growth in the Solow–Swan model is the residual after accounting for capital accumulation. The Mankiw, Romer, and Weil model provide a lower estimate of the TFP (residual) than the basic Solow–Swan model because the addition of human capital to the model enables capital accumulation to explain more of the variation in income across countries. In the basic model, the TFP residual includes the effect of human capital because human capital is not included as a factor of production.
+
+
+== Conditional convergence ==
+The Solow–Swan model augmented with human capital predicts that the income levels of poor countries will tend to catch up with or converge towards the income levels of rich countries if the poor countries have similar savings rates for both physical capital and human capital as a share of output, a process known as conditional convergence. However, savings rates vary widely across countries.  In particular, since considerable financing constraints exist for investment in schooling, savings rates for human capital are likely to vary as a function of cultural and ideological characteristics in each country.Since the 1950s, output/worker in rich and poor countries generally has not converged, but those poor countries that have greatly raised their savings rates have experienced the income convergence predicted by the Solow–Swan model.  As an example, output/worker in Japan, a country which was once relatively poor, has converged to the level of the rich countries. Japan experienced high growth rates after it raised its savings rates in the 1950s and 1960s, and it has experienced slowing growth of output/worker since its savings rates stabilized around 1970, as predicted by the model.
+The per-capita income levels of the southern states of the United States have tended to converge to the levels in the Northern states. The observed convergence in these states is also consistent with the conditional convergence concept. Whether absolute convergence between countries or regions occurs depends on whether they have similar characteristics, such as:
+
+Education policy
+Institutional arrangements
+Free markets internally, and trade policy with other countries.Additional evidence for conditional convergence comes from multivariate, cross-country regressions.Econometric analysis on Singapore and the other "East Asian Tigers" has produced the surprising result that although output per worker has been rising, almost none of their rapid growth had been due to rising per-capita productivity (they have a low "Solow residual").
+
+
+== See also ==
+Economic growth
+Endogenous growth theory
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Agénor, Pierre-Richard (2004). "Growth and Technological Progress: The Solow–Swan Model". The Economics of Adjustment and Growth (Second ed.). Cambridge: Harvard University Press. pp. 439–462. ISBN 978-0-674-01578-4.
+Barro, Robert J.; Sala-i-Martin, Xavier (2004). "Growth Models with Exogenous Saving Rates". Economic Growth (Second ed.). New York: McGraw-Hill. pp. 23–84. ISBN 978-0-262-02553-9.
+Burmeister, Edwin; Dobell, A. Rodney (1970). "One-Sector Growth Models". Mathematical Theories of Economic Growth. New York: Macmillan. pp. 20–64.
+Dornbusch, Rüdiger; Fischer, Stanley; Startz, Richard (2004). "Growth Theory: The Neoclassical Model". Macroeconomics (Ninth ed.). New York: McGraw-Hill Irwin. pp. 61–75. ISBN 978-0-07-282340-0.
+Farmer, Roger E. A. (1999). "Neoclassical Growth Theory". Macroeconomics (Second ed.). Cincinnati: South-Western. pp. 333–355. ISBN 978-0-324-12058-5.
+Ferguson, Brian S.; Lim, G. C. (1998). Introduction to Dynamic Economic Models. Manchester: Manchester University Press. pp. 42–48. ISBN 978-0-7190-4996-5.
+Gandolfo, Giancarlo (1996). "The Neoclassical Growth Model". Economic Dynamics (Third ed.). Berlin: Springer. pp. 175–189. ISBN 978-3-540-60988-9.
+Halsmayer, Verena (2014). "From Exploratory Modeling to Technical Expertise: Solow's Growth Model as a Multipurpose Design". History of Political Economy. 46 (Supplement 1, MIT and the Transformation of American Economics): 229–251. doi:10.1215/00182702-2716181. Retrieved 2017-11-29.
+Intriligator, Michael D. (1971). Mathematical Optimalization and Economic Theory. Englewood Cliffs: Prentice-Hall. pp. 398–416. ISBN 978-0-13-561753-3.
+van Rijckeghem Willy (1963) : The Structure of Some Macro-Economic Growth Models : a Comparison. Weltwirtschaftliches Archiv volume 91 pp. 84–100
+
+
+== External links ==
+Solow Model Videos - 20+ videos walking through derivation of the Solow Growth Model's Conclusions
+Video explanation by Marginal Revolution University
+Java applet where you can experiment with parameters and learn about Solow model
+Solow Growth Model by Fiona Maclachlan, The Wolfram Demonstrations Project.
+A step-by-step explanation of how to understand the Solow Model
+Professor José-Víctor Ríos-Rull's course at University of Minnesota

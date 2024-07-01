@@ -1,0 +1,437 @@
+In economics, a country's national saving is the sum of private and public saving.  It equals a nation's income minus consumption and the government spending.
+
+
+== Economic model ==
+
+
+=== Closed economy with public deficit or surplus possible ===
+In this simple economic model with a closed economy there are three uses for GDP (the goods and services it produces in a year).  If Y is national income (GDP), then the three uses of C consumption, I investment, and G government purchases can be expressed as:
+
+  
+    
+      
+        Y
+        =
+        C
+        +
+        I
+        +
+        G
+      
+    
+    {\displaystyle Y=C+I+G}
+  National saving can be thought of as the amount of remaining income that is not consumed, or spent by government.  In a simple model of a closed economy, anything that is not spent is assumed to be invested:
+
+  
+    
+      
+        
+          National Saving
+        
+        =
+        Y
+        −
+        C
+        −
+        G
+        =
+        I
+      
+    
+    {\displaystyle {\text{National Saving}}=Y-C-G=I}
+  National saving can be split into private saving and public saving.  Denoting T for taxes paid by consumers that go directly to the government and TR for transfers paid by the government to the consumers as shown here:
+
+  
+    
+      
+        (
+        Y
+        −
+        T
+        +
+        T
+        R
+        −
+        C
+        )
+        +
+        (
+        T
+        −
+        G
+        −
+        T
+        R
+        )
+        =
+        I
+      
+    
+    {\displaystyle (Y-T+TR-C)+(T-G-TR)=I}
+  (Y − T + TR) is disposable income whereas (Y − T + TR − C) is private saving. Public saving, also known as the budget surplus, is the term (T − G − TR), which is government revenue through taxes, minus government expenditures on goods and services, minus transfers. Thus we have that private plus public saving equals investment.
+The interest rate plays the important role of creating an equilibrium between saving S and investment in neoclassical economics.
+
+  
+    
+      
+        S
+        (
+        r
+        )
+        =
+        I
+        (
+        r
+        )
+      
+    
+    {\displaystyle S(r)=I(r)}
+  where the interest rate r affects saving positively and affects physical investment negatively.
+
+
+=== Open economy with balanced public spending ===
+In an open economic model international trade is introduced. Therefore the current account is split into exports and imports:
+
+  
+    
+      
+        
+          Net eXports
+        
+        =
+        N
+        X
+        =
+        
+          eXports
+        
+        −
+        
+          iMports
+        
+        =
+        X
+        −
+        M
+      
+    
+    {\displaystyle {\text{Net eXports}}=NX={\text{eXports}}-{\text{iMports}}=X-M}
+  The net exports is the part of GDP which is not consumed by domestic demand:
+
+  
+    
+      
+        N
+        X
+        =
+        Y
+        −
+        (
+        C
+        +
+        I
+        +
+        G
+        )
+        =
+        Y
+        −
+        
+          Domestic demand
+        
+      
+    
+    {\displaystyle NX=Y-(C+I+G)=Y-{\text{Domestic demand}}}
+  If we transform the identity for net exports by subtracting consumption, investment and government spending we get the national accounts identity:
+
+  
+    
+      
+        Y
+        =
+        C
+        +
+        I
+        +
+        G
+        +
+        N
+        X
+      
+    
+    {\displaystyle Y=C+I+G+NX}
+  The national saving is the part of the GDP which is not consumed or spent by the government.
+
+  
+    
+      
+        Y
+        −
+        C
+        −
+        G
+        =
+        S
+        =
+        I
+        +
+        N
+        X
+      
+    
+    {\displaystyle Y-C-G=S=I+NX}
+  Therefore the difference between the national saving and the investment is equal to the net exports:
+
+  
+    
+      
+        S
+        −
+        I
+        =
+        N
+        X
+      
+    
+    {\displaystyle S-I=NX}
+  
+
+
+=== Open economy with public deficit or surplus ===
+The government budget can be directly introduced into the model. We consider now an open economic model with public deficits or surpluses. Therefore the budget is split into revenues, which are the taxes (T), and the spendings, which are transfers (TR) and government spendings (G). Revenue minus spending results in the public (governmental) saving:
+
+  
+    
+      
+        
+          S
+          
+            G
+          
+        
+        =
+        T
+        −
+        G
+        −
+        T
+        R
+      
+    
+    {\displaystyle S_{G}=T-G-TR}
+  The disposable income of the households is the income Y minus the taxes net of transfers:
+
+  
+    
+      
+        
+          Y
+          
+            d
+          
+        
+        =
+        Y
+        −
+        T
+        +
+        T
+        R
+      
+    
+    {\displaystyle Y_{d}=Y-T+TR}
+  Disposable income can only be used for saving or for consumption:
+
+  
+    
+      
+        
+          Y
+          
+            d
+          
+        
+        =
+        C
+        +
+        
+          S
+          
+            P
+          
+        
+      
+    
+    {\displaystyle Y_{d}=C+S_{P}}
+  where the subscript P denotes the private sector. Therefore private saving in this model equals the disposable income of the households minus consumption:
+
+  
+    
+      
+        
+          S
+          
+            P
+          
+        
+        =
+        
+          Y
+          
+            d
+          
+        
+        −
+        C
+      
+    
+    {\displaystyle S_{P}=Y_{d}-C}
+  By this equation the private saving can be written as:
+
+  
+    
+      
+        
+          S
+          
+            P
+          
+        
+        =
+        Y
+        −
+        T
+        +
+        T
+        R
+        −
+        C
+      
+    
+    {\displaystyle S_{P}=Y-T+TR-C}
+  and the national accounts as:
+
+  
+    
+      
+        Y
+        =
+        
+          S
+          
+            P
+          
+        
+        +
+        C
+        +
+        T
+        −
+        T
+        R
+      
+    
+    {\displaystyle Y=S_{P}+C+T-TR}
+  Once this equation is used in Y=C+I+G+X-M we obtain
+
+  
+    
+      
+        C
+        +
+        I
+        +
+        G
+        +
+        (
+        X
+        −
+        M
+        )
+        =
+        S
+        (
+        P
+        )
+        +
+        C
+        +
+        T
+        −
+        T
+        R
+      
+    
+    {\displaystyle C+I+G+(X-M)=S(P)+C+T-TR}
+  By one transformation we get the determination of net exports and investment by private and public saving:
+
+  
+    
+      
+        
+          S
+          
+            P
+          
+        
+        +
+        
+          S
+          
+            G
+          
+        
+        =
+        I
+        +
+        (
+        X
+        −
+        M
+        )
+      
+    
+    {\displaystyle S_{P}+S_{G}=I+(X-M)}
+  By another transformation we get the sectoral balances of the economy as developed by Wynne Godley. This corresponds approximately to Balances Mechanics developed by Wolfgang Stützel:
+
+  
+    
+      
+        (
+        
+          S
+          
+            P
+          
+        
+        −
+        I
+        )
+        +
+        
+          S
+          
+            G
+          
+        
+        =
+        (
+        X
+        −
+        M
+        )
+      
+    
+    {\displaystyle (S_{P}-I)+S_{G}=(X-M)}
+  
+
+
+== See also ==
+Balances Mechanics
+Government debt
+Inflation
+IS/LM model
+Sectoral balances
+
+
+== References ==

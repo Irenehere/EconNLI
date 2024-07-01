@@ -1,0 +1,1413 @@
+The Ramsey–Cass–Koopmans model, or Ramsey growth model, is a neoclassical model of economic growth based primarily on the work of Frank P. Ramsey, with significant extensions by David Cass and Tjalling Koopmans. The Ramsey–Cass–Koopmans model differs from the Solow–Swan model in that the choice of consumption is explicitly microfounded at a point in time and so endogenizes the savings rate. As a result, unlike in the Solow–Swan model, the saving rate may not be constant along the transition to the long run steady state. Another implication of the model is that the outcome is Pareto optimal or Pareto efficient.Originally Ramsey set out the model as a social planner's problem of maximizing levels of consumption over successive generations. Only later was a model adopted by Cass and Koopmans as a description of a decentralized dynamic economy with a representative agent. The Ramsey–Cass–Koopmans model aims only at explaining long-run economic growth rather than business cycle fluctuations, and does not include any sources of disturbances like market imperfections, heterogeneity among households, or exogenous shocks. Subsequent researchers therefore extended the model, allowing for government-purchases shocks, variations in employment, and other sources of disturbances, which is known as real business cycle theory.
+
+
+== Mathematical description ==
+
+
+=== Model setup ===
+In the usual setup, time is continuous starting, for simplicity, at 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+   and continuing forever. By assumption, the only productive factors are capital 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   and labour 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  , both required to be nonnegative. The labour force, which makes up the entire population, is assumed to grow at a constant rate 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , i.e. 
+  
+    
+      
+        
+          
+            
+              L
+              ˙
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  d
+                
+                L
+              
+              
+                
+                  d
+                
+                t
+              
+            
+          
+        
+        =
+        n
+        L
+      
+    
+    {\displaystyle {\dot {L}}={\tfrac {\mathrm {d} L}{\mathrm {d} t}}=nL}
+  , implying that 
+  
+    
+      
+        L
+        =
+        
+          L
+          
+            0
+          
+        
+        
+          e
+          
+            n
+            t
+          
+        
+      
+    
+    {\displaystyle L=L_{0}e^{nt}}
+   with initial level 
+  
+    
+      
+        
+          L
+          
+            0
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle L_{0}>0}
+   at 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  . Finally, let 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   denote aggregate production, and 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   denote aggregate consumption. 
+The variables that the Ramsey–Cass–Koopmans model ultimately aims to describe are 
+  
+    
+      
+        c
+        =
+        
+          
+            C
+            L
+          
+        
+      
+    
+    {\displaystyle c={\frac {C}{L}}}
+  , the per capita (or more accurately, per labour) consumption, as well as 
+  
+    
+      
+        k
+        =
+        
+          
+            K
+            L
+          
+        
+      
+    
+    {\displaystyle k={\frac {K}{L}}}
+  , the so-called capital intensity. It does so by first connecting capital accumulation, written 
+  
+    
+      
+        
+          
+            
+              K
+              ˙
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  d
+                
+                K
+              
+              
+                
+                  d
+                
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {K}}={\tfrac {\mathrm {d} K}{\mathrm {d} t}}}
+   in Newton's notation, with consumption 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  , describing a consumption-investment trade-off. More specifically, since the existing capital stock decays by depreciation rate 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   (assumed to be constant), it requires investment of current-period production output 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  . Thus, 
+The relationship between the productive factors and aggregate output is described by the aggregate production function, 
+  
+    
+      
+        Y
+        =
+        F
+        (
+        K
+        ,
+        L
+        )
+      
+    
+    {\displaystyle Y=F(K,L)}
+  . A common choice is the Cobb–Douglas production function 
+  
+    
+      
+        F
+        (
+        K
+        ,
+        L
+        )
+        =
+        A
+        
+          K
+          
+            1
+            −
+            α
+          
+        
+        
+          L
+          
+            α
+          
+        
+      
+    
+    {\displaystyle F(K,L)=AK^{1-\alpha }L^{\alpha }}
+  , but generally any production function satisfying the Inada conditions is permissible. Importantly, though, 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is required to be homogeneous of degree 1, which economically implies constant returns to scale. With this assumption, we can re-express aggregate output in per capita terms  For example, if we use the Cobb–Douglas production function with 
+  
+    
+      
+        A
+        =
+        1
+        ,
+        α
+        =
+        0.5
+      
+    
+    {\displaystyle A=1,\alpha =0.5}
+  , then 
+  
+    
+      
+        f
+        (
+        k
+        )
+        =
+        
+          k
+          
+            0.5
+          
+        
+      
+    
+    {\displaystyle f(k)=k^{0.5}}
+  .
+To obtain the first key equation of the Ramsey–Cass–Koopmans model, the dynamic equation for the capital stock needs to be expressed in per capita terms. Noting the quotient rule for 
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                  d
+                
+                t
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                K
+                L
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\tfrac {\mathrm {d} }{\mathrm {d} t}}\left({\tfrac {K}{L}}\right)}
+  , we have
+
+a non-linear differential equation akin to the Solow–Swan model.
+
+
+=== Maximizing welfare ===
+If we ignore the problem of how consumption is distributed, then the rate of utility 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   is a function of aggregate consumption. That is, 
+  
+    
+      
+        U
+        =
+        U
+        (
+        C
+        ,
+        t
+        )
+      
+    
+    {\displaystyle U=U(C,t)}
+  . To avoid the problem of infinity, we exponentially discount future utility at a discount rate 
+  
+    
+      
+        ρ
+        ∈
+        (
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\displaystyle \rho \in (0,\infty )}
+  . A high 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   reflects high impatience.
+The social planner's problem is maximizing the social welfare function 
+  
+    
+      
+        
+          U
+          
+            0
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            ρ
+            t
+          
+        
+        U
+        (
+        C
+        ,
+        t
+        )
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle U_{0}=\int _{0}^{\infty }e^{-\rho t}U(C,t)\,\mathrm {d} t}
+  .
+Assume that the economy is populated by identical immortal individuals with unchanging utility functions 
+  
+    
+      
+        u
+        (
+        c
+        )
+      
+    
+    {\displaystyle u(c)}
+   (a representative agent), such that the total utility is:The utility function is assumed to be strictly increasing (i.e., there is no bliss point) and concave in 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  , with 
+  
+    
+      
+        
+          lim
+          
+            c
+            →
+            0
+          
+        
+        
+          u
+          
+            c
+          
+        
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{c\to 0}u_{c}=\infty }
+  , where 
+  
+    
+      
+        
+          u
+          
+            c
+          
+        
+      
+    
+    {\displaystyle u_{c}}
+   is  marginal utility of consumption 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                u
+              
+              
+                ∂
+                c
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\partial u}{\partial c}}}
+  .
+Thus we have the social planner's problem:
+
+  
+    
+      
+        
+          max
+          
+            c
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            (
+            ρ
+            −
+            n
+            )
+            t
+          
+        
+        u
+        (
+        c
+        )
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \max _{c}\int _{0}^{\infty }e^{-(\rho -n)t}u(c)\,\mathrm {d} t}
+  
+
+  
+    
+      
+        
+          subject to
+        
+        
+        c
+        =
+        f
+        (
+        k
+        )
+        −
+        (
+        n
+        +
+        δ
+        )
+        k
+        −
+        
+          
+            
+              k
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\text{subject to}}\quad c=f(k)-(n+\delta )k-{\dot {k}}}
+  where an initial non-zero capital stock 
+  
+    
+      
+        k
+        (
+        0
+        )
+        =
+        
+          k
+          
+            0
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle k(0)=k_{0}>0}
+   is given. 
+To ensure that the integral is well-defined, we impose 
+  
+    
+      
+        ρ
+        >
+        n
+      
+    
+    {\displaystyle \rho >n}
+  . 
+
+
+=== Solution ===
+The solution, usually found by using a Hamiltonian function, is a differential equation that describes the optimal evolution of consumption,
+
+the Keynes–Ramsey rule.The term 
+  
+    
+      
+        
+          f
+          
+            k
+          
+        
+        (
+        k
+        )
+        −
+        δ
+        −
+        ρ
+      
+    
+    {\displaystyle f_{k}(k)-\delta -\rho }
+  , where 
+  
+    
+      
+        
+          f
+          
+            k
+          
+        
+        =
+        
+          ∂
+          
+            k
+          
+        
+        f
+      
+    
+    {\displaystyle f_{k}=\partial _{k}f}
+   is the marginal product of capital, reflects the marginal return on net investment, accounting for capital depreciation and time discounting.
+Here 
+  
+    
+      
+        σ
+        (
+        c
+        )
+      
+    
+    {\displaystyle \sigma (c)}
+   is the elasticity of intertemporal substitution, defined byIt is formally equivalent to the inverse of relative risk aversion. The quantity reflects the curvature of the utility function and indicates how much the representative agent wishes to smooth consumption over time. If the agent has high relative risk aversion, then it has low EIS, and thus would be more willing to smooth consumption over time.
+It is often assumed that 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   is strictly monotonically increasing and concave, thus 
+  
+    
+      
+        σ
+        >
+        0
+      
+    
+    {\displaystyle \sigma >0}
+  . In particular, if utility is logarithmic, then it is constant:We can rewrite the Ramsey rule aswhere we interpret 
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        ln
+        ⁡
+        c
+      
+    
+    {\displaystyle {\frac {d}{dt}}\ln c}
+   as the "consumption delay rate", because if it is high, then it means the agent is consuming a lot less now compared to later, which is essentially what delayed consumption is about.
+
+
+=== Graphical analysis in phase space ===
+The two coupled differential equations for 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   form the Ramsey–Cass–Koopmans dynamical system.
+
+A steady state 
+  
+    
+      
+        (
+        
+          k
+          
+            ∗
+          
+        
+        ,
+        
+          c
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle (k^{\ast },c^{\ast })}
+   for the system is found by setting 
+  
+    
+      
+        
+          
+            
+              k
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {k}}}
+   and 
+  
+    
+      
+        
+          
+            
+              c
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {c}}}
+   equal to zero. There are three solutions:
+
+  
+    
+      
+        
+          f
+          
+            k
+          
+        
+        
+          (
+          
+            k
+            
+              ∗
+            
+          
+          )
+        
+        =
+        δ
+        +
+        ρ
+        
+        
+          and
+        
+        
+        
+          c
+          
+            ∗
+          
+        
+        =
+        f
+        
+          (
+          
+            k
+            
+              ∗
+            
+          
+          )
+        
+        −
+        (
+        n
+        +
+        δ
+        )
+        
+          k
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle f_{k}\left(k^{\ast }\right)=\delta +\rho \quad {\text{and}}\quad c^{\ast }=f\left(k^{\ast }\right)-(n+\delta )k^{\ast }}
+  
+
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  
+
+  
+    
+      
+        f
+        (
+        
+          k
+          
+            ∗
+          
+        
+        )
+        =
+        (
+        n
+        +
+        δ
+        )
+        
+          k
+          
+            ∗
+          
+        
+        
+           with 
+        
+        
+          k
+          
+            ∗
+          
+        
+        >
+        0
+        ,
+        
+          c
+          
+            ∗
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle f(k^{*})=(n+\delta )k^{*}{\text{ with }}k^{*}>0,c^{*}=0}
+  The first is the only solution in the interior of the upper quadrant. It is a saddle point (as shown below). The second is a repelling point. The third is a degenerate stable equilibrium.
+By default, the first solution is meant, although the other two solutions are important to keep track of.
+Any optimal trajectory must follow the dynamical system. However, since the variable 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is a control variable, at each capital intensity 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , to find its corresponding optimal trajectory, we still need to find its starting consumption rate 
+  
+    
+      
+        c
+        (
+        0
+        )
+      
+    
+    {\displaystyle c(0)}
+  . As it turns out, the optimal trajectory is the unique one that converges to the interior equilibrium point. Any other trajectory either converges to the all-saving equilibrium with 
+  
+    
+      
+        
+          k
+          
+            ∗
+          
+        
+        >
+        0
+        ,
+        
+          c
+          
+            ∗
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle k^{*}>0,c^{*}=0}
+  , or diverges to 
+  
+    
+      
+        k
+        →
+        0
+        ,
+        c
+        →
+        ∞
+      
+    
+    {\displaystyle k\to 0,c\to \infty }
+  , which means that the economy expends all its capital in finite time. Both achieve a lower overall utility than the trajectory towards the interior equilibrium point.
+A qualitative statement about the stability of the solution 
+  
+    
+      
+        (
+        
+          k
+          
+            ∗
+          
+        
+        ,
+        
+          c
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle (k^{\ast },c^{\ast })}
+   requires a linearization by a first-order Taylor polynomial 
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    
+                      
+                        k
+                        ˙
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      
+                        c
+                        ˙
+                      
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        ≈
+        
+          J
+        
+        (
+        
+          k
+          
+            ∗
+          
+        
+        ,
+        
+          c
+          
+            ∗
+          
+        
+        )
+        
+          
+            [
+            
+              
+                
+                  (
+                  k
+                  −
+                  
+                    k
+                    
+                      ∗
+                    
+                  
+                  )
+                
+              
+              
+                
+                  (
+                  c
+                  −
+                  
+                    c
+                    
+                      ∗
+                    
+                  
+                  )
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}{\dot {k}}\\{\dot {c}}\end{bmatrix}}\approx \mathbf {J} (k^{\ast },c^{\ast }){\begin{bmatrix}(k-k^{\ast })\\(c-c^{\ast })\end{bmatrix}}}
+  where 
+  
+    
+      
+        
+          J
+        
+        (
+        
+          k
+          
+            ∗
+          
+        
+        ,
+        
+          c
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {J} (k^{\ast },c^{\ast })}
+   is the Jacobian matrix evaluated at steady state, given by
+
+  
+    
+      
+        
+          J
+        
+        
+          (
+          
+            
+              k
+              
+                ∗
+              
+            
+            ,
+            
+              c
+              
+                ∗
+              
+            
+          
+          )
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  ρ
+                  −
+                  n
+                
+                
+                  −
+                  1
+                
+              
+              
+                
+                  
+                    
+                      1
+                      σ
+                    
+                  
+                  
+                    f
+                    
+                      k
+                      k
+                    
+                  
+                  (
+                  k
+                  )
+                  ⋅
+                  
+                    c
+                    
+                      ∗
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \mathbf {J} \left(k^{\ast },c^{\ast }\right)={\begin{bmatrix}\rho -n&-1\\{\frac {1}{\sigma }}f_{kk}(k)\cdot c^{\ast }&0\end{bmatrix}}}
+  which has determinant 
+  
+    
+      
+        
+          |
+          
+            
+              J
+            
+            
+              (
+              
+                
+                  k
+                  
+                    ∗
+                  
+                
+                ,
+                
+                  c
+                  
+                    ∗
+                  
+                
+              
+              )
+            
+          
+          |
+        
+        =
+        
+          
+            1
+            σ
+          
+        
+        
+          f
+          
+            k
+            k
+          
+        
+        (
+        k
+        )
+        ⋅
+        
+          c
+          
+            ∗
+          
+        
+        <
+        0
+      
+    
+    {\displaystyle \left|\mathbf {J} \left(k^{\ast },c^{\ast }\right)\right|={\frac {1}{\sigma }}f_{kk}(k)\cdot c^{\ast }<0}
+   since 
+  
+    
+      
+        
+          c
+          
+            ∗
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle c^{*}>0}
+   , 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   is positive by assumption, and 
+  
+    
+      
+        
+          f
+          
+            k
+            k
+          
+        
+        <
+        0
+      
+    
+    {\displaystyle f_{kk}<0}
+    since 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is concave (Inada condition). Since the determinant equals the product of the eigenvalues, the eigenvalues must be real and opposite in sign.Hence by the stable manifold theorem, the equilibrium is a saddle point and there exists a unique stable arm, or “saddle path”, that converges on the equilibrium, indicated by the blue curve in the phase diagram.
+The system is called “saddle path stable” since all unstable trajectories are ruled out by the “no Ponzi scheme” condition:
+
+  
+    
+      
+        
+          lim
+          
+            t
+            →
+            ∞
+          
+        
+        k
+        ⋅
+        
+          e
+          
+            −
+            
+              ∫
+              
+                0
+              
+              
+                t
+              
+            
+            
+              (
+              
+                
+                  f
+                  
+                    k
+                  
+                
+                −
+                n
+                −
+                δ
+              
+              )
+            
+            
+              d
+            
+            s
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle \lim _{t\to \infty }k\cdot e^{-\int _{0}^{t}\left(f_{k}-n-\delta \right)\mathrm {d} s}\geq 0}
+  implying that the present value of the capital stock cannot be negative.
+
+
+== History ==
+Spear and Young re-examine the history of optimal growth during the 1950s and 1960s, focusing in part on the veracity of the claimed simultaneous and independent development of Cass' "Optimum growth in an aggregative model of capital accumulation" (published in 1965 in the Review of Economic Studies), and Tjalling Koopman's "On the concept of optimal economic growth" (published in Study Week on the Econometric Approach to Development Planning, 1965, Rome: Pontifical Academy of Science).
+Over their lifetimes, neither Cass nor Koopmans ever suggested that their results characterizing optimal growth in the one-sector, continuous-time growth model were anything other than "simultaneous and independent".  That the issue of priority ever became a discussion point was due only to the fact that in the published version of Koopmans' work, he cited the chapter from Cass' thesis that later became the RES paper.  In his paper, Koopmans states in a footnote that Cass independently obtained conditions similar to what Koopmans finds, and that Cass also considers the limiting case where the discount rate goes to zero in his paper.  For his part, Cass notes that "after the original version of this paper was completed, a very similar analysis by Koopmans came to our attention. We draw on his results in discussing the limiting case, where the effective social discount rate goes to zero".  In the interview that Cass gave to Macroeconomic Dynamics, he credits Koopmans with pointing him to Frank Ramsey's previous work, claiming to have been embarrassed not to have known of it, but says nothing to dispel the basic claim that his work and Koopmans' were in fact independent.
+Spear and Young dispute this history, based upon a previously overlooked working paper version of Koopmans' paper, which was the basis for Koopmans' oft-cited presentation at a conference held by the Pontifical Academy of Sciences in October 1963.  In this Cowles Discussion paper, there is an error.  Koopmans claims in his main result that the Euler equations are both necessary and sufficient to characterize optimal trajectories in the model because any solutions to the Euler equations which do not converge to the optimal steady-state would hit either a zero consumption or zero capital boundary in finite time.  This error was apparently presented at the Vatican conference, although at the time of Koopmans' presenting it, no participant commented on the problem.  This can be inferred because the discussion after each paper presentation at the Vatican conference is preserved verbatim in the conference volume.
+In the Vatican volume discussion following the presentation of a paper by Edmond Malinvaud, the issue does arise because of Malinvaud's explicit inclusion of a so-called "transversality condition" (which Malinvaud calls Condition I) in his paper.  At the end of the presentation, Koopmans asks Malinvaud whether it is not the case that Condition I simply guarantees that solutions to the Euler equations that do not converge to the optimal steady-state hit a boundary in finite time.  Malinvaud replies that this is not the case, and suggests that Koopmans look at the example with log utility functions and Cobb-Douglas production functions.
+At this point, Koopmans obviously recognizes he has a problem, but, based on a confusing appendix to a later version of the paper produced after the Vatican conference, he seems unable to decide how to deal with the issue raised by Malinvaud's Condition I.
+From the Macroeconomic Dynamics interview with Cass, it is clear that Koopmans met with Cass' thesis advisor, Hirofumi Uzawa, at the winter meetings of the Econometric Society in January 1964, where Uzawa advised him that his student [Cass] had solved this problem already.  Uzawa must have then provided Koopmans with the copy of Cass' thesis chapter, which he apparently sent along in the guise of the IMSSS Technical Report that Koopmans cited in the published version of his paper.  The word "guise" is appropriate here, because the TR number listed in Koopmans' citation would have put the issue date of the report in the early 1950s, which it clearly was not.
+In the published version of Koopmans' paper, he imposes a new Condition Alpha in addition to the Euler equations, stating that the only admissible trajectories among those satisfying the Euler equations is the one that converges to the optimal steady-state equilibrium of the model.  This result is derived in Cass' paper via the imposition of a transversality condition that Cass deduced from relevant sections of a book by Lev Pontryagin. Spear and Young conjecture that Koopmans took this route because he did not want to appear to be "borrowing" either Malinvaud's or Cass' transversality technology.
+Based on this and other examination of Malinvaud's contributions in 1950s—specifically his intuition of the importance of the transversality condition—Spear and Young suggest that the neo-classical growth model might better be called the Ramsey–Malinvaud–Cass model than the established Ramsey–Cass–Koopmans honorific.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Acemoglu, Daron (2009). "The Neoclassical Growth Model". Introduction to Modern Economic Growth. Princeton: Princeton University Press. pp. 287–326. ISBN 978-0-691-13292-1.
+Barro, Robert J.; Sala-i-Martin, Xavier (2004). "Growth Models with Consumer Optimization". Economic Growth (Second ed.). New York: McGraw-Hill. pp. 85–142. ISBN 978-0-262-02553-9.
+Bénassy, Jean-Pascal (2011). "The Ramsey Model". Macroeconomic Theory. New York: Oxford University Press. pp. 145–160. ISBN 978-0-19-538771-1.
+Blanchard, Olivier Jean; Fischer, Stanley (1989). "Consumption and Investment: Basic Infinite Horizon Models". Lectures on Macroeconomics. Cambridge: MIT Press. pp. 37–89. ISBN 978-0-262-02283-5.
+Miao, Jianjun (2014). "Neoclassical Growth Models". Economic Dynamics in Discrete Time. Cambridge: MIT Press. pp. 353–364. ISBN 978-0-262-02761-8.
+Novales, Alfonso; Fernández, Esther; Ruíz, Jesús (2009). "Optimal Growth: Continuous Time Analysis". Economic Growth: Theory and Numerical Solution Methods. Berlin: Springer. pp. 101–154. ISBN 978-3-540-68665-1.
+Romer, David (2011). "Infinite-Horizon and Overlapping-Generations Models". Advanced Macroeconomics (Fourth ed.). New York: McGraw-Hill. pp. 49–77. ISBN 978-0-07-351137-5.
+
+
+== External links ==
+Discussion of Ramsey's original paper by Orazio Attanasio on YouTube

@@ -1,0 +1,51 @@
+Financial management is the business function concerned with profitability, expenses, cash and credit, so that the "organization may have the means to carry out its objective as satisfactorily as possible;" 
+the latter often defined as maximizing the value of the firm for stockholders.
+The discipline is then tasked with the "efficient acquisition and deployment" of both short- and long-term financial resources, to ensure the objectives of the enterprise are achieved.Financial managers (FM) are specialized professionals directly reporting to senior management, often the financial director (FD); the function is seen as 'Staff', and not 'Line'.
+
+
+== Role ==
+
+Financial management is generally concerned with short term working capital management, focusing on current assets and current liabilities,  and managing fluctuations in foreign currency and product cycles, often through hedging.
+The function also entails the efficient and effective day-to-day management of funds, and thus overlaps treasury management.
+It is also involved with long term  strategic financial management, focused on i.a. capital structure management, including capital raising, capital budgeting (capital allocation between business units or products), and dividend policy;
+these latter, in large corporates, being more the domain of "corporate finance."
+Specific tasks:
+
+Profit maximization happens when marginal cost is equal to marginal revenue. This is the main objective of financial management.
+Maintaining proper cash flow is a short run objective of financial management. It is necessary for operations to pay the day-to-day expenses e.g. raw material, electricity bills, wages, rent etc. A good cash flow ensures the survival of company; see cashflow forecast.
+Minimization on capital cost in financial management can help operations gain more profit.
+Estimating the requirement of funds: Businesses make forecast on funds needed in both short run and long run, hence, they can improve the efficiency of funding. The estimation is based on the budget e.g. sales budget, production budget; see budget analyst.
+Determining the capital structure: Capital structure is how a firm finances its overall operations and growth by using different sources of funds. Once the requirement of funds has estimated, the financial manager should decide the mix of debt and equity and also types of debt.
+
+
+== Relationship with other areas of finance ==
+Two areas of finance directly overlap financial management:
+(i) Managerial finance is the (academic) branch of finance concerned with the managerial application of financial techniques;
+(ii) Corporate finance is mainly concerned with the longer term capital budgeting, and typically is more relevant to large corporations.
+Investment management, also related, is the professional asset management of various securities (shares, bonds and other securities/assets).
+In the context of financial management, the function sits with treasury; usually the management of the various short-term financial legal instruments (contractual duties, obligations, or rights) appropriate to the company's cash- and liquidity management requirements. See Treasury management § Functions.
+The term "financial management" refers to a company's financial strategy, while personal finance or financial life management refers to an individual's management strategy. A financial planner, or personal financial planner, is a professional who prepares financial plans here.
+
+
+== Financial management systems ==
+Financial management systems are the software and technology used by organizations to connect, store, and report on assets, income, and expenses.
+Here, the discipline relies on a range of products, from spreadsheets (invariably as a starting point, and frequently in total) through commercial EPM and BI tools, often BusinessObjects (SAP), OBI EE (Oracle), Cognos (IBM), and Power BI (Microsoft).
+See Financial modeling § Accounting for discussion.
+
+
+== See also ==
+Financial management for IT services, financial management of IT assets and resources
+Financial Management Service, a bureau of the U.S. Treasury which provides financial services for the government.
+Financial mismanagement
+Financial risk management § Corporate finance
+FP&A
+Managerial finance
+
+
+== References ==
+
+
+== Further reading ==
+Lawrence Gitman and Chad J. Zutter  (2019). Principles of Managerial Finance, 14th edition, Addison-Wesley Publishing, ISBN 978-0133507690.
+Clive Marsh (2009). Mastering Financial Management, Financial Times Prentice Hall ISBN 978-0-273-72454-4
+James Van Horne and John Wachowicz (2009). Fundamentals of Financial Management, 13th ed., Pearson Education Limited. ISBN 9705614229

@@ -1,0 +1,55 @@
+The debt-to-equity ratio (D/E) is a financial ratio indicating the relative proportion of shareholders' equity and debt used to finance a company's assets. Closely related to leveraging, the ratio is also known as risk, gearing or leverage. The two components are often taken from the firm's balance sheet or statement of financial position (so-called book value), but the ratio may also be calculated using market values for both, if the company's debt and equity are publicly traded, or using a combination of book value for debt and market value for equity financially.
+
+
+== Usage ==
+Preferred stock can be considered part of debt or equity. Attributing preferred shares to one or the other is partially a subjective decision but will also take into account the specific features of the preferred shares.
+When used to calculate a company's financial leverage, the debt usually includes only the Long Term Debt (LTD). Quoted ratios can even exclude the current portion of the LTD. The composition of equity and debt and its influence on the value of the firm is much debated and also described in the Modigliani–Miller theorem.
+Financial economists and academic papers will usually refer to all liabilities as debt, and the statement that equity plus liabilities equals assets is therefore an accounting identity (it is, by definition, true). Other definitions of debt to equity may not respect this accounting identity, and should be carefully compared.
+Generally speaking, a high ratio may indicate  that the company is much resourced with (outside) borrowing as compared to funding from shareholders.
+
+
+== Formula ==
+In a general sense, the ratio is simply debt divided by equity. However, what is classified as debt can differ depending on the interpretation used. Thus, the ratio can take on a number of forms including:
+
+Debt / Equity
+Long-term Debt / Equity
+Total Liabilities / EquityIn a basic sense, Total Debt / Equity is a measure of all of a company's future obligations on the balance sheet relative to equity. However, the ratio can be more discerning as to what is actually a borrowing, as opposed to other types of obligations that might exist on the balance sheet under the liabilities section. For example, often only the liabilities accounts that are actually labelled as "debt" on the balance sheet are used in the numerator, instead of the broader category of "total liabilities". In other words, actual borrowings like bank loans and interest-bearing debt securities are used, as opposed to the broadly inclusive category of total liabilities which, in addition to debt-labelled accounts, can include accrual accounts like unearned revenue.
+Another popular iteration of the ratio is the long-term-debt-to-equity ratio which uses only long-term debt in the numerator instead of total debt or total liabilities. Total debt includes both long-term debt and short-term debt which is made up of actual short-term debt that has actual short-term maturities and also the portion of long-term debt that has become short-term in the current period because it is now nearing maturity. This second classification of short-term debt is carved out of long-term debt and is reclassified as a current liability called current portion of long-term debt (or a similar name). The remaining long-term debt is used in the numerator of the long-term-debt-to-equity ratio.
+A similar ratio is debt-to-capital (D/C), where capital is the sum of debt and equity:
+
+D/C = total liabilities/ total capital = debt/debt + equityThe relationship between D/E and D/C is:
+
+D/C = D/D+E = D/E/ 1 + D/EThe debt-to-total assets (D/A) is defined as
+
+D/A = total liabilities/ total assets = debt/debt + equity + (non-financial liabilities)It is a problematic measure of leverage, because an increase in non-financial liabilities reduces this ratio.  Nevertheless, it is in common use.
+In the financial industry (particularly banking), a similar concept is equity to total assets (or equity to risk-weighted assets), otherwise known as capital adequacy.
+
+
+== Background ==
+On a balance sheet, the formal definition is that debt (liabilities) plus equity equals assets, or any equivalent reformulation. Both the formulas below are therefore identical:
+
+A = D + E
+E = A − D or D = A − E.Debt to equity can also be reformulated in terms of assets or debt:
+
+D/E = D/A − D = A − E/ E.
+
+
+== Example ==
+General Electric Co. ([1])
+
+Debt / equity: 4.304 (total debt / stockholder equity) (340/79).  Note: This is often presented in percentage form, for instance 430.4.
+Other equity / shareholder equity: 7.177 (568,303,000/79,180,000)
+Equity ratio: 12% (shareholder equity / all equity) (79,180,000/647,483,000)
+
+
+== See also ==
+Financial ratio
+Debt-to-capital ratio
+
+
+== References ==
+
+
+== External links ==
+"Debt-to-equity ratio". Investopedia.
+"Debt-to-equity ratio". Morning Star.

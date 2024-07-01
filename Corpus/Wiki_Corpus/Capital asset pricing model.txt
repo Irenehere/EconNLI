@@ -1,0 +1,836 @@
+In finance, the capital asset pricing model (CAPM) is a model used to determine a theoretically appropriate required rate of return of an asset, to make decisions about adding assets to a well-diversified portfolio.
+The model takes into account the asset's sensitivity to non-diversifiable risk (also known as systematic risk or market risk), often represented by the quantity beta (β) in the financial industry, as well as the expected return of the market and the expected return of a theoretical risk-free asset. CAPM assumes a particular form of utility functions (in which only first and second moments matter, that is risk is measured by variance, for example a quadratic utility) or alternatively asset returns whose probability distributions are completely described by the first two moments (for example, the normal distribution) and zero transaction costs (necessary for diversification to get rid of all idiosyncratic risk). Under these conditions, CAPM shows that the cost of equity capital is determined only by beta. Despite its failing numerous empirical tests, and the existence of more modern approaches to asset pricing and portfolio selection (such as arbitrage pricing theory and Merton's portfolio problem), the CAPM still remains popular due to its simplicity and utility in a variety of situations.
+
+
+== Inventors ==
+The CAPM was introduced by Jack Treynor (1961, 1962), William F. Sharpe (1964), John Lintner (1965a,b) and Jan Mossin (1966) independently, building on the earlier work of Harry Markowitz on diversification and modern portfolio theory. Sharpe, Markowitz and Merton Miller jointly received the 1990 Nobel Memorial Prize in Economics for this contribution to the field of financial economics. Fischer Black (1972) developed another version of CAPM, called Black CAPM or zero-beta CAPM, that does not assume the existence of a riskless asset. This version was more robust against empirical testing and was influential in the widespread adoption of the CAPM.
+
+
+== Formula ==
+The CAPM is a model for pricing an individual security or portfolio. For individual securities, we make use of the security market line (SML) and its relation to expected return and systematic risk (beta) to show how the market must price individual securities in relation to their security risk class. The SML enables us to calculate the reward-to-risk ratio for any security in relation to that of the overall market. Therefore, when the expected rate of return for any security is deflated by its beta coefficient, the reward-to-risk ratio for any individual security in the market is equal to the market reward-to-risk ratio, thus:
+
+  
+    
+      
+        
+          
+            
+              E
+              (
+              
+                R
+                
+                  i
+                
+              
+              )
+              −
+              
+                R
+                
+                  f
+                
+              
+            
+            
+              β
+              
+                i
+              
+            
+          
+        
+        =
+        E
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+      
+    
+    {\displaystyle {\frac {E(R_{i})-R_{f}}{\beta _{i}}}=E(R_{m})-R_{f}}
+  The market reward-to-risk ratio is effectively the market risk premium and by rearranging the above equation and solving for 
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle E(R_{i})}
+  , we obtain the capital asset pricing model (CAPM).
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+        =
+        
+          R
+          
+            f
+          
+        
+        +
+        
+          β
+          
+            i
+          
+        
+        (
+        E
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+        
+      
+    
+    {\displaystyle E(R_{i})=R_{f}+\beta _{i}(E(R_{m})-R_{f})\,}
+  where:
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+         
+         
+      
+    
+    {\displaystyle E(R_{i})~~}
+   is the expected return on the capital asset
+
+  
+    
+      
+        
+          R
+          
+            f
+          
+        
+         
+      
+    
+    {\displaystyle R_{f}~}
+   is the risk-free rate of interest such as interest arising from government bonds
+
+  
+    
+      
+        
+          β
+          
+            i
+          
+        
+         
+         
+      
+    
+    {\displaystyle \beta _{i}~~}
+   (the beta) is the sensitivity of the expected excess asset returns to the expected excess market returns, or also 
+  
+    
+      
+        
+          β
+          
+            i
+          
+        
+        =
+        
+          
+            
+              
+                C
+                o
+                v
+              
+              (
+              
+                R
+                
+                  i
+                
+              
+              ,
+              
+                R
+                
+                  m
+                
+              
+              )
+            
+            
+              
+                V
+                a
+                r
+              
+              (
+              
+                R
+                
+                  m
+                
+              
+              )
+            
+          
+        
+        =
+        
+          ρ
+          
+            i
+            ,
+            m
+          
+        
+        
+          
+            
+              σ
+              
+                i
+              
+            
+            
+              σ
+              
+                m
+              
+            
+          
+        
+      
+    
+    {\displaystyle \beta _{i}={\frac {\mathrm {Cov} (R_{i},R_{m})}{\mathrm {Var} (R_{m})}}=\rho _{i,m}{\frac {\sigma _{i}}{\sigma _{m}}}}
+  
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+         
+      
+    
+    {\displaystyle E(R_{m})~}
+   is the expected return of the market
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+         
+      
+    
+    {\displaystyle E(R_{m})-R_{f}~}
+   is sometimes known as the market premium
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+         
+      
+    
+    {\displaystyle E(R_{i})-R_{f}~}
+   is also known as the risk premium
+
+  
+    
+      
+        
+          ρ
+          
+            i
+            ,
+            m
+          
+        
+      
+    
+    {\displaystyle \rho _{i,m}}
+   denotes the correlation coefficient between the investment 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and the market 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+
+  
+    
+      
+        
+          σ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}}
+   is the standard deviation for the investment 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+
+  
+    
+      
+        
+          σ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \sigma _{m}}
+   is the standard deviation for the market 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  .Restated, in terms of risk premium, we find that:
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        =
+        
+          β
+          
+            i
+          
+        
+        (
+        E
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+        
+      
+    
+    {\displaystyle E(R_{i})-R_{f}=\beta _{i}(E(R_{m})-R_{f})\,}
+  which states that the individual risk premium equals the market premium times β.
+Note 1: the expected market rate of return is usually estimated by measuring the arithmetic average of the historical returns on a market portfolio (e.g. S&P 500).
+Note 2: the risk free rate of return used for determining the risk premium is usually the arithmetic average of historical risk free rates of return and not the current risk free rate of return.
+For the full derivation see Modern portfolio theory.
+
+
+== Modified betas ==
+There has also been research into a mean-reverting beta often referred to as the adjusted beta, as well as the consumption beta. However, in empirical tests the traditional CAPM has been found to do as well as or outperform the modified beta models.
+
+
+== Security market line ==
+The SML graphs the results from the capital asset pricing model (CAPM) formula. The x-axis represents the risk (beta), and the y-axis represents the expected return. The market risk premium is determined from the slope of the SML.
+The relationship between β and required return is plotted on the security market line (SML), which shows expected return as a function of β. The intercept is the nominal risk-free rate available for the market, while the slope is the market premium, E(Rm)− Rf. The security market line can be regarded as representing a single-factor model of the asset price, where β is the exposure to changes in the value of the Market. The equation of the SML is thus:
+
+  
+    
+      
+        
+          S
+          M
+          L
+        
+        :
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+        =
+        
+          R
+          
+            f
+          
+        
+        +
+        
+          β
+          
+            i
+          
+        
+        (
+        E
+        (
+        
+          R
+          
+            M
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+        .
+         
+      
+    
+    {\displaystyle \mathrm {SML} :E(R_{i})=R_{f}+\beta _{i}(E(R_{M})-R_{f}).~}
+  It is a useful tool for determining if an asset being considered for a portfolio offers a reasonable expected return for its risk. Individual securities are plotted on the SML graph. If the security's expected return versus risk is plotted above the SML, it is undervalued since the investor can expect a greater return for the inherent risk. And a security plotted below the SML is overvalued since the investor would be accepting less return for the amount of risk assumed.
+
+
+== Asset pricing ==
+Once the expected/required rate of return 
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle E(R_{i})}
+   is calculated using CAPM, we can compare this required rate of return to the asset's estimated rate of return over a specific investment horizon to determine whether it would be an appropriate investment. To make this comparison, you need an independent estimate of the return outlook for the security based on either fundamental or technical analysis techniques, including P/E, M/B etc.
+Assuming that the CAPM is correct, an asset is correctly priced when its estimated price is the same as the present value of future cash flows of the asset, discounted at the rate suggested by CAPM. If the estimated price is higher than the CAPM valuation, then the asset is overvalued (and undervalued when the estimated price is below the CAPM valuation). When the asset does not lie on the SML, this could also suggest mis-pricing. Since the expected return of the asset at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is 
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            t
+          
+        
+        )
+        =
+        
+          
+            
+              E
+              (
+              
+                P
+                
+                  t
+                  +
+                  1
+                
+              
+              )
+              −
+              
+                P
+                
+                  t
+                
+              
+            
+            
+              P
+              
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle E(R_{t})={\frac {E(P_{t+1})-P_{t}}{P_{t}}}}
+  , a higher expected return than what CAPM suggests indicates that 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+      
+    
+    {\displaystyle P_{t}}
+   is too low (the asset is currently undervalued), assuming that at time 
+  
+    
+      
+        t
+        +
+        1
+      
+    
+    {\displaystyle t+1}
+   the asset returns to the CAPM suggested price.The asset price 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+      
+    
+    {\displaystyle P_{0}}
+   using CAPM, sometimes called the certainty equivalent pricing formula, is a linear relationship given by
+
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                R
+                
+                  f
+                
+              
+            
+          
+        
+        
+          [
+          
+            E
+            (
+            
+              P
+              
+                T
+              
+            
+            )
+            −
+            
+              
+                
+                  
+                    C
+                    o
+                    v
+                  
+                  (
+                  
+                    P
+                    
+                      T
+                    
+                  
+                  ,
+                  
+                    R
+                    
+                      M
+                    
+                  
+                  )
+                  (
+                  E
+                  (
+                  
+                    R
+                    
+                      M
+                    
+                  
+                  )
+                  −
+                  
+                    R
+                    
+                      f
+                    
+                  
+                  )
+                
+                
+                  
+                    V
+                    a
+                    r
+                  
+                  (
+                  
+                    R
+                    
+                      M
+                    
+                  
+                  )
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle P_{0}={\frac {1}{1+R_{f}}}\left[E(P_{T})-{\frac {\mathrm {Cov} (P_{T},R_{M})(E(R_{M})-R_{f})}{\mathrm {Var} (R_{M})}}\right]}
+  where 
+  
+    
+      
+        
+          P
+          
+            T
+          
+        
+      
+    
+    {\displaystyle P_{T}}
+   is the future price of the asset or portfolio.
+
+
+== Asset-specific required return ==
+The CAPM returns the asset-appropriate required return or discount rate—i.e. the rate at which future cash flows produced by the asset should be discounted given that asset's relative riskiness.
+Betas exceeding one signify more than average "riskiness"; betas below one indicate lower than average. Thus, a more risky stock will have a higher beta and will be discounted at a higher rate; less sensitive stocks will have lower betas and be discounted at a lower rate. Given the accepted concave utility function, the CAPM is consistent with intuition—investors (should) require a higher return for holding a more risky asset.
+Since beta reflects asset-specific sensitivity to non-diversifiable, i.e. market risk, the market as a whole, by definition, has a beta of one. Stock market indices are frequently used as local proxies for the market—and in that case (by definition) have a beta of one. An investor in a large, diversified portfolio (such as a mutual fund), therefore, expects performance in line with the market.
+
+
+== Risk and diversification ==
+The risk of a portfolio comprises systematic risk, also known as undiversifiable risk, and unsystematic risk which is also known as idiosyncratic risk or diversifiable risk. Systematic risk refers to the risk common to all securities—i.e. market risk. Unsystematic risk is the risk associated with individual assets. Unsystematic risk can be diversified away to smaller levels by including a greater number of assets in the portfolio (specific risks "average out"). The same is not possible for systematic risk within one market. Depending on the market, a portfolio of approximately 30–40 securities in developed markets such as the UK or US will render the portfolio sufficiently diversified such that risk exposure is limited to systematic risk only. In developing markets a larger number is required, due to the higher asset volatilities.
+A rational investor should not take on any diversifiable risk, as only non-diversifiable risks are rewarded within the scope of this model. Therefore, the required return on an asset, that is, the return that compensates for risk taken, must be linked to its riskiness in a portfolio context—i.e. its contribution to overall portfolio riskiness—as opposed to its "stand alone risk". In the CAPM context, portfolio risk is represented by higher variance i.e. less predictability. In other words, the beta of the portfolio is the defining factor in rewarding the systematic exposure taken by an investor.
+
+
+== Efficient frontier ==
+
+The CAPM assumes that the risk-return profile of a portfolio can be optimized—an optimal portfolio displays the lowest possible level of risk for its level of return. Additionally, since each additional asset introduced into a portfolio further diversifies the portfolio, the optimal portfolio must comprise every asset, (assuming no trading costs) with each asset value-weighted to achieve the above (assuming that any asset is infinitely divisible). All such optimal portfolios, i.e., one for each level of return, comprise the efficient frontier.
+Because the unsystematic risk is diversifiable, the total risk of a portfolio can be viewed as beta.
+
+
+== Assumptions ==
+All investors:
+Aim to maximize economic utilities (Asset quantities are given and fixed).
+Are rational and risk-averse.
+Are broadly diversified across a range of investments.
+Are price takers, i.e., they cannot influence prices.
+Can lend and borrow unlimited amounts under the risk free rate of interest.
+Trade without transaction or taxation costs.
+Deal with securities that are all highly divisible into small parcels (All assets are perfectly divisible and liquid).
+Have homogeneous expectations.
+Assume all information is available at the same time to all investors.
+
+
+== Problems ==
+In their 2004 review, economists Eugene Fama and Kenneth French argue that "the failure of the CAPM in empirical tests implies that most applications of the model are invalid".
+The traditional CAPM using historical data as the inputs to solve for a future return of asset i. However, the history may not be sufficient to use for predicting the future and modern CAPM approaches have used betas that rely on future risk estimates.
+Most practitioners and academics agree that risk is of a varying nature (non-constant). A critique of the traditional CAPM is that the risk measure used remains constant (non-varying beta). Recent research has empirically tested time-varying betas to improve the forecast accuracy of the CAPM.
+The model assumes that the variance of returns is an adequate measurement of risk. This would be implied by the assumption that returns are normally distributed, or indeed are distributed in any two-parameter way, but for general return distributions other risk measures (like coherent risk measures) will reflect the active and potential shareholders' preferences more adequately. Indeed, risk in financial investments is not variance in itself, rather it is the probability of losing: it is asymmetric in nature as in the alternative safety-first asset pricing model. Barclays Wealth have published some research on asset allocation with non-normal returns which shows that investors with very low risk tolerances should hold more cash than CAPM suggests.
+Some investors prefer positive skewness, all things equal, which means that these investors accept lower returns when returns are positively skewed. For example, Casino gamblers pay to take on more risk. The CAPM can be extended to include co-skewness as a priced factor, besides beta.
+The model assumes that all active and potential shareholders have access to the same information and agree about the risk and expected return of all assets (homogeneous expectations assumption).
+The model assumes that the probability beliefs of active and potential shareholders match the true distribution of returns. A different possibility is that active and potential shareholders' expectations are biased, causing market prices to be informationally inefficient. This possibility is studied in the field of behavioral finance, which uses psychological assumptions to provide alternatives to the CAPM such as the overconfidence-based asset pricing model of Kent Daniel, David Hirshleifer, and Avanidhar Subrahmanyam (2001).
+The model does not appear to adequately explain the variation in stock returns. Empirical studies show that low beta stocks offer higher returns than the model would predict. Some data to this effect was presented as early as a 1969 conference in Buffalo, New York in a paper by Fischer Black, Michael Jensen, and Myron Scholes. Either that fact is itself rational (which saves the efficient-market hypothesis but makes CAPM wrong), or it is irrational (which saves CAPM, but makes the EMH wrong – indeed, this possibility makes volatility arbitrage a strategy for reliably beating the market). The puzzling empirical relationship between risk and return is also referred to as the low-volatility anomaly.
+The model assumes that there are no taxes or transaction costs, although this assumption may be relaxed with more complicated versions of the model.
+The market portfolio consists of all assets in all markets, where each asset is weighted by its market capitalization. This assumes no preference between markets and assets for individual active and potential shareholders, and that active and potential shareholders choose assets solely as a function of their risk-return profile. It also assumes that all assets are infinitely divisible as to the amount which may be held or transacted.
+The market portfolio should in theory include all types of assets that are held by anyone as an investment (including works of art, real estate, human capital...) In practice, such a market portfolio is unobservable and people usually substitute a stock index as a proxy for the true market portfolio. Unfortunately, it has been shown that this substitution is not innocuous and can lead to false inferences as to the validity of the CAPM, and it has been said that, due to the impossibility of observing the true market portfolio, the CAPM might not be empirically testable. This was presented in greater depth in a paper by Richard Roll in 1977, and is generally referred to as Roll's critique. However, others find that the choice of market portfolio may not be that important for empirical tests. Other authors have attempted to document what the world wealth or world market portfolio consists of and what its returns have been.
+The model assumes economic agents optimize over a short-term horizon, and in fact investors with longer-term outlooks would optimally choose long-term inflation-linked bonds instead of short-term rates as this would be more risk-free asset to such an agent.
+The model assumes just two dates, so that there is no opportunity to consume and rebalance portfolios repeatedly over time. The basic insights of the model are extended and generalized in the intertemporal CAPM (ICAPM) of Robert Merton, and the consumption CAPM (CCAPM) of Douglas Breeden and Mark Rubinstein.
+CAPM assumes that all active and potential shareholders will consider all of their assets and optimize one portfolio. This is in sharp contradiction with portfolios that are held by individual shareholders: humans tend to have fragmented portfolios or, rather, multiple portfolios: for each goal one portfolio — see behavioral portfolio theory and Maslowian portfolio theory.
+Empirical tests show market anomalies like the size and value effect that cannot be explained by the CAPM. For details see the Fama–French three-factor model.Roger Dayala goes a step further and claims the CAPM is fundamentally flawed even within its own narrow assumption set, illustrating the CAPM is either circular or irrational. The circularity refers to the price of total risk being a function of the price of covariance risk only (and vice versa). The irrationality refers to the CAPM proclaimed ‘revision of prices’ resulting in identical discount rates for the (lower) amount of covariance risk only as for the (higher) amount of Total risk (i.e. identical discount rates for different amounts of risk. Roger’s findings have later been supported by Lai & Stohs.
+
+
+== See also ==
+Arbitrage pricing theory
+Carhart four-factor model
+Consumption beta (CCAPM)
+Fama–French three-factor model
+Intertemporal CAPM (ICAPM)
+Roy's safety-first criterion
+Low-volatility anomaly
+Build-Up Method
+Chance-constrained portfolio selection
+
+
+== References ==
+
+
+== Bibliography ==
+Black, Fischer., Michael C. Jensen, and Myron Scholes (1972). The Capital Asset Pricing Model: Some Empirical Tests, pp. 79–121 in M. Jensen ed., Studies in the Theory of Capital Markets. New York: Praeger Publishers.
+Black, F (1972). "Capital market equilibrium with restricted borrowing". J. Bus. 45 (3): 444–455. doi:10.1086/295472.
+Fama, Eugene F. (1968). "Risk, Return and Equilibrium: Some Clarifying Comments". Journal of Finance. 23 (1): 29–40. doi:10.1111/j.1540-6261.1968.tb02996.x.
+Fama, Eugene F.; French, Kenneth (1992). "The Cross-Section of Expected Stock Returns". Journal of Finance. 47 (2): 427–466. doi:10.1111/j.1540-6261.1992.tb04398.x.
+French, Craig W. (2003). The Treynor Capital Asset Pricing Model, Journal of Investment Management, Vol. 1, No. 2, pp. 60–72. Available at http://www.joim.com/
+French, Craig W. (2002). Jack Treynor's 'Toward a Theory of Market Value of Risky Assets' (December). Available at http://ssrn.com/abstract=628187
+Lintner, John (1965). "The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets". Review of Economics and Statistics. 47 (1): 13–37. doi:10.2307/1924119. JSTOR 1924119.
+Markowitz, Harry M. (1999). "The early history of portfolio theory: 1600–1960". Financial Analysts Journal. 55 (4): 5–16. doi:10.2469/faj.v55.n4.2281.
+Mehrling, Perry (2005). Fischer Black and the Revolutionary Idea of Finance. Hoboken, NJ: John Wiley & Sons, Inc.
+Mossin, Jan (1966). "Equilibrium in a Capital Asset Market". Econometrica. 34 (4): 768–783. doi:10.2307/1910098. JSTOR 1910098.
+Ross, Stephen A. (1977). The Capital Asset Pricing Model (CAPM), Short-sale Restrictions and Related Issues, Journal of Finance, 32 (177)
+Rubinstein, Mark (2006). A History of the Theory of Investments. Hoboken, NJ: John Wiley & Sons, Inc.
+Sharpe, William F. (1964). "Capital asset prices: A theory of market equilibrium under conditions of risk". Journal of Finance. 19 (3): 425–442. doi:10.1111/j.1540-6261.1964.tb02865.x. hdl:10.1111/j.1540-6261.1964.tb02865.x. S2CID 36720630.
+Stone, Bernell K. (1970) Risk, Return, and Equilibrium: A General Single-Period Theory of Asset Selection and Capital-Market Equilibrium. Cambridge: MIT Press.
+Tobin, James (1958). "Liquidity Preference as Behavior towards Risk" (PDF). The Review of Economic Studies. 25 (1): 65–86. doi:10.2307/2296205. JSTOR 2296205.
+Treynor, Jack L. (8 August 1961). Market Value, Time, and Risk. Vol. no.95-209. Unpublished manuscript.
+Treynor, Jack L. (1962). Toward a Theory of Market Value of Risky Assets. Unpublished manuscript. A final version was published in 1999, in Asset Pricing and Portfolio Performance: Models, Strategy and Performance Metrics. Robert A. Korajczyk (editor) London: Risk Books, pp. 15–22.
+Mullins Jr., David W. (January–February 1982). "Does the capital asset pricing model work?". Harvard Business Review: 105–113.

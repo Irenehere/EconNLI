@@ -1,0 +1,66 @@
+The Financial Stability Board (FSB) is an international body that monitors and makes recommendations about the global financial system. It was established after the G20 London summit in April 2009 as a successor to the Financial Stability Forum (FSF). The Board includes all G20 major economies, FSF members, and the European Commission. Hosted and funded by the Bank for International Settlements, the board is based in Basel, Switzerland, and is established as a not-for-profit association under Swiss law.The FSB represented the G20 leaders' first major international institutional innovation. U.S. Treasury Secretary Tim Geithner has described it as "in effect, a fourth pillar" of the architecture of global economic governance, alongside the International Monetary Fund, World Bank, and the World Trade Organization. 
+Unlike some other multilateral financial institutions, the FSB lacks a treaty basis and formal power, and relies instead on an informal and nonbinding memorandum of understanding for cooperation adopted by its members.
+
+
+== History ==
+
+
+=== Financial Stability Forum ===
+
+The FSB's predecessor organization, the Financial Stability Forum (FSF), had emerged from a group of finance ministries, central bankers, and international financial bodies, which had been founded in 1999 to promote international financial stability by the finance ministers and central bank governors of G7 countries. The FSF facilitated discussion and cooperation on supervision and surveillance of financial institutions, transactions, and events. FSF was managed by a small secretariat housed at the Bank for International Settlements in Basel, Switzerland.The FSF membership included about a dozen nations who participate through their central banks, financial ministries and departments, and securities regulators, including: the United States, Japan, Germany, the United Kingdom, France, Italy, Canada, Australia, the Netherlands and several other industrialized economies as well as several international economic organizations. At the G20 summit on 15 November 2008, it was agreed that the membership of the FSF will be expanded to include emerging economies, such as China. The 2009 G20 London summit decided to establish a successor to the FSF, the Financial Stability Board (FSB) to include members of the G20 who had not been FSF members.
+
+
+=== Founding ===
+The Financial Stability Forum met in Rome on 28–29 March 2008 in connection with the Bank for International Settlements. Members discussed current challenges in financial markets, and various policy options to address them from this point forward. At this meeting, the FSF discussed a report to be delivered to G7 Finance Ministers and Central Bank Governors in April 2008. The report identifies key weaknesses underlying current financial turmoil, and recommends actions to improve market and institutional resilience. The FSF discussed work underway at the International Monetary Fund and Organisation for Economic Co-operation and Development with regard to sovereign wealth funds. The International Monetary Fund is working closely with sovereign wealth funds to identify a set of voluntary best practice guidelines, and is focusing on the governance, institutional arrangements and transparency of sovereign wealth funds. On 12 April 2008, the FSF delivered a report to the G7 Finance Ministers detailing its recommendations:
+Strengthen prudential oversight of capital, liquidity, and risk management
+Enhance transparency and valuation
+Change the role and uses of credit ratings
+Strengthen the authorities' responsiveness to risks
+Make robust arrangements for dealing with stress in the financial system
+
+
+=== 2012 reforms ===
+The High-Level Panel on the Governance of the FSB was an independent initiative coordinated by Domenico Lombardi of the Brookings Institution  and funded by the Connect U.S. Fund. It assembled a high-level panel of experts, including Uganda's former Finance Minister and Central Bank Governor of Uganda Ezra Suruma, former Prime Minister of Kyrgyzstan Djoomart Otorbaev, former Finance Minister of Colombia José Antonio Ocampo, and Jacques Mistral, a former member of France's Council of Economic Analysis. Lombardi published the panel's final report in September 2011 as a Brookings Issue Paper, concluding that the FSB's governance had not evolved as quickly as its prominence. It made several recommendations:At the 2011 G20 Cannes summit, the G20 called for a strengthening of the FSB's capacity resources and governance by establishing the FSB "on an enduring organizational basis". In its 2012 report to the G20 Los Cabos summit, the FSB set out concrete steps to strengthen the organization's capacity, resources, and governance as well as establish it on an enduring organizational footing. The G20 endorsed the FSB's restated and amended charter. In January 2013, the FSB became a separate legal entity in the form of an association or "Verein" under Swiss law, when its Articles of Association were adopted by the FSB Plenary.The FSB is hosted and funded by the Bank for International Settlements under a five-year agreement executed between the two in January 2013. The bank bears the majority of the FSB's operating expenses, and the FSB does not have any assets, liabilities, or revenue.
+
+
+=== 2016 reforms ===
+In late July 2016, after the world markets had faced a number of crises, including terrorism and the UK's decision to leave the European Union, Carney sent a letter to Finance Ministers attending the G20 Summit and to Central Bank Governors outlining the reforms the FSB had made indicating that the global economy and financial system had "continued to function effectively" and had "weathered" the "spikes in uncertainty and risk aversion", confirming that "this resilience in the face of stress demonstrates the enduring benefits of G20 post-crisis reforms". He emphasized the value of specific reforms that had been implemented by the Financial Stability Board stating that these had "dampened aftershocks from [global financial crises] rather than amplifying them". He expressed confidence in the FSB's strategies, stating that "resilience in the face of stress demonstrates the enduring benefits of G20 post-crisis reforms".The FSB published the pre-G20 summit letter in light of the "two spikes in uncertainty and risk aversion" weathered by the global economy and financial system as of late July 2016, which outlined its priorities for 2016:
+
+Promote a coordinated program of reforms to deliver resilient sources of market-based finance, including addressing structural vulnerabilities associated with asset management
+Develop robust financial market infrastructure, including assessing policies on central counterparty resilience, recovery, and resolvability, and recommending any necessary improvements
+Support effective macroprudential arrangements by drawing lessons from countries that have applied macroprudential policy frameworks and tools, working in partnership with the International Monetary Fund and Bank for International SettlementsIn addition to the priorities listed above, the FSB also sought to:
+
+Pursue the full and consistent implementation of post-crisis reforms, while addressing material unintended consequences
+Address new and emerging vulnerabilities in the financial system, including those associated with conduct, correspondent banking and climate change
+Monitor the potentially systemic implications of financial technology innovations, and the systemic risks arising from operational disruptionsIn November 2016, the FSB and the board of the Bank for International Settlements agreed to a further five-year extension of the agreement from January 2018 to 2023.
+
+
+== Membership and leadership ==
+The FSB has 71 member institutions, comprising ministries of finance, central banks, and supervisory and regulatory authorities from 25 jurisdictions as well as 13 international organizations and standard-setting bodies, and 6 Regional Consultative Groups reaching out to 65 other jurisdictions around the world.Members include:
+
+Organizations
+Bank for International Settlements
+International Monetary Fund
+The World Bank
+Organisation for Economic Co-operation and Development
+European Commission
+European Central Bank
+ECB Banking SupervisionStandard-setting bodies
+Basel Committee on Banking Supervision
+Committee on Payments and Market Infrastructures
+Committee on the Global Financial System
+International Association of Insurance Supervisors
+International Accounting Standards Board
+International Organization of Securities Commissions
+
+
+=== Chairs ===
+As a 2011 Brookings Institution report noted, there are no set rules for how the FSB chair is selected, reflecting the FSB's newness as well as the "central banking culture of discretion and informality that permeates the institution".The list of the FSB's chairs from its inception is:
+
+Mario Draghi (2009–2011), Governor of the Bank of Italy
+Mark Carney (2011–2018), Governor of the Bank of England
+Randal Quarles (2018–2021), Vice Chair for Supervision of the U.S. Federal Reserve
+Klaas Knot (2021–present), President of De Nederlandsche Bank
+
+
+== References ==

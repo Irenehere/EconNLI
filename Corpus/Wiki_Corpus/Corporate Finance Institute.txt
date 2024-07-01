@@ -1,0 +1,48 @@
+Corporate Finance Institute (CFI) is an online training and education platform for finance and investment professionals, providing courses and certifications in financial modeling, valuation, and other corporate finance topics. These are the skills CFI deems important for modern finance - such as Microsoft Excel, presentation and visuals - as well as underlying knowledge of accounting and business strategy.
+CFI is a provider of certification programs including Financial Modeling & Valuation Analyst (FMVA), Commercial Banking & Credit Analyst (CBCA), Capital Markets and Securities Analyst (CMSA), and Business Intelligence and Data Analyst (BIDA). All CFI courses are delivered online.
+The organization was incorporated as a joint venture with MDA Training (MDA), a London-based financial training company founded in 1988 by Professor Walter Reid, who was one of the founding professors of the London Business School (LBS).In 2021, Corporate Finance Institute acquired Macabacus, a Microsoft Office Add-In for finance professionals, with tens of thousands of monthly and annual subscribers.
+
+
+== FMVA certification ==
+CFI offers the Financial Modeling and Valuation Analyst (FMVA) certification. Students may also choose individual courses based on their needs, without accessing the certification program. The analyst program includes 7 optional prerequisites to review the fundamentals, 11 core courses to build a foundation in financial modeling and valuation, plus a minimum of 3 elective courses that allow more focus on specific topics and skills (14 required courses in total). Students must earn a minimum passing grade of 80% in each course assessment and pass the final exam to complete the requirements of the program and to receive a certificate of completion.Curriculum topic distributions are as follows:
+Financial Modeling (25%)
+Finance Theory and Math (23%)
+Excel Skills (17%)
+Business Valuation (10%)
+Budgeting & Forecasting (8%)
+Presentations & Visual Outputs (8%)
+Accounting Knowledge (5%)
+Corporate and Business Strategy (4%)
+
+
+== CBCA certification ==
+CFI also offers the Commercial Banking and Credit Analyst (CBCA) certification which is designed for the credit analysts who are working in different banks, credit rating agency or insurance. The program includes 17 optional prerequisites to review the fundamentals and 15 core courses to build a foundation in credit analysis. Students must earn a minimum passing grade of 80% in each course assessment to complete the requirements for the program and to receive a certificate of completion.Curriculum topic distributions are as follows:
+Financial Analysis (39%)
+Credit Evaluation and Documentation (26%)
+Management & Business (16%)
+Risk Management (12%)
+Industry Analysis (7%)
+
+
+== BIDA certification ==
+Business Intelligence and Data Analyst (BIDA) 
+
+covers both BI and data science, helping develop skills in various related areas: data storage and collection, data transformation, data analysis and modeling, data visualization.
+
+
+== National Registry of CPE Sponsors with NASBA ==
+Corporate Finance Institute is registered with the National Association of State Boards of Accountancy (NASBA) as a sponsor of continuing professional education (CPE) on the National Registry of CPE Sponsors. Students are eligible to earn in total of 80 CPE credits upon successfully completing all courses in CFI's program.
+
+
+== See also ==
+Financial modelling
+Outline of finance  § Financial modeling
+Valuation (finance)
+Professional certification
+
+
+== References ==
+
+
+== External links ==
+Official website

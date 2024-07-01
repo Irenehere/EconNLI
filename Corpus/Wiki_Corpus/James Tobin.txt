@@ -1,0 +1,72 @@
+James Tobin (March 5, 1918 – March 11, 2002) was an American economist who served on the Council of Economic Advisers and consulted with the Board of Governors of the Federal Reserve System, and taught at Harvard and Yale Universities. He contributed to the development of key ideas in the Keynesian economics of his generation and advocated government intervention in particular to stabilize output and avoid recessions. His academic work included pioneering contributions to the study of investment, monetary and fiscal policy and financial markets. He also proposed an econometric model for censored dependent variables, the well-known tobit model.
+Along with fellow neo-Keynesian economist James Meade in 1977, Tobin proposed nominal GDP targeting as a monetary policy rule in 1980. Tobin received the Nobel Memorial Prize in Economic Sciences in 1981 for "creative and extensive work on the analysis of financial markets and their relations to expenditure decisions, employment, production and prices."
+Outside academia, Tobin was widely known for his suggestion of a tax on foreign exchange transactions, now known as the "Tobin tax." This was designed to reduce speculation in the international currency markets, which he saw as dangerous and unproductive.
+
+
+== Life and career ==
+
+
+=== Early life ===
+Tobin was born on March 5, 1918, in Champaign, Illinois. His father was Louis Michael Tobin (b. 1879), a journalist working at the University of Illinois at Urbana–Champaign. His father had fought in World War I, was a member of the first Greek organization at Illinois (Delta Tau Delta fraternity Beta Upsilon chapter), and was credited as the inventor of "Homecoming." His mother, Margaret Edgerton Tobin (b. 1893), was a social worker. Tobin attended the University Laboratory High School of Urbana, Illinois, a laboratory school in the University's campus.
+In 1935, on his father's advice, Tobin took the entrance exams for Harvard University. Despite no special preparation for the exams, he passed and was admitted with a national scholarship from the university. During his studies he first read Keynes' The General Theory of Employment, Interest and Money, published in 1936. Tobin graduated summa cum laude in 1939 with a thesis centered on a critical analysis of Keynes' mechanism for introducing equilibrium involuntary unemployment. His first published article, in 1941, was based on this senior thesis.Tobin immediately started graduate studies, also at Harvard, earning his AM degree in 1940. In 1941, he interrupted graduate studies to work for the Office of Price Administration and Civilian Supply and the War Production Board in Washington, D.C. The next year, after the United States entered World War II, he enlisted in the US Navy, spending the war as an officer on destroyers including (among possibly others) the USS Kearny (DD-432). At the end of the war he returned to Harvard and resumed studies, receiving his Ph.D. in 1947 with a thesis on the consumption function written under the supervision of Joseph Schumpeter. In 1947 Tobin was elected a Junior Fellow of Harvard's Society of Fellows, which allowed him the freedom and funding to spend the next three years studying and doing research.
+
+
+=== Academic activity and consultancy ===
+In 1950 Tobin moved to Yale University, where he remained for the rest of his career. He joined the Cowles Foundation, which moved to Yale in 1955, also serving as its president between 1955–1961 and 1964–1965. His main research interest was to provide microfoundations to Keynesian economics, with a special focus on monetary economics. One of his frequent collaborators was his Yale colleague William Brainard. In 1957 Tobin was appointed Sterling Professor of Economics at Yale.Besides teaching and research, Tobin was also strongly involved in the public life, writing on current economic issues and serving as an economic expert and policy consultant. During 1961–62, he served as a member of John F. Kennedy's Council of Economic Advisers, under the chairman Walter Heller, then acted as a consultant between 1962 and 1968. Here, in close collaboration with Arthur Okun, Robert Solow and Kenneth Arrow, he helped design the Keynesian economic policy implemented by the Kennedy administration. Tobin also served for several terms as a member of the Board of Governors of Federal Reserve System Academic Consultants and as a consultant of the US Treasury Department.Tobin was awarded the John Bates Clark Medal in 1955 and, in 1981, the Nobel Memorial Prize in Economics. He was a fellow of several professional associations, holding the position of president of the American Economic Association in 1971. He was an elected member of the American Academy of Arts and Sciences, the American Philosophical Society, and the United States National Academy of Sciences.In 1972 Tobin, along with fellow Yale economics professor William Nordhaus, published Is Growth  Obsolete?, an article that introduced the Measure of Economic Welfare as the first model for economic sustainability assessment, and economic sustainability measurement.
+In 1982–1983, Tobin was Ford Visiting Research Professor of Economics at the University of California, Berkeley. In 1988 he formally retired from Yale, but continued to deliver some lectures as Professor Emeritus and continued to write. He died on March 11, 2002, in New Haven, Connecticut.
+Tobin was a trustee of Economists for Peace and Security.
+
+
+=== Personal life ===
+James Tobin married Elizabeth Fay Ringo, a former M.I.T. student of Paul Samuelson, on September 14, 1946. They had four children: Margaret Ringo (born in 1948), Louis Michael (born in 1951), Hugh Ringo (born in 1953) and Roger Gill (born in 1956).  In late June, 2009, the family announced via a private email that Tobin's wife had died at the age of 90.
+
+
+=== Legacy ===
+In August 2009 in a roundtable interview in Prospect magazine, Adair Turner supported the idea of new global taxes on financial transactions, warning that the "swollen" financial sector paying excessive salaries had grown too big for society. Lord Turner's suggestion that a "Tobin tax" – named after James Tobin – should be considered for financial transactions made headlines around the world.
+Tobin's Tobit model of regression with censored endogenous variables (Tobin 1958a) is a standard econometric technique.  His "q" theory of investment (Tobin 1969), the Baumol–Tobin model of the transactions demand for money (Tobin 1956), and his model of liquidity preference as behavior toward risk (the asset demand for money) (Tobin 1958b) are all staples of economics textbooks.
+In his 1958 article Tobin also led the way in showing how to deal with utility maximization under uncertainty with an infinite number of possible states. As Palda explains "One way to get out of the mess of figuring out asset prices using a model of maximizing the expected utility of investing in stocks is to make assumptions about either preferences or the probabilities of the different possible states of the world. Nobellist James Tobin (1958) took this line and discovered that in some cases you do not need to worry about the utility of income in thousands of states, and the attached probabilities, to solve the consumer's choice on how to spread income among states. When preferences contain only a linear and a squared term (a case of diminishing returns) or the probabilities of different stock returns follow a normal distribution (an equation that contains a linear and squared terms as parameters), a simple formulation of a person's investment choices becomes possible. Under Tobin's assumptions we can reformulate the person's decision problem as being one of trading off risk and expected return. Risk, or more precisely the variance of your investment portfolio creates spread in the returns you expect. People are willing to assume more risk only if compensated by a higher level of expected return. One can thus think of a tradeoff people are willing to make between risk and expected return. They invest in risky assets to the point at which their willingness to trade off risk and return is equal to the rate at which they able to trade them off. It is difficult to exaggerate how brilliant is the simplification of the investment problem that flows from these assumptions. Instead of worrying about the investor's optimization problem in potentially millions of possible states of the world, one need only worry about how the investor can trade off risk and return in the stock market."
+
+
+== Publications ==
+Tobin, James (1941). "A note on the money wage problem". Quarterly Journal of Economics. 55 (3): 508–16. doi:10.2307/1885642. JSTOR 1885642.
+Tobin, James (1955). "A Dynamic Aggregative Model". Journal of Political Economy. 63 (2): 103–15. doi:10.1086/257652. S2CID 155030858.
+Tobin, James (1956). "The Interest-Elasticity of Transactions Demand For Cash". The Review of Economics and Statistics. 38 (3): 241–47. doi:10.2307/1925776. JSTOR 1925776. also: Google Scholar
+Tobin, James (1958a). "Estimation of relationships for limited dependent variables" (PDF). Econometrica. 26 (1): 24–36. doi:10.2307/1907382. JSTOR 1907382.
+Tobin, James (1958b). "Liquidity Preference as Behavior Towards Risk" (PDF). Review of Economic Studies. 25.1 (2): 65–86. doi:10.2307/2296205. JSTOR 2296205.
+Tobin, James (1961).  "Money, Capital, and Other Stores of Value,"  American Economic Review, 51(2), pp. 26–37. Reprinted in Tobin, 1987, Essays in Economics, v. 1, pp. 217–27. MIT Press.
+Tobin, James (1969). "A General Equilibrium Approach to Monetary Theory". Journal of Money, Credit, and Banking. 1 (1): 15–29. doi:10.2307/1991374. JSTOR 1991374. S2CID 154058316.
+Tobin, James (1970).   "Money and Income: Post Hoc Ergo Propter Hoc?" Quarterly Journal of Economics, 84(2), pp. 301–17.
+Tobin, James and William C. Brainard (1977a). "Asset Markets and the Cost of Capital". In Richard Nelson and Bela Balassa, eds., Economic Progress: Private Values and Public Policy (Essays in Honor of William Fellner), Amsterdam: North-Holland, 235–62.
+Tobin, James (1977b). "How Dead is Keynes?". Economic Inquiry. XV (4): 459–468. doi:10.1111/j.1465-7295.1977.tb01111.x.
+Tobin, James (1992).  "money",  The New Palgrave Dictionary of Finance and Money, v. 2, pp. 770–79 & in The New Palgrave Dictionary of Economics. 2008, 2nd Edition.  doi:10.1057/978-1-349-95121-5_2742-1 Reprinted in Tobin (1996), Essays in Economics, v. 4, pp. 139–163. MIT Press.
+Tobin, James, Essays in Economics,  MIT Press:v. 1 (1987), Macroeconomics. Scroll to chapter-preview links.v. 2 Consumption and Economics. Description.v. 3 (1987).  Theory and Policy (in 1989 paperback as Policies for Prosperity: Essays in a Keynesian Mode). Description and links.v. 4 (1996). National and International.  Links.
+Tobin, James, with Stephen S. Golub (1998).  Money, Credit, and Capital. Irwin/McGraw-Hill. TOC.
+Tobin, James (2008). "Monetary Policy". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.
+
+
+== See also ==
+Basic income
+Guaranteed minimum income
+Q Ratio (Tobin's Q ratio)
+Tobit model (Tobin's model for censored endogenous variables)
+Tobin tax
+
+
+== References ==
+
+
+== External links ==
+
+James Tobin at the Cowles Foundation site
+Short biography at nobel-winners.com
+IDEAS/RePEc
+John Mihaljevic's Equities and Tobin's Q Report
+The Q Ratio Sends a Modestly Bearish Long-Term Signal (July 2009) Archived 2013-01-18 at the Wayback Machine
+Tobin's Q Moderately Bullish on U.S. Equities (as of March 2009)
+The Manual of Ideas Launches Tobin's Q Research Service Based on James Tobin's Q Indicator
+Robert Huebscher on "The Market Valuation Q-uestion"
+"James Tobin (1918–2002)". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Appearances on C-SPAN
+"James Tobin". JSTOR.
+James Tobin Papers. Manuscripts and Archives, Yale University Library.
+James Tobin on Nobelprize.org

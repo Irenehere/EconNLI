@@ -1,0 +1,23 @@
+The spot market or cash market is a public financial market in which financial instruments or commodities are traded for immediate delivery. It contrasts with a futures market, in which delivery is due at a later date.  In a spot market, settlement normally happens in T+2 working days, i.e., delivery of cash and commodity must be done after two working days of the trade date.  A spot market can be through an exchange or over-the-counter (OTC).  Spot markets can operate wherever the infrastructure exists to conduct the transaction.
+
+
+== Exchange ==
+Securities (i.e. financial instruments) and commodities are traded on an exchange using, making, and possibly changing the current market price.
+
+
+== OTC ==
+In the OTC i.e., over the counter market, trades are based on contracts made directly between two parties, and not subject to the rules of an exchange. The contract terms are agreed between the parties and may be non-standard. The price will probably not be published.
+
+
+== Examples ==
+
+
+=== Energy spot ===
+The spot energy market allows producers of surplus energy to instantly locate available buyers for this energy, negotiate prices within milliseconds, and deliver energy in a short-term timeframe.  Spot markets can be either privately operated or controlled by industry organizations or government agencies.  They frequently attract speculators, since spot market prices are known to the public almost as soon as deals are transacted. Examples of energy spot markets for natural gas in Europe are the Title Transfer Facility (TTF) in the Netherlands and the National Balancing Point (NBP) in the United Kingdom.
+
+
+== See also ==
+Spot date
+
+
+== References ==

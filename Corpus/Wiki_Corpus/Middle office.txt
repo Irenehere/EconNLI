@@ -1,0 +1,19 @@
+The middle office is a team of employees working in a financial services institution. Financial services institutions can be divided into three sections: the front, the middle and the back office. The front office is composed of customer-facing employees such as sales personnel. The middle office is made up of the risk managers and the information technology managers who manage risk and maintain the information resources. The back office is composed of the human resources department, office managers and customer care representatives who provide support, administrative and payment services. Generally, the back and middle office involves non-revenue generating operations related to risk management and ensuring proper execution of transactions.
+The middle office plays numerous roles in financial services organisations and investment banking. It ensures that deals negotiated during financial transactions are processed, booked and fulfilled. Workers manage global agreements concerning business transactions, risk management, and profit and loss. They ensure that documents are completed according to agreements. The information technology middle office designs software to support trading strategies. It manages contracted software systems such as Reuters 3000 and Bloomberg for trading. The information technology middle office assists both the back and front offices by monitoring and capturing market and marketing information.
+
+
+== History ==
+The term middle office dates to 1868 as part of the origin of foreign exchange and Investment banking. Gold and silver were the standard measure of the global monetary system. Countries used these two metals when trading with other nations. During this period, the term middle office was used to refer to those employees working in financial institutions whose primary role was to calculate the profits and losses realised after trading.The meaning changed during the First World War, after the introduction of paper money in the international market. The term investment banking originated in America while in Britain this was referred to as merchant banking. These investment banks enabled government agencies and firms to raise money through issuing and selling of securities. These banks acted as intermediaries among trading customers. They advised companies on investments. Later, investment banks organized into front, middle and back offices.Since 2013, with the rise of regulation, more and more Hedge Funds or Asset Management companies are outsourcing their middle-office activities in order to share their costs or get access to a specific expertise. Financial software companies such as Hedgeguard can provide adapted middle office outsourcing service to answer this rising need.
+
+
+== Process ==
+Their work usually consists of calculating profits and losses through the computer information system. This section of the firm examines deal negotiated by the front office. They inspect deal terms, processing, and how the back office will close the deal. The middle office tracks risk, profits and losses. In some big companies, the middle office has legal support to validate the legality of novel agreements.
+
+
+== See also ==
+Front office
+Back office
+Investment banking § Middle office
+
+
+== References ==

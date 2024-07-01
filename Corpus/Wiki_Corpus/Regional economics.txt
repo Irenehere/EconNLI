@@ -1,0 +1,59 @@
+Regional economics is a sub-discipline of economics and is often regarded as one of the fields of the social sciences. It addresses the economic aspect of the regional problems that are spatially analyzable so that theoretical or policy implications can be the derived with respect to regions whose geographical scope ranges from local to global areas.
+Regional Economics: refer to the economic advantage of a geographical location and human activities of greatest height to contribute maximally to the general growth and prosperity of the region.
+
+
+== Origins ==
+Regional economics has shared many traditions with regional science, whose earlier development was propelled by Walter Isard and some economists' dissatisfaction with the existing regional economic analysis. Despite such a rather critical view of regional economics, however, it is hard to be denied that the "economic" approach to regional problems was and has been the most significant one throughout the development of regional science. As a sub-discipline of economics, it has also developed its independent traditions and approaches that conform with the subject matter or perspective of economics.
+Location theory, that had been separately developed in Germany and North America in the early 20th century, and the theory of external economies from "localized industries" (as described in Alfred Marshall's Principles of Economics (1890)) formed the theoretical basis of regional economics, which has played a central role in regional science. As the preface and the contents of August Lösch's Die räumliche Ordnung der Wirtschaft (Jena: Gustav Fischer, 1940; 2nd ed., 1944), whose English translation was made in 1954 by W. H. Woglom under the title of The Economics of Location, consistently showed, economic approach to (industrial and consumer) locations has been central in both regional economics and regional science. Harold Hotelling's spatial approach to economic competition, which was introduced in The Economic Journal in 1929 under the title of "Stability in Competition," and Edgar M. Hoover's Location Theory and the Shoe and Leather Industries (1937) and The Location of Economic Activity (1948) were United States scholars' representative contribution to theorizing and empirically verifying the regional problems from the viewpoint of economics. In his seminal paper, "Increasing Returns and Economic Geography," Journal of Political Economy, Paul Krugman (1991: 498) emphasized the importance of economic geography and regional economics for enriching economics concluding it with his statement of scholarly hope as follows: "Thus I hope that this paper will be a stimulus to a revival of research into regional economics and economic geography."
+
+
+== Definition ==
+Vinod Dubey (1964) summarized the following four approaches to define regional economics. The first approach is "to deny the possibility of isolating such a discipline." According to Vinod Dubey (1964), Harvey Stephen Perloff, who co-authored State and Local Finance in the National Economy (with Alvin Harvey Hansen) and Regions, Resources, and Economic Growth (with Edgar S. Dunn, Jr., Eric E. Lampard, and Richard F. Muth), denied the possibility for any break-up of regional studies or regional science into "parts parallel to the disciplines employed." The second approach is to conform with the definition of Lionel Charles Robbins (1932: 15), stated as "Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses," for the economic problems occurring in regions. The third approach is to define regional economics as a sub-discipline of economics that addresses spatial general equilibrium. This approach was emphasized by L. Lefeber and H. O. Nourse. The fourth approach is to define it as a sub-discipline of economics that addresses immobile resources. This view was supported by G. H. Borts (1960), J. L. Stein (1961), and J. R. Meyer (1963).
+In his Regional Economic Growth (1969), Horst Siebert viewed regional economics as the study of humans' economic behavior in space. Drawing from the definition of regional economics as the system of the scholarly answers to the question "What is where, and why--and so what?" in An Introduction to Regional Economics (New York: Alfred A. Knopf, 1971; 3rd ed., 1984) by Edgar M. Hoover and Frank Giarratanai, and from Dubey's (1964: 29) definition of regional economics as "the study of differentiation and interrelationships of areas in a universe of unevenly distributed and imperfectly mobile resources with particular emphasis in application on the planning of the social overhead capital investments to mitigate the social problems by these circumstances," it is definable as the study of the systems of how (much) and where to produce and redistribute what using scarce resources or public goods.
+
+
+== See also ==
+
+
+== External links ==
+
+
+=== Organizations ===
+Note: The list below is to be updated.
+
+American Real Estate and Urban Economics Association
+Australia New Zealand Regional Science Association International Inc (ANZRSAI Inc)
+Community and Regional Economics Network (CRENET)
+European Regional Science Association
+Mid-Continent Regional Science Association
+National Economic Development Organizations in the United States
+North American Regional Science Council
+Pacific Regional Science Conference Organization
+Regional and Urban Economics, Real Estate: Departments, Institutes and Research Centers in the World
+Regional Science Association International
+Regional Science Consortium at the Tom Ridge Environmental Center
+Regional Studies Association
+Southern Regional Science Association
+Western Regional Science Association
+
+
+=== Journals ===
+Note: The list below is to be updated.
+
+Spatial Economic Analysis
+Annals of Regional Science
+Canadian Journal of Regional Science
+Growth and Change
+Industrial Geographer
+International Regional Science Review
+Investigaciones Regionales (en español)
+Journal of Regional Analysis and Policy
+Journal of Regional Science
+Journal of Urban Economics
+Papers in Regional Science
+Regional Economies and Policies
+Regional Science and Urban Economics
+Regional Studies
+Review of Regional Studies
+Review of Urban & Regional Development Studies
+Regional Science Policy & Practice

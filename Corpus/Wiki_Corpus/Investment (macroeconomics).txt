@@ -1,0 +1,17 @@
+In macroeconomics, investment "consists of the additions to the nation's capital stock of buildings, equipment, software, and inventories during a year" or, alternatively, investment spending — "spending on productive physical capital such as machinery and construction of buildings, and on changes to inventories — as part of total spending" on goods and services per year.The types of investment include residential investment in housing that will provide a flow of housing services over an extended time, non-residential fixed investment in things such as new machinery or factories, human capital investment in workforce education, and inventory investment (the accumulation, intentional or unintentional, of goods inventories)
+In measures of national income and output, "gross investment" (represented by the variable I ) is a component of gross domestic product (GDP), given in the formula GDP = C + I + G + NX, where C is consumption, G is government spending, and NX is net exports, given by the difference between the exports and imports, X − M. Thus investment is everything that remains of total expenditure after consumption, government spending, and net exports are subtracted (i.e. I = GDP − C − G − NX ).
+"Net investment" deducts depreciation from gross investment. Net fixed investment is the value of the net increase in the capital stock per year.
+Fixed investment, as expenditure over a period of time (e.g., "per year"), is not capital but rather leads to changes in the amount of capital. The time dimension of investment makes it a flow. By contrast, capital is a stock—that is, accumulated net investment up to a point in time.
+
+
+== Determinants ==
+Investment is often modeled as a function of income and interest rates, given by the relation I =  f (Y, r), with the interest rate negatively affecting investment because it is the cost of acquiring funds with which to purchase investment goods, and with income positively affecting investment because higher income signals greater opportunities to sell the goods that physical capital can produce.
+In some research, investment is modeled as an increasing function of Tobin's q, which is the ratio between a physical asset's market value and its replacement value. If, for example, this ratio is greater than 1, machinery can be bought at one price and then generate output worth the larger amount that is reflected in its market value, giving positive economic profit.
+In some research, investment is modeled as an increasing function of the gap between the optimal capital stock and the current capital stock. Here the optimal capital stock is modeled as that which maximizes profit.
+
+
+== See also ==
+Inventory investment
+
+
+== References ==

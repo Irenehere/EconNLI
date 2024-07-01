@@ -1,0 +1,94 @@
+Applied mathematics is the application of mathematical methods by different fields such as physics, engineering, medicine, biology, finance, business, computer science, and industry. Thus, applied mathematics is a combination of mathematical science and specialized knowledge. The term "applied mathematics" also describes the professional specialty in which mathematicians work on practical problems by formulating and studying mathematical models.
+In the past, practical applications have motivated the development of mathematical theories, which then became the subject of study in pure mathematics where abstract concepts are studied for their own sake. The activity of applied mathematics is thus intimately connected with research in pure mathematics. 
+
+
+== History ==
+Historically, applied mathematics consisted principally of applied analysis, most notably differential equations; approximation theory (broadly construed, to include representations, asymptotic methods, variational methods, and numerical analysis); and applied probability. These areas of mathematics related directly to the development of Newtonian physics, and in fact, the distinction between mathematicians and physicists was not sharply drawn before the mid-19th century. This history left a pedagogical legacy in the United States: until the early 20th century, subjects such as classical mechanics were often taught in applied mathematics departments at American universities rather than in physics departments, and fluid mechanics may still be taught in applied mathematics departments. Engineering and computer science departments have traditionally made use of applied mathematics.
+
+
+== Divisions ==
+Today, the term "applied mathematics" is used in a broader sense. It includes the classical areas noted above as well as other areas that have become increasingly important in applications. Even fields such as number theory that are part of pure mathematics are now important in applications (such as cryptography), though they are not generally considered to be part of the field of applied mathematics per se.
+There is no consensus as to what the various branches of applied mathematics are. Such categorizations are made difficult by the way mathematics and science change over time, and also by the way universities organize departments, courses, and degrees.
+Many mathematicians distinguish between "applied mathematics", which is concerned with mathematical methods, and the "applications of mathematics" within science and engineering. A biologist using a population model and applying known mathematics would not be doing applied mathematics, but rather using it; however, mathematical biologists have posed problems that have stimulated the growth of pure mathematics. Mathematicians such as Poincaré and Arnold deny the existence of "applied mathematics" and claim that there are only "applications of mathematics." Similarly, non-mathematicians blend applied mathematics and applications of mathematics. The use and development of mathematics to solve industrial problems is also called "industrial mathematics".The success of modern numerical mathematical methods and software has led to the emergence of computational mathematics, computational science, and computational engineering, which use high-performance computing for the simulation of phenomena and the solution of problems in the sciences and engineering. These are often considered interdisciplinary.
+
+
+=== Applicable mathematics ===
+Sometimes, the term applicable mathematics is used to distinguish between the traditional applied mathematics that developed alongside physics and the many areas of mathematics that are applicable to real-world problems today, although there is no consensus as to a precise definition.Mathematicians often distinguish between "applied mathematics" on the one hand, and the "applications of mathematics" or "applicable mathematics" both within and outside of science and engineering, on the other. Some mathematicians emphasize the term applicable mathematics to separate or delineate the traditional applied areas from new applications arising from fields that were previously seen as pure mathematics. For example, from this viewpoint, an ecologist or geographer using population models and applying known mathematics would not be doing applied, but rather applicable, mathematics. Even fields such as number theory that are part of pure mathematics are now important in applications (such as cryptography), though they are not generally considered to be part of the field of applied mathematics per se. Such descriptions can lead to applicable mathematics being seen as a collection of mathematical methods such as real analysis, linear algebra, mathematical modelling, optimisation, combinatorics, probability and statistics, which are useful in areas outside traditional mathematics and not specific to mathematical physics.
+Other authors prefer describing applicable mathematics as a union of "new" mathematical applications with the traditional fields of applied mathematics. With this outlook, the terms applied mathematics and applicable mathematics are thus interchangeable.
+
+
+== Utility ==
+Historically, mathematics was most important in the natural sciences and engineering. However, since World War II, fields outside the physical sciences have spawned the creation of new areas of mathematics, such as game theory and social choice theory, which grew out of economic considerations. Further, the utilization and development of mathematical methods expanded into other areas leading to the creation of new fields such as mathematical finance and data science.
+The advent of the computer has enabled new applications: studying and using the new computer technology itself (computer science) to study problems arising in other areas of science (computational science) as well as the mathematics of computation (for example, theoretical computer science, computer algebra, numerical analysis). Statistics is probably the most widespread mathematical science used in the social sciences.
+
+
+== Status in academic departments ==
+Academic institutions are not consistent in the way they group and label courses, programs, and degrees in applied mathematics. At some schools, there is a single mathematics department, whereas others have separate departments for Applied Mathematics and (Pure) Mathematics. It is very common for Statistics departments to be separated at schools with graduate programs, but many undergraduate-only institutions include statistics under the mathematics department.
+Many applied mathematics programs (as opposed to departments) consist primarily of cross-listed courses and jointly appointed faculty in departments representing applications. Some Ph.D. programs in applied mathematics require little or no coursework outside mathematics, while others require substantial coursework in a specific area of application. In some respects this difference reflects the distinction between "application of mathematics" and "applied mathematics".
+Some universities in the U.K. host departments of Applied Mathematics and Theoretical Physics, but it is now much less common to have separate departments of pure and applied mathematics. A notable exception to this is the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, housing the Lucasian Professor of Mathematics whose past holders include Isaac Newton, Charles Babbage, James Lighthill, Paul Dirac, and Stephen Hawking.
+
+Schools with separate applied mathematics departments range from Brown University, which has a large Division of Applied Mathematics that offers degrees through the doctorate, to Santa Clara University, which offers only the M.S. in applied mathematics. Research universities dividing their mathematics department into pure and applied sections include MIT. Students in this program also learn another skill (computer science, engineering, physics, pure math, etc.) to supplement their applied math skills.
+
+
+== Associated mathematical sciences ==
+Applied mathematics is associated with the following mathematical sciences:
+
+
+=== Engineering and technological engineering ===
+With applications of applied geometry together with applied chemistry. 
+
+
+=== Scientific computing ===
+Scientific computing includes applied mathematics (especially numerical analysis), computing science (especially high-performance computing), and mathematical modelling in a scientific discipline.
+
+
+=== Computer science ===
+Computer science relies on logic, algebra, discrete mathematics such as graph theory, and combinatorics.
+
+
+=== Operations research and management science ===
+Operations research and management science are often taught in faculties of engineering, business, and public policy.
+
+
+=== Statistics ===
+Applied mathematics has substantial overlap with the discipline of statistics. Statistical theorists study and improve statistical procedures with mathematics, and statistical research often raises mathematical questions. Statistical theory relies on probability and decision theory, and makes extensive use of scientific computing, analysis, and optimization; for the design of experiments, statisticians use algebra and combinatorial design. Applied mathematicians and statisticians often work in a department of mathematical sciences (particularly at colleges and small universities).
+
+
+=== Actuarial science ===
+Actuarial science applies probability, statistics, and economic theory to assess risk in insurance, finance and other industries and professions.
+
+
+=== Mathematical economics ===
+Mathematical economics is the application of mathematical methods to represent theories and analyze problems in economics. The applied methods usually refer to nontrivial mathematical techniques or approaches. Mathematical economics is based on statistics, probability, mathematical programming (as well as other computational methods), operations research, game theory, and some methods from mathematical analysis. In this regard, it resembles (but is distinct from) financial mathematics, another part of applied mathematics.According to the Mathematics Subject Classification (MSC), mathematical economics falls into the Applied mathematics/other classification of category 91:
+
+Game theory, economics, social and behavioral scienceswith MSC2010 classifications for 'Game theory' at codes 91Axx Archived 2015-04-02 at the Wayback Machine and for 'Mathematical economics' at codes 91Bxx Archived 2015-04-02 at the Wayback Machine.
+
+
+=== Other disciplines ===
+The line between applied mathematics and specific areas of application is often blurred. Many universities teach mathematical and statistical courses outside the respective departments, in departments and areas including business, engineering, physics, chemistry, psychology, biology, computer science, scientific computation, information theory, and mathematical physics.
+
+
+== See also ==
+Engineering mathematics
+Society for Industrial and Applied Mathematics
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== Applicable mathematics ===
+The Morehead Journal of Applicable Mathematics hosted by Morehead State University
+Series on Concrete and Applicable Mathematics by World Scientific
+Handbook of Applicable Mathematics Series by Walter Ledermann
+
+
+== External links ==
+
+ Media related to Applied mathematics at Wikimedia Commons
+The Society for Industrial and Applied Mathematics (SIAM) is a professional society dedicated to promoting the interaction between mathematics and other scientific and technical communities. Aside from organizing and sponsoring numerous conferences, SIAM is a major publisher of research journals and books in applied mathematics.
+The Applicable Mathematics Research Group at Notre Dame University (archived 29 March 2013)
+Centre for Applicable Mathematics at Liverpool Hope University (archived 1 April 2018)
+Applicable Mathematics research group at Glasgow Caledonian University (archived 4 March 2016)

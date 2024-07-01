@@ -1,0 +1,57 @@
+Treasury management (or treasury operations) includes management of an enterprise's holdings, with the ultimate goal of managing the firm's liquidity and mitigating its operational-, financial- and reputational risk. Treasury Management includes a firm's collections, disbursements, concentration, investment and funding activities. In larger firms, it may also inhere the financial risk management function.
+In general, a company's treasury operations comes under the control of the CFO, Vice-president / Director of Finance, or Treasurer; and is handled on a day-to-day basis by the organization's treasury staff, controller, or comptroller.
+
+
+== Banks ==
+
+Most banks have whole departments devoted to treasury management and supporting their clients' needs in this area.  Smaller banks are increasingly launching and/or expanding their treasury management functions and offerings, because of the market opportunity afforded by the recent economic environment (with banks of all sizes focusing on the clients they serve best), availability of highly seasoned treasury management professionals, access to industry standard, third-party technology providers' products and services tiered according to the needs of smaller clients, and investment in education and other best practices. A number of independent treasury management systems (TMS) are available, allowing enterprises to conduct treasury management internally.
+Bank Treasuries may, in turn, have the following departments:
+
+A fixed income or money market desk that is devoted to buying and selling interest bearing securities.
+A foreign exchange desk that exchanges currencies as a service to the clients.
+A capital markets or equities desk that deals in shares listed on the stock market.In addition, the Treasury function may also have an asset liability management (ALM) desk that manages the risk of interest rate mismatch and liquidity; and a funds transfer pricing or pooling function that prices liquidity for business lines (asset sales teams) within the bank.
+Banks may or may not disclose the prices they charge for Treasury Management products.
+
+
+== Corporates ==
+For non-banking entities, the terms Treasury Management and Cash Management are sometimes used interchangeably, while, in fact, the scope of treasury management is larger (and includes funding and investment activities mentioned above). 
+The significant core functions of a corporate treasury department include:
+
+
+=== Cash and liquidity management ===
+Cash- and liquidity management is often described as treasury's 'primary duty.' Essentially, a company needs to be able to meet its financial obligations as they fall due, i.e. to pay employees, suppliers, lenders and shareholders. This can also be described as the need to maintain liquidity, or solvency of the company: a company needs to have the funds available that will enable it to stay in business. In addition to dealing with payment transactions; cash management also includes planning, account organisation, cash flow monitoring, managing bank accounts, electronic banking, pooling and netting as well as the functions of in-house banks.
+
+
+=== Risk management ===
+
+Risk management is the discipline of managing financial risks to allow the company to meet its financial obligations and ensure predictable business performance. The aim of Risk Management is to identify, measure, and manage risks that could have a significant impact  on the business' goals. It is important to note that the objective is not to eliminate all risk. Taking risk is a critical part of any business – "no risk no profit"; see risk appetite and enterprise risk management.
+It is important, however, to take risks only in areas that the business has competitive advantage. For example, an automotive company will want to take risks in design and engineering. but will want to avoid risks in currencies and interest rates. On the other hand, a bank will be in a position to take risks in currencies and interest rates but will avoid operational and regulatory risks.
+See Financial risk management § Application.
+Treasurers are then typically responsible for managing:
+
+Liquidity risk: the company is unable to fund itself or is unable to meet its obligations;
+Market risk (or price risk): changes in market prices (typically foreign exchange, interest rates, commodities) cause losses to the business;
+Credit risk: that a counterparty default causes loss to the business;
+Operational risk: fraud or error cause losses to the business.
+
+
+=== Corporate Finance ===
+Looking after contacts with banks and rating agencies, as well as discussions with credit insurers and, if applicable, suppliers concerning periods allowed for payment, in conjunction with the procurement of finance, also form part of the treasurer's core business.
+See Treasurer § Corporate treasurers and Cash flow forecasting § Corporate finance.
+
+
+== Regulation ==
+Concerns about systemic risk in the Over The Counter (OTC) derivatives markets, led to G20 leaders agreeing to new reforms being rolled out in 2015.   This new regulation, states that largely standardized OTC derivative contracts should be traded on electronic exchanges, and cleared centrally by Central Counterparty/Clearing House trades. Trades and their daily valuation should also be reported to authorized Trade Repositories and variation margins should be collected and maintained.
+
+
+== See also ==
+Association of Corporate Treasurers
+Cash management
+Certified Treasury Professional
+Financial risk management § Corporate finance
+Treasurer § Corporate treasurers
+Treasury management system
+Treasury services (IB product offering)
+
+
+== References ==

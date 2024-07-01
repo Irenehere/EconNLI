@@ -1,0 +1,113 @@
+In economics, imperfect competition refers to a situation where the characteristics of an economic market do not fulfil all the necessary conditions of a perfectly competitive market. Imperfect competition causes market inefficiencies, resulting in market failure. Imperfect competition usually describes behaviour of suppliers in a market, such that the level of competition between sellers is below the level of competition in perfectly competitive market conditions.The competitive structure of a market can significantly impact the financial performance and conduct of the firms competing within it. There is a causal relationship between competitive structure, behaviour and performance paradigm. Market structure can be determined by measuring the degree of suppliers' market concentration, which in turn reveals the nature of market competition. The degree of market power refers to  firms' ability to affect the price of a good and thus, raise the market price of the good or service above marginal cost (MC). 
+The greater extent to which price is raised above marginal cost, the greater the market inefficiency.  Competition in markets ranges from perfect competition to pure monopoly, where monopolies are imperfectly competitive markets with the greatest ability to raise price above marginal cost. 
+
+
+== Demand Curves ==
+The imperfect market faces a down-ward sloping demand curve in contrast to a perfectly elastic demand curve in the perfectly competitive market. This is because product differentiation and substitution occurs in the market. It is very easy for a consumer to change their seller which makes the consumer sensitive to price. The Law of demand also plays a very vital role in this market. As price increases, quantity demanded decreases for the given product. The demand curve in perfectly competitive and imperfectly competitive market has been illustrated in the image on the left.
+
+
+== Conditions of Perfect Competition ==
+Economists primarily use these assumptions of perfect competition for developing economic policy, including economic welfare and efficiency analysis.
+Suppliers are price takers, not price makers;
+Prices are influence by supply and demand such that P=MC, via Pareto Efficiency and the Invisible Hand;
+Large number of suppliers in the market such that no one firm has significant market power;
+Little to no barriers to entry and exit;
+Buyers and sellers have full information;
+Negligible search costs;
+Product homogeneity and divisibility;
+Lack of collusion between firms;
+Absence of externalities including increasing returns to scale.
+
+
+== Conditions of Imperfect Competition ==
+If ANY of the above conditions of perfect competition are dissatisfied, the market is imperfectly competitive. Moreover; 
+If ONE of the following conditions are satisfied within an economic market, the market is considered "imperfect":
+
+Market firms are NOT price takers and hence have control over the pricing of their goods and services;
+The market contains ONE seller or none;
+There are barriers to market entry and exit;
+There is information asymmetry between buyers and sellers;
+The market's goods and services are heterogeneous or differentiated.
+
+
+== Importance of Imperfect Competition ==
+Imperfect conditions theorists believe that in the aggregate economy no market has ever, or will ever, exhibit the conditions of perfect competition.
+Imperfect competition is inherent in capitalist economies. Firms are incentivised by profit, and hence undertake competitive strategies which reap the greatest revenue, by setting P > MC, at the cost of macroeconomic market efficiency. In the most extreme case of a monopoly, producers overcharge for their good or service, and underproduce. Thus, imperfectly competitive pricing strategies impact consumer preferences and purchases, business operation and revenue, and economic policy.
+Economists are in dispute over whether economic policy should be based on assumptions of perfect competition or imperfect competition. The imperfect theorists' perspective argues that policy based on assumptions of perfect competition is not effective as no market exists in purely perfectly competitive conditions. The argument for assuming perfect competition in economic decision making prevails on the widespread use of its logic, and the present lack of substantial and consistent imperfectly competitive economic models.
+
+
+=== Case Study: Foreign Trade ===
+Utilising the assumptions of perfect competition, foreign trade policies advocate for minimal intervention. In a perfectly competitive market, subsidies are harmful, and improvements to terms-of-trade are the first point of call for import protections.Conversely, imperfect competition assumptions promote intervention in the international trade market. Assuming imperfect competition allows for economic modelling of policies to contain imperfectly competitive firms' market power, or for enhancing monopoly power in situations of national interest.Thus, assumptions of perfect competition or imperfect competition have implications for policy choices and the efficacy of their effect, domestically and internationally. 
+
+
+== Range of Imperfectly Competitive Market Structures ==
+There are FOUR broad market structures that result in Imperfect Competition. The table below provides an overview of the characteristics of each of these market structures.
+
+
+=== Monopolistic competition ===
+
+A situation in which many firms with slightly different products compete. Moreover, firms compete by selling differentiated products that are highly substitutable, but are not perfect substitutes. Therefore, the level of market power under monopolistic competition is contingent on the degree of product differentiation. Monopolistic competition indicates that enterprises will participate in non-price competition. 
+Monopolistic competition is defined to describe two main characteristics of a market:
+1. There are many sellers in the market. Each vendor assumes that a slight change in the price of his product will not affect the overall market price. The belief that competitors will not change their prices just because a vendor in the market changes the price of a product.
+2. The sellers in the market all offer non-homogenous products. Companies have some control over the price of their products. Different types of consumers will buy the goods they like according to their subjective judgment.
+There are two types of product differentiation:
+
+Vertical differentiation: a product is unambiguously better or worse than a competing product (e.g. products that differ in efficiency or effectiveness); Customers select a product by using objective measures (e.g., price and quality) to rank their choices from best to worst.
+Horizontal differentiation: a product that only some consumers prefer to competing products (e.g. Mercedes Benz and BMW). Customers make subjective choices about what they want to buy, because they have no objective criteria to distinguish the quality of products. Location and taste are important criteria to determine whether they are consumers' special preferences.  Enterprises entering the monopolistic competition market may realize profit increase or loss in the short term, but will realize normal profit in the long run. If the price of the enterprise is high enough to offset the fixed cost above the marginal cost, it will attract the enterprise to enter the market to obtain more profits. Once the enterprise enters the market, it will occupy more market share by lowering the product price until economic profit reaches 0.Furthermore, each firm shares a small percentage of the total monopolistic market and hence, has limited control over the prevailing market price. Thus, each firms' demand curve (unlike perfect competition) is downward sloping, rather than flat. The main difference between monopoly competition and perfect competition lies in the paradox of excess capacity and price exceeding marginal cost.
+
+
+=== Oligopoly ===
+
+In an oligopoly market structure, the market is supplied by a small number of firms (more than 2). Moreover, there are so few firms that the actions of one firm can influence the actions of the other firms. Due to the small number of sellers in the market, any adjustment of product quantity and pricing by an enterprise will affect its competitors and thus affect the supply and pricing of the whole market. Oligopolies generally rely on non-price weapons, such as advertising or changes in product characteristics. Several large companies hold large market shares in industrial production, each facing a downward sloping demand, and the industry is often characterized by extensive non-price competition. The oligopoly considers price cuts to be a dangerous strategy. Businesses depend on each other. Under this market structure, the differentiation of products may or may not exist. The product they sell may or may not be differentiated and there are barriers to entry: natural, cost, market size or dissuasive strategies.
+In an oligopoly, barriers to market entry and exit are high. The major barriers are:
+
+Patents;
+Technology;
+Economies of scale;
+Government regulation (e.g. limiting the issuance of licences); and
+Firm name recognition.
+
+
+=== Duopoly ===
+
+A special type of Oligopoly, where two firms have exclusive power and control in a market. Both companies produce the same type of product and no other company produces the same or alternative product. The goods produced are circulated in only one market, and no other company intends to enter the market. The two companies have a lot of control over market prices. It is a particular case of oligopoly, so it can be said that it is an intermediate situation between monopoly and perfect competition economy. Hence, it is the most basic form of oligopoly.
+
+
+=== Monopoly ===
+
+In a monopoly market, there is only one supplier and many buyers; it is a firm with no competitors in its industry. If there is competition, it is mainly some marginal companies in the market, generally accounting for 30-40% of the market share. The decisions of marginal companies will not materially affect the profits of monopolists. The monopolist has market power, that is, it can influence the price of the good. Moreover, a monopoly is the sole provider of a good or service and thus, faces no competition in the output market. Hence, there are significant barriers to market entry, such as, patents, market size, control of some raw material. Examples of monopolies include public utilities (water, electricity) and Australia Post. 
+ A monopolist faces a downward sloping demand curve. Thus, as the monopolist raises its price, it sells fewer units. This suggests that when prices rise, even monopolists can drive away customers and sell fewer products. The difference between monopoly and other models is that monopolists can price their products without considering the reactions of other firms' strategic decisions.
+Hence, a monopolist's profit maximising quantity is where marginal cost equals marginal revenue. At this point:
+
+Output is below the level of a perfectly competitive market; but
+Price is above marginal cost.A firm is a Monopsonist if it faces small levels, or no competition in ONE of its output markets. A natural monopoly occurs when it is cheaper for a single firm to provide all of the market's output.Governments often restrict monopolies through high taxes or anti-monopoly laws as high profits obtained by monopolies may harm the interests of consumers. However, restricting the profits of monopolists may also harm the interests of consumers, because companies may create unsatisfied products that are not available in new markets. These products will bring positive benefits to consumers and create huge economic value for enterprises. Tax and antitrust laws can discourage companies from innovating.
+
+
+== Intensity of price competition ==
+The intensity of price competition is another good measure of how much control a firm within a market structure has over price. The Herfindahl Index provides a measure of firm concentration within a market and is the sum of the squared market shares of all the firms in the market (Herfindahl Index = (Si)2, where Si = market share of firm i) . Large companies are given more weight in the index (unlike the N-concentration ratio). The value of the index ranges from 1/N to 1 (where N is the number of firms in the market). Thus, the more concentrated the market is, the larger the value of the Herfindahl Index will be. The table below provides an overview of price competition and intensity in the four main classes of market structure.
+
+ 
+
+
+== Market Power ==
+Markets that face a downward sloping demand curve are said to have market power. This terms means that the markets have a certain power to decide their own price. This does not mean that the firm can decide the quantity they wish to sell. The firm can decide the price and the quantity is determined by the demand curve. The firm should expect a decrease in quantity demanded if they choose to increase the price. This market power emerges from factors such as:
+
+Control over inputs: If an organisation has authority over an important input it will have market power. For example, the company that look over the operation of Sydney Harbour in Sydney has market power.
+Copyrights and Patent: The health industry does research and development of major drugs. The government often issues patents in this industry so that a company can be the only legal seller of a drug.
+Network Economies: A product's value increases as more and more people use it. This often creates a Monopoly in that market. For example, Instagram's popularity increased as its usage increased amongst consumers.
+Government License: Yosemite Hospitality in the US has a Government license to run a lodge in the Yosemite National Park. This was done so that the government has the power to preserve the national park but it still created a monopoly in this market.
+
+
+=== See also ===
+Perfect competition
+Monopolistic competition
+Oligopoly
+Monopoly
+Monopsony
+Oligopsony
+Duopoly
+
+
+== References ==
+
+Massimiliano Vatiero (2009), "An Institutionalist Explanation of Market Dominances". World Competition. Law and Economics Review, 32(2):221-6.

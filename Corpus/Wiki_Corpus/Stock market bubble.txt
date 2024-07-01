@@ -1,0 +1,50 @@
+A stock market bubble is a type of economic bubble taking place in stock markets when market participants drive stock prices above their value in relation to some system of stock valuation.
+Behavioral finance theory attributes stock market bubbles to cognitive biases that lead to groupthink and herd behavior. Bubbles occur not only in real-world markets, with their inherent uncertainty and noise, but also in highly predictable experimental markets. In the laboratory, uncertainty is eliminated and calculating the expected returns should be a simple mathematical exercise, because participants are endowed with assets that are defined to have a finite lifespan and a known probability distribution of dividends.
+Other theoretical explanations of stock market bubbles have suggested that they are rational, intrinsic, and contagious.
+
+
+== History ==
+Historically, early stock market bubbles and crashes have their roots in financial activities of the 17th-century Dutch Republic, the birthplace of the first formal (official) stock exchange and market in history. The Dutch tulip mania, of the 1630s, is generally considered the world's first recorded speculative bubble (or economic bubble).
+
+
+== Examples ==
+Two famous early stock market bubbles were the Mississippi Scheme in France and  the South Sea bubble in England. Both bubbles came to an abrupt end in 1720, bankrupting thousands of unfortunate investors.  Those stories, and many others, are recounted in Charles Mackay's 1841 popular account, "Extraordinary Popular Delusions and the Madness of Crowds".
+
+The two most famous bubbles of the twentieth century, the bubble in American stocks in the 1920s just before the Wall Street Crash of 1929 and the following Great Depression, and the Dot-com bubble of the late 1990s, were based on speculative activity surrounding the development of new technologies.  The 1920s saw the widespread introduction of a range of technological innovations including radio, automobiles, aviation and the deployment of electrical power grids. The 1990s was the decade when Internet and e-commerce technologies emerged.
+Other stock market bubbles of note include the Encilhamento occurred in Brazil during the late 1880s and early 1890s, the Nifty Fifty stocks in the early 1970s, Taiwanese stocks in 1987–89 and Japanese stocks in the late 1980s.
+Stock market bubbles frequently produce hot markets in initial public offerings, since investment bankers and their clients see opportunities to float new stock issues at inflated prices.  These hot IPO markets misallocate investment funds to areas dictated by speculative trends, rather than to enterprises generating longstanding economic value.  Typically when there is an over abundance of IPOs in a bubble market, a large portion of the IPO companies fail completely, never achieve what is promised to the investors, or can even be vehicles for fraud.
+
+
+== Whether rational or irrational ==
+Emotional and cognitive biases (see behavioral finance) seem to be the causes of bubbles, but often, when the phenomenon appears, pundits try to find a rationale, so as not to be against the crowd. Thus, sometimes, people will dismiss concerns about overpriced markets by citing a new economy where the old stock valuation rules may no longer apply. This type of thinking helps to further propagate the bubble whereby everyone is investing with the intent of finding a greater fool.  Still, some analysts cite the wisdom of crowds and say that price movements really do reflect rational expectations of fundamental returns. Large traders become powerful enough to rock the boat, generating stock market bubbles.To sort out the competing claims between behavioral finance and efficient markets theorists, observers need to find bubbles that occur when a readily available measure of fundamental value is also observable.  The bubble in closed-end country funds in the late 1980s is instructive here, as are the bubbles that occur in experimental asset markets.  According to the efficient-market hypothesis, this doesn't happen, and so any data is wrong. For closed-end country funds, observers can compare the stock prices to the net asset value per share (the net value of the fund's total holdings divided by the number of shares outstanding).  For experimental asset markets, observers can compare the stock prices to the expected returns from holding the stock (which the experimenter determines and communicates to the traders).
+In both instances, closed-end country funds and experimental markets, stock prices clearly diverge from fundamental values.  Nobel laureate Dr. Vernon Smith has illustrated the closed-end country fund phenomenon with a chart showing prices and net asset values of the Spain Fund in 1989 and 1990 in his work on price bubbles.  At its peak, the Spain Fund traded near $35, nearly triple its Net Asset Value of about $12 per share.  At the same time the Spain Fund and other closed-end country funds were trading at very substantial premiums, the number of closed-end country funds available exploded thanks to many issuers creating new country funds and selling the IPOs at high premiums.
+It only took a few months for the premiums in closed-end country funds to fade back to the more typical discounts at which closed-end funds trade.  Those who had bought them at premiums had run out of "greater fools".  For a while, though, the supply of "greater fools" had been outstanding.
+
+
+== Positive feedback ==
+A rising price on any share will attract the attention of investors. Not all of those investors are willing or interested in studying the intrinsics of the share and for such people the rising price itself is reason enough to invest. In turn, the additional investment will provide buoyancy to the price, thus completing a positive feedback loop.
+Like all dynamic systems, financial markets operate in an ever-changing equilibrium, which translates into price volatility. However, a self-adjustment (negative feedback) takes place normally: when prices rise more people are encouraged to sell, while fewer are encouraged to buy. This puts a limit on volatility. However, once positive feedback takes over, the market, like all systems with positive feedback, enters a state of increasing disequilibrium. This can be seen in financial bubbles where asset prices rapidly spike upwards far beyond what could be considered the rational "economic value", only to fall rapidly afterwards.
+
+
+== Effect of incentives ==
+Investment managers, such as stock mutual fund managers, are compensated and retained in part due to their performance relative to peers. Taking a conservative or contrarian position as a bubble builds results in performance unfavorable to peers.  This may cause customers to go elsewhere and can affect the investment manager's own employment or compensation. The typical short-term focus of U.S. equity markets exacerbates the risk for investment managers that do not participate during the building phase of a bubble, particularly one that builds over a longer period of time. In attempting to maximize returns for clients and maintain their employment, they may rationally participate in a bubble they believe to be forming, as the benefits outweigh the risks of not doing so.
+
+
+== See also ==
+Business cycle
+Collective behavior
+Diversification (finance)
+Fictitious capital
+Financial modeling
+Irrational exuberance
+Market trend
+Stock market crash
+Histoire des bourses de valeurs (French)
+The Green Bubble
+
+
+== References ==
+
+
+== External links ==
+Accounts of the South Sea Bubble, John Law and the Mississippi Company can be found in Charles Mackay's classic Extraordinary Popular Delusions and the Madness of Crowds (1843) – available from Project Gutenberg. Warning: this reference has been widely criticized by historians.

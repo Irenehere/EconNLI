@@ -1,0 +1,41 @@
+Program trading is a type of trading in securities, usually consisting of baskets of fifteen stocks or more that are executed by a computer program simultaneously based on predetermined conditions. Program trading is often used by hedge funds and other institutional investors pursuing index arbitrage or other arbitrage strategies. There are essentially two reasons to use program trading, either because of the desire to trade many stocks simultaneously (for example, when a mutual fund receives an influx of money it will use that money to increase its holdings in the multiple stocks which the fund is based on), or alternatively to arbitrage temporary price discrepancies between related financial instruments, such as between an index and its constituent parts.According to the New York Stock Exchange, in 2006 program trading accounts for about 30% and as high as 46.4% of the trading volume on that exchange every day. Barrons breaks down its weekly figures for program trading between index arbitrage and other types of program trading. As of July 2012, program trading made up about 25% of the volume on the NYSE; index arbitrage made up less than 1%.
+
+
+== History ==
+Several factors help to explain the explosion in program trading. Technological advances spawned the growth of electronic communication networks. These electronic exchanges, like Instinet and Archipelago Exchange, allow thousands of buy and sell orders to be matched very rapidly, without human intervention.
+In addition, the proliferation of hedge funds with all their sophisticated trading strategies have helped drive program-trading volume.As technology advanced and access to electronic exchanges became easier and faster, program trading developed into the much broader algorithmic trading and high-frequency trading strategies employed by the investment banks and hedge funds.
+
+
+== Program trading firms ==
+Program Trading is a strategy normally used by large institutional traders. Barrons shows a detailed breakdown of the NYSE-published program trading figures each week, giving the figures for the largest program trading firms (such as investment banks).
+
+
+== Index arbitrage ==
+Index Arbitrage is a particular type of Program Trading which attempts to profit from price discrepancies between the basket of stocks which make up a stock index and its derivatives (such as the future based on that index). As of July 2012, it makes up less than 5% of the active Program Trading volume on the NYSE daily.
+
+
+=== Premium buy and sell execution levels ===
+The "premium" (PREM) or "spread" is the difference between the stock index future fair value and the actual index level. As the derivative is based on the index, the two should normally have a very close relationship. If there is a sufficiently large difference the arbitraging program will attempt to buy the relatively cheap level (whether that is the basket of stocks which make up the index or the index future) and sell the relatively expensive product, making money from the price discrepancy. The fair value calculation takes into account the time to expiration of the future contract, the dividends received from holding all the stocks, and the interest cost of buying the stocks.
+
+
+== Regulations ==
+
+
+=== United States ===
+In the United States, program trading has been subject to regulation and oversight in response to concerns about its impact on market stability and volatility. The New York Stock Exchange (NYSE) introduced rules known as trading curbs or circuit breakers to address extreme volatility caused by program trading during the 1980s and 90s. Depending on the severity of price movements, these rules can lead to the halt of all program trading or restrict the trading of sell portfolios to upticks only.In addition to NYSE rules, regulatory bodies like the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA) have established rules governing algorithmic trading strategies, including high-frequency trading (HFT). FINRA Rule 3110 (Supervision) outlines the regulatory requirements for member firms engaged in algorithmic strategies.
+
+
+=== China ===
+The China Securities Regulatory Commission (CSRC) has introduced a monitoring and reporting mechanism for program trading in Chinese stock markets in 2023. Stock exchanges in Shanghai, Shenzhen, and Beijing will implement rules on program trading and establish reporting systems to monitor unusual activities. These measures are set to take effect on October 9, 2023. The move comes in response to concerns about the role of computer-generated algorithms in stock trading, which have been blamed for exacerbating sell-offs in China's struggling stock markets.
+
+
+== See also ==
+Automated trading system
+Algorithmic trading
+High-frequency trading
+Alternative trading system
+Electronic trading platform
+Dark pool
+
+
+== References ==

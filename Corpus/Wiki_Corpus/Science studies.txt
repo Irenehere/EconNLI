@@ -1,0 +1,90 @@
+Science studies  is an interdisciplinary research area that seeks to situate scientific expertise in broad social, historical, and philosophical contexts. It uses various methods to analyze the production, representation and reception of scientific knowledge and its epistemic and semiotic role.
+Similarly to cultural studies, science studies are defined by the subject of their research and encompass a large range of different theoretical and methodological perspectives and practices. The interdisciplinary approach may include and borrow methods from the humanities, natural and formal sciences, from scientometrics to ethnomethodology or cognitive science. 
+Science studies have a certain importance for evaluation and science policy. Overlapping with the field of science, technology and society, practitioners study the relationship between science and technology, and the interaction of expert and lay knowledge in the public realm.
+
+
+== Scope ==
+The field started with a tendency toward navel-gazing: it was extremely self-conscious in its genesis and applications. From early concerns with scientific discourse, practitioners soon started to deal with the relation of scientific expertise to politics and lay people. Practical examples include bioethics, bovine spongiform encephalopathy (BSE), pollution, global warming, biomedical sciences, physical sciences, natural hazard predictions, the (alleged) impact of the Chernobyl disaster in the UK, generation and review of science policy and risk governance and its historical and geographic contexts. While staying a discipline with multiple metanarratives, the fundamental concern is about the role of the perceived expert in providing governments and local authorities with information from which they can make decisions.The approach poses various important questions about what makes an expert and how experts and their authority are to be distinguished from the lay population and interacts with the values and policy making process in liberal democratic societies.Practitioners examine the forces within and through which scientists investigate specific phenomena such as
+
+technological milieus, epistemic instruments and cultures and laboratory life (compare Karin Knorr-Cetina, Bruno Latour, Hans-Jörg Rheinberger)
+science and technology (e.g. Wiebe Bijker, Trevor Pinch, Thomas P. Hughes)
+science, technology and society (e.g. Peter Weingart, Ulrike Felt, Helga Nowotny and Reiner Grundmann)
+language and  rhetoric of science (e.g. Charles Bazerman, Alan G. Gross, Greg Myers)
+aesthetics of science and visual culture in science (u.a. Peter Geimer), the role of aesthetic criteria in scientific practice (compare mathematical beauty) and the relation between emotion, cognition and rationality in the development of science.
+semiotic studies of creative processes, as in the discovery, conceptualization, and realization of new ideas. or the interaction and management of different forms of knowledge in cooperative research.
+large-scale research and research institutions, e.g. particle colliders (Sharon Traweek)
+research ethics, science policy, and the role of the university.
+
+
+== History of the field ==
+In 1935, in a celebrated paper, the Polish sociologist couple Maria Ossowska and Stanisław Ossowski proposed the founding of a "science of science" to study the scientific enterprise, its practitioners, and the factors influencing their work. Earlier, in 1923, the Polish sociologist Florian Znaniecki had made a similar proposal.Fifty years before Znaniecki, in 1873, Aleksander Głowacki, better known in Poland by his pen name "Bolesław Prus", had delivered a public lecture – later published as a booklet – On Discoveries and Inventions, in which he said:
+
+Until now there has been no science that describes the means for making discoveries and inventions, and the generality of people, as well as many people of learning, believe that there never will be.  This is an error.  Someday a science of making discoveries and inventions will exist and will render services.  It will arise not all at once; first only its general outline will appear, which subsequent researchers will correct and elaborate, and which still later researchers will apply to individual branches of knowledge.
+It is striking that, while early 20th-century sociologist proponents of a discipline to study science and its practitioners wrote in general theoretical terms, Prus had already half a century earlier described, with many specific examples, the scope and methods of such a discipline.
+Thomas Kuhn's Structure of Scientific Revolutions (1962) increased interest both in the history of science and in science's philosophical underpinnings. Kuhn posited that the history of science was less a linear succession of discoveries than a succession of paradigms within the philosophy of science. Paradigms are broader, socio-intellectual constructs that determine which types of truth claims are permissible. 
+Science studies seeks to identify key dichotomies – such as those between science and technology, nature and culture, theory and experiment, and science and fine art – leading to the differentiation of scientific fields and practices. 
+The sociology of scientific knowledge arose at the University of Edinburgh, where David Bloor and his colleagues developed what has been termed "the strong programme". It proposed that both "true" and "false" scientific theories should be treated the same way. Both are informed by social factors such as cultural context and self-interest.Human knowledge, abiding as it does within human cognition, is ineluctably influenced by social factors.It proved  difficult, however, to address natural-science topics with sociological methods, as was abundantly evidenced by the US science wars. Use of a deconstructive approach (as in relation to works on arts or religion) to the natural sciences risked endangering not only the "hard facts" of the natural sciences, but the objectivity and positivist tradition of sociology itself. The view on scientific knowledge production as a (at least partial) social construct was not easily accepted.  Latour and others identified a dichotomy crucial for modernity, the division between nature (things, objects) as being transcendent, allowing to detect them, and society (the subject, the state) as immanent as being artificial, constructed. The dichotomy allowed for mass production of things (technical-natural hybrids) and large-scale global issues that endangered the distinction as such. E.g. We Have Never Been Modern asks to reconnect the social and natural worlds, returning to the pre-modern use of "thing"—addressing objects as hybrids made and scrutinized by the public interaction of people, things, and concepts.Science studies scholars such as Trevor Pinch and Steve Woolgar started already in the 1980s to involve "technology", and called their field "science, technology and society". This "turn to technology" brought science studies into communication with academics in science, technology, and society programs.
+More recently, a novel approach known as mapping controversies has been gaining momentum among science studies practitioners, and was introduced as a course for students in engineering, and architecture schools. In 2002 Harry Collins and Robert Evans asked for a third wave of science studies (a pun on The Third Wave), namely studies of expertise and experience answering to recent tendencies to dissolve the boundary between experts and the public.
+
+
+== Application to natural and man-made hazards ==
+
+
+=== Sheepfarming after Chernobyl ===
+A showcase of the rather complex problems of scientific information and its interaction with lay persons is Brian Wynne's study of Sheepfarming in Cumbria after the Chernobyl disaster. He elaborated on the responses of sheep farmers in Cumbria, who had been subjected to administrative restrictions because of radioactive contamination, allegedly caused by the nuclear accident at Chernobyl in 1986.  The sheep farmers suffered economic losses, and their resistance against the imposed regulation was being deemed irrational and inadequate.  It turned out that the source of radioactivity was actually the Sellafield nuclear reprocessing complex; thus, the experts who were responsible for the duration of the restrictions were completely mistaken. The example led to attempts to better involve local knowledge and lay-persons' experience and to assess its often highly geographically and historically defined background.
+
+
+=== Science studies on volcanology ===
+Donovan et al. (2012) used social studies of volcanology to investigate the generation of knowledge and expert advice on various active volcanoes. It contains a survey of volcanologists carried out during 2008 and 2009 and interviews with scientists in the UK, Montserrat, Italy and Iceland during fieldwork seasons. Donovan et al. (2012) asked the experts about the felt purpose of volcanology and what they considered the most important eruptions in historical time. The survey tries to identify eruptions that had an influence on volcanology as a science and to assess the role of scientists in policymaking.A main focus was on the impact of the Montserrat eruption 1997. The eruption, a classical example of the black swan theory directly killed (only) 19 persons. However the outbreak had major impacts on the local society and destroyed important infrastructure, as the island's airport. About 7,000 people, or two-thirds of the population, left Montserrat; 4,000 to the United Kingdom.The Montserrat case put immense pressure on volcanologists, as their expertise suddenly became the primary driver of various public policy approaches. The science studies approach provided valuable insights in that situation. There were various miscommunications among scientists. Matching scientific uncertainty (typical of volcanic unrest) and the request for a single unified voice for political advice was a challenge. The Montserrat Volcanologists began to use statistical elicitation models to estimate the probabilities of particular events, a rather subjective method, but allowing to synthesizing consensus and experience-based expertise step by step. It involved as well local knowledge and experience.Volcanology as a science currently faces a shift of its epistemological foundations of volcanology. The science started to involve more research into risk assessment and risk management. It requires new, integrated methodologies for knowledge collection that transcend scientific disciplinary boundaries but combine qualitative and quantitative outcomes in a structured whole.
+
+
+== Experts and democracy ==
+Science has become a major force in Western democratic societies, which depend on innovation and technology (compare Risk society) to address its risks. Beliefs about science can be very different from those of the scientists themselves, for reasons of e.g. moral values, epistemology or political motivations.The designation of expertise as authoritative in the interaction with lay people and decision makers of all kind is nevertheless challenged in contemporary risk societies, as suggested by scholars who follow Ulrich Beck's theorisation. The role of expertise in contemporary democracies is an important theme for debate among science studies scholars. Some argue for a more widely distributed, pluralist understanding of expertise (Sheila Jasanoff and Brian Wynne, for example), while others argue for a more nuanced understanding of the idea of expertise and its social functions (Collins and Evans, for example).
+
+
+== See also ==
+Logology (study of science)
+Merton thesis
+Public awareness of science
+Science and technology studies
+Science and technology studies in India
+Social construction of technology
+Sociology of scientific knowledge
+Sokal affair
+
+
+== References ==
+
+
+== Bibliography ==
+Science studies, generalBauchspies, W., Jennifer Croissant and Sal Restivo: Science, Technology, and Society: A Sociological Perspective (Oxford: Blackwell, 2005).
+Biagioli, Mario, ed. The Science Studies Reader (New York: Routledge, 1999).
+Bloor, David; Barnes, Barry & Henry, John, Scientific knowledge: a sociological analysis (Chicago: University Press, 1996).
+Gross, Alan. Starring the Text: The Place of Rhetoric in Science Studies. Carbondale: SIU Press, 2006.
+Fuller, Steve, The Philosophy of Science and Technology Studies (New York: Routledge, 2006).
+Hess, David J. Science Studies: An Advanced Introduction (New York: NYU Press, 1997).
+Jasanoff, Sheila, ed. Handbook of science and technology studies (Thousand Oaks, Calif.: SAGE Publications, 1995).
+Latour, Bruno, "The Last Critique," Harper's Magazine (April 2004): 15–20.
+Latour, Bruno. Science in Action. Cambridge. 1987.
+Latour, Bruno, "Do You Believe in Reality: News from the Trenches of the Science Wars," in Pandora's Hope (Cambridge: Harvard University Press, 1999)
+Vinck, Dominique. The Sociology of Scientific Work. The Fundamental Relationship between Science and Society (Cheltenham: Edward Elgar, 2010).
+Wyer, Mary; Donna Cookmeyer; Mary Barbercheck, eds. Women, Science and Technology: A Reader in Feminist Science Studies, Routledge 200
+Haraway, Donna J. "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective," in Simians, Cyborgs, and Women: the Reinvention of Nature (New York: Routledge, 1991), 183–201. Originally published in Feminist Studies, Vol. 14, No. 3 (Autumn, 1988), pp. 575–599. (available online)
+Foucault, Michel, "Truth and Power," in Power/Knowledge (New York: Pantheon Books, 1997), 109–133.
+Porter, Theodore M. Trust in Numbers: The Pursuit of Objectivity in Science and Public Life (Princeton: Princeton University Press, 1995).
+Restivo, Sal: "Science, Society, and Values: Toward a Sociology of Objectivity" (Lehigh PA: Lehigh University Press, 1994).Medicine and biologyDumit, Joseph (2003). Picturing Personhood: Brain Scans and Biomedical Identity. Princeton: Princeton University Press. ISBN 9780691113982.
+Fadiman, Anne (1997). The Spirit Catches You and You Fall Down. New York: Farrar, Straus and Giroux.
+Martin, Emily (1999). "Toward an Anthropology of Immunology: The Body as Nation State". In Biagioli, Mario (ed.). The Science Studies Reader. New York: Routledge. pp. 358–71.Media, culture, society and technologyHancock, Jeff. Deception and design: the impact of communication technology on lying behavior
+Lessig, Lawrence. Free Culture. Penguin USA, 2004. ISBN 1-59420-006-8
+MacKenzie, Donald. The Social Shaping of Technology Open University Press: 2nd ed. 1999.  ISBN 0-335-19913-5
+Mitchell, William J. Rethinking Media Change Thorburn and Jennings eds. Cambridge, Massachusetts : MIT Press, 2003.
+Postman, Neil. Amusing Ourselves to Death: Public Discourse in the Age of Show Business. Penguin USA, 1985. ISBN 0-670-80454-1
+Rheingold, Howard. Smart Mobs: The Next Social Revolution. Cambridge: Mass., Perseus Publishing. 2002.
+
+
+== External links ==
+
+Science Studies, ScienceDirect webpage hosting relevant academic articles
+Sociology of Science, an introductory article by Joseph Ben-David & Teresa A. Sullivan, Annual Review of Sociology, 1975
+The Incommensurability of Scientific and Poetic Knowledge
+University of Washington Science Studies Network

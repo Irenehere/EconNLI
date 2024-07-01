@@ -1,0 +1,222 @@
+Dynamic stochastic general equilibrium modeling (abbreviated as DSGE, or DGE, or sometimes SDGE) is a macroeconomic method which is often employed by monetary and fiscal authorities for policy analysis, explaining historical time-series data, as well as future forecasting purposes. DSGE econometric modelling applies general equilibrium theory and microeconomic principles in a tractable manner to postulate economic phenomena, such as economic growth and business cycles, as well as policy effects and market shocks.
+
+
+== Terminology ==
+As a practical matter, people often use the term "DSGE models" to refer to a particular class of econometric, quantitative models of business cycles or economic growth called real business cycle (RBC) models. Considered to be classically quantitative, DSGE models were initially proposed by Kydland & Prescott, and Long & Plosser; whereby Charles Plosser described RBC models as a precursor for DSGE modeling.As mentioned in the Introduction, DSGE models constitute the predominant framework of macroeconomic analysis through their coherent combination of micro-foundations and optimising economic behaviour of rational agents. DSGE models are multi-faceted which allow for a more comprehensive analysis of macro effects, and their defining characteristics indicative through their name, are as follows:
+
+Dynamic: The effect of current choices on future uncertainty makes the models dynamic and assigns a certain relevance to the expectations of agents in forming macroeconomic outcomes.
+Stochastic: The models take into consideration the transmission of random shocks into the economy and the subsequent economic fluctuations.
+General: referring to the entire economy as a whole (within the model) in that price levels and output levels are determined jointly. As opposed to a Partial equilibrium where price-levels are taken as given and only output-levels are determined within the model economy.
+Equilibrium: Subscribing to the Walrasian, General Competitive Equilibrium Theory, the model captures the interaction between policy actions and subsequent behaviour of agents’.
+
+
+== RBC modeling ==
+
+The formulation and analysis of monetary policy has undergone significant evolution in recent decades and the development of DSGE models has played a key role in this process. As was aforementioned DSGE models are seen to be an update of RBC (real business cycle) models.
+Early real business-cycle  models postulated an economy populated by a representative consumer who operates in perfectly competitive markets. The only sources of uncertainty in these models are "shocks" in technology. RBC theory builds on the neoclassical growth model, under the assumption of flexible prices, to study how real shocks to the economy might cause business cycle fluctuations.The "representative consumer" assumption can either be taken literally or reflect a Gorman aggregation of heterogenous consumers who are facing idiosyncratic income shocks and complete markets in all assets. These models took the position that fluctuations in aggregate economic activity are actually an "efficient response" of the economy to exogenous shocks.
+The models were criticized on a number of issues:
+
+Microeconomic data cast doubt on some of the key assumptions of the model, such as: perfect credit- and insurance-markets; perfectly friction-less labour markets; etc.
+They had difficulty in accounting for some key properties of the aggregate data, such as: the observed volatility in hours worked; the equity premium; etc.
+Open-economy versions of these models failed to account for observations such as: the cyclical movement of consumption and output across countries; the extremely high correlation between nominal and real exchange rates; etc.
+They are mute on many policy related issues of importance to macroeconomists and policy makers, such as the consequences of different monetary policy rules for aggregate economic activity.
+
+
+== The Lucas critique ==
+
+In a 1976 paper, Robert Lucas argued that it is naive to try to predict the effects of a change in economic policy entirely on the basis of relationships observed in historical data, especially highly aggregated historical data. Lucas claimed that the decision rules of Keynesian models, such as the fiscal multiplier, cannot be considered as structural, in the sense that they cannot be invariant with respect to changes in government policy variables, stating: 
+
+Given that the structure of an econometric model consists of optimal decision-rules of economic agents, and that optimal decision-rules vary systematically with changes in the structure of series relevant to the decision maker, it follows that any change in policy will systematically alter the structure of econometric models.This meant that, because the parameters of the models were not structural, i.e. not indifferent to policy, they would necessarily change whenever policy was changed. The so-called Lucas critique followed similar criticism undertaken earlier by Ragnar Frisch, in his critique of Jan Tinbergen's 1939 book Statistical Testing of Business-Cycle Theories, where Frisch accused Tinbergen of not having discovered autonomous relations, but "coflux" relations, and by Jacob Marschak, in his 1953 contribution to the Cowles Commission Monograph, where he submitted that
+
+In predicting the effect of its decisions (policies), the government...has to take account of exogenous variables, whether controlled by it (the decisions themselves, if they are exogenous variables) or uncontrolled (e.g. weather), and of structural changes, whether controlled by it (the decisions themselves, if they change the structure) or uncontrolled (e.g. sudden changes in people's attitude).The Lucas critique is representative of the paradigm shift that occurred in macroeconomic theory in the 1970s towards attempts at establishing micro-foundations.
+
+
+== Response to the Lucas critique ==
+In the 1980s,  macro models emerged that attempted to directly respond to Lucas through the use of rational expectations econometrics.In 1982, Finn E. Kydland and Edward C. Prescott created a real business cycle (RBC) model to "predict the  consequence of a particular policy rule upon the operating characteristics of the economy." The stated, exogenous, stochastic components in their  model are "shocks to technology" and "imperfect indicators of productivity." The shocks involve random fluctuations in the productivity level, which shift up or down the trend of economic growth. Examples of such shocks include innovations, the weather, sudden and significant price increases in imported energy sources, stricter environmental regulations, etc. The shocks directly change the effectiveness of capital and labour, which, in turn, affects the decisions of workers and firms, who then alter what they buy and produce. This eventually affects output.The authors stated that, since fluctuations in employment are central to the business cycle, the "stand-in consumer [of the model] values not only consumption but also leisure," meaning that unemployment movements essentially reflect the changes in the number of people who want to work. "Household-production theory," as well as "cross-sectional evidence" ostensibly support a "non-time-separable utility function that admits greater inter-temporal substitution of leisure, something which is needed," according to the authors, "to explain aggregate movements in employment in an equilibrium model." For the K&P model, monetary policy is irrelevant for economic fluctuations.
+The associated policy implications were clear: There is no need for any form of government intervention since, ostensibly, government policies aimed at stabilizing the business cycle are welfare-reducing. Since microfoundations are based on the preferences of decision-makers in the model, DSGE models feature a natural benchmark for evaluating the welfare effects of policy changes. Furthermore the integration of such microfoundations in DSGE modeling enables the model to accurately adjust to shifts in fundamental behaviour of agents and is thus regarded as an "impressive response" to the Lucas critique. The Kydland/Prescott 1982 paper is often considered the starting point of RBC theory and of DSGE modeling in general and its authors were awarded the 2004 Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel.
+
+
+== DSGE modeling ==
+
+
+=== Structure ===
+By applying dynamic principles, dynamic stochastic general equilibrium models contrast with the static models studied in applied general equilibrium models and some computable general equilibrium models.
+DSGE models employed by governments and central banks for policy analysis are relatively simple. Their structure is built around three interrelated sections including that of demand, supply, and the monetary policy equation. These three sections are formally defined by micro-foundations and make explicit assumptions about the behavior of the main economic agents in the economy, i.e. households, firms, and the government. The interaction of the agents in markets cover every period of the business cycle which ultimately qualifies the "general equilibrium" aspect of this model. The preferences (objectives) of the agents in the economy must be specified. For example, households might be assumed to maximize a utility function over consumption and labor effort. Firms might be assumed to maximize profits and to have a production function, specifying the amount of goods produced, depending on the amount of labor, capital and other inputs they employ. Technological constraints on firms' decisions might include costs of adjusting their capital stocks, their employment relations, or the prices of their products.
+Below is an example of the set of assumptions a DSGE is built upon:
+Perfect competition in all markets
+All prices adjust instantaneously
+Rational expectations
+No asymmetric information
+The competitive equilibrium is Pareto optimal
+Firms are identical and price takers
+Infinitely lived identical price-taking householdsto which the following frictions are added:
+
+Distortionary taxes (Labour taxes) – to account for not lump-sum taxation
+Habit persistence (the period utility function depends on a quasi-difference of consumption)
+Adjustment costs on investments – to make investments less volatile
+Labour adjustment costs – to account for costs firms face when changing the level of employmentThe models' general equilibrium nature is presumed to capture the interaction between policy actions and agents' behavior, while the models specify assumptions about the stochastic shocks that give rise to economic fluctuations. Hence, the models are presumed to "trace more clearly the shocks' transmission to the economy." This is exemplified in the below explanation of a simplified DSGE model.
+
+Demand defines real activity as a function of the nominal interest rate minus expected inflation, and of expectations regarding future real activity.
+The demand block confirms the general economic principle that temporarily high interest rates encourage people and firms to save instead of consuming/investing; as well as suggesting the likelihood of increased current spending under the expectation of promising future prospects, regardless of rate level. 
+  
+    
+      
+        Y
+        =
+        
+          f
+          
+            Y
+          
+        
+        (
+        
+          Y
+          
+            e
+          
+        
+        ,
+        i
+        −
+        
+          π
+          
+            e
+          
+        
+        ,
+        .
+        .
+        .
+        )
+      
+    
+    {\displaystyle Y=f^{Y}(Y^{e},i-\pi ^{e},...)}
+  
+Supply is dependant on demand through the input of the level of activity, which impacts the determination of inflation.
+E.g. In times of high activity, firms are required increase the wage rate in order to encourage employees to work greater hours which leads to a general increase in marginal costs and thus a subsequent increase in future expectation and current inflation. 
+  
+    
+      
+        π
+        =
+        
+          f
+          
+            π
+          
+        
+        (
+        
+          π
+          
+            e
+          
+        
+        ,
+        Y
+        ,
+        .
+        .
+        .
+        )
+      
+    
+    {\displaystyle \pi =f^{\pi }(\pi ^{e},Y,...)}
+  
+The demand and supply sections simultaneously contribute to a determination of monetary policy. The formal equation specified in this section describes the conditions under which the central bank determines the nominal interest rate. 
+  
+    
+      
+        i
+        =
+        
+          f
+          
+            i
+          
+        
+        (
+        π
+        −
+        
+          π
+          
+            ∗
+          
+        
+        ,
+        Y
+        ,
+        .
+        .
+        .
+        )
+      
+    
+    {\displaystyle i=f^{i}(\pi -\pi ^{*},Y,...)}
+  
+As such, general central bank behaviour is reflected through this i.e. raising the bank rate (short-term interest rates) in periods of rapid or unsustainable growth and vice versa.
+There is a final flow from monetary policy towards demand representing the impact of adjustments in nominal interest rates on real activity and subsequently inflation.As such a complete simplified model of the relationship between three key features is defined. This dynamic interaction between the endogenous variables of output , inflation, and the nominal interest rate, is fundamental in DSGE modelling.
+
+
+=== Schools ===
+Two schools of analysis form the bulk of DSGE modeling: the classic RBC models, and the New-Keynesian DSGE models that build on a structure similar to RBC models, but instead assume that prices are set by monopolistically competitive firms, and cannot be instantaneously and costlessly adjusted. Rotemberg & Woodford introduced this framework in 1997. Introductory and advanced textbook presentations of DSGE modeling are given by Galí (2008) and Woodford (2003).  Monetary policy implications are surveyed by Clarida, Galí, and Gertler (1999).
+The European Central Bank (ECB) has developed a DSGE model, called the Smets–Wouters model, which it uses to analyze the economy of the Eurozone as a whole. The Bank's analysts state that
+
+developments in the construction, simulation and estimation of DSGE models have made it possible to combine a rigorous microeconomic derivation of the behavioural equations of macro models with an empirically plausible calibration or estimation which fits the main features of the macroeconomic time series.The main difference between "empirical" DSGE models and the "more traditional macroeconometric models, such as the Area-Wide Model", according to the ECB, is that "both the parameters and the shocks to the structural equations are related to deeper structural parameters describing household preferences and technological and institutional constraints."
+The Smets-Wouters model uses seven Eurozone area macroeconomic series: real GDP; consumption; investment; employment; real wages; inflation; and the nominal, short-term interest rate. Using Bayesian estimation  and validation techniques, the bank's modeling is ostensibly able to compete with "more standard, unrestricted time series models, such as vector autoregression, in out-of-sample forecasting."
+
+
+== Criticism ==
+Bank of Lithuania Deputy Chairman Raimondas Kuodis disputes the very title of DSGE analysis: The models, he claims, are neither dynamic (since they contain no evolution of stocks of financial assets and liabilities), stochastic (because we live in the world of Keynesian fundamental uncertainty and, since future outcomes or possible choices are unknown, then risk analysis or expected utility theory are not very helpful), general (they lack a full accounting framework, a stock-flow consistent framework, which would significantly reduce the number of degrees of freedom in the economy), or even about equilibrium (since markets clear only in a few quarters).Willem Buiter, Citigroup Chief Economist, has argued that DSGE models rely excessively on an assumption of complete markets, and are unable to describe the highly nonlinear dynamics of economic fluctuations, making training in 'state-of-the-art' macroeconomic modeling "a privately and socially costly waste of time and resources". Narayana Kocherlakota, President of the Federal Reserve Bank of Minneapolis, wrote that
+
+many modern macro models...do not capture an intermediate messy reality in which market participants can trade multiple assets in a wide array of somewhat segmented markets. As a consequence, the models do not reveal much about the benefits of the massive amount of daily or quarterly re-allocations of wealth within financial markets. The models also say nothing about the relevant costs and benefits of resulting fluctuations in financial structure (across bank loans, corporate debt, and equity).N. Gregory Mankiw, regarded as one of the founders of New Keynesian DSGE modeling, has argued that
+
+New classical and New Keynesian research has had little impact on practical macroeconomists who are charged with [...] policy. [...] From the standpoint of macroeconomic engineering, the work of the past several decades looks like an unfortunate wrong turn.In the 2010 United States Congress hearings on macroeconomic modeling methods, held on 20 July 2010, and aiming to investigate why macroeconomists failed to foresee the financial crisis of 2007-2010, MIT professor of Economics Robert Solow criticized the DSGE models currently in use:
+
+I do not think that the currently popular DSGE models pass the smell test. They take it for granted that the whole economy can be thought about as if it were a single, consistent person or dynasty carrying out a rationally designed, long-term plan, occasionally disturbed by unexpected shocks, but adapting to them in a rational, consistent way... The protagonists of this idea make a claim to respectability by asserting that it is founded on what we know about microeconomic behavior, but I think that this claim is generally phony. The advocates no doubt believe what they say, but they seem to have stopped sniffing or to have lost their sense of smell altogether.Commenting on the Congressional session, The Economist asked whether agent-based models might better predict financial crises than DSGE models.Former Chief Economist and Senior Vice President of the World Bank Paul Romer has criticized the "mathiness" of DSGE models and dismisses the inclusion of "imaginary shocks" in DSGE models that ignore "actions that people take." Romer submits a simplified presentation of real business cycle (RBC) modelling, which, as he states, essentially involves two mathematical expressions: The well known formula of the quantity theory of money, and an identity that defines the growth accounting residual A as the difference between growth of output Y and growth of an index X of inputs in production.
+
+Δ%A = Δ%Y − Δ%XRomer assigned to residual A the label "phlogiston" while he criticized the lack of consideration given to monetary policy in DSGE analysis.Joseph Stiglitz finds "staggering" shortcomings in the "fantasy world" the models create and argues that "the failure [of macroeconomics] were the wrong microfoundations, which failed to incorporate key aspects of economic behavior". He suggested the models have failed to incorporate "insights from information economics and behavioral economics" and are "ill-suited for predicting or responding to a financial crisis." Oxford University's John Muellbauer put it this way: "It is as if the information economics revolution, for which George Akerlof, Michael Spence and Joe Stiglitz shared the Nobel Prize in 2001, had not occurred. The combination of assumptions, when coupled with the trivialisation of risk and uncertainty...render money, credit and asset prices largely irrelevant... [The models] typically ignore inconvenient truths." Nobel laureate Paul Krugman asked, "Were there any interesting predictions from DSGE models that were validated by events? If there were, I'm not aware of it."Austrian economists reject DSGE modelling. Critique of DSGE-style macromodeling is at the core of Austrian theory, where, as opposed to RBC and New Keynesian models where capital is homogeneous capital is heterogeneous and multi-specific and, therefore, production functions for the multi-specific capital are simply discovered over time. Lawrence H. White concludes that present-day mainstream macroeconomics is dominated by Walrasian DSGE models, with restrictions added to generate Keynesian properties:
+
+Mises consistently attributed the boom-initiating shock to unexpectedly expansive policy by a central bank trying to lower the market interest rate. Hayek added two alternate scenarios. [One is where] fresh producer-optimism about investment raises the demand for loanable funds, and thus raises the natural rate of interest, but the central bank deliberately prevents the market rate from rising by expanding credit. [Another is where,] in response to the same kind of increase the demand for loanable funds, but without central bank impetus, the commercial banking system by itself expands credit more than is sustainable.Hayek had criticized Wicksell for the confusion of thinking that establishing a rate of interest consistent with intertemporal equilibrium also implies a constant price level. Hayek posited that intertemporal equilibrium requires not a natural rate but the "neutrality of money," in the sense that money does not "distort" (influence) relative prices.Post-Keynesians reject the notions of macro-modelling typified by DSGE. They consider such attempts as "a chimera of authority," pointing to the 2003 statement by Lucas, the pioneer of modern DSGE modelling:  
+
+Macroeconomics in [its] original sense [of preventing the recurrence of economic disasters] has succeeded. Its central problem of depression prevention has been solved, for all practical purposes, and has in fact been solved for many decades.A basic Post Keynesian presumption, which Modern Monetary Theory proponents share, and which is central to Keynesian analysis, is that the future is unknowable and so, at best, we can make guesses about it that would be based broadly on habit, custom, gut-feeling, etc. In DSGE modeling, the central equation for consumption supposedly provides a way in which the consumer links decisions to consume now with decisions to consume later and thus achieves maximum utility in each period. Our marginal Utility from consumption today must equal our marginal utility from consumption in the future, with a  weighting parameter that refers to the valuation that we place on the future relative to today. And since the consumer is supposed to always the equation for consumption, this means that all of us do it individually, if this approach is to reflect the DSGE microfoundational notions of consumption. However, post-Keynesians state that: no consumer is the same with another in terms of random shocks and uncertainty of income (since some consumers will spend every cent of any extra income they receive while others, typically higher-income earners, spend comparatively little of any extra income); no consumer is the same with another in terms of access to credit; not every consumer really considers what they will be doing at the end of their life in any coherent way, so there is no concept of a "permanent lifetime income,", which is  central to DSGE models; and, therefore, trying to "aggregate" all these differences into one, single "representative agent" is impossible. These assumptions are similar to the assumptions made in the so-called Ricardian equivalence, whereby consumers are assumed to be forward looking and to internalize the government's budget constraints when making consumption decisions, and therefore taking decisions on the basis of practically perfect evaluations of available information.Extrinsic unpredictability, post-Keynesians state, has "dramatic consequences" for the standard, macroeconomic, forecasting, DSGE models used by governments and other institutions around the world. The mathematical basis of every DSGE model fails when distributions shift, since general-equilibrium theories rely heavily on ceteris paribus assumptions. They point to the Bank of England's explicit admission that none of the models they used and  evaluated coped well during the financial crisis, which, for the Bank, "underscores the role that large structural breaks can have in contributing to forecast failure, even if they turn out to be temporary."
+Christian Mueller points out that the fact that DSGE models evolve (see next section) constitutes a contradiction of the modelling approach in its own right and, ultimately, makes DSGE models subject to the Lucas critique. This contradiction arises because the economic agents in the DSGE models fail to account for the fact that the very models on the basis of which they form expectations evolve due to progress in economic research. While the evolution of DSGE models as such is predictable the direction of this evolution is not. In effect, Lucas' notion of the systematic instability of economic models carries over to DSGE models proving that they are not solving one of the key problems they are thought to be overcoming.
+
+
+== Evolution of viewpoints ==
+Federal Reserve Bank of Minneapolis president Narayana Kocherlakota acknowledges that DSGE models were "not very useful" for analyzing the financial crisis of 2007-2010  but argues that the applicability of these models is "improving," and claims that there is growing consensus among macroeconomists that DSGE models need to incorporate both "price stickiness and financial market frictions." Despite his criticism of DSGE modelling, he states that modern models are useful:
+
+In the early 2000s, ...[the] problem of fit disappeared for modern macro models with sticky prices. Using novel Bayesian estimation methods, Frank Smets and Raf Wouters demonstrated that a sufficiently rich New Keynesian model could fit European data well. Their finding, along with similar work by other economists, has led to widespread adoption of New Keynesian models for policy analysis and forecasting by central banks around the world.Still, Kocherlakota observes that in "terms of fiscal policy (especially short-term fiscal policy), modern macro-modeling seems to have had little impact. ... [M]ost, if not all, of the motivation for the fiscal stimulus was based largely on the long-discarded models of the 1960s and 1970s.In 2010, Rochelle M. Edge, of the Federal Reserve System Board of Directors, contested that the work of Smets & Wouters has "led DSGE models to be taken more seriously by central bankers around the world" so that "DSGE models are now quite prominent tools for macroeconomic analysis at many policy institutions, with forecasting being one of the key areas where these models are used, in conjunction with other forecasting methods."University of Minnesota professor of economics V.V. Chari has pointed out that state-of-the-art DSGE models are more sophisticated than their critics suppose:
+
+The models have all kinds of heterogeneity in behavior and decisions... people's objectives differ, they differ by age, by information, by the history of their past experiences.Chari also argued that current DSGE models frequently incorporate frictional unemployment, financial market imperfections, and sticky prices and wages, and therefore imply that the macroeconomy behaves in a suboptimal way which monetary and fiscal policy may be able to improve. Columbia University's Michael Woodford concedes that policies considered by DSGE models might not be Pareto optimal and they may as well not satisfy some other social welfare criterion. Nonetheless, in replying to Mankiw, Woodford argues that the DSGE models commonly used by central banks today and strongly influencing policy makers like Ben Bernanke, do not provide an analysis so different from traditional Keynesian analysis:
+
+It is true that the modeling efforts of many policy institutions can reasonably be seen as an evolutionary development within the macroeconomic modeling program of the postwar Keynesians; thus if one expected, with the early New Classicals, that adoption of the new tools would require building anew from the ground up, one might conclude that the new tools have not been put to use. But in fact they have been put to use, only not with such radical consequences as had once been expected.
+
+
+== See also ==
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Sources ==
+
+
+== Further reading ==
+Canova, Fabio (2007). Methods for Applied Macroeconomic Research. USA: Princeton University Press. ISBN 9780691115047.
+
+
+== Software ==
+DYNARE, free software for handling economic models, including DSGE
+IRIS, free, open-source toolbox for macroeconomic modeling and forecasting
+
+
+== External links ==
+Society for Economic Dynamics - Website of the Society for Economic Dynamics, dedicated to advances in DSGE modeling.
+DSGE-NET, an "international network for DSGE modeling, monetary and fiscal policy"

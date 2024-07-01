@@ -1,0 +1,9 @@
+In economics, the credibility revolution was the movement towards improved reliability in empirical economics through a focus on the quality of research design and the use of more experimental and quasi experimental methods. Developing in the 1990s and early 2000s, this movement was aided by advances in theoretical econometric understanding, but was especially driven by research studies that focused on the use of clean and credible research designs. 
+Studies driving the credibility revolution have made use of better quality data, and also econometric techniques such as difference in differences, instrumental variables, regression discontinuity, natural experiments, and even, when funding and opportunity permit, true randomized experiments. These techniques have made it possible (in principle) to distinguish between correlation and causality better than methods previously used.The 2021 Nobel Prize in Economics was awarded to David Card, Joshua Angrist and Guido Imbens for their work in fostering the credibility revolution. Alan Krueger is closely associated with the work of the three economists though died two years before the prize was awarded.The term "credibility revolution" was coined by Joshua Angrist in 2010, in his paper describing the changes in empirical economics that had occurred since the 1980s.
+
+
+== See also ==
+Experimental economics
+
+
+== References ==

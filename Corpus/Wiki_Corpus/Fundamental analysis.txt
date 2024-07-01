@@ -1,0 +1,74 @@
+Fundamental analysis, in accounting and finance, is the analysis of a business's financial statements (usually to analyze the business's assets, liabilities, and earnings); health; and competitors and markets. It also considers the overall state of the economy and factors including interest rates, production, earnings, employment, GDP, housing, manufacturing and management. There are two basic approaches that can be used: bottom up analysis and top down analysis. These terms are used to distinguish such analysis from other types of investment analysis, such as quantitative and technical.
+Fundamental analysis is performed on historical and present data, but with the goal of making financial forecasts. There are several possible objectives: 
+
+to conduct a company stock valuation and predict its probable price evolution;
+to make a projection on its business performance;
+to evaluate its management and make internal business decisions and/or to calculate its credit risk;
+to find out the intrinsic value of the share.
+
+
+== The two analytical models ==
+There are two basic methodologies investors rely upon when the objective of the analysis is to determine what stock to buy and at what price:
+
+Fundamental analysis. Analysts maintain that markets may incorrectly price a security in the short run but the "correct" price will eventually be reached. Profits can be made by purchasing or selling the wrongly priced security and then waiting for the market to recognize its "mistake" and reprice the security.
+Technical analysis. Analysts look at trends and price levels and believe that trend changes confirm sentiment changes. Recognizable price chart patterns may be found due to investors' emotional responses to price movements. Technical analysts mainly evaluate historical trends and ranges to predict future price movement.Investors can use one or both of these complementary methods for stock picking. For example, many fundamental investors use technical indicators for deciding entry and exit points. Similarly, a large proportion of technical investors use fundamental indicators to limit their pool of possible stocks to "good" companies.
+The choice of stock analysis is determined by the investor's belief in the different paradigms for "how the stock market works". For explanations of these paradigms, see the discussions at efficient-market hypothesis, random walk hypothesis, capital asset pricing model, Fed model, market-based valuation, and behavioral finance.
+Fundamental analysis includes:
+
+Economic analysis
+Industry analysis
+Company analysisThe intrinsic value of the shares is determined based upon these three analyses. It is this value that is considered the true value of the share. If the intrinsic value is higher than the market price,  buying the share is recommended. If it is equal to market price, it is recommended to hold the share; and if it is less than the market price, then one should sell the shares.
+
+
+== Use by different portfolio styles ==
+Investors may also use fundamental analysis within different portfolio management styles.
+
+Buy and hold investors believe that latching on to good businesses allows the investor's asset to grow with the business. Fundamental analysis lets them find "good" companies, so they lower their risk and the probability of wipe-out.
+Value investors restrict their attention to under-valued companies, believing that "it's hard to fall out of a ditch".  The values they follow come from fundamental analysis.
+Managers may use fundamental analysis to correctly value "good" and "bad" companies.
+Managers may also consider the economic cycle in determining whether conditions are "right" to buy fundamentally suitable companies.
+Contrarian investors hold that "in the short run, the market is a voting machine, not a weighing machine". Fundamental analysis allows an investor to make his or her own decision on value, while ignoring the opinions of the market.
+Managers may use fundamental analysis to determine future growth rates for buying high priced growth stocks.
+Managers may include fundamental factors along with technical factors in computer models (quantitative analysis).
+
+
+== Top-down and bottom-up approaches ==
+Investors using fundamental analysis can use either a top-down or bottom-up approach.
+
+The top-down investor starts their analysis with global economics, including both international and national economic indicators. These may include GDP growth rates, inflation, interest rates, exchange rates, productivity, and energy prices. They subsequently narrow their search to regional/ industry analysis of total sales, price levels, the effects of competing products, foreign competition, and entry or exit from the industry. Only then do they refine their search to the best business in the area being studied.
+The bottom-up investor starts with specific businesses, regardless of their industry/region, and proceeds in reverse of the top-down approach.
+
+
+== Procedures ==
+The analysis of a business's health starts with a financial statement analysis that includes financial ratios. It looks at dividends paid, operating cash flow, new equity issues and capital financing. The earnings estimates and growth rate projections published widely by Thomson Reuters and others can be considered either "fundamental" (they are facts) or "technical" (they are investor sentiment) based on perception of their validity.
+Determined growth rates (of income and cash) and risk levels (to determine the discount rate) are used in various valuation models. The foremost is the discounted cash flow model, which calculates the present value of the future:
+
+dividends received by the investor, along with the eventual sale price; (Gordon model)
+earnings of the company;
+or cash flows of the company.The simple model commonly used is the P/E ratio (price-to-earnings ratio). Implicit in this model of a perpetual annuity (time value of money) is that the inverse, or the E/P rate, is the discount rate appropriate to the risk of the business. Usage of the P/E ratio has the disadvantage that it ignores future earnings growth.
+Because the future growth of the free cash flow and earnings of a company drive the fair value of the company, the PEG ratio is more meaningful than the P/E ratio. The PEG ratio incorporates the growth estimates for future earnings, e.g. of the EBIT. Its validity depends on the length of time analysts believe the growth will continue and on the reasonableness of future estimates compared to earnings growth in the past years (oftentimes the last seven years). IGAR models can be used to impute expected changes in growth from current P/E and historical growth rates for the stocks relative to a comparison index.
+The amount of debt a company possesses is also a major consideration in determining its financial leverage and its health. This is meaningful because a company can reach higher earnings (and this way a higher return on equity and higher P/E ratio) simply by increasing the amount of net debt. This can be quickly assessed using the debt-to-equity ratio, the current ratio (current assets/current liabilities) and the return on capital employed (ROCE). The ROCE is the ratio of EBIT divided by the "capital employed", i.e. all the current and non-current assets less the operating liabilities, which is the real capital of the company no matter if it is financed by equity or debt.
+
+
+== Criticisms ==
+Economists such as Burton Malkiel suggest that neither fundamental analysis nor technical analysis is useful in outperforming the markets.
+
+
+== See also ==
+Stock valuation
+Lists of valuation topics
+Security analysis
+Piotroski F-score
+Stock selection criterion
+John Burr Williams#Theory
+Mosaic theory
+Chepakovich valuation model
+Financial forecast
+
+
+== References ==
+
+
+== External links ==
+MIT Financial-Management course notes
+Fundamental Analysis Works

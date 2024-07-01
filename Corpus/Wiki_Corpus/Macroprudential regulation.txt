@@ -1,0 +1,87 @@
+Macroprudential regulation is the approach to financial regulation that aims to mitigate risk to the financial system as a whole (or "systemic risk"). In the aftermath of the late-2000s financial crisis, there is a growing consensus among policymakers and economic researchers about the need to re-orient the regulatory framework towards a macroprudential perspective.
+
+
+== History ==
+As documented by Clement (2010), the term "macroprudential" was first used in the late 1970s in unpublished documents of the Cooke Committee (the precursor of the Basel Committee on Banking Supervision) and the Bank of England. But only in the early 2000s—after two decades of recurrent financial crises in industrial and, most often, emerging market countries—did the macroprudential approach to the regulatory and supervisory framework become increasingly promoted, especially by authorities of the Bank for International Settlements. A wider agreement on its relevance has been reached as a result of the late-2000s financial crisis.
+
+
+== Objectives and justification ==
+The main goal of macroprudential regulation is to reduce the risk and the macroeconomic costs of financial instability. It is recognized as a necessary ingredient to fill the gap between macroeconomic policy and the traditional microprudential regulation of financial institutions.
+
+
+=== Macroprudential vs microprudential regulation ===
+
+
+=== Theoretical rationale ===
+On theoretical grounds, it has been argued that a reform of prudential regulation should integrate three different paradigms: the agency paradigm, the externalities paradigm, and the mood swings paradigm. The role of macroprudential regulation is particularly stressed by the last two of them.  
+The agency paradigm highlights the importance of principal–agent problems. Principal-agent risk arises from the separation of ownership and control over an institution which may drive behaviors by the agents in control which would not be in the best interest of the principals (owners). The main argument is that in its role of lender of last resort and provider of deposit insurance, the government alters the incentives of banks to undertake risks. This is a manifestation of the principal-agent problem known as moral hazard. More concretely, the coexistence of deposit insurances and insufficiently regulated bank portfolios induces financial institutions to take excessive risks. This paradigm, however, assumes that risk arises from individual malfeasance, and hence it is at odds with the emphasis on the system as a whole which characterizes the macroprudential approach. 
+In the externalities paradigm, the key concept is called pecuniary externality. This is defined as an externality that arises when one economic agent's action affects the welfare of another agent through effects on prices. As argued by Greenwald and Stiglitz (1986), when there are distortions in the economy (such as incomplete markets or imperfect information), policy intervention can make everyone better off in a Pareto efficiency sense. Indeed, a number of authors have shown that when agents face borrowing constraints or other sorts of financial frictions, pecuniary externalities arise and different distortions appear, such as overborrowing, excessive risk-taking, and excessive levels of short-term debt. In these environments macroprudential intervention can improve social efficiency. An International Monetary Fund policy study argues that risk externalities between financial institutions and from them to the real economy are market failures that justify macroprudential regulation.In the mood swings paradigm, animal spirits (Keynes) critically influence the behavior of financial institutions' managers, causing excess of optimism in good times and sudden risk retrenchment on the way down. As a result, pricing signals in financial markets may be inefficient, increasing the likelihood of systemic trouble. A role for a forward-looking macroprudential supervisor, moderating uncertainty and alert to the risks of financial innovation, is therefore justified.
+
+
+== Indicators of systemic risk ==
+In order to measure systemic risk, macroprudential regulation relies on several indicators. As mentioned in Borio (2003), an important distinction is between measuring contributions to risk of individual institutions (the cross-sectional dimension) and measuring the evolution (i.e. procyclicality) of systemic risk through time (the time dimension). 
+The cross-sectional dimension of risk can be monitored by tracking balance sheet information—total assets and their composition, liability and capital structure—as well as the value of the institutions' trading securities and securities available for sale. Additionally, other sophisticated financial tools and models have been developed to assess the interconnectedness across intermediaries (such as CoVaR), and each institution's contribution to systemic risk (identified as "Marginal Expected Shortfall" in Acharya et al., 2011).To address the time dimension of risk, a wide set of variables are typically used, for instance: ratio of credit to GDP, real asset prices, ratio of non-core to core liabilities of the banking sector, and monetary aggregates. Some early warning indicators have been developed encompassing these and other pieces of financial data (see, e.g., Borio and Drehmann, 2009). Furthermore, macro stress tests are employed to identify vulnerabilities in the wake of a simulated adverse outcome.
+
+
+== Macroprudential tools ==
+A large number of instruments have been proposed; however, there is no agreement about which one should play the primary role in the implementation of macroprudential policy. 
+Most of these instruments are aimed to prevent the procyclicality of the financial system on the asset and liability sides, such as:
+
+Cap on loan-to-value ratio and loan loss provisions
+Cap on debt-to-income ratioThe following tools serve the same purpose, but additional specific functions have been attributed to them, as noted below:
+
+Countercyclical capital requirement – to avoid excessive balance-sheet shrinkage from banks in trouble.
+Cap on  leverage – to limit asset growth by tying banks' assets to their equity.
+Levy on non-core liabilities – to mitigate pricing distortions that cause excessive asset growth.
+Time-varying reserve requirement – as a means to control capital flows with prudential purposes, especially for emerging economies.To prevent the accumulation of excessive short-term debt: 
+
+Liquidity coverage ratio
+Liquidity risk charges that penalize short-term funding
+Capital requirement surcharges proportional to the size of maturity mismatch
+Minimum haircut requirements on asset-backed securitiesIn addition, different types of contingent capital instruments (e.g., "contingent convertibles" and "capital insurance") have been proposed to facilitate bank's recapitalization in a crisis event.).
+
+
+=== Implementation in Basel III ===
+Several aspects of Basel III reflect a macroprudential approach to financial regulation. Indeed, the Basel Committee on Banking Supervision acknowledges the systemic significance of financial institutions in the rules text. More concretely, under Basel III banks' capital requirements have been strengthened and new liquidity requirements, a leverage cap and a countercyclical capital buffer have been introduced. Also, the largest and most globally active banks are required to hold more and higher-quality capital, which is consistent with the cross-section approach to systemic risk.
+
+
+=== Effectiveness of macroprudential tools ===
+Macroprudential tools such as sector-specific capital buffers, loan-to-value limits or reserve requirements on deposits in local currencies are found to affect bank lending in the euro area. More specifically, a tightening in these tools in the country of residence of a foreign branch’s parent is found to be associated with an increase in lending by the foreign branch, with this finding applying to 16 euro-area countries. Additionally, euro-area domestic banks increase lending to the real sector, when loan-to-value limits are tightened abroad. Saurina (2009) argues that dynamic loan loss provisions (introduced in July 2000) are helpful in Spain to deal with procyclicality in banking, as banks are able to build up buffers for bad times.In the US, a foreign country’s tightening of loan-to-value ratios and local-currency reserve requirements is found to be associated with increased lending by US branches and subsidiaries of foreign banks. Moreover, tighter capital requirements outside the US shift domestic lending by US banks to the US and to other countries, while tighter US capital requirements reduce lending by US banks to foreign residents.Using data from the UK, Aiyar et al. (2012) find that unregulated banks in the UK have been able to partially offset changes in credit supply induced by time-varying minimum capital requirements over the regulated banks. Hence, they infer a potentially substantial "leakage" of macroprudential regulation of bank capital.For emerging markets, several central banks have applied macroprudential policies (e.g., use of reserve requirements) at least since the aftermath of the 1997 Asian financial crisis and the 1998 Russian financial crisis. Most of these central banks' authorities consider that such tools effectively contributed to the resilience of their domestic financial systems in the wake of the late-2000s financial crisis.
+
+
+== Costs of macroprudential regulation ==
+There is available theoretical and empirical evidence on the positive effect of finance on long-term economic growth. Accordingly, concerns have been raised about the impact of macroprudential policies on the dynamism of financial markets and, in turn, on investment and economic growth. Popov and Smets (2012) thus recommend that macroprudential tools be employed more forcefully during costly booms driven by overborrowing, targeting the sources of externalities but preserving the positive contribution of financial markets to growth. 
+In analyzing the costs of higher capital requirements implied by a macroprudential approach, Hanson et al. (2011) report that the long-run effects on loan rates for borrowers should be quantitatively small.Some theoretical studies indicate that macroprudential policies may have a positive contribution to long-run average growth. Jeanne and Korinek (2011), for instance, show that in a model with externalities of crises that occur under financial liberalization, well-designed macroprudential regulation both reduces crisis risk and increases long-run growth as it mitigates the cycles of boom and bust.
+
+
+== Institutional aspects ==
+The macroprudential supervisory authority may be given to a single entity, existing (such as central banks) or new, or be a shared responsibility among different institutions (e.g., monetary and fiscal authorities). Illustratively, the management of systemic risk in the United States is centralized in the Financial Stability Oversight Council (FSOC), established in 2010. It is chaired by the U.S. Secretary of the Treasury and its members include the Chairman of the Federal Reserve System and all the principal U.S. regulatory bodies. In Europe, the task has also been assigned since 2010 to a new body, the European Systemic Risk Board (ESRB), whose operations are supported by the European Central Bank. Unlike its U.S. counterpart, the ESRB lacks direct enforcement power.
+
+
+=== Role of central banks ===
+In pursuing their goal of preserving price stability, central banks remain attentive to the evolution of real and financial markets. Thus, a complementary relationship between macroprudential and monetary policy has been advocated, even if the macroprudential supervisory authority is not given to the central bank itself. This is well reflected by the organizational structure of institutions such as the Financial Stability Oversight Council and European Systemic Risk Board, where central bankers have a decisive participation. The question of whether monetary policy should directly counter financial imbalances remains more controversial, although it has indeed been proposed as a tentative supplementary tool for addressing asset price bubbles.
+
+
+=== International dimension ===
+On the international level, there are several potential sources of leakage and arbitrage from macroprudential regulation, such as banks' lending via foreign branches and direct cross-border lending. Also, as emerging economies impose controls on capital flows with prudential purposes, other countries may suffer negative spillover effects. Therefore, global coordination of macroprudential policies is considered as necessary to foster their effectiveness.
+
+
+== See also ==
+Bank regulation
+European Systemic Risk Board
+Financial regulation
+Financial Stability Board
+Financial Stability Oversight Council
+Microprudential regulation
+Office of Financial Research
+
+
+== References ==
+
+
+== Further reading and external links ==
+Conference Macroprudential regulation and policy (BIS - BoK, 2011), a collection of the articles presented during the conference "Macroprudential regulation and policy" jointly organised by the Bank for International Settlements and the Bank of Korea, on 16–18 January 2011.
+Survey of Systemic Risk Analytics (1/10/2012) Dimitrios Bisias, Mark Flood, Andrew W. Lo, Stavros Valavanis
+Office of Financial Research and the Financial Stability Oversight Council conference, entitled “The Macroprudential Toolkit: Measurement and Analysis”  December 1-2, 2011 Washington, DC.
+A literature review (Galati and Moessner, 2011)
+Report by the Working Group on Macroprudential Policy established by the Group of Thirty

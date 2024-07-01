@@ -1,0 +1,24 @@
+In most legal jurisdictions, a financial institution is required to obtain a banking licence before it is legally permitted to carry on a banking business. Besides other requirements, such a business is not permitted to contain in its name words such as bank, insurance, national, etc, unless it holds an appropriate licence. Depending on banking regulations, jurisdictions may offer different types of banking licences, such as:
+
+full banking licenses for general banking activities, such as taking deposits from the general public
+international banking licences (offshore banking licences), which prohibits any local business activities
+non-banking financial institution (NBFI) is an institution that provides financial services but has to comply with fewer regulations than one with a full banking licence.
+
+
+== License issuance ==
+Licenses are typically issued by a national banking regulator to applicant corporations that meet its banking requirements. The requirements may include minimum capital requirements, minimum number of directors, residence of shareholders, spread of shareholdings, disclosure of beneficial shareholders, besides other matters. These requirements may differ between jurisdictions, and may differ depending on the type of license being sought. Some jurisdictions, sometimes called tax havens, have a reputation for lax or corrupt standards in bank licensing, granting a license, for example, to shell companies, or to companies with nominee directors, or with dummy shareholders, etc.The granting of the license may involve a long, complex and expensive procedure, which may depend on the type of bank license being sought. There are a number of sectors in which banks may be involved. The general bank license allows a bank to engage in all banking activities, such as retail banking, merchant acquiring, cash management, asset management and trading. An applicant can apply for a limited banking license, such as an offshore banking license.
+
+
+== Banking licenses in the United States ==
+
+Most state legislatures in the United States ban general corporations from accepting banker's deposits, which covers any service where a general corporation acts as a funds drawee that transfers current funds (i.e., credit payable upon demand) to make payments as a substitute for coins on behalf of an account holder. Historically, in some states, this ban did not extend to a sole proprietor acting as a banker.
+One argument for justifying the policy of requiring banking licenses under the U.S. Constitution is that bankers credit sometimes interferes with the regulation of the value of coins, and therefore it is necessary and proper to make laws which regulate banking.
+U.S. states tend to include a license to conduct the banking business as part of the standard terms of the corporate franchise in the state bank charters of incorporation. The license may be implied by a reference in the charter application to the bank being created "under" the state banking law. Federal depository institutions such as National Banks, or federally chartered credit unions derive their authority from federal statutory charter law. Opening or operating a bank also requires regulatory compliance, which may include Federal Deposit Insurance Corporation (FDIC) approval for coverage and opening an account at a Federal Reserve Bank (or otherwise establishing a facility to settle checks via settlement with Federal Reserve Bank issued credit).
+If a bank wishes to perform any substantial fiduciary services, such as trust department services, or acting as a securities holding intermediary, then the bank must apply for an additional special license for trust powers. Depending on the specifics of the bank charter, these licenses are available variously from FDIC, Federal Reserve Board of Governors, or state regulators. Another option for such a bank is to create a State-chartered Trust Company and hold it as a subsidiary corporation.
+
+
+== See also ==
+Finance
+
+
+== References ==

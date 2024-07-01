@@ -1,0 +1,44 @@
+Emi Nakamura is a Canadian-American economist. She is the Chancellor's Professor of Economics at University of California, Berkeley. Nakamura is a research associate and co-director of the Monetary Economics Program of the National Bureau of Economic Research, and a co-editor of the American Economic Review.
+
+
+== Education ==
+Nakamura graduated summa cum laude from Princeton University with an A.B. in economics in 2001, completing a senior thesis titled "An Economy with Monetary Business Cycles" under the supervision of Michael Woodford. Nakamura then went on to pursue graduate studies in economics at Harvard University, receiving a Ph.D. in economics in 2007 after completing her doctoral dissertation, titled "Price Adjustment, Pass-through and Monetary Policy", under the supervision of Robert Barro and Ariel Pakes.
+
+
+== Research ==
+Nakamura's research focuses on empirical issues in macroeconomics, including price stickiness, the impact of fiscal shocks, and measurement errors in official statistics. Her citation for the John Bates Clark Medal from the American Economic Association states that Nakamura has "greatly increased our understanding of price-setting by firms and the effects of monetary and fiscal policies", and cited her "creativity in suggesting new sources of data to address long-standing questions". Nakamura is a prominent figure in the field of new Keynesian economics, which incorporates microeconomic theories and ideas and places them into macroeconomic theories. Nakamura demonstrates this in her work, “Five facts about prices”, by including microdata from the Bureau of Labor Statistics to prove macroeconomic ideas.In her most cited work, "Five facts about prices", Nakamura and Jón Steinsson showed that many measured price changes are due to temporary sales, scheduled far in advance, rather than happening as dynamic responses to economic conditions. This suggested that even though economic data features frequent price changes, this can be compatible with macroeconomic models featuring substantial price rigidity. In another highly cited work, "Fiscal stimulus in a monetary union", she and Jón Steinsson use variation in United States government military spending across states to estimate the open-economy government spending multiplier, finding values substantially higher than one. This confirms the prediction of Keynesian macroeconomic models that fiscal stimulus can have substantial effects on output, particularly at the zero lower bound.
+
+
+== Recognition ==
+She was awarded the John Bates Clark Medal, and was elected as a member of the American Academy of Arts and Sciences in 2019. She has been awarded a National Science Foundation Career Grant and Sloan Research Fellowship, and was the 2014 recipient of the Elaine Bennett Research Prize, She was also named one of the top 25 economists under 45 in 2014 by the International Monetary Fund, and named one of "the decade’s eight best young economists" in 2018 by The Economist. In 2021, she was named a Fellow of the Econometric Society.
+
+
+== Personal life ==
+Nakamura is married to fellow economist and frequent co-author Jón Steinsson, with whom she has two children. She is the granddaughter of economist Guy Orcutt, and the daughter of economists Alice Nakamura and Masao Nakamura.
+
+
+== Selected works ==
+
+
+=== Inflation and price dispersion ===
+Nakamura, Emi; Steinsson, Jón (2008). "Five facts about prices: A reevaluation of menu cost models" (PDF). The Quarterly Journal of Economics. 123 (4): 1415–1464. doi:10.1162/qjec.2008.123.4.1415. JSTOR 40506213. S2CID 1576112.
+Nakamura, Emi; Steinsson, Jón; Sun, Patrick; Villar, Daniel (2018). "The Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation" (PDF). Quarterly Journal of Economics. 133 (4): 1933–1908. doi:10.1093/qje/qjy017. S2CID 14408509.
+
+
+=== Monetary policy ===
+Nakamura, Emi (2018). "High-Frequency Identification of Monetary Non-Neutrality: The Information Effect" (PDF). Quarterly Journal of Economics. 133 (3): 1283–1330. doi:10.1093/qje/qjy004. S2CID 30206128.
+McKay, Alisdair; Nakamura, Emi; Steinsson, Jón (2016). "The Power of Forward Guidance Revisited" (PDF). American Economic Review. 106 (10): 3133–3158. doi:10.1257/aer.20150063. S2CID 54010965.
+Nakamura, Emi; Steinsson, Jón (2010). "Monetary non-neutrality in a multisector menu cost model" (PDF). The Quarterly Journal of Economics. 125 (3): 961–1013. doi:10.1162/qjec.2010.125.3.961. JSTOR 27867504. S2CID 9417107. Archived from the original (PDF) on February 13, 2020.
+Nakamura, Emi; Zerom, D (2010). "Accounting for incomplete pass-through" (PDF). The Review of Economic Studies. 77 (3): 1192–1230. doi:10.1111/j.1467-937x.2009.589.x. JSTOR 40835861. S2CID 6178966.
+Nakamura, Emi; Dupraz, Stéphane; Steinsson, Jón (October 2019). A Plucking Model of Business Cycles (PDF) (Working Paper). National Bureau of Economic Research. doi:10.3386/w26351. NBER Working Paper No. 26351.
+
+
+=== Fiscal policy ===
+Nakamura, Emi; Steinsson, Jón (2014). "Fiscal stimulus in a monetary union: Evidence from US regions" (PDF). The American Economic Review. 104 (3): 753–792. doi:10.1257/aer.104.3.753. JSTOR 42920719. S2CID 6641769.
+
+
+=== Economic crises ===
+Nakamura, Emi; Steinsson, Jón; Barro, R; Ursúa, J (2013). "Crises and recoveries in an empirical model of consumption disasters" (PDF). American Economic Journal: Macroeconomics. 5 (3): 35–74. doi:10.1257/mac.5.3.35. S2CID 8348799.
+
+
+== References ==

@@ -1,0 +1,109 @@
+Bank regulation is a form of government regulation which subjects banks to certain requirements, restrictions and guidelines, designed to create market transparency between banking institutions and the individuals and corporations with whom they conduct business, among other things. As regulation focusing on key factors in the financial markets, it forms one of the three components of financial law, the other two being case law and self-regulating market practices.Given the interconnectedness of the banking industry and the reliance that the national (and global) economy hold on banks, it is important for regulatory agencies to maintain control over the standardized practices of these institutions. Another relevant example for the interconnectedness is that the law of financial industries or financial law focuses on the financial (banking), capital, and insurance markets. Supporters of such regulation often base their arguments on the "too big to fail" notion. This holds that many financial institutions (particularly investment banks with a commercial arm) hold too much control over the economy to fail without enormous consequences. This is the premise for government bailouts, in which government financial assistance is provided to banks or other financial institutions who appear to be on the brink of collapse. The belief is that without this aid, the crippled banks would not only become bankrupt, but would create rippling effects throughout the economy leading to systemic failure.  Compliance with bank regulations is verified by personnel known as bank examiners.
+
+
+== Objectives ==
+The objectives of bank regulation, and the emphasis, vary between jurisdictions. The most common objectives are:
+
+prudential—to reduce the level of risk to which bank creditors are exposed (i.e. to protect depositors)
+systemic risk reduction—to reduce the risk of disruption resulting from adverse trading conditions for banks causing multiple or major bank failures
+to avoid misuse of banks—to reduce the risk of banks being used for criminal purposes, e.g. laundering the proceeds of crime
+to protect banking confidentiality
+credit allocation—to direct credit to favored sectors
+it may also include rules about treating customers fairly and having corporate social responsibility.
+
+
+== General principles ==
+Banking regulations vary widely between jurisdictions.
+
+
+=== Licensing and supervision ===
+Bank regulation is a complex process and generally consists of two components:
+licensing, and
+supervision.The first component, licensing, sets certain requirements for starting a new bank. Licensing provides the licence holders the right to own and to operate a bank. The licensing process is specific to the regulatory environment of the country and/or the state where the bank is located. Licensing involves an evaluation of the entity's intent and the ability to meet the regulatory guidelines governing the bank's operations, financial soundness, and managerial actions. The regulator supervises licensed banks for compliance with the requirements and responds to breaches of the requirements by obtaining undertakings, giving directions, imposing penalties or (ultimately) revoking the bank's license.
+The second component, supervision, is an extension of the licence-granting process and consists of supervision of the bank's activities by a government regulatory body (usually the central bank or another independent governmental agency). Supervision ensures that the functioning of the bank complies with the regulatory guidelines and monitors for possible deviations from regulatory standards. Supervisory activities involve on-site inspection of the bank's records, operations and processes or evaluation of the reports submitted by the bank. Examples of bank supervisory bodies include the Federal Reserve System and the Federal Deposit Insurance Corporation in the United States, the Financial Conduct Authority and Prudential Regulation Authority in the United Kingdom, the Federal Financial Markets Service in the Russian Federation, the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) in Germany.
+
+
+=== Minimum requirements ===
+A national bank regulator imposes requirements on banks in order to promote the objectives of the regulator. Often, these requirements are closely tied to the level of risk exposure for a certain sector of the bank. The most important minimum requirement in banking regulation is maintaining minimum capital ratios. To some extent, U.S. banks have some leeway in determining who will supervise and regulate them.
+
+
+=== Market discipline ===
+The regulator requires banks to publicly disclose financial and other information and depositors and other creditors are able to use this information to assess the level of risk and to make investment decisions. As a result of this, the bank is subject to market discipline and the regulator can also use market pricing information as an indicator of the bank's financial health.
+
+
+== Instruments and requirements ==
+
+
+=== Capital requirement ===
+
+The capital requirement sets a framework on how banks must handle their capital in relation to their assets. Internationally, the Bank for International Settlements' Basel Committee on Banking Supervision influences each country's capital requirements. In 1988, the Committee decided to introduce a capital measurement system commonly referred to as the Basel Capital Accords. The latest capital adequacy framework is commonly known as Basel III. This updated framework is intended to be more risk sensitive than the original one, but is also a lot more complex.
+
+
+=== Reserve requirement ===
+
+The reserve requirement sets the minimum reserves each bank must hold to demand deposits and banknotes. This type of regulation has lost the role it once had, as the emphasis has moved toward capital adequacy, and in many countries there is no minimum reserve ratio. The purpose of minimum reserve ratios is liquidity rather than safety. An example of a country with a contemporary minimum reserve ratio is Hong Kong, where banks are required to maintain 25% of their liabilities that are due on demand or within 1 month as qualifying liquefiable assets.
+Reserve requirements have also been used in the past to control the stock of banknotes and/or bank deposits. Required reserves have at times been gold, central bank banknotes or deposits, and foreign currency.
+
+
+=== Corporate governance ===
+Corporate governance requirements are intended to encourage the bank to be well managed, and is an indirect way of achieving other objectives. As many banks are relatively large, and with many divisions, it is important for management to maintain a close watch on all operations. Investors and clients will often hold higher management accountable for missteps, as these individuals are expected to be aware of all activities of the institution. Some of these requirements may include:
+
+to be a body corporate (i.e. not an individual, a partnership, trust or other unincorporated entity)
+to be incorporated locally, and/or to be incorporated under as a particular type of body corporate, rather than being incorporated in a foreign jurisdiction
+to have a minimum number of directors
+to have an organizational structure that includes various offices and officers, e.g. corporate secretary, treasurer/CFO, auditor, Asset Liability Management Committee, Privacy Officer, Compliance Officer etc. Also the officers for those offices may need to be approved persons, or from an approved class of persons
+to have a constitution or articles of association that is approved, or contains or does not contain particular clauses, e.g. clauses that enable directors to act other than in the best interests of the company (e.g. in the interests of a parent company) may not be allowed.
+
+
+=== Financial reporting and disclosure requirements ===
+Among the most important regulations that are placed on banking institutions is the requirement for disclosure of the bank's finances.  Particularly for banks that trade on the public market, in the US for example the Securities and Exchange Commission (SEC) requires management to prepare annual financial statements according to a financial reporting standard, have them audited, and to register or publish them. Often, these banks are even required to prepare more frequent financial disclosures, such as Quarterly Disclosure Statements. The Sarbanes–Oxley Act of 2002 outlines in detail the exact structure of the reports that the SEC requires.In addition to preparing these statements, the SEC also stipulates that directors of the bank must attest to the accuracy of such financial disclosures. Thus, included in their annual reports must be a report of management on the company's internal control over financial reporting. The internal control report must include: a statement of management's responsibility for establishing and maintaining adequate internal control over financial reporting for the company; management's assessment of the effectiveness of the company's internal control over financial reporting as of the end of the company's most recent fiscal year; a statement identifying the framework used by management to evaluate the effectiveness of the company's internal control over financial reporting; and a statement that the registered public accounting firm that audited the company's financial statements included in the annual report has issued an attestation report on management's assessment of the company's internal control over financial reporting. Under the new rules, a company is required to file the registered public accounting firm's attestation report as part of the annual report. Furthermore, the SEC added a requirement that management evaluate any change in the company's internal control over financial reporting that occurred during a fiscal quarter that has materially affected, or is reasonably likely to materially affect, the company's internal control over financial reporting.
+
+
+=== Credit rating requirement ===
+Banks may be required to obtain and maintain a current credit rating from an approved credit rating agency, and to disclose it to investors and prospective investors. Also, banks may be required to maintain a minimum credit rating. These ratings are designed to provide color for prospective clients or investors regarding the relative risk that one assumes when engaging in business with the bank. The ratings reflect the tendencies of the bank to take on high risk endeavors, in addition to the likelihood of succeeding in such deals or initiatives. The rating agencies that banks are most strictly governed by, referred to as the "Big Three" are the Fitch Group, Standard and Poor's and Moody's. These agencies hold the most influence over how banks (and all public companies) are viewed by those engaged in the public market. In recent years, following the Great Recession, many economists have argued that these agencies face a serious conflict of interest in their core business model. Clients pay these agencies to rate their company based on their relative riskiness in the market. The question then is, to whom is the agency providing its service: the company or the market?
+European financial economics experts – notably the World Pensions Council (WPC) have argued that European powers such as France and Germany pushed dogmatically and naively for the adoption of the "Basel II recommendations", adopted in 2005, transposed in European Union law through the Capital Requirements Directive (CRD). In essence, they forced European banks, and, more importantly, the European Central Bank itself, to rely more than ever on the standardized assessments of "credit risk" marketed aggressively by two US credit rating agencies – Moody's and S&P, thus using public policy and ultimately taxpayers' money to strengthen anti-competitive duopolistic practices akin to exclusive dealing. Ironically, European governments have abdicated most of their regulatory authority in favor of a non-European, highly deregulated, private cartel.
+
+
+=== Large exposures restrictions ===
+Banks may be restricted from having imprudently large exposures to individual counterparties or groups of connected counterparties. Such limitation may be expressed as a proportion of the bank's assets or equity, and different limits may apply based on the security held and/or the credit rating of the counterparty.  Restricting disproportionate exposure to high-risk investment prevents financial institutions from placing equity holders' (as well as the firm's) capital at an unnecessary risk.
+
+
+=== Activity and affiliation restrictions ===
+In the US in response to the Great depression of the 1930s, President Franklin D. Roosevelt's under the New Deal enacted the Securities Act of 1933 and the Glass–Steagall Act (GSA), setting up a pervasive regulatory scheme for the public offering of securities and generally prohibiting commercial banks from underwriting and dealing in those securities. GSA prohibited affiliations between banks (which means bank-chartered depository institutions, that is, financial institutions that hold federally insured consumer deposits) and securities firms (which are commonly referred to as “investment banks” even though they are not technically banks and do not hold federally insured consumer deposits); further restrictions on bank affiliations with non-banking firms were enacted in Bank Holding Company Act of 1956 (BHCA) and its subsequent amendments, eliminating the possibility that companies owning banks would be permitted to take ownership or controlling interest in insurance companies, manufacturing companies, real estate companies, securities firms, or any other non-banking company. As a result, distinct regulatory systems developed in the United States for regulating banks, on the one hand, and securities firms on the other.
+
+
+== Too big to fail and moral hazard ==
+Among the reasons for maintaining close regulation of banking institutions is the aforementioned concern over the global repercussions that could result from a bank's failure; the idea that these bulge bracket banks are "too big to fail".  The objective of federal agencies is to avoid situations in which the government must decide whether to support a struggling bank or to let it fail.  The issue, as many argue, is that providing aid to crippled banks creates a situation of moral hazard.  The general premise is that while the government may have prevented a financial catastrophe for the time being, they have reinforced confidence for high risk taking and provided an invisible safety net.  This can lead to a vicious cycle, wherein banks take risks, fail, receive a bailout, and then continue to take risks once again.
+
+
+== By country ==
+Australia: Australian Prudential Regulation Authority
+China: China Banking Regulatory Commission
+Germany: MaRisk
+Switzerland: List of Swiss financial market legislation and Swiss Financial Market Supervisory Authority
+United Kingdom: United Kingdom banking law
+United States: Bank regulation in the United States
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Middle East Banking & Finance News – ArabianBusiness.com
+Banking & Finance News – BankingInsuranceSecurities.com
+
+
+=== Reserve requirements ===
+Reserve Requirements – Fedpoints – Federal Reserve Bank of New York
+
+
+=== Capital requirements ===
+Basel II: Revised international capital framework
+FDIC: Risk – Based Assessment System
+
+
+=== Agenda from ISO ===
+ISO/TR 17944

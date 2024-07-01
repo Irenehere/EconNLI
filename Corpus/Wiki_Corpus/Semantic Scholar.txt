@@ -1,0 +1,29 @@
+Semantic Scholar is an artificial intelligence–powered research tool for scientific literature developed at the Allen Institute for AI and publicly released in November 2015. It uses advances in natural language processing to provide summaries for scholarly papers. The Semantic Scholar team is actively researching the use of artificial intelligence in natural language processing, machine learning, human–computer interaction, and information retrieval.Semantic Scholar began as a database for the topics of computer science, geoscience, and neuroscience. In 2017 the system began including biomedical literature in its corpus. As of September 2022, it includes over 200 million publications from all fields of science.
+
+
+== Technology ==
+Semantic Scholar provides a one-sentence summary of scientific literature. One of its aims was to address the challenge of reading numerous titles and lengthy abstracts on mobile devices. It also seeks to ensure that the three million scientific papers published yearly reach readers, since it is estimated that only half of this literature are ever read.Artificial intelligence is used to capture the essence of a paper, generating it through an "abstractive" technique. The project uses a combination of machine learning, natural language processing, and machine vision to add a layer of semantic analysis to the traditional methods of citation analysis, and to extract relevant figures, tables, entities, and venues from papers.Another key AI-powered feature is Research Feeds, an adaptive research recommender that uses AI to quickly learn what papers users care about reading and recommends the latest research to help scholars stay up to date. It uses a state-of-the-art paper embedding model trained using contrastive learning to find papers similar to those in each Library folder.Semantic Scholar also offers Semantic Reader, an augmented reader with the potential to revolutionize scientific reading by making it more accessible and richly contextual. Semantic Reader provides in-line citation cards that allow users to see citations with TLDR summaries as they read and skimming highlights that capture key points of a paper so users can digest faster.
+In contrast with Google Scholar and PubMed, Semantic Scholar is designed to highlight the most important and influential elements of a paper. The AI technology is designed to identify hidden connections and links between research topics. Like the previously cited search engines, Semantic Scholar also exploits graph structures, which include the Microsoft Academic Knowledge Graph, Springer Nature's SciGraph, and the Semantic Scholar Corpus.Each paper hosted by Semantic Scholar is assigned a unique identifier called the Semantic Scholar Corpus ID (abbreviated S2CID). The following entry is an example:
+
+Liu, Ying; Gayle, Albert A; Wilder-Smith, Annelies; Rocklöv, Joacim (March 2020). "The reproductive number of COVID-19 is higher compared to SARS coronavirus". Journal of Travel Medicine. 27 (2). doi:10.1093/jtm/taaa021. PMID 32052846. S2CID 211099356.
+Semantic Scholar is free to use and unlike similar search engines (i.e. Google Scholar) does not search for material that is behind a paywall.One study compared the index scope of Semantic Scholar to Google Scholar, and found that for the papers cited by secondary studies in computer science, the two indices had comparable coverage, each only missing a handful of the papers.
+
+
+== Number of users and publications ==
+As of January 2018, following a 2017 project that added biomedical papers and topic summaries, the Semantic Scholar corpus included more than 40 million papers from computer science and biomedicine. In March 2018, Doug Raymond, who developed machine learning initiatives for the Amazon Alexa platform, was hired to lead the Semantic Scholar project. As of August 2019, the number of included papers metadata (not the actual PDFs) had grown to more than 173 million after the addition of the Microsoft Academic Graph records. In 2020, a partnership between Semantic Scholar and the University of Chicago Press Journals made all articles published under the University of Chicago Press available in the Semantic Scholar corpus. At the end of 2020, Semantic Scholar had indexed 190 million papers.In 2020, users of Semantic Scholar reached seven million a month.
+
+
+== See also ==
+Citation analysis – Examination of the frequency, patterns, and graphs of citations in documents
+Citation index – Index of citations between publications
+Knowledge extraction – Creation of knowledge from structured and unstructured sources
+List of academic databases and search engines
+Scientometrics – Study of measuring and analysing science, technology and innovation
+
+
+== References ==
+
+
+== External links ==
+
+Official website

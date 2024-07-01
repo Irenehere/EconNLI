@@ -1,0 +1,98 @@
+Financial modeling is the task of building an abstract representation (a model) of a real world financial situation. This is a mathematical model designed to represent (a simplified version of) the performance of a financial asset or portfolio of a business, project, or any other investment.
+Typically, then, financial modeling is understood to mean an exercise in either asset pricing or corporate finance, of a quantitative nature. It is about translating a set of hypotheses about the behavior of markets or agents into numerical predictions.  At the same time, "financial modeling" is a general term that means different things to different users; the reference usually relates either to accounting and corporate finance applications or to quantitative finance applications.
+
+
+== Accounting ==
+In corporate finance and the accounting profession, financial modeling typically entails financial statement forecasting; usually the preparation of detailed company-specific models used for decision making purposes and financial analysis.
+Applications include: 
+
+Business valuation and stock valuation - especially via discounted cash flow, but including other valuation approaches
+Scenario planning and management decision making ("what is"; "what if"; "what has to be done")
+Budgeting:  revenue forecasting and analytics; production budgeting; operations budgeting
+Capital budgeting, including cost of capital (i.e. WACC) calculations
+Cash flow forecasting; working capital- and treasury management; asset and liability management
+Financial statement analysis / ratio analysis (including of operating- and finance leases, and R&D)
+Transaction analytics: M&A, PE, VC, LBO, IPO, Project finance,  P3
+Credit decisioning: Credit analysis, Consumer credit risk; impairment- and provision-modeling
+Management accounting: Activity-based costing, Profitability analysis, Cost analysis,  Whole-life cost, Managerial risk accountingTo generalize as to the nature of these models: 
+firstly, as they are built around financial statements, calculations and outputs are monthly, quarterly or annual; 
+secondly, the inputs take the form of "assumptions", where the analyst specifies the values that will apply in each period for external / global variables (exchange rates, tax percentage, etc....; may be thought of as the model parameters), and for internal / company specific variables (wages, unit costs, etc....). 
+Correspondingly, both characteristics are reflected (at least implicitly) in the mathematical form of these models: 
+firstly, the models are in discrete time; 
+secondly, they are deterministic. For discussion of the issues that may arise, see below; 
+for discussion as to more sophisticated approaches sometimes employed, see Corporate finance § Quantifying uncertainty and Financial economics § Corporate finance theory.
+Modelers are often designated "financial analyst" (and are sometimes referred to (tongue in cheek) as "number crunchers"). 
+Typically,  the modeler will have completed an MBA or MSF with (optional) coursework in "financial modeling".
+Accounting qualifications and finance certifications such as the CIIA and CFA generally do not provide direct or explicit training in modeling.  
+At the same time, numerous commercial training courses are offered, both through universities  and privately.
+For the components and steps of business modeling here, see Outline of finance § Financial modeling; see also Valuation using discounted cash flows § Determine cash flow for each forecast period for further discussion and considerations.
+Although purpose-built  business software does exist, the vast proportion of the market is spreadsheet-based; this is largely since the models are almost always company-specific. 
+Also, analysts will each have their own criteria and methods for financial modeling.Microsoft Excel now has by far the dominant position, having overtaken Lotus 1-2-3 in the 1990s. 
+Spreadsheet-based modelling can have its own problems, 
+and several standardizations and "best practices" have been proposed. "Spreadsheet risk" is increasingly studied and managed; see model audit.
+One critique here, is that model outputs, i.e. line items, often inhere "unrealistic implicit assumptions" and "internal inconsistencies". 
+(For example, a forecast for growth in revenue but without corresponding increases in working capital, fixed assets and the associated financing, may imbed unrealistic assumptions about asset turnover, debt level and/or equity financing. See Sustainable growth rate § From a financial perspective.)  
+What is required, but often lacking, is that all key elements are explicitly and consistently forecasted. 
+Related to this, is that modellers often additionally "fail to identify crucial assumptions" relating to inputs, "and to explore what can go wrong". 
+Here, in general, modellers "use point values and simple arithmetic instead of probability distributions and statistical measures"  
+— i.e., as mentioned, the problems are treated as deterministic in nature — and thus calculate a single value for the asset or project, but without providing information on the range, variance and sensitivity of outcomes; 
+see Valuation using discounted cash flows § Determine equity value.
+A further, more general critique relates to the lack of basic computer programming concepts amongst modelers,
+  
+with the result that their models are often poorly structured, and difficult to maintain.
+(Serious criticism is also directed at the nature of budgeting, and its impact on the organization.
+
+)
+
+
+== Quantitative finance ==
+In quantitative finance, financial modeling entails the development of a sophisticated mathematical model.
+ 
+Models here deal with asset prices, market movements, portfolio returns and the like. 
+A general distinction is between: 
+(i) "quantitative asset pricing", models of the returns of different stocks;  
+(ii) "financial engineering",  models of the price or returns of derivative securities;  
+(iii) "quantitative portfolio management", models underpinning automated trading, high-frequency trading, algorithmic trading, and program trading.
+Relatedly, applications include: 
+
+Option pricing and calculation of their "Greeks" ( accommodating volatility surfaces  - via local / stochastic volatility models - and multi-curves)
+Other derivatives, especially interest rate derivatives, credit derivatives and exotic derivatives
+Modeling the term structure of interest rates (bootstrapping / multi-curves, short-rate models, HJM framework) and any related credit spread
+Credit valuation adjustment, CVA, as well as the various XVA
+Credit risk, counterparty credit risk, and regulatory capital:  EAD, PD, LGD, PFE, EE; Jarrow–Turnbull model, Merton model, KMV model
+Structured product design and manufacturePortfolio optimization and Quantitative investing more generally; see further re optimization methods employed.
+Financial risk modeling: value at risk (parametric- and / or historical, CVaR, EVT), stress testing, "sensitivities" analysisCorporate finance applications:   cash flow analytics,  corporate financing activity prediction problems, and risk analysis in capital investment
+Credit scoring and provisioning; Credit scorecards and IFRS 9 § Impairment
+Real optionsActuarial applications: Dynamic financial analysis (DFA), UIBFM, investment modelingThese problems are generally  stochastic and continuous in nature, and models here thus require complex algorithms, entailing computer simulation, advanced numerical methods (such as numerical differential equations, numerical linear algebra, dynamic programming) and/or the development of optimization models. 
+The general nature of these problems is discussed under Mathematical finance § History: Q versus P, while specific techniques are listed under Outline of finance § Mathematical tools. 
+For further discussion here see also:  Brownian model of financial markets; Martingale pricing; Financial models with long-tailed distributions and volatility clustering; Extreme value theory; Historical simulation (finance).
+Modellers are generally referred to as "quants", i.e. quantitative analysts, and typically have advanced (Ph.D. level) backgrounds in quantitative disciplines such as statistics, physics, engineering, computer science, mathematics or operations research.  
+Alternatively, or in addition to their quantitative background, they complete a finance masters with a quantitative orientation, such as the Master of Quantitative Finance, or the more specialized Master of Computational Finance or Master of Financial Engineering; the CQF certificate is increasingly common.
+Although spreadsheets are widely used here also (almost always requiring extensive VBA); 
+custom C++, Fortran or Python, or numerical-analysis software such as MATLAB, are often preferred, particularly where stability or speed is a concern. 
+MATLAB is often used at the research or prototyping stage because of its intuitive programming, graphical and debugging tools, but C++/Fortran are preferred for conceptually simple but high computational-cost applications where MATLAB is too slow; 
+Python is increasingly used due to its simplicity, and large standard library / available applications, including QuantLib.  
+Additionally, for many (of the standard) derivative and portfolio applications, commercial software is available, and the choice as to whether the model is to be developed in-house, or whether existing products are to be deployed, will depend on the problem in question.
+See Quantitative analysis (finance) § Library quantitative analysis.
+The complexity of these models may result in incorrect pricing or hedging or both. This Model risk is the subject of ongoing research by finance academics, and is a topic of great, and growing, interest in the risk management arena.Criticism of the discipline (often preceding the financial crisis of 2007–08 by several years) emphasizes the differences between the mathematical and physical sciences, and finance, and the resultant caution to be applied by modelers, and by traders and risk managers using their models. Notable here are Emanuel Derman and Paul Wilmott, authors of the Financial Modelers' Manifesto. Some go further and question whether the mathematical- and statistical modeling techniques usually applied to finance are at all appropriate (see the assumptions made for options and for portfolios). 
+In fact, these may go so far as to question the "empirical and scientific validity... of modern financial theory". 
+Notable here are Nassim Taleb and Benoit Mandelbrot. 
+See also Mathematical finance § Criticism, Financial economics § Challenges and criticism and Financial engineering § Criticisms.
+
+
+== Competitive modeling ==
+Several financial modeling competitions exist, emphasizing speed and accuracy in modeling. The Microsoft-sponsored ModelOff Financial Modeling World Championships were held annually from 2012 to 2019, with competitions throughout the year and a finals championship in New York or London. After its end in 2020, several other modeling championships have been started, including the Financial Modeling World Cup and Microsoft Excel Collegiate Challenge, also sponsored by Microsoft.
+
+
+== Philosophy of financial modeling ==
+Philosophy of financial modeling is a branch of philosophy concerned with the foundations, methods, and implications of modeling science. 
+In the philosophy of financial modeling, scholars have more recently begun to question the standardly held assumption that financial modelers seek to represent any "real-world" or actually ongoing investment situation. Instead, it has been suggested that the task of the financial modeler resides in demonstrating the possibility of a transaction in a prospective investment scenario, from a limited base of possibility conditions initially assumed in the model.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==

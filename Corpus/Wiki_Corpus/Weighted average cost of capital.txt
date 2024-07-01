@@ -1,0 +1,422 @@
+The weighted average cost of capital (WACC) is the rate that a company is expected to pay on average to all its security holders to finance its assets. The WACC is commonly referred to as the firm's cost of capital. Importantly, it is dictated by the external market and not by management. The WACC represents the minimum return that a company must earn on an existing asset base to satisfy its creditors, owners, and other providers of capital, or they will invest elsewhere.Companies raise money from a number of sources: common stock, preferred stock and related rights, straight debt, convertible debt, exchangeable debt, employee stock options, pension liabilities, executive stock options, governmental subsidies, and so on. Different securities, which represent different sources of finance, are expected to generate different returns. The WACC is calculated taking into account the relative weights of each component of the capital structure. The more complex the company's capital structure, the more laborious it is to calculate the WACC.
+Companies can use WACC to see if the investment projects available to them are worthwhile to undertake.
+
+
+== Calculation ==
+In general, the WACC can be calculated with the following formula:
+  
+    
+      
+        
+          WACC
+        
+        =
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  N
+                
+              
+              
+                r
+                
+                  i
+                
+              
+              ⋅
+              M
+              
+                V
+                
+                  i
+                
+              
+            
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  N
+                
+              
+              M
+              
+                V
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\text{WACC}}={\frac {\sum _{i=1}^{N}r_{i}\cdot MV_{i}}{\sum _{i=1}^{N}MV_{i}}}}
+  
+where 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is the number of sources of capital (securities, types of liabilities); 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+   is the required rate of return for security 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  ; and 
+  
+    
+      
+        M
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle MV_{i}}
+   is the market value of all outstanding securities 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  .
+In the case where the company is financed with only equity and debt, the average cost of capital is computed as follows:
+
+  
+    
+      
+        
+          WACC
+        
+        =
+        
+          
+            D
+            
+              D
+              +
+              E
+            
+          
+        
+        
+          K
+          
+            d
+          
+        
+        +
+        
+          
+            E
+            
+              D
+              +
+              E
+            
+          
+        
+        
+          K
+          
+            e
+          
+        
+      
+    
+    {\displaystyle {\text{WACC}}={\frac {D}{D+E}}K_{d}+{\frac {E}{D+E}}K_{e}}
+  
+where 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the total debt, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is the total shareholder's equity, 
+  
+    
+      
+        
+          K
+          
+            d
+          
+        
+      
+    
+    {\displaystyle K_{d}}
+   is the cost of debt, and 
+  
+    
+      
+        
+          K
+          
+            e
+          
+        
+      
+    
+    {\displaystyle K_{e}}
+   is the cost of equity. The market values of debt and equity should be used when computing the weights in the WACC formula.
+
+
+=== Tax effects ===
+Tax effects can be incorporated into this formula. For example, the WACC for a company financed by one type of shares with the total market value of 
+  
+    
+      
+        M
+        
+          V
+          
+            e
+          
+        
+      
+    
+    {\displaystyle MV_{e}}
+   and cost of equity 
+  
+    
+      
+        
+          R
+          
+            e
+          
+        
+      
+    
+    {\displaystyle R_{e}}
+   and one type of bonds with the total market value of 
+  
+    
+      
+        M
+        
+          V
+          
+            d
+          
+        
+      
+    
+    {\displaystyle MV_{d}}
+   and cost of debt 
+  
+    
+      
+        
+          R
+          
+            d
+          
+        
+      
+    
+    {\displaystyle R_{d}}
+  , in a country with corporate tax rate 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , is calculated as:
+
+  
+    
+      
+        
+          WACC
+        
+        =
+        
+          
+            
+              M
+              
+                V
+                
+                  e
+                
+              
+            
+            
+              M
+              
+                V
+                
+                  d
+                
+              
+              +
+              M
+              
+                V
+                
+                  e
+                
+              
+            
+          
+        
+        ⋅
+        
+          R
+          
+            e
+          
+        
+        +
+        
+          
+            
+              M
+              
+                V
+                
+                  d
+                
+              
+            
+            
+              M
+              
+                V
+                
+                  d
+                
+              
+              +
+              M
+              
+                V
+                
+                  e
+                
+              
+            
+          
+        
+        ⋅
+        
+          R
+          
+            d
+          
+        
+        ⋅
+        (
+        1
+        −
+        t
+        )
+      
+    
+    {\displaystyle {\text{WACC}}={\frac {MV_{e}}{MV_{d}+MV_{e}}}\cdot R_{e}+{\frac {MV_{d}}{MV_{d}+MV_{e}}}\cdot R_{d}\cdot (1-t)}
+  
+This calculation can vary significantly due to the existence of many plausible proxies for each element. As a result, a fairly wide range of values for the WACC of a given firm in a given year may appear defensible.
+
+
+== Components ==
+
+
+=== Debt ===
+The firm's debt component is stated as kd and since there is a tax benefit from interest payments then the after tax WACC component is kd(1-T); where T is the tax rate.Increasing the debt component under WACC has advantages including:
+no loss of control (voting rights) that would come from other sources,
+upper limit is placed on share of profits,
+flotation costs are typically lower than equity, and
+interest expense is tax deductible.
+But there are also disadvantages of the debt component including:
+Using WACC makes the firm legally obliged to make payments no matter how tight the funds on hand are,
+in the case of bonds full face value comes due at one time, and
+taking on more debt = taking on more financial risk (more systematic risk) requiring higher cash flows.
+
+
+=== Equity ===
+Weighted average cost of capital equation:
+WACC= (Wd)[(Kd)(1-t)]+ (Wpf)(Kpf)+ (Wce)(Kce)
+Cost of new equity should be the adjusted cost for any underwriting fees termed flotation costs (F):
+Ke = D1/P0(1-F) + g; where F = flotation costs, D1 is dividends, P0 is price of the stock, and g is the growth rate.
+There are 3 ways of calculating Ke:
+
+Capital Asset Pricing Model
+Dividend Discount Method
+Bond Yield Plus Risk Premium ApproachThe equity component has advantages for the firm including:
+no legal obligation to pay (depends on class of shares) as opposed to debt,
+no maturity (unlike e.g. bonds),
+lower financial risk, and
+it could be cheaper than debt with good prospects of profitability.
+But also disadvantages including:
+new equity dilutes current ownership share of profits and voting rights (impacting control),
+cost of underwriting for equity is much higher than for debt,
+too much equity = target for a leveraged buy-out by another firm, and
+no tax shield, dividends are not tax deductible, and may exhibit double taxation.
+
+
+== Marginal cost of capital schedule ==
+Marginal cost of capital (MCC) schedule or an investment opportunity curve is a graph that relates the firm's Weighted cost of each unit of capital to the total amount of new capital raised. The first step in preparing the MCC schedule is to rank the projects using internal rate of return (IRR). The higher the IRR the better off a project is.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Video about practical application of the WACC approach
+Frank, Murray; Shen, Tao (2016). "Investment and the Weighted Average Cost of Capital". Journal of Financial Economics. 119 (2): 300–315. doi:10.1016/j.jfineco.2015.09.001. SSRN 2014367.
+Velez-Pareja, Ignacio; Tham, Joseph (August 7, 2005). "A Note on the Weighted Average Cost of Capital WACC: Market Value Calculation and the Solution of Circularity between Value and the Weighted Average Cost of Capital WACC". SSRN. SSRN 254587. {{cite journal}}: Cite journal requires |journal= (help)
+Cheremushkin, Sergei Vasilievich (December 21, 2009). "How to Avoid Mistakes in Valuation – Comment to 'Consistency in Valuation: A Practical Guide' by Velez-Pareja and Burbano-Perez and Some Pedagogical Notes on Valuation and Costs of Capital". SSRN. SSRN 1526681. {{cite journal}}: Cite journal requires |journal= (help)

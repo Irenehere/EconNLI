@@ -1,0 +1,206 @@
+Real options valuation, also often termed real options analysis, (ROV or ROA) applies option valuation techniques to capital budgeting decisions. A real option itself, is the right—but not the obligation—to undertake certain business initiatives, such as deferring, abandoning, expanding, staging, or contracting a capital investment project. For example, real options valuation could examine the opportunity to invest in the expansion of a firm's factory and the alternative option to sell the factory.Real options are generally distinguished from conventional financial options in that they are not typically traded as securities, and do not usually involve decisions on an underlying asset that is traded as a financial security. A further distinction is that option holders here, i.e. management, can directly influence the value of the option's underlying project; whereas this is not a consideration as regards the underlying security of a financial option. Moreover, management cannot measure uncertainty in terms of volatility, and must instead rely on their perceptions of uncertainty. Unlike financial options, management also have to create or discover real options, and such creation and discovery process comprises an entrepreneurial or business task. Real options are most valuable when uncertainty is high; management has significant flexibility to change the course of the project in a favorable direction and is willing to exercise the options.Real options analysis, as a discipline, extends from its application in corporate finance, to decision making under uncertainty in general, adapting the techniques developed for financial options to "real-life" decisions. For example, R&D managers can use Real Options Valuation to help them deal with various uncertainties in making decisions about the allocation of resources among R&D projects. Non-business examples might be evaluating the cost of cryptocurrency mining machines, or the decision to join the work force, or rather, to forgo several years of income to attend graduate school.  It, thus, forces decision makers to be explicit about the assumptions underlying their projections, and for this reason ROV is increasingly employed as a tool in business strategy formulation. This extension of real options to real-world projects often requires customized decision support systems, because otherwise the complex compound real options will become too intractable to handle.
+
+
+== Types of real options ==
+The flexibility available to management – i.e. the actual "real options" – generically, will relate to project size, project timing, and the operation of the project once established. In all cases, any (non-recoverable) upfront expenditure related to this flexibility is the option premium.  Real options are also commonly applied to stock valuation - see Business valuation § Option pricing approaches - as well as to various other "Applications" referenced below.
+
+
+=== Options relating to project size ===
+Where the project's scope is uncertain, flexibility as to the size of the relevant facilities is valuable, and constitutes optionality.
+Option to expand: Here the project is built with capacity in excess of the expected level of output so that it can produce at higher rate if needed. Management then has the option (but not the obligation) to expand – i.e. exercise the option – should conditions turn out to be favourable. A project with the option to expand will cost more to establish, the excess being the option premium, but is worth more than the same without the possibility of expansion. This is equivalent to a call option.
+Option to contract : The project is engineered such that output can be contracted in future should conditions turn out to be unfavourable. Forgoing these future expenditures constitutes option exercise. This is the equivalent to a put option, and again, the excess upfront expenditure is the option premium.
+Option to expand or contract: Here the project is designed such that its operation can be dynamically turned on and off. Management may shut down part or all of the operation when conditions are unfavorable (a put option), and may restart operations when conditions improve (a call option).  A flexible manufacturing system (FMS) is a good example of this type of option. This option is also known as a Switching option.
+
+
+=== Options relating to project life and timing ===
+Where there is uncertainty as to when, and how, business or other conditions will eventuate, flexibility as to the timing of the relevant project(s) is valuable, and constitutes optionality. Growth options are perhaps the most generic in this category – these entail the option to exercise only those projects that appear to be profitable at the time of initiation.
+
+Initiation or deferment options: Here management has flexibility as to when to start a project. For example, in natural resource exploration a firm can delay mining a deposit until market conditions are favorable. This constitutes an American styled call option.
+Delay option with a product patent: A firm with a patent right on a product has a right to develop and market the product exclusively until the expiration of the patent. The firm will market and develop the product only if the present value of the expected cash flows from the product sales exceeds the cost of development. If this does not occur, the firm can shelve the patent and not incur any further costs.
+Option to abandon: Management may have the option to cease a project during its life, and, possibly, to realise its salvage value. Here, when the present value of the remaining cash flows falls below the liquidation value, the asset may be sold, and this act is effectively the exercising of a put option. This option is also known as a Termination option. Abandonment options are American styled.
+Sequencing options: This option is related to the initiation option above, although entails flexibility as to the timing of more than one inter-related projects: the analysis here is as to whether it is advantageous to implement these sequentially or in parallel.  Here, observing the outcomes relating to the first project, the firm can resolve some of the uncertainty relating to the venture overall. Once resolved, management has the option to proceed or not with the development of the other projects. If taken in parallel, management would have already spent the resources and the value of the option not to spend them is lost. The sequencing of projects is an important issue in corporate strategy. Related here is also the notion of  Intraproject vs. Interproject options.
+Option to prototype: New energy generation and storage systems are continuously being developed due to climate change, resource scarcity, and environmental laws. Some systems are incremental innovations of existing systems while others are radical innovations. Radical innovation systems are risky investments due to their relevant technical and economic uncertainties. Prototyping can hedge these risks by spending a fraction of the cost of a full-scale system and in return receiving economic and technical information regarding the system. In economic terms, prototyping is an option to hedge risk coming at a cost that needs to be properly assessed.
+
+
+=== Options relating to project operation ===
+Management may have flexibility relating to the product produced and /or the process used in manufacture.  As in the preceding cases, this flexibility increases the value of the project, corresponding in turn, to the "premium" paid for the real option.
+
+Output mix options: The option to produce different outputs from the same facility is known as an output mix option or product flexibility. These options are particularly valuable in industries where demand is volatile or where quantities demanded in total for a particular good are typically low, and management would wish to change to a different product quickly if required.
+Input mix options: An input mix option – process flexibility – allows management to use different inputs to produce the same output as appropriate.  For example, a farmer will value the option to switch between various feed sources, preferring to use the cheapest acceptable alternative.  An electric utility, for example, may have the option to switch between various fuel sources to produce electricity, and therefore a flexible plant, although more expensive may actually be more valuable.
+Operating scale options: Management may have the option to change the output rate per unit of time or to change the total length of production run time, for example in response to market conditions. These options are also known as Intensity options.
+
+
+== Valuation ==
+Given the above, it is clear that there is an analogy between real options and financial options, and we would therefore expect options-based modelling and analysis to be applied here. At the same time, it is nevertheless important to understand why the more standard valuation techniques may not be applicable for ROV.
+
+
+=== Applicability of standard techniques ===
+ROV is often contrasted with more standard techniques of capital budgeting, such as discounted cash flow (DCF) analysis / net present value (NPV).  
+Under this "standard" NPV approach, future expected cash flows are present valued under the  empirical probability measure at a discount rate that reflects the embedded risk in the project; see CAPM, APT, WACC. 
+Here, only the expected cash flows  are considered, and the "flexibility" to alter corporate strategy in view of actual market realizations is "ignored"; see below as well as Corporate finance § Valuing flexibility. 
+The NPV framework (implicitly) assumes that management is "passive" with regard to their Capital Investment once committed. 
+Some analysts account for this uncertainty by 
+(i) adjusting the discount rate, e.g. by increasing the cost of capital, 
+or (ii) adjusting the cash flows, e.g. using certainty equivalents, 
+or (iii) applying (subjective) "haircuts" to the forecast numbers, 
+or (iv) via probability-weighting these as in rNPV.
+  
+Even when employed, however, these latter methods do not normally properly account for changes in risk over the project's lifecycle and hence fail to appropriately adapt the risk adjustment.
+By contrast, ROV assumes that management is "active" and can "continuously" respond to market changes. Real options consider "all" scenarios (or "states") and indicate the best corporate action in each of these contingent events. Because management adapts to each negative outcome by decreasing its exposure and to positive scenarios by scaling up, the firm benefits from uncertainty in the underlying market, achieving a lower variability of profits than under the commitment/NPV stance. The contingent nature of future profits in real option models is captured by employing the techniques developed for financial options in the literature on contingent claims analysis. Here the approach, known as risk-neutral valuation, consists in adjusting the probability distribution for risk consideration, while discounting at the risk-free rate.  This technique is also known as the "martingale" approach, and uses a risk-neutral measure. For technical considerations here, see below.
+Given these different treatments, the real options value of a project is typically higher than the NPV – and the difference will be most marked in projects with major flexibility, contingency, and volatility. As for financial options higher volatility of the underlying leads to higher value. (An application of Real Options Valuation in the Philippine banking industry exhibited that increased levels of income volatility may adversely affect option values on the loan portfolio, when the presence of information asymmetry is considered. In this case, increased volatility may limit the value of an option.) Part of the criticism (and subsequently slow adoption) of Real Options Valuation in practice and academe stems from the generally higher values for underlying assets these functions generate. However, studies have shown that these models are reliable estimators of underlying asset value, when input values are properly identified.
+
+
+=== Options based valuation ===
+Although there is much similarity between the modelling of real options and financial options, ROV is distinguished from the latter, in that it takes into account uncertainty about the future evolution of the parameters that determine the value of the project, coupled with management's ability to respond to the evolution of these parameters. It is the combined effect of these that makes ROV technically more challenging than its alternatives.
+
+First, you must figure out the full range of possible values for the underlying asset.... This involves estimating what the asset's value would be if it existed today and forecasting to see the full set of possible future values... [These] calculations provide you with numbers for all the possible future values of the option at the various points where a decision is needed on whether to continue with the project...
+When valuing the real option, the analyst must therefore consider the inputs to the valuation, the valuation method employed, and whether any technical limitations may apply. Conceptually, valuing a real option looks at the premium between inflows and outlays for a particular project. Inputs to the value of a real option (time, discount rates, volatility, cash inflows and outflows) are each affected by the terms of business, and external environmental factors that a project exists in. Terms of business as information regarding ownership, data collection costs, and patents, are formed in relation to political, environmental, socio-cultural, technological, environmental and legal factors that affect an industry. Just as terms of business are affected by external environmental factors, these same circumstances affect the volatility of returns, as well as the discount rate (as firm or project specific risk). Furthermore, the external environmental influences that affect an industry affect projections on expected inflows and outlays.
+
+
+==== Valuation inputs ====
+Given the similarity in valuation approach, the inputs required for modelling the real option correspond, generically, to those required for a financial option valuation. The specific application, though, is as follows:
+
+The option's underlying is the project in question – it is modelled in terms of:
+Spot price: the starting or current value of the project is required: this is usually based on management's "best guess" as to the gross value of the project's cash flows and resultant NPV;
+Volatility: a measure for uncertainty as to the change in value over time is required:
+the volatility in project value is generally used, usually derived via monte carlo simulation; sometimes the volatility of the first period's cash flows are preferred; see further under Corporate finance for a discussion relating to the estimation of NPV and project volatility.
+some analysts substitute a listed security as a proxy, using either its price volatility (historical volatility), or, if options exist on this security, their implied volatility.
+Dividends generated by the underlying asset: As part of a project, the dividend equates to any income which could be derived from the real assets and paid to the owner. These reduce the appreciation of the asset.
+Option characteristics:
+Strike price: this corresponds to any (non-recoverable) investment outlays, typically the prospective costs of the project. In general, management would proceed (i.e. the option would be in the money) given that the present value of expected cash flows exceeds this amount;
+Option term: the time during which management may decide to act, or not act, corresponds to the life of the option. As above, examples include the time to expiry of a patent, or of the mineral rights for a new mine. See Option time value. Note though that given the flexibility related to timing as described, caution must be applied here.
+Option style and option exercise. Management's ability to respond to changes in value is modeled at each decision point as a series of options, as above these may comprise, i.a.:
+the option to contract the project (an American styled put option);
+the option to abandon the project (also an American put);
+the option to expand or extend the project (both American styled call options);
+switching options or composite options  which may also apply to the project.
+
+
+==== Valuation methods ====
+The valuation methods usually employed, likewise, are adapted from techniques developed for valuing financial options. Note though that, in general, while most "real" problems allow for American style exercise at any point (many points) in the project's life and are impacted by multiple underlying variables, the standard methods are limited either with regard to dimensionality, to early exercise, or to both.  In selecting a model, therefore, analysts must make a trade off between these considerations; see Option (finance) § Model implementation. The model must also be flexible enough to allow for the relevant decision rule to be coded appropriately at each decision point.
+
+Closed form, Black–Scholes-like solutions are sometimes employed. These are applicable only for European styled options or perpetual American options. Note that this application of Black–Scholes assumes constant — i.e. deterministic — costs: in cases where the project's costs, like its revenue, are also assumed stochastic, then Margrabe's formula can (should) be applied instead, here valuing the option to "exchange" expenses for revenue.  (Relatedly, where the project is exposed to two (or more) uncertainties — e.g. for natural resources, price and quantity — some analysts attempt to use an overall volatility; this, though, is more correctly treated as a rainbow option, typically valued using simulation as below.)
+The most commonly employed methods are binomial lattices. These are more widely used given that most real options are American styled. Additionally, and particularly, lattice-based models allow for flexibility as to exercise, where the relevant, and differing, rules may be encoded at each node. Note that lattices cannot readily handle high-dimensional problems; treating the project's costs as stochastic would add (at least) one dimension to the lattice, increasing the number of ending-nodes by the square (the exponent here, corresponding to the number of sources of uncertainty).
+Specialised Monte Carlo Methods have also been developed and are increasingly, and especially,  applied to high-dimensional problems. Note that for American styled real options, this application is somewhat more complex; although recent research combines a least squares approach with simulation, allowing for the valuation of real options which are both multidimensional and American styled; see Monte Carlo methods for option pricing § Least Square Monte Carlo.
+When the Real Option can be modelled using a partial differential equation, then Finite difference methods for option pricing are sometimes applied. Although many of the early ROV articles discussed this method, its use is relatively uncommon today—particularly amongst practitioners—due to the required mathematical sophistication; these too cannot readily be used for high-dimensional problems.Various other methods, aimed mainly at practitioners, have been developed for real option valuation. These typically use cash-flow scenarios for the projection of the future pay-off distribution, and are not based on restricting assumptions similar to those that underlie the closed form (or even numeric) solutions discussed. The most recent additions include the Datar–Mathews method, fuzzy pay-off method, and the simulation with optimized exercise thresholds method.
+
+
+== Limitations ==
+The relevance of Real options, even as a thought framework, may be limited due to market, organizational and / or technical considerations. When the framework is employed, therefore, the analyst must first ensure that ROV is relevant to the project in question. These considerations are as follows.
+
+
+=== Market characteristics ===
+As discussed above, the market and environment underlying the project must be one where "change is most evident", and the "source, trends and evolution" in product demand and supply, create the "flexibility, contingency, and volatility" 
+which result in optionality. Without this, the NPV framework would be more relevant.
+
+
+=== Organizational considerations ===
+Real options are "particularly important for businesses with a few key characteristics", and may be less relevant otherwise.  In overview, it is important to consider the following in determining that the RO framework is applicable:
+
+Corporate strategy has to be adaptive to contingent events. Some corporations face organizational rigidities and are unable to react to market changes; in this case, the NPV approach is appropriate.
+Practically, the business must be positioned such that it has appropriate information flow, and opportunities to act. This will often be a market leader and / or a firm enjoying economies of scale and scope.
+Management must understand options, be able to identify and create them, and appropriately exercise them. This contrasts with business leaders focused on maintaining the status quo and / or near-term accounting earnings.
+The financial position of the business must be such that it has the ability to fund the project as, and when,  required (i.e. issue shares, absorb further debt and / or use internally generated cash flow); see Financial statement analysis. Management must, correspondingly, have appropriate access to this capital.
+Management must be in the position to exercise, in so far as some real options are proprietary (owned or exercisable by a single individual or a company) while others are shared (can (only) be exercised by many parties).
+
+
+=== Technical considerations ===
+Limitations as to the use of these models arise due to the contrast between Real Options and financial options, for which these were originally developed. 
+The main difference is that the underlying is often not tradable – e.g. the factory owner cannot easily sell the factory upon which he has the option. Additionally, the real option itself may also not be tradeable – e.g. the factory owner cannot sell the right to extend his factory to another party, only he can make this decision (some real options, however, can be sold, e.g., ownership of a vacant lot of land is a real option to develop that land in the future). Even where a market exists – for the underlying or for the option – in most cases there is limited (or no) market liquidity.  Finally, even if the firm can actively adapt to market changes, it remains to determine the right paradigm to discount future claims
+The difficulties, are then:
+
+As above, data issues arise as far as estimating key model inputs. Here, since the value or price of the underlying cannot be (directly) observed, there will always be some (much) uncertainty as to its value (i.e. spot price) and volatility (further complicated by uncertainty as to management's actions in the future).
+It is often difficult to capture the rules relating to exercise, and consequent actions by management. Further, a project may have a portfolio of embedded real options, some of which may be mutually exclusive.
+Theoretical difficulties, which are more serious, may also arise.Option pricing models are built on rational pricing logic. Here, essentially: (a) it is presupposed that one can create a "hedged portfolio" comprising one option and "delta" shares of the underlying. (b) Arbitrage arguments then allow for the option's price to be estimated today; see Rational pricing § Delta hedging. (c) When hedging of this sort is possible, since delta hedging and risk neutral pricing are mathematically identical, then risk neutral valuation may be applied, as is the case with most option pricing models. (d) Under ROV however, the option and (usually) its underlying are clearly not traded, and forming a hedging portfolio would be difficult, if not impossible.
+Standard option models: (a) Assume that the risk characteristics of the underlying do not change over the life of the option, usually expressed via a constant volatility assumption. (b) Hence a standard, risk free rate may be applied as the discount rate at each decision point, allowing for risk neutral valuation. Under ROV, however: (a) managements' actions actually change the risk characteristics of the project in question, and hence (b) the Required rate of return could differ depending on what state was realised, and a premium over risk free would be required, invalidating (technically) the risk neutrality assumption.These issues are addressed via several interrelated assumptions:
+
+As discussed above, the data issues are usually addressed using a simulation of the project, or a listed proxy. Various new methods – see for example those described above – also address these issues.
+Also as above, specific exercise rules can often be accommodated by coding these in a bespoke binomial tree; see:.
+The theoretical issues:To use standard option pricing models here, despite the difficulties relating to rational pricing, practitioners adopt the "fiction" that the real option and the underlying project are both traded: the so called, Marketed Asset Disclaimer (MAD) approach. Although this is a strong assumption, it is pointed out that a similar fiction in fact underpins standard NPV / DCF valuation (and using simulation as above). See: and.
+To address the fact that changing characteristics invalidate the use of a constant discount rate, some analysts use the "replicating portfolio approach", as opposed to Risk neutral valuation, and modify their models correspondingly. Under this approach, (a) we "replicate" the cash flows on the option by holding a risk free bond and the underlying in the correct proportions. Then, (b) since the cash flows of the option and the portfolio will always be identical, by arbitrage arguments their values may (must) be equated today, and (c) no discounting is required. (For an alternative, modifying Black-Scholes, see: .)
+
+
+== History ==
+Whereas business managers have been making capital investment decisions for centuries, the term "real option" is relatively new, and was coined by Professor Stewart Myers of the MIT Sloan School of Management in 1977. In 1930, Irving Fisher wrote explicitly of the "options" available to a business owner (The Theory of Interest, II.VIII). The description of such opportunities as "real options", however, followed on the development of analytical techniques for financial options, such as Black–Scholes in 1973. As such, the term "real option" is closely tied to these option methods.
+Real options are today an active field of academic research. Professor Lenos Trigeorgis has been a leading name for many years, publishing several influential books and academic articles. Other pioneering academics in the field include Professors Michael Brennan, Eduardo Schwartz, Graham Davis, Gonzalo Cortazar, Han Smit, Avinash Dixit and Robert Pindyck (the latter two, authoring the pioneering text in the discipline).  An academic conference on real options is organized yearly (Annual International Conference on Real Options).
+Amongst others, the concept was "popularized" by Michael J. Mauboussin, then chief U.S. investment strategist for Credit Suisse First Boston. He uses real options to explain the gap between how the stock market prices some businesses and the "intrinsic value" for those businesses. Trigeorgis also has broadened exposure to real options through layman articles in publications such as The Wall Street Journal. This popularization is such that ROV is now a standard offering in postgraduate finance degrees, and often, even in MBA curricula at many Business Schools.
+Recently, real options have been employed in business strategy, both for valuation purposes and as a conceptual framework. The idea of treating strategic investments as options was popularized by Timothy Luehrman in two HBR articles: "In financial terms, a business strategy is much more like a series of options, than a series of static cash flows". Investment opportunities are plotted in an "option space" with dimensions "volatility" & value-to-cost ("NPVq").
+Luehrman also co-authored with William Teichner a Harvard Business School case study, Arundel Partners: The Sequel Project, in 1992, which may have been the first business school case study to teach ROV. Reflecting the "mainstreaming" of ROV, Professor Robert C. Merton discussed the essential points of Arundel in his Nobel Prize Lecture in 1997.  Arundel involves a group of investors that is considering acquiring the sequel rights to a portfolio of yet-to-be released feature films. In particular, the investors must determine the value of the sequel rights before any of the first films are produced. Here, the investors face two main choices. They can produce an original movie and sequel at the same time or they can wait to decide on a sequel after the original film is released. The second approach, he states, provides the option not to make a sequel in the event the original movie is not successful. This real option has economic worth and can be valued monetarily using an option-pricing model. See Option (filmmaking).
+
+
+== See also ==
+Option contract
+Opportunity cost
+Monte Carlo methods in finance
+Contingent claim valuation
+Fuzzy pay-off method for real option valuation
+Datar–Mathews method for real option valuation
+Business valuation § Option pricing approaches
+Corporate finance § Valuing flexibility
+Government procurement in the United States § Real options analysis
+Principal–agent problem § Options framework
+Patent valuation § Option-based method
+Contingent value rights
+
+
+== References ==
+
+
+== Further reading ==
+Standard texts:
+
+Amram, Martha; Kulatilaka,Nalin (1999). Real Options: Managing Strategic Investment in an Uncertain World. Boston: Harvard Business School Press. ISBN 978-0-87584-845-7.
+Brach, Marion A. (2003). Real Options in Practice. New York: Wiley. ISBN 978-0471445562.
+Copeland, Thomas E.; Vladimir Antikarov (2001). Real Options: A Practitioner's Guide. New York: Texere. ISBN 978-1-58799-028-1.
+Dixit, A.; R. Pindyck (1994). Investment Under Uncertainty. Princeton: Princeton University Press. ISBN 978-0-691-03410-2.
+Moore, William T. (2001). Real Options and Option-embedded Securities. New York: John Wiley & Sons. ISBN 978-0-471-21659-9.
+Müller, Jürgen (2000). Real Option Valuation in Service Industries. Wiesbaden: Deutscher Universitäts-Verlag. ISBN 978-3-8244-7138-6.
+Smit, T.J.; Trigeorgis, Lenos (2004). Strategic Investment: Real Options and Games. Princeton: Princeton University Press. ISBN 978-0-691-01039-7.
+Trigeorgis, Lenos (1996). Real Options: Managerial Flexibility and Strategy in Resource Allocation. Cambridge: The MIT Press. ISBN 978-0-262-20102-5.
+Kodukula, P.; Papudesu, C. (2006). Project valuation using real options: a practitioner's guide. J. Ross Publishing. ISBN 978-1932159431.Applications:
+
+Yaish, Aviv; Zohar, Aviv (2020-06-18). "Pricing ASICs for Cryptocurrency Mining". arXiv:2002.11064. {{cite journal}}: Cite journal requires |journal= (help)
+Brennan, Michael J.; Schwartz, Eduardo S. (1985). "Evaluating Natural Resource Investments". The Journal of Business. 58 (2): 135–157. doi:10.1086/296288. JSTOR 2352967.
+Aswath Damodaran. "Applications of option pricing theory to equity valuation". {{cite journal}}: Cite journal requires |journal= (help)
+Daryl G. Waldron. "Valuing Alternative Market Entry Strategies as "Real-Options"" (PDF). {{cite journal}}: Cite journal requires |journal= (help)
+Richard de Neufville. "Real options in public infrastructures". {{cite journal}}: Cite journal requires |journal= (help)
+Grenadier, Steven R. & Weiss, Allen M., 1997. "Investment in technological innovations: An option pricing approach," Journal of Financial Economics, Elsevier, vol. 44(3), pages 397–416, June.
+Don Chance; Eric Hillebrand; Jimmy Hilliard (June 2009). "Pricing options on film revenue". Risk.net.
+S. Young; J. Gong; W. Van der Stede (2012). "Using real options to make decisions in the motion picture industry". Strategic Finance: 53–59.
+David Lackner. "Strategic Technology Investment Decisions in Research & Development". {{cite journal}}: Cite journal requires |journal= (help)
+Heikkilä, Markku; Collan, Mikael (September 2011). "Enhancing Patent Valuation". Journal of Intellectual Property Rights. 16 (5).
+Sidak, J. Gregory; Leonard, Gregory K.; Hausman, Jerry A. (2007). "Patent Damages and Real Options: How Judicial Characterization of Non-Infringing Alternatives Reduces Incentives to Innovate". SSRN 931014. {{cite journal}}: Cite journal requires |journal= (help)
+Fernando Torres (2006-09-11). "Establishing Licensing Rates Through Options". doi:10.2139/ssrn.1014743. S2CID 219360034. SSRN 1014743. {{cite journal}}: Cite journal requires |journal= (help)
+Ehud Ronn, Valery Kholodnyi, Shannon Burchett. "Real Options and Energy Management". {{cite journal}}: Cite journal requires |journal= (help)CS1 maint: multiple names: authors list (link)
+D. Mauer; S. Sarkar (2001). "Real Options, Agency Conflicts, and Financial Policy" (PDF). Archived from the original (PDF) on 2016-03-04.
+The Impact of Real Options in Agency Problems G. Siller-Pagaza, G. Otalora, E. Cobas-Flores (2006).
+Natasa Bilkic, Thomas Gries and Margarethe Pilichowski. (October 2012). "Stay in School or Start Working? - The Human Capital Investment Decision under Uncertainty and Irreversibility" (PDF). Labour Economics. 19 (5): 706–717. doi:10.1016/j.labeco.2012.04.005. hdl:10419/30651. S2CID 154917586.
+Karpoff, Jonathan M. (1989). "Characteristics of Limited Entry Fisheries and the Option Component of Entry Licenses". Land Economics. 65 (4): 386–393. doi:10.2307/3146806. JSTOR 3146806.
+Collan, Mikael; Kinnunen Jani (2011). "A Procedure for the Rapid Pre-acquisition Screening of Target Companies Using the Pay-off Method for Real Option Valuation". Journal of Real Options and Strategy. 4 (1): 117–141. doi:10.12949/realopn.4.117.
+
+
+== External links ==
+
+
+=== Theory ===
+Intro to Real Option Valuation as a Modelling Problem, Mikael Collan
+The Promise and Peril of Real Options, Prof. Aswath Damodaran, Stern School of Business
+Real Options Tutorial, Prof. Marco Dias, PUC-Rio
+Valuing Real Options: Frequently Made Errors, Prof. Pablo Fernandez, IESE Business School, University of Navarra
+Identifying real options, Prof. Campbell R. Harvey. Duke University, Fuqua School of Business
+An introduction to real options (Investment Analysts Society of Southern Africa), Prof E. Gilbert, University of Cape Town
+Decision Making Under Uncertainty—Real Options to the Rescue?, Prof. Luke Miller & Chan Park, Auburn University
+Real Options Whitepapers and Case-studies, Dr. Jonathan Mun
+Real Options – Introduction, Portfolion Group
+How Do You Assess The Value of A Company's "Real Options"?, Prof. Alfred Rappaport Columbia University and Michael Mauboussin
+Some Important Issues Involving Real Options: An Overview, Gordon Sick and Andrea Gamba (2005).
+Real Power of Real Options, Leslie and Michaels (1997), Keith Leslie and Max Michaels McKinsey Quarterly, 1997 (3) pages 4–22. Cited by Robert Merton in his Nobel Prize Acceptance Speech in 1997. McKinsey classic - Reprinted in McKinsey Anthology 2000 - On Strategy. Cited in McKinsey Anthology 2011 - Have You Tested Your Strategy Lately.
+
+
+=== Journals ===
+Journal of Real Options and Strategy
+
+
+=== Calculation resources ===
+ROV Spreadsheet Models, Prof. Aswath Damodaran, Stern School of Business
+Real Options Calculator, Prof. Steven T. Hackman, Georgia Institute of Technology

@@ -1,0 +1,58 @@
+Structured finance is a sector of finance — specifically financial law — that manages leverage and risk. Strategies may involve legal and corporate restructuring, off balance sheet accounting, or the use of financial instruments.
+Securitization provides $15.6 trillion in financing and funded more than 50% of U.S. household debt last year. Through securitization and structured finance, more families, individuals, and businesses have access to essential credit, seamlessly and at a lower price.With more than 370 member institutions, the Structured Finance Association (SFA) is the leading trade association for the structured finance industry. SFA’s purpose is to help its members and public policymakers grow credit availability and the real economy in a responsible manner. ISDA conducted market surveys of its Primary Membership to provide a summary of the notional amount outstanding of interest rate, credit, and equity derivatives, until 2010. The ISDA Margin Survey is also conducted annually to examine the state of collateral use and management among derivatives dealers and end-users. End-User Surveys are also conducted to collect information on usage of privately negotiated derivatives.
+
+
+== Structure ==
+
+
+=== Securitization ===
+
+Structured finance utilizes securitization to pool assets, creating novel financial instruments to enable better use of available capital or serve as a cheaper source of funding, especially for lower-rated originators
+Other uses include alternative funding (ture), reducing credit concentration and for risk transfer and risk management interest rates and liquidity.
+
+
+=== Tranching ===
+Tranching refers to the creation of different classes of securities (typically with different credit ratings) from the same pool of assets. It is an important concept, because it is the system used to create different investment classes for the securities. Tranching allows the cash flow from the underlying asset to be diverted to various investor groups. The Bank for International Settlements Committee on the Global Financial System explains tranching as follows: "A key goal of the tranching process is to create at least one class of securities whose rating is higher than the average rating of the underlying collateral pool or to create rated securities from a pool of unrated assets. This is accomplished through the use of credit support (enhancement), such as prioritization of payments to the different tranches."
+
+
+=== Credit enhancement ===
+Credit enhancement is key in creating a security that has a higher rating than the underlying asset pool. Credit enhancement can be created, for example, by issuing subordinate bonds.  The subordinate bonds are allocated any losses from the collateral before losses are allocated to the senior bonds, thus giving senior bonds a credit enhancement.  As a result, it is possible for defaults to occur in repayment of the underlying assets without affecting payments to holders of the senior bonds.  Also, many deals, typically those involving riskier collateral, such as subprime and Alt-A mortgages, use over-collateralization as well as subordination. In over-collateralization, the balance of the underlying assets (e.g., loans) is greater than the balance of the bonds, thus creating excess interest in the deal which acts as a "cushion" against reduction in value of the underlying assets. Excess interest can be used to offset collateral losses before losses are allocated to bondholders, thus providing another credit enhancement. A further credit enhancement involves the use of derivatives such as swap transactions, which effectively provide insurance, for a set fee, against a decrease in value.Monoline insurers play a critical role in modern-day Credit Enhancements; they are more effective in (a) off-balance-sheet models creating synthetic collateral, (b) sovereign ratings' enhancement with built-in asset derivatives and (c) cross border loans with receivables and counterparties in the domain and jurisdiction of the monoline insurer. The decision whether to use a monoline insurer or not often depends upon the cost of such cover vis-a-vis the improvement in pricing for the loan or bond issue by virtue of such credit enhancement.Ratings play an important role in structured finance for instruments that are meant to be sold to investors. Many mutual funds, governments, and private investors only buy instruments that have been rated by a known credit rating agency, like Moody's, Fitch or S&P Global Ratings.  New rules in the U.S. and Europe have tightened the requirements for ratings agencies.
+
+
+== Types ==
+
+There are several main types of structured finance instruments.
+Asset-backed securities are bonds or notes based on pools of assets or collateralized by the cash flows from a specific pool of underlying assets.
+Mortgage-backed securities are asset-backed securities, the cash flows from which are backed by the principal and interest payments of a set of mortgage loans.
+Residential mortgage-backed securities deal with residential homes, usually single family.
+Commercial mortgage-backed securities are for commercial real estate, such as malls or office complexes.
+Collateralized mortgage obligations are securitizations of mortgage-backed securities, typically involving multiple classes with differing levels of seniority.
+Collateralized debt obligations consolidate a group of fixed-income assets, such as high-yield debt or asset-backed securities, into a pool, which is then divided into various tranches.  Many CDOs are collateralized by various types of mortgage-backed securities and other mortgage-related assets.  An extension of these CDOs are "synthetic" CDOs which are collateralized by credit default swaps and other derivatives.Collateralized bond obligations are collateralized debt obligations backed primarily by corporate bonds.
+Collateralized loan obligations are collateralized debt obligations backed primarily by bank loans.
+Commercial real estate collateralized debt obligations are collateralized debt obligations backed primarily by commercial real estate loans and bonds.
+Credit derivatives are contracts to transfer the risk of the total return on a credit asset falling below an agreed level, without transfer of the underlying asset.
+Collateralized fund obligations are securitizations of private equity and hedge fund assets.
+Insurance linked securities are risk transfer instruments linked to insurance losses due to catastrophic events, which are generally seen as uncorrelated to traditional financial markets.
+Partial guaranteed structures
+Future flow transactions
+Loan sell offs
+Revolving Credit Financing (property or traded goods)
+
+
+== See also ==
+Pooled investment
+Securitization
+Thomson Financial League Tables
+Structurer
+Structured product
+
+
+== References ==
+
+
+== External links ==
+Jobst, Andreas A. (2007).  "A Primer on Structured Finance" Journal of Derivatives and Hedge Funds
+Tergesen, Anne (2006). "Structured Notes: Quirkiest Vehicle on the Street",  Business Week
+Goldstein, Matthew (2004).  "Post-Enron, Structured Finance Addiction Hasn't Ebbed" TheStreet.com
+Andy, (2016).  "Working capital is a company’s current assets minus its current liabilities" structurefunding.com
+The Economics of Structured Finance

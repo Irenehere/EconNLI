@@ -1,0 +1,449 @@
+A tax haven is a term, sometimes used negatively and for political reasons, to describe a place with very low tax rates for non-domiciled investors, even if the official rates may be higher.In some older definitions, a tax haven also offers financial secrecy. However, while countries with high levels of secrecy but also high rates of taxation, most notably the United States and Germany in the Financial Secrecy Index ("FSI") rankings, can be featured in some tax haven lists, they are often omitted from lists for political reasons or through lack of subject matter knowledge. In contrast, countries with lower levels of secrecy but also low "effective" rates of taxation, most notably Ireland in the FSI rankings, appear in most § Tax haven lists. The media consensus on effective tax rates poured by certain academics and politicians is that the term "tax haven" and "offshore financial centre" are almost synonymous. In reality, many offshore financial centers do not have harmful tax practices and are at the forefront among financial centers regarding AML practices and international tax reporting.
+Jurisdictions that were formerly known as tax havens, like Jersey, are open about zero rates of taxation, known more accurately as tax neutrality. Some such OFCs have limited bilateral tax treaties, however the connotations associated with this may be misleading, as the consequence is that full tax set by the relevant jurisdictions receiving the proceeds from these OFCs is payable there. They now operate with high levels of OECD compliance.
+Modern corporate tax havens have non-zero "headline" rates of taxation, may also high levels of OECD compliance, and have large networks of bilateral tax treaties. However, their base erosion and profit shifting ("BEPS") tools enable corporates to achieve "effective" tax rates closer to zero, not just in the haven but in all countries with which the haven has tax treaties; sometimes putting them on tax haven lists. According to modern studies, the § Top 10 tax havens include corporate-focused havens like the Netherlands, Singapore, Ireland, and the U.K., while Luxembourg, Hong Kong, the Cayman Islands, Bermuda, the British Virgin Islands, and Switzerland feature as both major traditional tax havens and major corporate tax havens. Corporate tax havens often serve as "conduits" to traditional tax havens.Use of tax havens results in a reduction of tax revenues in certain countries and the movement of taxable profits from some jurisdiction to others. Estimates of the § Financial scale of taxes avoided vary and very few are credible, but some more measured estimates assert a range of US$100–250 billion per annum. In addition, capital held in tax havens can permanently leave the tax base (base erosion). Estimates of capital held in tax havens also vary: the most credible estimates are between US$7–10 trillion (up to 10% of global assets). The harm of traditional and corporate tax havens has been said to be particularly acute in developing nations, where the tax revenues are needed to build critical infrastructure. In reality, it is often the misappropriation of resources and the illegitimate movement of public monies to private citizens that is most problematic.
+Over 15% of countries are sometimes labelled tax havens, adding to the growing redundancy of the phrase. Financial services has brought prosperity to OFCs. The top 10–15 GDP-per-capita countries, excluding oil and gas exporters, are OFCs but GDP-per-capita does have limitations in utility, and many OFCs appear particularly distorted because of their low populations. Because of § Inflated GDP-per-capita (due to accounting BEPS flows), some OFCs are prone to over-leverage (international capital misprice the artificial debt-to-GDP). This can lead to severe credit cycles and/or property/banking crises when international capital flows are repriced. Ireland's Celtic Tiger, and the subsequent financial crisis in 2009–13, is an example. Jersey is another. Research shows § U.S. as the largest beneficiary, and use of tax havens by U.S. corporates maximised U.S. exchequer receipts.Historical focus on combating tax havens (e.g. OECD–IMF projects) had been on common standards, tax transparency and data sharing with tax authorities. The rise of OECD-compliant corporate tax havens, whose BEPS tools were responsible for most of the lost taxes, led to criticism of this approach, versus actual taxes paid. This has highlighted the disconnect between the public perception of tax havens being tropical islands mainly in the Caribbean, and the reality of corporate tax avoidance taking place within the EU, USA, Singapore - the modern corporate tax havens. The misdirection of focus caused some higher-tax jurisdictions, such as the United States and many member states of the European Union, departed from the OECD BEPS Project in 2017–18 to introduce anti-BEPS tax regimes, targeted raising net taxes paid by corporations in corporate tax havens (e.g. the U.S. Tax Cuts and Jobs Act of 2017 ("TCJA") GILTI–BEAT–FDII tax regimes and move to a hybrid "territorial" tax system, and proposed EU Digital Services Tax regime, and EU Common Consolidated Corporate Tax Base).
+
+
+== History ==
+
+
+=== Overview ===
+While areas of low taxation are recorded in Ancient Greece, tax academics identify what we know as tax havens as being a modern phenomenon, and note the following phases in their development:
+
+19th century New Jersey and Delaware Corporations. In the 1880s, New Jersey was in financial difficulty and the Governor, Leon Abbett, backed a plan by a New York lawyer, Mr. Dill, to create a more liberal regime for establishing corporate structures, including availability "off-the-shelf companies" (but not non-resident companies). Delaware followed with the General Incorporation Act in 1898, on the basis of lobbying from other New York lawyers. Because of the restrictive incorporation regime in the Anglo-Saxon world as a result of the South Sea Bubble, New Jersey and Delaware were successful, and though not explicitly tax havens (e.g. US Federal and State taxes applied), many future tax havens would copy their "liberal" incorporation regimes.
+Post World War I. The modern concept of a tax haven is generally accepted to have emerged at an uncertain point in the immediate aftermath of World War I. Bermuda sometimes claims to have been the first tax haven based upon the creation of the first offshore companies legislation in 1935 by the newly created law firm of Conyers Dill & Pearman. However, most tax academics identify the Zurich-Zug-Liechtenstein triangle as the first "tax haven hub" created during the mid-1920s. Liechtenstein's 1924 Civil Code created the infamous Anstalt corporate vehicle, while Zurich and Zug developed the Aktiengesellschaft/Societé Anonyme and other brass plate companies.  Tax academic Ronen Palan identifies two of the three major groups of tax havens, as emerging during this period:British Empire-based tax havens. The 1929 court case of Egyptian Delta Land and Investment Co. Ltd. V. Todd in Britain created the "non-resident corporation" and recognised a British-registered company with no business activities in Britain is not liable to British taxation. Tax academic Sol Picciotto noted the creation of such "non-resident" companies was "a loophole which, in a sense, made Britain a tax haven". The ruling applied to the British Empire, including Bermuda, Barbados, and the Cayman Islands.
+European-based tax havens. The Zurich-Zug-Liechtenstein triangle expanded and was joined by Luxembourg in 1929 when they created tax-free holding companies. However, in 1934, as a reaction to the global depression, the Swiss Banking Act of 1934 put bank secrecy under Swiss criminal law. Secrecy and privacy would become an important and distinctive part of the European-based tax havens, in comparison with other tax havens.Post World War II offshore financial centres. Currency controls enacted post World War II led to the creation of the Eurodollar market and the rise in offshore financial centres (OFCs).  Many of these OFCs were traditional tax havens from the Post World War I phase, including the Cayman Islands and Bermuda, however new centres such as Hong Kong and Singapore began to emerge. The Tangier International Zone was an extreme case of tax leniency and banking secrecy in the period following its wartime suspension, but that was brought to an end in 1960 as a consequence of Moroccan independence.: 113  London's position as a global financial centre for these OFCs was secured when the Bank of England ruled in 1957 that transactions executed by British banks on behalf of a lender and borrower who were not located in the UK, were not to be officially viewed as having taken place in the UK for regulatory or tax purposes, even though the transaction was only ever recorded as taking place in London. The rise of OFCs would continue so that by 2008, the Cayman Islands would be the 4th largest financial centre in the world, while Singapore and Hong Kong had become major Regional Financial Centres (RFCs).  By 2010, tax activists would promote the notion that OFCs are synonymous with tax havens, and that most of their services involved taxation. This simplistic summary ignores the diverse spcialisms and qualities of the various OFCs.
+Emerging economy-based tax havens. As well as the dramatic rise in OFCs, from the late 1960s onwards, new tax havens began to emerge to service developing and emerging markets, which became Palan's third group. The first Pacific tax haven was Norfolk Island (1966), a self-governing external territory of Australia. It was followed by Vanuatu (1970–71), Nauru (1972), the Cook Islands (1981), Tonga (1984), Samoa (1988), the Marshall Islands (1990), and Nauru (1994). All these havens introduced familiar legislation modeled on the successful British Empire and European tax havens, including near-zero taxation for exempt companies, and non-residential companies, Swiss-style bank secrecy laws, trust companies laws, offshore insurance laws, flags of convenience for shipping fleets and aircraft leasing, and beneficial regulations for new online services (e.g. gambling, pornography, etc.). An important feature of legislation in some of these jurisdictions is the difficulty of creditors to assert their claims, compared to other common law jurisdictions.
+Corporate-focused tax havens. In 1981, the US IRS published the Gordon Report on the use of tax havens by US taxpayers, which highlighted the use by tax havens by US corporations.  In 1983, US corporation McDermott International executed the first tax inversion to Panama. The EU Commission showed that Apple Inc. had begun to use the infamous Double Irish BEPS tool as early as 1991. US tax academic James R. Hines Jr. showed in 1994 that US corporations were achieving effective rates of taxation of circa 4% in corporate-focused OECD tax havens like Ireland. When in 2004, the US Congress stopped "naked tax inversions" by US corporations to Caribbean tax havens with the introduction of IRS Regulation 7874, a much larger wave of US corporate "merger inversions" started that involved moving to OECD tax havens. A new class of corporate tax haven had emerged that was OECD-compliant, transparent, but offered complex base erosion and profit shifting (BEPS) tools that could achieve net tax rates similar to traditional tax havens. Initiatives by the OECD to curb tax havens would mainly impact Palan's third group of Emerging economy-based tax havens, however, the corporate-focused tax havens were drawn from the largest OFCs that had emerged from the British Empire-based tax havens and European-based tax havens, and included the Netherlands, Singapore, Ireland, USA and the U.K., and even reformed traditional tax havens such as Luxembourg, Hong Kong, and Switzerland. The scale of their BEPS activities meant that this group of 10 jurisdictions would dominate academic tax haven lists from 2010, including Hines' 2010 list, the Conduit and Sink OFC 2017 list, and Zucman's 2018 list.
+
+
+=== Notable events ===
+1929. British courts rule in Egyptian Delta Land and Investment Co. Ltd. V. Todd. that a British-registered company with no business activities in Britain is not liable to British taxation. Sol Picciotto noted the creation of such "non-resident" companies was "a loophole which, in a sense, made Britain a tax haven". The ruling applied to the British Empire, including Bermuda, Barbados, and the Cayman Islands.
+1934. As a reaction to the global depression, the Swiss Banking Act of 1934 put bank secrecy under Swiss criminal law. The law required "absolute silence in respect to a professional secret" (i.e. accounts in Swiss banks). "Absolute" means protection from any government, including the Swiss. The law even made inquiry or research into the "trade secrets" of Swiss banks, a criminal offense.
+1981. The US Treasury and the US Attorney General are given: Tax havens and their use by United States taxpayers: An Overview by Richard A. Gordon Special Counsel for International Taxation at the IRS.  The Gordon Report identifies new types of corporate tax havens such as Ireland (described as a manufacturing tax haven).
+1983. The first officially recognized US corporate tax inversion as McDermott International moves from Texas to tax haven, Panama.
+1994. James R. Hines Jr. publishes the important Hines–Rice paper, producing the first academic list of 41 tax havens, including 7 major tax havens.  The Hines-Rice paper used the term profit shifting, and showed that while many tax havens had higher headline tax rates, their effective tax rates were much lower. Hines shows that the US is a major user of tax havens.
+2000.  The OECD produces its first formal list of 35 tax havens who have met two of three OECD Criteria; none of the existing 35 OECD members, or EU–28 members, were listed as tax havens.  By 2008, only Trinidad & Tobago met the OECD's Criteria to be a tax haven. Academics start using the terms "OECD tax havens" and "EU tax havens".
+2000.  The FSF–IMF define an offshore financial centre (OFC) with a list of 42–46 OFCs using a qualitative list of criteria; in 2007, the IMF produced a revised quantitative-based list of 22 OFCs, and in 2018, another revised quantitative-based list of 8 major OFCs, who are responsible for 85% of OFC financial flows. By 2010, tax academics consider OFCs and tax havens as synonymous.
+2004.  US Congress passes the American Jobs Creation Act of 2004 (AJCA) with IRS Section 7874 that effectively ends naked inversions by US corporations to Caribbean tax havens.
+2009. The Tax Justice Network introduced the Financial Secrecy Index ("FSI") and the term "secrecy jurisdiction", to highlight issues in regard to OECD-compliant countries who have high tax rates and do not appear on academic lists of tax havens, but have transparency issues.
+2010. James R. Hines Jr. publishes a list of 52 tax havens, and unlike all past tax haven lists, were scaled quantitatively by analysing corporate investment flows. The Hines 2010 list was the first to estimate the ten largest global tax havens, only two of which, Jersey and the British Virgin Islands, were on the OECD's 2000 list.
+2015. Medtronic completes the largest tax inversion in history in a US$48 billion merger with Covidien plc in Ireland, while Apple Inc. complete the largest hybrid-tax inversion in history moving US$300 billion of intellectual property to Ireland (called leprechaun economics); by 2016, the US Treasury tighten the inversion rules, causing Pfizer to abort their US$160 billion merger with Allergan plc.
+2017. The University of Amsterdam's CORPNET group using on a purely quantitive approach, splits the understanding of OFCs into Conduit OFCs and Sink OFCs. CORPNET's lists of top five Conduit OFCs and top five Sink OFCs, matched 9 of the top 10 havens in Hines' 2010 list, only differing in the United Kingdom, which only transformed their tax code in 2009–12. Tellingly, these distinctions do not make the clear distinction of the industries such as investment funds and insurance industries, and that they are carved out from the headlines estimates, meaning the two lists are distorted and the rationale fundamentally flawed.
+2017. The EU Commission produces its first formal list of tax havens with 17 countries on its 2017 blacklist and 47 on its 2017 greylist; however, as with the previous 2010 OECD list, the list is demonstrably meaningless as none of the jurisdictions are OECD or EU–28 countries, nor are they in the list of § Top 10 tax havens.
+2018. Tax activist Gabriel Zucman (et alia) suggests aggregate corporate "profit shifting" (i.e. BEPS) is shielding over US$250 billion per year from taxes. Zucman's 2018 list of top 10 havens matched 9 of the top 10 havens in Hines' 2010 list, but with Ireland as the largest global haven. Zucman shows that US corporations are almost half of all profits shifted.
+2019. European Parliament votes to accept a report by 505 votes in favour to 63 against, identifying five "EU tax havens" that should be included on the EU Commission list of tax havens.
+
+
+== Definitions ==
+
+
+=== Context ===
+There is no established consensus regarding a specific definition for what constitutes a tax haven. This is the conclusion from non-governmental organisations, such as the Tax Justice Network in 2018, from the 2008 investigation by the U.S. Government Accountability Office, from the 2015 investigation by the U.S. Congressional Research Service, from the 2017 investigation by the European Parliament, and from leading academic researchers of tax havens.The issue, however, is material, as being labelled a "tax haven" has consequences for a country seeking to develop and trade under bilateral tax treaties. When Ireland was "blacklisted" by G20 member Brazil in 2016, bilateral trade declined. The outmoded and often redundant use of the term "tax haven" compounded by the highly political and subjective ways of defining it mean it is a hindrance to analysis and action on tax planning, avoidance and evasion analysis.
+
+
+=== Academic non-quantitative (1994–2016) ===
+One of the first § Important papers on tax havens, was the 1994 Hines–Rice paper by James R. Hines Jr. It is the most cited paper on tax haven research, even in late 2017, and Hines is the most cited author on tax haven research. As well as offering insights into tax havens, it took the view that the diversity of countries that become tax havens was so great that detailed definitions were inappropriate. Hines merely noted that tax havens were: "a group of countries with unusually low tax rates". Hines reaffirmed this approach in a 2009 paper with Dhammika Dharmapala. This approach was popular, yet problematic. Jurisdictions such as the Cayman Islands are global centres for investment funds. It is globally normal and in no way harmful tax practice for investment funds themselves to be tax neutral. This is because the profits of the fund are taxed fully by those with the economic interest - the investment manager and the investors. In this way, a tax rate of zero is not unusual but logical and commonplace, such in Delaware, France and the UK.
+In December 2008, Dharmapala wrote that the OECD process had removed much of the need to include "bank secrecy" in any definition of a tax haven and that it was now "first and foremost, low or zero corporate tax rates", and this has become the general "financial dictionary" definition of a tax haven.Hines refined his definition in 2016 to incorporate research on § Incentives for tax havens on governance, which is broadly accepted in the academic lexicon.
+Tax havens are typically small, well-governed states that impose low or zero tax rates on foreign investors.
+
+
+=== OECD–IMF (1998–2018) ===
+In April 1998, the OECD produced a definition of a tax haven, as meeting "three of four" criteria. It was produced as part of their "Harmful Tax Competition: An Emerging Global Issue" initiative. By 2000, when the OECD published their first list of tax havens, it included no OECD member countries as they were now all considered to have engaged in the OECD's new Global Forum on Transparency and Exchange of Information for Tax Purposes, and therefore would not meet Criteria ii and Criteria iii. As the OECD has never listed any of its 35 members as tax havens, Ireland, Luxembourg, the Netherlands, and Switzerland are sometimes defined as the "OECD tax havens".In 2017, only Trinidad & Tobago met the 1998 OECD definition; that definition thus fell into disrepute.
+
+(†) The 4th criterion was withdrawn after objections from the new U.S. Bush Administration in 2001, and in the OECD's 2002 report the definition became "two of three criteria".The 1998 OECD definition is most frequently invoked by the "OECD tax havens". However, that definition (as noted above) lost credibility when, in 2017, under its parameters, only Trinidad & Tobago qualified as a tax haven and has since been largely discounted by tax haven academics, including the 2015 U.S. Congressional Research Service investigation into tax havens, as being restrictive, and enabling Hines' low-tax havens (e.g. to which the first criterion applies), to avoid the OECD definition by improving OECD corporation (so the second and third criteria do not apply).
+Thus, the evidence (limited though it undoubtedly is) does not suggest any impact of the OECD initiative on tax-haven activity. [...] Thus, the OECD initiative cannot be expected to have much impact on corporate uses of tax havens, even if (or when) the initiative is fully implemented
+In April 2000, the Financial Stability Forum (or FSF) defined the related concept of an offshore financial centre (or OFC), which the IMF adopted in June 2000, producing a list of 46 OFCs. The FSF–IMF definition focused on the BEPS tools havens offer, and on Hines' observation that the accounting flows from BEPS tools are "out-of-proportion" and thus distort the economic statistics of the haven. The FSF–IMF list captured new corporate tax havens, such as the Netherlands, which Hines considered too small in 1994. In April 2007, the IMF used a more quantitative approach to generate a list of 22 major OFCs, and in 2018 listed the 8 major OFCs who handle 85% of all flows. From about 2010, tax academics considered OFCs and tax havens to be synonymous terms.
+
+
+=== Academic quantitative (2010–2018) ===
+In October 2010, Hines published a list of 52 tax havens, which he had scaled quantitatively by analysing corporate investment flows. Hines' largest havens were dominated by corporate tax havens, who Dharmapala noted in 2014 accounted for the bulk of global tax haven activity from BEPS tools. The Hines 2010 list was the first to estimate the ten largest global tax havens, only two of which, Jersey and the British Virgin Islands, were on the OECD's 2000 list.
+In July 2017, the University of Amsterdam's CORPNET group ignored any definition of a tax haven and focused on a purely quantitive approach, analysing 98 million global corporate connections on the Orbis database. CORPNET's lists of top five Conduit OFCs, and top five Sink OFCs, matched 9 of the top 10 havens in Hines' 2010 list, only differing in the United Kingdom, which only transformed their tax code in 2009–12. CORPNET's Conduit and Sink OFCs study split the understanding of a tax haven into two classifications:
+24 Sink OFCs: jurisdictions in which a disproportionate amount of value disappears from the economic system (e.g. the traditional tax havens).
+5 Conduit OFCs: jurisdictions through which a disproportionate amount of value moves toward sink OFCs (e.g. the modern corporate tax havens).In June 2018, tax academic Gabriel Zucman (et alia) published research that also ignored any definition of a tax haven, but estimated the corporate "profit shifting" (i.e. BEPS), and "enhanced corporate profitability" that Hines and Dharmapala had noted. Zucman pointed out that the CORPNET research under-represented havens associated with US technology firms, like Ireland and the Cayman Islands, as Google, Facebook and Apple do not appear on Orbis. Even so, Zucman's 2018 list of top 10 havens also matched 9 of the top 10 havens in Hines' 2010 list, but with Ireland as the largest global haven. These lists (Hines 2010, CORPNET 2017 and Zucman 2018), and others, which followed a purely quantitive approach, showed a firm consensus around the largest corporate tax havens.
+
+
+=== Related definitions ===
+In October 2009, the Tax Justice Network introduced the Financial Secrecy Index ("FSI") and the term "secrecy jurisdiction", to highlight issues in regard to OECD-compliant countries who have high tax rates and do not appear on academic lists of tax havens, but have transparency issues. The FSI does not assess tax rates or BEPS flows in its calculation; but it is often misinterpreted as a tax haven definition in the financial media, particularly when it lists the US and Germany as major "secrecy jurisdictions".  However, many types of tax havens also rank as secrecy jurisdictions.
+
+
+== Groupings ==
+
+While tax havens are diverse and varied, tax academics sometimes recognise three major "groupings" of tax havens when discussing the history of their development:
+
+
+=== European-related tax havens ===
+As discussed in § History, the first recognized tax haven hub was the Zurich-Zug-Liechtenstein triangle created in the mid-1920s, later joined by Luxembourg in 1929.  Privacy and secrecy were established as an important aspect of European tax havens.  However, modern European tax havens also include corporate-focussed tax havens, which maintain higher levels of OECD transparency, such as the Netherlands and Ireland. European tax havens act as an important part of the global flows to tax havens, with three of the five major global Conduit OFCs being European (e.g. the Netherlands, Switzerland, and Ireland). Four European-related tax havens appear in the various notable § Top 10 tax havens lists, namely: the Netherlands, Ireland, Switzerland, and Luxembourg.
+
+
+=== British Empire-related tax havens ===
+Many tax havens are former or current dependencies of the United Kingdom and still use the same core legal structures. Six British Empire-related tax havens appear in the § Top 10 tax havens lists, namely: Caribbean tax havens (e.g., Bermuda, the British Virgin Islands, and the Cayman Islands), Channel Islands tax havens (e.g. Jersey) and Asian tax havens (e.g., Singapore and Hong Kong). As discussed in § History, the United Kingdom created its first "non-resident company" in 1929, and led the Eurodollar offshore financial centre market post World War II.  Since the reform of its corporate tax code in 2009–2012, the UK has re-emerged as a major corporate-focused tax haven.  Two of the five major global Conduit OFCs are from this grouping (e.g. the U.K. and Singapore).In November 2009, Michael Foot, a former Bank of England official and Bahamas bank inspector, delivered an integrated report on the three British Crown Dependencies (Guernsey, Isle of Man and Jersey), and the six Overseas Territories (Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Gibraltar, Turks and Caicos Islands), "to identify the opportunities and challenges as offshore financial centres", for the HM Treasury.
+
+
+=== Emerging market-related tax havens ===
+As discussed in § History, most of these tax havens date from the late 1960s and effectively copied the structures and services of the above groups.  Most of these tax havens are not OECD members, or in the case of British Empire-related tax havens, do not have a senior OECD member at their core.  Some have suffered setbacks during various OECD initiatives to curb tax havens (e.g. Vanuatu and Samoa). However, others such as Taiwan (for AsiaPAC), and Mauritius (for Africa), have grown materially in the past decades. Taiwan has been described as "Switzerland of Asia", with a focus on secrecy. Although no Emerging market-related tax haven ranks in the five major global Conduit OFCs or any § Top 10 tax havens lists, both Taiwan and Mauritius rank in the top ten global Sink OFCs.
+
+
+== Lists ==
+
+
+=== Types of lists ===
+Three main types of tax haven lists have been produced to date:
+
+Research also highlights proxy indicators, of which the two most prominent are:
+
+
+=== Top 10 tax havens ===
+The post–2010 rise in quantitative techniques of identifying tax havens has resulted in a more stable list of the largest tax havens.  Dharmapala notes that as corporate BEPS flows dominate tax haven activity, these are mostly corporate tax havens.  Nine of the top ten tax havens in Gabriel Zucman's June 2018 study also appear in the top ten lists of the two other quantitative studies since 2010. Four of the top five Conduit OFCs are represented; however, the UK only transformed its tax code in 2009–2012.  All five of the top 5 Sink OFCs are represented, although Jersey only appears in the Hines 2010 list.
+The studies capture the rise of Ireland and Singapore, both major regional headquarters for some of the largest BEPS tool users, Apple, Google and Facebook.  In Q1 2015, Apple completed the largest BEPS action in history, when it shifted US$300 billion of IP to Ireland, which Nobel-prize economist Paul Krugman called "leprechaun economics".  In September 2018, using TCJA repatriation tax data, the NBER listed the key tax havens as: "Ireland, Luxembourg, Netherlands, Switzerland, Singapore, Bermuda and [the] Caribbean havens".
+(*) Appears as a top ten tax haven in all three lists; 9 major tax havens meet this criterion, Ireland, Singapore, Switzerland and the Netherlands (the Conduit OFCs), and the Cayman Islands, British Virgin Islands, Luxembourg, Hong Kong and Bermuda (the Sink OFCs).
+(†) Also appears as one of 5 Conduit OFC (Ireland, Singapore, Switzerland, the Netherlands, and the United Kingdom), in CORPNET's 2017 research; or
+(‡) Also appears as a Top 5 Sink OFC (British Virgin Islands, Luxembourg, Hong Kong, Jersey, Bermuda), in CORPNET's 2017 research.
+(Δ) Identified on the first, and largest, OECD 2000 list of 35 tax havens (the OECD list only contained Trinidad & Tobago by 2017).The strongest consensus amongst academics regarding the world's largest tax havens is therefore: Ireland, Singapore, Switzerland and the Netherlands (the major Conduit OFCs), and the Cayman Islands, British Virgin Islands, Luxembourg, Hong Kong and Bermuda (the major Sink OFCs), with the United Kingdom (a major Conduit OFC) still in transformation.
+Of these ten major havens, all except the United Kingdom and the Netherlands featured on the original Hines–Rice 1994 list. The United Kingdom was not a tax haven in 1994, and Hines estimated the Netherlands's effective tax rate in 1994 at over 20%. (Hines identified Ireland as having the lowest effective tax rate at 4%.) Four of these: Ireland, Singapore, Switzerland (3 of the 5 top Conduit OFCs), and Hong Kong (a top 5 Sink OFC), featured in the Hines–Rice 1994 list's 7 major tax havens subcategory; highlighting a lack of progress in curtailing tax havens.In terms of proxy indicators, this list, excluding Canada, contains all seven of the countries that received more than one US tax inversion since 1982 (see here). In addition, six of these major tax havens are in the top 15 GDP-per-capita, and of the four others, three of them, the Caribbean locations, are not included in IMF-World Bank GDP-per-capita tables.
+In a June 2018 joint IMF report into the effect of BEPS flows on global economic data, eight of the above (excluding Switzerland and the United Kingdom) were cited as the world's leading tax havens.
+
+
+=== Top 20 tax havens ===
+The longest list from Non–governmental, Quantitative research on tax havens is the University of Amsterdam CORPNET July 2017 Conduit and Sink OFCs study, at 29 (5 Conduit OFCs and 25 Sink OFCs).  The following are the 20 largest (5 Conduit OFCs and 15 Sink OFCs), which reconcile with other main lists as follows:
+(*) Appears in as a § Top 10 tax havens in all three quantitative lists, Hines 2010, ITEP 2017 and Zucman 2018 (above); all nine such § Top 10 tax havens are listed below.
+(♣) Appears on the James Hines 2010 list of 52 tax havens; 17 of the 20 locations below, are on the James Hines 2010 list.
+(Δ) Identified on the largest OECD 2000 list of 35 tax havens (the OECD list only contained Trinidad & Tobago by 2017); only four locations below were ever on an OECD list. 
+(↕) Identified on the European Union's first 2017 list of 17 tax havens; only one location below is on the EU 2017 list.
+Sovereign states that feature mainly as major corporate tax havens are:
+
+*♣Ireland – a major corporate tax haven, and ranked by some tax academics as the largest;  leader in IP–based BEPS tools (e.g. double Irish), but also Debt-based BEPS tools.
+*♣Singapore – the major corporate tax haven for Asia (APAC headquarters for most US technology firms), and key conduit to core Asian Sink OFCs, Hong Kong and Taiwan.
+*♣Netherlands – a major corporate tax haven, and the largest Conduit OFC via its IP-based BEPS tools (e.g. Dutch Sandwich); traditional leader in Debt-based BEPS tools.
+United Kingdom – rising corporate tax haven after restructuring tax code in 2009–12; 17 of the 24 Sink OFCs are current or former dependencies of the UK (see Sink OFC table).Sovereign states or autonomous regions that feature as both major corporate tax havens and major traditional tax havens:
+
+*♣Switzerland – both a major traditional tax haven (or Sink OFC), and a major corporate tax haven (or Conduit OFC), and strongly linked to major Sink OFC, Jersey.
+*♣Luxembourg – one of the largest Sink OFCs in the world (a terminus for many corporate tax havens, especially Ireland and the Netherlands).
+*♣Hong Kong – the "Luxembourg of Asia", and almost as large a Sink OFC as Luxembourg; tied to APAC's largest corporate tax haven, Singapore.Sovereign (including de facto) states that feature mainly as traditional tax havens (but have non-zero tax rates):
+
+Taiwan – major traditional tax haven for APAC, and described by the Tax Justice Network as the "Switzerland of Asia".
+♣Malta – an emerging tax haven inside the EU, which has been a target of wider media scrutiny.Sovereign or sub-national states that are very traditional tax havens (i.e. explicit 0% rate of tax) include (fuller list in table opposite):
+
+♣ΔJersey (United Kingdom dependency), still a major traditional tax haven; the CORPNET research identifies a very strong connection with Conduit OFC Switzerland (e.g. Switzerland is increasingly relying on Jersey as a traditional tax haven); issues of financial stability.
+(♣ΔIsle of Man (United Kingdom dependency), the "failing tax haven", not in the CORPNET study (discussed here), but included for completeness.)
+Current British Overseas Territories, see table opposite, where 17 of the 24 Sink OFCs are current, or past, U.K. dependencies:
+*♣ΔBritish Virgin Islands, largest Sink OFC in the world and regularly appears alongside the Caymans and Bermuda (the Caribbean "triad") as a group.
+*♣Bermuda, does feature as a U.S. corporate tax haven; only 2nd to Ireland as a destination for U.S. tax inversions.
+*♣Cayman Islands, also features as a major U.S. corporate tax haven; 6th most popular destination for U.S. corporate tax inversions.
+♣ΔGibraltar – like the Isle of Man, has declined due to concerns, even by the U.K., over its practices.
+♣Mauritius – has become a major tax haven for both Asian (especially India) and African economies, and now ranking 8th overall.
+Curaçao – the Dutch dependency ranked 8th on the Oxfam's tax haven list, and the 12th largest Sink OFC, and recently made the EU's greylist.
+♣ΔLiechtenstein – long-established very traditional European tax haven and just outside of the top 10 global Sink OFCs.
+♣ΔBahamas – acts as both a traditional tax haven (ranked 12th Sink OFC), and ranks 8th on the ITEP profits list (figure 4, page 16) of corporate havens; 3rd highest secrecy score on the FSI.
+♣Δ↕Samoa – a traditional tax haven (ranked 14th Sink OFC), used to have one of the highest secrecy scores on the FSI, since reduced moderately.
+
+
+=== Broad lists of tax havens ===
+Post–2010 research on tax havens is focused on quantitative analysis (which can be ranked), and tends to ignore very small tax havens where data is limited as the haven is used for individual tax avoidance rather than corporate tax avoidance. The last credible broad unranked list of global tax havens is the James Hines 2010 list of 52 tax havens. It is shown below but expanded to 55 to include havens identified in the July 2017 Conduit and Sink OFCs study that were not considered havens in 2010, namely the United Kingdom, Taiwan, and Curaçao. The James Hines 2010 list contains 34 of the original 35 OECD tax havens; and compared with the § Top 10 tax havens and § Top 20 tax havens above, show OECD processes focus on the compliance of tiny havens.
+
+(†) Identified as one of the 5 Conduits by CORPNET in 2017; the above list has 5 of the 5.
+(‡) Identified as one of the largest 24 Sinks by CORPNET in 2017; the above list has 23 of the 24 (Guyana missing).
+(↕) Identified on the European Union's first 2017 list of 17 tax havens; the above list contains 8 of the 17.
+(Δ) Identified on the first, and the largest, OECD 2000 list of 35 tax havens (the OECD list only contained Trinidad & Tobago by 2017); the above list contains 34 of the 35 (U.S. Virgin Islands missing).
+
+
+=== Unusual cases ===
+U.S. dedicated entities:
+
+Delaware (United States), a unique "onshore" specialised haven with strong secrecy laws and a liberal incorporation regime; however Federal and State tax apply (see § History).
+Puerto Rico (United States), almost a corporate tax haven "concession" by the U.S., but which the Tax Cuts and Jobs Act of 2017 mostly removed. Puerto Rico has introduced two very low acts of law to attract mainly services providers to move to and invest in the Territory with moderate success.Major sovereign States which feature on financial secrecy lists (e.g. the Financial Secrecy Index), but not on corporate tax haven or traditional tax haven lists, are:
+
+United States – noted for secrecy, per the Financial Secrecy Index (see United States as a tax haven); makes a "controversial" appearance on some more accurate lists.
+Germany – similar to the U.S., Germany can be included on lists for its tax secrecy, per the Financial Secrecy Index.Neither the U.S. nor Germany have appeared on any tax haven lists by the main academic activists in tax haven research, namely James R. Hines Jr., Dhammika Dharmapala, or Gabriel Zucman, despite numerous states owing much of their economies to providing tax planning and secrecy, with minimal AML procedures.
+
+
+=== Former tax havens ===
+Beirut, Lebanon formerly had a reputation as the only tax haven in the Middle East. However, this changed after the Intra Bank crash of 1966, and the subsequent political and military deterioration of Lebanon dissuaded foreign use of the country as a tax haven.
+Liberia had a prosperous ship registration industry. The series of bloody civil wars in the 1990s and early 2000s severely damaged confidence in the country. The fact that the ship registration business still continues is partly a testament to its early success, and partly a testament to moving the national shipping registry to New York, United States.
+The Tangier International Zone had a short existence as a tax haven in the period between the end of effective control by the Spanish in 1945 until it was formally reunited with Morocco in 1956.
+Some Pacific islands were tax havens but were curtailed by OECD demands for regulation and transparency in the late 1990s, on the threat of blacklisting. Vanuatu's Financial Services commissioner said in May 2008 that his country would reform laws and cease being a tax haven. "We've been associated with this stigma for a long time and we now aim to get away from being a tax haven."
+
+
+== Scale ==
+
+
+=== Overview ===
+Estimating the financial scale of tax havens is complicated by their inherent lack of transparency.  Even jurisdictions that comply with OECD–transparency requirements such as Ireland, Luxembourg, and the Netherlands, provide alternate privacy products (e.g. Trusts, QIAIFs and ULLs) that may be used for secrecy of UBOs.  For example, when the EU Commission discovered Apple's tax rate in Ireland was 0.005%, they found Apple had used Irish ULLs to avoid filing Irish public accounts since the early 1990s.Additionally, there is usually confusion between figures that focus on the amount of annual taxes lost due to tax avoidance (estimated to be in the hundreds of billions of USD), and figures that focus on the amount of capital residing in OFCs (estimated to be many trillions of USD).As of March 2019, some data sources used for estimating the financial scale have been:
+
+There have been many other "guesstimates" produced by NGOs which are either crude derivatives of the first method ("Banking data"), and are often criticised for taking mistaken interpretations and conclusions from aggregate global banking and financial data, to produce unsound estimates.Very rarely do reports include the investment funds industry, private wealth industry, insurance industry and others such as structured finance. The figures involved are enormous (many trillions USD/equivalent) and are a material amount of the assets held in certain OFCs.
+
+
+=== Price of Offshore: Revisited (2012–2014) ===
+A notable study on the financial effect was Price of Offshore: Revisited in 2012–2014, by former McKinsey & Company chief economist James S. Henry.  Henry did the study for the Tax Justice Network (TJN), and as part of his analysis, chronicled the history of past financial estimates by various organisations.Henry used mainly global banking data from various regulatory sources to estimate that:
+
+Henry's apparent credibility and the depth of this analysis meant that the report attracted international attention.  The TJN supplemented his report with another report on the consequences of the analysis in terms of global inequality and lost revenues to developing economies.  The report was criticised by a 2013 report funded by Jersey Finance (a lobby group for the financial services sector in Jersey), and written by two U.S. academics, Richard Morriss and Andrew Gordon. In 2014, the TJN issued a report responding to these criticisms.
+
+
+=== The Hidden Wealth of Nations (2015) ===
+In 2015, French tax economist Gabriel Zucman published The Hidden Wealth of Nations which used global national accounts data to calculate the quantum of net foreign asset positions of rich countries which are unreported because there are located in tax havens. Zucman estimated that circa 8–10% of the global financial wealth of households, or over US$7.6 trillion, was held in tax havens.Zucman followed up his 2015 book with several co-authored papers that focused on corporate use of tax havens, titled The Missing Profits of Nations (2016–2018), and The Exorbitant Tax Privilege (2018), which showed that corporations, shield over US$250 billion per annum from taxes. Zucman showed that almost half of these are U.S. corporations, and that it was the driver of how U.S. corporations built up offshore cash deposits of US$1 to 2 trillion since 2004. Zucman's (et alia) analysis showed that global GDP figures were materially distorted by multinational BEPS flows.A 2022 study by Zucman and co-authors estimated that 36% of the profits of multinational firms are shifted to tax havens. If the profits had been reallocated to their domestic source, "domestic profits would increase by about 20% in high-tax European Union countries, 10% in the United States, and 5% in developing countries, while they would fall by 55% in tax havens."
+
+
+=== OECD/IMF reports (Since 2007) ===
+In 2007, the OECD estimated that capital held offshore amounted to between US$5 to 7 trillion, making up approximately 6–8% of total global investments under management. In 2017, as part of the OECD BEPS Project, it estimated that between US$100 to 240 billion in corporate profits where being shielded from taxation via BEPS activities carried out through tax haven type jurisdictions.In 2018, the IMF's quarterly journal Finance & Development published joint research between the IMF and tax academics titled, "Piercing the Veil", that estimated circa US$12 trillion in global corporate investment worldwide was "just phantom corporate investment" structured to avoid corporate taxation, and was concentrated in eight major locations. In 2019, the same team published further research titled, "The Rise of Phantom Investments", that estimated that a high percentage of global foreign direct investment (FDI) was "phantom", and that "Empty corporate shells in tax havens undermine tax collection in advanced, emerging market, and developing economies". The research singled out Ireland, and estimated that over two-thirds of Ireland's FDI was "phantom".
+
+
+== Incentives ==
+
+
+=== Prosperity ===
+In several research papers, James R. Hines Jr. asserted that tax havens were typically small but well-governed nations and that being a tax haven had brought significant prosperity. In 2009, Hines and Dharmapala suggested that roughly 15% of countries are tax havens, but they wondered why more countries had not become tax havens given the observable economic prosperity it could bring.
+There are roughly 40 major tax havens in the world today, but the sizable apparent economic returns to becoming a tax haven raise the question of why there are not more.
+Hines and Dharmapala concluded that governance was a major issue for smaller countries in trying to become tax havens.  Only countries with strong governance and legislation which was trusted by foreign corporates and investors, would become tax havens. Hines and Dharmapala's positive view on the financial benefits of becoming a tax haven, as well as being two of the major academic leaders into tax haven research, put them in sharp conflict with non-governmental organisations advocating tax justice, such as the Tax Justice Network, who accused them as promoting tax avoidance.
+
+
+=== GDP-per-capita ===
+
+Tax havens have high GDP-per-capita rankings, as their "headline" economic statistics are artificially inflated by the BEPS flows that add to the haven's GDP, but are not taxable in the haven. As the largest facilitators of BEPS flows, corporate-focused tax havens, in particular, make up most of the top 10-15 GDP-per-capita tables, excluding oil and gas nations (see table below).  Research into tax havens suggest a high GDP-per-capita score, in the absence of material natural resources, as an important proxy indicator of a tax haven. At the core of the FSF-IMF definition of an offshore financial centre is a country where the financial BEPS flows are out of proportion to the size of the indigenous economy. Apple's Q1 2015 "leprechaun economics" BEPS transaction in Ireland was a dramatic example, which caused Ireland to abandon its GDP and GNP metrics in February 2017, in favour of a new metric, modified gross national income, or GNI*.
+The artificial inflation of GDP can attract underpriced foreign capital (who use the "headline" Debt-to-GDP metric of the haven), thus producing phases of stronger economic growth. However, the increased leverage leads to more severe credit cycles, particularly where the artificial nature of the GDP is exposed to foreign investors.
+Notes:
+
+
+=== Acceptance ===
+In 2018, noted tax haven activist, Gabriel Zucman, showed that most corporate tax disputes are between high-tax jurisdictions, and not between high-tax and low-tax jurisdictions.  Zucman (et alia) research showed that disputes with major havens such as Ireland, Luxembourg and the Netherlands, are actually quite rare.
+We show theoretically and empirically that in the current international tax system, tax authorities of high-tax countries do not have incentives to combat profit shifting to tax havens. They instead focus their enforcement effort on relocating profits booked in other high-tax countries, in effect stealing revenue from each other. This policy failure can explain the persistence of profit shifting to low-tax countries despite the high costs involved for high-tax countries.
+
+
+== Benefits ==
+
+
+=== Promoters of growth ===
+A controversial area of research into tax havens is the fact that tax havens actually promote global economic growth by solving perceived issues in the tax regimes of higher-taxed nations (e.g. the above discussion on the U.S. "worldwide" tax system as an example). Important academic leaders in tax haven research, such as Hines, Dharmapala, and others, cite evidence that, in certain cases, tax havens promote economic growth in higher-tax countries, and can support beneficial hybrid tax regimes of higher taxes on domestic activity, but lower taxes on international sourced capital or income:
+
+ The effect of tax havens on economic welfare in high tax countries is unclear, though the availability of tax havens appears to stimulate economic activity in nearby high-tax countries.
+Tax havens change the nature of tax competition among other countries, very possibly permitting them to sustain high domestic tax rates that are effectively mitigated for mobile international investors whose transactions are routed through tax havens. [..] In fact, countries that lie close to tax havens have exhibited more rapid real income growth than have those further away, possibly in part as a result of financial flows and their market effects.
+The most cited paper on research into offshore financial centres ("OFCs"), a closely related term to tax havens, noted the positive and negative aspects of OFCs on neighbouring high-tax, or source, economies, and marginally came out in favour of OFCs.
+CONCLUSION: Using both bilateral and multilateral samples, we find empirically that successful offshore financial centers encourage bad behavior in source countries since they facilitate tax evasion and money laundering [...] Nevertheless, offshore financial centers created to facilitate undesirable activities can still have unintended positive consequences. [...] We tentatively conclude that OFCs are better characterized as "symbionts".
+However, other notable tax campaigners strongly dispute these views, such as work by Slemrod and Wilson, who in their § Important papers on tax havens, label tax havens as parasitic to jurisdictions with normal tax regimes, that can damage their economies. Tax regimes globally vary considerably, meaning the concept of a normal tax regimes is subjective and prone inaccuracy. These reports skilfully avoid the importance of English common law and a dependable impartial courts of law in international business but particularly acutely in developing countries. The courts of many OFCs very commonly are used for dispute resolution as well as asset recovery in investigation fraud or corruption. The importance of having the disputes in these OFCs cannot be understated.
+In addition, tax justice campaign groups have been equally critical of Hines, and others, in these views. Research in June 2018 by the IMF showed that much of the foreign direct investment ("FDI") that came from tax havens into higher-tax countries, had really originated from the higher-tax country, and for example, that the largest source of FDI into the United Kingdom, was actually from the United Kingdom, but invested via tax havens. In reality, large FDI projects are often pooled investments with investors from many different countries and so a pooled investment vehicle is most popular. With the tax neutrality of the investment vehicle itself, taxable profits are then attributable in full to each investor in their ownership proportion. Further, in practice, it is often an AML red flag or cause of concern if FDI does not use a common law and tax transparent jurisdiction such as Cayman, the BVI or the Crown Dependencies.
+The boundaries with wider contested economic theories on the effects of corporate taxation on economic growth, and whether there should be corporate taxes, are easy to blur. Other researchers that have examined tax havens, such as Zucman, highlight the injustice of tax havens and see the effects as lost income for the development of society. It remains a controversial area with advocates on both sides.
+
+
+=== U.S. tax receipts ===
+A finding of the 1994 Hines-Rice paper, re-affirmed by others, was that: low foreign tax rates [from tax havens] ultimately enhance U.S. tax collections. Hines showed that as a result of paying no foreign taxes by using tax havens, U.S. multinationals avoided building up foreign tax credits that would reduce their U.S. tax liability. Hines returned to this finding several times, and in his 2010 § Important papers on tax havens, Treasure Islands, where he showed how U.S. multinationals used tax havens and BEPS tools to avoid Japanese taxes on their Japanese investments, noted that this was being confirmed by other empirical research at a company-level. Hines's observations would influence U.S. policy towards tax havens, including the 1996 "check-the-box" rules, and U.S. hostility to OECD attempts in curbing Ireland's BEPS tools, and why, in spite of public disclosure of tax avoidance by firms such as Google, Facebook, and Apple, with Irish BEPS tools, little has been done by the U.S. to stop them.
+Lower foreign tax rates entail smaller credits for foreign taxes and greater ultimate U.S. tax collections (Hines and Rice, 1994). Dyreng and Lindsey (2009), offer evidence that U.S. firms with foreign affiliates in certain tax havens pay lower foreign taxes and higher U.S. taxes than do otherwise-similar large U.S. companies.
+Research in June–September 2018, confirmed U.S. multinationals as the largest global users of tax havens and BEPS tools.
+U.S. multinationals use tax havens more than multinationals from other countries which have kept their controlled foreign corporations regulations. No other non-haven OECD country records as high a share of foreign profits booked in tax havens as the United States. [...] This suggests that half of all the global profits shifted to tax havens
+are shifted by U.S. multinationals. By contrast, about 25% accrues to E.U. countries, 10% to the rest of the OECD, and 15% to developing countries (Tørsløv et al., 2018).
+In 2019, non-academic groups, such as the Council on Foreign Relations, realised the scale of U.S. corporate use of tax havens:
+
+Well over half the profits that American companies report earning abroad are still booked in only a few low-tax havens — places that, of course, are not actually home to the customers, workers, and taxpayers facilitating most of their business. A multinational corporation can route its global sales through Ireland, pay royalties to its Dutch subsidiary and then funnel income to its Bermudian subsidiary — taking advantage of Bermuda's corporate tax rate of zero.
+Tax justice groups interpreted Hines' research as the U.S. engaging in tax competition with higher-tax nations (i.e. the U.S. exchequer earning excess taxes at the expense of others). The 2017 TCJA seems to support this view with the U.S. exchequer being able to levy a 15.5% repatriation tax on over $1 trillion of untaxed offshore profits built up by U.S. multinationals with BEPS tools from non-U.S. revenues. Had these U.S. multinationals paid taxes on these non-U.S. profits in the countries in which they were earned, there would have been the little further liability to U.S. taxation. Research by Zucman and Wright (2018) estimated that most of the TCJA repatriation benefit went to the shareholders of U.S. multinationals, and not the U.S. exchequer.Academics who study tax havens, attribute Washington's support of U.S. corporate use of tax havens to a political compromise between Washington, and other higher-tax OECD nations, to compensate for shortcomings of the U.S. "worldwide" tax system. Hines had advocated for a switch to a "territorial" tax system, as most other nations use, which would remove U.S. multinational need for tax havens. In 2016, Hines, with German tax academics, showed that German multinationals make little use of tax havens because their tax regime, a "territorial" system, removes any need for it.Hines' research was cited by the Council of Economic Advisors ("CEA") in drafting the TCJA legislation in 2017, and advocating for moving to a hybrid "territorial" tax system framework.
+
+
+== Concepts ==
+There are a number of notable concepts in relation to how individuals and corporates engage with tax havens:
+
+
+=== Captured state ===
+Some authors on tax havens describe them as "captured states" by their offshore finance industry, suggesting the legal, taxation and other requirements of the professional service firms operating from the tax haven are given higher priority to any conflicting State needs. The term has been particularly used for smaller tax havens, with examples being Delaware, the Seychelles, and Jersey. However, the term "captured state" has also been used for larger and more established OECD and EU offshore financial centres or tax havens. Ronen Palan has noted that even where tax havens started out as "trading centres", they can eventually become "captured" by "powerful foreign finance and legal firms who write the laws of these countries which they then exploit". Tangible examples include the public disclosure in 2016 of Amazon Inc's Project Goldcrest tax structure, which showed how closely the State of Luxembourg worked with Amazon for over two years to help it avoid global taxes. Other examples include how the Dutch Government removed provisions to prevent corporate tax avoidance by creating the Dutch Sandwich BEPS tool, which Dutch law firms then marketed to US corporations:
+
+[When] former venture-capital executive at ABN Amro Holding NV Joop Wijn becomes State Secretary of Economic Affairs in May 2003 [, ... it is] not long before the Wall Street Journal reports about his tour of the US, during which he pitches the new Netherlands tax policy to dozens of American tax lawyers, accountants, and corporate tax directors. In July 2005, he decides to abolish the provision that was meant to prevent tax dodging by American companies, in order to meet criticism from tax consultants.
+
+
+=== Preferential tax ruling ===
+Preferential tax rulings (PTR) can be used by a jurisdiction for benign reasons, for example, tax incentives to encourage urban renewal. However, PTRs can also be used to provide aspects of tax regimes normally found in traditional tax havens. For example, while British citizens pay full taxes on their assets, foreign citizens legally resident in the UK pay no taxes on their global assets, as long as they are left outside the UK; thus, for a foreign resident, the UK behaves in a similar way to a traditional tax haven. Some tax academics say that PTRs make the distinction with traditional tax havens "matter of degree more than anything else". The OECD has made the investigation of PTRs a key part of its long-term project of combatting Harmful Tax Practices, started in 1998; by 2019, the OECD had investigated over 255 PTRs. The 2014 Lux Leaks disclosure revealed 548 PTRs issued by the Luxembourg authorities to corporate clients of PriceWaterhouseCoopers.  When the EU Commission fined Apple USD$13 billion in 2016, the largest tax fine in history, they claimed Apple had received "preferential tax rulings" in 1991 and 2007.
+
+
+=== Tax inversion ===
+
+Corporations can move their legal headquarters from a higher-tax home jurisdiction to a tax haven by executing a tax inversion. A "naked tax inversion" is where the corporate had little prior business activities in the new location. The first tax inversion was the "naked inversion" of McDermott International to Panama in 1983. The US Congress effectively banned "naked inversions" for US corporates by introducing IRS regulation 7874 in the American Jobs Creation Act of 2004. A "merger tax inversion" is where the corporate overcomes IRS 7874 by merging with a corporation that has a "substantive business presence" in the new location. The requirement for a substantive business presence meant that US corporations could only invert to larger tax havens, and particularly OECD tax havens and EU tax havens. Further tightening of regulations by the US Treasury in 2016, as well as the 2017 TCJA US tax reform, reduced the tax benefits of a US corporation inverting to a tax haven.
+
+
+=== Base erosion and profit shifting ===
+Even when a corporation executes a tax inversion to a tax haven, it also needs to shift (or earnings strip) its untaxed profits to the new tax haven. These are called base erosion and profit shifting (BEPS) techniques. Notable BEPS tools like the Double Irish with a Dutch Sandwich were used by US corporations to build up untaxed offshore cash reserves of US$1–2 trillion in tax havens like Bermuda (e.g., Apple's Bermuda Black Hole) from 2004 to 2017. As discussed in § Financial scale, in 2017, the OECD estimated that BEPS tools shielded US$100 to US$200 billion in annual corporate profits from tax; while in 2018, Zucman estimated that the figure was closer to US$250 billion per annum. This was despite the 2012–2016 OECD BEPS Project. In 2015, Apple executed the largest recorded BEPS transaction in history when it moved US$300 billion of its IP to Ireland, in what was called a hybrid-tax inversion.
+The largest BEPS tools are the ones that use intellectual property (IP) accounting to shift profits between jurisdictions. The concept of a corporation charging its costs from one jurisdiction against its profits in another jurisdiction (i.e. transfer pricing) is well understood and accepted. However, IP enables a corporation to "revalue" its costs dramatically. For example, a major piece of software might have cost US$1 billion to develop in salaries and overheads. IP accounting enables the legal ownership of the software to be relocated to a tax haven where it can be revalued to being worth US$100 billion, which becomes the new price at which it is charged out against global profits. This creates a shifting of all global profits back to the tax haven. IP has been described as "the leading corporate tax avoidance vehicle".
+
+
+=== Corporate tax haven ===
+Traditional OFCs, such as Cayman, BVI, Guernsey or Jersey are clear about their corporate tax neutrality. Because of this, they tend not to sign full bilateral tax treaties with other higher-tax jurisdictions. Instead, the receipts from investment structures in those jurisdictions are subject to full withholding tax set by the relevant onshore jurisdiction. The British Overseas Territories and Crown Dependencies all provide full tax transparency and automatic tax reporting to onshore tax authorities via CRS, FACTA.
+Other tax havens, for example in Europe or Asia, maintain higher non-zero "headline" rates of corporate taxation, but instead provide complex and confidential BEPS tools and PTRs which bring the "effective" corporate tax rate closer to zero; they all feature prominently in the leading jurisdictions for IP law (see graphic). These "corporate tax havens" (or Conduit OFCs), further increase respectability by requiring the corporate using their BEPS tools/PTRs to maintain a "substantial presence" in the haven; this is called an employment tax, and can cost the corporate circa 2–3% of revenues. However, these initiatives enable the corporate tax haven to maintain large networks of full bilateral tax treaties, that allow corporates based in the haven to shift global untaxed profits back to the haven (and on to Sink OFCs, as shown above). These "corporate tax havens" strongly deny any association with being a tax haven and maintain high levels of compliance and transparency, with many being OECD-whitelisted (and are OECD or EU members). Many of the § Top 10 tax havens are "corporate tax havens".
+
+
+=== Conduits and Sinks ===
+
+In 2017, the University of Amsterdam's CORPNET research group published the results of their multi-year big data analysis of over 98 million global corporate connections.  CORPNET ignored any prior definition of a tax haven or any legal or tax structuring concepts, to instead follow a purely quantitative approach.  CORPNET's results split the understanding of tax havens into Sink OFCs, which are traditional tax havens to which corporates route untaxed funds, and Conduit OFCs, which are the jurisdictions that create the OECD-compliant tax structures that enable the untaxed funds to be routed from the higher-tax jurisdictions to the Sink OFCs. Despite following a purely quantitative approach, CORPNET's top 5 Conduit OFCs and top 5 Sink OFCs closely match the other academic § Top 10 tax havens.  CORPNET's Conduit OFCs contained several major jurisdictions considered OECD and/or EU tax havens, including the Netherlands, the United Kingdom, Switzerland, and Ireland.  Conduit OFCs are strongly correlated with modern "corporate tax havens" and Sink OFCs with the "traditional tax havens".
+
+
+=== Tax-free wrapper ===
+As well as corporate structures, tax havens also provide tax-free (or "tax neutral") legal wrappers for holding assets, also known as special purpose vehicles (SPVs) or special purpose companies (SPCs). These SPVs and SPCs are not only free of all taxes, duties, and VAT, but are tailored to the regulatory requirements, and the banking requirements of specific segments.  For example, the zero-tax Section 110 SPV is a major wrapper in the global securitization market. This SPV offers features including orphan structures, which is facilitated to support requirements for bankruptcy remoteness, which would not be appropriate in larger financial centres, as it could damage the local tax base, but are needed by banks in securitizations. The Cayman Islands SPC is a structure used by asset managers as it can accommodate asset classes such as intellectual property ("IP") assets, cryptocurrency assets, and carbon credit assets; competitor products include the Irish QIAIF and Luxembourg's SICAV.
+
+
+== Data leaks ==
+Some OFCs have been subject to public and non-public theft and disclosure of client account data, the most notable being:
+
+
+=== Liechtenstein tax affair (2008) ===
+
+In 2008, the German Federal Intelligence Service paid €4.2 million to Heinrich Kieber, a former IT data archivist of LGT Treuhand, a Liechtenstein bank, for a list of 1,250 customer account details of the bank. Investigations and arrests followed relating to charges of illegal tax evasion. The German authorities shared the data with US IRS, and the British HMRC paid GBP£100,000 for the same data. The authorities in several other European countries, Australia and Canada also received the data. Liechtenstein's authorities strongly protested the case and issued an arrest order against the man suspected of having leaker of the data.
+
+
+=== British Virgin Islands offshore leaks (2013) ===
+
+In April 2013, the International Consortium of Investigative Journalists (ICIJ) released a searchable 260 gigabyte database of 2.5 million stolen client files which were anonymously leaked to the ICIJ and analyzed by 112 journalists in 58 countries. The majority of clients came from mainland China, Hong Kong, Taiwan, the Russian Federation, and former Soviet republics; with the British Virgin Islands identified as the most important jurisdiction for Chinese clients, and Cyprus an important jurisdiction for Russian clients. While the vast majority of clients' data was not made public, nor available to law enforcement and tax authorities, various prominent names were contained in the leaks including: François Hollande's campaign manager, Jean-Jacques Augier; Mongolia's finance minister, Bayartsogt Sangajav; the president of Azerbaijan; the wife of Russia's Deputy Prime Minister; and Canadian politician Anthony Merchant. Importantly, most of the clients who data was stolen and transmitted around journalists and activists in 58 countries, appear to be innocent, yet no prosecutions have been made.
+
+
+=== Luxembourg leaks (2014) ===
+
+In November 2014, the International Consortium of Investigative Journalists (ICIJ) released 28,000 documents totalling 4.4 gigabytes of confidential information about Luxembourg's confidential private tax rulings give to PricewaterhouseCoopers from 2002 to 2010 to the benefits of its clients in Luxembourg. This ICIJ investigation disclosed 548 tax rulings for over 340 multinational companies based in Luxembourg. The LuxLeaks' disclosures attracted international attention and comment about corporate tax avoidance schemes in Luxembourg and elsewhere. This scandal contributed to the implementation of measures aiming at reducing tax dumping and regulating tax avoidance schemes beneficial to multinational companies.
+
+
+=== Swiss leaks (2015) ===
+
+In February 2015, French newspaper Le Monde, was given over 3.3 gigabytes of confidential client data relating to a tax evasion scheme allegedly operated with the knowledge and encouragement of the British multinational bank HSBC via its Swiss subsidiary, HSBC Private Bank (Suisse). The source was French computer analyst Hervé Falciani who provided data on accounts held by over 100,000 clients and 20,000 offshore companies with HSBC in Geneva; the disclosure has been called "the biggest leak in Swiss banking history". Le Monde called upon 154 journalists affiliated with 47 different media outlets to process the data, including The Guardian, Süddeutsche Zeitung, and the ICIJ.
+
+
+=== Panama papers (2015) ===
+
+In 2015, 11.5 million documents totalling 2.6 terabytes, detailing financial and attorney-client information for more than 214,488 offshore entities, some dating back to the 1970s, that were taken from the Panamanian law firm Mossack Fonseca, were anomalously leaked to German journalist Bastian Obermayer in Süddeutsche Zeitung (SZ). Given the unprecedented scale of the data, SZ worked with the ICIJ, as well as Journalists from 107 media organizations in 80 countries who analyzed the documents. After more than a year of analysis, the first news stories were published on 3 April 2016. The documents named prominent public figures from around the globe including British prime minister David Cameron and the Icelandic prime minister Sigmundur Davíð Gunnlaugsson, yet importantly, only Gunnlaugsson was found to have actually done anything wrong. Camreon's financial information pertained not to him but his father, who had made investments in an offshore fund and paid the tax on the profits.
+
+
+=== Paradise papers (2017) ===
+
+In 2017, 13.4 million documents totalling 1.4 terabytes, detailing both personal and major corporate client activities of the offshore magic circle law firm, Appleby, covering 19 tax havens, were leaked to the German reporters Frederik Obermaier and Bastian Obermayer in Süddeutsche Zeitung (SZ). As with the Panama Papers in 2015, SZ worked with the ICIJ and over 100 media organizations to process the documents. They contain the names of more than 120,000 people and companies including Apple, AIG, Prince Charles, Queen Elizabeth II, the President of Colombia Juan Manuel Santos, and then-U.S. Secretary of Commerce Wilbur Ross. At 1.4 terabytes in size, this is second only to the Panama Papers of 2016 as the biggest data leak in history.
+
+
+=== Pandora Papers (2021) ===
+
+In October 2021, 11.9 Million leaked documents with 2.9 terabytes of data were leaked by the International Consortium of Investigative Journalists (ICIJ). The leak exposed the private financial information of 35 world leaders, including current and former presidents, prime ministers, and heads of state as well as more than 100 billionaires, celebrities, and business leaders.
+In a report dated 15 June 2023, certain chilling admissions were made by the EU regarding the conduct and publicity surrounding the Pandora Papers data breach:
+"The Parliament stresses the importance of defending the freedom of journalists to report on issues of public interest without facing the threat of costly legal action, including when they receive confidential, secret or restricted documents, datasets or other materials, regardless of their origin" (§2) which appears to endorse the kind of data criminal theft and handling of data that GDPR is railing against.
+"The Parliament regrets the lack of democratic accountability in the process of drawing up the 'EU list of non-cooperative jurisdictions for tax purposes'; recalls that the Council seems sometimes to be guided by diplomatic or political motives, rather than objective assessments when deciding to move countries from the 'grey list' to the 'black list' and vice-versa; stresses that this undermines the credibility, predictability and usefulness of the lists; calls for Parliament to be consulted in the preparation of the list and for an extensive revision of the screening criteria" (§78) This was an astounding admission which many tax experts have been discussing for decades, yet rarely garners media interest or scrutiny.
+"The Parliament notes that despite the implementation of European and national legislation on beneficial ownership transparency, as reported by non-governmental organisations, the quality of data in some EU public registers requires improvement" (§60). The British-related offshore financial centres have all implemented verified beneficial ownership regimes where the information is required to be held by regulated corporate service providers. Seldom do journalists or politicians concede that most of the rest of the World trails the gold standard regimes of the Caymans Islands, British Virgin Islands, Bermuda, Jersey and Guernsey, yet the recent European legal decision and FINCEN drafting appears to be guiding the US and EU to regimes that mirror what is already in place in leading OFCs. The UK has become an outlier and in 2023, remains in discourse with the Crown Dependencies and Overseas Territories as to the way forward.
+
+
+== Countermeasures ==
+The various countermeasures that higher-tax jurisdictions have taken against tax havens can be grouped into the following types:
+
+Transparency. Actions that promote visibility into the entities operating within the tax haven, and including data and information sharing. CRS and FATCA are the most prominent reporting regimes regarding beneficial ownership. Tax Information Exchange Agreements are also now commonplace.
+Blacklists. A coercive political tool used by both the OECD and the EU, on the one hand to encourage cooperation by tax authorities in OFCs and other countries, and on the other, as an economic weapon to promote certain jurisdictions and discourage others.
+Specific. Sets of legislative and/or regulatory actions targeted at specifically identified issues regarding tax havens.
+Fundamental. Where the higher-tax jurisdictions conduct a reform of their taxation systems to remove to incentives to use tax havens.
+
+
+=== Transparency ===
+
+
+==== US FATCA ====
+
+In 2010, Congress passed the Foreign Account Tax Compliance Act (FATCA), which requires foreign financial institutions (FFI) of broad scope – banks, stock brokers, hedge funds, pension funds, insurance companies, trusts – to report directly to the US Internal Revenue Service (IRS) all clients who are U.S. persons. Starting January 2014, FATCA requires FFIs to provide annual reports to the IRS on the name and address of each U.S. client, as well as the largest account balance in the year and total debits and credits of any account owned by a U.S. person. In addition, FATCA requires any foreign company not listed on a stock exchange or any foreign partnership which has 10% U.S. ownership to report to the IRS the names and tax identification number (TIN) of any U.S. owner. FATCA also requires U.S. citizens and green card holders who have foreign financial assets in excess of $50,000 to complete a new Form 8938 to be filed with the 1040 tax return, starting with fiscal year 2010.
+
+
+==== OECD CRS ====
+
+In 2014, the OECD followed FATCA with the Common Reporting Standard, an information standard for the automatic exchange of tax and financial information on a global level (which would already be needed by FATCA to process data). Participating in the CRS from 2017 onwards are Australia, the Bahamas, Bahrain, Bermuda, Brazil, British Virgin Islands, Brunei Darussalam, Canada, Cayman Islands, Chile, China, the Cook Islands, Guernsey, Hong Kong, Indonesia, Israel, Japan, Jersey, Kuwait, Lebanon, Macau, Malaysia, Mauritius, Monaco, New Zealand, Panama, Qatar, Russia, Saudi Arabia, Singapore, Switzerland, Turkey, the United Arab Emirates, and Uruguay.
+
+
+=== Blacklists ===
+
+
+==== OECD ====
+At the London G20 summit on 2 April 2009, G20 countries agreed to define a blacklist for tax havens, to be segmented according to a four-tier system, based on compliance with an "internationally agreed tax standard". The list as per 2 April 2009 can be viewed on the OECD website. The four tiers were:
+
+Those that have substantially implemented the standard (includes most countries but China still excludes Hong Kong and Macau).
+Tax havens that have committed to – but not yet fully implemented – the standard (includes Montserrat, Nauru, Niue, Panama, and Vanuatu)
+Financial centres that have committed to – but not yet fully implemented – the standard (includes Guatemala, Costa Rica and Uruguay).
+Those that have not committed to the standard (an empty category)Those countries in the bottom tier were initially classified as being 'non-cooperative tax havens'. Uruguay was initially classified as being uncooperative. However, upon appeal the OECD stated that it did meet tax transparency rules and thus moved it up. The Philippines took steps to remove itself from the blacklist and Malaysian Prime Minister Najib Razak had suggested earlier that Malaysia should not be in the bottom tier.In April 2009 the OECD announced through its chief Angel Gurria that Costa Rica, Malaysia, the Philippines and Uruguay have been removed from the blacklist after they had made "a full commitment to exchange information to the OECD standards." Despite calls from the former French President Nicolas Sarkozy for Hong Kong and Macau to be included on the list separately from China, they are as yet not included independently, although it is expected that they will be added at a later date.Government response to the crackdown has been broadly supportive, although not universal. Luxembourg Prime Minister Jean-Claude Juncker has criticised the list, stating that it has "no credibility", for failing to include various states of the USA which provide incorporation infrastructure which are indistinguishable from the aspects of pure tax havens to which the G20 object. As of 2012, 89 countries have implemented reforms sufficient to be listed on the OECD's white list.
+
+
+==== European Union ====
+
+In December 2017, EU Commission adopted a "blacklist" of territories to encourage compliance and cooperation: American Samoa, Bahrain, Barbados, Grenada, Guam, South Korea, Macau, the Marshall Islands, Mongolia, Namibia, Palau, Panama, Saint Lucia, Samoa, Trinidad and Tobago, Tunisia, United Arab Emirates. In addition, the Commission produced a "greylist" of 47 jurisdictions who had already committed to cooperate with the EU to change their rules on tax transparency and cooperation. Only one of the EU's 17 blacklisted tax havens, namely Samoa, was in § Top 20 tax havens above.  The EU lists did not include any OECD or EU jurisdictions, or any of the § Top 10 tax havens. A few weeks later in January 2018, EU Taxation Commissioner Pierre Moscovici, called Ireland and the Netherlands, "tax black holes". After only a few months the EU reduced the blacklist further, and by November 2018, it contained only 5 jurisdictions: American Samoa, Guam, Samoa, Trinidad & Tobago, and the US Virgin Islands. However, by March 2019, the EU blacklist was expanded to 15 jurisdictions including Bermuda, a § Top 10 tax havens and the 5th largest Sink OFC.On 27 March 2019, the European Parliament voted by 505 in favour to 63 against of accepting a new report that likened Luxembourg, Malta, Ireland and the Netherlands, and Cyprus to "display[ing] traits of a tax haven and facilitate aggressive tax planning". However, despite this vote, the EU Commission is not obliged to include these EU jurisdictions on the blacklist.
+
+
+===== Portugal =====
+
+Since the early 2000s Portugal has adopted a specific list of jurisdictions deemed as tax havens by the Government, associated to said list are a set of tax penalties on Portuguese resident taxpayers. Nevertheless, the list has been critiqued for not being objective nor rational from an economic standpoint.
+
+
+=== Specific ===
+
+
+==== Anti-inversion ====
+
+To prevent naked tax inversions of US corporations to mostly Caribbean-type tax havens (e.g. Bermuda and the Cayman Islands), the US Congress added Regulation 7874 to the IRS code with the passing of the American Jobs Creation Act of 2004. Although the legislation was effective, further US Treasury regulations were required in 2014–2016 to prevent the much larger merger tax inversions, which culminated with the effective block of the proposed 2016 USD$160 billion of Pfizer-Allergan in Ireland. Since these changes, there have been no further material US tax inversions.
+
+
+==== Anti-BEPS ====
+At the 2012 G20 Los Cabos summit, it was agreed that the OECD undertake a project to combat base erosion and profit shifting (BEPS) activities by corporates. An OECD BEPS Multilateral Instrument, consisting of "15 Actions" designed to be implemented domestically and through bilateral tax treaty provisions, were agreed at the 2015 G20 Antalya summit. The OECD BEPS Multilateral Instrument ("MLI"), was adopted on 24 November 2016 and has since been signed by over 78 jurisdictions; it came into force in July 2018. The MLI has been criticised for "watering down" several of its proposed initiatives, including country–by–country–reporting ("CbCr"), and for providing several opt-outs which several OECD and EU tax havens availed of. The US did not sign the MLI.
+
+
+==== Anti-Double Irish ====
+The Double Irish was the largest BEPS tool in history which by 2015, was shielding over US$100 billion in mostly US corporate profits from US taxation. When the EU Commission fined Apple €13 billion for using an illegal hybrid-Double Irish structure, their report noted that Apple had been using the structure from at least as far back as 1991. Several Senate and congressional inquiries in Washington cited public knowledge of the Double Irish from 2000 onwards. However, it was not the US who finally forced Ireland to close the structure in 2015, but the EU Commission; and existing users were given until 2020 to find alternative arrangements, two of which (e.g. Single malt arrangement) were already operating. The lack of action by the US, similar to their position with the OECD MLI (above), has been attributed to the § U.S. as the largest user and beneficiary of tax havens. However, some commentators note the § Fundamental reform of the US corporate tax code by the 2017 TCJA may change this.
+
+
+=== Fundamental ===
+
+
+==== United Kingdom ====
+After losing 22 tax inversions from 2007 to 2010, mostly to Ireland, the UK decided to completely reform its corporate tax code. From 2009 to 2012 the UK reduced its headline corporate tax rate from 28% to 20% (and eventually to 19%), changed the British corporate tax code from a "worldwide tax system" to a "territorial tax system", and created new IP-based BEPS tools including a low-tax Patent box. In 2014, The Wall Street Journal reported that "In U.S. tax inversion Deals, U.K. is now a winner". In a 2015 presentation, HMRC showed that many of the outstanding British inversions from 2007 to 2010 period had returned to the UK as a result of the tax reforms (most of the rest had entered into subsequent transactions and could not return, including Shire).
+
+
+==== United States ====
+The US followed a broadly similar reform to the UK with the passing of the Tax Cuts and Jobs Act of 2017 (TCJA), which reduced the US headline corporate tax rate from 35% to 21%, changed the US corporate tax code from a "worldwide tax system" to a hybrid-"territorial tax system", and created new IP-based BEPS tools such as the FDII tax, as well as other anti-BEPS tools such as the BEAT tax. In advocating for the TCJA, the President's Council of Economic Advisors (CEA) heavily relied on the work of academic James R. Hines Jr. on the US corporate use of tax havens and the likely responses of US corporations to the TCJA. Since the TCJA, Pfizer has guided global aggregate tax rates that are very similar to what they expected in their aborted 2016 inversion with Allergan plc in Ireland.
+
+
+==== OECD ====
+In January 2019, the OECD released a policy note regarding new proposals to combat the BEPS activities of multinationals, which commentators labeled "BEPS 2.0".  In its press release, the OECD announced its proposals had the backing of the U.S., as well as China, Brazil, and India. The new proposals contain more fundamental reforms to corporate taxation around the taxing of profits where a product is consumed, rather than where the product's value is created (as currently done). Although the EU had been a long-term advocate of this concept, the US had traditionally blocked it. However, it is believed the passing of the 2017 TCJA has changed Washington's view on US corporate use of tax havens, who still remain the largest users of tax havens in the world. In response to this new OECD initiative, the EU, and the French in particular, dropped their "Digital Tax" proposal in favour of allowing the OECD BEPS 2.0 initiative reach a conclusion, which it is scheduled to do by 2020.
+
+
+== See also ==
+
+
+== Further reading ==
+
+
+=== Academic papers ===
+The following are the most cited papers on "tax havens", as ranked on the IDEAS/RePEc database of economic papers, at the Federal Reserve Bank of St. Louis.Papers marked (‡) were cited by the EU Commission 2017 summary as the most important research on tax havens.
+
+
+=== Major books ===
+(with at least 300 citations on Google Scholar)
+
+Sol Piccolo (1992). International Business Taxation (PDF). Cambridge University Press. ISBN 978-0899307770.
+Raymond W. Baker (2005). Capitalism's Achilles' Heel: Dirty Money, and How to Renew the Free-Market System. John Wiley & Sons. ISBN 978-0471644880.
+Ronen Palan; Richard Murphy; Christian Chavagneux (2009). Tax Havens: How Globalization Really Works. Cornell University Press. ISBN 978-0-8014-7612-9.
+Nicholas Shaxson (2011). Treasure Islands: Uncovering the Damage of Offshore Banking and Tax Havens. Palgrave Macmillan. ISBN 978-0-230-10501-0.
+Jane G. Gravelle (2015). Tax Havens: International Tax Avoidance and Evasion (PDF). Congressional Research Service. ISBN 978-1482527681.: 6 
+Gabriel Zucman (2016). The Hidden Wealth of Nations: The Scourge of Tax Havens. University of Chicago Press. ISBN 978-0226422640.
+
+
+=== Various articles ===
+Foremny, D., & Von Hagen, J. (2012). "Fiscal federalism in times of crisis", CEPR Discussion Papers 9154, C.E.P.R. Discussion Papers.
+Henry, James S. (October 2003). The Blood Bankers: Tales from the Global Underground Economy. New York, NY: Four Walls Eight Windows. ISBN 978-1-56858-254-2.
+Morriss, Andrew P. (2010). Offshore Financial Centers and Regulatory Competition. Washington: The AEI Press. ISBN 978-0-8447-4324-0.
+Scevola, Carlo; Sneiderova, Karina (January 2010). Offshore Jurisdictions Guide. Geneva, Switzerland: CS&P Fiduciaire. ISBN 978-1-60594-433-3.
+From the International Consortium of Investigative Journalists:
+"New Bank Leak Shows How Rich Exploit Tax Haven Loopholes" (2014-07-08)
+"Hidden in Plain Sight: New York Just Another Island Haven" (2014-07-03)
+"Sun and Shadows: How an Island Paradise Became a Haven for Money" (2014-06-09)
+"Leaked Records Reveal Offshore Holdings of China's Elite" (2014-01-21)
+Secret "Files Expose Offshore's Global Impact" (2013-04-03)
+Alan Rusbridger (27 October 2016). "Panama: The Hidden Trillions" (part 1 of 2), The New York Review of Books
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+International Financial Centres Forum (IFC Forum)
+IMF – Offshore Banking and Financial Centers
+Offshore Financial Centers – IMF Background Paper
+Global Forum on Transparency and Exchange of Information for Tax Purposes, OECD
+Global Financial Integrity
+Task Force on Financial Integrity & Economic Development
+An OECD Proposal To Eliminate Tax Competition Would Mean Higher Taxes and Less Privacy – Heritage Foundation: Washington D.C.
+The Economic Case for Tax Havens
+"Why tax havens are a blessing" – the Cato Institute
+"Profiting from corruption: The role and responsibility of financial institutions" – U4 Anti-Corruption Resource Centre
+Tax Havens • Explained With Maps (Documentary) Archived 21 January 2021 at the Wayback Machine
+Corporations seek to widen Tax Haven Loophole • June 12, 2013 • Institute for Policy Studies (IPS)
+CEOs who seek to widen tax haven loopholes • June 12, 2013 • Sarah Anderson, Scott Klinger, Javier Rojo

@@ -1,0 +1,11 @@
+ChatGPT
+ent_cnt: 322 
+con_cnt: 20 
+irr_cnt: 171 
+total: 513 
+
+GPT4
+ent_cnt: 382 
+con_cnt: 18 
+irr_cnt: 113 
+total: 513 

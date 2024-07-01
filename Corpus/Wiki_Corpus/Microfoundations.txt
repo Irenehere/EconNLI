@@ -1,0 +1,48 @@
+Microfoundations are an effort to understand macroeconomic phenomena in terms of economic agents' behaviors and their interactions. Research in microfoundations explores the link between macroeconomic and microeconomic principles in order to explore the aggregate relationships in macroeconomic models.
+During recent decades, macroeconomists have attempted to combine microeconomic models of individual behaviour to derive the relationships between macroeconomic variables. Presently, many macroeconomic models, representing different theories, are derived by aggregating microeconomic models, allowing economists to test them with both macroeconomic and microeconomic data. However, microfoundations research is still heavily debated with management, strategy and organization scholars having varying views on the "micro-macro" link. The study of microfoundations is gaining popularity even outside the field of economics, recent development includes operation management and project studies.
+
+
+== History and Importance ==
+
+
+=== History ===
+The microfoundations project originated in the post-Second World War neoclassical synthesis where it is generally believed that neoclassical microeconomics fused with Keynesian macroeconomics. The ‘neoclassical microeconomics’ in mention is the Marshallian partial-equilibrium approach, which emerged from the Walrasian general equilibrium theory. However, the Walrasian general equilibrium theory presents another trend to the synthesis as it attempts to theorise the economy as a whole and is viewed as an alternative to macroeconomics. This approach is considered to be the trigger for exploring microfoundations, however, the notion of a gap in the “micro-macro” link has been and continues to be explored in various theories and models. 
+Critics of the Keynesian theory of macroeconomics argued that some of Keynes' assumptions were inconsistent with standard microeconomics. For example, Milton Friedman's microeconomic theory of consumption over time (the 'permanent income hypothesis') suggested that the marginal propensity to consume (the increase of consumer spending with increased income) due to temporary income, which is crucial for the Keynesian multiplier, was likely to be much smaller than Keynesians assumed. For this reason, many empirical studies have attempted to measure the marginal propensity to consume, and macroeconomists have also studied alternative microeconomic models (such as models of credit market imperfections and precautionary saving) that might imply a greater marginal propensity to consume.One particularly influential endorsement of the study of microfoundations was Robert Lucas, Jr.'s critique of traditional macroeconometric forecasting models. After the apparent shift of the Phillips curve relationship during the 1970s, Lucas argued that the correlations between aggregate variables observed in macroeconomic data would tend to change whenever macroeconomic policy changed. This implied that microfounded models are more appropriate for predicting the effect of policy changes, using the assumption that changes of macroeconomic policy do not alter the microeconomics of the macroeconomy.In terms of solutions, DSGE modelling with representative agents has been the most prevalent among literatures. This approach "makes the microeconomic and the macroeconomic level of analysis coincide: a single agent, a utility maximizing individual, represents an entire sector, which may be, for instance banks, consumers, or firms". Therefore, DSGE modelling connects both microeconomic and macroeconomic theories, thus embodying the basis of microfoundations.
+
+
+=== Importance ===
+It is suggested that modern mainstream economics is based entirely on DSGE models. Therefore, the importance of microfoundations lies in its synonymous relationship with DSGE.The Smets-Wouters model is one example of the importance of microfoundations as it is regarded as a benchmark model for analysing monetary and fiscal policy. The model offers three main advantages of microfoundations:
+
+Microfoundations provides a modelling structure where data may not be very informative.
+Microfoundations avoids the Lucas Critique as it is able to relate the reduced-form parameters to deeper structural parameters.
+Microfoundations provides a basis for estimating the optimality and desirability of policy.While these points summarise the desire to adopt DSGE models - or microfoundations - there are limitations to the model with scholars stating that their forecast performance can be poor in terms of their ability to forecast individual variables. Therefore, there is continuous debate on the microfoundations project and its efficacy with an overall lack of consensus.
+
+
+== Microfoundations Research and Development ==
+
+
+=== "Micro" and "Macro" Research ===
+Specialization in the management and organizational sciences has led to a divide between “macro” and “micro” areas. Research in macro management mainly focuses on the organizational or firm level, while research in micro areas mainly examines individual and group levels within organizations. For example, macro research domains typically include strategic management and organization theory, whereas micro includes areas such as organizational behaviour and human resource management. Most early macroeconomic models, including early Keynesian models, were based on hypotheses about relationships between aggregate quantities, such as aggregate production, employment, consumption, and investment. Critics and proponents of these models disagreed as to whether these aggregate relationships were consistent with the principles of microeconomics. There, bridging these two domains continues to be a topic of debate for organizational, management and strategy scholars. As a result, microfoundations has become a topic of greater interest to researchers as it explores how micro and macro areas connect.  
+
+
+=== The Microfoundations Project ===
+The microfoundations project was developed on the basis that if macroeconomics is associated with aggregate economic models, and microeconomics is associated with the individual behaviours of households and firms, "microfoundations was taken to be the demand that macroeconomic models have microeconomic foundations". Therefore, microfoundations research focuses on the influences of individual actions and interactions on firm heterogeneity. As stated by Felin and Foss (2005), “organizations are made up of individuals, and there is no organization without individuals”. Thus, the specific level of the microfoundations project is the individual level as it focuses on this elementary truth. However, there are various assumptions and half-truths that have been explored by scholars within microfoundations research.
+
+
+==== Assumptions ====
+There are two main assumptions that the microfoundations project rests upon:
+
+Firstly, it is possible to establish empirically adequate theory of individual behaviour.
+Secondly, the theory can be transformed into a theory of the economy using aggregation procedures, without having to make any substantive assumptions about the economy.However, in addition to these assumptions, various scholars have indicated that microfoundations is understood to be "an application of underlying standpoint, methodological individualism,"  a concept which also has ambiguity in its meaning. Nevertheless, microfoundations research only means that individual behaviour must be shown to be consistent with macro entities. While there may be various outlooks on the topic, the general consensus implies that to bridge macro and micro theories and models, microfoundations should be adopted.
+
+
+== Challenges ==
+Alan Kirman has argued against the common practice of using a representative agent as micro-foundation for macroeconomic models. First, he suggests that there's a conviction that the model of an individual as a constrained maximiser is adequate. On the basis of the Sonnenschein–Mantel–Debreu theorem, he argues that this conviction is mistaken. Second, he argues that there are multiple reasons as two why the economy cannot be described by a single 'representative agent'. Thus, he suggests that proper micro-foundations should be based not on studies of individuals in isolation but on studies of aggregate activity resulting from the direct interaction between different individuals.
+Similarly to Kirman, Robert Solow has argued that the issue with the microfoundation project is the demand that it must be built on Walrasian foundations. According to him, there is however no reason to believe that the world (and thus our microfoundations) should be Walrasian. Although sympathetic to microfoundations overall, Solow points out that the demand for micro-foundations might be exaggerated; the harder sciences do not necessarily describe their objects of interest down to e.g. a molecular level. 
+S. Abu Turab Rizvi has similarly offered critique against the microfoundation project in general equilibrium theory. 
+
+
+== See also ==
+
+
+== References ==

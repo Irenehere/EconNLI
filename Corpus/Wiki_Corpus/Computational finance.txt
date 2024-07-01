@@ -1,0 +1,37 @@
+Computational finance is a branch of applied computer science that deals with problems of practical interest in finance. Some slightly different definitions are the study of data and algorithms currently used in finance and the mathematics of computer programs that realize financial models or systems.Computational finance emphasizes practical numerical methods rather than mathematical proofs and focuses on techniques that apply directly to economic analyses. It is an interdisciplinary field between mathematical finance and numerical methods. Two major areas are efficient and accurate computation of fair values of financial securities and the modeling of stochastic time series.
+
+
+== History ==
+The birth of computational finance as a discipline can be traced to Harry Markowitz in the early 1950s. Markowitz conceived of the portfolio selection problem as an exercise in mean-variance optimization. This required more computer power than was available at the time, so he worked on useful algorithms for approximate solutions. Mathematical finance began with the same insight, but diverged by making simplifying assumptions to express relations in simple closed forms that did not require sophisticated computer science to evaluate.In the 1960s, hedge fund managers such as Ed Thorp and Michael Goodkin (working with Harry Markowitz, Paul Samuelson and Robert C. Merton) pioneered the use of computers in arbitrage trading. In academics, sophisticated computer processing was needed by researchers such as Eugene Fama in order to analyze large amounts of financial data in support of the efficient-market hypothesis.During the 1970s, the main focus of computational finance shifted to options pricing and analyzing mortgage securitizations. In the late 1970s and early 1980s, a group of young quantitative practitioners who became known as "rocket scientists" arrived on Wall Street and brought along personal computers. This led to an explosion of both the amount and variety of computational finance applications. Many of the new techniques came from signal processing and speech recognition rather than traditional fields of computational economics like optimization and time series analysis.By the end of the 1980s, the winding down of the Cold War brought a large group of displaced physicists and applied mathematicians, many from behind the Iron Curtain, into finance. These people become known as "financial engineers" ("quant" is a term that includes both rocket scientists and financial engineers, as well as quantitative portfolio managers). This led to a second major extension of the range of computational methods used in finance, also a move away from personal computers to mainframes and supercomputers. Around this time computational finance became recognized as a distinct academic subfield. The first degree program in computational finance was offered by Carnegie Mellon University in 1994.Over the last 20 years, the field of computational finance has expanded into virtually every area of finance, and the demand for practitioners has grown dramatically. Moreover, many specialized companies have grown up to supply computational finance software and services.
+
+
+== Applications of Computational Finance ==
+Algorithmic trading
+Quantitative investing
+High-frequency trading
+
+
+== See also ==
+Outline of finance
+Quantitative analyst
+List of quantitative analysts
+Mathematical finance
+Financial engineering
+QuantLib
+Master of Computational Finance
+Master of Quantitative Finance
+Financial reinsurance
+Financial modeling
+
+
+== References ==
+
+
+== External links ==
+IEEE Computational Finance and Economics Technical Committee
+An Introduction to Computational Finance without Agonizing Pain
+Introduction to Computational Finance, IEEE Computational Intelligence Society Newsletter, August 2004
+Numerical Techniques for Options
+Monte Carlo Simulation of Stochastic Processes
+Centre for Computational Finance and Economic Agents (CCFEA)
+The Journal of Computational Finance

@@ -1,0 +1,238 @@
+Finance is the study and discipline of money, currency and capital assets. It is related to, but not synonymous with economics, which is the study of production, distribution, and consumption of money, assets, goods and services (the discipline of financial economics bridges the two).
+Finance activities take place in financial systems at various scopes, thus the field can be roughly divided into personal, corporate, and public finance.In a financial system, assets are bought, sold, or traded as financial instruments, such as currencies, loans, bonds, shares, stocks, options, futures, etc. Assets can also be banked, invested, and insured to maximize value and minimize loss. In practice, risks are always present in any financial action and entities.
+A broad range of subfields within finance exists due to its wide scope. Asset, money, risk and investment management aim to maximize value and minimize volatility. Financial analysis is the viability, stability, and profitability assessment of an action or entity. In some cases, theories in finance can be tested using the scientific method, covered by experimental finance.
+Some fields are multidisciplinary, such as mathematical finance, financial law, financial economics, financial engineering and financial technology. These fields are the foundation of business and accounting.
+The early history of finance parallels the early history of money, which is prehistoric. Ancient and medieval civilizations incorporated basic functions of finance, such as banking, trading and accounting, into their economies. In the late 19th century, the global financial system was formed.
+In the middle of the 20th century, finance emerged as a distinct academic discipline, separate from economics. (The first academic journal, The Journal of Finance, began publication in 1946.) The earliest doctoral programs in finance were established in the 1960s and 1970s.
+Finance is today also widely studied through career-focused undergraduate and master's level programs.
+
+
+== The financial system ==
+
+As outlined, the financial system consists of the flows of capital that take place between individuals and households (personal finance), governments (public finance), and businesses (corporate finance). 
+"Finance" thus studies the process of channeling money from savers and investors to entities that need it. 
+Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
+In general, an entity whose income exceeds its expenditure can lend or invest the excess, intending to earn a fair return. Correspondingly, an entity where income is less than expenditure can raise capital usually in one of two ways: 
+(i) by borrowing in the form of a loan (private individuals), or by selling government or corporate bonds; 
+(ii) by a corporation selling equity, also called stock or shares (which may take various forms: preferred stock or common stock). 
+The owners of both bonds and stock may be institutional investors –  financial institutions such as investment banks and pension funds – or private individuals, called private investors or retail investors; see Financial market participants.
+The lending is often indirect, through a financial intermediary such as a bank, or via the purchase of notes or bonds (corporate bonds, government bonds, or mutual bonds) in the bond market. 
+The lender receives interest, the borrower pays a higher interest than the lender receives, and the financial intermediary earns the difference for arranging the loan.
+A bank aggregates the activities of many borrowers and lenders. A bank accepts deposits from lenders, on which it pays interest. The bank then lends these deposits to borrowers. Banks allow borrowers and lenders, of different sizes, to coordinate their activity.
+Investing typically entails the purchase of stock, either individual securities or via a mutual fund, for example. Stocks are usually sold by corporations to investors so as to raise required capital in the form of "equity financing", as distinct from the debt financing described above. The financial intermediaries here are the investment banks. The investment banks find the initial investors and facilitate the listing of the securities, typically shares and bonds. 
+Additionally, they facilitate the securities exchanges, which allow their trade thereafter, as well as the various service providers which manage the performance or risk of these investments. These latter include mutual funds, pension funds, wealth managers, and stock brokers, typically servicing retail investors (private individuals).
+Inter-institutional trade and investment, and fund-management at this scale, is referred to as "wholesale finance". 
+Institutions here extend the products offered, with related trading, to include bespoke options, swaps, and structured products, as well as specialized financing; this "financial engineering" is inherently mathematical, and these institutions are then the major employers of "quants" (see below). 
+In these institutions, risk management, regulatory capital, and compliance play major roles.
+
+
+== Areas of finance ==
+As outlined, finance comprises, broadly, the three areas of personal finance, corporate finance, and public finance.
+These, in turn, overlap and employ various activities and sub-disciplines –  chiefly investments, risk management, and quantitative finance.
+
+
+=== Personal finance ===
+
+Personal finance is defined as "the mindful planning of monetary spending and saving, while also considering the possibility of future risk". Personal finance may involve paying for education, financing durable goods such as real estate and cars, buying insurance, investing, and saving for retirement.
+Personal finance may also involve paying for a loan or other debt obligations. 
+The main areas of personal finance are considered to be income, spending, saving, investing, and protection. 
+The following steps, as outlined by the Financial Planning Standards Board, suggest that an individual will understand a potentially secure personal finance plan after:
+
+Purchasing insurance to ensure protection against unforeseen personal events;
+Understanding the effects of tax policies, subsidies, or penalties on the management of personal finances;
+Understanding the effects of credit on individual financial standing;
+Developing a savings plan or financing for large purchases (auto, education, home);
+Planning a secure financial future in an environment of economic instability;
+Pursuing a checking or a savings account;
+Preparing for retirement or other long term expenses.
+
+
+=== Corporate finance ===
+
+Corporate finance deals with the actions that managers take to increase the value of the firm to the shareholders, the sources of funding and the capital structure of corporations, and the tools and analysis used to allocate financial resources.  
+While corporate finance is in principle different from managerial finance, which studies the financial management of all firms rather than corporations alone, the concepts are applicable to the financial problems of all firms, 
+and this area is then often referred to as "business finance".
+Typically, then, "corporate finance" relates to the long term objective of maximizing the value of the entity's assets, its stock, and its return to shareholders, while also balancing risk and profitability.  This entails  three primary areas: 
+
+Capital budgeting: selecting which projects to invest in –  here, accurately determining value is crucial, as judgements about asset values can be "make or break" 
+Dividend policy: the use of "excess" funds –  are these to be reinvested in the business or returned to shareholders
+Capital structure: deciding on the mix of funding to be used –  here attempting to find the optimal capital mix re debt-commitments vs cost of capitalThe latter creates the link with investment banking and securities trading, as above, in that the capital raised will generically comprise debt, i.e. corporate bonds, and equity, often listed shares.
+Re risk management within corporates, see below.
+Financial managers –  i.e. as distinct from corporate financiers –  focus more on the short term elements of profitability, cash flow, and "working capital management" (inventory, credit and debtors), ensuring that the firm can safely and profitably carry out its financial and operational objectives; i.e. that it: 
+(1) can service both maturing short-term debt repayments, and scheduled long-term debt payments, 
+and (2) has sufficient cash flow for ongoing and upcoming operational expenses.
+See Financial management § Role and Financial analyst § Financial planning and analysis.
+
+
+=== Public finance ===
+
+Public finance describes finance as related to sovereign states, sub-national entities, and related public entities or agencies. It generally encompasses a long-term strategic perspective regarding investment decisions that affect public entities.  These long-term strategic periods typically encompass five or more years.  Public finance is primarily concerned with:
+Identification of required expenditures of a public sector entity;
+Source(s) of that entity's revenue;
+The budgeting process;
+Sovereign debt issuance, or municipal bonds for public works projects.Central banks, such as the Federal Reserve System banks in the United States and the Bank of England in the United Kingdom, are strong players in public finance. They act as lenders of last resort as well as strong influences on monetary and credit conditions in the economy.Development finance, which is related, concerns investment in economic development projects provided by a (quasi) governmental institution on a non-commercial basis; these projects would otherwise not be able to get financing.
+See Public utility § Finance.
+A public–private partnership is primarily used for infrastructure projects: a private sector corporate provides the financing up-front, and then draws profits from taxpayers or users.
+
+
+=== Investment management ===
+
+Investment management  is the professional asset management of various securities –  typically shares and bonds, but also other assets, such as real estate, commodities and alternative investments –  in order to meet specified investment goals for the benefit of investors.
+As above, investors may be institutions, such as insurance companies, pension funds, corporations, charities, educational establishments, or private investors, either directly via investment contracts or, more commonly, via collective investment schemes like mutual funds, exchange-traded funds, or REITs.
+At the heart of investment management is asset allocation –  diversifying the exposure among these asset classes, and among individual securities within each asset class –  as appropriate to the client's investment policy, in turn, a function of risk profile, investment goals, and investment horizon (see Investor profile).  Here:
+
+Portfolio optimization is the process of selecting the best portfolio given the client's objectives and constraints.
+Fundamental analysis is the approach typically applied in valuing and evaluating the individual securities.
+Technical analysis is about forecasting future asset prices with past dataOverlaid is the portfolio manager's investment style –  broadly, active vs passive, value vs growth, and small cap vs. large cap –  and investment strategy.
+In a well-diversified portfolio, achieved investment performance will, in general, largely be a function of the asset mix selected, while the individual securities are less impactful. The specific approach or philosophy will also be significant, depending on the extent to which it is complementary with the market cycle.
+A quantitative fund is managed using computer-based techniques (increasingly, machine learning) instead of human judgment. The actual trading also, is typically automated via sophisticated algorithms.
+
+
+=== Risk management ===
+
+Risk management, in general, is the study of how to control risks and balance the possibility of gains; it is the process of measuring risk and then developing and implementing strategies to manage that risk. 
+Financial risk management
+ is the practice of protecting corporate value against financial risks, often by "hedging" exposure to these using financial instruments. 
+The focus is particularly on credit and market risk, and in banks, through regulatory capital, includes operational risk.
+
+Credit risk  is the risk of default on a debt that may arise from a borrower failing to make required payments;
+Market risk relates to losses arising from movements in market variables such as prices and exchange rates;
+Operational risk relates to failures in internal processes, people, and systems, or to external events.Financial risk management is related to corporate finance in two ways. 
+Firstly, firm exposure to market risk is a direct result of previous capital investments and funding decisions; 
+while credit risk arises from the business's credit policy and is often addressed through credit insurance and provisioning.
+Secondly, both disciplines share the goal of enhancing or at least preserving, the firm's economic value, and in this context overlaps also enterprise risk management, typically the domain of strategic management.  
+Here, businesses devote much time and effort to forecasting, analytics and performance monitoring.
+See also "ALM" and treasury management.
+For banks and other wholesale institutions, risk management focuses on managing, and as necessary hedging, the various positions held by the institution –  both trading positions and long term exposures –  and on calculating and monitoring the resultant economic capital, and regulatory capital under Basel III. 
+The calculations here are mathematically sophisticated, and within the domain of quantitative finance as below.
+Credit risk is inherent in the business of banking, but additionally, these institutions are exposed to counterparty credit risk.
+Banks typically employ Middle office "Risk Groups" here, whereas front office risk teams provide risk "services" / "solutions" to customers.
+Additional to diversification –  the fundamental risk mitigant here –  investment managers will apply various risk management techniques to their portfolios as appropriate:
+these may relate to the portfolio as a whole or to individual stocks; bond portfolios are typically managed via cash flow matching or immunization.
+Re derivative portfolios (and positions), "the Greeks" is a vital risk management tool –  it measures sensitivity to a small change in a given underlying parameter so that the portfolio can be rebalanced accordingly by including additional derivatives with offsetting characteristics.
+
+
+=== Quantitative finance ===
+
+Quantitative finance –  also referred to as "mathematical finance" –  includes those finance activities where a sophisticated mathematical model is required, and thus overlaps several of the above.
+As a specialized practice area, quantitative finance comprises primarily three sub-disciplines; the underlying theory and techniques are discussed in the next section:
+
+Quantitative finance is often synonymous with financial engineering. This area generally underpins a bank's customer-driven derivatives business –  delivering bespoke OTC-contracts and "exotics", and designing the various structured products and solutions mentioned –  and encompasses modeling and programming in support of the initial trade, and its subsequent hedging and management.
+Quantitative finance also significantly overlaps financial risk management in banking, as mentioned, both as regards this hedging, and as regards economic capital as well as compliance with regulations and the Basel capital / liquidity requirements.
+"Quants" are also responsible for building and deploying the investment strategies at the quantitative funds mentioned; they are also involved in quantitative investing more generally, in areas such as trading strategy formulation, and in automated trading, high-frequency trading, algorithmic trading, and program trading.
+
+
+== Financial theory ==
+Financial theory is studied and developed within the disciplines of management, (financial) economics, accountancy and applied mathematics.
+Abstractly, finance is concerned with the investment and deployment of assets and liabilities over "space and time"; 
+i.e., it is about performing valuation and asset allocation today, based on the risk and uncertainty of future outcomes while appropriately incorporating the time value of money. 
+Determining the present value of these future values, "discounting", must be at the risk-appropriate discount rate, in turn, a major focus of finance-theory.
+As financial theory has roots in many disciplines, including mathematics, statistics, economics, physics, and psychology, it can be considered a mix of an art and science, and there are ongoing related efforts to organize a list of unsolved problems in finance.
+
+
+=== Managerial finance ===
+
+Managerial finance 
+ 
+is the branch of management that concerns itself with the managerial application of finance techniques and theory, emphasizing the financial aspects of managerial decisions;
+
+the assessment is per the managerial perspectives of planning, directing, and controlling.
+The techniques addressed and developed relate in the main to managerial accounting and corporate finance: 
+the former allow management to better understand, and hence act on, financial information relating to profitability and performance; the latter, as above, are about optimizing the overall financial structure, including its impact on working capital.
+The implementation of these techniques –  i.e. financial management –  is outlined above.
+Academics working in this area are typically based in business school finance departments, in accounting, or in management science.
+
+
+=== Financial economics ===
+
+Financial economics  is the branch of economics that studies the interrelation of financial variables, such as prices, interest rates and shares, as opposed to real economic variables, i.e. goods and services. 
+It thus centers on pricing, decision making, and risk management in the financial markets, and produces many of the commonly employed financial models. (Financial econometrics is the branch of financial economics that uses econometric techniques to parameterize the relationships suggested.)
+The discipline has two main areas of focus: 
+asset pricing and corporate finance; the first being the perspective of providers of capital, i.e. investors, and the second of users of capital; respectively:
+
+Asset pricing theory develops the models used in determining the risk-appropriate discount rate, and in pricing derivatives; and includes the portfolio- and investment theory applied in asset management. The analysis essentially explores how rational investors would apply risk and return to the problem of investment under uncertainty, producing the key "Fundamental theorem of asset pricing". Here, the twin assumptions of rationality and market efficiency lead to modern portfolio theory (the CAPM), and to the Black–Scholes theory for option valuation. At more advanced levels –  and often in response to financial crises –  the study then extends these "Neoclassical" models to incorporate phenomena where their assumptions do not hold, or to more general settings.
+Much of corporate finance theory, by contrast, considers investment under "certainty" (Fisher separation theorem, "theory of investment value", Modigliani–Miller theorem). Here, theory and methods are developed for the decisioning about funding, dividends, and capital structure discussed above. A recent development is to incorporate uncertainty and contingency –  and thus various elements of asset pricing –  into these decisions, employing for example real options analysis.
+
+
+=== Financial mathematics ===
+
+Financial mathematics  is the field of applied mathematics concerned with financial markets; 
+Louis Bachelier's doctoral thesis, defended in 1900, is considered to be the first scholarly work in this area. 
+The field is largely focused on the modeling of derivatives –  with much emphasis on interest rate- and credit risk modeling –  while other important areas include insurance mathematics and quantitative portfolio management.
+Relatedly, the techniques developed are applied to pricing and hedging a wide range of asset-backed, government, and corporate-securities.
+As above, in terms of practice, the field is referred to as quantitative finance and / or mathematical finance, and comprises primarily the three areas discussed.
+The main mathematical tools and techniques are, correspondingly:
+
+for derivatives, Itô's stochastic calculus, simulation, and partial differential equations; see aside boxed discussion re the prototypical Black-Scholes and the various numeric techniques now applied
+for risk management, value at risk, stress testing, "sensitivities" analysis (applying the "greeks"), and xVA; the underlying mathematics comprises mixture models, PCA, volatility clustering and copulas.
+in both of these areas, and particularly for portfolio problems, quants employ sophisticated optimization techniquesMathematically, these separate into two analytic branches:
+derivatives pricing uses risk-neutral probability (or arbitrage-pricing probability), denoted by "Q";
+while risk and portfolio management generally use physical (or actual or actuarial) probability, denoted by "P".
+These are interrelated through the above "Fundamental theorem of asset pricing".
+The subject has a close relationship with financial economics, which, as outlined, is concerned with much of the underlying theory that is involved in financial mathematics:  generally, financial mathematics will derive and extend the mathematical models suggested. 
+Computational finance is the branch of (applied) computer science that deals with problems of practical interest in finance, and especially  emphasizes the numerical methods applied here.
+
+
+=== Experimental finance ===
+
+Experimental finance
+aims to establish different market settings and environments to experimentally observe and provide a lens through which science can analyze agents' behavior and the resulting characteristics of trading flows, information diffusion, and aggregation, price setting mechanisms, and returns processes. Researchers in experimental finance can study to what extent existing financial economics theory makes valid predictions and therefore prove them, as well as attempt to discover new principles on which such theory can be extended and be applied to future financial decisions. Research may proceed by conducting trading simulations or by establishing and studying the behavior of people in artificial, competitive, market-like settings.
+
+
+=== Behavioral finance ===
+
+Behavioral finance studies how the psychology of investors or managers affects financial decisions and markets
+ 
+and is relevant when making a decision that can impact either negatively or positively on one of their areas. With more in-depth research into behavioral finance, it is possible to bridge what actually happens in financial markets with analysis based on financial theory. 
+Behavioral finance has grown over the last few decades to become an integral aspect of finance.Behavioral finance includes such topics as:
+
+Empirical studies that demonstrate significant deviations from classical theories;
+Models of how psychology affects and impacts trading and prices;
+Forecasting based on these methods;
+Studies of experimental asset markets and the use of models to forecast experiments.A strand of behavioral finance has been dubbed quantitative behavioral finance, which uses mathematical and statistical methodology to understand behavioral biases in conjunction with valuation. 
+
+
+=== Quantum finance ===
+
+Quantum finance is an interdisciplinary research field, applying theories and methods developed by quantum physicists and economists in order to solve problems in finance. It is a branch of econophysics.
+Finance theory is heavily based on financial instrument pricing such as stock option pricing. Many of the problems facing the finance community have no known analytical solution. As a result, numerical methods and computer simulations for solving these problems have proliferated. This research area is known as computational finance. Many computational finance problems have a high degree of computational complexity and are slow to converge to a solution on classical computers. In particular, when it comes to option pricing, there is additional complexity resulting from the need to respond to quickly changing markets. For example, in order to take advantage of inaccurately priced stock options, the computation must complete before the next change in the almost continuously changing stock market. As a result, the finance community is always looking for ways to overcome the resulting performance issues that arise when pricing options. This has led to research that applies alternative computing techniques to finance. Most commonly used quantum financial models are quantum continuous model, quantum binomial model, multi-step quantum binomial model etc.
+
+
+== History of finance ==
+
+The origin of finance can be traced to the start of civilization. The earliest historical evidence of finance is dated to around 3000 BC. Banking originated in the Babylonian empire, where temples and palaces were used as safe places for the storage of valuables. Initially, the only valuable that could be deposited was grain, but cattle and precious materials were eventually included. During the same period, the Sumerian city of Uruk in Mesopotamia supported trade by lending as well as the use of interest. In Sumerian, "interest" was mas, which translates to "calf". In Greece and Egypt, the words used for interest, tokos and ms respectively, meant "to give birth". In these cultures, interest indicated a valuable increase, and seemed to consider it from the lender's point of view. The Code of Hammurabi (1792–1750 BC) included laws governing banking operations. The Babylonians were accustomed to charging interest at the rate of 20 percent per annum.
+Jews were not allowed to take interest from other Jews, but they were allowed to take interest from Gentiles, who had at that time no law forbidding them from practicing usury. As Gentiles took interest from Jews, the Torah considered it equitable that Jews should take interest from Gentiles. In Hebrew, interest is neshek.
+By 1200 BC, cowrie shells were used as a form of money in China. By 640 BC, the Lydians had started to use coin money. Lydia was the first place where permanent retail shops opened. (Herodotus mentions the use of crude coins in Lydia in an earlier date, around 687 BC.)The use of coins as a means of representing money began in the years between 600 and 570 BCE. Cities under the Greek empire, such as Aegina (595 BCE), Athens (575 BCE), and Corinth (570 BCE), started to mint their own coins. In the Roman Republic, interest was outlawed altogether by the Lex Genucia reforms. Under Julius Caesar, a ceiling on interest rates of 12% was set, and later under Justinian it was lowered even further to between 4% and 8%.It is said Belgium is the place where the first exchange happened back in approximately 1531. Since, popular exchanges such as 
+the London Stock Exchange (founded in 1773) and the New York Stock Exchange (founded in 1793) were created.
+
+
+== See also ==
+Outline of finance
+Financial crisis of 2007–2010
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Graham, Benjamin; Jason Zweig (2003-07-08) [1949]. The Intelligent Investor. Warren E. Buffett (collaborator) (2003 ed.). HarperCollins. front cover. ISBN 0-06-055566-1.
+Graham, B. and Dodd, D. and Dodd, D.L.F. (1934). Security Analysis: The Classic 1934 Edition. McGraw-Hill Education. ISBN 978-0-070-24496-2. LCCN 34023635.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!, by Robert Kiyosaki and Sharon Lechter. Warner Business Books, 2000. ISBN 0-446-67745-0
+Bogle, John Bogle (2007). The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns. John Wiley and Sons. pp. 216. ISBN 9780470102107.
+Buffett, W. and Cunningham, L.A. (2009). The Essays of Warren Buffett: Lessons for Investors and Managers. John Wiley & Sons (Asia) Pte Limited. ISBN 978-0-470-82441-2.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Stanley, Thomas J. and Danko, W.D. (1998). The Millionaire Next Door. Gallery Books. ISBN 978-0-671-01520-6. LCCN 98046515.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Soros, George (1988). The Alchemy of Finance: Reading the Mind of the Market. A Touchstone book. Simon & Schuster. ISBN 978-0-671-66238-7. LCCN 87004745.
+Fisher, Philip Arthur (1996). Common Stocks and Uncommon Profits and Other Writings. Wiley Investment Classics. Wiley. ISBN 978-0-471-11927-2. LCCN 95051449.
+
+
+== External links ==
+
+Finance Definition - Investopedia
+Hypertextual Finance Glossary (Campbell Harvey)
+Corporate finance resources (Aswath Damodaran)
+Financial management resources (James Van Horne)
+Personal finance resources (Financial Literacy and Education Commission, mymoney.gov)
+Public finance resources (Governance and Social Development Resource Centre, gsdrc.org)

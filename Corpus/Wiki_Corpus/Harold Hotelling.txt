@@ -1,0 +1,549 @@
+Harold Hotelling (; September 29, 1895 – December 26, 1973) was an American mathematical statistician and an influential economic theorist, known for Hotelling's law, Hotelling's lemma, and Hotelling's rule in economics, as well as Hotelling's T-squared distribution in statistics. He also developed and named the principal component analysis method widely used in finance, statistics and computer science.
+He was associate professor of mathematics at Stanford University from 1927 until 1931, a member of the faculty of Columbia University from 1931 until 1946, and a professor of Mathematical Statistics at the University of North Carolina at Chapel Hill from 1946 until his death. A street in Chapel Hill bears his name. In 1972, he received the North Carolina Award for contributions to science.
+
+
+== Statistics ==
+Hotelling is known to statisticians because of Hotelling's T-squared distribution which is a generalization of the Student's t-distribution in multivariate setting, and its use in statistical hypothesis testing and confidence regions. He also introduced canonical correlation analysis.
+At the beginning of his statistical career Hotelling came under the influence of R.A. Fisher, whose Statistical Methods for Research Workers had "revolutionary importance", according to Hotelling's review. Hotelling was able to maintain professional relations with Fisher, despite the latter's temper tantrums and polemics. Hotelling suggested that Fisher use the English word "cumulants" for Thiele's Danish "semi-invariants". Fisher's emphasis on the sampling distribution of a statistic was extended by Jerzy Neyman and Egon Pearson with greater precision and wider applications, which Hotelling recognized. Hotelling sponsored refugees from European anti-semitism and Nazism, welcoming Henry Mann and Abraham Wald to his research group at Columbia. While at Hotelling's group, Wald developed sequential analysis and statistical decision theory, which Hotelling described as "pragmatism in action".
+In the United States, Hotelling is known for his leadership of the statistics profession, in particular for his vision of a statistics department at a university, which convinced many universities to start statistics departments. Hotelling was known for his leadership of departments at Columbia University and the University of North Carolina.
+
+
+== Economics ==
+Hotelling has a crucial place in the growth of mathematical economics; several areas of active research were influenced by his economics papers. While at the University of Washington, he was encouraged to switch from pure mathematics toward mathematical economics by the famous mathematician Eric Temple Bell. Later, at Columbia University (where during 1933-34 he taught Milton Friedman statistics) in the '40s, Hotelling in turn encouraged young Kenneth Arrow to switch from mathematics and statistics applied to actuarial studies towards more general applications of mathematics in general economic theory. Hotelling is the eponym of Hotelling's law, Hotelling's lemma, and Hotelling's rule in economics.
+Hotelling was influenced by the writing of Henry George and was an editorial adviser for the Georgist journal AJES Mason Gaffney claims that Hotelling kept his lifelong beliefs about land and tax reform secret because he feared ridicule.
+
+
+=== Spatial economics ===
+
+One of Hotelling's most important contributions to economics was his conception of "spatial economics" in his 1929 article.  Space was not just a barrier to moving goods around, but rather a field upon which competitors jostled to be nearest to their customers.Hotelling considers a situation in which there are two sellers at point A and B in a line segment of size l. The buyers are distributed uniformly in this line segment and carry the merchandise to their home at cost c. Let p1 and p2 be the prices charged by A and B, and let the line segment be divided in 3 parts of size a, x+y and b, where x+y is the size of the segment between A and B, a the portion of segment to the left of A and b the portion of segment to the right of B. Therefore, a+x+y+b=l. Since the product being sold is a commodity, the point of indifference to buying is given by p1+cx=p2+cy. Solving for x and y yields:
+
+  
+    
+      
+        x
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            l
+            −
+            a
+            −
+            b
+            +
+            
+              
+                
+                  
+                    p
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    p
+                    
+                      1
+                    
+                  
+                
+                c
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle x={\frac {1}{2}}\left(l-a-b+{\frac {p_{2}-p_{1}}{c}}\right)}
+  
+  
+    
+      
+        y
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            l
+            −
+            a
+            −
+            b
+            +
+            
+              
+                
+                  
+                    p
+                    
+                      1
+                    
+                  
+                  −
+                  
+                    p
+                    
+                      2
+                    
+                  
+                
+                c
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle y={\frac {1}{2}}\left(l-a-b+{\frac {p_{1}-p_{2}}{c}}\right)}
+  Let q1 and q2 indicate the quantities sold by A and B. The sellers profit are:
+
+  
+    
+      
+        
+          π
+          
+            1
+          
+        
+        =
+        
+          p
+          
+            1
+          
+        
+        
+          q
+          
+            1
+          
+        
+        =
+        
+          p
+          
+            1
+          
+        
+        
+          (
+          
+            a
+            +
+            x
+          
+          )
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            l
+            +
+            a
+            −
+            b
+          
+          )
+        
+        
+          p
+          
+            1
+          
+        
+        −
+        
+          
+            
+              p
+              
+                1
+              
+              
+                2
+              
+            
+            
+              2
+              c
+            
+          
+        
+        +
+        
+          
+            
+              
+                p
+                
+                  1
+                
+              
+              
+                p
+                
+                  2
+                
+              
+            
+            
+              2
+              c
+            
+          
+        
+      
+    
+    {\displaystyle \pi _{1}=p_{1}q_{1}=p_{1}\left(a+x\right)={\frac {1}{2}}\left(l+a-b\right)p_{1}-{\frac {p_{1}^{2}}{2c}}+{\frac {p_{1}p_{2}}{2c}}}
+  
+  
+    
+      
+        
+          π
+          
+            2
+          
+        
+        =
+        
+          p
+          
+            2
+          
+        
+        
+          q
+          
+            2
+          
+        
+        =
+        
+          p
+          
+            2
+          
+        
+        
+          (
+          
+            b
+            +
+            y
+          
+          )
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            l
+            −
+            a
+            +
+            b
+          
+          )
+        
+        
+          p
+          
+            2
+          
+        
+        −
+        
+          
+            
+              p
+              
+                2
+              
+              
+                2
+              
+            
+            
+              2
+              c
+            
+          
+        
+        +
+        
+          
+            
+              
+                p
+                
+                  1
+                
+              
+              
+                p
+                
+                  2
+                
+              
+            
+            
+              2
+              c
+            
+          
+        
+      
+    
+    {\displaystyle \pi _{2}=p_{2}q_{2}=p_{2}\left(b+y\right)={\frac {1}{2}}\left(l-a+b\right)p_{2}-{\frac {p_{2}^{2}}{2c}}+{\frac {p_{1}p_{2}}{2c}}}
+  By imposing profit maximization:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                π
+                
+                  1
+                
+              
+            
+            
+              ∂
+              
+                p
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            l
+            +
+            a
+            −
+            b
+          
+          )
+        
+        −
+        
+          
+            
+              p
+              
+                1
+              
+            
+            c
+          
+        
+        +
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              c
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial \pi _{1}}{\partial p_{1}}}={\frac {1}{2}}\left(l+a-b\right)-{\frac {p_{1}}{c}}+{\frac {p_{2}}{2c}}=0}
+  
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                π
+                
+                  2
+                
+              
+            
+            
+              ∂
+              
+                p
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          
+            l
+            +
+            a
+            −
+            b
+          
+          )
+        
+        −
+        
+          
+            
+              p
+              
+                1
+              
+            
+            
+              2
+              c
+            
+          
+        
+        +
+        
+          
+            
+              p
+              
+                2
+              
+            
+            c
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial \pi _{2}}{\partial p_{2}}}={\frac {1}{2}}\left(l+a-b\right)-{\frac {p_{1}}{2c}}+{\frac {p_{2}}{c}}=0}
+  Hotelling obtains the economic equilibrium. Hotelling argues this equilibrium is stable even though the sellers may try to establish a price cartel.
+Hotelling extrapolates from his findings about spatial economics and links it to not just physical distance, but also similarity in products. He describes how, for example, some factories might make shoes for the poor and others for the rich, but they end up alike. He also quips that, "Methodists and Presbyterian churches are too much alike; cider too homogenous."
+
+
+=== Market socialism and Georgism ===
+As an extension of his research in spatial economics, Hotelling realized that it would be possible and socially optimal to finance investment in public goods through a Georgist land value tax and then provide such goods and services to the public at marginal cost (in many cases for free). This is an early expression of the Henry George theorem that Joseph Stiglitz and others expanded upon. Hotelling pointed out that when local public goods like roads and trains become congested, users create an additional marginal cost of excluding others. Hotelling became an early advocate of Georgist congestion pricing and stated that the purpose of this unique type of toll fee was in no way to recoup investment costs, but was instead a way of changing behavior and compensating those who are excluded. Hotelling describes how human attention is also in limited supply at any given time and place, which produces a rental value; he concludes that billboards could be regulated or taxed on similar grounds as other scarcity rents. Hotelling reasoned that rent and taxation were analogous, the public and private versions of a similar thing. Therefore, the social optimum would be to put taxes directly on rent. Kenneth Arrow described this as market socialism, but Mason Gaffney points out that it is actually Georgism. Hotelling added the following comment about the ethics of Georgist value capture: "The proposition that there is no ethical objection to the confiscation of the site value of land by taxation, if and when the nonlandowning classes can get the power to do so, has been ably defended by [the Georgist] H. G. Brown."
+
+
+=== Non-convexities ===
+Hotelling made pioneering studies of non-convexity in economics. In economics, non-convexity refers to violations of the convexity assumptions of elementary economics. Basic economics textbooks concentrate on consumers with convex preferences and convex budget sets and on producers with convex production sets; for convex models, the predicted economic behavior is well understood.  When convexity assumptions are violated, then many of the good properties of competitive markets need not hold: Thus, non-convexity is associated with market failures, where supply and demand differ or where market equilibria can be inefficient.
+
+
+==== Producers with increasing returns to scale: marginal cost pricing ====
+In "oligopolies" (markets dominated by a few producers), especially in "monopolies" (markets dominated by one producer), non-convexities remain important. Concerns with large producers exploiting market power initiated the literature on non-convex sets, when Piero Sraffa wrote about firms with increasing returns to scale in 1926, after which Hotelling wrote about marginal cost pricing in 1938. Both Sraffa and Hotelling illuminated the market power of producers without competitors, clearly stimulating a literature on the supply-side of the economy.
+
+
+==== Consumers with non-convex preferences ====
+When the consumer's preference set is non-convex, then (for some prices) the consumer's demand is not connected. A disconnected demand implies some discontinuous behavior by the consumer as discussed by Hotelling:
+
+If indifference curves for purchases be thought of as possessing a wavy character, convex to the origin in some regions and concave in others, we are forced to the conclusion that it is only the portions convex to the origin that can be regarded as possessing any importance, since the others are essentially unobservable. They can be detected only by the discontinuities that may occur in demand with variation in price-ratios, leading to an abrupt jumping of a point of tangency across a chasm when the straight line is rotated. But, while such discontinuities may reveal the existence of chasms, they can never measure their depth. The concave portions of the indifference curves and their many-dimensional generalizations, if they exist, must forever remain in unmeasurable obscurity.
+Following Hotelling's pioneering research on non-convexities in economics, research in economics has recognized non-convexity in new areas of economics. In these areas, non-convexity is associated with market failures, where any equilibrium need not be efficient or where no equilibrium exists because supply and demand differ. Non-convex sets arise also with environmental goods and other externalities, and with market failures, and public economics.
+Non-convexities occur also with information economics, and with stock markets (and other  incomplete markets). Such applications continued to motivate economists to study non-convex sets.
+
+
+== Works ==
+Hotelling, Harold (September 1925). "A general mathematical theory of depreciation". Journal of the American Statistical Association. 20 (151): 340–353. doi:10.1080/01621459.1925.10503499.
+Hotelling, Harold (September 1927). "Differential equations subject to error, and population estimates". Journal of the American Statistical Association. 22 (159): 283–314. doi:10.1080/01621459.1927.10502963.
+Hotelling, Harold (September 1927). "Statistical methods for research workers by R. A. Fisher". Journal of the American Statistical Association. 22 (159): 411–412. doi:10.2307/2276824. JSTOR 2276824. PMC 1708459. Harold Hotelling's review of Fishers' Statistical methods for research workers.
+Hotelling, Harold; Working, Holbrook (March 1929). "Applications of the theory of error to the interpretation of trends". Journal of the American Statistical Association. 24 (165A): 73–85. doi:10.1080/01621459.1929.10506274.
+Hotelling, Harold (March 1929). "Stability in competition". The Economic Journal. 39 (153): 41–57. doi:10.2307/2224214. JSTOR 2224214.
+Hotelling, Harold (April 1931). "The economics of exhaustible resources". Journal of Political Economy. 39 (2): 137–175. doi:10.1086/254195. JSTOR 1822328. S2CID 222432341.
+Hotelling, Harold (1931). "The generalization of student's ratio". Annals of Mathematical Statistics. 2 (3): 360–378. doi:10.1214/aoms/1177732979.
+Hotelling, Harold (October 1932). "Edgeworth's taxation paradox and the nature of demand and supply functions". Journal of Political Economy. 40 (5): 577–616. doi:10.1086/254387. JSTOR 1822600. S2CID 199140593.
+Hotelling, Harold (September 1933). "Analysis of a complex of statistical variables into principal components". Journal of Educational Psychology. 24 (6): 417–441. doi:10.1037/h0071325. hdl:2027/wu.89097139406.
+Hotelling, Harold (October 1933). "Note on Edgeworth's taxation phenomenon and Professor Garver's additional condition on demand functions". Econometrica. 1 (4): 408–409. doi:10.2307/1907332. JSTOR 1907332.
+Hotelling, Harold (January 1935). "Demand functions with limited budgets". Econometrica. 3 (1): 66–78. doi:10.2307/1907346. JSTOR 1907346.
+Hotelling, Harold (February 1935). "The most predictable criterion". Journal of Educational Psychology. 26 (2): 139–142. doi:10.1037/h0058165.
+Hotelling, Harold (December 1936). "Relation between two sets of variates". Biometrika. 28 (3–4): 321–377. doi:10.1093/biomet/28.3-4.321.
+Hotelling, Harold; Pabst, Margaret R. (March 1936). "Rank correlation and tests of significance involving no assumption of normality". Annals of Mathematical Statistics. 7 (1): 29–43. doi:10.1214/aoms/1177732543. JSTOR 2957508.
+Hotelling, Harold (July 1938). "The general welfare in relation to problems of taxation and of railway and utility rates". Econometrica. 6 (3): 242–269. doi:10.2307/1907054. JSTOR 1907054.
+Hotelling, Harold (December 1940). "The teaching of statistics". Annals of Mathematical Statistics. 11 (4): 457–470. doi:10.1214/aoms/1177731833.
+Hotelling, Harold (1951). "A generalized T-Test and measure of multivariate dispersion". Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability. University of California Press. 2: 23–41. Bibcode:1951bsms.conf...23H.
+Hotelling, Harold (March 1951). "The impact of R. A. Fisher on statistics". Journal of the American Statistical Association. 46 (253): 35–46. doi:10.1080/01621459.1951.10500765.
+Hotelling, Harold (1988). "Golden oldies: classic articles from the world of statistics and probability: 'the teaching of statistics'". Annals of Mathematical Statistics. 3 (1): 63–71. doi:10.1214/ss/1177013001.
+Hotelling, Harold (1988). "Golden oldies: classic articles from the world of statistics and probability: 'the place of statistics in the university'". Annals of Mathematical Statistics. 3 (1): 72–83. doi:10.1214/ss/1177013002.
+
+
+== Papers ==
+"Harold Hotelling papers, 1910-1975". Columbia University Libraries Archival Collections. Retrieved 5 December 2013.
+
+
+== See also ==
+Cournot competition
+
+
+== References ==
+
+Arrow, Kenneth J. (1987). "Hotelling, Harold". The New Palgrave: A Dictionary of Economics. 2: 670–71.
+I. Olkina and A. R. Sampsonb (2001). "Hotelling, Harold (1895–1973)," International Encyclopedia of the Social & Behavioral Sciences, pp. 6921–6925. Abstract.
+
+
+== External links ==
+Harold Hotelling at the Mathematics Genealogy Project
+New School: Harold Hotelling
+American Statistical Association: Harold Hotelling
+Harold HotellingThe following have photographs:
+
+Harold Hotelling on the Portraits of Statisticians page.
+National Academy of Sciences Biographical Memoir

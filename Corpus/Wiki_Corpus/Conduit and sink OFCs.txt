@@ -1,0 +1,67 @@
+Conduit OFC and sink OFC is an empirical quantitative method of classifying corporate tax havens, offshore financial centres (OFCs) and tax havens.
+Traditional methods for identifying tax havens analyse tax and legal structures for base erosion and profit shifting (BEPS) tools. However, this approach follows a purely quantitative approach, ignoring any taxation or legal concepts, to instead follow a big data analysis of the ownership chains of 98 million global companies.  The technique gives both a method of classification and a method of understanding the relative scale – but not absolute scale – of havens/OFCs.The results were published by the University of Amsterdam's CORPNET Group in 2017, and identified two classifications:
+24 global sink OFCs: jurisdictions in which a "disproportional amount of value disappears from the economic system" (i.e. the traditional tax havens).
+Five global conduit OFCs: jurisdictions "through which a disproportional amount of value moves toward sink OFCs" (i.e. modern corporate tax havens).Our findings debunk the myth of tax havens as exotic far-flung islands that are difficult, if not impossible, to regulate. Many offshore financial centers are highly developed countries with strong regulatory environments.
+In 2017, the European Parliament adopted the CORPNET approach into their frameworks for addressing tax havens. In 2018, research by Gabriel Zucman showed that using Orbis database connections specifically underestimates the scale of Ireland, which the Zucman–Tørsløv–Wier 2018 list showed is the largest Conduit OFC in the world. This aside, CORPNET's Conduits and Sinks reconcile closely with the most noted academic top ten tax haven lists.
+
+
+== Background ==
+
+The lack of an accepted definition for identifying tax havens (and even offshore financial centres), results in different lists, including:
+
+Academic leaders in tax haven research: Hines (1994, 2007, 2010) Dharmapala (2008, 2009), and Zucman (2015, 2018).
+OECD lists: Started with 35 locations in 2000 (none of which were OECD members), but by 2017, only listed Trinidad & Tobago as a tax haven.
+IMF OFC lists:  Started with 46 OFCs in June 2000 using qualitative methods; refined to 22 OFCs in April 2007 using purely quantitive methods; listed the eight major OFCs in 2018 who handle 85% of all flows; by 2010, the tax academics considered OFCs as synonymous with tax havens.
+ITEP lists: Focus on offshore structures of US S&P500 firms, and list the Netherlands, Ireland, the Caribbean, and Luxembourg in their top five.There are "traditional" tax havens common on all these lists (e.g. some Caribbean and Channel Islands locations), which some global regulators have either blacklisted, or have issued formal warnings/threat of sanctions against, unless transparency is increased.However, a key difference between the lists regards the major OECD and EU tax havens (or offshore financial centres), such as Switzerland, Ireland the Netherlands and Luxembourg (amongst others). Major regulators like the EU and the OECD don't regard OECD or EU countries as tax havens, and point to their transparency and compliance with international regulations.Academic leaders in tax haven research, and other non–governmental organizations, point to the role of OECD and EU tax havens in tax avoidance from base erosion and profit shifting (BEPS) schemes, like the Double Irish, the Single Malt and the Dutch Sandwich. They regard them as major tax havens in their definitions of tax havens.
+
+
+== CORPNET Report ==
+A report published in Nature in 2017 on the analysis of offshore financial centres called: "Uncovering Offshore Financial Centers: Conduits and Sinks in the Global Corporate Ownership Network", provided a quantitative and scientific approach to the classification of tax havens.The report was the result of a multi-year investigation by political economists and computer scientists in the CORPNET research group at the University of Amsterdam.  CORPNET is a European Research Council funded group at the University of Amsterdam investigating networks of corporate control.The report used the Moody's Orbis corporate database, to examine 98 million global companies and their 71 million ownership connections (using big data computer modelling) to identify 5 global Conduit OFCs (Netherlands, United Kingdom, Ireland, Singapore and Switzerland). These are countries of high financial reputation (i.e. not formally labelled "tax havens" by OECD/EU), but who have "advanced" legal and tax structuring vehicles (and SPVs) that help legally route funds to the 24 tax havens (called Sink OFCs), without incurring tax in the Conduit OFC (or even tax in the source of funds location, where royalty payment schemes can be used).The work built on methods established in the "Offshore–Intensity Ratio", and in particular the understanding "activity" relative to the "scale" of the domestic economy in a country. At its crudest level, the Offshore-Intensity Ratio explains why the countries at the top of global GDP per capita lists are mostly tax havens.
+The EU Parliament's Policy Department on Economic and Scientific Policies included the research in its findings for the EU Committee on Money laundering, tax avoidance and tax evasion (PANA), and by tabulating against existing EU–IMF–FSI list of tax havens, showed material gaps in EU understanding of conduits.CORPNET's top 5 Conduits and top 5 Sinks are 9 of the 10 largest tax havens identified in 2010 by one of the academic founders of tax haven research, James R. Hines Jr.  Hines' 2010 list of 10 major tax havens only differs in its omission of the U.K., which in 2010, had only just reformed its corporate tax system. CORPNET's top 5 Conduits and top 5 Sinks closely reconcile with the top 10 major corporate tax havens of other major academic and non–governmental organisation tax haven lists.  Other tax academics have incorporated the research into their understanding of tax havens.
+
+
+== Conduit OFC ==
+
+Conduit OFCs are described as having advanced legal and tax systems designed to enable corporations to route funds from high tax locations (e.g. Germany) to the sink OFCs (e.g. Bermuda). They tend to have attractive "holding company" regimes (e.g. no withholding taxes, foreign dividends exempt from taxes, capital gains reliefs, full double–tax relief), advanced tax treatment of intellectual property regimes, and large global networks of bilateral tax treaties.For example, CORPNET's five major conduit OFCs, all have a top–ten ranking in the 2018 Global Innovation Property Centre (GIPC) IP Index. IP has been described as the "raw materials of corporate tax avoidance", and "the leading corporate tax avoidance vehicle".Conduit OFCs are shown to be dominated by major law firms and global accounting firms, who create the lawfully constructed special purpose vehicles (SPVs) and BEPS tools that make the connections with the sink OFCs, by exploiting legislative loopholes such as the Double Irish and Dutch Sandwich. They advise clients on anticipating future changes (e.g. from OECD BEPS processes), that may need new loopholes (e.g. the single malt arrangement).Other researchers into tax havens have written that professional service firms in the major OECD and EU tax havens write most of their state's relevant taxation and SPV-related legislation, so that they can create and protect loopholes, and refer to such jurisdictions as being a "captured" by their financial services industry. The legal and tax structuring undertaken by conduit OFCs is considered beyond the trust–structuring type work of the traditional tax haven "offshore magic circle" law firms.  Conduit OFCs need structures that can integrate with bilateral tax treaties involving G20 countries, as well as meeting U.S. GAAP / SEC Regulations that U.S. multinationals, one of the largest users of conduit OFCs, need to adhere to.CORPNET's top five global conduit OFCs channel 47% of corporate offshore connections and include the following:
+
+
+== Sink OFC ==
+Sink OFCs cover a broad range of locations from very small countries (e.g. the Marshall Islands), to major global financial centres (e.g. Hong Kong).Just because funds reach a Sink OFC, does not mean that they remain dormant. Quite the contrary, the funds can be invested in assets all over the world, but their legal ownership and future gains remain in the Sink OFC.  For example, the circa US$1 trillion of US company offshore cash is held in Sink OFCs (esp. the Caribbean).The CORPNET Report highlighted some interesting aspects of the 24 Sink OFCs:
+
+
+== OECD failings ==
+
+An example of an IP–based BEPS tool is Ireland's Capital Allowances for Intangible Assets (CAIA) tool, also known as the "Green Jersey", which has an effective tax rate of 0–2.5%.  Apple used the CAIA (or Green Jersey) BEPS tool in Q1 2015, resulting in the "leprechaun economics" restatement of Irish GDP by 34.4 percent.  Ireland has other IP–based BEPS tools (Ireland as the first OECD nexus-compliant KDB), and is a supporter of the OECD BEPS project (see box).
+
+
+== Isle of Man omitted ==
+The Isle of Man (the "IOM") was absent from the list of top sink OFCs.  The IOM appears on tax–haven lists and ranks 42 on the 2018 Financial Secrecy Index.The Chief Minister of the IOM, Howard Quayle, announced that the CORPNET report proved that the IOM is not a tax haven. However, CORPNET researchers from the University of Amsterdam directly replied to Howard Quayle's article clarifying that while the IOM does not appear as a leading sink OFC for corporate tax avoidance, it does not mean that individuals (personal bank accounts and trusts) do not use the IOM to avoid taxes, and particularly United Kingdom VAT.
+Other commentators have added that the IOM is "failing as a tax haven", and is now too small to appear in major studies like the CORPNET research.
+
+
+== Ireland underestimated ==
+
+The CORPNET report used legal corporate connections on the Orbis database, rather than the actual "quantum" of money, as its primary metric of analysis.  In theory, the authors felt that this does not impede the goal of classification, and of making relative rankings.  However, it does mean the "monetary amount" of potential tax avoidance was not calculated.The tax haven academic and author of The Hidden Wealth of Nations, Gabriel Zucman, used a different quantitative approach.  Zucman focused on macro–data of national statistical accounts.  In theory, the total assets in a system should equal the total liabilities.  By aggregating national account data, Zucman identified an excess of liabilities over assets, implying that the missing assets (to balance the equation), are hidden in tax–havens.  On this basis, in 2015, he estimated that 8% of the world's wealth (or US$7.6 trillion) was "missing" in offshore tax–havens.Zucman's analysis highlighted the special case of Ireland and why the Orbis database underestimates Ireland's scale as one of the world's largest corporate tax avoidance, or BEPS, hubs. In 2018, Zucman (et alia) showed that many of Ireland's U.S. multinationals don't appear on Orbis (e.g. Facebook), or only have a small fraction of their data on Orbis (e.g. Google and Apple).  Analysed using "quantum of funds" (not "Orbis connections"), Zucman showed Ireland is one of the largest corporate tax shelters in the world, and a route for Zucman's estimated loss of 20% in EU corporate tax revenues annually.
+
+
+== See also ==
+Corporate tax haven
+Tax haven
+Offshore financial centre
+Financial centre
+Base erosion and profit shifting
+Double Irish arrangement
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+University of Amsterdam CORPNET
+Jan Fichtner Offshore–Intensity Ratio
+Gabrial Zucman, University College Berkley
+Moody's ORBIS Database
+Institute on Taxation and Economic Policy

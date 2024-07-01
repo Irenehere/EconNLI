@@ -1,0 +1,72 @@
+Robert Emerson Lucas Jr. (September 15, 1937 – May 15, 2023) was an American economist at the University of Chicago. Widely regarded as the central figure in the development of the new classical approach to macroeconomics, he received the Nobel Prize in Economics in 1995 "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy". He was characterized by N. Gregory Mankiw as "the most influential macroeconomist of the last quarter of the 20th century". In 2020, he ranked as the 10th most cited economist in the world.
+
+
+== Early life and education ==
+Lucas was born on September 15, 1937, in Yakima, Washington, as the eldest child of Robert Emerson Lucas and Jane Templeton Lucas. His parents ran an ice creamery in Yakima. After the business failed during the Great Depression, the family moved to Seattle. His mother worked as a fashion designer and his father worked at shipbuilding yard and later worked as a welder with a refrigeration company.Lucas received his BA in History in 1959 from the University of Chicago. Lucas attended the University of California, Berkeley, as a first-year graduate student, but he left Berkeley due to financial reasons and returned to Chicago in 1960, where he earned a PhD in Economics in 1964. His dissertation, Substitution Between Labor and Capital in U.S. Manufacturing: 1929–1958, was written under the supervision of H. Gregg Lewis and Dale Jorgenson. Lucas studied economics for his PhD on "quasi-Marxist" grounds. He believed that economics was the true driver of history, and so he planned to immerse himself fully in economics and then return to the history department.
+
+
+== Career ==
+Following his graduation, Lucas taught at the Graduate School of Industrial Administration (now Tepper School of Business) at Carnegie Mellon University until 1975, when he returned to the University of Chicago.Lucas was elected to the American Academy of Arts and Sciences in 1980, a Guggenheim Fellowship and the National Academy of Sciences in 1981, and the American Philosophical Society in 1997. A collection of his papers is housed at the Rubenstein Library at Duke University.Lucas was awarded the Nobel Memorial Prize in Economic Sciences in 1995. The citation noted that the prize was "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy".
+
+
+== Research contributions ==
+
+
+=== Rational expectations ===
+Lucas is well known for his investigations into the implications of rational expectations in macroeconomic theory. Lucas (1972) incorporated the idea of rational expectations into a dynamic macroeconomic models. The agents in Lucas's model are rational: based on the available information, they form expectations about future prices and quantities, and based on these expectations they act to maximize their expected lifetime utility. He also provided sound theoretical foundations to Milton Friedman and Edmund Phelps's view of the long-run neutrality of money, and provided an explanation for the then observed correlation between output and inflation, depicted by the Phillips curve, while illustrating that the existence of this empirical relationship did not yield a possibility of a policy trade off.
+
+
+=== Lucas critique ===
+
+In 1976, challenged the foundations of macroeconomic theory (previously dominated by the Keynesian economics approach), arguing that a macroeconomic model should be built as an aggregated version of microeconomic models while noting that aggregation in the theoretical sense may not be possible within a given model. He formulated the "Lucas critique" of economic policymaking, which holds that relationships that appear to hold in the economy, such as an apparent relationship between inflation and unemployment, could change in response to changes in economic policy. The reformulation influenced the development of new classical macroeconomics and the drive towards microeconomic foundations for macroeconomic theory.
+
+
+=== Other contributions ===
+Lucas developed a theory of supply that suggests people can be tricked by unsystematic monetary policy; the Uzawa–Lucas model (with Hirofumi Uzawa) of human capital accumulation; and the "Lucas paradox", which considers why more capital does not flow from developed countries to developing countries. Lucas (1988) is a seminal contribution in the economic development and growth literature. Lucas and Paul Romer heralded the birth of endogenous growth theory and the resurgence of research on economic growth in the late 1980s and the 1990s.Lucas also contributed foundational contributions to behavioral economics, and provided the intellectual foundation for the understanding of deviations from the law of one price based on the irrationality of investors.In 2003, he stated, about five years before the Great Recession, that the "central problem of depression-prevention has been solved, for all practical purposes, and has in fact been solved for many decades."Lucas also proposed the Lucas Wedge which tries to show how much higher GDP would be in the presence of proper policy.
+
+
+== Personal life ==
+Lucas married an undergraduate classmate from the University of Chicago Booth School of Business, Rita Cohen. The couple divorced in the 1980s. The divorce stipulation had a clause that entitled Cohen to half of his Nobel prize winnings if the prize were to be awarded before October 31, 1995, which ended up being the case.After his divorce from Cohen, Lucas married Nancy Stokey. The couple collaborated on papers on growth theory, public finance, and monetary theory. Lucas had two sons with Cohen: Stephen (born 1960) and Joseph (born 1966).Lucas died in Chicago on May 15, 2023, at the age of 85.
+
+
+== Bibliography ==
+Lucas, Robert (1972). "Expectations and the Neutrality of Money". Journal of Economic Theory. 4 (2): 103–24. CiteSeerX 10.1.1.592.6178. doi:10.1016/0022-0531(72)90142-1.
+Lucas, Robert (1976). "Econometric Policy Evaluation: A Critique". Carnegie-Rochester Conference Series on Public Policy. 1: 19–46. CiteSeerX 10.1.1.726.1610. doi:10.1016/S0167-2231(76)80003-6.
+Lucas, Robert (1988). "On the Mechanics of Economic Development". Journal of Monetary Economics. 22 (1): 3–42. doi:10.1016/0304-3932(88)90168-7. S2CID 154875771.
+Lucas, Robert (1990). "Why Doesn't Capital Flow from Rich to Poor Countries". American Economic Review. 80 (2): 92–96. JSTOR 2006549.
+Lucas, Robert (1981). Studies in Business-Cycle Theory. MIT Press. ISBN 978-0-262-62044-4.
+Lucas, Robert (1995). "Monetary Neutrality". Prize Lecture, 1995 Nobel Prize in Economics, December 7, 1995,
+Stokey, Nancy; Robert Lucas; and Edward Prescott (1989), Recursive Methods in Economic Dynamics, Harvard University Press, ISBN 0-674-75096-9.
+Lucas, Robert E. Jr. (2012). "The History and Future of Economic Growth". In Miniter, Brendan (ed.). The 4% Solution: Unleashing the Economic Growth America Needs. New York: Crown Business. pp. 27–41. ISBN 978-0-307-98614-6.
+Lucas, Robert E. Jr.; Moll, Benjamin (October 2011). "Knowledge Growth and the Allocation of Time". Working Paper Series no. 17495. National Bureau of Economic Research. doi:10.3386/w17495. Retrieved April 9, 2019. {{cite journal}}: Cite journal requires |journal= (help)
+Lucas, Robert E. Jr.; Moll, Benjamin (February 2014). "Knowledge Growth and the Allocation of Time". Journal of Political Economy. 122 (1): 1–51. doi:10.1086/674363. S2CID 6319313.
+
+
+== See also ==
+List of economists
+Lucas critique
+Lucas islands model
+Lucas wedge
+Uzawa–Lucas model
+Welfare cost of business cycles
+
+
+== Notes ==
+
+
+== References ==
+Galbács, Peter (2015). The Theory of New Classical Macroeconomics: A Positive Critique. Contributions to Economics. Heidelberg/New York/Dordrecht/London: Springer. doi:10.1007/978-3-319-17578-2. ISBN 978-3-319-17578-2.
+Kasper, Sherryl (2002). "Robert E. Lucas, Jr and new classical economics". The Revival of Laissez-Faire in American Macroeconomic Theory: A Case Study of Its Pioneers. Edward Elgar. ISBN 9781843765608.
+
+
+== External links ==
+
+Robert E. Lucas Jr.'s website at University of Chicago
+Robert Lucas Jr. on Nobelprize.org  includes the Prize Lecture on December 7, 1995 Monetary Neutrality
+Robert E. Lucas Jr. – Autobiography
+Nobel Prize Press Release
+IDEAS/RePEc
+Interview on Channel 4
+Chicago Economics on Trial 
+"Robert E. Lucas Jr. (1937– )". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Interviews with Robert Lucas as part of the Nobel Perspectives project

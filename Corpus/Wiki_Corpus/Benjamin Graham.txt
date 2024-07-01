@@ -1,0 +1,61 @@
+Benjamin Graham (; né Grossbaum; May 9, 1894 – September 21, 1976) was a British-born American economist, professor and investor. He is widely known as the "father of value investing", and wrote two of the founding texts in neoclassical investing: Security Analysis (1934) with David Dodd, and The Intelligent Investor (1949). His investment philosophy stressed investor psychology, minimal debt, buy-and-hold investing, fundamental analysis, concentrated diversification, buying within the margin of safety, activist investing, and contrarian mindsets.
+After graduating from Columbia University at age 20, he started his career on Wall Street, eventually founding the Graham–Newman Partnership. After employing his former student Warren Buffett, he took up teaching positions at his alma mater, and later at UCLA Anderson School of Management at the University of California, Los Angeles.
+His work in managerial economics and investing has led to a modern wave of value investing within mutual funds, hedge funds, diversified holding companies, and other investment vehicles. Throughout his career, Graham had many notable disciples who went on to receive substantial success in the world of investment, including Irving Kahn and Warren Buffett, the latter going on to describe him as the second most influential person in his life after his own father. Another one of Graham's famous students was Sir John Templeton.
+
+
+== Early life ==
+Graham was born Benjamin Grossbaum in London, England, to Jewish parents. On his mother's side, he was the great-grandson of Rabbi Yaakov Gesundheit and a cousin of neuroscientist Ralph Waldo Gerard. He moved to New York City with his family when he was one year old. The family changed their name from Grossbaum to Graham in a desire to assimilate into American society and avoid anti-Semitic and anti-German sentiments.After the death of his father, who owned and managed a successful furniture store, the family experienced poverty which Graham said later influenced his investing theories by inspiring an early appreciation of buying low-priced bargains. Graham became a good student, graduating as salutatorian of his class at Columbia. He declined an offer to teach English, mathematics, and philosophy, choosing instead to take a job on Wall Street, where he eventually started his Graham-Newman Partnership. Early on, Graham made a name for himself with "The Northern Pipeline Affair", an early case of shareholder activism involving John D. Rockefeller. Graham's research indicated Northern Pipeline Co. held vast cash and bond assets that he believed were not being put to good use, and bought enough shares to force a proxy vote to distribute these assets to shareholders.
+
+
+== Investment and academic career ==
+His first book, Security Analysis with David Dodd, was published in 1934. In Security Analysis, he proposed a clear definition of investment that was distinguished from what he deemed speculation. It read, "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative."Warren Buffett describes The Intelligent Investor (1949) as "the best book about investing ever written." Graham exhorted the stock market participant to first draw a fundamental distinction between investment and speculation.
+Graham wrote that the owner of equity stocks should regard them first and foremost as conferring part ownership of a business. With that perspective in mind, the stock owner should not be too concerned with erratic fluctuations in stock prices, since in the short term the stock market behaves like a voting machine, but in the long term it acts like a weighing machine (i.e. its true value will be reflected in its stock price in the long run). Graham distinguished between the passive and the active investor. The passive investor, often referred to as a defensive investor, invests cautiously, looks for value stocks, and buys for the long term.  The active investor, in contrast, is one who has more time, interest, and possibly more specialized knowledge to seek out exceptional buys in the market. Graham recommended that investors spend time and effort to analyze the financial state of companies. When a company is available on the market at a price which is at a discount to its intrinsic value, a "margin of safety" exists, which makes it suitable for investment.
+Graham wrote that investment is most intelligent when it is most businesslike. By that he meant that the stock investor is neither right nor wrong because others agreed or disagreed with him; he is right because his facts and analysis are right.  Graham's favorite allegory is that of Mr. Market, a fellow who turns up every day at the stock holder's door offering to buy or sell his shares at a different price. Usually, the price quoted by Mr. Market seems plausible, but occasionally it is ridiculous. The investor is free to either agree with his quoted price and trade with him, or to ignore him completely. Mr. Market doesn't mind this, and will be back the following day to quote another price. The point is that the investor should not regard the whims of Mr. Market as determining the value of the shares that the investor owns. He should profit from market folly rather than participate in it.  The investor is best off concentrating on the real life performance of his companies and receiving dividends, rather than being too concerned with Mr. Market's often irrational behavior.Graham was critical of the corporations of his day for obfuscated and irregular financial reporting that made it difficult for investors to discern the true state of the business's finances. He was an advocate of dividend payments to shareholders rather than businesses keeping all of their profits as retained earnings. He also criticized those who advised that some types of stocks were a good buy at any price, because of the prospect of sustained stock price growth, without a good analysis of the business's actual financial condition. These observations remain relevant today.Graham's average investment performance was ~20% annualized return over 1936 to 1956. The overall market performance for the same time period was 12.2% annually on average. Despite this, both Buffett and Berkshire Hathaway vice chairman Charlie Munger consider following Graham's method strictly to be outdated, with Buffett stating during a 1988 interview with journalist Carol Loomis for Fortune, "Boy, if I had listened only to Ben, would I ever be a lot poorer."Graham's largest gain was from GEICO, which his Graham-Newman Partnership purchased 50% of in 1948 for $712,000. The position grew to $400 million by 1972, contributing more to the portfolio than all of Graham-Newman's other investments combined. GEICO was eventually acquired in whole by Berkshire Hathaway in 1996, having previously been saved by Buffett and John J. Byrne in 1976.
+
+
+== Death ==
+On September 21, 1976, Graham died in Aix-en-Provence, France, at the age of 82.
+
+
+== Legacy ==
+His contributions spanned numerous fields, one of which was fundamental value investing.
+Graham is considered the "father of value investing," and his two books, Security Analysis and The Intelligent Investor, defined his investment philosophy,  especially what it means to be a value investor. Arguably, his most famous student was Warren Buffett, who is consistently ranked among wealthiest persons in the world. According to Buffett, Graham used to say that he wished every day to do something foolish, something creative, and something generous. And Buffett noted, Graham excelled most at the last.While many value investors have been influenced by Graham, his most notable investing disciples include Charles Brandes, as well as William J. Ruane, Bert Olden, Irving Kahn and Walter J. Schloss. In addition, Graham's thoughts on investing have influenced the likes of Seth Klarman and Bill Ackman. While some of Graham's investing concepts are now regarded as superseded or outdated, many others are still recognized as important and Security Analysis or The Intelligent Investor are required reading for new hires at many investing firms around the world.Alongside his work in investment finance, Graham also made contributions to economic theory. Most notably, he devised a new basis for both U.S. and global currency as an alternative to the gold standard. Graham regarded this currency theory as his most important professional work; it was largely ignored in his lifetime but gained serious attention decades after his death in the aftermath of Financial crisis of 2007–2008.
+
+
+== Bibliography ==
+
+
+=== Books ===
+Security Analysis, editions 1934, 1940, 1951 and 1962 and 1988 and 2008 ISBN 978-0-07-159253-6
+The Intelligent Investor, editions 1949, reprinted in 2005; 1959, 1965, 1973 with many reprints since
+Storage and Stability: A Modern Ever-normal Granary, New York: McGraw Hill. 1937 ISBN 0-07-024774-9
+The Interpretation of Financial Statements, 1937, 2nd Edition
+World Commodities and World Currency, New York & London, McGraw-Hill Book Company. 1944 ISBN 0-07-024806-0
+Benjamin Graham, The Memoirs of the Dean of Wall Street (1996) ISBN 978-0-07-024269-2
+
+
+=== Papers ===
+Graham, Benjamin; Graham, Benjamin (1917). "Some Calculus Suggestions by a Student". The American Mathematical Monthly. 24 (6): 265–271. doi:10.2307/2973181. JSTOR 2973181.
+Graham, Benjamin (1943). "The Critique of Commodity-Reserve Currency: A Point-by-Point Reply". The Journal of Political Economy. 51 (1): 66–69. doi:10.1086/255988. JSTOR 1826594. S2CID 154929745.
+Graham, Benjamin; Graham, Benjamin (1946). "The Undistributed Profits Tax and The Investor". The Yale Law Journal. 46 (1): 1–18. doi:10.2307/791630. JSTOR 791630.
+Graham, Benjamin (1947). "Money as Pure Commodity". American Economic Review. 37 (2): 304–307. JSTOR 1821137.
+Graham, Benjamin (1947). "National Productivity: Its Relationship to Unemployment-in-Prosperity". American Economic Review. 37 (2): 384–396. JSTOR 1821149.
+Graham, Benjamin; Graham, Benjamin (1962). "Some Investment Aspects of Accumulation Through Equities". The Journal of Finance. 17 (2): 203–214. doi:10.2307/2977419. JSTOR 2977419.
+Graham, Benjamin (1962). "The Commodity-Reserve Currency Proposal Reconsidered". In Yeager, Leland B. (ed.). In Search of Monetary Constitution. Cambridge, MA: Harvard University Press. pp. 184–214.
+
+
+== See also ==
+Warren Buffett & Charlie Munger, two investors notable for their adherence to value investing
+Benjamin Graham formula
+Valuation using discounted cash flows
+Gordon model
+
+
+== References ==
+
+
+== External links ==
+
+The Rediscovered Benjamin Graham – selected writings of the wall street legend, by Janet Lowe.
+Columbia University biography
+Heilbrunn Center at the Columbia Business School

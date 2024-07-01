@@ -1,0 +1,82 @@
+In economics, goods are items that satisfy human wants 
+and provide utility, for example, to a consumer making a purchase of a satisfying product. A common distinction is made between goods which are transferable, and services, which are not transferable.A good is an "economic good" if it is useful to people but scarce in relation to its demand so that human effort is required to obtain it. 
+In contrast, free goods, such as air, are naturally in abundant supply and need no conscious effort to obtain them. 
+Private goods are things owned by people, such as televisions, living room furniture, wallets, cellular telephones, almost anything owned or used on a daily basis that is not food-related. 
+A consumer good or "final good" is any item that is ultimately consumed, rather than used in the production of another good. For example, a microwave oven or a bicycle that is sold to a consumer is a final good or consumer good, but the components that are sold to be used in those goods are intermediate goods. For example, textiles or transistors can be used to make some further goods.
+Commercial goods are construed as tangible products that are manufactured and then made available for supply to be used in an industry of commerce. Commercial goods could be tractors, commercial vehicles, mobile structures, airplanes, and even roofing materials. Commercial and personal goods as categories are very broad and cover almost everything a person sees from the time they wake up in their home, on their commute to work to their arrival at the workplace.
+Commodities may be used as a synonym for economic goods but often refer to marketable raw materials and primary products.Although common goods are tangible, certain classes of goods, such as information, only take intangible forms. For example, among other goods an apple is a tangible object, while news belongs to an intangible class of goods and can be perceived only by means of an instrument such as printers or television.
+
+
+== Utility and characteristics of goods ==
+Goods may increase or decrease their utility directly or indirectly and may be described as having marginal utility. Some things are useful, but not scarce enough to have monetary value, such as the Earth's atmosphere, these are referred to as 'free goods'.
+In normal parlance, "goods" is always a plural word, but economists have long termed a single item of goods "a good".
+In economics, a bad is the opposite of a good. Ultimately, whether an object is a good or a bad depends on each individual consumer and therefore, not all goods are goods to all people.
+
+
+== Types of goods ==
+Goods' diversity allows for their classification into different categories based on distinctive characteristics, such as tangibility and (ordinal) relative elasticity. A tangible good like an apple differs from an intangible good like information due to the impossibility of a person to physically hold the latter, whereas the former occupies physical space.  Intangible goods differ from services in that final (intangible) goods are transferable and can be traded, whereas a service cannot.
+Price elasticity also differentiates types of goods.  An elastic good is one for which there is a relatively large change in quantity due to a relatively small change in price, and therefore is likely to be part of a family of substitute goods; for example, as pen prices rise, consumers might buy more pencils instead. An inelastic good is one for which there are few or no substitutes, such as tickets to major sporting events, original works by famous artists, and prescription medicine such as insulin. Complementary goods are generally more inelastic than goods in a family of substitutes. For example, if a rise in the price of beef results in a decrease in the quantity of beef demanded, it is likely that the quantity of hamburger buns demanded will also drop, despite no change in buns' prices. This is because hamburger buns and beef (in Western culture) are complementary goods. Goods considered complements or substitutes are relative associations and should not be understood in a vacuum. The degree to which a good is a substitute or a complement depends on its relationship to other goods, rather than an intrinsic characteristic, and can be measured as cross elasticity of demand by employing statistical techniques such as covariance and correlation.
+
+
+== Goods classified by exclusivity and competitiveness ==
+
+
+=== Fourfold model of goods ===
+Goods can be classified based on their degree of excludability and rivalry (competitiveness). Considering excludability can be measured on a continuous scale, some goods  would not be able to fall into one of the four common categories used.
+There are four types of goods based on the characteristics of rival in consumption and excludability: Public Goods, Private Goods, Common Resources, and Club Goods.  These four types plus examples for anti-rivalry appear in the accompanying table.
+
+
+==== Public goods ====
+Goods that are both non-rival and non-excludable are called public goods. In many cases, renewable resources, such as land, are common commodities but some of them are contained in public goods. Public goods are non-exclusive and non-competitive, meaning that individuals cannot be stopped from using them and anyone can consume this good without hindering the ability of others to consume them. Examples in addition to the ones in the matrix are national parks, or firework displays. It is generally accepted by mainstream economists that the market mechanism will under-provide public goods, so these goods have to be produced by other means, including government provision. Public goods can also suffer from the Free-Rider problem.
+
+
+==== Private goods ====
+Private goods are excludable goods, which prevent other consumers from consuming them. Private goods are also rivalrous because one good in private ownership cannot be used by someone else. That is to say, consuming some goods will deprive another consumer of the ability to consume the goods. Private goods are the most common type of goods.  They include what you have to get from the store. For examples food, clothing, cars, parking spaces,etc. An individual who consumes an apple denies another individual from consuming the same one. It is excludable because consumption is only offered to those willing to pay the price.
+
+
+==== Common-pool resources ====
+Common-pool resources are rival in consumption and non-excludable. An example is that of fisheries, which harvest fish from a shared common resource pool of fish stock. Fish caught by one group of fishermen are no longer accessible to another group, thus being rivalrous. However, oftentimes, due to an absence of well-defined property rights, it is difficult to restrict access to fishermen who may overfish.
+
+
+==== Club goods ====
+Club goods are excludable but not rivalrous in the consumption. That is, not everyone can use the good, but when one individual has claim to use it, they do not reduce the amount or the ability for others to consume the good. By joining a specific club or organization we can obtain club goods; As a result, some people are excluded because they are not members. Examples in addition to the ones in the matrix are cable television, golf courses, and any merchandise provided to club members. A large television service provider would already have infrastructure in place which would allow for the addition of new customers without infringing on existing customers viewing abilities. This would also mean that marginal cost would be close to zero, which satisfies the criteria for a good to be considered non-rival. However, access to cable TV services is only available to consumers willing to pay the price, demonstrating the excludability aspect.Economists set these categories for these goods and their impact on consumers. The government is usually responsible for public goods and common goods, and enterprises are generally responsible for the production of private and club goods. But this pattern does not fit for all the goods as they can intermingle.
+
+
+=== History of the fourfold model of goods ===
+In 1977, Nobel winner Elinor Ostrom and her husband Vincent Ostrom proposed additional modifications to the existing classification of goods so to identify fundamental differences that affect the incentives facing individuals. Their definitions are presented on the matrix.Elinor Ostrom proposed additional modifications to the classification of goods to identify fundamental differences that affect the incentives facing individuals
+Replacing the term "rivalry of consumption" with "subtractability of use".
+Conceptualizing subtractability of use and excludability to vary from low to high rather than characterizing them as either present or absent.
+Overtly adding a very important fourth type of good—common-pool resources—that shares the attribute of subtractability with private goods and difficulty of exclusion with public goods. Forests, water systems, fisheries, and the global atmosphere are all common-pool resources of immense importance for the survival of humans on this earth.
+Changing the name of a "club" good to a "toll" good since goods that share these characteristics are provided by small scale public as well as private associations.
+
+
+=== Expansion of Fourfold model: Anti-rivalrous ===
+
+Consumption can be extended to include "Anti-rivalrous" consumption.
+
+
+=== Expansion of Fourfold model: Semi-Excludable ===
+
+The additional definition matrix shows the four common categories alongside providing some examples of fully excludable goods, Semi-excludable goods and fully non-excludeable goods. Semi-excludable goods can be considered goods or services that a mostly successful in excluding non-paying customer, but are still able to be consumed by non-paying consumers.  An example of this is movies, books or video games that could be easily pirated and shared for free.
+
+
+== Trading of goods ==
+
+Goods are capable of being physically delivered to a consumer. Goods that are economic intangibles can only be stored, delivered, and consumed by means of media.
+Goods, both tangibles and intangibles, may involve the transfer of product ownership to the consumer. Services do not normally involve transfer of ownership of the service itself, but may involve transfer of ownership of goods developed or marketed by a service provider in the course of the service. For example, sale of storage related goods, which could consist of storage sheds, storage containers, storage buildings as tangibles or storage supplies such as boxes, bubble wrap, tape, bags and the like which are consumables, or distributing electricity among consumers is a service provided by an electric utility company. This service can only be experienced through the consumption of electrical energy, which is available in a variety of voltages and, in this case, is the economic goods produced by the electric utility company. While the service (namely, distribution of electrical energy) is a process that remains in its entirety in the ownership of the electric service provider, the goods (namely, electric energy) is the object of ownership transfer. The consumer becomes an electric energy owner by purchase and may use it for any lawful purposes just like any other goods.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Bannock, Graham et al. (1997). Dictionary of Economics, Penguin Books.
+Milgate, Murray (1987), "goods and commodities," The New Palgrave: A Dictionary of Economics, v. 2, pp. 546–48. Includes historical and contemporary uses of the terms in economics.
+Vuaridel, R. (1968). Une définition des biens économiques. (A definition of economic goods). L'Année sociologique (1940/1948-), 19, 133-170. Stable JStor URL: [1]
+
+
+== External links ==
+ Media related to Goods (economics) at Wikimedia Commons

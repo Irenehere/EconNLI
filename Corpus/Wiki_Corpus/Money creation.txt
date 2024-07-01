@@ -1,0 +1,106 @@
+Money creation, or money issuance, is the process by which the money supply of a country, or of an economic or monetary region, is increased. In most modern economies, money creation is controlled by the central banks. Money issued by central banks is termed base money. Central banks can increase the quantity of base money directly, by engaging in open market operations. However, the majority of the money supply is created by the commercial banking system in the form of bank deposits. Bank loans issued by commercial banks that practice fractional reserve banking expands the quantity of broad money to more than the original amount of base money issued by the central bank.
+Central banks monitor the amount of money in the economy by measuring monetary aggregates (termed broad money), consisting of cash and bank deposits. Money creation occurs when the quantity of monetary aggregates increase. Governmental authorities, including central banks and other bank regulators, can use policies such as reserve requirements and capital adequacy ratios to influence the amount of broad money created by commercial banks.
+
+
+== Money supply ==
+
+The term "money supply" commonly denotes the total, safe, financial assets that households and businesses can use to make payments or to hold as short-term investment. The money supply is measured using the so-called "monetary aggregates", defined in accordance to their respective level of liquidity. In the United States, for example:
+
+M0: The total of all physical currency including coinage. Using the United States dollar as an example, M0 = Federal Reserve notes + US notes + coins. It is not relevant whether the currency is held inside or outside of the private banking system as reserves.
+M1: The total amount of M0 (cash/coin) outside of the private banking system plus the amount of demand deposits, travelers checks and other checkable deposits
+M2: M1 + most savings accounts, money market accounts, retail money market mutual funds, and small denomination time deposits (certificates of deposit of under $100,000).The money supply is understood to increase through activities by government authorities, by the central bank of the nation, and by commercial banks.
+
+
+== Money creation by the central bank ==
+
+
+=== Central banks ===
+
+The authority through which monetary policy is conducted is the central bank of the nation. The mandate of a central bank typically includes either one of the three following objectives or a combination of them, in varying order of preference, according to the country or the region: Price stability, i.e. inflation-targeting; the facilitation of maximum employment in the economy; the assurance of moderate, long term, interest rates.The central bank is the banker of the government and provides to the government a range of services at the operational level, such as managing the Treasury's single account, and also acting as its fiscal agent (e.g. by running auctions), its settlement agent, and its bond registrar. A central bank cannot become insolvent in its own currency. However, a central bank can become insolvent in liabilities on foreign currency.Central banks operate in practically every nation in the world, with few exceptions. There are some groups of countries, for which, through agreement, a single entity acts as their central bank, such as the organization of states of Central Africa,  which all have a common central bank, the Bank of Central African States; or monetary unions, such as the Eurozone, whereby nations retain their respective central bank yet submit to the policies of the central entity, the European Central Bank. Central banking institutions are generally independent of the government executive.The central bank's activities directly affect interest rates, through controlling the base rate, and indirectly affect stock prices, the economy's wealth, and the national currency's exchange rate. Monetarists and some Austrians argue that the central bank should control the money supply, through its monetary operations. Critics of the mainstream view maintain that central-bank operations can affect but not control the money supply.
+
+
+=== Open-market operations ===
+Open-market operations (OMOs) concern the purchase and sale of securities in the open market by a central bank. OMOs essentially swap one type of financial assets for another; when the central bank buys bonds held by the banks or the private sector, bank reserves increase while bonds held by the banks or the public decrease. Temporary operations are typically used to address reserve needs that are deemed to be transitory in nature, while permanent operations accommodate the longer-term factors driving the expansion of the central bank's balance sheet; such a primary factor is typically the trend of the money-supply growth in the economy. Among the temporary, open-market operations are repurchase agreements (repos) or reverse repos, while permanent ones involve outright purchases or sales of securities. Each open-market operation by the central bank affects its balance sheet.
+
+
+=== Monetary policy ===
+
+Monetary policy is the process by which the monetary authority of a country, typically the central bank (or the currency board), manages the level of short-term interest rates and influences the availability and the cost of credit in the economy, as well as overall economic activity.Central banks conduct monetary policy usually through open market operations. The purchase of debt, and the resulting increase in bank reserves, is called "monetary easing". An extraordinary process of monetary easing is denoted as "quantitative easing", whose intent is to stimulate the economy by increasing liquidity and promoting bank lending.
+
+
+=== Physical currency ===
+The central bank, or other competent, state authorities (such as the treasury), are typically empowered to create new, physical currency, i.e. paper notes and coins, in order to meet the needs of commercial banks for cash withdrawals, and to replace worn and/or destroyed currency. The process does not increase the money supply, as such; the term "printing [new] money" is considered a misnomer.In modern economies, relatively little of the supply of broad money is in physical currency.
+
+
+== Role of commercial banks ==
+
+When commercial banks lend money, they expand the amount of bank deposits. 
+The banking system can expand the money supply of a country beyond the amount created or targeted by the central bank, creating most of the broad money in a process called the multiplier effect.Banks are limited in the total amount they can lend by their capital adequacy ratios, and their required reserve ratios. The required-reserves ratio obliges banks to keep a minimum, predetermined, percentage of their deposits at an account at the central bank. 
+The theory holds that, in a system of fractional-reserve banking, where banks ordinarily keep only a fraction of their deposits in reserves, an initial bank loan creates more money than it initially lent out.
+The maximum ratio of loans to deposits is the required-reserve ratio RRR, which is determined by the central bank, as
+
+  
+    
+      
+        
+          
+            R
+            R
+            R
+          
+        
+        =
+        
+          
+            R
+            D
+          
+        
+      
+    
+    {\displaystyle {\mathit {RRR}}={\frac {R}{D}}}
+  where R are reserves and D are deposits.
+Rather than holding the quantity of base money fixed, central banks have recently pursued an interest rate target to control bank issuance of credit indirectly so the ceiling implied by the money multiplier does not impose a limit on money creation in practice.
+
+
+== Credit theory of money ==
+
+The fractional reserve theory where the money supply is limited by the money multiplier has come under increased criticism since the financial crisis of 2007–2008. It has been observed that the bank reserves are not a limiting factor because the central banks supply more reserves than necessary and because banks have been able to build up additional reserves when they were needed. Many economists and bankers now believe that the amount of money in circulation is limited only by the demand for loans, not by reserve requirements.A study of banking software demonstrates that the bank does nothing else than adding an amount to the two accounts when they issue a loan. The observation that there appears to be no limit to the amount of credit money that banks can bring into circulation in this way has given rise to the often-heard expression that "Banks are creating money out of thin air". The exact mechanism behind the creation of commercial bank money has been a controversial issue. In 2014, a study titled "Can banks individually create money out of nothing? — The theories and the empirical evidence" empirically tested the manner in which this type of money is created by monitoring a cooperating bank's internal records:
+This study establishes for the first time empirically that banks individually create money out of nothing. The money supply is created as ‘fairy dust’ produced by the banks individually, "out of thin air".
+The credit theory of money, initiated by Joseph Schumpeter, asserts the central role of banks as creators and allocators of the money supply, and distinguishes between "productive credit creation" (allowing non-inflationary economic growth even at full employment, in the presence of technological progress) and "unproductive credit creation" (resulting in inflation of either the consumer- or asset-price variety).The model of bank lending stimulated through central-bank operations (such as "monetary easing") has been rejected by Neo-Keynesian
+and Post-Keynesian analysis as well as central banks.
+The major argument offered by dissident analysis is that any bank balance-sheet expansion (e.g. through a new loan) that leaves the bank short of the required reserves may affect the return it can expect on the loan, because of the extra cost the bank will undertake to return within the ratios limits – but this does not and  "will never impede the bank's capacity to give the loan in the first place". Banks first lend and then cover their reserve ratios: The decision whether or not to lend is generally independent of their reserves with the central bank or their deposits from customers; banks are not lending out deposits or reserves, anyway. Banks lend on the basis of lending criteria, such as the status of the customer's business, the loan's prospects, and/or the overall economic situation.
+Bank of England tells us in 2019: "Most of the money in the economy is created by banks when they provide loans.", but not every provided loan is heightening bank money amount. It depends on payment flows after given loans. (see table by Decker/Goodhart [2021] beside).
+
+
+== Monetary financing ==
+
+
+=== Policy ===
+"Monetary financing", also "debt monetization", occurs when the country's central bank purchases government debt. It is considered by mainstream analysis to cause inflation, and often hyperinflation. IMF's former chief economist Olivier Blanchard states that: governments do not create money; the central bank does. But with the central bank's cooperation, the government can in effect finance itself by money creation. It can issue bonds and ask the central bank to buy them. The central bank then pays the government with money it creates, and the government in turn uses that money to finance the deficit. This process is called debt monetization. The description of the process differs in heterodox analysis. Modern chartalists state: the central bank does not have the option to monetize any of the outstanding government debt or newly issued government debt...[A]s long as the central bank has a mandate to maintain a short-term interest rate target, the size of its purchases and sales of government debt are not discretionary. The central bank's lack of control over the quantity of reserves underscores the impossibility of debt monetization. The central bank is unable to monetize the government debt by purchasing government securities at will because to do so would cause the short-term target rate to fall to zero or to any support rate that it might have in place for excess reserves.
+
+
+=== Restrictions ===
+Monetary financing used to be standard monetary policy in many countries, such as Canada or France, while in others it was and still is prohibited. In the Eurozone, Article 123 of the Lisbon Treaty explicitly prohibits the European Central Bank from financing public institutions and state governments. In Japan, the nation's central bank "routinely" purchases approximately 70% of state debt issued each month, and owns, as of Oct 2018, approximately 440 trillion JP¥ (approx. $4trillion) or over 40% of all outstanding government bonds. In the United States, the 1913 Federal Reserve Act allowed federal banks to purchase short-term securities directly from the Treasury, in order to facilitate its cash-management operations. The Banking Act of 1935 prohibited the central bank from directly purchasing Treasury securities, and permitted their purchase and sale only "in the open market". In 1942, during wartime, Congress amended the Banking Act's provisions to allow purchases of government debt by the federal banks, with the total amount they'd hold "not [to] exceed $5 billion". After the war, the exemption was renewed, with time limitations, until it was allowed to expire in June 1981.
+
+
+== See also ==
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Further reading ==
+Asmundson, Irena; Oner, Ceyda (September 2012). "What Is Money?" (PDF). Finance & Development. IMF. Retrieved 8 March 2018.
+Federal Reserve historical statistics (11 June 2009) Archived June 5, 2009, at the Wayback Machine
+Hegeland, Hugo (1970) [1954]. Multiplier Theory (7 ed.). Harvard University Press. ISBN 978-0678001622.
+Mankiw, N. Gregory (2012). Macroeconomics (8th ed.). Worth. pp. 81–107. ISBN 978-1429240024.
+Werner, Richard A. (16 September 2014). "Can banks individually create money out of nothing? The theories and the empirical evidence". Elsevier. SSRN 2489665. {{cite journal}}: Cite journal requires |journal= (help)
+
+
+== External links ==
+"The Role of Central Bank Money in Payment Systems", Bank for International Settlements, August 2003
+Mitchell, William (2009) "Deficit spending 101: Part 1"; "Part 2"; "Part 3"

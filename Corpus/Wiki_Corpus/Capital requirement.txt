@@ -1,0 +1,81 @@
+A capital requirement (also known as regulatory capital, capital adequacy or capital base) is the amount of capital a bank or other financial institution has to have as required by its financial regulator. This is usually expressed as a capital adequacy ratio of equity as a percentage of risk-weighted assets. These requirements are put into place to ensure that these institutions do not take on excess leverage and risk becoming insolvent. Capital requirements govern the ratio of equity to debt, recorded on the liabilities and equity side of a firm's balance sheet. They should not be confused with reserve requirements, which govern the assets side of a bank's balance sheet—in particular, the proportion of its assets it must hold in cash or highly-liquid assets. Capital is a source of funds not a use of funds.
+
+
+== Regulations ==
+A key part of bank regulation is to make sure that firms operating in the industry are prudently managed. The aim is to protect the firms themselves, their customers, the government (which is liable for the cost of deposit insurance in the event of a bank failure) and the economy, by establishing rules to make sure that these institutions hold enough capital to ensure continuation of a safe and efficient market and are able to withstand any foreseeable problems.
+The main international effort to establish rules around capital requirements has been the Basel Accords, published by the Basel Committee on Banking Supervision housed at the Bank for International Settlements. This sets a framework on how banks and depository institutions must calculate their capital. After obtaining the capital ratios, the bank capital adequacy can be assessed and regulated. In 1988, the Committee decided to introduce a capital measurement system commonly referred to as Basel I. In June 2004 this framework was replaced by a significantly more complex capital adequacy framework commonly known as Basel II. Following the financial crisis of 2007–08, Basel II was replaced by Basel III, which will be gradually phased in between 2013 and 2019.Another term commonly used in the context of the frameworks is economic capital, which can be thought of as the capital level bank shareholders would choose in the absence of capital regulation. For a detailed study on the differences between these two definitions of capital, refer to Economic and Regulatory Capital in Banking: What is the Difference.
+The capital ratio is the percentage of a bank's capital to its risk-weighted assets. Weights are defined by risk-sensitivity ratios whose calculation is dictated under the relevant Accord. Basel II requires that the total capital ratio must be no lower than 8%.
+Each national regulator normally has a very slightly different way of calculating bank capital, designed to meet the common requirements within their individual national legal framework.
+Most developed countries implement Basel I and II, stipulate lending limits as a multiple of a bank's capital eroded by the yearly inflation rate.
+The five Cs of Credit—Character, Cash Flow, Collateral, Conditions and Covenants—have been replaced by one single criterion. While the international standards of bank capital were established in the 1988 Basel I accord, Basel II makes significant alterations to the interpretation, if not the calculation, of the capital requirement.
+Examples of national regulators implementing Basel include the FSA in the UK, BaFin in Germany, OSFI in Canada, Banca d'Italia in Italy. In the United States the primary regulators implementing Basel include the Office of the Comptroller of the Currency and the Federal Reserve.In the European Union member states have enacted capital requirements based on the Capital Adequacy Directive CAD1 issued in 1993 and CAD2 issued in 1998.
+In the United States, depository institutions are subject to risk-based capital guidelines issued by the Board of Governors of the Federal Reserve System (FRB). These guidelines are used to evaluate capital adequacy based primarily on the perceived credit risk associated with balance sheet assets, as well as certain off-balance sheet exposures such as unfunded loan commitments, letters of credit, and derivatives and foreign exchange contracts. The risk-based capital guidelines are supplemented by a leverage ratio requirement. To be adequately capitalized under federal bank regulatory agency definitions, a bank holding company must have a Tier 1 capital ratio of at least 4%, a combined Tier 1 and Tier 2 capital ratio of at least 8%, and a leverage ratio of at least 4%, and not be subject to a directive, order, or written agreement to meet and maintain specific capital levels. To be well-capitalized under federal bank regulatory agency definitions, a bank holding company must have a Tier 1 capital ratio of at least 6%, a combined Tier 1 and Tier 2 capital ratio of at least 10%, and a leverage ratio of at least 5%, and not be subject to a directive, order, or written agreement to meet and maintain specific capital levels. These capital ratios are reported quarterly on the Call Report or Thrift Financial Report. Although Tier 1 capital has traditionally been emphasized, in the Late-2000s recession regulators and investors began to focus on tangible common equity, which is different from Tier 1 capital in that it excludes preferred equity.Regulatory capital requirements typically (although not always) are imposed at both an individual bank entity level and at a group (or sub-group) level. This may therefore mean that several different regulatory capital regimes apply throughout a bank group at different levels, each under the supervision of a different regulator.
+
+
+== Regulatory capital ==
+In the Basel II accord bank capital has been divided into two "tiers", each with some subdivisions.
+
+
+=== Tier 1 capital ===
+
+Tier 1 capital, the more important of the two, consists largely of shareholders' equity and disclosed reserves. This is the amount paid up to originally purchase the stock (or shares) of the Bank (not the amount those shares are currently trading for on the stock exchange), retained profits subtracting accumulated losses, and other qualifiable Tier 1 capital securities (see below). In simple terms, if the original stockholders contributed $100 to buy their stock and the Bank has made $20 in retained earnings each year since, paid out no dividends, had no other forms of capital and made no losses, after 10 years the Bank's tier one capital would be $300. Shareholders equity and retained earnings are now commonly referred to as "Core" Tier 1 capital, whereas Tier 1 is core Tier 1 together with other qualifying Tier 1 capital securities.
+In India, the Tier 1 capital is defined as "'Tier I Capital' means "owned fund" as reduced by investment in shares of other non-banking financial companies and in shares, debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group exceeding, in aggregate, ten per cent of the owned fund; and perpetual debt instruments issued by a systemically important non-deposit taking non-banking financial company in each year to the extent it does not exceed 15% of the aggregate Tier I Capital of such company as on March 31 of the previous accounting year;" (as per Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007) In the context of NBFCs in India, the Tier I capital is nothing but net owned funds.
+Owned funds stand for paid up equity capital, preference shares which are compulsorily convertible into equity, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of asset, excluding reserves created by revaluation of asset, as reduced by accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any.
+
+
+=== Tier 2 (supplementary) capital ===
+
+Tier 2 capital, supplementary capital, comprises undisclosed reserves, revaluation reserves, general provisions, hybrid instruments and subordinated term debt.
+
+
+==== Undisclosed reserves ====
+Undisclosed reserves are where a bank has made a profit but this has not appeared in normal retained profits or in general reserves.
+
+
+==== Revaluation reserves ====
+A revaluation reserve is a reserve created when a company has an asset revalued and an increase in value is brought to account. A simple example may be where a bank owns the land and building of its headquarters and bought them for $100 a century ago. A current revaluation is very likely to show a large increase in value. The increase would be added to a revaluation reserve.
+
+
+==== General provisions ====
+A general provision is created when a company is aware that a loss has occurred, but is not certain of the exact nature of that loss. Under pre-IFRS accounting standards, general provisions were commonly created to provide for losses that were expected in the future. As these did not represent incurred losses, regulators tended to allow them to be counted as capital.
+
+
+==== Hybrid debt capital instruments ====
+They consist of instruments which combine certain characteristics of equity as well as debt. They can be included in supplementary capital if they are able to support losses on an ongoing basis without triggering liquidation.
+Sometimes, it includes instruments which are initially issued with interest obligation (e.g. debentures) but the same can later be converted into capital.
+
+
+==== Subordinated-term debt ====
+Subordinated debt is classed as Lower Tier 2 debt, usually has a maturity of a minimum of 10 years and ranks senior to Tier 1 capital, but subordinate to senior debt in terms of claims on liquidation proceeds. To ensure that the amount of capital outstanding does not fall sharply once a Lower Tier 2 issue matures and, for example, not be replaced, the regulator demands that the amount that is qualifiable as Tier 2 capital amortises (i.e. reduces) on a straight line basis from maturity minus 5 years (e.g. a 1bn issue would only count as worth 800m in calculating capital 4 years before maturity). The remainder qualifies as senior issuance. For this reason many Lower Tier 2 instruments were issued as 10 year non-call 5 year issues (i.e. final maturity after 10 years but callable after 5 years). If not called, issue has a large step—similar to Tier 1—thereby making the call more likely.
+
+
+== Different international implementations ==
+Regulators in each country have some discretion on how they implement capital requirements in their jurisdiction.
+For example, it has been reported that Australia's Commonwealth Bank is measured as having 7.6% Tier 1 capital under the rules of the Australian Prudential Regulation Authority, but this would be measured as 10.1% if the bank was under the jurisdiction of the UK's Prudential Regulation Authority. This demonstrates that international differences in implementation of the rule can vary considerably in their level of strictness.
+
+
+=== European Union ===
+In the EU countries the capital requirements as set out by Basel III agreement have been implemented by the so-called CRD IV package which commonly refers to both the EU Directive 2013/36/EU and the EU Regulation 575/2013.
+
+
+== Common capital ratios ==
+CET1 Capital Ratio = Common Equity Tier 1 / Risk-weighted assets ≥ 4.5%
+Tier 1 Capital Ratio = Tier 1 Capital / Risk-weighted assets ≥ 6%
+Total Capital (Tier 1 and Tier 2) ratio = Total Capital (Tier 1 + Tier 2) / Risk-weighted assets ≥ 8%
+Leverage Ratio = Tier 1 Capital / Average total consolidated assets value ≥ 3%
+
+
+== See also ==
+Basel II
+Basel III
+Reserve requirement
+Capital adequacy ratio
+KVA, the x-Valuation Adjustment for regulatory capital
+
+
+== References ==
+
+
+== External links ==
+The Basel I Accord
+FDIC Call and TFR Data

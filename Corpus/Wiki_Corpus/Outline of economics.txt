@@ -1,0 +1,759 @@
+The following outline is provided as an overview of and topical guide to economics:
+Economics – analyzes the production, distribution, and consumption of goods and services. It aims to explain how economies work and how economic agents interact.
+
+
+== Description of economics ==
+Economics can be described as all of the following:
+
+Academic discipline – body of knowledge given to, or received by, a disciple (student); a branch or sphere of knowledge, or field of study, that an individual has chosen to specialize in.
+Field of science  – widely recognized category of specialized expertise within science, and typically embodies its own terminology and nomenclature.  Such a field will usually be represented by one or more scientific journals, where peer-reviewed research is published.  There are many economics-related scientific journals.
+Social science  – field of academic scholarship that explores aspects of human society.
+
+
+== Branches of economics ==
+Macroeconomics – branch of economics dealing with the performance, structure, behavior, and decision-making of an economy as a whole, rather than individual markets.
+Microeconomics – branch of economics that studies the behavior of individuals and firms in making decisions regarding the allocation of limited resources.
+Mesoeconomics In-between
+
+
+=== Subdisciplines of economics ===
+Agricultural economics
+Attention economics
+Behavioral economics
+Classical economics
+Comparative economic systems
+Contract theory
+Cultural economics
+Demographic economics
+Development economics
+Ecological economics
+Econometrics
+Economic anthropology
+Economic development
+Economic geography
+Economic history
+Economic sociology
+Economics of marriage
+Education economics
+Energy economics
+Engineering economics
+Entrepreneurial economics
+Environmental economics
+Family economics
+Feminist economics
+Financial economics
+Georgism
+Green economics
+Health economics
+Industrial organization
+Information economics
+International economics
+Institutional economics
+Labor economics
+Law and economics
+Managerial economics
+Mathematical economics
+Monetary economics
+Public finance
+Public economics
+Real estate economics
+Regional economics
+Regional science
+Resource economics
+Rural economics
+Socialist economics
+Urban economics
+Welfare economics
+
+
+=== Methodologies or approaches ===
+Behavioural economics
+Classical economics
+Computational economics
+Econometrics
+Evolutionary economics
+Experimental economics
+Praxeology (used by the Austrian School)
+Social psychology
+
+
+=== Interdisciplinary fields involving economics ===
+Bioeconomics
+Constitutional economics
+Econophysics
+Institutionalist political economy
+Neuroeconomics
+Political economy
+Socioeconomics
+Thermoeconomics
+Transport economics
+
+
+== Types of economies ==
+
+Economy – system of human activities related to the production, distribution, exchange, and consumption of goods and services of a country or other area.
+
+
+=== Economies, by political & social ideological structure ===
+
+Economic ideology
+Capitalist economy
+Planned economy
+Consumer economy (consumerism)
+Corporate economy
+Fascist economy
+Laissez-faire
+Mercantilism
+Natural economy
+Primitive communism
+Social market economy
+Socialist economy
+
+
+=== Economies, by scope ===
+Anglo-Saxon economy
+American School
+Hunter-gatherer economy
+Information economy
+New industrial economy
+Palace economy
+Plantation economy
+Token economy
+Traditional economy
+Transition economy
+World economy
+
+
+=== Economies, by regulation ===
+Closed economy
+Dual economy
+Gift economy
+Informal economy
+Market economy
+Mixed economy
+Open economy
+Participatory economy
+Planned economy
+Subsistence economy
+Underground economy
+Virtual economy
+
+
+== Economic elements ==
+
+
+=== Economic activities ===
+Business
+Business cycle
+Collective action
+Commerce
+Competition
+Consumption
+Distribution
+Employment
+Entrepreneurship
+Export
+Finance
+Government spending
+Import
+Investment
+Mergers and acquisitions
+Pricing
+Geographical pricing
+Production
+Trade
+Balance of trade
+Fair trade
+Free trade
+International trade
+Safe trade
+Tax, tariff and trade
+Terms of trade
+Trade bloc
+Trade pact
+Trader Ethic
+
+
+=== Economic forces ===
+Aggregate demand
+Aggregate supply
+Deflation
+Economic activity (see above)
+Economies of agglomeration
+Economies of scale
+Economies of scope
+Incentive
+Inflation
+Hyperinflation
+Invisible hand
+Preference
+Profit motive
+
+
+==== Economic problems ====
+Depression
+Financial crisis
+Hyperinflation
+Poverty
+Recession
+List of recessions
+Stagflation
+Unemployment
+
+
+==== Trends and influences ====
+Decentralization
+Globalization
+Industrialisation
+Internationalization
+
+
+=== Economic measures ===
+Consumer price index
+Economic indicator
+Human Development Index
+Measures of national income and output
+Gross domestic product
+Natural gross domestic product
+Gross national product
+National income
+Net national income
+Poverty level
+Standard of living
+UN Human Development Index
+Value
+Cost-of-production theory of value
+Labor theory of value
+Surplus value
+Time value of money
+Value added
+Value of Earth
+Value of life
+Measuring well-being
+Working time
+
+
+=== Economic participants ===
+Employer
+Employee
+Entrepreneur
+Central bank
+Reproductive labor
+
+
+=== Economic politics ===
+Antitrust
+Cartel
+Government-granted monopoly
+Reaganomics
+Taxation
+Income tax
+Land value tax
+Sales tax
+Tariff
+Tax, tariff and trade
+Value-added tax
+
+
+==== Economic policy ====
+Economic policy
+
+Agricultural policy
+Fiscal policy
+Incomes policy
+Price controls
+Price ceiling
+Rent control
+Price floor
+Minimum wage
+Industrial policy
+Infrastructure-based development
+Investment policy
+Monetary policy
+Disinflation
+Inflation targeting
+Monetary hawk and dove
+Monetary reform
+Quantitative easing
+Reflation
+Policy mix – combination of a country's monetary policy and fiscal policy. These two channels influence growth and employment, and are generally determined by the central bank and the government (e.g., the United States Congress) respectively.
+Stabilization policy
+Tax policy
+
+
+=== Infrastructure ===
+Infrastructure
+
+
+=== Markets ===
+Market
+
+
+==== Types of markets ====
+Black market
+Commodity markets
+Financial market
+Bond market
+Money market
+Spot market
+Secondary market
+Third market
+Fourth market
+Stock market
+Free market
+Labor market
+Mass market
+Media market
+Regulated market
+
+
+==== Aspects of markets ====
+Market failure
+Market power
+Market share
+Market structure
+Market system
+Market transparency
+Market trend
+Market dominance
+
+
+==== Market forms ====
+Market form
+
+Perfect competition, in which the market consists of a very large number of firms producing a homogeneous product.
+Monopolistic competition, also called competitive market, where there are a large number of  independent firms which have a very small proportion of the market share.
+Monopoly, where there is only one provider of a product or service.
+Monopsony, when there is only one buyer in a market.
+Natural monopoly, a monopoly in which economies of scale cause efficiency to increase continuously with the size of the firm.
+Oligopoly, in which a market is dominated by a small number of firms which own more than 40% of the market share.
+Oligopsony, a market dominated by many sellers and a few buyers.
+
+
+==== Market-oriented activities ====
+Market analysis
+Marketing
+Market segmentation
+Market intelligence
+Market research
+
+
+=== Money ===
+Money
+
+Currency
+Community currency
+Dollar
+Local currency
+Petrocurrency
+Reserve currency
+Time-based currency
+Yen
+United States dollar
+Monetary reform
+Monetary system
+Money supply
+
+
+=== Resources ===
+
+
+==== Resource management ====
+Resource management
+
+Natural resource management
+Resource allocation
+
+
+==== Factors of production ====
+Factors of production
+
+
+===== Land =====
+Land
+
+Natural resources
+
+
+===== Labor =====
+Division of labour
+
+
+===== Capital =====
+Capital
+
+Capital asset
+Capital intensity
+Financial capital
+Human capital
+Individual capital
+Natural capital
+Social capital
+Wealth
+
+
+== Economic theory ==
+Consumer theory
+Efficiency wage hypothesis
+Efficient market hypothesis
+Marginalism
+Prospect theory
+Public choice theory
+Rational choice theory
+
+
+=== Economic ideologies ===
+Consumerism
+Monetarism
+Productivism
+Utilitarianism
+
+
+== History of economics ==
+
+
+=== History of economic thought ===
+History of economic thought
+
+Ancient economic thought
+Aristotle
+Nicomachean Ethics
+Economics of the Age of Enlightenment
+Mercantilism
+British Enlightenment
+John Locke
+Dudley North
+David Hume
+French Enlightenment: Physiocracy
+François Quesnay
+Tableau économique
+Anne Robert Jacques Turgot
+Reflections on the Formation and Distribution of Wealth
+Classical economics, political economy
+Adam Smith
+The Wealth of Nations
+David Ricardo
+Socialist economics
+Marxian economics
+Labour theory of value
+Anarchist economics
+Austrian School of Economics
+Carl Menger
+Friedrich von Hayek
+Ludwig von Mises
+Neoclassical economics
+Léon Walras
+John Bates Clark
+Alfred Marshall
+Keynesian economics
+John Maynard Keynes
+Cambridge capital controversy
+Neo-Keynesian economics
+Paul Samuelson
+John Hicks (economist)
+Neoclassical synthesis
+Post-Keynesian economics
+Hyman Minsky
+Joan Robinson
+Michał Kalecki
+New Keynesian economics
+Chicago school of economics
+Milton Friedman
+Monetarism
+
+
+=== Economic history ===
+Economic history
+
+Economic events
+Economic history of the world
+Economics in the Middle Ages: feudalism and manorialism
+Economics of the Renaissance: mercantilism
+Industrial Revolution
+Economic history of World War I
+Nixon shock
+Economic history by region
+Economic history of Africa
+Economic history of Morocco
+Economic history of Nigeria
+Economic history of Somalia
+Economic history of South Africa
+Economic history of Zimbabwe
+Economic history of the Arab world
+Economic history of Asia
+Economic history of Cambodia
+Economic history of China
+Economic history of China before 1912
+Economic history of China (1912–1949)
+Economic history of China (1949–present)
+Economic history of the Republic of China
+Economic history of India
+Economic history of Indonesia
+Economic history of Iran
+Economic history of Japan
+Economic history of Malaysia
+Economic history of Pakistan
+Economic history of Taiwan
+Economic history of Turkey
+Economic history of the Ottoman Empire
+Economic history of Vietnam
+Economic history of the Philippines
+Economic history of Australia
+Economic history of Europe
+Economic history of France
+Economic history of Germany
+Economic history of the German reunification
+Economic history of Greece and the Greek world
+Economic history of Iceland
+Economic history of Ireland
+Economic history of Italy
+Economic history of Portugal
+Economic history of Scotland
+Economic history of Spain
+Economic history of Sweden
+Economic history of Venice
+Economic history of the Netherlands (1500–1815)
+Economic history of the Republic of Ireland
+Economic history of the Russian Federation
+Economic history of the United Kingdom
+Economic history of North America
+Economic history of Canada
+Economic history of Mexico
+Economic history of the United States
+Economic history of Central America
+Economic history of Nicaragua
+Economic history of South America
+Economic history of Argentina
+Economic history of Brazil
+Economic history of Chile
+Economic history of Colombia
+Economic history of Ecuador
+Economic history of Peru
+Economic history by subject
+History of banking
+History of money
+History of stock markets
+
+
+== General economic concepts ==
+Ricardian economics
+Keynesian economics
+Classical economics
+Neo-Keynesian economics
+Neoclassical economics
+New classical economics
+New Keynesian economics
+Participatory economics
+Home economics
+Goods
+Complement good
+Coordination good
+Free goods
+Inferior goods
+Normal goods
+Public good
+Substitute good
+isms
+Capitalism
+Natural Capitalism
+Economic subjectivism
+Socialism
+Modern portfolio theory
+Game theory
+Human development theory
+Production theory basics
+Time preference theory of interest
+Agent
+Arbitrage
+Big Mac Index
+Big push model
+Cash crop
+Canadian and American economies compared
+Catch-up effect
+Chicago school
+Collusion
+Commodity
+Comparative advantage
+Competitive advantage
+complementarity
+Consumer and producer surplus
+Cost
+Cost-benefit analysis
+Cost-of-living index
+Debt
+Devaluation
+Disposable income
+Economic
+Economic data
+Economic efficiency
+Economic growth
+Economic globalization
+Economic profits
+Economic modeling
+Economic reports
+Economic system
+Ecosystem services
+Elasticity
+Environmental finance
+Euro
+Event study
+Experience economy
+Externality
+Factor price equalization
+Federal Reserve
+Financial instruments
+Fiscal neutrality
+Full-reserve banking
+General equilibrium
+Gold standard
+Import substitution
+Income
+Income elasticity of demand
+Income velocity of money
+Induced demand
+Industrial organization
+Input-output model
+Interest
+Keynes, John Maynard
+Knowledge-based economy
+Laissez-faire
+Land
+Living wage
+Local purchasing
+Lorenz curve
+Marginal Revolution
+Means of production
+Mental accounting
+Menu costs
+Missing market
+Model - economics
+Model - macroeconomics
+Monopoly profit
+Moral hazard
+Moral purchasing
+Multiplier (economics)
+Neo-classical growth model
+Network effect
+Network externality
+Operations research
+Opportunity cost
+Output
+Parable of the broken window
+Pareto efficiency
+Price
+Price discrimination
+Price elasticity of demand
+Price points
+Outline of industrial organization
+Production function
+Productivity
+Profit (economics)
+Profit maximization
+Public bad
+Public debt
+Purchasing power parity
+Rahn curve
+Rate of return pricing
+Rational expectations
+Rational pricing
+Real business cycle
+Real versus nominal in economics
+Regression analysis
+Returns to scale
+Risk premium
+Saving
+Scarcity
+Seven-generation sustainability
+Slavery
+Social cost
+Social credit
+Social welfare
+Stock exchange
+Subsidy
+Subsistence agriculture
+Sunk cost
+Supply and demand
+Supply-side economics
+Sustainable competitive advantage
+Sustainable development
+Sweatshop
+Technostructure
+The Theory of Moral Sentiments by Adam Smith
+Transaction cost
+Triple bottom line
+Trust
+Utility
+Utility maximization problem
+Uneconomic growth
+U.S. public debt
+Virtuous circle and vicious circle
+Wage rate
+X-efficiency
+Yield
+Zero sum game
+
+
+== Economics organizations ==
+American Economic Association
+American Institute for Economic Research
+American Law and Economics Association
+Association for Comparative Economic Studies
+Association for Evolutionary Economics
+Association for Social Economics
+Canadian Economics Association
+Centre for Economic Policy Research
+China Center for Economic Research
+Eastern Economic Association
+Econometric Society
+European Economic Association
+International Association for Feminist Economics
+International Economic Association
+Latin American and Caribbean Economic Association
+National Association for Business Economics
+National Bureau of Economic Research
+Royal Economic Society
+Southern Economic Association
+Western Economic Association International
+
+
+== Economics publications ==
+List of economics journals
+List of important publications in economics
+
+
+== Persons influential in the field of economics ==
+List of economists
+
+
+=== Nobel Memorial Prize–winning economic historians ===
+Milton Friedman won the Nobel Memorial Prize in Economic Sciences in 1976 for "his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy".
+Robert Fogel and Douglass North won the Nobel Memorial Prize in 1993 for "having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change".
+Merton Miller, who started his academic career teaching economic history at the LSE, won the Nobel Memorial Prize in 1990 with Harry Markowitz and William F. Sharpe.
+
+
+==== Other notable economic historians ====
+
+
+== See also ==
+Index of accounting articles
+Index of economics articles
+Index of international trade topics
+JEL classification codes
+List of business theorists
+List of economic communities
+List of economics films
+List of economics awards
+List of free trade agreements
+Outline of business management
+Outline of commercial law
+Outline of community
+Outline of finance
+Outline of marketing
+Outline of management
+Outline of production
+
+
+== External links ==
+
+History of Economic Thought and Critical Perspectives (NSSR)
+The Joy of Economics, chapter 1 of Surfing Economics by Huw Dixon

@@ -1,0 +1,78 @@
+In national income accounting, net national income (NNI) is net national product (NNP) minus indirect taxes.  Net national income encompasses the income of households, businesses, and the government. Net national income is defined as gross domestic product plus net receipts of wages, salaries and property income from abroad, minus the depreciation of fixed capital assets (dwellings, buildings, machinery, transport equipment and physical infrastructure) through wear and tear and obsolescence.It can be expressed as 
+
+NNI = C + I + G + (NX) + net foreign factor income – indirect taxes – manufactured capital depreciationwhere:
+
+C = Consumption
+I = Investment
+G = Government spending
+NX = net exports (exports minus imports) = (X – M)This formula uses the expenditure method of national income accounting.
+When net national income is adjusted for natural resource depletion, it is called Adjusted Net National Income, expressed as
+
+NNI* = C + I + G + NX + Net Foreign Factor Income – Indirect Taxes – manufactured capital depreciation – Natural Resource DepletionNatural resources are non-critical natural capital such as minerals. NNI* does not take critical natural capital into account. Examples are air, water, land, etc.
+For reference, capital (K) is divided into four categories: 
+
+  
+    
+      
+        
+          K
+          
+            m
+          
+        
+      
+    
+    {\displaystyle K_{m}}
+   : manufactured capital (machines, factories, etc.)
+
+  
+    
+      
+        
+          K
+          
+            h
+          
+        
+      
+    
+    {\displaystyle K_{h}}
+   : human capital (workers' skills)
+
+  
+    
+      
+        
+          K
+          
+            n
+          
+        
+      
+    
+    {\displaystyle K_{n}}
+   : non-critical natural capital (minerals)
+
+  
+    
+      
+        
+          K
+          
+            h
+          
+        
+        ∗
+      
+    
+    {\displaystyle K_{h}*}
+   : critical natural capital (air, water)
+
+
+== See also ==
+National Income Accounting
+Gross domestic income
+Gross domestic product
+
+
+== References ==

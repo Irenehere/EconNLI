@@ -1,0 +1,57 @@
+The Basel Accords refer to the banking supervision accords (recommendations on banking regulations) issued by the Basel Committee on Banking Supervision (BCBS).Basel I was developed through deliberations among central bankers from major countries. In 1988, the Basel Committee published a set of minimum capital requirements for banks. This is also known as the 1988 Basel Accord, and was enforced by law in the Group of Ten (G-10) countries in 1992. A new set of rules known as Basel II was developed and published in 2004 to supersede the Basel I accords. Basel III was a set of enhancements to in response to the financial crisis of 2007–2008. It does not supersede either Basel I or II but focuses on reforms to the Basel II framework to address specific issues, including related to the risk of a bank run.
+The Basel Accords have been integrated into the consolidated Basel Framework, which comprises all of the current and forthcoming standards of the Basel Committee on Banking Supervision.
+
+
+== The Basel Committee on Banking Supervision ==
+
+Formerly, the Basel Committee consisted of representatives from central banks and regulatory authorities of the Group of Ten countries plus Luxembourg and Spain. Since 2009, all of the other G-20 major economies are represented, as well as some other major banking locales such as Hong Kong and Singapore.The Committee does not have the authority to enforce recommendations, although most member countries as well as some other countries tend to implement the Committee's policies. This means that recommendations are enforced through national (or EU-wide) laws and regulations, rather than as a result of the committee's recommendations - thus some time may pass and, potentially, some unilateral changes may be made, between the international recommendations for minimum standards being agreed and implementation as law at the national level.
+The regulatory standards published by the committee are commonly known as Basel Accords.They are called the Basel Accords as the BCBS maintains its secretariat at the Bank for International Settlements in Basel, Switzerland and the committee normally meets there. The Basel Accords is a set of recommendations for regulations in the banking industry.
+
+
+== Basel I: the Basel Capital Accord ==
+
+Deliberations by central bankers from major countries resulted in the Basel Capital Accord, which was published in 1988 and covered capital requirements for credit risk. The Accord was enforced by law in the Group of Ten (G-10) countries in 1992.
+The Basel Accord was augmented in 1996 with a framework for market risk, which included both a standardised approach and a modelled approach, the latter based on value at risk.
+
+
+== Basel II: the new capital framework ==
+
+Published in 2004, Basel II was a new capital framework to supersede the Basel I framework. It introduced "three pillars":
+Minimum capital requirements, which sought to develop and expand the standardised rules set out in the 1988 Accord;
+Supervisory review of an institution's capital adequacy and internal assessment process;
+Effective use of disclosure as a lever to strengthen market discipline and encourage sound banking practices.Capital requirements for operational risk were introduced for the first time. The standards were revised several times during subsequent years.Bank regulators in the United States took the position of requiring a bank to follow the set of rules (Basel I or Basel II) giving the more conservative approach for the bank. Because of this it was anticipated that only the few very largest US banks would operate under the Basel II rules, the others  being regulated under the Basel I framework. However Basel II standards were criticised by some for allowing banks to take on too much risk with too little capital. This was considered part of the cause of the US subprime mortgage crisis, which started in 2008.
+The Basel 2.5 revisions introduced stressed VaR and IRC for modelled market risk in 2009-10.
+
+
+== Basel III: responding to the financial crisis ==
+
+Following the financial crisis of 2007–2008, the Basel III reforms were published in 2010/11. The standards set new definitions of capital, higher capital ratio requirements, and a leverage ratio requirement as a "back stop" measure. Risk-based capital requirements (RWAs) for CVA risk and interest rate risk in the banking book were introduced for the first time, along with a large exposures framework, a revised securitisation framework, and a standardised approach to counterparty credit risk (SA-CCR) to measure exposure to derivative transactions. A specific framework for exposures to central counterparty clearing was introduced.In the following years, the Basel Committee published regulatory standards for the Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR); and updated the standards for market risk, following a “Fundamental Review of the Trading Book” (FRTB). The Basel III: Finalising post-crisis reforms published by the Basel Committee in 2017, commonly known as Basel 3.1, cover further reforms of the existing framework.The new standards that come into effect in January 2023, that is, the FRTB and Basel 3.1, are sometimes referred to as Basel IV. However, the secretary general of the Basel Committee said, in a 2016 speech, that he did not believe the changes are substantial enough to warrant that title and the Basel Committee refer to only three Basel Accords.
+
+
+== Criticism ==
+The framework's approach to risk which is based on risk weights derived from the past was criticised for failing to account for the uncertainty in the future. A recent OECD study suggest that bank regulation based on the Basel accords encourage unconventional business practices and contributed to or even reinforced adverse systemic shocks that materialised during the financial crisis. According to the study, capital regulation based on risk-weighted assets encourages innovation designed to circumvent regulatory requirements and shifts banks' focus away from their core economic functions. Tighter capital requirements based on risk-weighted assets, introduced in the Basel III, may further contribute to these skewed incentives. New liquidity regulation, notwithstanding its good intentions, is another likely candidate to increase bank incentives to exploit regulation.
+
+
+== See also ==
+Basel IA
+Capital Requirements Directive
+Financial Stability Board
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Deventer, Donald R. Van; Mesler, Mark (2003). Credit Risk Models and the Basel Accords. Wiley. ISBN 978-0-470-82091-9.
+Elbannan, Mona (2011). Basel Accords Consequences. Lap Lambert Academic Publishing GmbH KG. ISBN 978-3-8443-8363-8.
+Eubanks, Walter W.; Division, Government and Finance (2006). The Basel Accords: The Implementation of II and the Modification of I. Congressional Research Service, the Library of Congress.
+Han, Yicheng (2020). Historical Capital Regulation of Banks. Standards and Influence of Basel Accords. GRIN Verlag. ISBN 978-3-346-30865-8.
+Liew, Venus Khim-Sen; Rahim, Rossazana Ab; Riaz, Samina (2019). Basel Accords, Bank Capital and Portfolio Risk Behavior. Cambridge Scholars Publishing. ISBN 978-1-5275-3889-4.
+Quillin, Bryce (2008). International Financial Co-Operation: Political Economics of Compliance with the 1988 Basel Accord. Routledge. ISBN 978-1-135-97959-1.
+
+
+== External links ==
+"Basel Accord - an overview ScienceDirect Topics". www.sciencedirect.com.

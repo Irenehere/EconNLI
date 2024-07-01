@@ -1,0 +1,252 @@
+The history of technology is the history of the invention of tools and techniques and is one of the categories of world history. Technology can refer to methods ranging from as simple as stone tools to the complex genetic engineering and information technology that has emerged since the 1980s. The term technology comes from the Greek word techne, meaning art and craft, and the word logos, meaning word and speech. It was first used to describe applied arts, but it is now used to describe advancements and changes which affect the environment around us.New knowledge has also enabled people to create new things, and conversely, many scientific endeavors are made possible by technologies which assist humans in traveling to places they could not previously reach, and by scientific instruments by which we study nature in more detail than our natural senses allow.
+Since much of technology is applied science, technical history is connected to the history of science. Since technology uses resources, technical history is tightly connected to economic history. From those resources, technology produces other resources, including technological artifacts used in everyday life. Technological change affects, and is affected by, a society's cultural traditions. It is a force for economic growth and a means to develop and project economic, political, military power and wealth.
+
+
+== Measuring technological progress ==
+Many sociologists and anthropologists have created social theories dealing with social and cultural evolution. Some, like Lewis H. Morgan, Leslie White, and Gerhard Lenski have declared technological progress to be the primary factor driving the development of human civilization. Morgan's concept of three major stages of social evolution (savagery, barbarism, and civilization) can be divided by technological milestones, such as fire. White argued the measure by which to judge the evolution of culture was energy.For White, "the primary function of culture" is to "harness and control energy." White differentiates between five stages of human development: In the first, people use the energy of their own muscles. In the second, they use the energy of domesticated animals. In the third, they use the energy of plants (agricultural revolution). In the fourth, they learn to use the energy of natural resources: coal, oil, gas. In the fifth, they harness nuclear energy. White introduced the formula P=E/T, where P is the development index, E is a measure of energy consumed, and T is the measure of the efficiency of technical factors using the energy. In his own words, "culture evolves as the amount of energy harnessed per capita per year is increased, or as the efficiency of the instrumental means of putting the energy to work is increased". Nikolai Kardashev extrapolated his theory, creating the Kardashev scale, which categorizes the energy use of advanced civilizations.
+
+Lenski's approach focuses on information. The more information and knowledge (especially allowing the shaping of natural environment) a given society has, the more advanced it is. He identifies four stages of human development, based on advances in the history of communication. In the first stage, information is passed by genes. In the second, when humans gain sentience, they can learn and pass information through experience. In the third, the humans start using signs and develop logic. In the fourth, they can create symbols, develop language and writing. Advancements in communications technology translate into advancements in the economic system and political system, distribution of wealth, social inequality and other spheres of social life. He also differentiates societies based on their level of technology, communication, and economy:hunter-gatherer,
+simple agricultural,
+advanced agricultural,
+industrial,
+special (such as fishing societies).In economics, productivity is a measure of technological progress. Productivity increases when fewer inputs (classically labor and capital but some measures include energy and materials) are used in the production of a unit of output. Another indicator of technological progress is the development of new products and services, which is necessary to offset unemployment that would otherwise result as labor inputs are reduced. In developed countries productivity growth has been slowing since the late 1970s; however, productivity growth was higher in some economic sectors, such as manufacturing. For example, employment in manufacturing in the United States declined from over 30% in the 1940s to just over 10% 70 years later. Similar changes occurred in other developed countries. This stage is referred to as post-industrial.
+In the late 1970s sociologists and anthropologists like Alvin Toffler (author of Future Shock), Daniel Bell and John Naisbitt have approached the theories of post-industrial societies, arguing that the current era of industrial society is coming to an end, and services and information are becoming more important than industry and goods. Some extreme visions of the post-industrial society, especially in fiction, are strikingly similar to the visions of near and post-Singularity societies.
+
+
+== By period and geography ==
+The following is a summary of the history of technology by time period and geography:
+
+
+=== Prehistory ===
+
+
+==== Stone Age ====
+
+During most of the Paleolithic – the bulk of the Stone Age – all humans had a lifestyle which involved limited tools and few permanent settlements. The first major technologies were tied to survival, hunting, and food preparation. Stone tools and weapons, fire, and clothing were technological developments of major importance during this period.
+Human ancestors have been using stone and other tools since long before the emergence of Homo sapiens approximately 300,000 years ago. The earliest direct evidence of tool usage was found in Ethiopia within the Great Rift Valley, dating back to 2.5 million years ago. The earliest methods of stone tool making, known as the Oldowan "industry", date back to at least 2.3 million years ago. This era of stone tool use is called the Paleolithic, or "Old stone age", and spans all of human history up to the development of agriculture approximately 12,000 years ago.
+To make a stone tool, a "core" of hard stone with specific flaking properties (such as flint) was struck with a hammerstone. This flaking produced sharp edges which could be used as tools, primarily in the form of choppers or scrapers. These tools greatly aided the early humans in their hunter-gatherer lifestyle to perform a variety of tasks including butchering carcasses (and breaking bones to get at the marrow); chopping wood; cracking open nuts; skinning an animal for its hide, and even forming other tools out of softer materials such as bone and wood.The earliest stone tools were irrelevant, being little more than a fractured rock. In the Acheulian era, beginning approximately 1.65 million years ago, methods of working these stones into specific shapes, such as hand axes emerged. This early Stone Age is described as the Lower Paleolithic.
+The Middle Paleolithic, approximately 300,000 years ago, saw the introduction of the prepared-core technique, where multiple blades could be rapidly formed from a single core stone. The Upper Paleolithic, beginning approximately 40,000 years ago, saw the introduction of pressure flaking, where a wood, bone, or antler punch could be used to shape a stone very finely.The end of the last Ice Age about 10,000 years ago is taken as the end point of the Upper Paleolithic and the beginning of the Epipaleolithic / Mesolithic. The Mesolithic technology included the use of microliths as composite stone tools, along with wood, bone, and antler tools.
+The later Stone Age, during which the rudiments of agricultural technology were developed, is called the Neolithic period. During this period, polished stone tools were made from a variety of hard rocks such as flint, jade, jadeite, and greenstone, largely by working exposures as quarries, but later the valuable rocks were pursued by tunneling underground, the first steps in mining technology. The polished axes were used for forest clearance and the establishment of crop farming and were so effective as to remain in use when bronze and iron appeared. These stone axes were used alongside a continued use of stone tools such as a range of projectiles, knives, and scrapers, as well as tools, made organic materials such as wood, bone, and antler.Stone Age cultures developed music and engaged in organized warfare. Stone Age humans developed ocean-worthy outrigger canoe technology, leading to migration across the Malay archipelago, across the Indian Ocean to Madagascar and also across the Pacific Ocean, which required knowledge of the ocean currents, weather patterns, sailing, and celestial navigation.
+Although Paleolithic cultures left no written records, the shift from nomadic life to settlement and agriculture can be inferred from a range of archaeological evidence. Such evidence includes ancient tools, cave paintings, and other prehistoric art, such as the Venus of Willendorf. Human remains also provide direct evidence, both through the examination of bones, and the study of mummies. Scientists and historians have been able to form significant inferences about the lifestyle and culture of various prehistoric peoples, and especially their technology.
+
+
+=== Ancient ===
+
+
+==== Copper and Bronze Ages ====
+
+Metallic copper occurs on the surface of weathered copper ore deposits and copper was used before copper smelting was known. Copper smelting is believed to have originated when the technology of pottery kilns allowed sufficiently high temperatures. The concentration of various elements such as arsenic increase with depth in copper ore deposits and smelting of these ores yields arsenical bronze, which can be sufficiently work hardened to be suitable for making tools.Bronze is an alloy of copper with tin; the latter being found in relatively few deposits globally caused a long time to elapse before true tin bronze became widespread. (See: Tin sources and trade in ancient times) Bronze was a major advancement over stone as a material for making tools, both because of its mechanical properties like strength and ductility and because it could be cast in molds to make intricately shaped objects. Bronze significantly advanced shipbuilding technology with better tools and bronze nails. Bronze nails replaced the old method of attaching boards of the hull with cord woven through drilled holes. Better ships enabled long-distance trade and the advance of civilization. 
+This technological trend apparently began in the Fertile Crescent and spread outward over time. These developments were not, and still are not, universal. The three-age system does not accurately describe the technology history of groups outside of Eurasia, and does not apply at all in the case of some isolated populations, such as the Spinifex People, the Sentinelese, and various Amazonian tribes, which still make use of Stone Age technology, and have not developed agricultural or metal technology.
+
+
+==== Iron Age ====
+
+Before iron smelting was developed the only iron was obtained from meteorites and is usually identified by having nickel content. Meteoric iron was rare and valuable, but was sometimes used to make tools and other implements, such as fish hooks.
+The Iron Age involved the adoption of iron smelting technology. It generally replaced bronze and made it possible to produce tools which were stronger, lighter and cheaper to make than bronze equivalents. The raw materials to make iron, such as ore and limestone, are far more abundant than copper and especially tin ores. Consequently, iron was produced in many areas.
+It was not possible to mass manufacture steel or pure iron because of the high temperatures required. Furnaces could reach melting temperature but the crucibles and molds needed for melting and casting had not been developed. Steel could be produced by forging bloomery iron to reduce the carbon content in a somewhat controllable way, but steel produced by this method was not homogeneous.
+In many Eurasian cultures, the Iron Age was the last major step before the development of written language, though again this was not universally the case.
+In Europe, large hill forts were built either as a refuge in time of war or sometimes as permanent settlements. In some cases, existing forts from the Bronze Age were expanded and enlarged. The pace of land clearance using the more effective iron axes increased, providing more farmland to support the growing population.
+
+
+==== Mesopotamia ====
+Mesopotamia (modern Iraq) and its peoples (Sumerians, Akkadians, Assyrians and Babylonians) lived in cities from c. 4000 BC, and developed a sophisticated architecture in mud-brick and stone, including the use of the true arch. The walls of Babylon were so massive they were quoted as a Wonder of the World. They developed extensive water systems; canals for transport and irrigation in the alluvial south, and catchment systems stretching for tens of kilometers in the hilly north. Their palaces had sophisticated drainage systems.Writing was invented in Mesopotamia, using the cuneiform script. Many records on clay tablets and stone inscriptions have survived. These civilizations were early adopters of bronze technologies which they used for tools, weapons and monumental statuary. By 1200 BC they could cast objects 5 m long in a single piece.
+Several of the six classic simple machines were invented in Mesopotamia. Mesopotamians have been credited with the invention of the wheel. The wheel and axle mechanism first appeared with the potter's wheel, invented in Mesopotamia (modern Iraq) during the 5th millennium BC. This led to the invention of the wheeled vehicle in Mesopotamia during the early 4th millennium BC. Depictions of wheeled wagons found on clay tablet pictographs at the Eanna district of Uruk are dated between 3700 and 3500 BC. The lever was used in the shadoof water-lifting device, the first crane machine, which appeared in Mesopotamia circa 3000 BC. and then in ancient Egyptian technology circa 2000 BC. The earliest evidence of pulleys date back to Mesopotamia in the early 2nd millennium BC.The screw, the last of the simple machines to be invented, first appeared in Mesopotamia during the Neo-Assyrian period (911-609) BC. The Assyrian King Sennacherib (704–681 BC) claims to have invented automatic sluices and to have been the first to use water screw pumps, of up to 30 tons weight, which were cast using two-part clay molds rather than by the 'lost wax' process. The Jerwan Aqueduct (c. 688 BC) is made with stone arches and lined with waterproof concrete.The Babylonian astronomical diaries spanned 800 years. They enabled meticulous astronomers to plot the motions of the planets and to predict eclipses.
+The earliest evidence of water wheels and watermills date back to the ancient Near East in the 4th century BC, specifically in the Persian Empire before 350 BC, in the regions of Mesopotamia (Iraq) and Persia (Iran). This pioneering use of water power constituted the first human-devised motive force not to rely on muscle power (besides the sail).
+
+
+==== Egypt ====
+The Egyptians, known for building pyramids centuries before the creation of modern tools, invented and used many simple machines, such as the ramp to aid construction processes. Historians and archaeologists have found evidence that the pyramids were built using three of what is called the Six Simple Machines, from which all machines are based. These machines are the inclined plane, the wedge, and the lever, which allowed the ancient Egyptians to move millions of limestone blocks which weighed approximately 3.5 tons (7,000 lbs.) each into place to create structures like the Great Pyramid of Giza, which is 481 feet (147 meters) high.They also made writing medium similar to paper from papyrus, which Joshua Mark states is the foundation for modern paper. Papyrus is a plant (cyperus papyrus) which grew in plentiful amounts in the Egyptian Delta and throughout the Nile River Valley during ancient times. The papyrus was harvested by field workers and brought to processing centers where it was cut into thin strips. The strips were then laid out side by side and covered in plant resin. The second layer of strips was laid on perpendicularly, then both pressed together until the sheet was dry. The sheets were then joined to form a roll and later used for writing.Egyptian society made several significant advances during dynastic periods in many areas of technology. According to Hossam Elanzeery, they were the first civilization to use timekeeping devices such as sundials, shadow clocks, and obelisks and successfully leveraged their knowledge of astronomy to create a calendar model that society still uses today. They developed shipbuilding technology that saw them progress from papyrus reed vessels to cedar wood ships while also pioneering the use of rope trusses and stem-mounted rudders. The Egyptians also used their knowledge of anatomy to lay the foundation for many modern medical techniques and practiced the earliest known version of neuroscience. Elanzeery also states that they used and furthered mathematical science, as evidenced in the building of the pyramids.Ancient Egyptians also invented and pioneered many food technologies that have become the basis of modern food technology processes. Based on paintings and reliefs found in tombs, as well as archaeological artifacts, scholars like Paul T Nicholson believe that the Ancient Egyptians established systematic farming practices, engaged in cereal processing, brewed beer and baked bread, processed meat, practiced viticulture and created the basis for modern wine production, and created condiments to complement, preserve and mask the flavors of their food.
+
+
+==== Indus Valley ====
+The Indus Valley civilization, situated in a resource-rich area (in modern Pakistan and northwestern India), is notable for its early application of city planning, sanitation technologies, and plumbing. Indus Valley construction and architecture, called 'Vaastu Shastra', suggests a thorough understanding of materials engineering, hydrology, and sanitation.
+
+
+==== China ====
+The Chinese made many first-known discoveries and developments. Major technological contributions from China include the earliest know form of the  binary code and epigenetic sequencing early seismological detectors, matches, paper, Helicopter rotor, Raised-relief map, the double-action piston pump, cast iron, water powered blast furnace bellows, the iron plough, the multi-tube seed drill, the wheelbarrow, the parachute, the compass, the rudder, the crossbow, the South Pointing Chariot and gunpowder. China also developed deep well drilling, which they used to extract brine for making salt. Some of these wells, which were as deep as 900 meters, produced natural gas which was used for evaporating brine.Other Chinese discoveries and inventions from the Medieval period include block printing, movable type printing, phosphorescent paint, endless power chain drive and the clock escapement mechanism. The solid-fuel rocket was invented in China about 1150, nearly 200 years after the invention of gunpowder (which acted as the rocket's fuel). Decades before the West's age of exploration, the Chinese emperors of the Ming Dynasty also sent large fleets on maritime voyages, some reaching Africa.
+
+
+==== Hellenistic Mediterranean ====
+The Hellenistic period of Mediterranean history began in the 4th century BC with Alexander's conquests, which led to the emergence of a Hellenistic civilization representing a synthesis of Greek and Near-Eastern cultures in the Eastern Mediterranean region, including the Balkans, Levant and Egypt. With Ptolemaic Egypt as its intellectual center and Greek as the lingua franca, the Hellenistic civilization included Greek, Egyptian, Jewish, Persian and Phoenician scholars and engineers who wrote in Greek.Hellenistic engineers of the Eastern Mediterranean were responsible for a number of inventions and improvements to existing technology. The Hellenistic period saw a sharp increase in technological advancement, fostered by a climate of openness to new ideas, the blossoming of a mechanistic philosophy, and the establishment of the Library of Alexandria in Ptolemaic Egypt and its close association with the adjacent museion. In contrast to the typically anonymous inventors of earlier ages, ingenious minds such as Archimedes, Philo of Byzantium, Heron, Ctesibius, and Archytas remain known by name to posterity.
+Ancient agriculture, as in any period prior to the modern age the primary mode of production and subsistence, and its irrigation methods, were considerably advanced by the invention and widespread application of a number of previously unknown water-lifting devices, such as the vertical water-wheel, the compartmented wheel, the water turbine, Archimedes' screw, the bucket-chain and pot-garland, the force pump, the suction pump, the double-action piston pump and quite possibly the chain pump.In music, the water organ, invented by Ctesibius and subsequently improved, constituted the earliest instance of a keyboard instrument. In time-keeping, the introduction of the inflow clepsydra and its mechanization by the dial and pointer, the application of a feedback system and the escapement mechanism far superseded the earlier outflow clepsydra.
+Innovations in mechanical technology included the newly devised right-angled gear, which would become particularly important to the operation of mechanical devices. Hellenistic engineers also devised automata such as suspended ink pots, automatic washstands, and doors, primarily as toys, which however featured new useful mechanisms such as the cam and gimbals.
+The Antikythera mechanism, a kind of analogous computer working with a differential gear, and the astrolabe both show great refinement in astronomical science.
+In other fields, ancient Greek innovations include the catapult and the gastraphetes crossbow in warfare, hollow bronze-casting in metallurgy, the dioptra for surveying, in infrastructure the lighthouse, central heating, a tunnel excavated from both ends by scientific calculations, and the ship trackway. In transport, great progress resulted from the invention of the winch and the odometer.
+Further newly created techniques and items were spiral staircases, the chain drive, sliding calipers and showers.
+
+
+==== Roman Empire ====
+The Roman Empire expanded from Italia across the entire Mediterranean region between the 1st century BC and 1st century AD. Its most advanced and economically productive provinces outside of Italia were the Eastern Roman provinces in the Balkans, Asia Minor, Egypt, and the Levant, with Roman Egypt in particular being the wealthiest Roman province outside of Italia.The Roman Empire developed an intensive and sophisticated agriculture, expanded upon existing iron working technology, created laws providing for individual ownership, advanced stone masonry technology, advanced road-building (exceeded only in the 19th century), military engineering, civil engineering, spinning and weaving and several different machines like the Gallic reaper that helped to increase productivity in many sectors of the Roman economy. Roman engineers were the first to build monumental arches, amphitheatres, aqueducts, public baths, true arch bridges, harbours, reservoirs and dams, vaults and domes on a very large scale across their Empire. Notable Roman inventions include the book (Codex), glass blowing and concrete. Because Rome was located on a volcanic peninsula, with sand which contained suitable crystalline grains, the concrete which the Romans formulated was especially durable. Some of their buildings have lasted 2000 years, to the present day.
+In Roman Egypt, the inventor Hero of Alexandria was the first to experiment with a wind-powered mechanical device (see Heron's windwheel) and even created the earliest steam-powered device (the aeolipile), opening up new possibilities in harnessing natural forces. He also devised a vending machine. However, his inventions were primarily toys, rather than practical machines.
+
+
+==== Inca, Maya, and Aztec ====
+The engineering skills of the Inca and Maya were great, even by today's standards. An example of this exceptional engineering is the use of pieces weighing upwards of one ton in their stonework placed together so that not even a blade can fit into the cracks. Inca villages used irrigation canals and drainage systems, making agriculture very efficient. While some claim that the Incas were the first inventors of hydroponics, their agricultural technology was still soil based, if advanced.
+Though the Maya civilization did not incorporate metallurgy or wheel technology in their architectural constructions, they developed complex writing and astronomical systems, and created beautiful sculptural works in stone and flint. Like the Inca, the Maya also had command of fairly advanced agricultural and construction technology. The Maya are also responsible for creating the first pressurized water system in Mesoamerica, located in the Maya site of Palenque.The main contribution of the Aztec rule was a system of communications between the conquered cities and the ubiquity of the ingenious agricultural technology of chinampas. In Mesoamerica, without draft animals for transport (nor, as a result, wheeled vehicles), the roads were designed for travel on foot, just as in the Inca and Mayan civilizations. The Aztec, subsequently to the Maya, inherited many of the technologies and intellectual advancements of their predecessors: the Olmec (see Native American inventions and innovations).
+
+
+=== Medieval to early modern ===
+One of the most significant developments of the Medieval were economies in which water and wind power were more significant than animal and human muscle power.: 38  Most water and wind power was used for milling grain. Water power was also used for blowing air in blast furnace, pulping rags for paper making and for felting wool. The Domesday Book recorded 5,624 water mills in Great Britain in 1086, being about one per thirty families.
+
+
+==== East Asia ====
+
+
+==== Indian subcontinent ====
+
+
+==== Islamic world ====
+
+The Muslim caliphates united in trade large areas that had previously traded little, including the Middle East, North Africa, Central Asia, the Iberian Peninsula, and parts of the Indian subcontinent. The science and technology of previous empires in the region, including the Mesopotamian, Egyptian, Persian, Hellenistic and Roman empires, were inherited by the Muslim world, where Arabic replaced Syriac, Persian and Greek as the lingua franca of the region. Significant advances were made in the region during the Islamic Golden Age (8th–16th centuries).
+The Arab Agricultural Revolution occurred during this period. It was a transformation in agriculture from the 8th to the 13th century in the Islamic region of the Old World. The economy established by Arab and other Muslim traders across the Old World enabled the diffusion of many crops and farming techniques throughout the Islamic world, as well as the adaptation of crops and techniques from and to regions outside it. Advances were made in animal husbandry, irrigation, and farming, with the help of new technology such as the windmill. These changes made agriculture much more productive, supporting population growth, urbanisation, and increased stratification of society.
+Muslim engineers in the Islamic world made wide use of hydropower, along with early uses of tidal power, wind power, fossil fuels such as petroleum, and large factory complexes (tiraz in Arabic). A variety of industrial mills were employed in the Islamic world, including fulling mills, gristmills, hullers, sawmills, ship mills, stamp mills, steel mills, and tide mills. By the 11th century, every province throughout the Islamic world had these industrial mills in operation. Muslim engineers also employed water turbines and gears in mills and water-raising machines, and pioneered the use of dams as a source of water power, used to provide additional power to watermills and water-raising machines. Many of these technologies were transferred to medieval Europe.Wind-powered machines used to grind grain and pump water, the windmill and wind pump, first appeared in what are now Iran, Afghanistan and Pakistan by the 9th century. They were used to grind grains and draw up water, and used in the gristmilling and sugarcane industries. Sugar mills first appeared in the medieval Islamic world. They were first driven by watermills, and then windmills from the 9th and 10th centuries in what are today Afghanistan, Pakistan and Iran. Crops such as almonds and citrus fruit were brought to Europe through Al-Andalus, and sugar cultivation was gradually adopted across Europe. Arab merchants dominated trade in the Indian Ocean until the arrival of the Portuguese in the 16th century.
+The Muslim world adopted papermaking from China. The earliest paper mills appeared in Abbasid-era Baghdad during 794–795. The knowledge of gunpowder was also transmitted from China via predominantly Islamic countries, where formulas for pure potassium nitrate were developed.The spinning wheel was invented in the Islamic world by the early 11th century. It was later widely adopted in Europe, where it was adapted into the spinning jenny, a key device during the Industrial Revolution. The crankshaft was invented by Al-Jazari in 1206, and is central to modern machinery such as the steam engine, internal combustion engine and automatic controls. The camshaft was also first described by Al-Jazari in 1206.Early programmable machines were also invented in the Muslim world. The first music sequencer, a programmable musical instrument, was an automated flute player invented by the Banu Musa brothers, described in their Book of Ingenious Devices, in the 9th century. In 1206, Al-Jazari invented programmable automata/robots. He described four automaton musicians, including two drummers operated by a programmable drum machine, where the drummer could be made to play different rhythms and different drum patterns. The castle clock, a hydropowered mechanical astronomical clock invented by Al-Jazari, was an early programmable analog computer.In the Ottoman Empire, a practical impulse steam turbine was invented in 1551 by Taqi ad-Din Muhammad ibn Ma'ruf in Ottoman Egypt. He described a method for rotating a spit by means of a jet of steam playing on rotary vanes around the periphery of a wheel. Known as a steam jack, a similar device for rotating a spit was also later described by John Wilkins in 1648.
+
+
+==== Medieval Europe ====
+
+While medieval technology has been long depicted as a step backwards in the evolution of Western technology, a generation of medievalists (like the American historian of science Lynn White) stressed from the 1940s onwards the innovative character of many medieval techniques. Genuine medieval contributions include for example mechanical clocks, spectacles and vertical windmills. Medieval ingenuity was also displayed in the invention of seemingly inconspicuous items like the watermark or the functional button. In navigation, the foundation to the subsequent age of exploration was laid by the introduction of pintle-and-gudgeon rudders, lateen sails, the dry compass, the horseshoe and the astrolabe.
+Significant advances were also made in military technology with the development of plate armour, steel crossbows and cannon. The Middle Ages are perhaps best known for their architectural heritage: While the invention of the rib vault and pointed arch gave rise to the high rising Gothic style, the ubiquitous medieval fortifications gave the era the almost proverbial title of the 'age of castles'.
+Papermaking, a 2nd-century Chinese technology, was carried to the Middle East when a group of Chinese papermakers were captured in the 8th century. Papermaking technology was spread to Europe by the Umayyad conquest of Hispania. A paper mill was established in Sicily in the 12th century. In Europe the fiber to make pulp for making paper was obtained from linen and cotton rags. Lynn Townsend White Jr. credited the spinning wheel with increasing the supply of rags, which led to cheap paper, which was a factor in the development of printing.
+
+
+==== Renaissance technology ====
+
+Before the development of modern engineering, mathematics was used by artisans and craftsmen, such as millwrights, clock makers, instrument makers and surveyors. Aside from these professions, universities were not believed to have had much practical significance to technology.: 32 A standard reference for the state of mechanical arts during the Renaissance is given in the mining engineering treatise De re metallica (1556), which also contains sections on geology, mining and chemistry. De re metallica was the standard chemistry reference for the next 180 years. Among the water powered mechanical devices in use were ore stamping mills, forge hammers, blast bellows, and suction pumps.
+
+Due to the casting of cannon, the blast furnace came into widespread use in France in the mid 15th century. The blast furnace had been used in China since the 4th century BC.The invention of the movable cast metal type printing press, whose pressing mechanism was adapted from an olive screw press, (c. 1441) lead to a tremendous increase in the number of books and the number of titles published. Movable ceramic type had been used in China for a few centuries and woodblock printing dated back even further.The era is marked by such profound technical advancements like linear perceptivity, double shell domes or Bastion fortresses. Note books of the Renaissance artist-engineers such as Taccola and Leonardo da Vinci give a deep insight into the mechanical technology then known and applied. Architects and engineers were inspired by the structures of Ancient Rome, and men like Brunelleschi created the large dome of Florence Cathedral as a result. He was awarded one of the first patents ever issued in order to protect an ingenious crane he designed to raise the large masonry stones to the top of the structure. Military technology developed rapidly with the widespread use of the cross-bow and ever more powerful artillery, as the city-states of Italy were usually in conflict with one another. Powerful families like the Medici were strong patrons of the arts and sciences. Renaissance science spawned the Scientific Revolution; science and technology began a cycle of mutual advancement.
+
+
+==== Age of Exploration ====
+
+An improved sailing ship, the nau or carrack, enabled the Age of Exploration with the European colonization of the Americas, epitomized by Francis Bacon's New Atlantis. Pioneers like Vasco da Gama, Cabral, Magellan and Christopher Columbus explored the world in search of new trade routes for their goods and contacts with Africa, India and China to shorten the journey compared with traditional routes overland. They produced new maps and charts which enabled following mariners to explore further with greater confidence. Navigation was generally difficult, however, owing to the problem of longitude and the absence of accurate chronometers. European powers rediscovered the idea of the civil code, lost since the time of the Ancient Greeks.
+
+
+==== Pre-Industrial Revolution ====
+The stocking frame, which was invented in 1598, increased a knitter's number of knots per minute from 100 to 1000.Mines were becoming increasingly deep and were expensive to drain with horse powered bucket and chain pumps and wooden piston pumps. Some mines used as many as 500 horses. Horse-powered pumps were replaced by the Savery steam pump (1698) and the Newcomen steam engine (1712).
+
+
+=== Industrial Revolution (1760–1830s) ===
+
+The revolution was driven by cheap energy in the form of coal, produced in ever-increasing amounts from the abundant resources of Britain. The British Industrial Revolution is characterized by developments in the areas of textile machinery, mining, metallurgy, transport and the invention of machine tools.
+
+Before invention of machinery to spin yarn and weave cloth, spinning was done using the spinning wheel and weaving was done on a hand-and-foot-operated loom. It took from three to five spinners to supply one weaver. The invention of the flying shuttle in 1733 doubled the output of a weaver, creating a shortage of spinners. The spinning frame for wool was invented in 1738. The spinning jenny, invented in 1764, was a machine that used multiple spinning wheels; however, it produced low quality thread. The water frame patented by Richard Arkwright in 1767, produced a better quality thread than the spinning jenny. The spinning mule, patented in 1779 by Samuel Crompton, produced a high quality thread. The power loom was invented by Edmund Cartwright in 1787.
+In the mid-1750s, the steam engine was applied to the water power-constrained iron, copper and lead industries for powering blast bellows. These industries were located near the mines, some of which were using steam engines for mine pumping. Steam engines were too powerful for leather bellows, so cast iron blowing cylinders were developed in 1768. Steam powered blast furnaces achieved higher temperatures, allowing the use of more lime in iron blast furnace feed. (Lime rich slag was not free-flowing at the previously used temperatures.) With a sufficient lime ratio, sulfur from coal or coke fuel reacts with the slag so that the sulfur does not contaminate the iron. Coal and coke were cheaper and more abundant fuel. As a result, iron production rose significantly during the last decades of the 18th century. Coal converted to coke fueled higher temperature blast furnaces and produced cast iron in much larger amounts than before, allowing the creation of a range of structures such as The Iron Bridge. Cheap coal meant that industry was no longer constrained by water resources driving the mills, although it continued as a valuable source of power.
+
+The steam engine helped drain the mines, so more coal reserves could be accessed, and the output of coal increased. The development of the high-pressure steam engine made locomotives possible, and a transport revolution followed. The steam engine which had existed since the early 18th century, was practically applied to both steamboat and railway transportation. The Liverpool and Manchester Railway, the first purpose-built railway line, opened in 1830, the Rocket locomotive of Robert Stephenson being one of its first working locomotives used.
+Manufacture of ships' pulley blocks by all-metal machines at the Portsmouth Block Mills in 1803 instigated the age of sustained mass production. Machine tools used by engineers to manufacture parts began in the first decade of the century, notably by Richard Roberts and Joseph Whitworth. The development of interchangeable parts through what is now called the American system of manufacturing began in the firearms industry at the U.S. Federal arsenals in the early 19th century, and became widely used by the end of the century.
+
+
+=== Second Industrial Revolution (1860s–1914) ===
+
+The 19th century saw astonishing developments in transportation, construction, manufacturing and communication technologies originating in Europe. After a recession at the end of the 1830s and a general slowdown in major inventions, the Second Industrial Revolution was a period of rapid innovation and industrialization that began in the 1860s or around 1870 and lasted until World War I. It included rapid development of chemical, electrical, petroleum, and steel technologies connected with highly structured technology research.
+Telegraphy developed into a practical technology in the 19th century to help run the railways safely. Along with the development of telegraphy was the patenting of the first telephone. March 1876 marks the date that Alexander Graham Bell officially patented his version of an "electric telegraph". Although Bell is noted with the creation of the telephone, it is still debated about who actually developed the first working model.Building on improvements in vacuum pumps and materials research, incandescent light bulbs became practical for general use in the late 1870s. Edison Electric Illuminating Company, a company founded by Thomas Edison with financial backing from Spencer Trask, built and managed the first electricity network. Electrification was rated the most important technical development of the 20th century as the foundational infrastructure for modern civilization. This invention had a profound effect on the workplace because factories could now have second and third shift workers.Shoe production was mechanized during the mid 19th century. Mass production of sewing machines and agricultural machinery such as reapers occurred in the mid to late 19th century. Bicycles were mass-produced beginning in the 1880s.Steam-powered factories became widespread, although the conversion from water power to steam occurred in England earlier than in the U.S. Ironclad warships were found in battle starting in the 1860s, and played a role in the opening of Japan and China to trade with the West.
+
+
+=== 20th century ===
+Mass production brought automobiles and other high-tech goods to masses of consumers. Military research and development sped advances including electronic computing and jet engines. Radio and telephony greatly improved and spread to larger populations of users, though near-universal access would not be possible until mobile phones became affordable to developing world residents in the late 2000s and early 2010s.
+Energy and engine technology improvements included nuclear power, developed after the Manhattan project which heralded the new Atomic Age. Rocket development led to long range missiles and the first space age that lasted from the 1950s with the launch of Sputnik to the mid-1980s.
+Electrification spread rapidly in the 20th century. At the beginning of the century electric power was for the most part only available to wealthy people in a few major cities. By 2019, an estimated 87 percent of the world's population had access to electricity.Birth control also became widespread during the 20th century. Electron microscopes were very powerful by the late 1970s and genetic theory and knowledge were expanding, leading to developments in genetic engineering.
+The first "test tube baby" Louise Brown was born in 1978, which led to the first successful gestational surrogacy pregnancy in 1985 and the first pregnancy by ICSI in 1991, which is the implanting of a single sperm into an egg. Preimplantation genetic diagnosis was first performed in late 1989 and led to successful births in July 1990. These procedures have become relatively common.
+Computers were connected by means of local area, telecom and fiber optic networks, powered by the optical amplifier that ushered in the Information Age. This optical networking technology exploded the capacity of the Internet beginning in 1996 with the launch of the first high-capacity wave division multiplexing (WDM) system by Ciena Corp. WDM, as the common basis for telecom backbone networks, increased transmission capacity by orders of magnitude, thus enabling the mass commercialization and popularization of the Internet and its widespread impact on culture, economics, business, and society.
+The commercial availability of the first portable cell phone in 1981 and the first pocket-sized phone in 1985, both developed by Comvik in Sweden, coupled with the first transmission of data over a cellular network by Vodafone (formerly Racal-Millicom) in 1992 were the breakthroughs that led directly to the form and function of smartphones today. By 2014, there were more cell phones in use than people on Earth and The Supreme Court  of the United States of America has ruled that a mobile phone was a private part of a person. Providing consumers wireless access to each other and to the Internet, the mobile phone stimulated one of the most important technology revolutions in human history.The Human Genome Project sequenced and identified all three billion chemical units in human DNA with a goal of finding the genetic roots of disease and developing treatments. The project became feasible due to two technical advances made during the late 1970s: gene mapping by restriction fragment length polymorphism (RFLP) markers and DNA sequencing. Sequencing was invented by Frederick Sanger and, separately, by Dr. Walter Gilbert. Gilbert also conceived of the Human Genome Project on May 27, 1985, and first publicly advocated it in August 1985 at the first International Conference on Genes and Computers in August 1985. The U.S. Federal Government sponsored Human Genome Project began October 1, 1990, and was declared complete in 2003.The massive data analysis resources necessary for running transatlantic research programs such as the Human Genome Project and the Large Electron–Positron Collider led to a necessity for distributed communications, causing Internet protocols to be more widely adopted by researchers and also creating a justification for Tim Berners-Lee to create the World Wide Web.
+Vaccination spread rapidly to the developing world from the 1980s onward due to many successful humanitarian initiatives, greatly reducing childhood mortality in many poor countries with limited medical resources.
+The US National Academy of Engineering, by expert vote, established the following ranking of the most important technological developments of the 20th century:
+
+
+=== 21st century ===
+
+In the early 21st century, research is ongoing into quantum computers, gene therapy (introduced 1990), 3D printing (introduced 1981), nanotechnology (introduced 1985), bioengineering/biotechnology, nuclear technology, advanced materials (e.g., graphene), the scramjet and drones (along with railguns and high-energy laser beams for military uses), superconductivity, the memristor, and green technologies such as alternative fuels (e.g., fuel cells, self-driving electric and plug-in hybrid cars), augmented reality devices and wearable electronics, artificial intelligence, and more efficient and powerful LEDs, solar cells, integrated circuits, wireless power devices, engines, and batteries.
+Large Hadron Collider, the largest single machine ever built, was constructed between 1998 and 2008. The understanding of particle physics is expected to expand with better instruments including larger particle accelerators such as the LHC and better neutrino detectors. Dark matter is sought via underground detectors and observatories like LIGO have started to detect gravitational waves.
+Genetic engineering technology continues to improve, and the importance of epigenetics on development and inheritance has also become increasingly recognized.New spaceflight technology and spacecraft are also being developed, like the Boeing's Orion and SpaceX's Dragon 2. New, more capable space telescopes, such as the James Webb Space Telescope which was launched to orbit in December, 2021, and the Colossus Telescope, have been designed. The International Space Station was completed in the 2000s, and NASA and ESA plan a human mission to Mars in the 2030s. The Variable Specific Impulse Magnetoplasma Rocket (VASIMR) is an electro-magnetic thruster for spacecraft propulsion and is expected to be tested in 2015.Breakthrough Initiatives, together with famed physicist Stephen Hawking, plan to send the first ever spacecraft to visit another star, which will consist of numerous super-light chips driven by Electric propulsion in the 2030s, and receive images of the Proxima Centauri system, along with, possibly, the potentially habitable planet Proxima Centauri b, by midcentury.2004 saw the first crewed commercial spaceflight when Mike Melvill crossed the boundary of space on June 21, 2004.
+
+
+== By type ==
+
+
+=== Biotechnology ===
+
+Timeline of agriculture and food technology
+Timeline of biotechnology
+
+
+=== Civil engineering ===
+
+Civil engineering
+Architecture and building construction
+Bridges, harbors, tunnels, dams
+Surveying, instruments and maps, cartography, urban engineering, water supply and sewerage
+
+
+=== Communication ===
+
+
+=== Computing ===
+
+
+=== Consumer technology ===
+
+
+=== Electrical engineering ===
+
+Timeline of electrical and electronic engineering
+
+
+=== Energy ===
+
+
+=== Materials science ===
+
+Timeline of materials technology
+Metallurgy
+
+
+=== Measurement ===
+
+History of time in the United States
+History of timekeeping devices
+
+
+=== Medicine ===
+
+
+=== Military ===
+
+Military history#Technological evolution
+Category:Military history – articles on history of specific technologies
+
+
+=== Nuclear ===
+
+Manhattan Project
+Atomic Age
+Nuclear testing
+Nuclear arms race
+
+
+=== Science and technology ===
+
+
+=== Transport ===
+
+
+== See also ==
+Related history
+Related disciplines
+Related subjects
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+Electropaedia on the History of Technology
+MIT 6.933J – The Structure of Engineering Revolutions. From MIT OpenCourseWare, course materials (graduate level) for a course on the history of technology through a Thomas Kuhn-ian lens.
+Concept of Civilization Events. From Jaroslaw Kessler, a chronology of "civilizing events".
+Ancient and Medieval City Technology
+Society for the History of Technology
+Giants of Science (website of the Institute of National Remembrance)

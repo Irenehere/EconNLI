@@ -1,0 +1,91 @@
+The return on equity (ROE) is a measure of the profitability of a business in relation to the equity.  ROE measures how many dollars of profit are generated for each dollar of shareholder's equity, and is thus a metric of how well the company utilizes its equity to generate profits.
+Because shareholder's equity can be calculated by taking all assets and subtracting all liabilities, ROE can also be thought of as a return on assets minus liabilities. 
+
+
+== The formula ==
+ROE = Net Income/Average Shareholders' Equity ROE is equal to a fiscal year net income (after preferred stock dividends, before common stock dividends), divided by total equity (excluding preferred shares), expressed as a percentage.
+
+
+== Usage ==
+ROE is especially used for comparing the performance of companies in the same industry. As with return on capital, a ROE is a measure of management's ability to generate income from the equity available to it. ROEs of 15–20% are generally considered good.   ROE is also a factor in stock valuation, in association with other financial ratios. While higher ROE ought intuitively to imply higher stock prices, in reality, predicting the stock value of a company based on its ROE is dependent on too many other factors to be of use by itself.
+
+
+== Sustainable growth ==
+The sustainable growth model shows that when firms pay dividends, earnings growth lowers. If the dividend payout is 20%, the growth expected will be only 80% of the ROE rate.
+The growth rate will be lower if earnings are used to buy back shares. If the shares are bought at a multiple of book value (a factor of x times book value), the incremental earnings returns will be reduced by that same factor (ROE/x).
+ROE is calculated from the company perspective, on the company as a whole. Since much financial manipulation is accomplished with new share issues and buyback, the investor may have a different recalculated value 'per share' (earnings per share/book value per share).
+
+
+== The DuPont formula ==
+
+The DuPont formula, also known as the strategic profit model, is a common way to decompose ROE into three important components. 
+Essentially, ROE will equal the net profit margin multiplied by asset turnover multiplied by accounting leverage which is total assets divided by the total assets minus total liabilities.  
+
+  
+    
+      
+        
+          R
+          O
+          E
+        
+        =
+        
+          
+            
+              Net income
+            
+            
+              Sales
+            
+          
+        
+        ×
+        
+          
+            
+              Sales
+            
+            
+              Total Assets
+            
+          
+        
+        ×
+        
+          
+            
+              Total Assets
+            
+            
+              Shareholder Equity
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {ROE} ={\frac {\mbox{Net income}}{\mbox{Sales}}}\times {\frac {\mbox{Sales}}{\mbox{Total Assets}}}\times {\frac {\mbox{Total Assets}}{\mbox{Shareholder Equity}}}}
+  Splitting return on equity into three parts makes it easier to understand changes in ROE over time.  For example, if the net margin increases, every sale brings in more money, resulting in a higher overall ROE.  Similarly, if the asset turnover increases, the firm generates more sales for every unit of assets owned, again resulting in a higher overall ROE.  Finally, increasing accounting leverage means that the firm uses more debt financing relative to equity financing.  Interest payments to creditors are tax-deductible, but dividend payments to shareholders are not.  Thus, a higher proportion of debt in the firm's capital structure leads to higher ROE.  Financial leverage benefits diminish as the risk of defaulting on interest payments increases.  If the firm takes on too much debt, the cost of debt rises as creditors demand a higher risk premium, and ROE decreases. Increased debt will make a positive contribution to a firm's ROE only if the matching return on assets (ROA) of that debt exceeds the interest rate on the debt.Identifying the sources of ROE in this fashion leads to a better knowledge of the company and how it should be valued.  Here, analysts will compare the current sources of ROE against the company's history and its competitors, and thereby better understand the drivers of value.
+In particular, as mentioned, ROE is used developing estimates of a stock’s growth rate, and hence the growth rate of its dividends. These then feed, respectively, into the terminal value calculation, and / or the dividend discount model valuation result.
+Relatedly, this analysis allows management to preempt any underperformance vs  shareholders' required return,  which could then lead to a decline in share price, as, "in order to satisfy investors, a company should be able to generate a higher ROE than the return available from a lower risk investment". 
+
+
+== See also ==
+DuPont analysis
+List of business and finance abbreviations
+Return on assets (RoA)
+Return on brand (ROB)
+Return on capital employed (ROCE)
+Return on capital (RoC)
+Return on net assets (RoNA)
+Leverage effect
+
+
+== Notes ==
+
+
+== External links ==
+Annual Ratio Definitions
+Return On Equity Screener- figures from financial statements
+Online Return On Equity Calculator
+Return On Equity Explained

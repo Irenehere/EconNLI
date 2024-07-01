@@ -1,0 +1,123 @@
+In corporate finance, capital structure refers to the mix of various forms of external funds, known as capital, used to finance a business. It consists of shareholders' equity, debt (borrowed funds), and preferred stock, and is detailed in the company's balance sheet. The larger the debt component is in relation to the other sources of capital, the greater financial leverage (or gearing, in the United Kingdom) the firm is said to have. Too much debt can increase the risk of the company and reduce its financial flexibility, which at some point creates concern among investors and results in a greater cost of capital.  Company management is responsible for establishing a capital structure for the corporation that makes optimal use of financial leverage and holds the cost of capital as low as possible.Capital structure is an important issue in setting rates charged to customers by regulated utilities in the United States. The utility company has the right to choose any capital structure it deems appropriate, but regulators determine an appropriate capital structure and cost of capital for ratemaking purposes.Various leverage or gearing ratios are closely watched by financial analysts to assess the amount of debt in a company's capital structure.The Miller and Modigliani theorem argues that the market value of a firm is unaffected by a change in its capital structure. This school of thought is generally viewed as a purely theoretical result, since it assumes a perfect market and disregards factors such as fluctuations and uncertain situations that may arise in financing a firm. In academia, much attention has been given to debating and relaxing the assumptions made by Miller and Modigliani to explain why a firm's capital structure is relevant to its value in the real world.
+
+
+== Basic concepts ==
+
+
+=== Leverage ===
+Up to a certain point, the use of debt (such as bonds or bank loans) in a company's capital structure is beneficial. When debt is a portion of a firm's capital structure, it permits the company to achieve greater earnings per share than would be possible by issuing equity. This is because the interest paid by the firm on the debt is tax-deductible. The reduction in taxes permits more of the company's operating income to flow through to investors. The related increase in earnings per share is called financial leverage or gearing in the United Kingdom and Australia. Financial leverage can be beneficial when the business is expanding and profitable, but it is detrimental when the business enters a contraction phase. The interest on the debt must be paid regardless of the level of the company's operating income, or bankruptcy may be the result. If the firm does not prosper and profits do not meet management's expectations, too much debt (i.e., too much leverage) increases the risk that the firm may not be able to pay its creditors. At some point this makes investors apprehensive and increases the firm's cost of borrowing or issuing new equity.
+
+
+=== Optimal capital structure ===
+It is important that a company's management recognizes the risk inherent in taking on debt, and maintains an optimal capital structure with an appropriate balance between debt and equity. An optimal capital structure is one that is consistent with minimizing the cost of debt and equity financing and maximizing the value of the firm. Internal policy decisions with respect to capital structure and debt ratios must be tempered by a recognition of how outsiders view the strength of the firm's financial position. Key considerations include maintaining the firm's credit rating at a level where it can attract new external funds on reasonable terms, and maintaining a stable dividend policy and good earnings record.
+
+
+=== Term structure of debt in capital structure ===
+Once management has decided how much debt should be used in the capital structure, decisions must be made as to the appropriate mix of short-term debt and long-term debt. Increasing the percentage of short-term debt can enhance a firm's financial flexibility, since the borrower's commitment to pay interest is for a shorter period of time. But short-term debt also exposes the firm to greater refinancing risk. Therefore, as the percentage of short-term debt in a firm's capital structure increases, equity holders will expect greater returns on equity to compensate for the increased risk, according to a 2022 article in The Journal of Finance.
+
+
+=== Seniority ===
+In the event of bankruptcy, the seniority of the capital structure comes into play. A typical company has the following seniority structure listed from most senior to least:
+
+senior debt, including mortgage bonds secured by specifically pledged property,
+subordinated (or junior) debt, including debenture bonds which are dependent upon the general credit and financial strength of the company for their security,
+preferred stock, whose holders are entitled to have their claims met before those of common stockholders, and
+equity, which includes common stock and retained earnings.In practice, the capital structure may be complex and include other sources of capital.
+
+
+== Leverage or capital gearing ratios ==
+Financial analysts use some form of leverage ratio to quantify the proportion of debt and equity in a company's capital structure, and to make comparisons between companies. Using figures from the balance sheet, the debt-to-capital ratio can be calculated as shown below.
+The debt-to-equity ratio and capital gearing ratio are widely used for the same purpose.
+
+Capital bearing risk includes debentures (risk is to pay interest) and preference capital (risk to pay dividend at fixed rate).
+Capital not bearing risk includes equity.Therefore, one can also say,
+Capital gearing ratio = (Debentures + Preference share capital) : (shareholders' funds)
+
+
+== In public utility regulation ==
+Capital structure is an important issue in setting rates charged to customers by regulated utilities in the United States. Ratemaking practice in the U.S. holds that rates paid by a utility's customers should be set at a level which assures that the company can provide reliable service at reasonable cost. The cost of capital is among the costs a utility must be allowed to recover from customers, and depends on the company's capital structure. The utility company may choose whatever capital structure it deems appropriate, but regulators determine an appropriate capital structure and cost of capital for ratemaking purposes.
+
+
+== Modigliani–Miller theorem ==
+
+The Modigliani–Miller theorem, proposed by Franco Modigliani and Merton Miller in 1958, forms the basis for modern academic thinking on capital structure. It is generally viewed as a purely theoretical result since it disregards many important factors in the capital structure process factors like fluctuations and uncertain situations that may occur in the course of financing a firm. The theorem states that, in a perfect market, how a firm is financed is irrelevant to its value. This result provides the base with which to examine real world reasons why capital structure is relevant, that is, a company's value is affected by the capital structure it employs. Some other reasons include bankruptcy costs, agency costs, taxes, and information asymmetry. This analysis can then be extended to look at whether there is in fact an optimal capital structure: the one which maximizes the value of the firm.
+Consider a perfect capital market (no transaction or bankruptcy costs; perfect information); firms and individuals can borrow at the same interest rate; no taxes; and investment returns are not affected by financial uncertainty. Assuming perfections in the capital is a mirage and unattainable as suggested by Modigliani and Miller.
+Modigliani and Miller made two findings under these conditions. Their first 'proposition' was that the value of a company is independent of its capital structure. Their second 'proposition' stated that the cost of equity for a leveraged firm is equal to the cost of equity for an unleveraged firm, plus an added premium for financial risk. That is, as leverage increases, risk is shifted between different investor classes, while the total firm risk is constant, and hence no extra value created.
+Their analysis was extended to include the effect of taxes and risky debt. Under a classical tax system, the tax-deductibility of interest makes debt financing valuable; that is, the cost of capital decreases as the proportion of debt in the capital structure increases. The optimal structure would be to have virtually no equity at all, i.e. a capital structure consisting of 99.99% debt.
+
+
+== Variations on the Miller-Modigliani theorem ==
+If capital structure is irrelevant in a perfect market, then imperfections which exist in the real world must be the cause of its relevance. The theories below try to address some of these imperfections, by relaxing assumptions made in the Modigliani–Miller theorem.
+
+
+=== Trade-off theory ===
+Trade-off theory of capital structure allows bankruptcy cost to exist as an offset to the benefit of using debt as tax shield. It states that there is an advantage to financing with debt, namely, the tax benefits of debt and that there is a cost of financing with debt the bankruptcy costs and the financial distress costs of debt. This theory also refers to the idea that a company chooses how much equity finance and how much debt finance to use by considering both costs and benefits. The marginal benefit of further increases in debt declines as debt increases, while the marginal cost increases, so that a firm optimizing its overall value will focus on this trade-off when choosing how much debt and equity to use for financing. Empirically, this theory may explain differences in debt-to-equity ratios between industries, but it doesn't explain differences within the same industry.
+
+
+=== Pecking order theory ===
+Pecking order theory tries to capture the costs of asymmetric information. It states that companies prioritize their sources of financing (from internal financing to equity) according to the law of least effort, or of least resistance, preferring to raise equity as a financing means "of last resort". Hence, internal financing is used first; when that is depleted, debt is issued; and when it is no longer sensible to issue any more debt, equity is issued. This theory maintains that businesses adhere to a hierarchy of financing sources and prefer internal financing when available, and debt is preferred over equity if external financing is required (equity would mean issuing shares which meant 'bringing external ownership' into the company). Thus, the form of debt a firm chooses can act as a signal of its need for external finance.The pecking order theory has been popularized by Myers (1984) when he argued that equity is a less preferred means to raise capital, because when managers (who are assumed to know better about true condition of the firm than investors) issue new equity, investors believe that managers think the firm is overvalued, and managers are taking advantage of the assumed over-valuation. As a result, investors may place a lower value to the new equity issuance.
+
+
+=== Capital structure substitution theory ===
+The capital structure substitution theory is based on the hypothesis that company management may manipulate capital structure such that earnings per share (EPS) are maximized. The model is not normative i.e. and does not state that management should maximize EPS, it simply hypothesizes they do.
+The 1982 SEC rule 10b-18 allowed public companies open-market repurchases of their own stock and made it easier to manipulate capital structure. This hypothesis leads to a larger number of testable predictions. First, it has been deducted that market average earnings yield will be in equilibrium with the market average interest rate on corporate bonds after corporate taxes, which is a reformulation of the 'Fed model'. The second prediction has been that companies with a high valuation ratio, or low earnings yield, will have little or no debt, whereas companies with low valuation ratios will be more leveraged. When companies have a dynamic debt-equity target, this explains why some companies use dividends and others do not. A fourth prediction has been that there is a negative relationship in the market between companies' relative price volatilities and their leverage. This contradicts Hamada who used the work of Modigliani and Miller to derive a positive relationship between these two variables.
+
+
+=== Agency costs ===
+Three types of agency costs can help explain the relevance of capital structure.
+
+Asset substitution effect: As debt-to-equity ratio increases, management has an incentive to undertake risky, even negative net present value (NPV) projects. This is because if the project is successful, share holders earn the benefit, whereas if it is unsuccessful, debtors experience the downside.
+Underinvestment problem or debt overhang problem: If debt is risky e.g., in a growth company, the gain from the project will accrue to debt holders rather than shareholders. Thus, management have an incentive to reject positive NPV projects, even though they have the potential to increase firm value.
+Free cash flow: unless free cash flow is given back to investors, management has an incentive to destroy firm value through empire building and perks etc. Increasing leverage imposes financial discipline on management.
+
+
+=== Structural corporate finance ===
+An active area of research in finance is that which tries to translate the models above as well as others into a structured theoretical setup that is time-consistent and that has a dynamic set up similar to one that can be observed in the real world. Managerial contracts, debt contracts, equity contracts, investment returns, all have long lived, multi-period implications. Therefore, it is hard to think through what the implications of the basic models above are for the real world if they are not embedded in a dynamic structure that approximates reality. 
+A similar type of research is performed under the guise of credit risk research in which the modeling of the likelihood of default and its pricing is undertaken under different assumptions about investors and about the incentives of management, shareholders and debt holders. Examples of research in this area are Goldstein, Ju, Leland (1998) and Hennessy and Whited (2004).
+
+
+=== Capital structure and macroeconomic conditions ===
+In addition to firm-specific characteristics, researchers find macroeconomic conditions have a material impact on capital structure choice. Korajczyk, Lucas, and McDonald (1990) provide evidence of equity issues cluster following a run-up in the equity market. Korajczyk and Levy (2003) find that target leverage is counter-cyclical for unconstrained firms, but pro-cyclical for firms that are constrained; macroeconomic conditions are significant for issue choice for firms that can time their issue choice to coincide with periods of favorable macroeconomic conditions, while constrained firms cannot. Levy and Hennessy (2007) highlight that trade-offs between agency problems and risk sharing vary over the business cycle and can result in the observed patterns. Others have related these patterns with asset pricing puzzles.
+
+
+=== Capital structure persistence ===
+Corporate leverage ratios are initially determined. Low relative to high leverage ratios are largely persistent despite time variation. Variation in capital structures is primarily determined by factors that remain stable for long periods of time. These stable factors are unobservable.
+
+
+=== Growth type compatibility ===
+Firms rationally invest and seek financing in a manner compatible with their growth types. As economic and market conditions improve, low growth type firms are keener to issue new debt than equity, whereas high growth type firms are least likely to issue debt and keenest to issue equity. Distinct growth types are persistent. Consistent with a generalized Myers–Majluf framework, growth type compatibility enables distinct growth types and hence specifications of market imperfection or informational environments to persist, generating capital structure persistence.
+
+
+=== Other ===
+Capital supply — capital structure also depends on the relative supply of equity vs. debt capital available to the firm. 
+The neutral mutation hypothesis — firms fall into various financing habits that do not impact value.
+Market timing hypothesis—capital structure is the outcome of the cumulative historical timing of the market by managers.
+Accelerated investment effect—even in the absence of agency costs, levered firms invest faster because of the existence of default risk.
+In transition economies, there has been evidence reported unveiling the significant impact of capital structure on firm performance, especially short-term debt such as the case of Vietnamese emerging market economy.
+
+
+== Arbitrage ==
+A capital structure arbitrageur seeks to profit from differential pricing of various instruments issued by one corporation. Consider, for example, traditional bonds, and convertible bonds. The latter are bonds that are, under contracted-for conditions, convertible into shares of equity. The stock-option component of a convertible bond has a calculable value in itself. The value of the whole instrument should be the value of the traditional bonds plus the extra value of the option feature. If the spread (the difference between the convertible and the non-convertible bonds) grows excessively, then the capital-structure arbitrageur will bet that it will converge.
+
+
+== See also ==
+Discounted cash flow
+Enterprise value
+Financial accounting
+Financial economics
+Hamada's equation
+Outline of corporate finance
+Structured finance
+Weighted average cost of capital
+
+
+== References ==
+
+
+== Further reading ==
+Rosenbaum, Joshua; Pearl, Joshua (2009). Investment Banking: Valuation, Leveraged Buyouts, and Mergers & Acquisitions. Hoboken, NJ: John Wiley & Sons. ISBN 978-0-470-44220-3.
+
+
+== External links ==
+Dinesh Gajurel, "Capital Structure Management in Nepalese Enterprises," 2005.
+Roy L. Simerly and Mingfang Li, "Re-Thinking the Capital Structure Decision: Translating Research into Practical Solutions," n.d.

@@ -1,0 +1,89 @@
+A financial analyst is a professional, undertaking  financial analysis for external or internal clients as a core feature of the job. The role may specifically  be titled securities analyst, research analyst, equity analyst, investment analyst, or ratings analyst. The job title is a broad one: in banking, and industry more generally, various other analyst-roles cover financial management and (credit) risk management, as opposed to focusing on investments and valuation; these are also discussed in this article.
+
+
+== Role ==
+Financial analysts are employed by mutual- and pension funds, hedge funds, securities firms, banks, investment banks, insurance companies, and other businesses, helping these companies or their clients make investment decisions. In corporate roles, financial analysts perform budget, revenue and cost modelling and analytics as part of their responsibilities; credit analysis is likewise a distinct area.Financial analysts invariably use spreadsheets (and statistical software packages) to analyze financial data, spot trends, and develop forecasts. The analyst often also meets with company officials to gain a better insight into a company's prospects and to determine the company's managerial effectiveness.
+Analysts specializing in advanced mathematical modeling and programming are referred to as "quants"; see Finance § Quantitative finance for an overview, and Quantitative analysis (finance) § Types for the various roles.
+
+
+=== Securities firms ===
+
+In a stock brokerage house or investment bank, the analyst will read company financial statements and analyze commodity prices, sales, costs, expenses, and tax rates in order to determine a company's value and project future earnings. On the basis of their results, they write reports and make presentations, usually making recommendations—a "trade idea"—to buy or sell a particular investment or security.
+Typically, at the end of the assessment, an analyst would provide a rating recommending or investment action: to buy, sell, or hold the security. Senior analysts may actually make the decision to buy or sell for the company or client if they are the ones responsible for managing the assets. Other, "junior" analysts use the data to model and measure the financial risks associated with making a particular investment decision. See Securities research § Career path.
+Usually, financial analysts study a specific industry—called "sector specialists"—assessing current trends in business practices, products, and industry competition. Among the industries with the most analyst coverage are biotechnology, financial services, energy, mining and resources, and computer hardware, software and services. Analysts must keep abreast of new regulations or policies that may affect the industry, as well as monitor the economy to determine its effect on earnings. As equity analysts divide securities by distinct sectors, companies which fall outside or across multiple sectors are sometimes neglected; the impact on returns (and on "earnings management") here is debated.Analysts also specialize in fixed income. Similar to equity analysts, fixed income analysts assess the value and analyze the risks of various securities, here focusing on interest rate- and fixed income securities, particularly bonds. They may further specialize, but here by issuer-type (i.e. municipal bonds, government bonds, and corporate bonds); the latter specialization is often decomposed into convertible bonds, high-yield bonds, and distressed bonds; some cover syndicated loans. The reporting focuses on the ability of the issuer to make payments—similar to the credit analysis described below—but also on the relative value of the security in question, and in context of the overall market and yield curve. See Fixed income analysis.
+Analysts are generally divided into 'sell-side' and 'buy-side'.  The buy-side is sometimes considered more prestigious, professional, and scholarly, while the sell-side may be higher-paid and more like a sales and marketing role.  It is common to begin careers on the sell-side at large banks then move to the buy-side at a fund.
+
+A sell-side analyst's work is not used by its employer to invest directly, rather it is sold either for money or for other benefits by the employer to buy-side organisations. Sell-side research is often used as 'soft money' rather than sold directly, for example provided to preferred clients in return for business. Writing reports or notes expressing opinions is always a part of "sell-side" (brokerage) analyst job and is often not required for "buy-side" (investment firms) analysts. It is sometimes used to promote the companies being researched when the sell-side has some other interest in them, as a form of marketing, which can lead to conflicts of interest.
+A buy-side analyst,  such as a fund manager, works for a company which buys and holds stocks itself, on the analyst's recommendation.  As they gain experience, analysts often move from buy-side research, concerning individual securities and sectors, into portfolio management itself, selecting the mix of investments for a company's portfolio.  They may also become fund managers and manage large investment portfolios for individual investors.Typically, analysts use fundamental analysis principles, but technical analysis and tactical evaluation of the market environment are also routine. Analysts obtain information by studying public records and filings by the company, as well as by participating in public earnings calls where they can ask direct questions to the management. Additional information can be also received in small group or one-on-one meetings with senior members of management teams. However, in many markets such information gathering became difficult and potentially illegal due to legislative changes brought upon by corporate scandals in the early 2000s. One example is Regulation FD (Fair Disclosure) in the United States. Many other developed countries also adopted similar rules.
+Analyst performance is ranked by a range of services such as StarMine owned by Thomson Reuters or Institutional Investor magazine. Research by Numis found that small companies with the most analyst coverage outperformed peers by 2.5 per cent — while those with low coverage underperformed by 0.7%.
+See Neglected firm effect.
+
+
+=== Investment Banking ===
+
+Financial analysts in the investment banking departments of securities or banking firms often work in teams, analyzing the future prospects of companies, and selling shares to the public for the first time via an initial public offering (IPO), or issuing bonds; this task is often identical to that of a securities analyst. On this basis, they will then make presentations to prospective investors re the merits of investing in the new company, presenting their "pitch books" on a "roadshow"; see bookrunner and securities underwriting. An additional component of the IB role here: analysts ensure that all forms and written materials necessary for compliance with Securities and Exchange Commission regulations are accurate and complete.
+Many IB analysts work in mergers and acquisitions (M&A) departments, similarly preparing analyses on the costs and benefits of a proposed merger or takeover, and assisting with regulatory submissions; here there are both buy-side- and sell-side analysts. See Chinese wall § Finance. The analysis is somewhat more specialized than for an IPO, as it must consider valuation pre- and post-merger, a function of efficiencies, synergies, or increased market share, financing employed, including M&A specific considerations such as the swap ratio, and tax optimization, both re the transaction and for the new entity.At more senior levels,  vice presidents (VPs, or Senior SVPs) will manage the workflow and deliverables—with modelling performed by Associate AVPs—but not be involved in the line-by-line detail per se. Directors will be responsible for "rainmaking" and maintaining existing client relationships. The latter role incorporates a significant advisory element—guiding the client regarding their profile and exposure in the capital markets, and advising on M&A and other corporate activity  (and liaising with sales and trading).
+Investment banks, and large trading houses, often employ an economics team or group. This team produces the economic forecasts informing the various valuations and overall investment strategy; see Investment banking § Research and Economic analyst.
+
+
+==== Middle office ====
+Within banking, there are other non-quant analyst roles (not necessarily titled "financial analyst"), mainly within the "middle office"; these are generally linked, at least by dotted line, to both the Finance and Risk Management areas.
+
+Corporate Treasury is responsible for an investment bank's funding, capital structure management, and liquidity risk monitoring; see Bank § Capital and risk. It is then (co)responsible for the bank's funds transfer pricing (FTP) framework, allowing for comparable financial performance evaluation among business units
+Product Control is primarily responsible for "explaining" the P&L; i.e.: attributing returns to individual desks, decomposing these into their risk factors, and ensuring that traders' positions are reflected at their market values; the tools here are often built by a separate quant team, possibly front office, but maintained by Product Control.
+Credit Risk monitors the bank's debt-clients on an ongoing basis, as described below; it is additionally responsible for tracking the risk capital and risk adjusted returns on these clients, and reporting re concentration risk and risk appetite.These areas, together with the various dedicated risk groups, allow the Finance department to advise senior management regarding the firm's global risk exposure and the profitability and structure of the firm's various businesses; see Financial risk management § Banking.
+A comptroller (or financial controller) is a senior position, responsible for these analyses and internal control more generally, usually reporting to the bank's chief financial officer, as well as copying the chief risk officer.
+
+
+=== Corporate and other ===
+As outlined, the job title is a broad one, and analyst-roles also include financial management and (credit) risk management. 
+
+
+==== Financial planning and analysis ====
+Financial analysts within corporates provide inputs into all elements of the firm's financial management.
+The short term focus is on working capital management, and includes tasks such as profitability analysis, cost analysis,  variance analysis, and cash flow forecasting (often overlapping treasury management).
+Medium term elements are budgeting and planning; their models here form the basis for financial forecasting, scenario analysis (sometimes re corporate strategy), and balance sheet optimization . The latter, extends to involvement with dividend policy, and capital structure; relatedly, forecasts here also feed into group ALM.
+Analysts are also involved with long term "capital budgeting", i.e. decisions relating to "project" selection and valuation and related funding decisions; these forecasts feed through to the debt capital markets team, "DCM", responsible for securing and managing long-term funding.
+Risk analytics will span all perspectives. Similar to treasury though, the team may reside in a separate unit; see Three lines of defence.Management of these deliverables sits with the financial manager (FM); while budget analyst, cost analyst, treasury analyst or manager, and risk analyst or manager are often specialized roles. The area overall is sometimes referred to as "FP&A" (Financial Planning and Analysis). The financial director or chief financial officer (FD, CFO) has primary responsibility for managing the company's finances, including financial planning, management of financial risks, record keeping, and financial reporting.
+
+
+==== Credit analysts ====
+There are several analyst roles related to credit risk, macro or micro. Ratings analysts (who are often employees of ratings agencies), evaluate the ability of companies or governments that issue bonds to repay their debt. On the basis of their evaluation, a management team assigns a rating to a company's or government's bonds. 
+Financial analysts employed in commercial lending perform balance sheet analysis, examining the borrower's audited financial statements and corollary data in order to similarly assess lending risks, and to confirm that yield is appropriate given risk; this task is both upfront and on a monitoring basis thereafter.  The focus is on current and forecasted debt- and liquidity ratios generally, and specifically those related to any loan covenants, such as debt service coverage ratio (DSCR) and loan-to-value ratio (LTVR).
+In retail banking, credit analysts build models to determine an applicant's creditworthiness, assign an initial credit score, and monitor this and the loan on the basis of an ongoing "behavioral" score. In this and the latter role, impairment- and provision-modelling are a prominent deliverable (see IFRS 9); the probability of default (PD), exposure at default (EAD) and loss given default (LGD) statistics or models are (often) provided by a separate (but dedicated) credit-quant team.
+
+
+==== Accounting analysts ====
+Some financial analysts specialize as accounting analysts; they will collect industry data (mainly balance sheet, income statement and capital adequacy in banking sector), merger and acquisition history and financial news for their clients. They then typically "standardize" the different companies' data, facilitating  peer group analysis: the main objective here is to enable their clients to make better decisions about the investment across different regions. They also provide the abundance of financial ratios calculated from the data gathered from financial statements, and possibly other sources.
+
+
+== Qualification ==
+
+
+=== General ===
+In general, a business-related bachelor's degree majoring in Accounting, in Finance, or in Economics is a minimum requirement for an entry or junior role. Given the nature of the work, (some) proficiency in Excel is typically a recommendation (and analysts may be expected to learn database software "on the job"); see further under Financial Modeling.
+With seniority, often, analysts are expected to earn an MBA, having gained 2–3 years experience in the junior role. Increasingly, it is preferred that, even to enter, analysts hold a Master of Finance degree.More specific qualifications may be required additionally:
+In (senior) financial management roles, a professional accounting certification – the CPA, CA, CMA, or CIMA – is often a prerequisite; this, given the overlap with tax and financial reporting.
+Risk managers increasingly require the FRM / PRM, or an actuarial qualification such as CERA.
+Credit analysts in technical-roles may require these also (or at a minimum, specified math-credits); in commercial-lending roles, an industry certification, such as the CBA from the NACM may be specified.
+In treasury management roles, analysts often hold the ACT or CTP credential.
+
+
+=== Securities and Investment banking ===
+In securities and IB roles, it is lately preferred that, similarly, even to enter, analysts earn a Master of Finance or the CFA designation—in Europe, the CIIA also—with the MBA still common at senior levels.
+Often, there are also regulatory requirements. For example, in the United States, sell-side or Wall Street research analysts must register with the Financial Industry Regulatory Authority (FINRA). In addition to passing the General Securities Representative Exam (Series 7), these candidates must pass the Research Analyst Examination (Series 86/87) in order to publish research for the purpose of selling or promoting publicly traded securities.
+For other jurisdictions, see List of securities examinations.
+For sector specialists—with approximately five years industry experience—less weight is placed on finance qualifications, as a relevant advanced degree or qualification in the field is often necessary. (They will later be encouraged to earn the CFA, CIIA, or MBA.) For example, valuing financial service firms and  valuing mining corporates requires specialized knowledge regarding their valuation-, regulatory-, and accounting standards; and, respectively, qualifications in actuarial science, and mining engineering or geology will then be required. Other sectors may similarly require specific technical qualifications (e.g. in pharmacy / life sciences for "bio-tech"); in electronic engineering for (some) areas in "high tech" (e.g. semiconductors).Many large teams will also include a CPA or CA in a dedicated technical role.  (In the Commonwealth, the CA qualification is often sufficient to access (junior) analyst roles.) 
+Banks often also recruit analysts with accounting qualifications to the middle office roles.
+The economics team is usually led by a PhD in the discipline, while a masters in economics is the typical requirement to join the team.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== Further reading ==
+Lehman bust highlights analyst "group-think disease", Elinor Comlay, reuters.com, Sep 10, 2009
+Financial Analysts, US Bureau of Labor Statistics

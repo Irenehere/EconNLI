@@ -1,0 +1,1922 @@
+The following outline is provided as an overview of and topical guide to finance:
+Finance – addresses the ways in which individuals and organizations raise and allocate monetary resources over time, taking into account the risks entailed in their projects.
+
+
+== Overview ==
+The term finance may incorporate any of the following:
+
+The study of money and other assets
+The management and control of those assets
+Profiling and managing related risks
+
+
+== Fundamental financial concepts ==
+Finance
+Arbitrage
+Capital (economics)
+Capital asset pricing model
+Cash flow
+Cash flow matching
+Debt
+Default
+Consumer debt
+Debt consolidation
+Debt settlement
+Credit counseling
+Bankruptcy
+Debt diet
+Debt-snowball method
+Debt of developing countries
+Asset types
+Real Estate
+Securities
+Commodities
+Futures
+Cash
+Discounted cash flow
+Financial capital
+Funding
+Entrepreneur
+Entrepreneurship
+Fixed income analysis
+Gap financing
+Global financial system
+Hedge
+Basis risk
+Interest rate
+Risk-free interest rate
+Term structure of interest rates
+Short-rate model
+Vasicek model
+Cox–Ingersoll–Ross model
+Hull–White model
+Chen model
+Black–Derman–Toy model
+Interest
+Effective interest rate
+Nominal interest rate
+Interest rate basis
+Fisher equation
+Crowding out
+Annual percentage rate
+Interest coverage ratio
+Investment
+Foreign direct investment
+Gold as an investment
+Over-investing
+Leverage
+Long (finance)
+Liquidity
+Margin (finance)
+Mark to market
+Market impact
+Medium of exchange
+Microcredit
+Money
+Money creation
+Currency
+Coin
+Banknote
+Counterfeit
+History of money
+Monetary reform
+Portfolio
+Modern portfolio theory
+Mutual fund separation theorem
+Post-modern portfolio theory
+Reference rate
+Reset
+Return
+Absolute return
+Investment performance
+Relative return
+Risk
+Financial risk
+Risk management
+Financial risk management
+Uncompensated risk
+Risk measure
+Coherent risk measure
+Deviation risk measure
+Distortion risk measure
+Spectral risk measure
+Value at risk
+Expected shortfall
+Entropic value at risk
+Scenario analysis
+Short (finance)
+Speculation
+Day trading
+Position trader
+Spread trade
+Standard of deferred payment
+Store of value
+Time horizon
+Time value of money
+Discounting
+Present value
+Future value
+Net present value
+Internal rate of return
+Modified internal rate of return
+Annuity
+Perpetuity
+Trade
+Free trade
+Free market
+Fair trade
+Unit of account
+Volatility
+Yield
+Yield curve
+
+
+== History ==
+History of finance
+History of banking
+History of insurance
+Tulip mania (Dutch Republic), 1620s/1630s
+South Sea Bubble (UK) & Mississippi Company (France), 1710s; see also Stock market bubble
+Vix pervenit 1745, on usury and other dishonest profit
+Panic of 1837 (US)
+Railway Mania (UK), 1840s
+Erie War (US), 1860s
+Long Depression, 1873–1896 (mainly US and Europe, though other parts of the world were affected)
+Post-World War I hyperinflation; see Hyperinflation and Inflation in the Weimar Republic
+Wall Street Crash of 1929
+Great Depression 1930s
+Bretton Woods Accord 1944
+1973 oil crisis
+1979 energy crisis
+Savings and Loan Crisis 1980s
+Black Monday 1987
+Asian financial crisis 1990s
+Dot-com bubble 1995-2001
+Stock market downturn of 2002
+United States housing bubble
+Financial crisis of 2007–08, followed by the Great Recession
+
+
+== Finance terms by field ==
+
+
+=== Accounting (financial record keeping) ===
+
+Auditing
+Accounting software
+Book keeping
+FASB
+Financial accountancy
+Financial statements
+Balance sheet
+Cash flow statement
+Income statement
+Management accounting
+Philosophy of Accounting
+Hedge accounting
+IFRS 9
+Fair value accounting
+
+
+=== Banking ===
+See articles listed under: Bank § See also
+
+
+=== Corporate finance ===
+
+Balance sheet analysis
+Financial ratio
+Business plan
+Investment policy
+Business valuation
+Stock valuation
+Fundamental analysis
+Real options
+Valuation topics
+Fisher separation theorem
+Sources of financing
+Securities
+Debt
+Initial public offering
+Capital structure
+Cost of capital
+Weighted average cost of capital
+Modigliani–Miller theorem
+Hamada's equation
+Dividend policy
+Dividend
+Dividend tax
+Dividend yield
+Modigliani–Miller theorem
+Corporate action
+(Strategic) Financial management
+Capital management
+Capital budgeting
+Working capital
+Current assets
+Current liabilities
+Managerial finance
+Management accounting
+Mergers and acquisitions
+Leveraged buyout
+Takeover
+Corporate raid
+Contingent value rights
+Real options
+Return on investment
+Return on capital
+Return on assets
+Return on equity
+Loan covenant
+Cash conversion cycle
+Cash management
+Strategic financial management § Cash management
+Inventory optimization
+Supply chain management
+Just In Time (JIT)
+Economic order quantity (EOQ)
+Economic production quantity (EPQ)
+Economic batch quantity
+Credit (finance)
+Credit scoring
+Default risk
+Discounts and allowances
+Factoring (trade) & Supply chain finance
+
+
+=== Investment management ===
+
+Active management
+Efficient market hypothesis
+Portfolio
+Modern portfolio theory
+Capital asset pricing model
+Arbitrage pricing theory
+Passive management
+Index fund
+Activist shareholder
+Mutual fund
+Open-end fund
+Closed-end fund
+List of mutual-fund families
+Financial engineering
+Long-Term Capital Management
+Hedge fund
+Hedge
+#Quantitative investing, below
+
+
+=== Personal finance ===
+
+529 plan (US college savings)
+ABLE account (US plan for benefit of individuals with disabilities)
+Asset allocation
+Asset location
+Budget
+Coverdell Education Savings Account (Coverdell ESAs, formerly known as Education IRAs)
+Credit and debt
+Credit card
+Debt consolidation
+Mortgage loan
+Continuous-repayment mortgage
+Debit card
+Direct deposit
+Employment contract
+Commission
+Employee stock option
+Employee or fringe benefit
+Health insurance
+Paycheck
+Salary
+Wage
+Financial literacy
+Insurance
+Predatory lending
+Retirement plan
+Australia – Superannuation in Australia
+Canada
+Registered retirement savings plan
+Tax-free savings account
+Japan – Nippon individual savings account
+New Zealand – KiwiSaver
+United Kingdom
+Individual savings account
+Self-invested personal pension
+United States
+401(a)
+401(k)
+403(b)
+457 plan
+Keogh plan
+Individual retirement account
+Roth IRA
+Traditional IRA
+SEP IRA
+SIMPLE IRA
+Pension
+Simple living
+Social security
+Tax advantage
+Wealth
+Comparison of accounting software
+Personal financial management
+Investment club
+Collective investment scheme
+
+
+=== Public finance ===
+
+Central bank
+Federal Reserve
+Fractional-reserve banking
+Deposit creation multiplier
+Tax
+Capital gains tax
+Estate tax (and inheritance tax)
+Gift tax
+Income tax
+Inheritance tax
+Payroll tax
+Property tax (including land value tax)
+Sales tax (including value added tax, excise tax, and use tax)
+Transfer tax (including stamp duty)
+Tax advantage
+Tax, tariff and trade
+Tax amortization benefit
+Crowding out
+Industrial policy
+Agricultural policy
+Currency union
+Monetary reform
+
+
+=== Risk management ===
+See articles listed under: Financial risk management § See also
+
+
+=== Constraint finance ===
+Environmental finance
+Feminist economics
+Green economics
+Islamic economics
+Uneconomic growth
+Value of Earth
+Value of life
+
+
+== Insurance ==
+
+Actuarial science
+Annuities
+Catastrophe modeling
+Earthquake loss
+Extended coverage
+Insurable interest
+Insurable risk
+Insurance
+Health insurance
+Disability insurance
+Accident insurance
+Flexible spending account
+Health savings account
+Long term care insurance
+Medical savings account
+Life insurance
+Life insurance tax shelter
+Permanent life insurance
+Term life insurance
+Universal life insurance
+Variable universal life insurance
+Whole life insurance
+Property insurance
+Auto insurance
+Boiler insurance
+Business interruption insurance
+Condo insurance
+Earthquake insurance
+Home insurance
+Title insurance
+Pet insurance
+Renters' insurance
+Casualty insurance
+Fidelity bond
+Liability insurance
+Political risk insurance
+Surety bond
+Terrorism insurance
+Credit insurance
+Trade credit insurance
+Payment protection insurance
+Credit derivative
+Mid-term adjustment
+Reinsurance
+Self insurance
+Travel insurance
+Niche insurance
+Insurance contract
+Loss payee clause
+Risk Retention Group
+
+
+== Economics and finance ==
+
+
+=== Finance-related areas of economics ===
+Financial economics
+Financial econometrics
+Monetary economics
+Mathematical economics
+Managerial economics
+Economic growth theory
+Decision theory
+Game theory
+Experimental economics / Experimental finance
+Behavioral economics / Behavioral finance
+
+
+=== Corporate finance theory ===
+
+Fisher separation theorem
+Modigliani–Miller theorem
+Theory of the firm
+The Theory of Investment Value
+Agency theory
+Managerial finance
+Capital structure
+Corporate finance § Capitalization structure
+Capital structure substitution theory
+Pecking order theory
+Market timing hypothesis
+Trade-off theory of capital structure
+Merton model
+Tax shield
+Dividend policy
+Corporate finance § Dividend policy
+Walter model
+Gordon model
+Lintner model
+Residuals theory
+Clientele effect
+Dividend puzzle
+Treasury stock § Buying back shares
+Dividend tax
+Capital budgeting (valuation)
+Corporate finance § Investment and project valuation
+Clean surplus accounting
+Residual income valuation
+Economic value added / Market value added
+T-model
+Adjusted present value
+Uncertainty
+Penalized present value
+Expected commercial value
+Risk-adjusted net present value
+Contingent claim valuation
+Real options
+Monte Carlo methods
+Risk management
+Corporate finance § Financial risk management
+Financial risk management § Corporate finance
+Hedging irrelevance proposition
+Risk modeling
+Risk-adjusted return on capital
+
+
+=== Asset pricing theory ===
+
+Value (economics)
+Fair value
+Intrinsic value
+Market price
+Expected value
+Opportunity cost
+Risk premium
+#Underlying theory below
+Financial markets
+Stylized fact
+Regulatory economics
+Macroprudential regulation § Theoretical rationale
+Market microstructure
+Walrasian auction
+Fisher market
+Arrow-Debreu market
+Matching market
+Market design
+Agent-based model
+Representative agent
+Aggregation problem
+Heterogeneity in economics
+Heterogeneous agent model
+Agent-based model § In economics and social sciences
+Artificial financial market
+Equilibrium price
+Market efficiency
+Economic equilibrium
+Rational expectations
+Risk factor (finance)
+General equilibrium theory
+Supply and demand
+Competitive equilibrium
+Economic equilibrium
+Partial equilibrium
+Arbitrage-free price
+Rational pricing
+§ Arbitrage free pricing
+§ Risk neutral valuation
+Contingent claim analysis
+Brownian model of financial markets
+Complete market & Incomplete markets
+Utility
+Risk aversion
+Expected utility hypothesis
+Utility maximization problem
+Marginal utility
+Quasilinear utility
+Generalized expected utility
+Economic efficiency
+Efficient-market hypothesis
+efficient frontier
+Production–possibility frontier
+Allocative efficiency
+Pareto efficiency
+Productive efficiency
+Dumb agent theory
+State prices
+Arrow–Debreu model
+Stochastic discount factor
+Pricing kernel
+Application:
+Arrow–Debreu model § Economics of uncertainty: insurance and finance
+State prices § Application to financial assets
+Fundamental theorem of asset pricing
+Rational pricing
+Arbitrage-free
+No free lunch with vanishing risk
+Self-financing portfolio
+Stochastic dominance
+Marginal conditional stochastic dominance
+Martingale pricing
+Brownian model of financial markets
+Random walk hypothesis
+Risk-neutral measure
+Martingale (probability theory)
+Sigma-martingale
+Semimartingale
+Quantum finance
+
+
+=== Asset pricing models ===
+Equilibrium pricing
+Equities; foreign exchange and commodities
+Capital asset pricing model
+Consumption-based CAPM
+Intertemporal CAPM
+Single-index model
+Multiple factor models
+Fama–French three-factor model
+Carhart four-factor model
+Arbitrage pricing theory
+Bonds; other interest rate instruments
+Vasicek
+Rendleman–Bartter
+Cox–Ingersoll–Ross
+Risk neutral pricing
+Equities; foreign exchange and commodities; interest rates
+Black–Scholes
+Black
+Garman–Kohlhagen
+Heston
+CEV
+SABR
+Bonds; other interest rate instruments
+Ho–Lee
+Hull–White
+Black–Derman–Toy
+Black–Karasinski
+Kalotay–Williams–Fabozzi
+Longstaff–Schwartz
+Chen
+Rendleman–Bartter
+Heath–Jarrow–Morton
+Cheyette
+Brace–Gatarek–Musiela
+LIBOR market model
+
+
+== Mathematics and finance ==
+
+
+=== Time value of money ===
+
+Present value
+Future value
+Discounting
+Net present value
+Internal rate of return
+Annuity
+Perpetuity
+
+
+=== Financial mathematics ===
+
+
+==== Mathematical tools ====
+Probability
+Probability distribution
+Binomial distribution
+Log-normal distribution
+Poisson distribution
+Stochastic calculus
+Brownian motion
+Geometric Brownian motion
+Cameron–Martin theorem
+Feynman–Kac formula
+Girsanov's theorem
+Itô's lemma
+Martingale representation theorem
+Radon–Nikodym derivative
+Stochastic differential equations
+Stochastic process
+Jump process
+Lévy process
+Markov process
+Ornstein–Uhlenbeck process
+Wiener process
+Monte Carlo methods
+Low-discrepancy sequence
+Monte Carlo integration
+Quasi-Monte Carlo method
+Random number generation
+Partial differential equations
+Finite difference method
+Heat equation
+Numerical partial differential equations
+Crank–Nicolson method
+Finite difference method: Numerical analysis
+Volatility
+ARCH model
+GARCH model
+Stochastic volatility
+Stochastic volatility jump
+
+
+==== Derivatives pricing ====
+
+Underlying logic (see also #Economics and finance above)
+Rational pricing
+Risk-neutral measure
+Arbitrage-free pricing
+Brownian model of financial markets
+Martingale pricing
+Forward contract
+Forward contract pricing
+Futures
+Futures contract pricing
+Options (incl. Real options and ESOs)
+Valuation of options
+Black–Scholes formula
+Approximations for American options
+Barone-Adesi and Whaley
+Bjerksund and Stensland
+Black's approximation
+Optimal stopping
+Roll–Geske–Whaley
+Black model
+Binomial options model
+Finite difference methods for option pricing
+Garman–Kohlhagen model
+The Greeks
+Lattice model (finance)
+Margrabe's formula
+Monte Carlo methods for option pricing
+Monte Carlo methods in finance
+Quasi-Monte Carlo methods in finance
+Least Square Monte Carlo for American options
+Trinomial tree
+Volatility
+Implied volatility
+Historical volatility
+Volatility smile (& Volatility surface)
+Stochastic volatility
+Constant elasticity of variance model
+Heston model
+SABR volatility model
+Local volatility
+Implied binomial tree
+Implied trinomial tree
+Edgeworth binomial tree
+Johnson binomial tree
+Swaps
+Swap valuation
+Asset swap § Computing the asset swap spread
+Credit default swap § Pricing and valuation
+Currency swap § Valuation and pricing
+Interest rate swap § Valuation and pricing
+Multi-curve framework
+Variance swap § Pricing and valuation
+Interest rate derivatives (bond options, swaptions, caps and floors, and others)
+Black model
+caps and floors
+swaptions
+Bond options
+Short-rate models (generally applied via lattice based- and specialized simulation-models, although "Black like" formulae exist in some cases.)
+Rendleman–Bartter model
+Vasicek model
+Ho–Lee model
+Hull–White model
+Cox–Ingersoll–Ross model
+Black–Karasinski model
+Black–Derman–Toy model
+Kalotay–Williams–Fabozzi model
+Longstaff–Schwartz model
+Chen model
+Forward rate / Forward curve -based models (Application as per short-rate models)
+LIBOR market model (also called: Brace–Gatarek–Musiela Model, BGM)
+Heath–Jarrow–Morton Model (HJM)
+Cheyette model
+Valuation adjustments
+Credit valuation adjustment
+XVA
+Yield curve modelling
+Multi-curve framework
+Bootstrapping (finance)
+Yield curve § Construction of the full yield curve from market data
+Fixed-income attribution § Modeling the yield curve
+Nelson-Siegel
+Principal component analysis § Quantitative finance
+
+
+==== Portfolio mathematics ====
+#Mathematical techniques below
+#Quantitative investing below
+Modern portfolio theory § Mathematical model
+Portfolio optimization
+§ Optimization methods
+§ Mathematical tools
+Merton's portfolio problem
+Kelly criterion
+Roy's safety-first criterion
+Specific applications:
+Black–Litterman model
+Universal portfolio algorithm
+Markowitz model
+Treynor–Black model
+
+
+== Financial markets ==
+
+
+=== Market and instruments ===
+Capital markets
+Securities
+Financial markets
+Primary market
+Initial public offering
+Aftermarket
+Free market
+Bull market
+Bear market
+Bear market rally
+Market maker
+Dow Jones Industrial Average
+Nasdaq
+List of stock exchanges
+List of stock market indices
+List of corporations by market capitalization
+Value Line Composite Index
+
+
+=== Equity market ===
+
+Stock market
+Stock
+Common stock
+Preferred stock
+Treasury stock
+Equity investment
+Index investing
+Private Equity
+Financial reports and statements
+Fundamental analysis
+Dividend
+Dividend yield
+Stock split
+
+
+==== Equity valuation ====
+
+Dow theory
+Elliott wave principle
+Economic value added
+Fibonacci retracement
+Gordon model
+Growth stock
+PEG ratio
+PVGO
+Mergers and acquisitions
+Leveraged buyout
+Takeover
+Corporate raid
+PE ratio
+Market capitalization
+Income per share
+Stock valuation
+Technical analysis
+Chart patterns
+V-trend
+Paper valuation
+
+
+==== Investment theory ====
+
+Behavioral finance
+Dead cat bounce
+Efficient market hypothesis
+Market microstructure
+Stock market crash
+Stock market bubble
+January effect
+Mark Twain effect
+Quantitative behavioral finance
+Quantitative analysis (finance)
+Statistical arbitrage
+
+
+=== Bond market ===
+
+Bond (finance)
+Zero-coupon bond
+Junk bonds
+Convertible bond
+Accrual bond
+Municipal bond
+Sovereign bond
+Bond valuation
+Yield to maturity
+Bond duration
+Bond convexity
+Fixed income
+
+
+=== Money market ===
+
+Repurchase agreement
+International Money Market
+Currency
+Exchange rate
+International currency codes
+Table of historical exchange rates
+
+
+=== Commodity market ===
+
+Commodity
+Asset
+Commodity Futures Trading Commission
+Commodity trade
+Drawdowns
+Forfaiting
+Fundamental analysis
+Futures contract
+Fungibility
+Gold as an investment
+Hedging
+Jesse Lauriston Livermore
+List of traded commodities
+Ownership equity
+Position trader
+Risk (Futures)
+Seasonal traders
+Seasonal spread trading
+Slippage
+Speculation
+Spread trade
+Technical analysis
+Breakout
+Bear market
+Bottom (technical analysis)
+Bull market
+MACD
+Moving average
+Open Interest
+Parabolic SAR
+Point and figure charts
+Resistance
+RSI
+Stochastic oscillator
+Stop loss
+Support
+Top (technical analysis)
+Trade
+Trend
+
+
+=== Derivatives market ===
+
+Derivative (finance)
+(see also Financial mathematics topics; Derivatives pricing)
+Underlying instrument
+
+
+==== Forward markets and contracts ====
+
+Forward contract
+
+
+==== Futures markets and contracts ====
+
+Backwardation
+Contango
+Futures contract
+Financial future
+Currency future
+Interest rate future
+Single-stock futures
+Stock market index future
+Futures exchange
+
+
+==== Option markets and contracts ====
+Options
+Stock option
+Box spread
+Call option
+Put option
+Strike price
+Put–call parity
+The Greeks
+Black–Scholes formula
+Black model
+Binomial options model
+Implied volatility
+Option time value
+Moneyness
+At-the-money
+In-the-money
+Out-of-the-money
+Straddle
+Option style
+Vanilla option
+Exotic option
+Binary option
+European option
+Interest rate floor
+Interest rate cap
+Bermudan option
+American option
+Quanto option
+Asian option
+Employee stock option
+Warrants
+Foreign exchange option
+Interest rate options
+Bond options
+Real options
+Options on futures
+
+
+==== Swap markets and contracts ====
+
+Swap (finance)
+Interest rate swap
+Basis swap
+Asset swap
+Forex swap
+Stock swap
+Equity swap
+Currency swap
+Variance swap
+
+
+==== Derivative markets by underlyings ====
+
+
+===== Equity derivatives =====
+
+Contract for difference (CFD)
+Exchange-traded fund (ETF)
+Closed-end fund
+Inverse exchange-traded fund
+Equity options
+Equity swap
+Real estate investment trust (REIT)
+Warrants
+Covered warrant
+
+
+===== Interest rate derivatives =====
+
+LIBOR
+Forward rate agreement
+Interest rate swap
+Interest rate cap
+Exotic interest rate option
+Bond option
+Interest rate future
+Money market instruments
+Range accrual Swaps/Notes/Bonds
+In-arrears Swap
+Constant maturity swap (CMS) or Constant Treasury Swap (CTS) derivatives (swaps, caps, floors)
+Interest rate Swaption
+Bermudan swaptions
+Cross currency swaptions
+Power Reverse Dual Currency note (PRDC or Turbo)
+Target redemption note (TARN)
+CMS steepener
+Snowball
+Inverse floater
+Strips of Collateralized mortgage obligation
+Ratchet caps and floors
+
+
+===== Credit derivatives =====
+
+Credit default swap
+Collateralized debt obligation
+Credit default option
+Total return swap
+Securitization
+Strip financing
+
+
+===== Foreign exchange derivative =====
+
+Basis swap
+Currency future
+Currency swap
+Foreign exchange binary option
+Foreign exchange forward
+Foreign exchange option
+Forward exchange rate
+Foreign exchange swap
+Foreign exchange hedge
+Non-deliverable forward
+Power reverse dual-currency note
+
+
+== Financial regulation ==
+Corporate governance
+Financial regulation
+Bank regulation
+Banking license
+License
+
+
+=== Designations and accreditation ===
+
+Certified Financial Planner
+Chartered Financial Analyst
+CFA Institute
+Chartered Alternative Investment Analyst
+Professional risk manager
+Chartered Financial Consultant
+Canadian Securities Institute
+Independent financial adviser
+Chartered Insurance Institute
+Financial risk manager
+Chartered Market Technician
+Certified Financial Technician
+
+
+=== Litigation ===
+Liabilities Subject to Compromise
+
+
+=== Fraud ===
+Forex scam
+Insider trading
+Legal origins theory
+Petition mill
+Ponzi scheme
+
+
+=== Industry bodies ===
+International Swaps and Derivatives Association
+National Association of Securities Dealers
+
+
+=== Regulatory bodies ===
+
+
+==== International ====
+Bank for International Settlements
+International Organization of Securities Commissions
+Security Commission
+Basel Committee on Banking Supervision
+Basel Accords – Basel I, Basel II, Basel III
+International Association of Insurance Supervisors
+International Accounting Standards Board
+
+
+==== European Union ====
+European Securities Committee (EU)
+Committee of European Securities Regulators (EU)
+
+
+==== Regulatory bodies by country ====
+
+
+===== United Kingdom =====
+Financial Conduct Authority
+Prudential Regulation Authority (United Kingdom)
+
+
+===== United States =====
+Commodity Futures Trading Commission
+Federal Reserve
+Federal Trade Commission
+Municipal Securities Rulemaking Board
+Office of the Comptroller of the Currency
+Securities and Exchange Commission
+
+
+=== United States legislation ===
+Glass–Steagall Act (US)
+Gramm–Leach–Bliley Act (US)
+Sarbanes–Oxley Act (US)
+Securities Act of 1933 (US)
+Securities Exchange Act of 1934 (US)
+Investment Advisers Act of 1940 (US)
+USA PATRIOT Act
+
+
+== Actuarial topics ==
+Actuarial topics
+
+
+== Valuation ==
+
+
+=== Underlying theory ===
+Value (economics)
+Valuation (finance) and specifically § Valuation overview
+"The Theory of Investment Value"
+Financial economics § Corporate finance theory
+Valuation risk
+Real versus nominal value (economics)
+Real prices and ideal prices
+Fair value
+Fair value accounting
+Intrinsic value
+Market price
+Value in use
+Fairness opinion
+Asset pricing (see also #Asset pricing theory above)
+Equilibrium price
+market efficiency
+economic equilibrium
+rational expectations
+Arbitrage-free price
+Rational pricing § Arbitrage free pricing
+Rational pricing § Risk neutral valuation
+
+
+=== Context ===
+(Corporate) Bonds
+Bond valuation
+Bond (finance) § Bond valuation
+Corporate bond § Valuation
+Equity valuation
+#Equity valuation above
+Fundamental analysis
+Stock valuation
+Business valuation
+Equity (finance) § Valuation
+Intrinsic value (finance) § Equity
+Capital budgeting and Corporate finance § Investment and project valuation
+The Theory of Investment Value
+Real estate valuation
+Real estate appraisal
+Real estate economics
+
+
+=== Considerations ===
+Bonds
+covenants and indentures
+secured / unsecured debt
+senior / subordinated debt
+embedded options
+Equity
+Minimum acceptable rate of return
+Margin of safety (financial)
+Enterprise value
+Sum-of-the-parts analysis
+Conglomerate discount
+Minority discount
+Control premium
+Accretion/dilution analysis
+Certainty equivalent
+Haircut (finance)
+Paper valuation
+
+
+=== Discounted cash flow valuation ===
+
+Bond valuation
+Modeling
+Present value § PV of a bond
+Bond valuation § Present value approach
+Bond valuation § Arbitrage-free pricing approach
+embedded options:
+Pull to par
+Lattice model (finance) § Hybrid securities
+Results
+Clean price
+Dirty price
+Yield to maturity
+Coupon yield
+Current yield
+Duration
+Convexity
+embedded options:
+Option-adjusted spread
+effective duration
+effective convexity
+Cash flows
+Principal (finance)
+Coupon (bond)
+Fixed rate bond
+Floating rate note
+Zero-coupon bond
+Accrual bond
+sinking fund provisions
+Real estate valuation
+Intrinsic value (finance) § Real estate
+Income approach
+Net Operating Income
+Real estate appraisal § The income approach
+German income approach
+Equity valuation
+Results
+Net present value
+Adjusted present value
+Equivalent Annual Cost
+Payback period
+Discounted payback period
+Internal rate of return
+Modified Internal Rate of Return
+Return on investment
+Profitability index
+Specific models and approaches
+Dividend discount model
+Gordon growth model
+Market value added / Economic value added
+Residual income valuation
+First Chicago Method
+rNPV
+Fed model
+Chepakovich valuation model
+Sum of perpetuities method
+Benjamin Graham formula
+LBO valuation model
+Goldman Sachs asset management factor model
+Cash flows
+Cash flow forecasting
+EBIDTA
+NOPAT
+Free cash flow
+Free cash flow to firm
+Free cash flow to equity
+Dividends
+Valuation using discounted cash flows § Determine cash flow for each forecast period
+
+
+=== Relative valuation ===
+
+Bonds
+Bond valuation § Relative price approach
+Yield spread
+I-spread
+Option-adjusted spread
+Z-spread
+Asset swap spread
+Credit spread (bond)
+Bond credit rating
+Altman Z-score
+Ohlson O-score
+Book value
+Debt-to-equity ratio
+Debt-to-capital ratio
+Current ratio
+Quick ratio
+Debt ratio
+Real estate
+Capitalization rate
+Gross rent multiplier
+Sales comparison approach
+Real estate appraisal § The sales comparison approach
+Cash on cash return
+Equity
+Financial ratio
+Market-based valuation
+Valuation using multiples
+Comparable company analysis
+Dividend yield
+Yield gap
+Return on equity
+DuPont analysis
+PE ratio
+PEG ratio
+Cyclically adjusted price-to-earnings ratio
+PVGO
+P/B ratio
+Price to cash based earnings
+Price to Sales
+EV/EBITDA
+EV/Sales
+Stock image
+Valuation using the Market Penetration Model
+Graham number
+Tobin's q
+
+
+=== Contingent claim valuation ===
+
+Valuation techniques
+general
+Valuation of options
+Option (finance) § Valuation
+#Derivatives pricing above
+as typically employed
+Real options valuation
+Rational pricing § The replicating portfolio
+Financial economics § Corporate finance theory
+Lattice model (finance) § Hybrid securities
+Monte Carlo methods in finance
+Applications
+Corporate investments and projects
+Real options
+Corporate finance § Valuing flexibility
+Contingent value rights
+Business valuation § Option pricing approaches
+structured finance investments (funding dependent)
+special purpose entities (funding dependent)
+Balance sheet assets and liabilities
+warrants and other convertible securities
+securities with embedded options such as callable bonds
+employee stock options
+
+
+=== Other approaches ===
+"Fundamentals"-based (relying on accounting information)
+T-model
+Residual income valuation
+Clean surplus accounting
+Net asset value method
+Excess earnings method
+Historical earnings valuation
+Future maintainable earnings valuation
+Graham number
+
+
+=== Financial modeling ===
+
+Cash flow
+Cash flow forecasting
+Cash flow statement
+Operating cash flow
+EBIDTA
+Depreciation § Effect on cash
+NOPAT
+Free cash flow
+Free cash flow to firm
+Free cash flow to equity
+Dividends
+Cash is king
+Mid-year adjustment
+Owner earnings
+Required return (i.e. discount rate)
+Valuation using discounted cash flows § Determine discount factor / rate
+Cost of capital
+Weighted average cost of capital
+Cost of equity
+Cost of debt
+Capital asset pricing model
+Beta (finance) § Empirical estimation
+Hamada's equation
+Pure play method
+Arbitrage pricing theory
+Business valuation § Build-Up Method
+Total Beta
+T-model
+cash-flow T-model
+Terminal value
+Valuation using discounted cash flows § Determine the continuing value
+Forecast period (finance)
+long term growth rate
+Sustainable growth rate § From a financial perspective
+Stock valuation § Growth rate
+Forecasted financial statements
+Financial forecast
+Financial modeling § Accounting
+Pro forma § Financial statements
+Revenue
+Revenue model
+Revenue § Financial statement analysis
+Revenue management § Forecasting
+Net sales
+Costs
+Profit margin
+Gross margin
+Net margin
+Cost of goods sold
+Operating expenses
+Operating ratio
+Cost driver
+Fixed cost
+Variable cost
+Overhead cost
+Value chain
+activity based costing
+common-size analysis
+Profit model
+Capital
+Capital structure
+common-size analysis
+Equity (finance)
+Shareholders' equity
+Book value
+Retained earnings
+Financial capital
+Long term asset / Fixed asset
+Fixed-asset turnover
+Long-term liabilities
+Debt-to-equity ratio
+Debt-to-capital ratio
+Working capital
+Current asset
+Current liability
+Inventory turnover / Days in inventory
+Cost of goods sold
+Debtor & Creditor days
+Days sales outstanding / Days payable outstanding
+
+
+== Portfolio theory ==
+
+
+=== General concepts ===
+Portfolio (finance)
+Portfolio manager
+Investment management
+Active management
+Passive management (Buy and hold)
+Index fund
+Core & Satellite
+Smart beta
+Expense ratio
+Investment style
+Value investing
+Contrarian investing
+Growth investing
+CAN SLIM
+Index investing
+Magic formula investing
+Momentum investing
+Quality investing
+Style investing
+Factor investing
+Investment strategy
+Benchmark-driven investment strategy
+Liability-driven investment strategy
+Financial risk management § Investment management
+Investor profile
+Rate of return on a portfolio / Investment performance
+Risk return ratio
+Risk–return spectrum
+Risk factor (finance)
+Portfolio optimization
+Diversification (finance)
+Asset classes
+Exter's Pyramid
+Asset allocation
+Tactical asset allocation
+Global tactical asset allocation
+Strategic asset allocation
+Dynamic asset allocation
+Sector rotation
+Correlation & covariance
+Covariance matrix
+Correlation matrix
+Risk-free interest rate
+Leverage (finance)
+Utility function
+Intertemporal portfolio choice
+Portfolio insurance
+Constant proportion portfolio insurance
+Mathematical finance § Risk and portfolio management: the P world
+Quantitative investment / Quantitative fund (see below)
+Uncompensated risk
+
+
+=== Modern portfolio theory ===
+
+Portfolio optimization
+Risk return ratio
+Risk–return spectrum
+Economic efficiency
+Efficient-market hypothesis
+Random walk hypothesis
+Utility maximization problem
+Markowitz model
+Merton's portfolio problem
+Kelly criterion
+Roy's safety-first criterion
+Theory and results (derivation of the CAPM)
+Equilibrium price
+Market price
+Systematic risk
+Risk factor (finance)
+Idiosyncratic risk / Specific risk
+Mean-variance analysis (Two-moment decision model)
+Efficient frontier (Mean variance efficiency)
+Feasible set
+Mutual fund separation theorem
+Separation property (finance)
+Tangent portfolio
+Market portfolio
+Beta (finance)
+Fama–MacBeth regression
+Hamada's equation
+Capital structure substitution theory § Beta
+Capital allocation line
+Capital market line
+Security characteristic line
+Capital asset pricing model
+Single-index model
+Security market line
+Roll's critique
+Related measures
+Alpha (finance)
+Sharpe ratio
+Treynor ratio
+Jensen's alpha
+Optimization models
+Markowitz model
+Treynor–Black modelEquilibrium pricing models (CAPM and extensions)
+Capital asset pricing model (CAPM)
+Consumption-based capital asset pricing model (CCAPM)
+Intertemporal CAPM (ICAPM)
+Single-index model
+Multiple factor models (see Risk factor (finance))
+Fama–French three-factor model
+Carhart four-factor model
+Arbitrage pricing theory (APT)
+
+
+=== Post-modern portfolio theory ===
+
+Approaches
+Behavioral portfolio theory
+Stochastic portfolio theory
+Chance-constrained portfolio selection
+Maslowian portfolio theory
+Dedicated portfolio theory (fixed income specific)
+Risk parity
+Tail risk parity
+Optimization considerations
+Pareto efficiency
+Bayesian efficiency
+Multiple-criteria decision analysis
+Multi-objective optimization
+Stochastic dominance
+Second-order Stochastic dominance
+Marginal conditional stochastic dominance
+Downside risk
+Volatility skewness
+Semivariance
+Expected shortfall (ES; also called conditional value at risk (CVaR), average value at risk (AVaR), expected tail loss (ETL))
+Tail value at risk
+Statistical dispersion
+Discounted maximum loss
+Indifference price
+Measures
+Dual-beta
+Downside beta
+Upside beta
+Upside potential ratio
+Upside risk
+Downside risk
+Sortino ratio
+Omega ratio
+Bias ratio
+Information ratio
+Active return
+Active risk
+Deviation risk measure
+Distortion risk measure
+Spectral risk measure
+Optimization models
+Black–Litterman model
+Universal portfolio algorithm
+
+
+=== Performance measurement ===
+
+Alpha (finance)
+Beta (finance)
+Performance attribution
+Market timing
+Stock selection
+Fixed-income attribution
+Benchmark
+Lipper average
+Returns-based style analysis
+Rate of return on a portfolio
+Holding period return
+Tracking error
+Attribution analysis
+Style drift
+Returns-based style analysis
+Simple Dietz method
+Modified Dietz method
+Modigliani risk-adjusted performance
+Upside potential ratio
+Maximum Downside Exposure
+Maximum drawdown
+Sterling ratio
+Sharpe ratio
+Treynor ratio
+Jensen's alpha
+Bias ratio
+V2 ratio
+Calmar ratio (hedge fund specific)
+
+
+=== Mathematical techniques ===
+Modern portfolio theory § Mathematical model
+Quadratic programming
+Critical line method
+Nonlinear programming
+Mixed integer programming
+Stochastic programming (§ Multistage portfolio optimization)
+Copula (probability theory) (§ Quantitative finance)
+Principal component analysis (§ Quantitative finance)
+Deterministic global optimization
+Genetic algorithm (List of genetic algorithm applications § Finance and Economics)
+Machine learning (§ Applications)
+Artificial neural network
+Extended Mathematical Programming (EMP) § EMP for stochastic programming
+
+
+== Quantitative investing ==
+
+Quantitative investing
+Quantitative fund
+Quantitative analysis (finance) § Quantitative investment management
+Quantitative analysis (finance) § Algorithmic trading quantitative analyst
+Trading:
+Automated trading
+High-frequency trading
+Algorithmic trading
+Program trading
+Systematic trading
+Technical analysis § Systematic trading
+Trading strategy
+Mirror trading
+Copy trading
+Social trading
+VWAP
+TWAP
+Electronic trading platform
+Statistical arbitrage
+Portfolio optimization:
+Portfolio optimization § Optimization methods
+Portfolio optimization § Mathematical tools
+Black–Litterman model
+Universal portfolio algorithm
+Markowitz model
+Treynor–Black model
+other models
+Factor investing
+low-volatility investing
+value investing
+momentum investing
+Alpha generation platform
+Kelly criterion
+Roy's safety-first criterion
+Risks:
+Best execution
+Implementation shortfall
+Trading curb
+Market impact
+Market depth
+Slippage (finance)
+Transaction costs
+Discussion:
+Automated trading system § Market disruption and manipulation
+High-frequency trading § Risks and controversy
+Algorithmic trading § Issues and developments
+Positive feedback § Systemic risk
+2010 flash crash
+Black Monday (1987) § Causes
+Statistical arbitrage § StatArb and systemic risk: events of summer 2007
+Leading companies:
+Prediction Company
+Renaissance Technologies
+D. E. Shaw & Co
+AQR Capital
+Barclays Investment Bank
+Cantab Capital Partners
+Robeco
+Jane Street Capital
+
+
+== Financial software tools ==
+Straight Through Processing Software
+Technical Analysis Software
+Algorithmic trading
+Electronic trading platform
+List of numerical-analysis software
+Comparison of numerical-analysis software
+
+
+== Financial modeling applications ==
+
+
+=== Corporate Finance ===
+Business valuation / stock valuation - especially via discounted cash flow, but including other valuation approaches
+Scenario planning and management decision making ("what is"; "what if"; "what has to be done")
+Capital budgeting, including cost of capital (i.e. WACC) calculations
+Financial statement analysis / ratio analysis (including of operating- and finance leases, and R&D)
+Revenue related: forecasting, analysis
+Project finance modeling
+Cash flow forecasting
+Credit decisioning: Credit analysis, Consumer credit risk; impairment- and provision-modeling
+Working capital- and treasury management; asset and liability management
+Management accounting: Activity-based costing, Profitability analysis, Cost analysis, Whole-life cost
+
+
+=== Quantitative finance ===
+Option pricing and calculation of their "Greeks"
+Other derivatives, especially interest rate derivatives, credit derivatives and exotic derivatives
+Modeling the term structure of interest rates (bootstrapping / multi-curves, short-rate models, HJM framework) and credit spreads
+Credit valuation adjustment, CVA, as well as the various XVA
+Credit risk, counterparty credit risk, and regulatory capital:  EAD, PD, LGD, PFE
+Structured product design and manufacture
+Portfolio optimization and Quantitative investing more generally; see further re optimization methods employed.
+Financial risk modeling: value at risk (parametric- and / or historical, CVaR, EVT), stress testing, "sensitivities" analysis
+
+
+== Financial institutions ==
+Financial institutions
+
+Bank
+List of banks
+List of banks in the Arab World
+List of banks in Africa
+List of banks in the Americas
+List of banks in Asia
+List of banks in Europe
+List of banks in Oceania
+List of international banking institutions
+Advising bank
+Central bank
+List of central banks
+Commercial bank
+Community development bank
+Cooperative bank
+Custodian bank
+Depository bank
+Ethical bank
+Investment bank
+Islamic banking
+Merchant bank
+Microcredit
+Mutual savings bank
+National bank
+Offshore bank
+Private bank
+Savings bank
+Swiss bank
+Bank holding company
+Building society
+Broker
+Broker-dealer
+Brokerage firm
+Commodity broker
+Insurance broker
+Prime brokerage
+Retail broker
+Stockbroker
+Clearing house
+Commercial lender
+Community development financial institution
+Credit rating agency
+Credit union
+Diversified financial
+Edge Act Corporation
+Export Credit Agencies
+Financial adviser
+Financial intermediary
+Financial planner
+Futures exchange
+List of futures exchanges
+Government sponsored enterprise
+Hard money lender
+Independent financial adviser
+Industrial loan company
+Insurance company
+Investment adviser
+Investment company
+Investment trust
+Large and Complex Financial Institutions
+Mutual fund
+Non-banking financial company
+Savings and loan association
+Stock exchange
+List of stock exchanges
+Trust company
+
+
+== Education ==
+For the typical finance career path and corresponding education requirements see:
+Financial analyst generally, and esp. § Qualification, discussing various investment, banking, and corporate roles (i.e. financial management, corporate finance, investment banking, securities analysis & valuation, portfolio & investment management, credit analysis, working capital & treasury management; see Financial modeling § Accounting)
+Quantitative analyst, Quantitative analysis (finance) § Education and Financial engineering § Education, specifically re roles in quantitative finance (i.e. derivative pricing & hedging, interest rate modeling, financial risk management, financial engineering, computational finance; also, the mathematically intensive variant on the banking roles; see Financial modeling § Quantitative finance)
+Business education lists undergraduate degrees in business, commerce, accounting and economics; "finance" may be taken as a major in most of these, whereas "quantitative finance" is almost invariably postgraduate, following a math-focused Bachelors; the most common degrees for (entry level) investment, banking, and corporate roles are:
+Bachelor of Business Administration (BBA)
+Bachelor of Commerce (BCom)
+Bachelor of Accountancy (B.Acc)
+Bachelor of Economics (B.Econ)
+Bachelor of Finance - the undergraduate version of the MSF below
+The tagged BS / BA "in Finance", or less common, "in Investment Management" or "in Personal Finance"
+At the postgraduate level, the MBA, MCom and MSM (and recently the Master of Applied Economics) similarly offer training in finance generally; at this level there are also the following specifically focused master's degrees, with MSF the broadest - see Master of Finance § Comparison with other qualifications for their focus and inter-relation:
+Master of Applied Finance (M.App.Fin)
+Master of Commerce (MCom)
+Master of Computational Finance
+Master's in Corporate Finance
+Master of Finance (M.Fin, MIF)
+Master's in Financial Analysis
+Master of Financial Economics
+Master of Financial Engineering (MFE)
+Master of Financial Planning
+Master's in Financial Management
+Master of Financial Mathematics
+Master's in Financial Risk Management
+Master's in Investment Management
+Master of Mathematical Finance
+Master of Quantitative Finance (MQF)
+Master of Science in Finance (MSF, MSc Finance)
+MS in Fintech
+Doctoral-training in finance is usually a requirement for academia, but not relevant to industry
+quants often enter the profession with PhDs in disciplines such as physics, mathematics, engineering, and computer science, and learn finance "on the job”
+as an academic field, finance theory is studied and developed within the disciplines of management, (financial) economics, accountancy, and applied / financial mathematics.
+For specialized roles, there are various Professional Certifications in financial services (see #Designations and accreditation above); the best recognized are arguably:
+Association of Corporate Treasurers (MCT / FCT)
+Certificate in Quantitative Finance (CQF)
+Certified Financial Planner (CFP)
+Certified International Investment Analyst (CIIA)
+Certified Treasury Professional (CTP)
+Chartered Alternative Investment Analyst (CAIA)
+Chartered Financial Analyst (CFA)
+Chartered Wealth Manager (CWM)
+CISI Diploma in Capital Markets (MCSI)
+Financial Risk Manager (FRM)
+Professional Risk Manager (PRM)
+Various organizations offer executive education, CPD, or other focused training programs, including:
+Amsterdam Institute of Finance
+Canadian Securities Institute
+Chartered Institute for Securities & Investment
+GARP
+ICMA Centre
+The London Institute of Banking & Finance
+New York Institute of Finance
+PRMIA
+South African Institute of Financial Markets
+Swiss Finance Institute
+See also qualifications in related fields:
+Accounting § Education, training and qualifications
+Actuarial credentialing and exams
+Business education
+Credit analyst § Education
+Economics education
+Management § Training and education
+Chief financial officer § Qualification
+
+
+== See also ==
+Capitalism
+Financial law
+
+
+== Related lists ==
+Index of accounting articles
+Outline of business management
+Outline of marketing
+Outline of economics
+Outline of production
+List of international trade topics
+List of business law topics
+List of business theorists
+Actuarial topics
+
+
+== References ==
+
+
+== External links ==
+
+Prof. Aswath Damodaran - financial theory, with a focus in Corporate Finance, Valuation and Investments. Updated Data, Excel Spreadsheets.
+Web Sites for Discerning Finance Students (Prof. John M. Wachowicz) -Links to finance web sites, grouped by topic
+studyfinance.com - introductory finance web site at the University of Arizona
+SECLaw.com - law of the financial markets

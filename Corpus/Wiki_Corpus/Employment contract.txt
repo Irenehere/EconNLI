@@ -1,0 +1,161 @@
+An employment contract or contract of employment is a kind of contract used in labour law to attribute rights and responsibilities between parties to a bargain.
+The contract is between an "employee" and an "employer". It has arisen out of the old master-servant law, used before the 20th century. Employment contracts relies on the concept of authority, in which the employee agrees to accept the authority of the employer and in exchange, the employer agrees to pay the employee a stated wage (Simon, 1951).
+
+
+== Terminology ==
+A contract of employment is usually defined to mean the same as a "contract of service". A contract of service has historically been distinguished from a contract for services (contract for the supply of services). The differing terminology implies a dividing line between a person who is "employed" and someone who is "self-employed". The purpose of the dividing line is to attribute rights to some kinds of people who work for others. This could be the right to a minimum wage, holiday pay, sick leave, fair dismissal, a written statement of the contract, the right to organise in a union, and so on. The assumption is that genuinely self-employed people should be able to look after their own affairs, and therefore work they do for others should not carry with it an obligation to look after these rights.
+Following the unification of the city-states in Assyria and Sumer by Sargon of Akkad into a single empire ruled from his home city circa 2334 BC, common Mesopotamian standards for length, area, volume, weight, and time used by artisan guilds in each city was promulgated by Naram-Sin of Akkad (c. 2254–2218 BC), Sargon's grandson, including those of shekels. Codex Hammurabi Law 234 (c. 1755–1750 BC) stipulated a 2-shekel prevailing wage for each 60-gur (300-bushel) vessel constructed in an employment contract between a shipbuilder and a ship-owner. Law 275 stipulated a ferry rate of 3-gerah per day on a charterparty between a ship charterer and a ship-owner. Law 276 stipulated a 21⁄2-gerah per day freight rate on a charterparty, while Law 277 stipulated a 1⁄6-shekel per day freight rate for a 60-gur vessel.In Roman law the equivalent dichotomy was that between locatio conductio operarum (employment contract) and locatio conductio operis (contract for services).The terminology is complicated by the use of many other sorts of contracts involving one person doing work for another. Instead of being considered an "employee", the individual could be considered a "worker" (which could mean less employment legislation protection) or as having an "employment relationship" (which could mean protection somewhere in between) or a "professional" or a "dependent entrepreneur", and so on. Different countries will take more or less sophisticated, or complicated approaches to the question.
+
+
+== Employee vs. Independent Contractor ==
+An independent contractor is in business for him or herself providing services to other businesses and does not work for or under an outside authority. Independent contractors are contracted on a temporary basis and paid at the completion of a project upon which their contract will be terminated. An employee works for an organization and is covered by federal and state employment and labor laws, which entitles them to certain benefits such as social security, income tax withholdings, and workers compensation, among others per the United States government (U.S. Department of Health & Human Services, 2018).
+
+
+== Types of Employment ==
+Employment contracts define the type of employment, which fall into two categories: at-will employment and for-cause employment.
+
+
+=== For-Cause Employment ===
+For-cause employees can only have their employment terminated for a just reason. The employer's decision to terminate an employee also must be reviewed by an independent body to ensure the termination was indeed just and provide protection for employees from unfair or arbitrary termination (Pitchford, 2005). The three largest classes of just-cause employees are federal and state employees, as well as union members.
+
+
+=== At-Will Employment ===
+On the other hand, at-will employment does not require an employer to give any cause for termination. At-will employment is unique to the United States, as most countries require specific procedures for employment termination. At-will employment was considered common law in the United States prior to the nineteenth century as opposed to the standard employment law in England, which was the annual hiring rule or seasonal hiring. In 1877, Horace Wood wrote his treatise on employment titled Master and Servant, which is considered by some to be the origin of at-will employment in the US. However, critics of Wood indicate that he incorrectly cited the cases to support his claim that employers can discharge workers for any reason. Shortly after, courts across the country upheld his claim (Pitchford, 2005).
+There are several theories as to why at-will employment became a legal standard in the US. According to Jay Feinman in The Development of the Employment at Will Rule, as a result of the Industrial Revolution and increasing economic pressures, courts adopted the rule because it favored employers who were trying to avoid mounting employment lawsuits. Employers did not want employees to have a voice because if they knew they could be dismissed at any point, they would be less likely to protest working conditions, wages, etc. At-will employment doctrine also maximized employers’ ability to decrease their workforce in times of economic contraction (Ballam, 1996).
+A second theory, proposed by Sanford Jacoby, argues that trade unions were much weaker in the US than in England during this period, so the courts did not offer as much protection for the annual hiring rule. Additionally, white collar workers in England during the nineteenth century garnered much more protection from the English courts due to their higher status compared to white collar workers in the United States (Ballam, 1996).
+More recently, Deborah Ballam argues in Exploding the Original Myth Regarding Employment-At-Will: The True Origins of the Doctrine that the employment-at-will rule was the norm throughout the history of the United States because the agriculturally based economy and labor market were not conducive to the English annual hiring rule. “Because of the extensive use of indentured servitude, slavery, and express contracts for specified terms, and because of the severe labor shortage, few laborers would have been in situations where the annual hiring rule could have applied,” (Ballam, 1996).
+
+
+== Types of Employment Contracts ==
+The two most common types of employment contracts include fixed-term and open-ended contracts.
+
+
+=== Fixed-Term Contract ===
+Fixed-term contracts are used when an employer wishes to hire an employee for a specific amount of time that is agreed upon in advance. Also known as task contracts, a fixed-term contract can also be used for the completion of a specific task and the contract will be terminated automatically upon completion of the task. Either party may terminate the contract before the end of the specified term if appropriate notice is given by either side (University of Strathclyde, 2013).
+
+
+=== Open-Ended Contract ===
+Conversely, an open-ended employment contract does not have a specified end date. Open-ended employment contracts are also called permanent, indefinite, or continuing contracts as they are typically used for long-term employment situations (University of Strathclyde, 2013). This type of employment contract may be terminated if either party gives appropriate notice to the other party or in specific instances such as health concerns, resignation, or misconduct.
+
+
+== Structure ==
+An employment contract should clearly define all terms and conditions of the employment relationship. The most common elements to any employment contract include the following:
+Terms of employment
+Employee responsibilities
+Employee compensation (i.e. wage/salary, benefits)
+Employment absence
+Dispute resolution
+Nondisclosure agreements
+Ownership agreements
+Assignment clauses
+Employment opportunity limitations
+Grounds for termination
+
+
+== Common Clauses ==
+
+
+=== Scope of employment ===
+Each employment contract contains a job description including the range of activities that an employee is reasonably expected to perform. Scope of employment often identifies demotion, transfer to different responsibilities, and modification or increasing current responsibilities. Travel and relocation can also be discussed in this section.
+
+
+=== Compensation and benefits ===
+Compensation includes a negotiated base salary or earning potential for an employee, performance incentives, production bonuses, signing bonuses, equity, and stock options. Benefits include insurance (health, life, vision and dental), pension plans, paid time off, vacation time, sick and personal leave. This section will also include if or when an employee's salary can be reduced for instances such as suspension or company financial distress.
+
+
+=== Probationary period ===
+Some companies begin employment with new employees on a probationary basis. An employee is hired for a trial period that gives the company an opportunity to evaluate an employee's job performance and conduct. The duration of the trial period, training guidelines and assessment standards should be outlined in this section. If an employee's performance is found to be unsatisfactory, the employer can terminate the employee at the end or before the completion of the probationary period. This section should also detail how the employer will inform the employee if they wish to continue the employment at the end of the probationary period. A probationary period can only be extended if agreed by both parties or if the employment contract allow it.
+
+
+=== Non-competition ===
+A non-competition clause prevents an employee from taking a position with a competitor of their employer following the termination of employment. The employer must have a legitimate interest in restricting the employee from future employment and the clause must be reasonable in time, activities, and geographic area.
+
+
+=== Non-solicitation ===
+A non-solicitation clause prevents an employee from soliciting the employer's clients, customers, or employees for his or her own benefit. The employee also cannot solicit the employer's clients, customers, or employees for a period of time after the termination of the agreement. This section protects the employer's information and tries to ensure company loyalty.
+
+
+=== Non-disclosure ===
+Under a non-disclosure or confidentiality clause, the employee agrees to not disclose information that the employer deems confidential or sensitive to the business and to take reasonable steps to prevent disclosure. Non-disclosures are commonly used to protect trade secrets, client information and other valuable information. A non-disclosure agreement can continue indefinitely or can include a duration clause that stipulates an end date of the agreement.
+
+
+=== Moonlighting & best efforts ===
+A moonlighting clause details the employer's expectation that an employee with treat their employment with the business as their primary job and that other jobs will not interfere with their job performance. In some cases, a moonlighting clause will go as far as to specify that an employee cannot hold any other form of employment other than with their employer. The employer can also require an employee to report any outside work.
+
+
+=== Intellectual property ===
+An employer can assign all work products and intellectual property created by an employee during their term of employment is an exclusive right of the employer. This clause pertains to inventions that relate to the company's past, present or reasonably foreseeable future business or research endeavors. Employers can claim the rights to inventions that were created using company resources, including confidential information, regardless of if they were developed during normal work hours.
+
+
+=== Arbitration ===
+This clause specifies that the employer and employee will resolve disputes outside of court and with an arbitrator. In arbitration, the disputing parties each present their side of an issue to an arbitrator who will act like a judge and decide the matter without a jury. The court will then enforce the arbitrator's binding decision on the dispute.
+
+
+=== Termination ===
+The term of the contract should be included in this section, detailing a specific time after which the contract will be terminated or no longer be enforceable. Renewals can be included as automatic with options not to renew or can be elective by both parties mutually.
+
+
+== Legal Implications ==
+With at-will employment, employers must be wary of legal issues that could potentially arise from wrongful termination.
+
+
+=== Civil Rights Act of 1964 ===
+Employees in the United States are protected under Title VII of the Civil Rights Act of 1964, which prohibits discrimination based on race, color, religion, sex or national origin (Prenkert et al., 2019). Title VII covers all employers with 15 or more employees and who are engaging in an industry affecting interstate commerce. Employers include individuals, partnerships, colleges and universities, labor unions and employment agencies, as well as state and local governments. Title VII prohibits two theories of employment discrimination: disparate treatment and disparate impact. Disparate treatment occurs when an employer treats an employee differently because of the employee's protected status. Disparate impact occurs when an employer's policies or practices are seemingly neutral regarding protected statuses and have a disproportionate negative impact on members of one of those groups (Prenkert et al., 2019).
+
+
+=== Americans with Disabilities Act of 1990 ===
+Wrongful termination lawsuits can also arise from violating the Americans with Disabilities Act of 1990, which protects both individuals who can perform the essential functions of their job despite their disability and those who need a reasonable accommodation to perform their duties (Prenkert et al., 2019). Reasonable accommodation includes making existing facilities readily accessible and usable, acquiring new equipment, restricting job, modifying work schedules, and reassigning workers to vacant positions. However, employers do not need to make accommodations that would create undue hardships. An act requiring significant difficulty or expense (Prenkert et al., 2019).
+
+
+=== Fair Labor Standards Act ===
+The Fair Labor Standards Act also affects employers and employment contracts in that it establishes minimum wage, overtime pay, recordkeeping, and youth employment standards affecting employees in the private sector and in Federal, State, and local governments. The FLSA applies only to employers whose annual sales total $500,000 or more or who are engaged in interstate commerce (U.S. Department of Labor, n.d.).
+
+
+=== Respondeat Superior ===
+Lawsuits can arise as well from Respondeat Superior Liability or vicarious liability. Respondeat Superior is the legal doctrine that in Latin means “let the master answer." Respondeat Superior holds an employer legally responsible for the wrongful acts of an employee or agent if such acts occur within the scope of the employment or agency. A court will apply the doctrine regardless of how closely the employer was monitoring the employee. Respondeat Superior applies to employees, but not to independent contractors.
+
+
+== Criticism ==
+Main articles: Labour economics and Contemporary slavery
+Anarcho-syndicalists and other socialists who criticise wage slavery, e.g. David Ellerman and Carole Pateman, posit that the employment contract is a legal fiction in that it recognises human beings juridically as mere tools or inputs by abdicating responsibility and self-determination, which the critics argue are inalienable. As Ellerman points out, "[t]he employee is legally transformed from being a co-responsible partner to being only an input supplier sharing no legal responsibility for either the input liabilities [costs] or the produced outputs [revenue, profits] of the employer's business." Such contracts are inherently invalid "since the person remain[s] a de facto fully capacitated adult person with only the contractual role of a non-person" as it is impossible to physically transfer self-determination. As Pateman argues:
+
+The contractarian argument is unassailable all the time it is accepted that abilities can 'acquire' an external relation to an individual, and can be treated as if they were property. To treat abilities in this manner is also implicitly to accept that the 'exchange' between employer and worker is like any other exchange of material property. . . The answer to the question of how property in the person can be contracted out is that no such procedure is possible. Labour power, capacities or services, cannot be separated from the person of the worker like pieces of property.
+
+According to some law scholars, generally, the contract of employment denotes a relationship of economic dependence and social subordination. In the words of the controversial labour lawyer Sir Otto Kahn-Freund,
+
+"the relation between an employer and an isolated employee or worker is typically a relation between a bearer of power and one who is not a bearer of power. In its inception it is an act of submission, in its operation, it is a condition of subordination, however much the submission and the subordination may be concealed by the indispensable figment of the legal mind known as the 'contract of employment'. The main object of labor law has been, and... will always be a countervailing force to counteract the inequality of bargaining power which is inherent and must be inherent in the employment relationship."
+
+
+== See also ==
+Employment
+Collective bargaining
+Job description
+Labour law
+Labor union
+Work for hire
+First Employment Contract and New Employment Contract in France
+Master and Servant Act
+Smart contract: can be used in employment contracts
+Work visa: allows migrant workers to travel to a country for working there for an extended period of time
+Adair v. United States, 209 U.S. 161, 175 (1908) "the employer and the employee have equality of right and any legislation that disturbs that equality is an arbitrary interference with the liberty of contract which no government can legally justify in our free land.”
+Endo contractualization
+Termination of employment in Argentina
+
+
+== Notes ==
+
+
+== References ==
+Ballam, D. (1996).  Exploding the Original Myth Regarding Employment-At-Will: The True Origins of the Doctrine. Berkeley Journal of Employment and Labor Law. 17(1), 91-130.  https://www.jstor.org/stable/24050714
+Deakin, S. & Wilkinson, F. (2005). The Law of the Labour Market: Industrialization, Employment, and Legal Evolution. https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198152811.001.0001/acprof-9780198152811-chapter-2
+Ellerman, David (24 October 2013). "On the Renting of Persons". SSRN 2344920.
+Mark Freedland, The Personal Employment Contract (2003) Oxford University Press, ISBN 0-19-924926-1
+Legal Information Institute. (n.d.). Nondisclosure Agreement. Cornell Law School. https://www.law.cornell.edu/wex/nondisclosure_agreement  
+Legal Information Institute. (n.d.). Respondeat Superior. Cornell Law School. https://www.law.cornell.edu/wex/respondeat_superior  
+Nenu, C.C. (2014). Short Analysis of the Essential Elements of the Typical Employment Contract and of its Importance in Maintaining it within the Current Social and Economic Context. European Integration – Realities and Perspectives. http://217.73.162.40/index.php/eirp/article/view/1494/1391#
+Prenkert, J., Barnes, A., Perry, J., Haugh, T., & Stemler, A. (2019). Business Law: The Ethical, Global, And Digital Environment, Eighteenth Edition. McGraw-Hill LLC.
+Pitchford, G. K. (2005). An Examination of the At-Will Employment Doctrine. ALA APA. https://ala-apa.org/newsletter/2005/08/17/an-examination-of-the-at-will-employment-doctrine/
+Simon, H. (1951). A Formal Theory of the Employment Relationship. Econometrica. 19(3), 293-305. https://www.jstor.org/stable/1906815
+University of Strathclyde. (2013). Use of Fixed-Term and Open-Ended Employment Contracts. https://www.strath.ac.uk/professionalservices/media/ps/humanresources/policies/FixedTermOpenEndedContractsUsePolicy.pdf
+U.S. Department of Health & Human Services. (2018, October 23). What's the Difference Between an Independent Contractor and an Employee?. Office of Child Support Snforcement: An Office of the Administration for Children & Families https://www.acf.hhs.gov/css/training-technical-assistance/whats-difference-between-independent-contractor-and-employee  
+U.S. Department of Labor. (n.d.). Wages and the Fair Labor Standards Act. https://www.dol.gov/agencies/whd/flsa

@@ -1,0 +1,1934 @@
+In finance, diversification is the process of allocating capital in a way that reduces the exposure to any one particular asset or risk.  A common path towards diversification is to reduce risk or volatility by investing in a variety of assets. If asset prices do not change in perfect synchrony, a diversified portfolio will have less variance than the weighted average variance of its constituent assets, and often less volatility than the least volatile of its constituents.Diversification is one of two general techniques for reducing investment risk. The other is hedging.
+
+
+== Examples ==
+The simplest example of diversification is provided by the proverb "Don't put all your eggs in one basket". Dropping the basket will break all the eggs. Placing each egg in a different basket is more diversified. There is more risk of losing one egg, but less risk of losing all of them.  On the other hand, having a lot of baskets may increase costs.
+In finance, an example of an undiversified portfolio is to hold only one stock. This is risky; it is not unusual for a single stock to go down 50% in one year. It is less common for a portfolio of 20 stocks to go down that much, especially if they are selected at random. If the stocks are selected from a variety of industries, company sizes and asset types it is even less likely to experience a 50% drop since it will mitigate any trends in that industry, company class, or asset type.
+Since the mid-1970s, it has also been argued that geographic diversification would generate superior risk-adjusted returns for large institutional investors by reducing overall portfolio risk while capturing some of the higher rates of return offered by the emerging markets of Asia and Latin America.
+
+
+== Return expectations while diversifying ==
+If the prior expectations of the returns on all assets in the portfolio are identical, the expected return on a diversified portfolio will be identical to that on an undiversified portfolio. Some assets will do better than others; but since one does not know in advance which assets will perform better, this fact cannot be exploited in advance.  The return on a diversified portfolio can never exceed that of the top-performing investment, and indeed will always be lower than the highest return (unless all returns are identical). Conversely, the diversified portfolio's return will always be higher than that of the worst-performing investment. So by diversifying, one loses the chance of having invested solely in the single asset that comes out best, but one also avoids having invested solely in the asset that comes out worst. That is the role of diversification: it narrows the range of possible outcomes.  Diversification need not either help or hurt expected returns, unless the alternative non-diversified portfolio has a higher expected return.
+
+
+== Amount of diversification ==
+There is no magic number of stocks that is diversified versus not. Sometimes quoted is 30, although it can be as low as 10, provided they are carefully chosen.  This is based on a result from John Evans and Stephen Archer. Similarly, a 1985 book reported that most value from diversification comes from the first 15 or 20 different stocks in a portfolio. More stocks give lower price volatility.
+Given the advantages of diversification, many experts recommend maximum diversification, also known as "buying the market portfolio". Identifying that portfolio is not straightforward.
+The earliest definition comes from the capital asset pricing model which argues the maximum diversification comes from buying a pro rata share of all available assets. This is the idea underlying index funds.
+Diversification has no maximum so long as more assets are available.  Every equally weighted, uncorrelated asset added to a portfolio can add to that portfolio's measured diversification. When assets are not uniformly uncorrelated, a weighting approach that puts assets in proportion to their relative correlation can maximize the available diversification.
+"Risk parity" is an alternative idea. This weights assets in inverse proportion to risk, so the portfolio has equal risk in all asset classes. This is justified both on theoretical grounds, and with the pragmatic argument that future risk is much easier to forecast than either future market price or future economic footprint. "Correlation parity" is an extension of risk parity, and is the solution whereby each asset in a portfolio has an equal correlation with the portfolio, and is therefore the "most diversified portfolio". Risk parity is the special case of correlation parity when all pair-wise correlations are equal.
+
+
+== Effect of diversification on variance ==
+One simple measure of financial risk is variance of the return on the portfolio. Diversification can lower the variance of a portfolio's return below what it would be if the entire portfolio were invested in the asset with the lowest variance of return, even if the assets' returns are uncorrelated.  For example, let asset X have stochastic return 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and asset Y have stochastic return 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , with respective return variances 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}^{2}}
+   and 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}^{2}}
+  .  If the fraction 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   of a one-unit (e.g. one-million-dollar) portfolio is placed in asset X and the fraction 
+  
+    
+      
+        1
+        −
+        q
+      
+    
+    {\displaystyle 1-q}
+   is placed in Y, the stochastic portfolio return is  
+  
+    
+      
+        q
+        x
+        +
+        (
+        1
+        −
+        q
+        )
+        y
+      
+    
+    {\displaystyle qx+(1-q)y}
+  .  If 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   are uncorrelated, the variance of portfolio return is 
+  
+    
+      
+        
+          var
+        
+        (
+        q
+        x
+        +
+        (
+        1
+        −
+        q
+        )
+        y
+        )
+        =
+        
+          q
+          
+            2
+          
+        
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        +
+        (
+        1
+        −
+        q
+        
+          )
+          
+            2
+          
+        
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\text{var}}(qx+(1-q)y)=q^{2}\sigma _{x}^{2}+(1-q)^{2}\sigma _{y}^{2}}
+  .  The variance-minimizing value of 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is 
+  
+    
+      
+        q
+        =
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+        
+          /
+        
+        [
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        +
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle q=\sigma _{y}^{2}/[\sigma _{x}^{2}+\sigma _{y}^{2}]}
+  , which is strictly between 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   and 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  .  Using this value of 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   in the expression for the variance of portfolio return gives the latter as 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+        
+          /
+        
+        [
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        +
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle \sigma _{x}^{2}\sigma _{y}^{2}/[\sigma _{x}^{2}+\sigma _{y}^{2}]}
+  , which is less than what it would be at either of the undiversified values 
+  
+    
+      
+        q
+        =
+        1
+      
+    
+    {\displaystyle q=1}
+   and 
+  
+    
+      
+        q
+        =
+        0
+      
+    
+    {\displaystyle q=0}
+   (which respectively give portfolio return variance of 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}^{2}}
+   and 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}^{2}}
+  ).  Note that the favorable effect of diversification on portfolio variance would be enhanced if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   were negatively correlated but diminished (though not eliminated) if they were positively correlated.
+In general, the presence of more assets in a portfolio leads to greater diversification benefits, as can be seen by considering portfolio variance as a function of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , the number of assets.  For example, if all assets' returns are mutually uncorrelated and have identical variances 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}^{2}}
+  , portfolio variance is minimized by holding all assets in the equal proportions 
+  
+    
+      
+        1
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle 1/n}
+  . Then the portfolio return's variance equals 
+  
+    
+      
+        
+          var
+        
+        [
+        (
+        1
+        
+          /
+        
+        n
+        )
+        
+          x
+          
+            1
+          
+        
+        +
+        (
+        1
+        
+          /
+        
+        n
+        )
+        
+          x
+          
+            2
+          
+        
+        +
+        .
+        .
+        .
+        +
+        (
+        1
+        
+          /
+        
+        n
+        )
+        
+          x
+          
+            n
+          
+        
+        ]
+      
+    
+    {\displaystyle {\text{var}}[(1/n)x_{1}+(1/n)x_{2}+...+(1/n)x_{n}]}
+   = 
+  
+    
+      
+        n
+        (
+        1
+        
+          /
+        
+        
+          n
+          
+            2
+          
+        
+        )
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n(1/n^{2})\sigma _{x}^{2}}
+   = 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle \sigma _{x}^{2}/n}
+  , which is monotonically decreasing in 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  .
+The latter analysis can be adapted to show why adding uncorrelated volatile assets to a portfolio, thereby increasing the portfolio's size, is not diversification, which involves subdividing the portfolio among many smaller investments. In the case of adding investments, the portfolio's return is 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{1}+x_{2}+\dots +x_{n}}
+   instead of 
+  
+    
+      
+        (
+        1
+        
+          /
+        
+        n
+        )
+        
+          x
+          
+            1
+          
+        
+        +
+        (
+        1
+        
+          /
+        
+        n
+        )
+        
+          x
+          
+            2
+          
+        
+        +
+        .
+        .
+        .
+        +
+        (
+        1
+        
+          /
+        
+        n
+        )
+        
+          x
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle (1/n)x_{1}+(1/n)x_{2}+...+(1/n)x_{n},}
+   and the variance of the portfolio return if the assets are uncorrelated is 
+  
+    
+      
+        
+          var
+        
+        [
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          x
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          x
+          
+            n
+          
+        
+        ]
+        =
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        +
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        =
+        n
+        
+          σ
+          
+            x
+          
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle {\text{var}}[x_{1}+x_{2}+\dots +x_{n}]=\sigma _{x}^{2}+\sigma _{x}^{2}+\dots +\sigma _{x}^{2}=n\sigma _{x}^{2},}
+   which is increasing in n rather than decreasing.  Thus, for example, when an insurance company adds more and more uncorrelated policies to its portfolio, this expansion does not itself represent diversification—the diversification occurs in the spreading of the insurance company's risks over a large number of part-owners of the company.
+
+
+== Diversification with correlated returns via an equally weighted portfolio ==
+The expected return on a portfolio is a weighted average of the expected returns on each individual asset:
+
+  
+    
+      
+        
+          E
+        
+        [
+        
+          R
+          
+            P
+          
+        
+        ]
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+        
+        
+          E
+        
+        [
+        
+          R
+          
+            i
+          
+        
+        ]
+      
+    
+    {\displaystyle \mathbb {E} [R_{P}]=\sum _{i=1}^{n}x_{i}\mathbb {E} [R_{i}]}
+  where 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+   is the proportion of the investor's total invested wealth in asset 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  .
+The variance of the portfolio return is given by:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Var
+                
+                (
+                
+                  R
+                  
+                    P
+                  
+                
+                )
+              
+              ⏟
+            
+          
+          
+            ≡
+            
+              σ
+              
+                P
+              
+              
+                2
+              
+            
+          
+        
+        =
+        
+          E
+        
+        [
+        
+          R
+          
+            P
+          
+        
+        −
+        
+          E
+        
+        [
+        
+          R
+          
+            P
+          
+        
+        ]
+        
+          ]
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \underbrace {{\text{Var}}(R_{P})} _{\equiv \sigma _{P}^{2}}=\mathbb {E} [R_{P}-\mathbb {E} [R_{P}]]^{2}.}
+  Inserting in the expression for 
+  
+    
+      
+        
+          E
+        
+        [
+        
+          R
+          
+            P
+          
+        
+        ]
+      
+    
+    {\displaystyle \mathbb {E} [R_{P}]}
+  :
+
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          E
+        
+        
+          
+            [
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                x
+                
+                  i
+                
+              
+              
+                R
+                
+                  i
+                
+              
+              −
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                x
+                
+                  i
+                
+              
+              
+                E
+              
+              [
+              
+                R
+                
+                  i
+                
+              
+              ]
+            
+            ]
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \sigma _{P}^{2}=\mathbb {E} \left[\sum _{i=1}^{n}x_{i}R_{i}-\sum _{i=1}^{n}x_{i}\mathbb {E} [R_{i}]\right]^{2}.}
+  Rearranging:
+
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          E
+        
+        
+          
+            [
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                x
+                
+                  i
+                
+              
+              (
+              
+                R
+                
+                  i
+                
+              
+              −
+              
+                E
+              
+              [
+              
+                R
+                
+                  i
+                
+              
+              ]
+              )
+            
+            ]
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{P}^{2}=\mathbb {E} \left[\sum _{i=1}^{n}x_{i}(R_{i}-\mathbb {E} [R_{i}])\right]^{2}}
+  
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          E
+        
+        
+          [
+          
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              ∑
+              
+                j
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              x
+              
+                i
+              
+            
+            
+              x
+              
+                j
+              
+            
+            (
+            
+              R
+              
+                i
+              
+            
+            −
+            
+              E
+            
+            [
+            
+              R
+              
+                i
+              
+            
+            ]
+            )
+            (
+            
+              R
+              
+                j
+              
+            
+            −
+            
+              E
+            
+            [
+            
+              R
+              
+                j
+              
+            
+            ]
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \sigma _{P}^{2}=\mathbb {E} \left[\sum _{i=1}^{n}\sum _{j=1}^{n}x_{i}x_{j}(R_{i}-\mathbb {E} [R_{i}])(R_{j}-\mathbb {E} [R_{j}])\right]}
+  
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          E
+        
+        
+          [
+          
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              x
+              
+                i
+              
+              
+                2
+              
+            
+            (
+            
+              R
+              
+                i
+              
+            
+            −
+            
+              E
+            
+            [
+            
+              R
+              
+                i
+              
+            
+            ]
+            
+              )
+              
+                2
+              
+            
+            +
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                n
+              
+            
+            
+              ∑
+              
+                j
+                =
+                1
+                ,
+                i
+                ≠
+                j
+              
+              
+                n
+              
+            
+            
+              x
+              
+                i
+              
+            
+            
+              x
+              
+                j
+              
+            
+            (
+            
+              R
+              
+                i
+              
+            
+            −
+            
+              E
+            
+            [
+            
+              R
+              
+                i
+              
+            
+            ]
+            )
+            (
+            
+              R
+              
+                j
+              
+            
+            −
+            
+              E
+            
+            [
+            
+              R
+              
+                j
+              
+            
+            ]
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \sigma _{P}^{2}=\mathbb {E} \left[\sum _{i=1}^{n}x_{i}^{2}(R_{i}-\mathbb {E} [R_{i}])^{2}+\sum _{i=1}^{n}\sum _{j=1,i\neq j}^{n}x_{i}x_{j}(R_{i}-\mathbb {E} [R_{i}])(R_{j}-\mathbb {E} [R_{j}])\right]}
+  
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+          
+            2
+          
+        
+        
+          
+            
+              
+                
+                  E
+                
+                
+                  
+                    [
+                    
+                      
+                        R
+                        
+                          i
+                        
+                      
+                      −
+                      
+                        E
+                      
+                      [
+                      
+                        R
+                        
+                          i
+                        
+                      
+                      ]
+                    
+                    ]
+                  
+                  
+                    2
+                  
+                
+              
+              ⏟
+            
+          
+          
+            ≡
+            
+              σ
+              
+                i
+              
+              
+                2
+              
+            
+          
+        
+        +
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          ∑
+          
+            j
+            =
+            1
+            ,
+            i
+            ≠
+            j
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+        
+        
+          x
+          
+            j
+          
+        
+        
+          
+            
+              
+                
+                  E
+                
+                
+                  [
+                  
+                    (
+                    
+                      R
+                      
+                        i
+                      
+                    
+                    −
+                    
+                      E
+                    
+                    [
+                    
+                      R
+                      
+                        i
+                      
+                    
+                    ]
+                    )
+                    (
+                    
+                      R
+                      
+                        j
+                      
+                    
+                    −
+                    
+                      E
+                    
+                    [
+                    
+                      R
+                      
+                        j
+                      
+                    
+                    ]
+                    )
+                  
+                  ]
+                
+              
+              ⏟
+            
+          
+          
+            ≡
+            
+              σ
+              
+                i
+                j
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sigma _{P}^{2}=\sum _{i=1}^{n}x_{i}^{2}\underbrace {\mathbb {E} \left[R_{i}-\mathbb {E} [R_{i}]\right]^{2}} _{\equiv \sigma _{i}^{2}}+\sum _{i=1}^{n}\sum _{j=1,i\neq j}^{n}x_{i}x_{j}\underbrace {\mathbb {E} \left[(R_{i}-\mathbb {E} [R_{i}])(R_{j}-\mathbb {E} [R_{j}])\right]} _{\equiv \sigma _{ij}}}
+  
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            i
+          
+          
+            2
+          
+        
+        +
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          ∑
+          
+            j
+            =
+            1
+            ,
+            i
+            ≠
+            j
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+        
+        
+          x
+          
+            j
+          
+        
+        
+          σ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{P}^{2}=\sum _{i=1}^{n}x_{i}^{2}\sigma _{i}^{2}+\sum _{i=1}^{n}\sum _{j=1,i\neq j}^{n}x_{i}x_{j}\sigma _{ij}}
+  where 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}^{2}}
+   is the variance on asset 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        
+          σ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{ij}}
+   is the covariance between assets 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  .
+In an equally weighted portfolio, 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        =
+        
+          x
+          
+            j
+          
+        
+        =
+        
+          
+            1
+            n
+          
+        
+        ,
+        ∀
+        i
+        ,
+        j
+      
+    
+    {\displaystyle x_{i}=x_{j}={\frac {1}{n}},\forall i,j}
+  . The portfolio variance then becomes:
+
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            
+              n
+              
+                2
+              
+            
+          
+        
+         
+        
+          n
+        
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+          
+          
+            2
+          
+        
+        +
+        n
+        (
+        n
+        −
+        1
+        )
+        
+          
+            1
+            n
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{P}^{2}={\frac {1}{n^{2}}}\ {n}{\bar {\sigma }}_{i}^{2}+n(n-1){\frac {1}{n}}{\frac {1}{n}}{\bar {\sigma }}_{ij}}
+  where 
+  
+    
+      
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle {\bar {\sigma }}_{ij}}
+   is the average of the covariances 
+  
+    
+      
+        
+          σ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{ij}}
+   for 
+  
+    
+      
+        i
+        ≠
+        j
+      
+    
+    {\displaystyle i\neq j}
+   and 
+  
+    
+      
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\bar {\sigma }}_{i}^{2}}
+   is the average of the variances. Simplifying, we obtain
+
+  
+    
+      
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              n
+              −
+              1
+            
+            n
+          
+        
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle \sigma _{P}^{2}={\frac {1}{n}}{\bar {\sigma }}_{i}^{2}+{\frac {n-1}{n}}{\bar {\sigma }}_{ij}.}
+  As the number of assets grows we get the asymptotic formula:
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          σ
+          
+            P
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                σ
+                ¯
+              
+            
+          
+          
+            i
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle \lim _{n\rightarrow \infty }\sigma _{P}^{2}={\bar {\sigma }}_{ij}.}
+  Thus, in an equally weighted portfolio, the portfolio variance tends to the average of covariances between securities as the number of securities becomes arbitrarily large.
+
+
+== Diversifiable and non-diversifiable risk ==
+The capital asset pricing model introduced the concepts of diversifiable and non-diversifiable risk. Synonyms for diversifiable risk are idiosyncratic risk, unsystematic risk, and security-specific risk. Synonyms for non-diversifiable risk are systematic risk, beta risk and market risk.
+If one buys all the stocks in the S&P 500 one is obviously exposed only to movements in that index. If one buys a single stock in the S&P 500, one is exposed both to index movements and movements in the stock based on its underlying company. The first risk is called "non-diversifiable", because it exists however many S&P 500 stocks are bought. The second risk is called "diversifiable", because it can be reduced by diversifying among stocks.
+In the presence of per-asset investment fees, there is also the possibility of overdiversifying to the point that the portfolio's performance will suffer because the fees outweigh the gains from diversification.
+The capital asset pricing model argues that investors should only be compensated for non-diversifiable risk. Other financial models allow for multiple sources of non-diversifiable risk, but also insist that diversifiable risk should not carry any extra expected return. Still other models do not accept this contention.
+
+
+== An empirical example relating diversification to risk reduction ==
+In 1977 Edwin Elton and Martin Gruber worked out an empirical example of the gains from diversification. Their approach was to consider a population of 3,290 securities available for possible inclusion in a portfolio, and to consider the average risk over all possible randomly chosen n-asset portfolios with equal amounts held in each included asset, for various values of n. Their results are summarized in the following table.
+The result for n=30 is close to n=1,000, and even four stocks provide most of the reduction in risk compared with one stock.
+
+
+== Corporate diversification strategies ==
+In corporate portfolio models, diversification is thought of as being vertical or horizontal.  Horizontal diversification is thought of as expanding a product line or acquiring related companies.  Vertical diversification is synonymous with integrating the supply chain or amalgamating distributions channels.
+Non-incremental diversification is a strategy followed by conglomerates, where the individual business lines have little to do with one another, yet the company is attaining diversification from exogenous risk factors to stabilize and provide opportunity for active management of diverse resources.
+
+
+== Fallacy of time diversification ==
+The argument is often made that time reduces variance in a portfolio: a "time diversification".  A common belief is younger investors should avoid bonds and emphasize stocks, due to the belief investors will have time to recover from any downturns. Yet this belief has flaws, as John Norstad explains:
+
+This kind of statement makes the implicit assumption that given enough time good returns will cancel out any possible bad returns. While the basic argument that the standard deviations of the annualized returns decrease as the time horizon increases is true, it is also misleading, and it fatally misses the point, because for an investor concerned with the value of his portfolio at the end of a period of time, it is the total return that matters, not the annualized return. Because of the effects of compounding, the standard deviation of the total return actually increases with time horizon. Thus, if we use the traditional measure of uncertainty as the standard deviation of return over the time period in question, uncertainty increases with time.
+Three notable contributions to the literature on the fallacy of time diversification have been from Paul Samuelson, Zvi Bodie, and Mark Kritzman.
+
+
+== History ==
+Diversification is mentioned in the Bible, in the book of Ecclesiastes which was written in approximately 935 B.C.:
+But divide your investments among many places,
+for you do not know what risks might lie ahead.Diversification is also mentioned in the Talmud. The formula given there is to split one's assets into thirds: one third in business (buying and selling things), one third kept liquid (e.g. gold coins), and one third in land (real estate). This strategy of splitting wealth equally among available options is now known as "naive diversification", "Talmudic diversification" or "1/n diversification", a concept which has earned renewed attention since the year 2000 due to research showing it may offer advantages in some scenarios.Diversification is mentioned in Shakespeare's Merchant of Venice (ca. 1599):
+My ventures are not in one bottom trusted,
+Nor to one place; nor is my whole estate
+Upon the fortune of this present year:
+Therefore, my merchandise makes me not sad.Modern understanding of diversification dates back to the influential work of economist Harry Markowitz in the 1950s, whose work pioneered modern portfolio theory (see Markowitz model).
+An earlier precedent for diversification was economist John Maynard Keynes, who managed the endowment of King's College, Cambridge from the 1920s to his 1946 death with a stock-selection strategy similar to what was later called value investing. While diversification in the modern sense was "not easily available in Keynes's day" and Keynes typically held a small number of assets compared to later investment theories, he nonetheless is recognized as a pioneer of financial diversification. Keynes came to recognize the importance, "if possible", he wrote, of holding assets with "opposed risks [...] since they are likely to move in opposite directions when there are general fluctuations" Keynes was a pioneer of "international diversification" due to substantial holdings in non-U.K. stocks, up to 75%, and avoiding home bias at a time when university endowments in the U.S. and U.K. were invested almost entirely in domestic assets.
+
+
+== See also ==
+Central limit theorem
+Coherent risk measure
+Dollar cost averaging
+Equity repositioning
+Financial correlation
+Outline of finance
+Modern portfolio theory
+Systematic risk
+
+
+== References ==
+
+
+== External links ==
+Macro-Investment Analysis, Prof. William F. Sharpe, Stanford University
+An Introduction to Investment Theory, Prof. William N. Goetzmann, Yale School of Management

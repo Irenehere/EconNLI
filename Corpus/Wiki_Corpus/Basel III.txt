@@ -1,0 +1,237 @@
+Basel III is the third Basel Accord, a framework that sets international standards for bank capital adequacy, stress testing, and liquidity requirements. Augmenting and superseding parts of the Basel II standards, it was developed in response to the deficiencies in financial regulation revealed by the financial crisis of 2007–08. It is intended to strengthen bank capital requirements by increasing minimum capital requirements, holdings of high quality liquid assets, and decreasing bank leverage.
+Basel III was published by the Basel Committee on Banking Supervision in November 2010, and was scheduled to be introduced from 2013 until 2015; however, implementation was extended repeatedly to 1 January 2022 and then again until 1 January 2023, in the wake of the COVID-19 pandemic.The new standards that come into effect in January 2023, that is, the Fundamental Review of the Trading Book (FRTB) and the Basel III: Finalising post-crisis reforms, are sometimes referred to as Basel IV. However, the secretary general of the Basel Committee said, in a 2016 speech, that he did not believe the changes are substantial enough to warrant that title and the Basel Committee refer to only three Basel Accords.
+
+
+== Overview ==
+Basel III aims to strengthen the requirements in the Basel II regulatory standards for banks. In addition to increasing capital requirements, it introduces requirements on liquid asset holdings and funding stability, thereby seeking to mitigate the risk of a run on the bank.
+
+
+== Key principles ==
+
+
+=== CET1 capital requirements ===
+The original Basel III rule from 2010 required banks to fund themselves with 4.5% of Common Equity Tier 1 (CET1) (up from 2% in Basel II) of risk-weighted assets (RWAs). Since 2015, a minimum CET1 ratio of 4.5% must be maintained at all times by the bank. This ratio is calculated as follows:
+
+  
+    
+      
+        
+          
+            
+              CET1
+            
+            
+              RWAs
+            
+          
+        
+        ≥
+        4.5
+        %
+      
+    
+    {\displaystyle {\frac {\mbox{CET1}}{\mbox{RWAs}}}\geq 4.5\%}
+  The minimum Tier 1 capital increases from 4% in Basel II to 6%, applicable in 2015, over RWAs. This 6% is composed of 4.5% of CET1, plus an extra 1.5% of Additional Tier 1 (AT1).
+CET1 capital comprises shareholders equity (including audited profits), less deductions of accounting reserve that are not believed to be loss absorbing "today", including goodwill and other intangible assets. To prevent the potential of double-counting of capital across the economy, bank's holdings of other bank shares are also deducted.
+Furthermore, Basel III introduced two additional capital buffers:
+
+A mandatory "capital conservation buffer", equivalent to 2.5% of risk-weighted assets, phased in from 2017 and fully effective from 2019.
+A discretionary "counter-cyclical buffer" allowing national regulators to require up to an additional 2.5% of RWA as capital during periods of high credit growth. This must be met by CET1 capital.
+
+
+=== Leverage ratio ===
+Basel III introduced a minimum "leverage ratio" from 2018 based on a leverage exposure definition published in 2014. A revised exposure definition and a buffer for globally systemically important banks (G-SIBs) will be  effective from 2023.The ratio is calculated by dividing Tier 1 capital by the bank's leverage exposure. The leverage exposure is the sum of the exposures of all on-balance sheet assets, 'add-ons' for derivative exposures and securities financing transactions (SFTs), and credit conversion factors for off-balance sheet items. The ratio acts as a back-stop to the risk-based capital metrics. The banks are expected to maintain a leverage ratio in excess of 3% under Basel III.
+
+  
+    
+      
+        
+          
+            
+              Tier 1 Capital
+            
+            
+              Total exposure
+            
+          
+        
+        ≥
+        3
+        %
+      
+    
+    {\displaystyle {\frac {\mbox{Tier 1 Capital}}{\mbox{Total exposure}}}\geq 3\%}
+  For typical mortgage lenders, who underwrite assets of a low risk weighting, the leverage ratio will often be the binding capital metric.
+In 2013, the U.S. Federal Reserve announced that the minimum Basel III leverage ratio would be 5% for eight systemically important financial institution (SIFI) banks and 6% for their insured bank holding companies. In the EU, whilst banks have been required to disclose their leverage ratio since 2015, a binding requirement has not yet been implemented. The UK operates its own leverage ratio regime, with a binding minimum requirement for banks with deposits greater than £50bn of 3.25%. This higher minimum reflects the PRA's differing treatment of the leverage ratio, which excludes central bank reserves in 'Total exposure' of the calculation.
+
+
+=== Liquidity requirements ===
+Basel III introduced two required liquidity/funding ratios.
+The "Liquidity Coverage Ratio", which requires banks to hold sufficient high-quality liquid assets to cover its total net cash outflows over 30 days under a stressed scenario. Mathematically it is expressed as follows:
+  
+    
+      
+        L
+        C
+        R
+        =
+        
+          
+            
+              High quality liquid assets
+            
+            
+              Total net liquidity outflows over 30 days
+            
+          
+        
+        ≥
+        100
+        %
+      
+    
+    {\displaystyle LCR={\frac {\mbox{High quality liquid assets}}{\mbox{Total net liquidity outflows over 30 days}}}\geq 100\%}
+  The Net Stable Funding Ratio requires banks to hold sufficient stable funding to exceed the required amount of stable funding over a one-year period of extended stress.
+
+
+==== US version of the Basel Liquidity Coverage Ratio requirements ====
+In 2013, the Federal Reserve Board of Governors approved an interagency proposal for the U.S. version of the Basel Committee on Banking Supervision (BCBS)'s Liquidity Coverage Ratio (LCR). The ratio would apply to certain U.S. banking organizations and other systemically important financial institutions.The United States' LCR proposal came out significantly tougher than BCBS's version, especially for larger bank holding companies. The proposal requires financial institutions and FSOC designated nonbank financial companies to have an adequate stock of high-quality liquid assets (HQLA) that can be quickly liquidated to meet liquidity needs over a short period of time.
+The LCR consists of two parts: the numerator is the value of HQLA, and the denominator consists of the total net cash outflows over a specified stress period (total expected cash outflows minus total expected cash inflows).The Liquidity Coverage Ratio applies to U.S. banking operations with assets of more than $10 billion. The proposal would require:
+
+Large Bank Holding Companies (BHC) – those with over $250 billion in consolidated assets, or more in on-balance sheet foreign exposure, and to systemically important, non-bank financial institutions; to hold enough HQLA to cover 30 days of net cash outflow. That amount would be determined based on the peak cumulative amount within the 30-day period.
+Regional firms (those with between $50 and $250 billion in assets) would be subject to a "modified" LCR at the (BHC) level only. The modified LCR requires the regional firms to hold enough HQLA to cover 21 days of net cash outflow. The net cash outflow parameters are 70% of those applicable to the larger institutions and do not include the requirement to calculate the peak cumulative outflows
+Smaller BHCs, those under $50 billion, would remain subject to the prevailing qualitative supervisory framework.The US proposal divides qualifying HQLAs into three specific categories (Level 1, Level 2A, and Level 2B). Across the categories, the combination of Level 2A and 2B assets cannot exceed 40% HQLA with 2B assets limited to a maximum of 15% of HQLA.
+Level 1 represents assets that are highly liquid (generally those risk-weighted at 0% under the Basel III standardized approach for capital) and receive no haircut. Notably, the Fed chose not to include GSE-issued securities in Level 1, despite industry lobbying, on the basis that they are not guaranteed by the "full faith and credit" of the U.S. government.
+Level 2A assets generally include assets that would be subject to a 20% risk-weighting under Basel III and includes assets such as GSE-issued and -guaranteed securities. These assets would be subject to a 15% haircut which is similar to the treatment of such securities under the BCBS version.
+Level 2B assets include corporate debt and equity securities and are subject to a 50% haircut. The BCBS and U.S. version treats equities in a similar manner, but corporate debt under the BCBS version is split between 2A and 2B based on public credit ratings, unlike the U.S. proposal. This treatment of corporate debt securities is the direct impact of the Dodd–Frank Act's Section 939, which removed references to credit ratings, and further evidences the conservative bias of U.S. regulators' approach to the LCR.The proposal requires that the LCR be at least equal to or greater than 1.0 and includes a multiyear transition period that would require: 80% compliance starting 1 January 2015, 90% compliance starting 1 January 2016, and 100% compliance starting 1 January 2017.Lastly, the proposal requires both sets of firms (large bank holding companies and regional firms) subject to the LCR requirements to submit remediation plans to U.S. regulators to address what actions would be taken if the LCR falls below 100% for three or more consecutive days.
+
+
+=== Counterparty risk: CCPs and SA-CCR ===
+A new framework for exposures to CCPs was introduced in 2017.The standardised approach for counterparty credit risk (SA-CCR), which replaced the Current Exposure Method, became effective in 2017. SA-CCR is used to measure the potential future exposure of derivative transactions in the leverage exposure measure and non-modelled Risk Weighted Asset calculations.
+
+
+=== Equity investments ===
+Capital requirements for equity investments in funds were introduced in 2017.
+
+
+=== Large exposures ===
+A framework for limiting large exposure to external and internal counterparties was implemented in 2018.
+
+
+=== Securitisations ===
+A revised securitisation framework was introduced, which took effect in 2018.
+
+
+=== Banking Book ===
+New rules for interest rate risk in the banking book became effective in 2018.
+
+
+=== Market risk: FRTB ===
+
+Following a Fundamental Review of the Trading Book, minimum capital requirements for market risk in the trading book will be based on a better calibrated standardised approach or internal model approval (IMA) for an expected shortfall measure rather than, under Basel II, value at risk. The Basel Committee's oversight body, the Group of Central Bank Governors and Heads of Supervision (GHOS), announced in December 2017 that the implementation date of these reforms, which were originally set to be effective in 2019, was delayed to 1 January 2022. In March 2020, the implementation date was delayed to 1 January 2023.
+
+
+=== Basel III: Finalising post-crisis reforms ===
+
+The Basel 3.1 standards published in 2017 cover further reforms in six areas: standardised approach for credit risk (SA-CR); internal ratings based approach (IRB) for credit risk; CVA risk; operational risk; an output floor; and the leverage ratio. The GHOS announced in March 2020 that the implementation date of these reforms, which were originally set to be effective at the start of 2022, was delayed to 1 January 2023.
+
+
+== Implementation ==
+
+
+=== Summary of originally-proposed changes (2010) in Basel Committee language ===
+First, the quality, consistency, and transparency of the capital base will be raised.
+Tier 1 capital: the predominant form of Tier 1 capital must be common shares and retained earnings. This is subject to prudential deductions, including goodwill and intangible assets.
+Tier 2 capital: supplementary capital, however, the instruments will be harmonised.
+Tier 3 capital will be eliminated.
+Second, the risk coverage of the capital framework will be strengthened.
+Promote more integrated management of market and counterparty credit risk
+Add the credit valuation adjustment–risk due to deterioration in counterparty's credit rating
+Strengthen the capital requirements for counterparty credit exposures arising from banks' derivatives, repo and securities financing transactions
+Raise the capital buffers backing these exposures
+Reduce procyclicality and
+Provide additional incentives to move OTC derivative contracts to qualifying central counterparties (probably clearing houses). Currently, the BCBS has stated derivatives cleared with a QCCP will be risk-weighted at 2% (The rule is still yet to be finalized in the U.S.)
+Provide incentives to strengthen the risk management of counterparty credit exposures
+Raise counterparty credit risk management standards by including wrong-way risk
+Third, a leverage ratio will be introduced as a supplementary measure to the Basel II risk-based framework.
+intended to achieve the following objectives:
+Put a floor under the buildup of leverage in the banking sector
+Introduce additional safeguards against model risk and measurement error by supplementing the risk based measure with a simpler measure that is based on gross exposures.
+Fourth, a series of measures is introduced to promote the buildup of capital buffers in good times that can be drawn upon in periods of stress ("Reducing procyclicality and promoting countercyclical buffers").
+Measures to address procyclicality:
+Dampen excess cyclicality of the minimum capital requirement;
+Promote more forward looking provisions;
+Conserve capital to build buffers at individual banks and the banking sector that can be used in stress; and
+Achieve the broader macroprudential goal of protecting the banking sector from periods of excess credit growth.
+Requirement to use long-term data horizons to estimate probabilities of default,
+downturn loss-given-default estimates, recommended in Basel II, to become mandatory
+Improved calibration of the risk functions, which convert loss estimates into regulatory capital requirements.
+Banks must conduct stress tests that include widening credit spreads in recessionary scenarios.
+Promoting stronger provisioning practices (forward-looking provisioning):
+Advocating a change in the accounting standards towards an expected loss (EL) approach (usually, EL amount := LGD*PD*EAD).
+Fifth, a global minimum liquidity standard for internationally active banks is introduced that includes a 30-day liquidity coverage ratio requirement underpinned by a longer-term structural liquidity ratio called the Net Stable Funding Ratio. (In January 2012, the oversight panel of the Basel Committee on Banking Supervision issued a statement saying that regulators will allow banks to dip below their required liquidity levels, the liquidity coverage ratio, during periods of stress.)
+The committee also is reviewing the need for additional capital, liquidity or other supervisory measures to reduce the externalities created by systemically important institutions.As of September 2010, proposed Basel III norms asked for ratios as: 7–9.5% (4.5% + 2.5% (conservation buffer) + 0–2.5% (seasonal buffer)) for common equity and 8.5–11% for Tier 1 capital and 10.5–13% for total capital.On 15 April 2014, the Basel Committee on Banking Supervision (BCBS) released the final version of its "Supervisory Framework for Measuring and Controlling Large Exposures" (SFLE) that builds on longstanding BCBS guidance on credit exposure concentrations.On 3 September 2014, the U.S. banking agencies (Federal Reserve, Office of the Comptroller of the Currency, and Federal Deposit Insurance Corporation) issued their final rule implementing the Liquidity Coverage Ratio (LCR). The LCR is a short-term liquidity measure intended to ensure that banking organizations maintain a sufficient pool of liquid assets to cover net cash outflows over a 30-day stress period.
+On 11 March 2016, the Basel Committee on Banking Supervision released the second of three proposals on public disclosure of regulatory metrics and qualitative data by banking institutions. The proposal requires disclosures on market risk to be more granular for both the standardized approach and regulatory approval of internal models.
+
+
+=== US implementation ===
+The US Federal Reserve announced in December 2011 that it would implement substantially all of the Basel III rules. It summarized them as follows, and made clear they would apply not only to banks but also to all institutions with more than US$50 billion in assets:
+
+"Risk-based capital and leverage requirements" including first annual capital plans, conduct stress tests, and capital adequacy "including a tier one common risk-based capital ratio greater than 5 percent, under both expected and stressed conditions" – see scenario analysis on this.  A risk-based capital surcharge
+Market liquidity, first based on the United States' own "interagency liquidity risk-management guidance issued in March 2010" that require liquidity stress tests and set internal quantitative limits, later moving to a full Basel III regime  – see below.
+The Federal Reserve Board itself would conduct tests annually "using three economic and financial market scenarios". Institutions would be encouraged to use at least five scenarios reflecting improbable events, and especially those considered impossible by management, but no standards apply yet to extreme scenarios.  Only a summary of the three official Fed scenarios "including company-specific information, would be made public" but one or more internal company-run stress tests must be run each year with summaries published.
+Single-counterparty credit limits to cut "credit exposure of a covered financial firm to a single counterparty as a percentage of the firm's regulatory capital. Credit exposure between the largest financial companies would be subject to a tighter limit".
+"Early remediation requirements" to ensure that "financial weaknesses are addressed at an early stage". One or more "triggers for remediation—such as capital levels, stress test results, and risk-management weaknesses—in some cases calibrated to be forward-looking" would be proposed by the Board in 2012. "Required actions would vary based on the severity of the situation, but could include restrictions on growth, capital distributions, and executive compensation, as well as capital raising or asset sales".
+In April 2020, in response to the COVID-19 pandemic, the Federal Reserve announced a temporary reduction of the Supplementary Leverage Ratio (applicable to financial institutions with more than $250 billion in consolidated assets) from 3% to 2%, effective until 31 March 2021. On 19 March 2021 the Federal Reserve announced that the year-long emergency relief would not be renewed at the end of the month.As of January 2014, the United States has been on track to implement many of the Basel III rules, despite differences in ratio requirements and calculations.
+
+
+=== European implementation ===
+
+The implementing act of the Basel III agreements in the European Union has been the new legislative package comprising Directive 2013/36/EU (CRD IV) and Regulation (EU) No. 575/2013 on prudential requirements for credit institutions and investment firms (CRR).The new package, approved in 2013, replaced the Capital Requirements Directives (2006/48 and 2006/49).On 7 December 2017, ECB chief Mario Draghi declared that for the banks of the European Union, the Basel III reforms were complete.
+
+
+=== Key milestones ===
+
+
+==== Capital requirements ====
+
+
+==== Leverage ratio ====
+
+
+==== Liquidity requirements ====
+
+
+== Analysis of Basel III impact ==
+In the United States higher capital requirements resulted in contractions in trading operations and the number of personnel employed on trading floors.
+
+
+=== Macroeconomic impact ===
+An OECD study, released on 17 February 2011, estimated that the medium-term impact of Basel III implementation on GDP growth would be in the range of −0.05% to −0.15% per year. Economic output would be mainly affected by an increase in bank lending spreads, as banks pass a rise in bank funding costs, due to higher capital requirements, to their customers. To meet the capital requirements originally effective in 2015 banks were estimated to increase their lending spreads on average by about 15 basis points. Capital requirements effective as of 2019 (7% for the common equity ratio, 8.5% for the Tier 1 capital ratio) could increase bank lending spreads by about 50 basis points. The estimated effects on GDP growth assume no active response from monetary policy. To the extent that monetary policy would no longer be constrained by the zero lower bound, the Basel III impact on economic output could be offset by a reduction (or delayed increase) in monetary policy rates by about 30 to 80 basis points.Basel III was also criticized as negatively affecting the stability of the financial system by increasing incentives of banks to game the regulatory framework. Notwithstanding the enhancement introduced by the Basel III standard, it argued that "markets often fail to discipline large banks to hold prudent capital levels and make sound investment decisions".
+
+
+=== Criticism ===
+Think tanks such as the World Pensions Council have argued that Basel III merely builds on and further expands the existing Basel II regulatory base without fundamentally questioning its core tenets, notably the ever-growing reliance on standardized assessments of "credit risk" marketed by two private sector agencies- Moody's and S&P, thus using public policy to strengthen anti-competitive duopolistic practices.  The conflicted and unreliable credit ratings of these agencies is generally seen as a major contributor to the US housing bubble. Academics have criticized Basel III for continuing to allow large banks to calculate credit risk using internal models and for setting overall minimum capital requirements too low.Opaque treatment of all derivatives contracts is also criticized.  While institutions have many legitimate ("hedging", "insurance") risk reduction reasons to deal in derivatives, the Basel III accords:
+
+treat insurance buyers and sellers equally even though sellers take on more concentrated risks (literally purchasing them) which they are then expected to offset correctly without regulation
+do not require organizations to investigate correlations of all internal risks they own
+do not tax or charge institutions for the systematic or aggressive externalization or conflicted marketing of risk—other than requiring an orderly unravelling of derivatives in a crisis and stricter record keepingSince derivatives present major unknowns in a crisis these are seen as major failings by some critics  causing several to claim that the "too big to fail" status remains with respect to major derivatives dealers who aggressively took on risk of an event they did not believe would happen—but did.  As Basel III does not absolutely require extreme scenarios that management flatly rejects to be included in stress testing this remains a vulnerability.
+A few critics argue that capitalization regulation is inherently fruitless due to these and similar problems and—despite an opposite ideological view of regulation—agree that "too big to fail" persists.Basel III has been criticized similarly for its paper burden and risk inhibition by banks, organized in the Institute of International Finance, an international association of global banks based in Washington, D.C., who argue that it would "hurt" both their business and overall economic growth.  Basel III was also criticized as negatively affecting the stability of the financial system by increasing incentives of banks to game the regulatory framework. 
+The American Bankers Association, community banks organized in the Independent Community Bankers of America, and others voiced opposition to Basel III in their comments to the Federal Deposit Insurance Corporation, saying that the Basel III proposals, if implemented, would hurt small banks by increasing "their capital holdings dramatically on mortgage and small business loans".Former US Secretary of Labor and Professor of Economics at the University of California, Berkeley Robert Reich has argued that Basel III did not go far enough to regulate banks since, he believed, inadequate regulation was a cause of the global financial crisis  and remains an unresolved issue despite the severity of the impact of the Great Recession. In 2019, American investor Michael Burry criticized Basel III for what he characterizes as "more or less remov[ing] price discovery from the credit markets, meaning risk does not have an accurate pricing mechanism in interest rates anymore."Before the enactment of Basel III in 2011, the Institute of International Finance (IIF, a Washington, D.C.–based, 450-member banking trade association), argued against the implementation of the accords, claiming it would hurt banks and economic growth. The American Banker's Association, community banks organized in the Independent Community Bankers of America, and some of the most liberal Democrats in the U.S. Congress, including the entire Maryland congressional delegation with Democratic Sens. Cardin and Mikulski and Reps. Van Hollen and Cummings, voiced opposition to Basel III in their comments submitted to FDIC, saying that the Basel III proposals, if implemented, would hurt small banks by increasing "their capital holdings dramatically on mortgage and small business loans."In January 2013 the global banking sector won a significant easing of Basel III rules, when the BCBS extended not only the implementation schedule to 2019, but broadened the definition of liquid assets.  In December 2017, the Basel Committee's oversight body, the Group of Central Bank Governors and Heads of Supervision (GHOS), extended the implementation of the market risk framework from 2019 to 1 January 2022. In March 2020, implementation of the Basel III: Finalising post-crisis reforms, the market risk framework, and the revised Pillar 3 disclosure requirements were extended by one year, to 1 January 2023.
+
+
+== See also ==
+Basel I
+
+
+== References ==
+
+
+== External links ==
+Basel III capital rules
+Basel III liquidity rules
+Bank Management and Control, Springer Nature – Management for Professionals, 2020
+U.S. Implementation of the Basel Capital Regulatory Framework Congressional Research Service
+Securitized Products Risk Charges: Going Beyond on SSFA
+Basel III in India
+How Basel III Affects SME Borrowing Capacity

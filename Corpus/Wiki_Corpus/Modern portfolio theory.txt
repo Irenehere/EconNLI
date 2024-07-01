@@ -1,0 +1,2255 @@
+Modern portfolio theory (MPT), or mean-variance analysis, is a mathematical framework for assembling a portfolio of assets such that the expected return is maximized for a given level of risk. It is a formalization and extension of diversification in investing, the idea that owning different kinds of financial assets is less risky than owning only one type. Its key insight is that an asset's risk and return should not be assessed by itself, but by how it contributes to a portfolio's overall risk and return. It uses the past variance of asset prices as a proxy for future risk.Economist Harry Markowitz introduced MPT in a 1952 essay, for which he was later awarded a Nobel Memorial Prize in Economic Sciences; see Markowitz model.
+
+
+== Mathematical model ==
+
+
+=== Risk and expected return ===
+MPT assumes that investors are risk averse, meaning that given two portfolios that offer the same expected return, investors will prefer the less risky one.  Thus, an investor will take on increased risk only if compensated by higher expected returns. Conversely, an investor who wants higher expected returns must accept more risk. The exact trade-off will not be the same for all investors. Different investors will evaluate the trade-off differently based on individual risk aversion characteristics.  The implication is that a rational investor will not invest in a portfolio if a second portfolio exists with a more favorable risk-expected return profile—i.e., if for that level of risk an alternative portfolio exists that has better expected returns.
+Under the model:
+
+Portfolio return is the proportion-weighted combination of the constituent assets' returns.
+Portfolio return volatility 
+  
+    
+      
+        
+          σ
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}}
+   is a function of the correlations ρij of the component assets, for all asset pairs (i, j). The volatility gives insight into the risk which is associated with the investment. The higher the volatility, the higher the risk.
+In general:
+
+Expected return:
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          R
+          
+            p
+          
+        
+        )
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          w
+          
+            i
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+        
+      
+    
+    {\displaystyle \operatorname {E} (R_{p})=\sum _{i}w_{i}\operatorname {E} (R_{i})\quad }
+  where 
+  
+    
+      
+        
+          R
+          
+            p
+          
+        
+      
+    
+    {\displaystyle R_{p}}
+   is the return on the portfolio, 
+  
+    
+      
+        
+          R
+          
+            i
+          
+        
+      
+    
+    {\displaystyle R_{i}}
+   is the return on asset i and 
+  
+    
+      
+        
+          w
+          
+            i
+          
+        
+      
+    
+    {\displaystyle w_{i}}
+   is the weighting of component asset 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   (that is, the proportion of asset "i" in the portfolio, so that 
+  
+    
+      
+        
+          ∑
+          
+            i
+          
+        
+        
+          w
+          
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \sum _{i}w_{i}=1}
+  ).Portfolio return variance:
+  
+    
+      
+        
+          σ
+          
+            p
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          w
+          
+            i
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            i
+          
+          
+            2
+          
+        
+        +
+        
+          ∑
+          
+            i
+          
+        
+        
+          ∑
+          
+            j
+            ≠
+            i
+          
+        
+        
+          w
+          
+            i
+          
+        
+        
+          w
+          
+            j
+          
+        
+        
+          σ
+          
+            i
+          
+        
+        
+          σ
+          
+            j
+          
+        
+        
+          ρ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}^{2}=\sum _{i}w_{i}^{2}\sigma _{i}^{2}+\sum _{i}\sum _{j\neq i}w_{i}w_{j}\sigma _{i}\sigma _{j}\rho _{ij}}
+  ,
+where 
+  
+    
+      
+        
+          σ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sigma _{i}}
+   is the (sample) standard deviation of the periodic returns on an asset i, and 
+  
+    
+      
+        
+          ρ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \rho _{ij}}
+   is the correlation coefficient between the returns on assets i and j. Alternatively the expression can be written as:
+  
+    
+      
+        
+          σ
+          
+            p
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ∑
+          
+            j
+          
+        
+        
+          w
+          
+            i
+          
+        
+        
+          w
+          
+            j
+          
+        
+        
+          σ
+          
+            i
+          
+        
+        
+          σ
+          
+            j
+          
+        
+        
+          ρ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}^{2}=\sum _{i}\sum _{j}w_{i}w_{j}\sigma _{i}\sigma _{j}\rho _{ij}}
+  ,
+where 
+  
+    
+      
+        
+          ρ
+          
+            i
+            j
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \rho _{ij}=1}
+   for 
+  
+    
+      
+        i
+        =
+        j
+      
+    
+    {\displaystyle i=j}
+   , or
+  
+    
+      
+        
+          σ
+          
+            p
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          ∑
+          
+            j
+          
+        
+        
+          w
+          
+            i
+          
+        
+        
+          w
+          
+            j
+          
+        
+        
+          σ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}^{2}=\sum _{i}\sum _{j}w_{i}w_{j}\sigma _{ij}}
+  ,
+where 
+  
+    
+      
+        
+          σ
+          
+            i
+            j
+          
+        
+        =
+        
+          σ
+          
+            i
+          
+        
+        
+          σ
+          
+            j
+          
+        
+        
+          ρ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \sigma _{ij}=\sigma _{i}\sigma _{j}\rho _{ij}}
+   is the (sample) covariance of the periodic returns on the two assets, or alternatively denoted as 
+  
+    
+      
+        σ
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle \sigma (i,j)}
+  , 
+  
+    
+      
+        
+          
+            cov
+          
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle {\text{cov}}_{ij}}
+   or 
+  
+    
+      
+        
+          cov
+        
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle {\text{cov}}(i,j)}
+  .Portfolio return volatility (standard deviation):
+  
+    
+      
+        
+          σ
+          
+            p
+          
+        
+        =
+        
+          
+            
+              σ
+              
+                p
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}={\sqrt {\sigma _{p}^{2}}}}
+  For a two-asset portfolio:
+
+Portfolio return: 
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          R
+          
+            p
+          
+        
+        )
+        =
+        
+          w
+          
+            A
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            A
+          
+        
+        )
+        +
+        
+          w
+          
+            B
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            B
+          
+        
+        )
+        =
+        
+          w
+          
+            A
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            A
+          
+        
+        )
+        +
+        (
+        1
+        −
+        
+          w
+          
+            A
+          
+        
+        )
+        E
+        ⁡
+        (
+        
+          R
+          
+            B
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {E} (R_{p})=w_{A}\operatorname {E} (R_{A})+w_{B}\operatorname {E} (R_{B})=w_{A}\operatorname {E} (R_{A})+(1-w_{A})\operatorname {E} (R_{B}).}
+  
+Portfolio variance: 
+  
+    
+      
+        
+          σ
+          
+            p
+          
+          
+            2
+          
+        
+        =
+        
+          w
+          
+            A
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            A
+          
+          
+            2
+          
+        
+        +
+        
+          w
+          
+            B
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            B
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          w
+          
+            A
+          
+        
+        
+          w
+          
+            B
+          
+        
+        
+          σ
+          
+            A
+          
+        
+        
+          σ
+          
+            B
+          
+        
+        
+          ρ
+          
+            A
+            B
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}^{2}=w_{A}^{2}\sigma _{A}^{2}+w_{B}^{2}\sigma _{B}^{2}+2w_{A}w_{B}\sigma _{A}\sigma _{B}\rho _{AB}}
+  For a three-asset portfolio:
+
+Portfolio return: 
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          R
+          
+            p
+          
+        
+        )
+        =
+        
+          w
+          
+            A
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            A
+          
+        
+        )
+        +
+        
+          w
+          
+            B
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            B
+          
+        
+        )
+        +
+        
+          w
+          
+            C
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            C
+          
+        
+        )
+      
+    
+    {\displaystyle \operatorname {E} (R_{p})=w_{A}\operatorname {E} (R_{A})+w_{B}\operatorname {E} (R_{B})+w_{C}\operatorname {E} (R_{C})}
+  
+Portfolio variance: 
+  
+    
+      
+        
+          σ
+          
+            p
+          
+          
+            2
+          
+        
+        =
+        
+          w
+          
+            A
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            A
+          
+          
+            2
+          
+        
+        +
+        
+          w
+          
+            B
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            B
+          
+          
+            2
+          
+        
+        +
+        
+          w
+          
+            C
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            C
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          w
+          
+            A
+          
+        
+        
+          w
+          
+            B
+          
+        
+        
+          σ
+          
+            A
+          
+        
+        
+          σ
+          
+            B
+          
+        
+        
+          ρ
+          
+            A
+            B
+          
+        
+        +
+        2
+        
+          w
+          
+            A
+          
+        
+        
+          w
+          
+            C
+          
+        
+        
+          σ
+          
+            A
+          
+        
+        
+          σ
+          
+            C
+          
+        
+        
+          ρ
+          
+            A
+            C
+          
+        
+        +
+        2
+        
+          w
+          
+            B
+          
+        
+        
+          w
+          
+            C
+          
+        
+        
+          σ
+          
+            B
+          
+        
+        
+          σ
+          
+            C
+          
+        
+        
+          ρ
+          
+            B
+            C
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}^{2}=w_{A}^{2}\sigma _{A}^{2}+w_{B}^{2}\sigma _{B}^{2}+w_{C}^{2}\sigma _{C}^{2}+2w_{A}w_{B}\sigma _{A}\sigma _{B}\rho _{AB}+2w_{A}w_{C}\sigma _{A}\sigma _{C}\rho _{AC}+2w_{B}w_{C}\sigma _{B}\sigma _{C}\rho _{BC}}
+  
+
+
+=== Diversification ===
+An investor can reduce portfolio risk (especially 
+  
+    
+      
+        
+          σ
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \sigma _{p}}
+  ) simply by holding combinations of instruments that are not perfectly positively correlated (correlation coefficient 
+  
+    
+      
+        −
+        1
+        ≤
+        
+          ρ
+          
+            i
+            j
+          
+        
+        <
+        1
+      
+    
+    {\displaystyle -1\leq \rho _{ij}<1}
+  ). In other words, investors can reduce their exposure to individual asset risk by holding a diversified portfolio of assets.  Diversification may allow for the same portfolio expected return with reduced risk. The mean-variance framework for constructing optimal investment portfolios was first posited by Markowitz and has since been reinforced and improved by other economists and mathematicians who went on to account for the limitations of the framework.
+If all the asset pairs have correlations of 0—they are perfectly uncorrelated—the portfolio's return variance is the sum over all assets of the square of the fraction held in the asset times the asset's return variance (and the portfolio standard deviation is the square root of this sum).
+If all the asset pairs have correlations of 1—they are perfectly positively correlated—then the portfolio return’s standard deviation is the sum of the asset returns’ standard deviations weighted by the fractions held in the portfolio. For given portfolio weights and given standard deviations of asset returns, the case of all correlations being 1 gives the highest possible standard deviation of portfolio return.
+
+
+=== Efficient frontier with no risk-free asset ===
+
+The MPT is a mean-variance theory, and it compares the expected (mean) return of a portfolio with the standard deviation of the same portfolio. The image shows expected return on the vertical axis, and the standard deviation on the horizontal axis (volatility). Volatility is described by standard deviation and it serves as a measure of risk. The return - standard deviation space is sometimes called the space of 'expected return vs risk'.  Every possible combination of risky assets, can be plotted in this risk-expected return space, and the collection of all such possible portfolios defines a region in this space. The left boundary of this region is hyperbolic, and the upper part of the hyperbolic boundary is the efficient frontier in the absence of a risk-free asset (sometimes called "the Markowitz bullet"). Combinations along this upper edge represent portfolios (including no holdings of the risk-free asset) for which there is lowest risk for a given level of expected return.  Equivalently, a portfolio lying on the efficient frontier represents the combination offering the best possible expected return for given risk level. The tangent to the upper part of the hyperbolic boundary is the capital allocation line (CAL).
+
+Matrices are preferred for calculations of the efficient frontier.
+In matrix form, for a given "risk tolerance" 
+  
+    
+      
+        q
+        ∈
+        [
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\displaystyle q\in [0,\infty )}
+  , the efficient frontier is found by minimizing the following expression:
+
+  
+    
+      
+        
+          w
+          
+            T
+          
+        
+        Σ
+        w
+        −
+        q
+        ×
+        
+          R
+          
+            T
+          
+        
+        w
+      
+    
+    {\displaystyle w^{T}\Sigma w-q\times R^{T}w}
+  where
+
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   is a vector of portfolio weights and 
+  
+    
+      
+        
+          ∑
+          
+            i
+          
+        
+        
+          w
+          
+            i
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle \sum _{i}w_{i}=1.}
+   (The weights can be negative);
+
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   is the covariance matrix for the returns on the assets in the portfolio;
+
+  
+    
+      
+        q
+        ≥
+        0
+      
+    
+    {\displaystyle q\geq 0}
+   is a "risk tolerance" factor, where 0 results in the portfolio with minimal risk and 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+   results in the portfolio infinitely far out on the frontier with both expected return and risk unbounded; and
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is a vector of expected returns.
+
+  
+    
+      
+        
+          w
+          
+            T
+          
+        
+        Σ
+        w
+      
+    
+    {\displaystyle w^{T}\Sigma w}
+   is the variance of portfolio return.
+
+  
+    
+      
+        
+          R
+          
+            T
+          
+        
+        w
+      
+    
+    {\displaystyle R^{T}w}
+   is the expected return on the portfolio.The above optimization finds the point on the frontier at which the inverse of the slope of the frontier would be q if portfolio return variance instead of standard deviation were plotted horizontally.  The frontier in its entirety is parametric on q.
+Harry Markowitz developed a specific procedure for solving the above problem, called the critical line algorithm, that can handle additional linear constraints, upper and lower bounds on assets, and which is proved to work with a semi-positive definite covariance matrix. Examples of implementation of the critical line algorithm exist in Visual Basic for Applications, in JavaScript and in a few other languages.
+Also, many software packages, including MATLAB, Microsoft Excel, Mathematica and R, provide generic optimization routines so that using these for solving the above problem is possible, with potential caveats (poor numerical accuracy, requirement of positive definiteness of the covariance matrix...).
+An alternative approach to specifying the efficient frontier is to do so parametrically on the expected portfolio return 
+  
+    
+      
+        
+          R
+          
+            T
+          
+        
+        w
+        .
+      
+    
+    {\displaystyle R^{T}w.}
+    This version of the problem requires that we minimize
+
+  
+    
+      
+        
+          w
+          
+            T
+          
+        
+        Σ
+        w
+      
+    
+    {\displaystyle w^{T}\Sigma w}
+  subject to
+
+  
+    
+      
+        
+          R
+          
+            T
+          
+        
+        w
+        =
+        μ
+      
+    
+    {\displaystyle R^{T}w=\mu }
+  for parameter 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  .  This problem is easily solved using a Lagrange multiplier which leads to the following linear system of equations:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  2
+                  Σ
+                
+                
+                  −
+                  R
+                
+                
+                  −
+                  
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    R
+                    
+                      T
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  
+                    
+                      
+                        1
+                      
+                    
+                    
+                      T
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  w
+                
+              
+              
+                
+                  
+                    λ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    λ
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  0
+                
+              
+              
+                
+                  μ
+                
+              
+              
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}2\Sigma &-R&-{\bf {1}}\\R^{T}&0&0\\{\bf {1}}^{T}&0&0\end{bmatrix}}{\begin{bmatrix}w\\\lambda _{1}\\\lambda _{2}\end{bmatrix}}={\begin{bmatrix}0\\\mu \\1\end{bmatrix}}}
+  
+
+
+=== Two mutual fund theorem ===
+One key result of the above analysis is the two mutual fund theorem.  This theorem states that any portfolio on the efficient frontier can be generated by holding a combination of any two given portfolios on the frontier; the latter two given portfolios are the "mutual funds" in the theorem's name.  So in the absence of a risk-free asset, an investor can achieve any desired efficient portfolio even if all that is accessible is a pair of efficient mutual funds. If the location of the desired portfolio on the frontier is between the locations of the two mutual funds, both mutual funds will be held in positive quantities. If the desired portfolio is outside the range spanned by the two mutual funds, then one of the mutual funds must be sold short (held in negative quantity) while the size of the investment in the other mutual fund must be greater than the amount available for investment (the excess being funded by the borrowing from the other fund).
+
+
+=== Risk-free asset and the capital allocation line ===
+
+The risk-free asset is the (hypothetical) asset that pays a risk-free rate. In practice, short-term government securities (such as US treasury bills) are used as a risk-free asset, because they pay a fixed rate of interest and have exceptionally low default risk. The risk-free asset has zero variance in returns (hence is risk-free); it is also uncorrelated with any other asset (by definition, since its variance is zero). As a result, when it is combined with any other asset or portfolio of assets, the change in return is linearly related to the change in risk as the proportions in the combination vary.
+When a risk-free asset is introduced, the half-line shown in the figure is the new efficient frontier. It is tangent to the hyperbola at the pure risky portfolio with the highest Sharpe ratio.  Its vertical intercept represents a portfolio with 100% of holdings in the risk-free asset;  the tangency with the hyperbola represents a portfolio with no risk-free holdings and 100% of assets held in the portfolio occurring at the tangency point; points between those points are portfolios containing positive amounts of both the risky tangency portfolio and the risk-free asset; and points on the half-line beyond the tangency point are portfolios involving negative holdings of the risk-free asset and an amount invested in the tangency portfolio equal to more than 100% of the investor's initial capital.  This efficient half-line is called the capital allocation line (CAL), and its formula can be shown to be
+
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            C
+          
+        
+        )
+        =
+        
+          R
+          
+            F
+          
+        
+        +
+        
+          σ
+          
+            C
+          
+        
+        
+          
+            
+              E
+              (
+              
+                R
+                
+                  P
+                
+              
+              )
+              −
+              
+                R
+                
+                  F
+                
+              
+            
+            
+              σ
+              
+                P
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E(R_{C})=R_{F}+\sigma _{C}{\frac {E(R_{P})-R_{F}}{\sigma _{P}}}.}
+  In this formula P is the sub-portfolio of risky assets at the tangency with the Markowitz bullet, F is the risk-free asset, and C is a combination of portfolios P and F.
+By the diagram, the introduction of the risk-free asset as a possible component of the portfolio has improved the range of risk-expected return combinations available, because everywhere except at the tangency portfolio the half-line gives a higher expected return than the hyperbola does at every possible risk level.  The fact that all points on the linear efficient locus can be achieved by a combination of holdings of the risk-free asset and the tangency portfolio is known as the one mutual fund theorem, where the mutual fund referred to is the tangency portfolio.
+
+
+== Asset pricing ==
+The above analysis describes optimal behavior of an individual investor. Asset pricing theory builds on this analysis in the following way.  Since everyone holds the risky assets in identical proportions to each other—namely in the proportions given by the tangency portfolio—in market equilibrium the risky assets' prices, and therefore their expected returns, will adjust so that the ratios in the tangency portfolio are the same as the ratios in which the risky assets are supplied to the market.  Thus relative supplies will equal relative demands. MPT derives the required expected return for a correctly priced asset in this context.
+
+
+=== Systematic risk and specific risk ===
+Specific risk is the risk associated with individual assets - within a portfolio these risks can be reduced through diversification (specific risks "cancel out"). Specific risk is also called diversifiable, unique, unsystematic, or idiosyncratic risk. Systematic risk (a.k.a. portfolio risk or market risk) refers to the risk common to all securities—except for selling short as noted below, systematic risk cannot be diversified away (within one market). Within the market portfolio, asset specific risk will be diversified away to the extent possible. Systematic risk is therefore equated with the risk (standard deviation) of the market portfolio.
+Since a security will be purchased only if it improves the risk-expected return characteristics of the market portfolio, the relevant measure of the risk of a security is the risk it adds to the market portfolio, and not its risk in isolation.
+In this context, the volatility of the asset, and its correlation with the market portfolio, are historically observed and are therefore given. (There are several approaches to asset pricing that attempt to price assets by modelling the stochastic properties of the moments of assets' returns - these are broadly referred to as conditional asset pricing models.)
+Systematic risks within one market can be managed through a strategy of using both long and short positions within one portfolio, creating a "market neutral" portfolio. Market neutral portfolios, therefore, will be uncorrelated with broader market indices.
+
+
+=== Capital asset pricing model ===
+
+The asset return depends on the amount paid for the asset today. The price paid must ensure that the market portfolio's risk / return characteristics improve when the asset is added to it. The CAPM is a model that derives the theoretical required expected return (i.e., discount rate) for an asset in a market, given the risk-free rate available to investors and the risk of the market as a whole. The CAPM is usually expressed:
+
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+        =
+        
+          R
+          
+            f
+          
+        
+        +
+        
+          β
+          
+            i
+          
+        
+        (
+        E
+        ⁡
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+      
+    
+    {\displaystyle \operatorname {E} (R_{i})=R_{f}+\beta _{i}(\operatorname {E} (R_{m})-R_{f})}
+  β, Beta, is the measure of asset sensitivity to a movement in the overall market; Beta is usually found via regression on historical data. Betas exceeding one signify more than average "riskiness" in the sense of the asset's contribution to overall portfolio risk; betas below one indicate a lower than average risk contribution.
+
+  
+    
+      
+        (
+        E
+        ⁡
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+      
+    
+    {\displaystyle (\operatorname {E} (R_{m})-R_{f})}
+   is the market premium, the expected excess return of the market portfolio's expected return over the risk-free rate.The derivation is as follows: 
+
+(1) The incremental impact on risk and expected return when an additional risky asset, a, is added to the market portfolio, m, follows from the formulae for a two-asset portfolio. These results are used to derive the asset-appropriate discount rate.
+
+Updated market portfolio's risk = 
+  
+    
+      
+        (
+        
+          w
+          
+            m
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            m
+          
+          
+            2
+          
+        
+        +
+        [
+        
+          w
+          
+            a
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          w
+          
+            m
+          
+        
+        
+          w
+          
+            a
+          
+        
+        
+          ρ
+          
+            a
+            m
+          
+        
+        
+          σ
+          
+            a
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle (w_{m}^{2}\sigma _{m}^{2}+[w_{a}^{2}\sigma _{a}^{2}+2w_{m}w_{a}\rho _{am}\sigma _{a}\sigma _{m}])}
+  Hence, risk added to portfolio =  
+  
+    
+      
+        [
+        
+          w
+          
+            a
+          
+          
+            2
+          
+        
+        
+          σ
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        2
+        
+          w
+          
+            m
+          
+        
+        
+          w
+          
+            a
+          
+        
+        
+          ρ
+          
+            a
+            m
+          
+        
+        
+          σ
+          
+            a
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+      
+    
+    {\displaystyle [w_{a}^{2}\sigma _{a}^{2}+2w_{m}w_{a}\rho _{am}\sigma _{a}\sigma _{m}]}
+  
+but since the weight of the asset will be relatively low, 
+  
+    
+      
+        
+          w
+          
+            a
+          
+          
+            2
+          
+        
+        ≈
+        0
+      
+    
+    {\displaystyle w_{a}^{2}\approx 0}
+  
+i.e. additional risk = 
+  
+    
+      
+        [
+        2
+        
+          w
+          
+            m
+          
+        
+        
+          w
+          
+            a
+          
+        
+        
+          ρ
+          
+            a
+            m
+          
+        
+        
+          σ
+          
+            a
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+        
+      
+    
+    {\displaystyle [2w_{m}w_{a}\rho _{am}\sigma _{a}\sigma _{m}]\quad }
+  Market portfolio's expected return = 
+  
+    
+      
+        (
+        
+          w
+          
+            m
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        +
+        [
+        
+          w
+          
+            a
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            a
+          
+        
+        )
+        ]
+        )
+      
+    
+    {\displaystyle (w_{m}\operatorname {E} (R_{m})+[w_{a}\operatorname {E} (R_{a})])}
+  Hence additional expected return = 
+  
+    
+      
+        [
+        
+          w
+          
+            a
+          
+        
+        E
+        ⁡
+        (
+        
+          R
+          
+            a
+          
+        
+        )
+        ]
+      
+    
+    {\displaystyle [w_{a}\operatorname {E} (R_{a})]}
+  (2) If an asset, a, is correctly priced, the improvement in its risk-to-expected return ratio achieved by adding it to the market portfolio, m, will at least match the gains of spending that money on an increased stake in the market portfolio. The assumption is that the investor will purchase the asset with funds borrowed at the risk-free rate, 
+  
+    
+      
+        
+          R
+          
+            f
+          
+        
+      
+    
+    {\displaystyle R_{f}}
+  ; this is rational if 
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          R
+          
+            a
+          
+        
+        )
+        >
+        
+          R
+          
+            f
+          
+        
+      
+    
+    {\displaystyle \operatorname {E} (R_{a})>R_{f}}
+  .
+
+Thus: 
+  
+    
+      
+        [
+        
+          w
+          
+            a
+          
+        
+        (
+        E
+        ⁡
+        (
+        
+          R
+          
+            a
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+        ]
+        
+          /
+        
+        [
+        2
+        
+          w
+          
+            m
+          
+        
+        
+          w
+          
+            a
+          
+        
+        
+          ρ
+          
+            a
+            m
+          
+        
+        
+          σ
+          
+            a
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+        =
+        [
+        
+          w
+          
+            a
+          
+        
+        (
+        E
+        ⁡
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+        ]
+        
+          /
+        
+        [
+        2
+        
+          w
+          
+            m
+          
+        
+        
+          w
+          
+            a
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+      
+    
+    {\displaystyle [w_{a}(\operatorname {E} (R_{a})-R_{f})]/[2w_{m}w_{a}\rho _{am}\sigma _{a}\sigma _{m}]=[w_{a}(\operatorname {E} (R_{m})-R_{f})]/[2w_{m}w_{a}\sigma _{m}\sigma _{m}]}
+  
+i.e. :  
+  
+    
+      
+        [
+        E
+        ⁡
+        (
+        
+          R
+          
+            a
+          
+        
+        )
+        ]
+        =
+        
+          R
+          
+            f
+          
+        
+        +
+        [
+        E
+        ⁡
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        ]
+        ∗
+        [
+        
+          ρ
+          
+            a
+            m
+          
+        
+        
+          σ
+          
+            a
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+        
+          /
+        
+        [
+        
+          σ
+          
+            m
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        ]
+      
+    
+    {\displaystyle [\operatorname {E} (R_{a})]=R_{f}+[\operatorname {E} (R_{m})-R_{f}]*[\rho _{am}\sigma _{a}\sigma _{m}]/[\sigma _{m}\sigma _{m}]}
+  
+i.e. :  
+  
+    
+      
+        [
+        E
+        ⁡
+        (
+        
+          R
+          
+            a
+          
+        
+        )
+        ]
+        =
+        
+          R
+          
+            f
+          
+        
+        +
+        [
+        E
+        ⁡
+        (
+        
+          R
+          
+            m
+          
+        
+        )
+        −
+        
+          R
+          
+            f
+          
+        
+        ]
+        ∗
+        [
+        
+          σ
+          
+            a
+            m
+          
+        
+        ]
+        
+          /
+        
+        [
+        
+          σ
+          
+            m
+            m
+          
+        
+        ]
+      
+    
+    {\displaystyle [\operatorname {E} (R_{a})]=R_{f}+[\operatorname {E} (R_{m})-R_{f}]*[\sigma _{am}]/[\sigma _{mm}]}
+  
+  
+    
+      
+        [
+        
+          σ
+          
+            a
+            m
+          
+        
+        ]
+        
+          /
+        
+        [
+        
+          σ
+          
+            m
+            m
+          
+        
+        ]
+        
+      
+    
+    {\displaystyle [\sigma _{am}]/[\sigma _{mm}]\quad }
+    is the "beta", 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   return— the covariance between the asset's return and the market's return divided by the variance of the market return— i.e. the sensitivity of the asset price to movement in the market portfolio's value (see also Beta (finance) § Adding an asset to the market portfolio).
+This equation can be estimated statistically using the following regression equation:
+
+  
+    
+      
+        
+          S
+          C
+          L
+        
+        :
+        
+          R
+          
+            i
+            ,
+            t
+          
+        
+        −
+        
+          R
+          
+            f
+          
+        
+        =
+        
+          α
+          
+            i
+          
+        
+        +
+        
+          β
+          
+            i
+          
+        
+        
+        (
+        
+          R
+          
+            M
+            ,
+            t
+          
+        
+        −
+        
+          R
+          
+            f
+          
+        
+        )
+        +
+        
+          ϵ
+          
+            i
+            ,
+            t
+          
+        
+        
+          
+            
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SCL} :R_{i,t}-R_{f}=\alpha _{i}+\beta _{i}\,(R_{M,t}-R_{f})+\epsilon _{i,t}{\frac {}{}}}
+  where αi is called the asset's alpha, βi is the asset's beta coefficient and SCL is the security characteristic line.
+Once an asset's expected return, 
+  
+    
+      
+        E
+        (
+        
+          R
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle E(R_{i})}
+  , is calculated using CAPM, the future cash flows of the asset can be discounted to their present value using this rate to establish the correct price for the asset. A riskier stock will have a higher beta and will be discounted at a higher rate; less sensitive stocks will have lower betas and be discounted at a lower rate. In theory, an asset is correctly priced when its observed price is the same as its value calculated using the CAPM derived discount rate. If the observed price is higher than the valuation, then the asset is overvalued; it is undervalued for a too low price.
+
+
+== Criticisms ==
+Despite its theoretical importance, critics of MPT question whether it is an ideal investment tool, because its model of financial markets does not match the real world in many ways.The risk, return, and correlation measures used by MPT are based on expected values, which means that they are statistical statements about the future (the expected value of returns is explicit in the above equations, and implicit in the definitions of variance and covariance). Such measures often cannot capture the true statistical features of the risk and return which often follow highly skewed distributions (e.g. the log-normal distribution) and can give rise to, besides reduced volatility, also inflated growth of return. In practice, investors must substitute predictions based on historical measurements of asset return and volatility for these values in the equations. Very often such expected values fail to take account of new circumstances that did not exist when the historical data were generated.More fundamentally, investors are stuck with estimating key parameters from past market data because MPT attempts to model risk in terms of the likelihood of losses, but says nothing about why those losses might occur. The risk measurements used are probabilistic in nature, not structural.  This is a major difference as compared to many engineering approaches to risk management. 
+
+Options theory and MPT have at least one important conceptual difference from the probabilistic risk assessment done by nuclear power [plants]. A PRA is what economists would call a structural model. The components of a system and their relationships are modeled in Monte Carlo simulations. If valve X fails, it causes a loss of back pressure on pump Y, causing a drop in flow to vessel Z, and so on.
+But in the Black–Scholes equation and MPT, there is no attempt to explain an underlying structure to price changes. Various outcomes are simply given probabilities. And, unlike the PRA, if there is no history of a particular system-level event like a liquidity crisis, there is no way to compute the odds of it. If nuclear engineers ran risk management this way, they would never be able to compute the odds of a meltdown at a particular plant until several similar events occurred in the same reactor design.
+
+Mathematical risk measurements are also useful only to the degree that they reflect investors' true concerns—there is no point minimizing a variable that nobody cares about in practice.  In particular, variance is a symmetric measure that counts abnormally high returns as just as risky as abnormally low returns. The psychological phenomenon of loss aversion is the idea that investors are more concerned about losses than gains, meaning that our intuitive concept of risk is fundamentally asymmetric in nature. There many other risk measures (like coherent risk measures) might better reflect investors' true preferences.
+
+Modern portfolio theory has also been criticized because it assumes that returns follow a Gaussian distribution. Already in the 1960s, Benoit Mandelbrot and Eugene Fama showed the inadequacy of this assumption and proposed the use of more general stable distributions instead. Stefan Mittnik and Svetlozar Rachev presented strategies for deriving optimal portfolios in such settings. More recently, Nassim Nicholas Taleb has also criticized modern portfolio theory on this ground, writing:After the stock market crash (in 1987), they rewarded two theoreticians, Harry Markowitz and William Sharpe, who built beautifully Platonic models on a Gaussian base, contributing to what is called Modern Portfolio Theory. Simply, if you remove their Gaussian assumptions and treat prices as scalable, you are left with hot air. The Nobel Committee could have tested the Sharpe and Markowitz models—they work like quack remedies sold on the Internet—but nobody in Stockholm seems to have thought about it.
+
+Contrarian investors and value investors typically do not subscribe to Modern Portfolio Theory. One objection is that the MPT relies on the efficient-market hypothesis and uses fluctuations in share price as a substitute for risk. Sir John Templeton believed in diversification as a concept, but also felt the theoretical foundations of MPT were questionable, and concluded (as described by a biographer): "the notion that building portfolios on the basis of unreliable and irrelevant statistical inputs, such as historical volatility, was doomed to failure.”A few studies have argued that "naive diversification", splitting capital equally among available investment options, might have advantages over MPT in some situations.When applied to certain universes of assets, the Markowitz model has been identified by academics to be inadequate due to its susceptibility to model instability which may arise, for example, among a universe of highly correlated assets.
+
+
+== Extensions ==
+Since MPT's introduction in 1952, many attempts have been made to improve the model, especially by using more realistic assumptions.
+Post-modern portfolio theory extends MPT by adopting non-normally distributed, asymmetric, and fat-tailed measures of risk. This helps with some of these problems, but not others.
+Black–Litterman model optimization is an extension of unconstrained Markowitz optimization that incorporates relative and absolute 'views' on inputs of risk and returns from.
+
+
+== Connection with rational choice theory ==
+Modern portfolio theory is inconsistent with main axioms of rational choice theory, most notably with monotonicity axiom, stating that, if investing into portfolio X will, with probability one, return more money than investing into portfolio Y, then a rational investor should prefer X to Y. In contrast, modern portfolio theory is based on a different axiom, called variance aversion,
+and may recommend to invest into Y on the basis that it has lower variance. Maccheroni et al. described choice theory which is the closest possible to the modern portfolio theory, while satisfying monotonicity axiom. Alternatively, mean-deviation analysis
+is a rational choice theory resulting from replacing variance by an appropriate deviation risk measure.
+
+
+== Other applications ==
+In the 1970s, concepts from MPT found their way into the field of regional science. In a series of seminal works, Michael Conroy modeled the labor force in the economy using portfolio-theoretic methods to examine growth and variability in the labor force. This was followed by a long literature on the relationship between economic growth and volatility.More recently, modern portfolio theory has been used to model the self-concept in social psychology. When the self attributes comprising the self-concept constitute a well-diversified portfolio, then psychological outcomes at the level of the individual such as mood and self-esteem should be more stable than when the self-concept is undiversified. This prediction has been confirmed in studies involving human subjects.Recently, modern portfolio theory has been applied to modelling the uncertainty and correlation between documents in information retrieval. Given a query, the aim is to maximize the overall relevance of a ranked list of documents and at the same time minimize the overall uncertainty of the ranked list.
+
+
+=== Project portfolios and other "non-financial" assets ===
+Some experts apply MPT to portfolios of projects and other assets besides financial instruments.  When MPT is applied outside of traditional financial portfolios, some distinctions between the different types of portfolios must be considered.
+
+The assets in financial portfolios are, for practical purposes, continuously divisible while portfolios of projects are "lumpy".  For example, while we can compute that the optimal portfolio position for 3 stocks is, say, 44%, 35%, 21%, the optimal position for a project portfolio may not allow us to simply change the amount spent on a project. Projects might be all or nothing or, at least, have logical units that cannot be separated.  A portfolio optimization method would have to take the discrete nature of projects into account.
+The assets of financial portfolios are liquid; they can be assessed or re-assessed at any point in time.  But opportunities for launching new projects may be limited and may occur in limited windows of time.  Projects that have already been initiated cannot be abandoned without the loss of the sunk costs (i.e., there is little or no recovery/salvage value of a half-complete project).Neither of these necessarily eliminate the possibility of using MPT and such portfolios.  They simply indicate the need to run the optimization with an additional set of mathematically expressed constraints that would not normally apply to financial portfolios.
+Furthermore, some of the simplest elements of Modern Portfolio Theory are applicable to virtually any kind of portfolio.  The concept of capturing the risk tolerance of an investor by documenting how much risk is acceptable for a given return may be applied to a variety of decision analysis problems.  MPT uses historical variance as a measure of risk, but portfolios of assets like major projects do not have a well-defined "historical variance".  In this case, the MPT investment boundary can be expressed in more general terms like "chance of an ROI less than cost of capital" or "chance of losing more than half of the investment".  When risk is put in terms of uncertainty about forecasts and possible losses then the concept is transferable to various types of investment.
+
+
+== See also ==
+Outline of finance § Portfolio theory
+Beta (finance)
+Bias ratio (finance)
+Black–Litterman model
+Financial risk management § Investment management
+Intertemporal portfolio choice
+Investment theory
+Kelly criterion
+Marginal conditional stochastic dominance
+Markowitz model
+Mutual fund separation theorem
+Omega ratio
+Post-modern portfolio theory
+Sortino ratio
+Treynor ratio
+Two-moment decision models
+Universal portfolio algorithm
+
+
+== References ==
+
+
+== Further reading ==
+Lintner, John (1965). "The Valuation of Risk Assets and the Selection of Risky Investments in Stock Portfolios and Capital Budgets". The Review of Economics and Statistics. 47 (1): 13–39. doi:10.2307/1924119. JSTOR 1924119.
+Sharpe, William F. (1964). "Capital asset prices: A theory of market equilibrium under conditions of risk". Journal of Finance. 19 (3): 425–442. doi:10.2307/2977928. hdl:10.1111/j.1540-6261.1964.tb02865.x. JSTOR 2977928.
+Tobin, James (1958). "Liquidity preference as behavior towards risk" (PDF). The Review of Economic Studies. 25 (2): 65–86. doi:10.2307/2296205. JSTOR 2296205.
+
+
+== External links ==
+
+The Most Rewarding Portfolio Construction Techniques: An Unbiased Evaluation
+Macro-Investment Analysis, Prof. William F. Sharpe, Stanford University
+Portfolio Optimization, Prof. Stephen P. Boyd, Stanford University
+"New Approaches for Portfolio Optimization: Parting with the Bell Curve" — Interview with Prof. Svetlozar Rachev and Prof. Stefan Mittnik

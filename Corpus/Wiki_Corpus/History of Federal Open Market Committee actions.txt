@@ -1,0 +1,59 @@
+This is a list of historical rate actions by the United States Federal Open Market Committee (FOMC). The FOMC controls the supply of credit to banks and the sale of treasury securities. The Federal Open Market Committee meets every two months during the fiscal year. At scheduled meetings, the FOMC meets and makes any changes it sees as necessary, notably to the federal funds rate and the discount rate.  The committee may also take actions with a less firm target, such as an increasing liquidity by the sale of a set amount of Treasury bonds, or affecting the price of currencies both foreign and domestic by selling dollar reserves (such as during the Mexican peso bailout in 1994). Jerome Powell is the current chairperson of the Federal Reserve and the FOMC.
+
+
+== Famous actions ==
+
+
+=== Operation Twist (1961) ===
+The Federal Open Market Committee action known as Operation Twist (named for the twist dance craze of the time) began in 1961. The intent was to flatten the yield curve in order to promote capital inflows and strengthen the dollar. The Fed utilized open market operations to shorten the maturity of public debt in the open market. It performs the 'twist' by selling some of the short term debt (with three years or less to maturity) it purchased as part of the quantitative easing policy back into the market and using the money received from this to buy longer term government debt. Although this action was marginally successful in reducing the spread between long-term maturities and short-term maturities, Vincent Reinhart and others have suggested it did not continue for a sufficient period of time to be effective.  Despite being considered a failure since a 1966 near-term analysis by Franco Modigliani and Richard Sutch, the action has subsequently been reexamined and in a 2011 paper economist Eric Swanson of the Federal Reserve Bank of San Francisco has suggested that "Operation Twist" was more effective than originally thought.  Swanson suggested similar action as an alternative to quantitative easing by central banks; the FOMC did in fact take an analogous action in 2011.
+
+
+=== Saturday Night Massacre (1979) ===
+Inflation in the US was persistent in the 1970s. Year-on-year inflation bottomed at 5% in December 1976 before moving higher once again. Paul Volcker was chosen as Fed Chairman in 1979 in order to deal with the challenge of high inflation. In a rare Saturday press conference on October 6, 1979, Paul Volcker's federal reserve increased the Fed Funds rate from 11% to 12%. The event was known as the "Saturday Night Massacre" because of its effect on US bond prices.
+
+
+=== Quantitative Easing 1 (QE1, December 2008 to March 2010) ===
+"On November 25, 2008, the Federal Reserve announced that it would purchase up to $600 billion in agency mortgage-backed securities (MBS) and agency debt. However, these purchases were to have no impact on the balance sheet, and would have been sterilized by Treasury sales by the SOMA desk. On December 1, Chairman Bernanke provided further details in a speech. On December 16 the program was formally approved by the FOMC, however their approval was not required as the SOMA desk was already authorized to acquire Agency debt and MBS as part of their OMOs.  On March 18, 2009, the FOMC announced that the program would be expanded by an additional $750 billion in purchases of agency MBS and agency debt and $300 billion in purchases of Treasury securities. These purchases would be unsterilized and this date more appropriately marks the beginning of QE in the US.
+
+
+=== Zero Interest Rate Policy (ZIRP) (December 2008 to December 2015) ===
+In August 2007, the Federal Open Market Committee's (FOMC) target for the federal funds rate was 5.25 percent. Sixteen months later, with the financial crisis in full swing, the FOMC had lowered the target for the federal funds rate to nearly zero, thereby entering the unfamiliar territory of having to conduct monetary policy with the policy interest rate at its effective lower bound. The unusual severity of the recession and ongoing strains in financial markets made the challenges facing monetary policymakers all the greater.In the height of the financial crisis in 2008, the Federal Open Market Committee decided to lower overnight interest rates to zero to help with easing of money and credit. Over the past five years, the Federal Reserve has acted to support economic growth and foster job creation, and it is important to achieve further progress, particularly in the labor market. Taking due account of the uncertainties and limits of its policy tools, the Federal Reserve will provide additional policy accommodation as needed to promote a stronger economic recovery and sustained improvement in labor market conditions in a context of price stability.
+
+
+=== Quantitative Easing 2 (QE2, November 2010 to June 2011) ===
+On November 3, 2010, the Fed announced that it would purchase $600 billion of longer dated treasuries, at a rate of $75 billion per month. That program, popularly known as "QE2", concluded in June 2011.
+
+
+=== Operation Twist (2011) ===
+The Federal Open Market Committee concluded its September 21, 2011 Meeting at about 2:15 p.m. EDT by announcing the implementation of Operation Twist. This is a plan to purchase $400 billion of bonds with maturities of 6 to 30 years and to sell bonds with maturities less than 3 years, thereby extending the average maturity of the Fed's own portfolio. This is an attempt to do what Quantitative Easing (QE) tries to do, without printing more money and without expanding the Fed's balance sheet, therefore hopefully avoiding the inflationary pressure associated with QE. This announcement brought a bout of risk aversion in the equity markets and strengthened the US Dollar, whereas QE I had weakened the USD and supported the equity markets. 
+Further, on June 20, 2012, the Federal Open Market Committee announced an extension to the Twist programme by adding additionally $267 billion thereby extending it throughout 2012.
+
+
+=== Quantitative Easing 3 (QE3, September 2012 to December 2013) ===
+On September 13, 2012, the Federal Reserve announced a third round of quantitative easing (QE3). This new round of quantitative easing provided for an open-ended commitment to purchase $40 billion agency mortgage-backed securities per month until the labor market improves "substantially". Some economists believe that Scott Sumner's blog on nominal income targeting played a role in popularizing the "wonky, once-eccentric policy" of "unlimited QE".The Federal Open Market Committee voted to expand its quantitative easing program further on December 12, 2012. This round continued to authorize up to $40 billion worth of agency mortgage-backed securities per month and added $45 billion worth of longer-term Treasury securities. The outright Treasury purchases as part of the augmented program continued at a pace comparable to that under "Operation Twist"; however, the Federal Reserve could no longer sell short-dated Treasury securities to buy longer-dated ones since they had insufficient holdings of short-dated Treasuries.
+On December 18, 2013, the Federal Reserve Open Market Committee announced they would be tapering back on QE3 at a rate of $10 billion at each meeting. The Federal Reserve ended its monthly asset purchases program (QE3) in October 2014, ten months after it began the tapering process.
+
+
+=== December 2015 historic interest rate hike ===
+On December 16, 2015, the Fed increased its key interest rate, the Federal Funds Rate, for the first time since June 2006. The hike was from the range [0%, 0.25%] to the range [0.25%, 0.5%].
+
+
+=== March 2020 Coronavirus interest rate cut ===
+In an emergency decision the rate was cut by half a percentage point on March 3, 2020, to 1–1.25% in response to the risk that the Coronavirus pandemic in the United States poses to the American economy. It was the first emergency cut since the financial crisis of 2007–08.
+
+
+=== March 2020 Coronavirus bond buying program ===
+In an effort to calm markets and sustain market liquidity, the Federal Reserve announced to buy corporate debt in a series of emergency lending programs on March 23, 2020.
+By July 2020, it has purchased $3 trillion financial assets, increasing its balance sheet from $4.2 trillion in February to $7 trillion. 
+Since August 2020, it was committed to monthly bond-buying program. By January 2021, its balance sheet stood at $7.3 trillion. It continued to pledge bond purchases in the pace of $120 billion a month to allow the economy to recover from the pandemic over the second half of the year as vaccinations against COVID-19 roll out.
+
+
+== Historical actions ==
+Currently, this only shows meetings, both scheduled and unscheduled "emergency" meetings.  The FOMC makes a number of other important pronouncements as well such as during testimony to Congress whose effects are harder to quantify.
+
+
+== References ==
+
+
+== External links ==
+An analysis of The FED of San Francisco on the Operation Twist

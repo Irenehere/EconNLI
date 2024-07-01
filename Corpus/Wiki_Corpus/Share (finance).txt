@@ -1,0 +1,44 @@
+In financial markets, a share (sometimes referred to as stock) is a unit of equity ownership in the capital stock of a corporation, and can refer to units of mutual funds, limited partnerships, and real estate investment trusts. Share capital refers to all of the shares of an enterprise. The owner of shares in a company is a shareholder (or stockholder) of the corporation. A share is an indivisible unit of capital, expressing the ownership relationship between the company and the shareholder. The denominated value of a share is its face value, and the total of the face value of issued shares represent the capital of a company, which may not reflect the market value of those shares.
+The income received from the ownership of shares is a dividend. There are different types of shares such as equity shares, preference shares, deferred shares, redeemable shares, bonus shares, right shares, and employee stock option plan shares.
+
+
+== Valuation ==
+
+Shares are valued according to the various principles in different markets, but a basic premise is that a share is worth the price at which a transaction would be likely to occur were the shares to be sold. The liquidity of markets is a major consideration as to whether a share is able to be sold at any given time. An actual sale transaction of shares between buyer and seller is usually considered to provide the best prima facie market indicator as to the "true value" of shares at that particular time. A minority discount is usually applied when valuing a minority shareholding (less than 50%), where ownership of the shares offers limited control over the business if this is held by a majority shareholder.
+
+
+== Terminology ==
+Shares outstanding are those that are authorized by the government, issued by the company, and held by third parties. The number of shares outstanding times the share price gives the market capitalization of the company, which if the trading price held constant would be sufficient to purchase the company.
+Treasury shares are authorized, issued, and held by the company itself.
+Issued shares is the sum of shares outstanding and treasury shares.
+Shares authorized include both issued (by the board of directors or shareholders) and unissued but authorized by the company's constitutional documents.
+
+
+== Tax treatment ==
+Tax treatment of dividends varies between tax jurisdictions. For instance, in India, dividends are tax free in the hands of the shareholder up to INR 1 million, but the company paying the dividend has to pay dividend distribution tax at 12.5%. There 
+is also the concept of a deemed dividend, which is not tax free. Further, Indian tax laws include provisions to stop dividend stripping.
+
+
+== Share certificates ==
+Historically, investors were given share certificates as evidence of their ownership of shares. In modern times, certificates are not always given and ownership may be recorded electronically by a system such as CREST or DTCC, a central securities depository.
+
+
+== Tracing shares ==
+As of May 2022, the United States Supreme Court was considering the case of Slack Technologies, LLC v. Pirani, with regard to whether Sections 11 and 12(a)(2) of the Securities Act of 1933 require plaintiffs to plead and prove that they acquired shares of stock registered under and traceable to the registration statement they claim was misleading.
+
+
+== See also ==
+Employee stock ownership
+Mutual organization
+Scrip issue
+Share capital
+Social ownership
+Stock token
+
+
+== References ==
+
+
+== External links ==
+ Media related to Stocks at Wikimedia Commons
+ The dictionary definition of share at Wiktionary

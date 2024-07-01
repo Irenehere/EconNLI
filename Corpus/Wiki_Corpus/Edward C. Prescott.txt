@@ -1,0 +1,44 @@
+Edward Christian Prescott (December 26, 1940 – November 6, 2022) was an American economist. He received the Nobel Memorial Prize in Economics in 2004, sharing the award with Finn E. Kydland, "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles". This research was primarily conducted while both Kydland and Prescott were affiliated with the Graduate School of Industrial Administration (now Tepper School of Business) at Carnegie Mellon University. According to the IDEAS/RePEc rankings, he was the 19th most widely cited economist in the world in 2013. In August 2014, Prescott was appointed an Adjunct Distinguished Economic Professor at the Australian National University (ANU) in Canberra, Australia. Prescott died of cancer on November 6, 2022, at the age of 81.
+
+
+== Biography ==
+
+
+=== Early life ===
+Prescott was born in Glens Falls, New York, to Mathilde Helwig Prescott and William Clyde Prescott. In 1962, he received his bachelor's degree in mathematics from Swarthmore College, where he was a member of the Delta Upsilon fraternity. He then received a master's degree from Case Western Reserve University in operations research in 1963, and a PhD in economics at Carnegie Mellon University in 1967.
+
+
+=== Career ===
+From 1966 to 1971, Prescott taught at the University of Pennsylvania. He then returned to Carnegie Mellon until 1980, when he moved to the University of Minnesota, where he taught until 2003. In 1978, he was a visiting professor at the University of Chicago, where he was named a Ford Foundation Research Professor. In the following year, he visited Northwestern University and stayed there until 1982. From 2003 on he taught at Arizona State University.
+Prescott was an economic advisor at the Federal Reserve Bank of Minneapolis since 1981. In 2004, he held the Maxwell and Mary Pellish Chair in Economics at the University of California, Santa Barbara. In 2006, he held the Shinsei Bank Visiting Professorship at New York University. In August 2014, Prescott was appointed an Adjunct Distinguished Professor at Research School of Economics (RSE) of the Australian National University.The Research Papers in Economics project ranked him as the 19th most influential economist in the world as of August 2012 based on his academic contributions. More recently working as an economist at the Federal Reserve Bank of Minneapolis and as a professor at Arizona State University's W. P. Carey School of Business, he was a major figure in macroeconomics, especially the theories of business cycles and general equilibrium. In his "Rules Rather Than Discretion: The Inconsistency of Optimal Plans," published in 1977 with Finn E. Kydland, he analyzed whether central banks should have strict numerical targets or be allowed to use their discretion in setting monetary policy. He is also well known for his work on the Hodrick–Prescott filter, used to smooth fluctuations in a time series.
+
+
+=== Nobel Prize ===
+Prescott and Finn Kydland received the Nobel prize for economics based on two papers they authored. In the first paper, written in 1977 "Rules Rather than Discretion: The inconsistency of optimal planning" Prescott and Kydland argue that purpose and goals of economic planning and policy is to trigger a desired response from the economy. However, Prescott and Kydland realized that these sectors are made up of individuals, individuals who make assumptions and predictions about the future. As Prescott and Kydland stated "Even if there is a fixed and agreed upon social objective function and policy makers know the timing and magnitude of the effects of their actions... correct evaluation of the end-of-point position does not result in the social objective being maximized." Prescott and Kyland were pointing out that agents in the economy already factor into their decision making the assumed response by policy makers to a given economic climate.
+Additionally Prescott and Kydland felt that the policy makers due to their relationship with government suffered from a credibility issue. The reason for this dynamic is that the political process is designed to fix problems and benefit its citizens today. Prescott and Kydland demonstrated this with a simple yet convincing example. In this example they take an area that has been shown likely to flood (a flood plain) and the government has stated that the "socially optimal outcome" is to not have houses be built in that area and therefore the government states that it will not provide flood protection (dams, levees, and flood insurance) rational agents will not live in that area. However, rational agents are forward planning creatures and know that if they and others build
+houses in the flood plain the government which makes decisions based on current situations will then provide flood protection in the future. While Prescott never used these words he was describing a moral hazard.The second paper, written in 1982, "Time to Build and Aggregate Fluctuations," Prescott and Kydland argued that shifts in supply typically caused by changes and improvements in technology accounted for "Not only long term increases in living standards but also to many of the short term fluctuations in business cycles." To study this hypothesis Prescott established a model to study the change in output, investment, consumption, labor productivity, and employment, between the end of the Second World War and 1980. Using this model the two economists were able to correlate 70% of the fluctuation in output to changes and growth in technology. Their main contribution, however, was the way of modeling macroeconomic variables with microfoundations.
+
+
+=== Political activity ===
+In January 2009 Prescott, along with more than 250 other economists and professors, signed an open letter to U.S. President Barack Obama opposing the passage of the American Recovery and Reinvestment Act. The letter was sponsored by libertarian think tank, the Cato Institute, and was printed as a paid advertisement in several newspapers including The New York Times and the Arizona Republic.His late writings focused on the negative effect of taxes on the economy in Europe.
+
+
+== Honours and awards ==
+United States National Academy of Sciences (2008)
+Nobel Memorial Prize in Economic Sciences (2004)
+Erwin Plein Nemmers Prize in Economics, Northwestern University (2002)
+Fellow, American Academy of Arts and Sciences (1992)
+Fellow, Econometric Society (1980)
+Alexander Henderson Award, Carnegie Mellon (1967)
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Federal Reserve Bank of Minneapolis
+Edward C. Prescott on Nobelprize.org  contains the Nobel Prize Lecture 8 dec 2004 The Transformation of Macroeconomic Policy and Research
+"Edward C. Prescott (1940– )". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.

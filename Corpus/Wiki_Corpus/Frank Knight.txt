@@ -1,0 +1,50 @@
+Frank Hyneman Knight (November 7, 1885 – April 15, 1972) was an American economist who spent most of his career at the University of Chicago, where he became one of the founders of the Chicago School.
+Nobel laureates Milton Friedman, George Stigler and James M. Buchanan were all students of Knight at Chicago. Ronald Coase said that Knight, without teaching him, was a major influence on his thinking. F.A. Hayek considered Knight to be one of the major figures in preserving and promoting classical liberal thought in the twentieth century.Paul Samuelson named Knight (along with Harry Gunnison Brown, Allyn Abbott Young, Henry Ludwell Moore, Wesley Clair Mitchell, Jacob Viner, and Henry Schultz) as one of the several "American saints in economics" born after 1860.
+
+
+== Life and career ==
+Knight (BA, Milligan College, 1911; BS and AM, Tennessee, 1913; PhD, Cornell, 1916) was born in 1885 in McLean County, Illinois, the son of Julia Ann (Hyneman) and Winton Cyrus
+Knight. After his early study at the University of Tennessee, most of his academic career was spent at the University of Chicago, where he was the Morton D. Hall Distinguished Service Professor of Social Science and Philosophy. Knight was one of the world's leading economists, having made significant contributions to many problems of both economic theory and social philosophy. He is best known for his Risk, Uncertainty and Profit, a study of the role of the entrepreneur in economic life. In 1950 he was president of the American Economic Association and in 1957 the recipient of its coveted Francis A. Walker Award, given "not more frequently than once every five years to the living (American) economist who in the judgment of the awarding body has during his career made the greatest contribution to economics." His ashes are interred in the crypt of First Unitarian Church of Chicago.
+Knight is best known as the author of the book Risk, Uncertainty and Profit (1921), based on his PhD dissertation at Cornell University. In that book, he carefully distinguished between economic risk and uncertainty. Situations with risk were those where the outcomes were unknown but governed by probability distributions known at the outset. He argued that these situations, where decision making rules such as maximising expected utility can be applied, differ in a deep way from "uncertain" ones, in which not only the outcomes, but even the probability models that governed them, were unknown. Knight argued that uncertainty gave rise to economic profits that perfect competition could not eliminate.
+While most economists now acknowledge Knight's distinction between risk and uncertainty, the distinction has not resulted in much theoretical modelling or empirical work. However, the Knightian concept of uncertainty has been recognized in a variety of works: John Maynard Keynes discussed it at length in his Treatise on Probability; Armen Alchian relied on it for discussing market behavior in his seminal paper Uncertainty, Evolution and Economic Theory; Paul Davidson incorporated it as an essential element in the Post Keynesian school of economics he co-founded; and G.L.S. Shackle explored the methodological consequences of Knight's and Keynes's fundamental uncertainty in his Epistemics and Economics. A more model-oriented contribution is the "Markets from Networks" model developed by sociologist Harrison White from 2002.
+Knight also famously debated A. C. Pigou about social costs. He also contributed to the argument for toll roads. He said that rather than congestion justifying government tolling of roads, privately owned roads would set tolls to reduce congestion to its efficient level. In particular, he developed the argument that forms the basis of analysis of traffic equilibrium, which has since become known as Wardrop's Principle:
+
+Suppose that between two points there are two highways, one of which is broad enough to accommodate without crowding all the traffic which may care to use it, but is poorly graded and surfaced; while the other is a much better road, but narrow and quite limited in capacity. If a large number of trucks operate between the two termini and are free to choose either of the two routes, they will tend to distribute themselves between the roads in such proportions that the cost per unit of transportation, or effective returns per unit of investment, will be the same for every truck on both routes. As more trucks use the narrower and better road, congestion develops, until at a certain point it becomes equally profitable to use the broader but poorer highway.
+Knight was a co-founder and vice president of the Mont Pelerin Society of like-minded economists.Knight was raised Christian, but later became an atheist.
+
+
+== Notable works ==
+"Risk, Uncertainty, and Profit", 1921, Boston: Houghton, Mifflin
+The Economic Organization, 1933.
+The Ethics of Competition and Other Essays. London: George Allen and Unwin Ltd. 1935.
+The Economic Order and Religion, with T.W. Merriam, 1945.
+Freedom and Reform: Essays in economics and social philosophy, 1947. Indianapolis, IN: Liberty Press
+On the History and Methods of Economics: Selected essays, 1956, ISBN 978-0226446899.
+Intelligence and Democratic Action, 1960.
+
+
+== Awards ==
+1957, Francis A. Walker Medal by the American Economic Association
+1961, Golden Plate Award of the American Academy of Achievement
+
+
+== References ==
+
+
+== Sources ==
+Burgin, Angus (November 2009). "The Radical Conservatism of Frank H. Knight," Modern Intellectual History, 6:513–538.
+Emmett, Ross B. (1999). "Introduction", in Selected Essays by Frank H. Knight, 2 vols., (ed. by Ross Emmett).
+Emmett, Ross B. (2009). "Did the Chicago School Reject Frank Knight?", in Frank Knight and the Chicago School in American Economics, ISBN 978-0415775007.
+Fonseca, Gonçalo L. "Frank H. Knight, 1885–1972". The History of Economic Thought Website. The New School for Social Research. Archived from the original on 2008-04-29. Retrieved 2008-05-07.
+Kasper, Sherryl (2002). The Revival of Laissez-Faire in American Macroeconomic Theory: A Case Study of Its Pioneers. ch. 2.
+Stigler, G. (1985). "Frank Hyneman Knight", University of Chicago Press – Center for the Study of the Economy and the State, Working Papers Series, Working Paper No. 37.
+White, Harrison C. (2002). Markets from Networks: Socioeconomic Models of Production. Princeton: Princeton University Press.
+Hands, D. Wade (2023). "Frank Knight and behavioral economics". The European Journal of the History of Economic Thought. 30 (3): 341–368. doi:10.1080/09672567.2023.2197249. ISSN 0967-2567.
+
+
+== External links ==
+
+The Frank H. Knight Page
+Frank Knight at Find a Grave 
+Guide to the Frank Hyneman Knight Papers 1908–1979 at the University of Chicago Special Collections Research Center
+Works by or about Frank Knight at Internet Archive

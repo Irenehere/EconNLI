@@ -1,0 +1,79 @@
+Lawrence Robert Klein (September 14, 1920 – October 20, 2013) was an American economist. For his work in creating computer models to forecast economic trends in the field of econometrics in the Department of Economics at the University of Pennsylvania, he was awarded the Nobel Memorial Prize in Economic Sciences in 1980 specifically "for the creation of econometric models and their application to the analysis of economic fluctuations and economic policies." Due to his efforts, such models have become widespread among economists.  Harvard University professor Martin Feldstein told the Wall Street Journal that Klein "was the first to create the statistical models that embodied Keynesian economics," tools still used by the Federal Reserve Bank and other central banks.
+
+
+== Life and career ==
+Klein was born in Omaha, Nebraska, the son of Blanche (née Monheit) and Leo Byron Klein. He went on to graduate from Los Angeles City College, where he learned calculus; the University of California, Berkeley, where he began his computer modeling and earned a BA in Economics in 1942; he earned his PhD in Economics at the Massachusetts Institute of Technology (MIT) in 1944, where he was Paul Samuelson's first doctoral student.
+
+
+=== Early model-building ===
+Klein then moved to the Cowles Commission for Research in Economics, which was then at the University of Chicago, now the Cowles Foundation.  There he built a model of the United States economy to forecast the development of business fluctuations and to study the effects of government economic-political policy. After World War II Klein used his model to correctly predict, against the prevailing expectation, that there would be an economic upturn rather than a depression due to increasing consumer demand from returning servicemen.  Similarly, he correctly predicted a mild recession at the end of the Korean War.Klein briefly joined the Communist Party during the 1940s, which led to trouble years later.
+At the University of Michigan, Klein developed enhanced macroeconomic models, in particular the famous Klein–Goldberger model with Arthur Goldberger, which was based on foundations laid by Jan Tinbergen of the Netherlands, later winner of the first economics prize in 1969.  Klein differed from Tinbergen in using an alternative economic theory and a different statistical technique.
+
+
+=== McCarthyism and move to England ===
+In 1954, Klein's brief membership in the Communist Party was made public and he was denied tenure at the University of Michigan, in the wake of the McCarthy era. Klein moved to the University of Oxford, and developed an economic model of the United Kingdom known as the Oxford model with Sir James Ball. Additionally, at the Institute of Statistics Klein assisted with the creation of the British Savings Surveys, based upon the Michigan Surveys.
+
+
+=== Return to the U.S. ===
+In 1958 Klein returned to the U.S. to join the Department of Economics at the University of Pennsylvania.  In 1959 he was awarded the John Bates Clark Medal, one of the two most prestigious awards in the field of economics.  In 1968 he became the Benjamin Franklin Professor of Economics and Finance at Penn.
+
+
+=== Brookings-SSRC Project ===
+In the early 1960s Klein became the leader of the major "Brookings-SSRC Project" to construct a detailed econometric model to forecast the short-term development of the U.S. economy.
+
+
+=== Wharton ===
+Later in the '60s, Klein constructed the Wharton Econometric Forecasting Model. This model, considerably smaller than the Brookings model, achieved a very good reputation for its analysis of business conditions, used to forecast fluctuations including national product, exports, investments, and consumption, and to study the effect on them of changes in taxation, public expenditure, oil price, etc.
+In 1969 Klein founded Wharton Econometric Forecasting Associates or WEFA (now IHS Global Insight), launching the econometric forecasting industry in the United States.  Among his clients were General Electric Company, IBM, and Bethlehem Steel Corporation. He was the initiator of, and an active research leader in their LINK project, a consortium of model builders from many countries, which was also mentioned in his Nobel citation.  The aim was to produce the world's first global economic model, linking models of many of the world's countries so that the effect of changes in the economy of one country are reflected in the other. LINK, which is now operated by the United Nations, is still meeting regularly, most recently in September 2018 in Santiago, Chile.
+Klein served as a thesis advisor for numerous well-known economists including E. Roy Weintraub in the late 1960s.
+
+
+=== Later career ===
+During the 1976 United States presidential election, Klein coordinated Jimmy Carter's economic task force.  He declined an invitation to join Carter's administration.  Klein has also been president of the Econometric Society. the International Atlantic Economic Society (1989–1990), and the American Economic Association (in 1977).
+His Nobel citation concludes that "few, if any, research workers in the empirical field of economic science, have had so many successors and such a large impact as Lawrence Klein". However, Christopher Sims has criticized the assumptions underlying large macro-econometric models built by Klein (Sims, 1980). Also, many economists have questioned the suitability of estimation methods employed by large structural models and the usefulness of simple autoregressive models for approximating economic systems.
+In his final years, he was constructing short range  "current quarter models" that use current economic indicators to get a handle on the rate of economic growth during the current and next quarter.  In contrast to earlier efforts to model the economy structurally and to use constant adjustments and judgmental estimates for the exogenous variables, these systems are  deliberately automatic and mechanical, simply translating available information into a statistically best estimate of current conditions.  This represents a very different tradition from his earlier model building and applications.
+After formal retirement and until his death he was engaged in macro econometric model building high-frequency models that project the economy in a monthly, quarterly frame. A publication on high frequency model containing countries such as US, China, Russia, India, Brazil, Mexico, Korea and Hong Kong was expected in 2008.
+Klein was a founding trustee of Economists for Peace and Security. He was also a member of the American Academy of Arts and Sciences, the American Philosophical Society, and the United States National Academy of Sciences.He died  at the age of 93 in his home on October 20, 2013.
+
+
+== Publications ==
+Klein, Lawrence Robert (1970). An essay on the theory of economic prediction. Markham economics series (American ed.). Chicago: Markham Publishing Company. ISBN 0-8410-2005-1. LCCN 73122300.
+Economic Fluctuations in the United States, 1921–41 (1950)
+An Econometric Model of the United States, 1929–52 (with AS Goldberger, 1955)
+The Keynesian revolution (1947) ISBN 0-333-08131-5
+Klein, Lawrence (1966) [1947]. The Keynesian revolution (2d ed.). New York: Macmillan. LCCN 66019138. OL 5988755M.
+The Wharton Econometric Forecasting Model (with MK Evans, 1967)
+A Textbook of Econometrics (1973) ISBN 0-13-912832-8
+The Brookings Model (With Gary Fromm. 1975)
+Econometric Model Performance (1976)
+An Introduction to Econometric Forecasting and Forecasting Models (1980) ISBN 0-669-02896-7
+Econometric Models As Guides for Decision Making (1982) ISBN 0-02-917430-9
+The Economics of Supply and Demand 1983
+Economics, Econometrics and The LINK (with M Dutta, 1995) ISBN 0-444-81787-5
+China and India: Two Asian Economic Giants, Two Different Systems (2004). Article free downloadable at the journal Applied Econometrics and International Development http://www.usc.es/economet/aeid.htm
+
+
+== See also ==
+List of economists
+List of Jewish Nobel laureates
+
+
+== References ==
+
+
+== Further reading ==
+Breit, William; Hirsch, Barry T., eds. (2004). Lives of the Laureates (4th ed.). Cambridge, Massachusetts: The MIT Press. ISBN 0-262-52450-3.
+Karayiannis, Anastassios D. (2009). "A Synopsis of Lawrence R. Klein's Thoughts and Contributions to Economics". In Puttaswamaiah, K. (ed.). Growth of Economics in the Twentieth Century. Enfield: Isle. pp. 579–592. ISBN 978-0-9823895-2-2.
+"Lawrence Klein Papers, 1950s–2000". Rubenstein Library, Duke University.
+Sims, C. (1980). Marcoeconomics and reality. Econometrica, 48, 1-48.
+
+
+== External links ==
+
+Lawrence Klein
+Economists for Peace and Security
+Lawrence Klein at the Mathematics Genealogy Project
+IDEAS/RePEc
+"Lawrence Robert Klein (1920– )". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Appearances on C-SPAN
+Lawrence R. Klein on Nobelprize.org

@@ -1,0 +1,81 @@
+In financial accounting, an asset is any resource owned or controlled by a business or an economic entity. It is anything (tangible or intangible) that can be used to produce positive economic value. Assets represent value of ownership that can be converted into cash (although cash itself is also considered an asset).
+The balance sheet of a firm records the monetary value of the assets owned by that firm. It covers money and other valuables belonging to an individual or to a business.Assets can be grouped into two major classes: tangible assets and intangible assets. Tangible assets contain various subclasses, including current assets and fixed assets. Current assets include cash, inventory, accounts receivable, while fixed assets include land, buildings and equipment.
+Intangible assets are non-physical resources and rights that have a value to the firm because they give the firm an advantage in the marketplace. Intangible assets include goodwill, copyrights, trademarks, patents, computer programs, and financial assets, including financial investments, bonds, and companies' shares.
+
+
+== Formal definition ==
+IFRS (International Financial Reporting Standards), the most widely used financial reporting system, defines: "An asset is a present economic resource controlled by the entity as a result of past events.
+An economic resource is a right that has the potential to produce economic benefits."The definition under US GAAP (Generally Accepted Accounting Principles used in the United States of America): "An asset is a present right of an entity to an economic benefit."
+
+
+== Characteristics ==
+CON 8.4 provides the following discussion of the nature of an asset:
+E17: An asset has the following two essential characteristics:
+(a) It is a present right
+(b) The right is to an economic benefit.
+E18:The combination of those two characteristics allows an entity to obtain the economic benefit and control others' access to the benefit. A present right of an
+entity to an economic benefit entitles the entity to the economic benefit and the ability to restrict others' access to the benefit to which the entity is entitled.
+This accounting definition of assets includes items that are not owned by an enterprise, for example a leased building (Finance lease), but excludes employees because, while they have the capacity to generate economic benefits, an employer cannot control an employee.
+In economics, an Asset (economics) is any form in which wealth can be held.
+There is a growing analytical interest in assets and asset forms in other social sciences too, especially in terms of how a variety of things (e.g., personality, personal data, ecosystems, etc.) can be turned into an asset.
+
+
+=== Accounting ===
+In the financial accounting sense of the term, it is not necessary to have title (a legally enforceable ownership right) to an asset. An asset may be recognized as long as the reporting entity controls the rights (economic resource) the asset represents.
+The essential characteristic of control is the ability to benefit from the asset and prevent other entities from doing likewise.  The IFRS conceptual framework explains (CF 4.20): An entity controls an economic resource if it has the present ability to direct the use of the economic resource and obtain the economic benefits that may flow from it. Control includes the present ability to prevent other parties from directing the use of the economic resource and from obtaining the economic benefits that may flow from it. It follows that, if one party controls an economic resource, no other party controls that resource.
+The accounting equation is the mathematical structure of the balance sheet. It relates assets, liabilities, and owner's equity:
+
+Assets = Liabilities + Equity (in financial accounting, the term equity, not Capital, is used)
+Liabilities = Assets − Equity
+Equity = Assets − LiabilitiesAssets are reported on the balance sheet. On the balance sheet, additional sub-classifications are generally required by generally accepted accounting principles (GAAP), which vary from country to country. Assets can be divided into current and non-current (a.k.a. fixed or long-lived). Current assets are generally subclassified as cash and cash equivalents, receivables, inventory, and accruals (such as pre-paid expenses). Non-current assets are generally subclassified as investments (financial instruments), property, plant and equipment, intangible assets (including goodwill) and other assets (such as resources or biological assets).
+
+
+=== Current assets ===
+
+Current assets are cash and others that are expected to be converted to cash or consumed either in a year or in the operating cycle (whichever is longer), without disturbing the normal operations of a business. These assets are continually turned over in the course of a business during normal business activity. There are 5 major items included into current assets:
+
+Cash and cash equivalents – it is the most liquid asset, which includes currency, deposit accounts, and negotiable instruments (e.g., money orders, cheque, bank drafts).
+Short-term investments – include securities bought and held for sale in the near future to generate income on short-term price differences (trading securities)
+Receivables – usually reported as net of allowance for non-collectable accounts.
+Inventory – trading these assets is a normal business of a company. The inventory value reported on the balance sheet is usually the historical cost or fair market value, whichever is lower. This is known as the "lower of cost or market" rule.
+Prepaid expenses – these are expenses paid in cash and recorded as assets before they are used or consumed (common examples are insurance or office supplies). See also adjusting entries.Marketable securities: securities that can be converted into cash quickly at a reasonable price
+The phrase net current assets (also called working capital) is often used and refers to the total of current assets less the total of current liabilities.
+
+
+=== Long-term investments ===
+Often referred to simply as "investments". Long-term investments are to be held for many years and are not intended to be disposed of in the near future. This group usually consists of three types of investments :
+
+Investments in securities such as bonds, common stock, or long-term notes
+Investments in fixed assets not used in operations (e.g., land held for sale)
+Investments in special funds (e.g. sinking funds or pension funds).Different forms of insurance may also be treated as long-term investments.
+
+
+=== Fixed assets ===
+
+Also referred to as PP&E (property, plant and equipment), these are purchased for continued and long-term use to earn profit in a business. This group includes land, buildings, machinery, furniture, tools, IT equipment (e.g., laptops), and certain wasting resources (e.g., timberland and minerals). They are written off against profits over their anticipated life by charging depreciation expenses (with exception of land assets). Accumulated depreciation is shown in the face of the balance sheet or in the notes.
+These are also called capital assets in management accounting.
+
+
+=== Intangible assets ===
+
+Intangible assets lack physical substance and usually are very hard to evaluate. They include patents, copyrights, franchises & licenses, goodwill, trademarks, trade names, etc. These assets are (according to US GAAP) amortized to expense over 5 to 40 years with the exception of goodwill.
+Websites are treated differently in different countries and may fall under either tangible or intangible assets.
+
+
+=== Tangible assets ===
+Tangible assets are those that have a physical substance, such as currencies, buildings, real estate, vehicles, inventories, equipment, art collections, precious metals, rare-earth metals, Industrial metals, and crops. The physical health of tangible assets deteriorate over time. As a result, asset managers use deterioration modeling to predict the future conditions of assets. Depreciation is applied to tangible assets when those assets have an anticipated lifespan of more than one year. This process of depreciation is used instead of allocating the entire expense to one year.Tangible assets such as art, furniture, stamps, gold, wine, toys and books are recognized as an asset class in their own right. Many high-net-worth individuals will seek to include these tangible assets as part of their overall asset portfolio. This has created a need for tangible asset managers.
+
+
+=== Wasting Asset ===
+A wasting asset is an asset that irreversibly declines in value over time. This could include vehicles and machinery, and in financial markets, options contracts that continually lose time value after purchase. Mines and quarries in use are wasting assets. An asset classified as wasting may be treated differently for tax and other purposes than one that does not lose value; this may be accounted for by applying depreciation.
+
+
+=== Comparison: current assets, liquid assets and absolute liquid assets ===
+
+
+== See also ==
+
+Assets under management (AUM)
+
+
+== References ==

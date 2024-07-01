@@ -1,0 +1,67 @@
+In economics, industrial organization is a field that builds on the theory of the firm by examining the structure of (and, therefore, the boundaries between) firms and markets. Industrial organization adds real-world complications to the perfectly competitive model, complications such as transaction costs, limited information, and barriers to entry of new firms that may be associated with imperfect competition. It analyzes determinants of firm and market organization and behavior on a continuum between competition and monopoly, including from government actions.
+There are different approaches to the subject. One approach is descriptive in providing an overview of industrial organization, such as measures of competition and the size-concentration of firms in an industry. A second approach uses microeconomic models to explain internal firm organization and market strategy, which includes internal research and development along with issues of internal reorganization and renewal. A third aspect is oriented to public policy related to economic regulation, antitrust law, and, more generally, the economic governance of law in defining property rights, enforcing contracts, and providing organizational infrastructure.The extensive use of game theory in industrial economics has led to the export of this tool to other branches of microeconomics, such as behavioral economics and corporate finance. Industrial organization has also had significant practical impacts on antitrust law and competition policy.The development of industrial organization as a separate field owes much to Edward Chamberlin, Joan Robinson, Edward S. Mason, J. M. Clark, Joe S. Bain and Paolo Sylos Labini, among others.
+
+
+== Subareas ==
+The Journal of Economic Literature (JEL) classification codes are one way of representing the range of economics subjects and subareas. There, Industrial Organization, one of 20 primary categories, has 9 secondary categories, each with multiple tertiary categories. The secondary categories are listed below with corresponding available article-preview links of The New Palgrave Dictionary of Economics Online and footnotes to their respective JEL-tertiary categories and associated New-Palgrave links.
+
+JEL: L1 – Market Structure, Firm Strategy, and Market Performance
+JEL: L2 – Firm Objectives, Organization, and Behavior
+JEL: L3 – Non-profit organizations and Public enterprise
+JEL: L4 – Antitrust Issues and Policies
+JEL: L5 – Regulation and Industrial policy
+JEL: L6 – Industry Studies: Manufacturing
+JEL: L7 – Industry Studies: Primary Products and Construction
+JEL: L8 – Industry Studies: Services
+JEL: L9 – Industry Studies: Transportation and Utilities
+
+
+== Market structures ==
+The common market structures studied in this field are: perfect competition, monopolistic competition, duopoly, oligopoly, oligopsony, monopoly and monopsony.
+
+
+== Areas of study ==
+Industrial organization investigates the outcomes of these market structures in environments with
+
+Price discrimination
+Product differentiation
+Durable goods
+Experience goods
+Collusion
+Signalling, such as warranties and advertising.
+Mergers and acquisitions
+Entry and Exit
+
+
+== History of the field ==
+A 2009 book Pioneers of Industrial Organization traces the development of the field from Adam Smith to recent times and includes dozens of short biographies of major figures in Europe and North America who contributed to the growth and development of the discipline.Other reviews by publication year and earliest available cited works those in 1970/1937, 1972/1933, 1974, 1987/1937-1956 (3 cites),  1968-9 (7 cites). 2009/c. 1900, and 2010/1951.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Tirole, Jean (1988). The Theory of Industrial Organization, MIT press.
+Belleflamme, Paul & Martin Peitz, 2010. Industrial Organization: Markets and Strategies. Cambridge University Press. Summary and Resources
+Cabral, Luís M. B., 2000. Introduction to Industrial Organization. MIT Press. Links to Description and chapter-preview links.
+Shepherd, William, 1985. The Economics of Industrial Organization, Prentice-Hall. ISBN 0-13-231481-9
+Shy, Oz, 1995. Industrial Organization: Theory and Applications. Description and chapter-preview links. MIT Press.
+Vives, Xavier, 2001. Oligopoly Pricing: Old Ideas and New Tools. MIT Press. Description and scroll to chapter-preview links.
+Jeffrey Church & Roger Ware, 2005. "Industrial Organization: A Strategic Approach", (aka IOSA)”, Free Textbook
+Nicolas Boccard, 2010. "Industrial Organization, a Contract Based approach (aka IOCB Archived 2015-08-01 at the Wayback Machine)”, Open Source Textbook
+
+
+== Journals ==
+The RAND Journal of Economics
+International Journal of the Economics of Business and issue preview links
+International Journal of Industrial Organization and issue-preview links
+Journal of Industrial Economics, Aims and Scope, and issue-preview links.
+Journal of Law, Economics, and Organization and issue-preview links.
+Review of Industrial Organization
+
+
+== External links ==
+ Quotations related to Industrial organization at Wikiquote

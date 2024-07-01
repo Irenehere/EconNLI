@@ -1,0 +1,736 @@
+Rational expectations is an economic theory used to explain how individuals make predictions about the future based on all available information. It states that individuals will also learn from past trends and experiences in order to make the best possible prediction about what will happen. They could be wrong sometimes, but that, on average, they will be correct.
+
+
+== History ==
+The concept of rational expectations was first introduced by John F. Muth in his paper "Rational Expectations and the Theory of Price Movements" published in 1961. Robert Lucas and Thomas Sargent further developed the theory in the 1970s and 1980s which became seminal works on the topic and were widely used in microeconomics.Significant Findings
+Muth’s work introduces the concept of rational expectations and discusses its implications for economic theory. He argues that individuals are rational and use all available information to make unbiased, informed predictions about the future. This means that individuals do not make systematic errors in their predictions and that their predictions are not biased by past errors. Muth’s paper also discusses the implication of rational expectations for economic theory. One key implication is that government policies, such as changes in monetary or fiscal policy may not be as effective if individuals’ expectations are not considered. For example, if individuals expect inflation to increase, they may anticipate that the central bank will raise interest rates to combat inflation, which could lead to higher borrowing costs and slower economic growth. Similarly, if individuals expect a recession, they may reduce their spending and investment, which could lead to a self-fulling prophecy.Lucas’ paper “Expectations and the Neutrality of Money” expands on Muth's work and sheds light on the relationship between rational expectations and the monetary policy. The paper argues that when individuals hold rational expectations, changes in the money supply do not have real effects on the economy and the neutrality of money holds. Lucas presents a theoretical model that incorporates rational expectations into an analysis of the effects of changes in the money supply. The model suggests that individuals adjust their expectations in response to changes in the money supply, which eliminates the effect on real variables such as output and employment. He argues that a stable monetary policy that is consistent with individuals' rational expectations will be more effective in promoting economic stability than attempts to manipulate the money supply.In 1973, Thomas J Sargent published the article “Rational Expectations, the Real Rate of Interest, and the Natural Rate of Unemployment” which was an important contribution to the development and application of the concept of rational expectations in economic theory and policy. By assuming individuals are forward-looking and rational, Sargent argues that rational expectations can help explain fluctuations in key economic variables such as, the real interest rate and the natural rate of employment. He also suggests that the concept of the natural rate of unemployment can be used to help policymakers set macroeconomic policy. This concept suggests that there is a trade-off between unemployment and inflation in the short run, but in the long run, the economy will return to the natural rate of unemployment, which is determined by structural factors such as the skills of the labour force and the efficiency of the labour market. Sargent argues that policymakers should take this concept into account when setting macroeconomic policy, as policies that try to push unemployment below the natural rate will only lead to higher inflation in the long run.
+
+
+== Theory ==
+The key idea of rational expectations is that individuals make decisions based on all available information, including their own expectations about future events. This implies that individuals are rational and use all available information to make decisions. Another important idea is that individuals adjust their expectations in response to new information. In this way, individuals are assumed to be forward-looking and able to adapt to changing circumstances. They will learn from past trends and experiences to make their best guess of the future.It is assumed that an individual's predicted outcome do not differ systematically from the market equilibrium given that they do not make systematic errors when predicting the future. 
+In an economic model, this is typically modelled by assuming that the expected value of a variable is equal to the expected value predicted by the model. For example, suppose that P is the equilibrium price in a simple market, determined by supply and demand. The theory of rational expectations implies that the actual price will only deviate from the expectation if there is an 'information shock' caused by information unforeseeable at the time expectations were formed. In other words, ex ante the price is anticipated to equal its rational expectation:
+
+  
+    
+      
+        P
+        =
+        
+          P
+          
+            ∗
+          
+        
+        +
+        ϵ
+      
+    
+    {\displaystyle P=P^{*}+\epsilon }
+  
+
+  
+    
+      
+        E
+        [
+        P
+        ]
+        =
+        
+          P
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle E[P]=P^{*}}
+  where 
+  
+    
+      
+        
+          P
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle P^{*}}
+   is the rational expectation and 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   is the random error term, which has an expected value of zero, and is independent of 
+  
+    
+      
+        
+          P
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle P^{*}}
+  .
+
+
+== Mathematical derivation ==
+If rational expectations are applied to the Phillips curve analysis, the distinction between long and short term will be completely negated, that is, there is no Phillips curve, and there is no substitute relationship between inflation rate and unemployment rate that can be utilized.
+The mathematical derivation is as follows:
+Rational expectation is consistent with objective mathematical expectation: 
+
+  
+    
+      
+        E
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        +
+        
+          ε
+          
+            t
+          
+        
+      
+    
+    {\displaystyle E{\dot {P}}_{t}={\dot {P}}_{t}+\varepsilon _{t}}
+  
+Mathematical derivation (1)
+Assuming that the actual process is known, the rate of inflation depends on previous monetary changes and changes in short-term variables such as X (for example, oil prices):
+(1) 
+  
+    
+      
+        
+          
+            
+              P
+              ˙
+            
+          
+        
+        =
+        q
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        
+          ε
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {P}}=q{\dot {M}}_{t-1}+z{\dot {X}}_{t-1}+\varepsilon _{t}}
+  
+(2) 
+  
+    
+      
+        E
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        q
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle E{\dot {P}}_{t}=q{\dot {M}}_{t-1}+z{\dot {X}}_{t-1}}
+  
+(3) 
+  
+    
+      
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        α
+        −
+        β
+        
+          u
+          
+            t
+          
+        
+        +
+        γ
+        
+          E
+          
+            t
+            −
+            1
+          
+        
+        (
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        )
+      
+    
+    {\displaystyle {\dot {P}}_{t}=\alpha -\beta u_{t}+\gamma E_{t-1}({\dot {P}}_{t})}
+   , 
+  
+    
+      
+        γ
+        =
+        1
+      
+    
+    {\displaystyle \gamma =1}
+  
+(4) 
+  
+    
+      
+        α
+        −
+        
+          B
+        
+        
+          u
+          
+            t
+          
+        
+        +
+        q
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        =
+        q
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        
+          ε
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \alpha -\mathrm {B} u_{t}+q{\dot {M}}_{t-1}+z{\dot {X}}_{t-1}=q{\dot {M}}_{t-1}+z{\dot {X}}_{t-1}+\varepsilon _{t}}
+  
+(5) 
+  
+    
+      
+        
+          u
+          
+            t
+          
+        
+        =
+        
+          
+            
+              α
+              −
+              
+                ϵ
+                
+                  t
+                
+              
+            
+            β
+          
+        
+      
+    
+    {\displaystyle u_{t}={\frac {\alpha -\epsilon _{t}}{\beta }}}
+  
+Thus, even in the short run, there is no substitute relationship between inflation and unemployment. Random shocks, which are completely unpredictable, are the only reason why the unemployment rate deviates from the natural rate.
+Mathematical derivation (2)
+Even if the actual rate of inflation is dependent on current monetary changes, the public can make rational expectations as long as they know how monetary policy is being decided:
+(1) 
+  
+    
+      
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        q
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        
+          ε
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {P}}_{t}=q{\dot {M}}_{t}+z{\dot {X}}_{t-1}+\varepsilon _{t}}
+  
+(2) 
+  
+    
+      
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        g
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        
+          μ
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {M}}_{t}=g{\dot {M}}_{t-1}+\mu _{t}}
+  
+(3) 
+  
+    
+      
+        
+          
+            
+              
+                P
+                ˙
+              
+            
+          
+          
+            t
+          
+        
+        =
+        q
+        g
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        q
+        
+          μ
+          
+            t
+          
+        
+        +
+        
+          ε
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\dot {P}}_{t}=qg{\dot {M}}_{t-1}+z{\dot {X}}_{t-1}+q\mu _{t}+\varepsilon _{t}}
+  
+(4) 
+  
+    
+      
+        E
+        
+          
+            
+              P
+              ˙
+            
+          
+        
+        =
+        q
+        g
+        
+          
+            
+              
+                M
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+        +
+        z
+        
+          
+            
+              
+                X
+                ˙
+              
+            
+          
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle E{\dot {P}}=qg{\dot {M}}_{t-1}+z{\dot {X}}_{t-1}}
+  
+(5) 
+  
+    
+      
+        
+          u
+          
+            t
+          
+        
+        =
+        
+          
+            
+              α
+              −
+              q
+              
+                μ
+                
+                  t
+                
+              
+              −
+              
+                ε
+                
+                  t
+                
+              
+            
+            β
+          
+        
+      
+    
+    {\displaystyle u_{t}={\frac {\alpha -q\mu _{t}-\varepsilon _{t}}{\beta }}}
+  
+The conclusion is essentially the same: random shocks that are completely unpredictable are the only thing that can cause the unemployment rate to deviate from the natural rate.
+
+
+== Implications ==
+Rational expectations theories were developed in response to perceived flaws in theories based on adaptive expectations.  Under adaptive expectations, expectations of the future value of an economic variable are based on past values.  For example, it assumes that individuals predict inflation by looking at historical inflation data.  Under adaptive expectations, if the economy suffers from a prolonged period of rising inflation, people are assumed to always underestimate inflation. Many economists suggested that it was an unrealistic and irrational assumption, as they believe that rational individuals will learn from past experiences and trends and adjust their predictions accordingly.
+The rational expectations hypothesis has been used to support conclusions about economic policymaking. An example is the policy ineffectiveness proposition developed by Thomas Sargent and Neil Wallace. If the Federal Reserve attempts to lower unemployment through expansionary monetary policy, economic agents will anticipate the effects of the change of policy and raise their expectations of future inflation accordingly. This will counteract the expansionary effect of the increased money supply, suggesting that the government can only increase the inflation rate but not employment.
+If agents do not form rational expectations or if prices are not completely flexible, discretional and completely anticipated, economic policy actions can trigger real changes.
+
+
+== Criticism ==
+While the rational expectations theory has been widely influential in macroeconomic analysis, it has also been subject to criticism:
+Unrealistic assumptions: The theory assumes that individuals have perfect information and can process it without error. This is unlikely to be the case, due to limited information available and human error.Limited empirical support: While there is some evidence that individuals do incorporate expectations into their decision-making, it is unclear whether they do so in the way predicted by the rational expectations theory.Misspecification of models: The rational expectations theory assumes that individuals have a common understanding of the model used to make predictions. However, if the model is misspecified, this can lead to incorrect predictions.Inability to explain certain phenomena: The theory is also criticised for its inability to explain certain phenomena, such as bubbles and crashes in financial markets.Lack of attention to distributional effects: Critics argue that the rational expectations theory focuses too much on aggregate outcomes and does not pay enough attention to the distributional effects of economic policies.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Hanish C. Lodhia (2005) "The Irrationality of Rational Expectations – An Exploration into Economic Fallacy". 1st Edition, Warwick University Press, UK.
+Maarten C. W. Janssen (1993) "Microfoundations: A Critical Inquiry". Routledge.
+John F. Muth  (1961) "Rational Expectations and the Theory of Price Movements" reprinted in The new classical macroeconomics. Volume 1. (1992): 3–23 (International Library of Critical Writings in Economics, vol. 19. Aldershot, UK: Elgar.)
+Thomas J. Sargent (1987). "Rational expectations," The New Palgrave: A Dictionary of Economics, v. 4, pp. 76–79.
+N.E. Savin (1987). "Rational expectations: econometric implications," The New Palgrave: A Dictionary of Economics, v. 4, pp. 79–85.
+
+
+== External links ==
+
+Sargent, Thomas J. (2008). "Rational Expectations". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.

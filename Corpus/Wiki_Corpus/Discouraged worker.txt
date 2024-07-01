@@ -1,0 +1,96 @@
+In economics, a discouraged worker is a person of legal employment age who is not actively seeking employment or who has not found employment after long-term unemployment, but who would prefer to be working. This is usually because an individual has given up looking, hence the term "discouraged".
+A discouraged worker, since not actively seeking employment, has fallen out of the core statistics of the unemployment rate since he is neither working nor job-seeking. Their giving up on job-seeking may derive from a variety of factors including a shortage of jobs in their locality or line of work; discrimination for reasons such as age, race, sex, religion, sexual orientation, and disability; a lack of necessary skills, training, or experience; a chronic illness or disability; or simply a lack of success in finding a job.As a general practice, discouraged workers, who are often classified as marginally attached to the labor force, on the margins of the labor force, or as part of hidden unemployment, are not considered part of the labor force, and are thus not counted in most official unemployment rates—which influences the appearance and interpretation of unemployment statistics.
+One of the reasons why people become discouraged workers is discrimination in the workplace. The research found that minorities are more likely to become discouraged workers due to discrimination. The minorities, such as African Americans, ethnic and racial minorities in Europe, and older workers, tend to become discouraged workers more than others. Discrimination leads workers to be discouraged workers because discrimination caused feelings of helplessness and uncontrollability and decreases a level of self-efficacy. The studies of discouraged workers are undertaken, as it is seen as "hidden unemployment". However, it is related to major social problems like minority discrimination and the lack of a diverse community.There are not significant behavioral patterns of labor force participation across age-sex groups in the business cycle. It is related to the unemployment rate in the region. Generally, the discouraged worker effect gets stronger when the unemployment rate exceeds a certain level. Young workers are most dependent on the business cycle, regarding the decision of whether to participate in the labor force. There is a linear relationship only among the prime-age female between the added workers and the discouraged workers. The discouraged worker effects appear more for older workers during the exception phase, which is the phase when the unemployment rates of workers departed.
+
+
+== United States ==
+In the United States, a discouraged worker is defined as a person not in the labor force who wants and is available for a job and who has looked for work sometime in the past 12 months (or since the end of his or her last job if a job was held within the past 12 months), but who is not currently looking because of real or perceived poor employment prospects.The Bureau of Labor Statistics does not count discouraged workers as unemployed but rather refers to them as only "marginally attached to the labor force". This means that the officially measured unemployment captures so-called "frictional unemployment" and not much else. This has led some economists to believe that the actual unemployment rate in the United States is higher than what is officially reported while others suggest that discouraged workers voluntarily choose not to work. Nonetheless, the U.S. Bureau of Labor Statistics has published the discouraged worker rate in alternative measures of labor underutilization under U-4 since 1994 when the most recent redesign of the CPS was implemented.The United States Department of Labor first began tracking discouraged workers in 1967 and found 500,000 at the time. Today, In the United States, according to the U.S. Bureau of Labor Statistics as of April 2009, there are 740,000 discouraged workers. There is an ongoing debate as to whether discouraged workers should be included in the official unemployment rate. Over time, it has been shown that a disproportionate number of young people, blacks, Hispanics, and men make up discouraged workers. Nonetheless, it is generally believed that the number of discouraged workers is underestimated because it does not include homeless people or those who have not looked for or held a job during the past twelve months and is often poorly tracked.According to the U.S. Bureau of Labor Statistics, the top five reasons for discouragement are the following:
+The worker thinks no work is available.
+The worker could not find work.
+The worker lacks schooling or training.
+The worker is viewed as too young or too old by the prospective employer.
+The worker is the target of various types of discrimination.As the world navigates through the effects of the global coronavirus pandemic, a growing number of job seekers in the United States are becoming discouraged, leaving the labor force entirely, according to a new Pew Research Center analysis of government data. The number of Americans who are out of work and have experienced long-term unemployment, while still continuing to look for a job for more than six months, has increased considerably in the year since the start of the COVID-19 recession. During periods of economic weakness, the labor force participation rate in the United States has tended to decline during economic downturns. During the 2007–09 recession, the unemployment rate for discouraged workers more than doubled. From late 2007 to early 2011, the number of discouraged workers increased from about 350,000 to a peak of about 1.3 million. The Congressional Budget Office (CBO) reports that the lingering effects of the 2007–2009 recession and the slow recovery will continue to restrain participation.  The effects of the coronavirus greatly impacted the United States economy. Pew Research Center reports that overall, 25% of U.S. adults say they or someone in their household was laid off or lost their job because of the coronavirus outbreak, with 15% saying this happened to them personally. Nearly 529,000 Americans were classified as discouraged workers in February 2021, roughly 100,000 more than the number one year ago. As a result of the coronavirus pandemic, labor market participation rate sharply declined due to the lack of job opportunities that perpetuated discourage people from searching for employment. Like most economic crisis as the labor market improves and jobs becomes more plentiful, unemployed workers will reenter the labor force. CBO expects that discouraged workers are likely to continue to reenter the labor force as more people find jobs and wage growth increases.
+
+
+== Canada ==
+In Canada, discouraged workers are often referred to as hidden unemployed because of their behavioral pattern, and are often described as on the margins of the labour force. Since the numbers of discouraged workers and of unemployed generally move in the same direction during the business cycle and the seasons (both tend to rise in periods of low
+economic activity and vice versa), some economists have suggested that discouraged workers should be included in the unemployment numbers because of the close association.The information on the number and composition of the discouraged worker group in Canada originates from two main sources. One source is the monthly Labour Force Survey (LFS), which is a monthly survey that provides an estimate of both employment and unemployment. The LFS’ definition of discouraged workers has not changed since 1997. It is defined as people who were willing and available to work during the reference week but did not work because they believed there was no suitable work available. The other source is the Survey of Job Opportunities (SJO), which is much closer in design to the approach used in many other countries. In this survey, all those expressing a desire for work and who are available for work are counted, irrespective of their past job search activity.In Canada, while discouraged workers were once less educated than "average workers", they now have better training and education but still tend to be concentrated in areas of high unemployment. Discouraged workers are not seeking a job for one of two reasons: labour market-related reasons (worker discouragement, waiting for recall to a former job or waiting for replies to earlier job search efforts) and personal and other reasons (illness or disability, personal or family responsibilities, going to school, and so on).The table below uses the data from the LFS since 2016. Unemployment was slowly rising from the year 2016 where it was 10,115,700 people to 2019 where the number increased to 10,555,000 people. Similar to the rest of the world, the Covid-19 pandemic caused an even greater increase in the total unemployment, affecting a high of 11,156,000 people. Among the set of the population classified as discouraged workers, there is a greater rise, going from 21,800 people in 2019 to 70,400 in 2020.LFS Reason for not looking for work x 1000: Both sexes, ages 15 and older.
+It is worth noting that there is a vast population of Aboriginal people that reside in Canada. Canada classifies the following  three groups under the broad term Aboriginal: the First Nations, Inuit, and the Metis. Statistics Canada does not measure Aboriginal unemployment separate from the population as a whole, but the Aboriginal people make up a big portion of the unemployed and discouraged worker count. The 2008 recession hit the Aboriginals harder than the rest of the population, which created a pattern of high rates of unemployment and discouraged workers.The Aboriginal have greater restrictions to work than the normal population due to race, lower human capital, and education. These factors subject the population to more part-time-part-year work, layoffs, job loss and lower pay. Dealing with this over time produces more discouraged workers, and produces a smaller labor force participation. Aboriginal peoples were three times as likely to be discouraged workers than the rest of the population.
+
+
+== Australia ==
+In Australia, discouraged workers are recorded by the Australian Bureau of Statistics (ABS) into a category of potential workers who are not actively seeking work. In order to be categorized as discouraged, individuals must a) want to work, b) be available to start working within 4 weeks, and c) are not actively applying for jobs because they are discouraged. According to ABS, there were 808,000 persons classified as unemployed in February 2021 plus an additional 1.157 million marginally attached to the labor force. The 113,000 discouraged workers fall into this marginally attached group.
+The top three reasons that discouraged workers in Australia did not actively seek work in the week prior were:
+
+Considered too young or too old by employers
+No jobs in locality, line of work or no jobs at all
+No jobs in suitable hoursThe table below shows how there has been an overall increase in the number of discouraged workers in Australia, even with decreases from 2015 to 2016 and again from 2018 to 2019. As with many other countries, the number of discouraged workers increases during times of economic downturn which would explain the increases seen in 2020 and 2021 during the COVID-19 pandemic. Additionally, women are more likely to be discouraged workers than men in Australia.
+The Centre for Aboriginal Economic Policy Research (CAEPR) at The Australian National University has done further research of discouraged workers within Australia’s Indigenous population. As discussed by Hunter and Gray, Indigenous Australians are more than three times more likely to become discouraged than the Australian population as a whole. Similar to what is seen in the entire Australian population, Indigenous females experience higher rates of discouraged workers as compared to males. The top two reasons for becoming discouraged for the indigenous population as a whole were “childcare and other family responsibilities” and “studying/returning to studies.”
+
+
+== European Union ==
+Unemployment statistics published according to the ILO methodology may understate actual unemployment in the economy. The EU statistical bureau EUROSTAT started publishing figures on discouraged workers in 2010. According to the method used by EUROSTAT there are 3 categories that make up discouraged workers;
+
+underemployed part-time workers
+jobless persons seeking a job but not immediately available for work,
+persons available for work but not seeking itThe first group are contained in the employed statistics of the European Labour Force Survey while the second two are contained in the inactive persons statistics of that survey.
+In 2012 there were 9.2 million underemployed part-time workers, 2.3 million jobless persons seeking a job but not immediately available for work, and 8.9 million persons available for work but not seeking it, an increase of 0.6 million for underemployed and 0.3 million for the two groups making up discouraged workers.If the discouraged workers and underemployed are added to official unemployed statistics Spain has the highest number real unemployed (8.4 Million), followed by Italy (6.4 Million), United Kingdom (5.5 Million), France (4.8 Million) and Germany (3.6 Million).
+
+
+== India ==
+The discouraged worker effects in India are divided into two concepts, unexplained gender wage gap and degree of underemployment. The discouraged worker effects are related to the recession in the business cycle, mainly affecting women or the secondary income earners in the household. Gender discrimination in the labor market, the lack of job opportunities, and the wage gap discourage women from entering the labor force in India.
+In Kerala, India, it worsened the female-to-male wage ratio between 2004 and 2012, which is one of the causes why it generated discouraged women workers. The discouraged worker effect of the wage gap was 2.6% in 2011/12 in India, which is the ratio of a 1% increase in the wage gap. This ratio of the wage gap for India exceeds the ratio for the Republic of Korea and Japan.Gender imbalance for the participation rate is historically higher in the southern states than in the northern states. For example, the participation rate was 21% for all all-India of, whereas 25% was in Andhra Pradesh, which is in the south of India, and 14% in Uttar Pradesh, which is in the north of India. The participation rate for Kerala was 42%, which is much higher than the national average, while the rate for Uttarakhand was 21% in 2011/12. The participation rate of the labor force for women is higher in western and southern states than in central India. The participation rate is positively related to the education level. As the education level reached to graduate, the probability of labor force entry increased by 5.7% in 2011/12.
+
+
+== See also ==
+Gig economy
+Involuntary unemployment
+NEET
+Labor force
+Precariat
+Unemployment rate
+Workforce
+Types of unemployment
+
+
+=== United States ===
+Bureau of Labor Statistics
+Current Population Survey
+99ers
+
+
+=== Canada ===
+Labour and Household Surveys Analysis Division of Statistics Canada
+
+
+== References ==
+
+
+== Further reading ==
+Blundell, Richard; J. Ham; Costas Meghir (Jan 1998). "Unemployment, discouraged workers and female labour supply". Research in Economics. 52 (2): 103–131. CiteSeerX 10.1.1.638.3829. doi:10.1006/reec.1997.0158.
+Hussmanns, Ralf; Farhad Mehran; Vijaya Varmā (1990). Surveys of economically active population, employment, unemployment, and underemployment: an ILO manual on concepts and methods. illustrated. International Labour Office (2 ed.). International Labour Organization. ISBN 978-92-2-106516-6.
+
+
+== External links ==
+Discouraged workers, OECD Stats extract
+Incidence of discouraged workers, OECD
+
+
+=== United States ===
+Discouraged workers in glossary, U.S. Bureau of Labor Statistics Division of Information Services
+Employment Situation Summary, U.S. Bureau of Labor Statistics Division of Information Services
+Alternative measures of labor underutilization, U.S. Bureau of Labor Statistics Division of Information Services
+Discouraged Worker, Investopedia
+Down And Out: "Discouraged" Workers, Time magazine
+Actual U.S. Unemployment: 15.8%, The Washington Post
+'Hidden Unemployment' Inflates State's Real Jobless Figures, The Hartford Courant
+Tracking the Long-Term Unemployed and Discouraged Workers, The Heritage Foundation
+Ranks of Discouraged Workers and Others Marginally Attached to the Labor Force Rise During Recession Issues in Labor Statistics, U.S. Bureau of Labor Statistics Division of Information Services
+Discouraged Workers, Drexel
+Jobless statistics overlook many, San Francisco Chronicle
+PROMOTING ECONOMIC OPPORTUNITY AND OWNERSHIP
+Labor force characteristics, Labor Force Statistics from the Current Population Survey
+
+
+=== Canada ===
+Discouraged Workers

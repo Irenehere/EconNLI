@@ -1,0 +1,136 @@
+A fixed exchange rate, often called a pegged exchange rate, is a type of exchange rate regime in which a currency's value is fixed or pegged by a monetary authority against the value of another currency, a basket of other currencies, or another measure of value, such as gold.
+There are benefits and risks to using a fixed exchange rate system. A fixed exchange rate is typically used to stabilize the exchange rate of a currency by directly fixing its value in a predetermined ratio to a different, more stable, or more internationally prevalent currency (or currencies) to which the currency is pegged. In doing so, the exchange rate between the currency and its peg does not change based on market conditions, unlike in a floating (flexible) exchange regime. This makes trade and investments between the two currency areas easier and more predictable and is especially useful for small economies that borrow primarily in foreign currency and in which external trade forms a large part of their GDP.
+A fixed exchange rate system can also be used to control the behavior of a currency, such as by limiting rates of inflation. However, in doing so, the pegged currency is then controlled by its reference value. As such, when the reference value rises or falls, it then follows that the values of any currencies pegged to it will also rise and fall in relation to other currencies and commodities with which the pegged currency can be traded. In other words, a pegged currency is dependent on its reference value to dictate how its current worth is defined at any given time. In addition, according to the Mundell–Fleming model, with perfect capital mobility, a fixed exchange rate prevents a government from using domestic monetary policy to achieve macroeconomic stability.
+In a fixed exchange rate system, a country's central bank typically uses an open market mechanism and is committed at all times to buy and sell its currency at a fixed price in order to maintain its pegged ratio and, hence, the stable value of its currency in relation to the reference to which it is pegged. To maintain a desired exchange rate, the central bank during a time of private sector net demand for the foreign currency, sells foreign currency from its reserves and buys back the domestic money. This creates an artificial demand for the domestic money, which increases its exchange rate value. Conversely, in the case of an incipient appreciation of the domestic money, the central bank buys back the foreign money and thus adds domestic money into the market, thereby maintaining market equilibrium at the intended fixed value of the exchange rate.In the 21st century, the currencies associated with large economies typically do not fix (peg) their exchange rates to other currencies. The last large economy to use a fixed exchange rate system was the People's Republic of China, which, in July 2005, adopted a slightly more flexible exchange rate system, called a managed exchange rate. The European Exchange Rate Mechanism is also used on a temporary basis to establish a final conversion rate against the euro from the local currencies of countries joining the Eurozone.
+
+
+== History ==
+
+
+=== Chronology ===
+Timeline of the fixed exchange rate system:
+
+
+=== Gold standard ===
+
+
+=== Bretton Woods system ===
+
+
+=== Current monetary regimes ===
+
+
+== Mechanisms ==
+
+
+=== Open market trading ===
+Typically, a government wanting to maintain a fixed exchange rate does so by either buying or selling its own currency on the open market. This is one reason governments maintain reserves of foreign currencies.
+If the exchange rate drifts too far above the fixed benchmark rate (it is stronger than required), the government sells its own currency (which increases supply) and buys foreign currency. This causes the price of the currency to decrease in value (Read: Classical Demand-Supply diagrams). Also, if they buy the currency it is pegged to, then the price of that currency will increase, causing the relative value of the currencies to approach what is intended.
+If the exchange rate drifts too far below the desired rate, the government buys its own currency in the market by selling its reserves. This places greater demand on the market and causes the local currency to become stronger, hopefully back to its intended value. The reserves they sell may be the currency it is pegged to, in which case the value of that currency will fall.
+
+
+=== Fiat ===
+Another, less used means of maintaining a fixed exchange rate is by simply making it illegal to trade currency at any other rate. This is difficult to enforce and often leads to a black market in foreign currency.  Nonetheless, some countries are highly successful at using this method due to government monopolies over all money conversion. This was the method employed by the Chinese government to maintain a currency peg or tightly banded float against the US dollar. China buys an average of one billion US dollars a day to maintain the currency peg. Throughout the 1990s, China was highly successful at maintaining a currency peg using a government monopoly over all currency conversion between the yuan and other currencies.
+
+
+== Open market mechanism example ==
+
+
+=== Excess demand for dollars ===
+
+
+=== Excess supply of dollars ===
+
+
+== Types of fixed exchange rate systems ==
+
+
+=== The gold standard ===
+
+
+=== Price specie flow mechanism ===
+
+
+=== Reserve currency standard ===
+Currency board arrangements are the most widespread means of fixed exchange rates. Currency boards are considered hard pegs as they allow central banks to cope with shocks to money demand without running out of reserves. CBAs have been operational in many nations including:
+
+Hong Kong (since 1983);
+Argentina (1991 to 2001);
+Estonia (1992 to 2010);
+Lithuania (1994 to 2014);
+Bosnia and Herzegovina (since 1997);
+Bulgaria (since 1997);
+Bermuda (since 1972);
+Denmark (since 1945);
+Brunei (since 1967)
+
+
+=== Gold exchange standard ===
+
+
+== Hybrid exchange rate systems ==
+
+
+=== Basket-of-currencies ===
+
+
+=== Crawling pegs ===
+
+
+=== Pegged within a band ===
+
+
+=== Currency boards ===
+
+
+=== Currency substitution ===
+
+
+=== Monetary co-operation ===
+Monetary co-operation is the mechanism in which two or more monetary policies or exchange rates are linked, and can happen at regional or international level. The monetary co-operation does not necessarily need to be a voluntary arrangement between two countries, as it is also possible for a country to link its currency to another countries currency without the consent of the other country. Various forms of monetary co-operations exist, which range from fixed parity systems to monetary unions. Also, numerous institutions have been established to enforce monetary co-operation and to stabilise exchange rates, including the European Monetary Cooperation Fund (EMCF) in 1973 and the International Monetary Fund (IMF)Monetary co-operation is closely related to economic integration, and are often considered to be reinforcing processes. However, economic integration is an economic arrangement between different regions, marked by the reduction or elimination of trade barriers and the coordination of monetary and fiscal policies, whereas monetary co-operation is focussed on currency linkages. A monetary union is considered to be the crowning step of a process of monetary co-operation and economic integration. In the form of monetary co-operation where two or more countries engage in a mutually beneficial exchange, capital among the countries involved is free to move, in contrast to capital controls. Monetary co-operation is considered to promote balanced economic growth and monetary stability, but can also work counter-effectively if the member countries have (strongly) differing levels of economic development.  Especially European and Asian countries have a history of monetary and exchange rate co-operation, however the European monetary co-operation and economic integration eventually resulted in a European monetary union.
+
+
+==== Example: The Snake ====
+In 1973, the currencies of the European Economic Community countries, Belgium, France, Germany, Italy, Luxemburg and the Netherlands, participated in an arrangement called the Snake. This arrangement is categorized as exchange rate co-operation. During the next 6 years, this agreement allowed the currencies of the participating countries to fluctuate within a band of plus or minus 2¼% around pre-announced central rates. Later, in 1979, the European Monetary System (EMS) was founded, with the participating countries in ‘the Snake’ being founding members. The EMS evolves over the next decade and even results into a truly fixed exchange rate at the start of the 1990s. Around this time, in 1990, the EU introduced the Economic and Monetary Union (EMU), as an umbrella term for the group of policies aimed at converging the economies of member states of the European Union over three phases 
+
+
+==== Example: The baht-U.S. dollar co-operation ====
+In 1963, the Thai government established the Exchange Equalization Fund (EEF) with the purpose of playing a role in stabilizing exchange rate movements. It linked to the U.S. dollar by fixing the amount of gram of gold per baht as well as the baht per U.S. dollar. Over the course of the next 15 years, the Thai government decided to depreciate the baht in terms of gold three times, yet maintain the parity of the baht against the U.S. dollar. Due to the introduction of a new generalized floating exchange rate system by the International Monetary Fund (IMF) in 1978 that gave a smaller role to gold in the international monetary system, this fixed parity system as a monetary co-operation policy was terminated. The Thai government amended its monetary policies to be more in line with the new IMF policy.
+
+
+== Advantages ==
+
+
+== Disadvantages ==
+
+
+=== Lack of automatic rebalancing ===
+One main criticism of a fixed exchange rate is that flexible exchange rates serve to adjust the balance of trade. When a trade deficit occurs under a floating exchange rate, there will be increased demand for the foreign (rather than domestic) currency which will push up the price of the foreign currency in terms of the domestic currency. That in turn makes the price of foreign goods less attractive to the domestic market and thus pushes down the trade deficit. Under fixed exchange rates, this automatic rebalancing does not occur.
+
+
+=== Currency crisis ===
+Another major disadvantage of a fixed exchange-rate regime is the possibility of the central bank running out of foreign exchange reserves when trying to maintain the peg in the face of demand for foreign reserves exceeding their supply. This is called a currency crisis or balance of payments crisis, and when it happens the central bank must devalue the currency. When there is the prospect of this happening, private-sector agents will try to protect themselves by decreasing their holdings of the domestic currency and increasing their holdings of the foreign currency, which has the effect of increasing the likelihood that the forced devaluation will occur. A forced devaluation will change the exchange rate by more than the day-by-day exchange rate fluctuations under a flexible exchange rate system.
+
+
+=== Freedom to conduct monetary and fiscal policy ===
+Moreover, a government, when having a fixed rather than dynamic exchange rate, cannot use monetary or fiscal policies with a free hand. For instance, by using reflationary tools to set the economy growing faster (by decreasing taxes and injecting more money in the market), the government risks running into a trade deficit. This might occur as the purchasing power of a common household increases along with inflation, thus making imports relatively cheaper.Additionally, the stubbornness of a government in defending a fixed exchange rate when in a trade deficit will force it to use deflationary measures (increased taxation and reduced availability of money), which can lead to unemployment. Finally, other countries with a fixed exchange rate can also retaliate in response to a certain country using the currency of theirs in defending their exchange rate.
+
+
+=== Other disadvantages ===
+
+
+== Fixed exchange rate regime versus capital control ==
+The belief that the fixed exchange rate regime brings with it stability is only partly true, since speculative attacks tend to target currencies with fixed exchange rate regimes, and in fact, the stability of the economic system is maintained mainly through capital control. A fixed exchange rate regime should be viewed as a tool in capital control.
+
+
+== FIX Line: Trade-off between symmetry of shocks and integration ==
+The trade-off between symmetry of shocks and market integration for countries contemplating a pegged currency is outlined in Feenstra and Taylor's 2015 publication "International Macroeconomics" through a model known as the FIX Line Diagram.
+This symmetry-integration diagram features two regions, divided by a 45-degree line with slope of -1. This line can shift to the left or to the right depending on extra costs or benefits of floating. The line has slope= -1 is because the larger symmetry benefits are, the less pronounced integration benefits have to be and vice versa. The right region contains countries that have positive potential for pegging, while the left region contains countries that face significant risks and deterrents to pegging.
+This diagram underscores the two main factors that drive a country to contemplate pegging a currency to another, shock symmetry and market integration. Shock symmetry can be characterized as two countries having similar demand shocks due to similar industry breakdowns and economies, while market integration is a factor of the volume of trading that occurs between member nations of the peg.
+In extreme cases, it is possible for a country to only exhibit one of these characteristics and still have positive pegging potential. For example, a country that exhibits complete symmetry of shocks but has zero market integration could benefit from fixing a currency. The opposite is true, a country that has zero symmetry of shocks but has maximum trade integration (effectively one market between member countries). *This can be viewed on an international scale as well as a local scale. For example, neighborhoods within a city would experience enormous benefits from a common currency, while poorly integrated and dissimilar countries are likely to face large costs.
+
+
+== See also ==
+
+
+== References ==

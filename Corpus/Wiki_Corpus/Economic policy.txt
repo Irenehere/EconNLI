@@ -1,0 +1,85 @@
+The economy of governments covers the systems for setting levels of taxation, government budgets, the money supply and interest rates as well as the labour market, national ownership, and many other areas of government interventions into the economy.
+Most factors of economic policy can be divided into either fiscal policy, which deals with government actions regarding taxation and spending, or monetary policy, which deals with central banking actions regarding the money supply and interest rates.
+Such policies are often influenced by international institutions like the International Monetary Fund or World Bank as well as political beliefs and the consequent policies of parties.
+
+
+== Types of economic policy ==
+Almost every aspect of government has an important economic component. A few examples of the kinds of economic policies that exist include:
+Macroeconomic stabilization policy, which attempts to keep the money supply growing at a rate that does not result in excessive inflation, and attempts to smooth out the business cycle.
+Trade policy, which refers to tariffs, trade agreements and the international institutions that govern them.
+Policies designed to create economic growth
+Policies related to development economics
+Policies dealing with the redistribution of income, property and/or wealth
+As well as: regulatory policy, anti-trust policy, industrial policy and technology-based economic development policy
+
+
+== Macroeconomic stabilization policy ==
+Stabilization policy attempts to stimulate an economy out of recession or constrain the money supply to prevent excessive inflation.
+
+Fiscal policy, often tied to Keynesian economics, uses government spending and taxes to guide the economy.
+Fiscal stance: The size of the deficit or surplus
+Tax policy: The taxes used to collect government income.
+Government spending on just about any area of government
+Monetary policy controls the value of currency by lowering the supply of money to control inflation and raising it to stimulate economic growth. It is concerned with the amount of money in circulation and, consequently, interest rates and inflation.
+Interest rates, if set by the Government
+Incomes policies and price controls that aim at imposing non-monetary controls on inflation
+Reserve requirements which affect the money multiplier
+
+
+== Tools and goals ==
+Policy is generally directed to achieve particular objectives, like targets for inflation, unemployment, or economic growth. Sometimes other objectives, like military spending or nationalization are important.
+These are referred to as the policy goals: the outcomes which the economic policy aims to achieve.
+To achieve these goals, governments use policy tools which are under the control of the government. These generally include the interest rate and money supply, tax and government spending, tariffs, exchange rates, labor market regulations, and many other aspects of government.
+
+
+=== Selecting tools and goals ===
+Government and central banks are limited in the number of goals they can achieve in the short term. For instance, there may be pressure on the government to reduce inflation, reduce unemployment, and reduce interest rates while maintaining currency stability. If all of these are selected as goals for the short term, then policy is likely to be incoherent, because a normal consequence of reducing inflation and maintaining currency stability is increasing unemployment and increasing interest rates.
+
+
+=== Demand-side vs. supply-side tools ===
+This dilemma can in part be resolved by using microeconomic supply-side policy to help adjust markets. For instance, unemployment could potentially be reduced by altering laws relating to trade unions or unemployment insurance, as well as by macroeconomic (demand-side) factors like interest rates.
+
+
+== Discretionary policy vs policy rules ==
+For much of the 20th century, governments adopted discretionary policies like demand management designed to correct the business cycle. These typically used fiscal and monetary policy to adjust inflation, output and unemployment.
+However, following the stagflation of the 1970s, policymakers began to be attracted to policy rules. 
+A discretionary policy is supported because it allows policymakers to respond quickly to events. However, discretionary policy can be subject to dynamic inconsistency: a government may say it intends to raise interest rates indefinitely to bring inflation under control, but then relax its stance later. This makes policy non-credible and ultimately ineffective.
+A rule-based policy can be more credible, because it is more transparent and easier to anticipate. Examples of rule-based policies are fixed exchange rates, interest rate rules, the stability and growth pact and the Golden Rule. Some policy rules can be imposed by external bodies, for instance, the Exchange Rate Mechanism for currency. 
+A compromise between strict discretionary and strict rule-based policy is to grant discretionary power to an independent body. For instance, the Federal Reserve Bank, European Central Bank, Bank of England and Reserve Bank of Australia all set interest rates without government interference, but do not adopt rules.
+Another type of non-discretionary policy is a set of policies that are imposed by an international body. This can occur (for example) as a result of intervention by the International Monetary Fund.
+
+
+== Economic policy through history ==
+
+The first economic problem was how to gain the resources it needed to be able to perform the functions of an early government: the military, roads and other projects like building the Pyramids.
+Early governments generally relied on tax in kind and forced labor for their economic resources. However, with the development of money came the first policy choice. A government could raise money through taxing its citizens. However, it could now also debase the coinage and so increase the money supply. 
+Early civilizations also made decisions about whether to permit and how to tax trade. Some early civilizations, such as Ptolemaic Egypt adopted a closed currency policy whereby foreign merchants had to exchange their coin for local money. This effectively levied a very high tariff on foreign trade.
+By the early modern age, more policy choices had been developed. There was considerable debate about mercantilism and other restrictive trade practices like the Navigation Acts, as trade policy became associated with both national wealth and with foreign and colonial policy.
+Throughout the 19th Century, monetary standards became an important issue. Gold and silver were in supply in different proportions. Which metal was adopted influenced the wealth of different groups in society.
+
+
+=== The first fiscal policy ===
+With the accumulation of private capital in the Renaissance, states developed methods of financing deficits without debasing their coin. The development of capital markets meant that a government could borrow money to finance war or expansion while causing less economic hardship. 
+This was the beginning of modern fiscal policy.
+The same markets made it easy for private entities to raise bonds or sell stock to fund private initiatives.
+
+
+=== Business cycles ===
+The business cycle became a predominant issue in the 19th century, as it became clear that industrial output, employment, and profit behaved in a cyclical manner. One of the first proposed policy solutions to the problem came with the work of Keynes, who proposed that fiscal policy could be used actively to ward off depressions, recessions and slumps.  The Austrian School of economics argues that central banks create the business cycle. After the dominance of monetarismry and neoclassical thought that advised limiting the role of government in the economy in the second half of the twentieth century, the interventionist view has once more dominated the economic policy debate in response to the 2007-2008 financial crisis,
+
+
+=== Evidence-based policy ===
+A recent trend originating from medicine is to justify economic policy decisions with best available evidence. While the previous approaches have been focused on macroeconomic policymaking aimed at sustaining promoting economic development and counteracting recessions, EBP is oriented towards all types of decisions concerned not only with anti-cyclical development but primarily with the growth-promoting policies. To gather evidence for such decisions, economists conduct randomized field experiments. The work of Banerjee, Duflo, and Kremer, the 2019 Nobel Prize laureates exemplifies the gold type of evidence. However, the emphasis put on experimental evidence by the movement of evidence-based policy (and evidence-based medicine) results from the narrowly construed notion of intervention, which encompasses only policy decisions concerned with policymaking aimed at modifying causes to influence effects. In contrast to this idealized view of evidence-based policy movement, economic policymaking is a broader term that includes also institutional reforms and actions that do not require causal claims to be neutral under interventions. Such policy decisions can be grounded in, respectively, mechanistic evidence and correlational (econometric) studies.
+
+
+== See also ==
+Stabilization policy
+Budget process
+Constitutional economics
+
+
+== References ==
+
+
+== Further reading ==
+Alan S. Blinder (2018). Advice and Dissent: Why America Suffers When Economics and Politics Collide. Basic Books. ISBN 978-0465094172.

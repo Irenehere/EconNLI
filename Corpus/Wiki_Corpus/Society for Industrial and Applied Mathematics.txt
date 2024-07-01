@@ -1,0 +1,91 @@
+Society for Industrial and Applied Mathematics (SIAM) is a professional society dedicated to applied mathematics, computational science, and data science through research, publications, and community. SIAM is the world's largest scientific society devoted to applied mathematics, and roughly two-thirds of its membership resides within the United States. Founded in 1951, the organization began holding annual national meetings in 1954, and now hosts conferences, publishes books and scholarly journals, and engages in advocacy in issues of interest to its membership. Members include engineers, scientists, and mathematicians, both those employed in academia and those working in industry. The society supports educational institutions promoting applied mathematics.
+SIAM is one of the four member organizations of the Joint Policy Board for Mathematics.
+
+
+== Membership ==
+
+Membership is open to both individuals and organizations. By the end of its first full year of operation, SIAM had 130 members; by 1968, it had 3,700.Student members can join SIAM chapters affiliated and run by students and faculty at universities. Most universities with SIAM chapters are in the United States (including Harvard and MIT), but SIAM chapters also exist in other countries, for example at Oxford, at the École Polytechnique Fédérale de Lausanne and at Peking University. SIAM publishes the SIAM Undergraduate Research Online, a venue for undergraduate research in applied and computational mathematics. (SIAM also offers the SIAM Visiting Lecture Program, which helps arrange visits from industrial mathematicians to speak to student groups about applied mathematics and their own professional experiences.)
+In 2009, SIAM instituted a Fellows program to recognize certain members who have made outstanding contributions to the fields that SIAM serves.
+
+
+== Activity groups ==
+The society includes a number of activity groups (SIAGs) to allow for more focused group discussions and collaborations. Activity groups organize domain-specific conferences and minisymposia, and award prizes.Unlike special interest groups in similar academic associations like ACM, activity groups are chartered for a fixed period of time, typically for two years, and require submitting a petition to the SIAM Council and Board for renewal. Charter approval is largely based on group size, as topics that were considered hot at one time may have fewer active researchers later.Current Activity Groups:
+
+
+== Publications ==
+
+
+=== Journals ===
+
+As of 2018, SIAM publishes 18 research journals:
+SIAM Journal on Applied Mathematics (SIAP), since 1966
+formerly Journal of the Society for Industrial and Applied Mathematics, since 1953
+Theory of Probability and Its Applications (TVP), since 1956
+translation of Teoriya Veroyatnostei i ee Primeneniya
+SIAM Review (SIREV), since 1959
+SIAM Journal on Control and Optimization (SICON), since 1976
+formerly SIAM Journal on Control, since 1966
+formerly Journal of the Society for Industrial and Applied Mathematics, Series A: Control, since 1962
+SIAM Journal on Numerical Analysis (SINUM), since 1966
+formerly Journal of the Society for Industrial and Applied Mathematics, Series B: Numerical Analysis, since 1964
+SIAM Journal on Mathematical Analysis (SIMA), since 1970
+SIAM Journal on Computing (SICOMP), since 1972
+SIAM Journal on Matrix Analysis and Applications (SIMAX), since 1988
+formerly SIAM Journal on Algebraic and Discrete Methods, since 1980
+SIAM Journal on Scientific Computing (SISC), since 1993
+formerly SIAM Journal on Scientific and Statistical Computing, since 1980
+SIAM Journal on Discrete Mathematics (SIDMA), since 1988
+SIAM Journal on Optimization (SIOPT), since 1991
+SIAM Journal on Applied Dynamical Systems (SIADS), since 2002
+Multiscale Modeling and Simulation (MMS), since 2003
+SIAM Journal on Imaging Sciences (SIIMS), since 2008
+SIAM Journal on Financial Mathematics (SIFIN), since 2010
+SIAM/ASA Journal on Uncertainty Quantification (JUQ), since 2013
+SIAM Journal on Applied Algebra and Geometry (SIAGA), since 2017
+SIAM Journal on Mathematics of Data Science (SIMODS), since 2018
+
+
+=== Books ===
+SIAM publishes roughly 20 books each year, including textbooks, conference proceedings and monographs. Many of these are issued in themed series, such as "Advances in design and control", "Financial mathematics" and "Monographs on discrete mathematics and applications". In particular, SIAM distributes books produced by Gilbert Strang's Wellesley-Cambridge Press, such as his Introduction to Linear Algebra (5th edition, 2016). Organizations such as libraries can obtain DRM-free access to SIAM books in eBook format for a subscription fee.
+
+
+=== Conferences ===
+SIAM organizes conferences and meetings throughout the year focused on various topics in applied math and computational science. For example, SIAM has hosted an annual conference on data mining since 2001. The establishment of the SIAM Conferences on Discrete Mathematics, held every two years, has been regarded as a sign of the growth of graph theory as a prominent topic of study.In conjunction with the Association for Computing Machinery, SIAM also organizes the annual Symposium on Discrete Algorithms, using the format of a theoretical computer science conference rather than the mathematics conference format that SIAM typically uses for its conferences.
+
+
+== Prizes and recognition ==
+SIAM recognizes applied mathematician and computational scientists for their contributions to the fields. Prizes include:
+Germund Dahlquist Prize: Awarded to a young scientist (normally under 45) for original contributions to fields associated with Germund Dahlquist (numerical solution of differential equations and numerical methods for scientific computing).
+Ralph E. Kleinman Prize: Awarded for "outstanding research, or other contributions, that bridge the gap between mathematics and applications...Each prize may be given either for a single notable achievement or for a collection of such achievements."
+J.D. Crawford Prize: Awarded to "one individual for recent outstanding work on a topic in nonlinear science, as evidenced by a publication in English in a peer-reviewed journal within the four calendar years preceding the meeting at which the prize is awarded"
+Jürgen Moser Lecture: Awarded to "a person who has made distinguished contributions to nonlinear science".
+Richard C. DiPrima Prize: Awarded to "a young scientist who has done outstanding research in applied mathematics (defined as those topics covered by SIAM journals) and who has completed his/her doctoral dissertation and completed all other requirements for his/her doctorate during the period running from three years prior to the award date to one year prior to the award date".
+George Pólya Prize: "is given every two years, alternately in two categories: (1) for a notable application of combinatorial theory; (2) for a notable contribution in another area of interest to George Pólya such as approximation theory, complex analysis, number theory, orthogonal polynomials, probability theory, or mathematical discovery and learning."
+W. T. and Idalia Reid Prize: Awarded for research in and contributions to areas of differential equations and control theory.
+Theodore von Kármán Prize: Awarded for "notable application of mathematics to mechanics and/or the engineering sciences made during the five to ten years preceding the award".
+James H. Wilkinson Prize in Numerical Analysis and Scientific Computing: Awarded for "research in, or other contributions to, numerical analysis and scientific computing during the six years preceding the award".
+
+
+=== John von Neumann Lecture ===
+The John von Neumann Lecture prize was established in 1959 with funds from IBM and other industry corporations, and is awarded for "outstanding and distinguished contributions to the field of applied mathematical sciences and for the effective communication of these ideas to the community". The recipient receives a monetary award and presents a survey lecture at the Annual Meeting.
+
+
+=== MathWorks Math Modeling (M3) Challenge ===
+The MathWorks Math Modeling Challenge is an applied mathematics modeling competition for high school students in the United States. Scholarship prizes totaled $60,000 in 2006, and have since been raised to $150,000. It is funded by Mathworks. Originally, the prize was sponsored by the financial services company Moody's and known as the Moody's Mega Math Challenge.
+
+
+== Leadership ==
+The chief elected officer of SIAM is the president, elected for a single two-year term.  SIAM employs an executive director and staff.The following people have been presidents of the society:
+
+
+== See also ==
+American Mathematical Society
+Japan Society for Industrial and Applied Mathematics
+
+
+== References ==
+
+
+== External links ==
+Official website
+M3Challenge.SIAM.org

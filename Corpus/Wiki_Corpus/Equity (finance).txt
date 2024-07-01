@@ -1,0 +1,57 @@
+In finance, equity is an ownership interest in property that may be offset by debts or other liabilities. Equity is measured for accounting purposes by subtracting liabilities from the value of the assets owned. For example, if someone owns a car worth $24,000 and owes $10,000 on the loan used to buy the car, the difference of $14,000 is equity. Equity can apply to a single asset, such as a car or house, or to an entire business. A business that needs to start up or expand its operations can sell its equity in order to raise cash that does not have to be repaid on a set schedule.
+When liabilities attached to an asset exceed its value, the difference is called a deficit and the asset is informally said to be "underwater" or "upside-down". In government finance or other non-profit settings, equity is known as "net position" or "net assets".
+
+
+== Origins ==
+The term "equity" describes this type of ownership in English because it was regulated through the system of equity law that developed in England during the Late Middle Ages to meet the growing demands of commercial activity. While the older common law courts dealt with questions of property title, equity courts dealt with contractual interests in property. The same asset could have an owner in equity, who held the contractual interest, and a separate owner at law, who held the title indefinitely or until the contract was fulfilled. Contract disputes were examined with consideration of whether the terms and administration of the contract were fair—that is, equitable.
+
+
+== Single assets ==
+Any asset that is purchased through a secured loan is said to have equity. While the loan remains unpaid, the buyer does not fully own the asset. The lender has the right to repossess it if the buyer defaults, but only to recover the unpaid loan balance. The equity balance—the asset's market value reduced by the loan balance—measures the buyer's partial ownership. This may be different from the total amount that the buyer has paid on the loan, which includes interest expense and does not consider any change in the asset's value. When an asset has a deficit instead of equity, the terms of the loan determine whether the lender can recover it from the borrower. Houses are normally financed with non-recourse loans, in which the lender assumes a risk that the owner will default with a deficit, while other assets are financed with full-recourse loans that make the borrower responsible for any deficit.
+The equity of an asset can be used to secure additional liabilities. Common examples include home equity loans and home equity lines of credit. These increase the total liabilities attached to the asset and decrease the owner's equity.
+
+
+== Business entities ==
+A business entity has a more complicated debt structure than a single asset. While some liabilities may be secured by specific assets of the business, others may be guaranteed by the assets of the entire business. If the business becomes bankrupt, it can be required to raise money by selling assets. Yet the equity of the business, like the equity of an asset, approximately measures the amount of the assets that belongs to the owners of the business.
+
+
+=== Accounting ===
+Financial accounting defines the equity of a business as the net balance of its assets reduced by its liabilities. For a business as a whole, this value is sometimes referred to as total equity, to distinguish it from the equity of a single asset. The fundamental accounting equation requires that the total of liabilities and equity is equal to the total of all assets at the close of each accounting period. To satisfy this requirement, all events that affect total assets and total liabilities unequally must eventually be reported as changes in equity. Businesses summarize their equity in a financial statement known as the balance sheet (or statement of net position) which shows the total assets, the specific equity balances, and the total liabilities and equity (or deficit).
+Various types of equity can appear on a balance sheet, depending on the form and purpose of the business entity. Preferred stock, share capital (or capital stock) and capital surplus (or additional paid-in capital) reflect original contributions to the business from its investors or organizers. Treasury stock appears as a contra-equity balance (an offset to equity) that reflects the amount that the business has paid to repurchase stock from shareholders. Retained earnings (or accumulated deficit) is the running total of the business's net income and losses, excluding any dividends. In the United Kingdom and other countries that use its accounting methods, equity includes various reserve accounts that are used for particular reconciliations of the balance sheet.
+Another financial statement, the statement of changes in equity, details the changes in these equity accounts from one accounting period to the next. Several events can produce changes in a firm's equity.
+
+Capital investments: Contributions of cash from outside the firm increase its base capital and capital surplus by the amount contributed.
+Accumulated results: Income or losses may be accumulated in an equity account called "retained earnings" or "accumulated deficit", depending on its net balance.
+Unrealized investment results: Changes in the value of securities that the firm owns, or foreign currency holdings, are accumulated in its equity.
+Dividends: The firm reduces its retained earnings by the amount of cash payable to shareholders.
+Stock repurchases: When the firm purchases shares into its own treasury, the amount paid for the stock is reflected in the treasury stock account.
+Liquidation: A firm that liquidates with positive equity can distribute it to owners in one or several cash payments.
+
+
+=== Investing ===
+Equity investing is the business of purchasing stock in companies, either directly or from another investor, on the expectation that the stock will earn dividends or can be resold with a capital gain. Equity holders typically receive voting rights, meaning that they can vote on candidates for the board of directors and, if their holding is large enough, influence management decisions.
+
+
+==== Legal foundations ====
+Investors in a newly established firm must contribute an initial amount of capital to it so that it can begin to transact business. This contributed amount represents the investors' equity interest in the firm. In return, they receive shares of the company's stock. Under the model of a private limited company, the firm may keep contributed capital as long as it remains in business. If it liquidates, whether through a decision of the owners or through a bankruptcy process, the owners have a residual claim on the firm's eventual equity. If the equity is negative (a deficit) then the unpaid creditors take a loss and the owners' claim is void. Under limited liability, owners are not required to pay the firm's debts themselves so long as the firm's books are in order and it has not involved the owners in fraud.
+When the owners of a firm are shareholders, their interest is called shareholders' equity. It is the difference between a company's assets and liabilities, and can be negative. If all shareholders are in one class, they share equally in ownership equity from all perspectives. It is not uncommon for companies to issue more than one class of stock, with each class having its own liquidation priority or voting rights. This complicates analysis for both stock valuation and accounting.
+
+
+==== Valuation ====
+
+A company's shareholder equity balance does not determine the price at which investors can sell its stock. Other relevant factors include the prospects and risks of its business, its access to necessary credit, and the difficulty of locating a buyer. According to the theory of intrinsic value, it is profitable to buy stock in a company when it is priced below the present value of the portion of its equity and future earnings that are payable to stockholders. Advocates of this method have included Benjamin Graham, Philip Fisher and Warren Buffett. An equity investment will never have a negative market value (i.e. become a liability) even if the firm has a shareholder deficit, because the deficit is not the owners' responsibility.
+An alternate approach, exemplified by the "Merton model", 
+values stock-equity as a call option on the value of the whole company (including the liabilities), struck at the nominal value of the liabilities. 
+The analogy with options arises in that limited liability protects equity investors: 
+(i) where the value of the firm is less than the value of the outstanding debt, shareholders may, and therefore would, choose not to repay the firm's debt; 
+(ii) where firm value is greater than debt value, the shareholders would choose to repay—i.e. exercise their option—and not to liquidate. 
+
+
+== See also ==
+Art equity
+Common ordinary equity
+Net worth
+Private equity
+
+
+== References ==

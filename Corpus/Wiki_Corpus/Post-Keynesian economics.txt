@@ -1,0 +1,134 @@
+Post-Keynesian economics is a school of economic thought with its origins in The General Theory of John Maynard Keynes, with subsequent development influenced to a large degree by Michał Kalecki, Joan Robinson, Nicholas Kaldor, Sidney Weintraub, Paul Davidson, Piero Sraffa and Jan Kregel. Historian Robert Skidelsky argues that the post-Keynesian school has remained closest to the spirit of Keynes' original work. It is a heterodox approach to economics.
+
+
+== Introduction ==
+The term "post-Keynesian" was first used to refer to a distinct school of economic thought by Eichner and Kregel (1975) and by the establishment of the Journal of Post Keynesian Economics in 1978. Prior to 1975, and occasionally in more recent work, post-Keynesian could simply mean economics carried out after 1936, the date of Keynes's General Theory.Post-Keynesian economists are united in maintaining that Keynes' theory is seriously misrepresented by the two other principal Keynesian schools: neo-Keynesian economics, which was orthodox in the 1950s and 60s, and new Keynesian economics, which together with various strands of neoclassical economics has been dominant in mainstream macroeconomics since the 1980s. Post-Keynesian economics can be seen as an attempt to rebuild economic theory in the light of Keynes' ideas and insights. However, even in the early years, post-Keynesians such as Joan Robinson sought to distance themselves from Keynes, and much current post-Keynesian thought cannot be found in Keynes. Some post-Keynesians took a more progressive view than Keynes himself, with greater emphases on worker-friendly policies and redistribution. Robinson, Paul Davidson and Hyman Minsky emphasized the effects on the economy of practical differences between different types of investments, in contrast to Keynes' more abstract treatment.The theoretical foundation of post-Keynesian economics is the principle of effective demand, that demand matters in the long as well as the short run, so that a competitive market economy has no natural or automatic tendency towards full employment. Contrary to the views of new Keynesian economists working in the neoclassical tradition, post-Keynesians do not accept that the theoretical basis of the market's failure to provide full employment is rigid or sticky prices or wages. Post-Keynesians typically reject the IS–LM model of John Hicks, which is very influential in neo-Keynesian economics, because they argue endogenous bank lending to be more significant than central banks' money supply for the interest rate.The contribution of post-Keynesian economics has extended beyond the theory of aggregate employment to theories of income distribution, growth, trade and development in which money demand plays a key role, whereas in neoclassical economics these are determined by the forces of technology, preferences and endowment. In the field of monetary theory, post-Keynesian economists were among the first to emphasise that money supply responds to the demand for bank credit, so that a central bank cannot control the quantity of money, but only manage the interest rate by managing the quantity of monetary reserves.
+This view has largely been incorporated into mainstream economics and monetary policy, which now targets the interest rate as an instrument, rather than attempting to accurately control the quantity of money. In the field of finance, Hyman Minsky put forward a theory of financial crisis based on financial fragility, which has received renewed attention.
+
+
+== Main features ==
+In 2009 Marc Lavoie listed the main features of post-Keynesian economics:
+Effective demand
+Historical and dynamic timeHe also lists 5 auxiliary features:
+
+The possible negative impact of flexible prices
+The monetary production of the economy
+Fundamental uncertainty
+Relevant and contemporary microeconomics
+Pluralism of theories and methods
+
+
+== Strands ==
+There are a number of strands to post-Keynesian theory with different emphases. Joan Robinson regarded Michał Kalecki's theory of effective demand to be superior to Keynes' theories. Kalecki's theory is based on a class division between workers and capitalists and imperfect competition. Robinson also led the critique of the use of aggregate production functions based on homogeneous capital – the Cambridge capital controversy – winning the argument but not the battle. The writings of Piero Sraffa were a significant influence on the post-Keynesian position in this debate, though Sraffa and his neo-Ricardian followers drew more inspiration from David Ricardo than Keynes. Much of Nicholas Kaldor's work was based on the ideas of increasing returns to scale, path dependence, and the key differences between the primary and industrial sectors.Paul Davidson follows Keynes closely in placing time and uncertainty at the centre of theory, from which flow the nature of money and of a monetary economy. Monetary circuit theory, originally developed in continental Europe, places particular emphasis on the distinctive role of money as means of payment. Each of these strands continues to see further development by later generations of economists.
+Modern Monetary Theory is a relatively recent offshoot influenced by the macroeconomic modelling of Wynne Godley and Hyman Minsky's ideas on the labour market, as well as chartalism and functional finance.
+Recent work in post-Keynesian economics has attempted to provide micro-foundations for capacity underutilization as a coordination failure (economics), justifying government intervention in the form of aggregate demand stimulus.
+
+
+== Current work ==
+
+
+=== Journals ===
+Much post-Keynesian research is published in the Review of Keynesian Economics (ROKE), the Journal of Post Keynesian Economics (founded by Sidney Weintraub and  Paul Davidson), the Cambridge Journal of Economics, the Review of Political Economy, and the Journal of Economic Issues (JEI).
+
+
+=== United Kingdom ===
+There is also a United Kingdom academic association, the Post-Keynesian Economics Society (PKES). It was founded by Philip Arestis and Victoria Chick in 1988 as the Post-Keynesian Economics Study Group (PKSG) and changed its name in 2018. In the UK, post-Keynesian economists can be found in:
+
+SOAS University of London
+University of Greenwich
+University of Leeds
+Kingston University
+King's College London, International Political Economy
+Goldsmiths, University of London
+University of the West of England, Bristol
+University of Hertfordshire
+Cambridge University, Land Economy
+Birmingham City University
+University College London, Institute for Innovation and Public Purpose
+Open University
+University of Winchester
+
+
+=== United States ===
+In the United States, there are several universities with a post-Keynesian bent:
+The New School, New York City
+The University of Massachusetts Amherst
+The University of Utah, Salt Lake City
+Bucknell University, Lewisburg, Pennsylvania
+Denison University, Granville, Ohio
+Levy Economics Institute at Bard College, Annandale-on-Hudson, New York
+University of Missouri–Kansas City
+University of Denver
+Colorado State University, Fort Collins
+The University of Massachusetts Boston
+John Jay College of Criminal Justice at City University of New York, New York City
+
+
+=== Netherlands ===
+Erasmus University, Rotterdam
+International Institute of Social Studies, The Hague
+University of Groningen, Groningen
+
+
+=== France ===
+Sorbonne Paris North University
+
+
+=== Canada ===
+In Canada, post-Keynesians can be found at the University of Ottawa and Laurentian University.
+
+
+=== Germany ===
+In Germany, post-Keynesianism is very strong at the Berlin School of Economics and Law and its master's degree courses: International Economics [M.A.] and Political Economomy of European Integration [M.A.]. Many German Post-Keynesians are organized in the Forum Macroeconomics and Macroeconomic Policies.
+
+
+=== Australia ===
+
+
+==== University of Newcastle ====
+The University of Newcastle in New South Wales, Australia, houses the post-Keynesian think-tank the Centre of Full Employment and Equity (CofFEE).
+
+
+== Major post-Keynesian economists ==
+
+Major post-Keynesian economists of the first and second generations after Keynes include:
+
+
+== See also ==
+Disequilibrium macroeconomics
+Endogenous money
+Job guarantee
+Keynesian economics
+Neo-Keynesian economics
+New Keynesian economics
+
+
+== Notes ==
+
+
+== References ==
+Arestis, Philip (1996). "Post-Keynesian economics: towards coherence". Cambridge Journal of Economics. 20: 111–135. doi:10.1093/oxfordjournals.cje.a013604.
+Davidson, Paul (2007). John Maynard Keynes. Palgrave Macmillan.
+Eichner and Kregel (1975). "An Essay on Post-Keynesian Theory: A New Paradigm in Economics". Journal of Economic Literature. 13: 1293–1314.
+Harcourt, Geoff (2006). The Structure of Post-Keynesian Economics. Columbia University Press.
+Hayes, M.G. (2008). The Economics of Keynes: A New Guide to the General Theory. Edward Elgar Publishing. ISBN 978-1-84844-056-2.
+Kaldor, Nicholas (1980). "Monetarism and UK economic policy". Cambridge Journal of Economics. 4 (3): 271–292. doi:10.1093/oxfordjournals.cje.a035457.
+King, J.E. (2002). A history of post Keynesian economics since 1936. Edward Elgar Publishing. ISBN 978-1-84064-420-3.
+Minsky, Hyman (1975). John Maynard Keynes. Columbia University Press.
+Pasinetti, Luigi (2007). Keynes and the Cambridge Keynesians. Columbia University Press.
+Robinson, Joan; Eatwell, John (1974). An Introduction to Modern Economics (2 ed.). McGraw Hill.
+Skidelsky, Robert (2009). Keynes: The Return of the Master. Allen Lane. p. 42. ISBN 978-1-84614-258-1.
+
+
+== Further reading ==
+Holt, Ric; Pressman, Steven (2001). A New Guide to Post Keynesian Economics. Routledge.
+Holt, Ric; Pressman, Steven (2006). Empirical Post Keynesian Economics: Looking at the Real World. M.E. Sharpe.
+
+
+== External links ==
+Structure of Post Keynesian Economics-Geoff Harcourt
+William Vickrey -----Fifteen Fatal Fallacies of Financial Fundamentalism: A Disquisition on Demand Side Economics
+Presentation of post Keynesian economics Marc Lavoie Archived 30 December 2019 at the Wayback Machine
+Samuelson and the Keynes/Post Keynesian Revolution:by Paul Davidson
+Professor L. Randall Wray:Why The Federal Budget Is Not Like a Household Budget
+Post-Keynesian economics: towards coherence Cambridge Journal of Economics

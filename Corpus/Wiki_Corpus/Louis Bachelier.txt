@@ -1,0 +1,90 @@
+Louis Jean-Baptiste Alphonse Bachelier (French: [baʃəlje]; 11 March 1870 – 28 April 1946) was a French mathematician at the turn of the 20th century. He is credited with being the first person to model the stochastic process now called Brownian motion, as part of  his doctoral thesis The Theory of Speculation (Théorie de la spéculation, defended in 1900).
+Bachelier's doctoral thesis, which introduced the first mathematical model of Brownian motion and its use for valuing stock options, was the first paper to use advanced mathematics in the study of finance. His Bachelier model has been influential in the development of other widely used models, including the Black-Scholes model. Thus, Bachelier is considered as the forefather of mathematical finance and a pioneer in the study of stochastic processes.
+
+
+== Early years ==
+Bachelier was born in Le Havre, in Seine-Maritime. His father was a wine merchant and amateur scientist, and the vice-consul of Venezuela at Le Havre. His mother was the daughter of an important banker (who was also a writer of poetry books). Both of Louis's parents died just after he completed his high school diploma ("baccalauréat" in French), forcing him to take care of his sister and three-year-old brother and to assume the family business, which effectively put his graduate studies on hold. During this time Bachelier gained a practical acquaintance with the financial markets. His studies were further delayed by military service. Bachelier arrived in Paris in 1892 to study at the Sorbonne, where his grades were less than ideal.
+
+
+== The doctoral thesis ==
+Defended on 29 March 1900 at the University of Paris, Bachelier's thesis was not well received because it attempted to apply mathematics to an area mathematicians found unfamiliar. However, his instructor, Henri Poincaré, is recorded as having given some positive feedback (though insufficient to secure Bachelier an immediate teaching position in France at that time). For example, Poincaré called his approach to deriving Gauss' law of errors
+
+very original, and all the more interesting in that Fourier's reasoning can be extended with a few changes to the theory of errors. ... It is regrettable that M. Bachelier did not develop this part of his thesis further.
+The thesis received a grade of honorable, and was accepted for publication in the prestigious Annales Scientifiques de l’École Normale Supérieure. While it did not receive a mark of très honorable, despite its ultimate importance, the grade assigned is still interpreted as an appreciation for his contribution. Jean-Michel Courtault et al. point out in "On the Centenary of Théorie de la spéculation" that honorable was "the highest note which could be awarded for a thesis that was essentially outside mathematics and that had a number of arguments far from being rigorous."
+
+
+== Academic career ==
+For several years following the successful defense of his thesis, Bachelier further developed the theory of diffusion processes, and was published in prestigious journals. In 1909 he became a "free professor" at the Sorbonne. In 1914, he published a book, Le Jeu, la Chance, et le Hasard (Games, Chance, and Randomness), that sold over six thousand copies. With the support of the Council of the University of Paris, Bachelier was given a permanent professorship at the Sorbonne, but World War I intervened and he was drafted into the French army as a private. His army service ended on December 31, 1918. In 1919, he found a position as an assistant professor in Besançon, replacing a regular professor on leave. He married Augustine Jeanne Maillot in September 1920 but was soon widowed. When the professor returned in 1922, Bachelier replaced another professor at Dijon. He moved to Rennes in 1925, but was finally awarded a permanent professorship in 1927 at the University of Besançon, where he worked for 10 years until his retirement.Besides the setback that the war had caused him, Bachelier was blackballed in 1926 when he attempted to receive a permanent position at Dijon. This was due to a "misinterpretation" of one of Bachelier's papers by Professor Paul Lévy, who—to Bachelier's understandable fury—knew nothing of Bachelier's work, nor of the candidate that Lévy recommended above him. Lévy later learned of his error, and reconciled himself with Bachelier.Although Bachelier's work on random walks predated Einstein's celebrated study of Brownian motion by five years, the pioneering nature of his work was recognized only after several decades, first by Andrey Kolmogorov who pointed out his work to Paul Lévy, then by Leonard Jimmie Savage who translated Bachelier's thesis into English and brought the work of Bachelier to the attention of Paul Samuelson. The arguments Bachelier used in his thesis also predate Eugene Fama's efficient-market hypothesis, which is very closely related, as the idea of a random walk is suited to predict the random future in a stock market where everyone has all the available information. His work in finance is recognized as one of the foundations for the Black–Scholes model.
+
+
+== Works ==
+Bachelier 1900a, Théorie de la spéculationAlso published as a book, Bachelier 1900b
+Republished in a book of combined works, Bachelier 1995
+Translated into English, Cootner 1964, pp. 17–78
+Translated into English with additional commentary and background, Bachelier et al. 2006
+Translated into English, May 2011Bachelier 1901, Théorie mathématique du jeuRepublished in a book of combined works, Bachelier 1995Bachelier 1906, Théorie des probabilités continues
+Bachelier 1908a, Étude sur les probabilités des causes
+Bachelier 1908b, Le problème général des probabilités dans les épreuves répétées
+Bachelier 1910a, Les probabilités à plusieurs variables
+Bachelier 1910b, Mouvement d’un point ou d’un système matériel soumis à l’action de forces dépendant du hasard
+Bachelier 1912, (Book) Calcul des probabilitésRepublished, Bachelier 1992Bachelier 1913a, Les probabilités cinématiques et dynamiques
+Bachelier 1913b, Les probabilités semi-uniformes
+Bachelier 1914, (Book) Le Jeu, la Chance et le HasardRepublished, Bachelier 1993
+Translated into English, Harding 2017Bachelier 1915, La périodicité du hasard
+Bachelier 1920a, Sur la théorie des corrélations
+Bachelier 1920b, Sur les décimales du nombre 
+  
+    
+      
+        
+          π
+        
+      
+    
+    {\displaystyle {\pi }}
+  
+Bachelier 1923, Le problème général de la statistique discontinue
+Bachelier 1925, Quelques curiosités paradoxales du calcul des probabilités
+Bachelier 1937, (Book) Les lois des grands nombres du Calcul des Probabilités (Book)
+Bachelier 1938, (Book) La spéculation et le Calcul des Probabilités
+Bachelier 1939, (Book) Les nouvelles méthodes du Calcul des Probabilités
+Bachelier 1941a, Probabilités des oscillations maximaErratum, Bachelier 1941b
+
+
+== See also ==
+Black–Scholes equation
+Bachelier model
+Martingale
+Random walk
+Brownian Motion
+Louis Bachelier Prize
+Henri Poincaré
+Vinzenz Bronzin
+Jules Regnault
+
+
+== Citations ==
+
+
+== References ==
+Philip Ball, Critical Mass Random House, 2004 ISBN 0-09-945786-5, pp238–242.
+Bachelier, L. (1900a), "Théorie de la spéculation" (PDF), Annales Scientifiques de l'École Normale Supérieure, vol. 3, no. 17, pp. 21–86Bachelier, L. (1900b), Théorie de la spéculation, Gauthier-VillarsBachelier, L. (1901), "Théorie mathématique du jeu" (PDF), Annales Scientifiques de l'École Normale Supérieure, vol. 3, no. 18, pp. 143–210Bachelier, L. (1906), "Théorie des probabilités continues", Journal de Mathématiques Pures et Appliquées, vol. 6, no. 2, pp. 259–327Bachelier, L. (1908a), "Étude sur les probabilités des causes", Journal de Mathématiques Pures et Appliquées, vol. 6, no. 4, pp. 395–425Bachelier, L. (1908b), "Le problème général des probabilités dans les épreuves répétées", Comptes-rendus des Séances de l'Académie des Sciences, vol. Séance du 25 Mai 1908, no. 146, pp. 1085–1088Bachelier, L. (1910a), "Les probabilités à plusieurs variables" (PDF), Annales Scientifiques de l'École Normale Supérieure, vol. 3, no. 27, pp. 339–360Bachelier, L. (1910b), "Mouvement d'un point ou d'un système matériel soumis à l'action de forces dépendant du hasard", Comptes-rendus des Séances de l'Académie des Sciences, vol. Séance du 14 Novembre 1910, présentée par M. H. Poincaré, no. 151, pp. 852–855Bachelier, L. (1912), Calcul des probabilités, vol. 1, Gauthier-VillarsBachelier, L. (1913a), "Les probabilités cinématiques et dynamiques" (PDF), Annales Scientifiques de l'École Normale Supérieure, vol. 30, pp. 77–119Bachelier, L. (1913b), "Les probabilités semi-uniformes", Comptes-rendus des Séances de l'Académie des Sciences, vol. Séance du 20 Janvier 1913, présentée par M. Appell, no. 156, pp. 203–205Bachelier, L. (1914), Le Jeu, la Chance et le Hasard, Bibliothèque de Philosophie scientifique, E. FlammarionBachelier, L. (1915), "La périodicité du hasard", L'Enseignement Mathématique, vol. 17, pp. 5–11, archived from the original on 2011-07-16Bachelier, L. (1920a), "Sur la théorie des corrélations", Bulletin de la Société Mathématique de France. Vie de la Société. Comptes Rendus des Séances, vol. Séance du 7 Juillet 1920, no. 48, pp. 42–44Bachelier, L. (1920b), "Sur les décimales du nombre 
+  
+    
+      
+        
+          π
+        
+      
+    
+    {\displaystyle {\pi }}
+  ", Bulletin de la Société Mathématique de France. Vie de la Société. Comptes Rendus des Séances, vol. Séance du 7 Juillet 1920, no. 48, pp. 44–46Bachelier, L. (1923), "Le problème général de la statistique discontinue", Comptes-rendus des Séances de l'Académie des Sciences, vol. Séance du 11 Juin 1923, présentée par M. d’Ocagne, no. 176, pp. 1693–1695Bachelier, L. (1925), "Quelques curiosités paradoxales du calcul des probabilités", Revue de Métaphysique et de Morale, vol. 32, pp. 311–320Bachelier, L. (1937), Les lois des grands nombres du Calcul des Probabilités, Gauthier-VillarsBachelier, L. (1938), La spéculation et le Calcul des Probabilités, Gauthier-VillarsBachelier, L. (1939), Les nouvelles méthodes du Calcul des Probabilités, Gauthier-VillarsBachelier, L. (1941a), "Probabilités des oscillations maxima", Comptes-rendus des Séances de l'Académie des Sciences, vol. Séance du 19 Mai 1941, no. 212, pp. 836–838Bachelier, L. (1941b), "Probabilités des oscillations maxima (Erratum)", Comptes-rendus des Séances de l'Académie des Sciences, no. 213, p. 220Bachelier, L. (1992), Reprint of Calcul des probabilités (1912), vol. 1, Editions Jacques Gabay, ISBN 978-2-87647-090-3Bachelier, L. (1993), Reprint of Le Jeu, la Chance et le Hasard (1914), Editions Jacques Gabay, ISBN 978-2-87647-147-4Bachelier, L. (1995), Combined volume prints of Théorie de la spéculation (1900b) and Théorie mathématique du jeu (1901), Editions Jacques Gabay, ISBN 978-2-87647-129-0Bachelier, L.; Samuelson, P. A.; Davis, M.; Etheridge, A. (2006), Louis Bachelier's Theory of Speculation: the Origins of Modern Finance, Princeton NJ: Princeton University Press, ISBN 978-0-691-11752-2Cootner, P.H., ed. (1964), The Random Character of Stock Market Prices, Cambridge, MA: MIT PressBachelier, L.; May, D. (2011), Theory of Speculation, Google Documents{{citation}}:  CS1 maint: location missing publisher (link)Courtault, J-M.; Kabanov, Y.; Bru, B.; Crépel, P.; Lebon, I.; Le Marchand, A. (2000), "On the Centenary of Théorie de la Spéculation" (PDF), Mathematical Finance, vol. 10, no. 3, July 2000, pp. 341–353, doi:10.1111/1467-9965.00098, archived from the original (PDF) on 2007-06-22
+Felix, L. (1970), Dictionary of Scientific Biography, vol. 1, New York: Charles Scribner's Sons, ISBN 978-0-684-10114-9Taqqu, M.S. (2001), Bachlier and his Times: A Conversation with Bernard Bru (PDF), Boston University, archived from the original (PDF) on 2007-06-27{{citation}}:  CS1 maint: location missing publisher (link)
+
+
+== External links ==
+"Louis Bachelier, fondateur de la finance mathématique" Louis Bachelier webpage at the Université de Franche-Comté, Besançon / France. Text in French.
+Louis Bachelier at the Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., "Louis Bachelier", MacTutor History of Mathematics Archive, University of St Andrews
+Louis Bachelier par Laurent Carraro et Pierre Crepel
+Bachelier's theory of speculation is demonstrated by this 8 ft tall Probability Machine comparing stock market returns to the randomness of the beans dropping through the quincunx pattern on YouTube. also from Index Funds Advisors, this discussion of Bachelier's and other academic's contribution to financial science.

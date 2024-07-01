@@ -1,0 +1,53 @@
+Ricardo A. M. R. Reis (born 1 September 1978) is a Portuguese economist and the A. W. Phillips professor of economics at the London School of Economics.  In a 2013 ranking of young economists by Glenn Ellison, Reis was considered the top economist with a PhD between 1996 and 2004., and in 2016 he won the Germán Bernácer Prize for top European-born economist researching macroeconomics and finance. He writes a weekly op-ed for the Portuguese newspaper Jornal de Notícias and Expresso, and participates frequently in economic debates in Portugal.
+
+
+== Academic career ==
+Reis earned his Bachelor of Science (B.Sc.) degree from the London School of Economics in 1999, and his Doctor of Philosophy (Ph.D.) from Harvard University in 2004. He taught at Princeton University from 2004 to 2008 before moving to Columbia University where he became a full professor at the age of 29, one of the youngest ever in the history of the university. He is an academic advisor and visiting scholar at central banks around the world, and sits on the board of multiple institutions.
+
+
+== Economic contributions ==
+
+
+=== Sticky information and inattentiveness ===
+In 2002, with Gregory Mankiw, Reis proposed the sticky-information Phillips curve and followed it later with rational theories of inattention, and sticky-information models in general equilibrium.
+
+
+=== Empirical study of disagreement in surveys ===
+In 2004, with Gregory Mankiw and Justin Wolfers, Reis started the modern empirical literature that focuses on disagreement in surveys.
+
+
+=== Pure inflation ===
+In 2010, with Mark Watson, Reis developed measures of pure inflation, which have become popular measures of core inflation used by central banks around the world.
+
+
+=== The diabolic loop and ESBies ===
+In 2011, Reis with Markus Brunnermeier, Luis Garicano, Philip R. Lane and others, argued that banks holding significant amounts of bonds issued by their sovereign creates a "diabolic loop", whereby small changes in the perceived solvency of the sovereign can amplify into large crises. This concept has become central in accounts of the Euro crisis and is also referred to as the "doom loop" or the "bank-government nexus". They proposed creating European Safe Bonds (ESBies), a new financial vehicle allowing banks in the Eurozone to break the diabolic loop without creating the problems of joint and several liability with Eurobonds. The European Systemic Risk Board proposed a variant of ESBies, labelled Sovereign Bond-Backed Securities (or SBBS) as a crucial ingredient to have a more stable Eurozone.
+
+
+=== HANK models ===
+In 2012, Reis wrote the first model that merged the Aiyagari model of incomplete markets with a New Keynesian model of nominal rigidities. In 2016, he published the first business-cycle model that merged the Krusell-Smith model of business cycles with the Christiano–Eichenbaum–Evans model of monetary policy. These models were later baptized HANK, or Heterogeneous Agent New Keynesian Models.
+
+
+=== Central bank solvency ===
+In 2013, with Robert E. Hall, Reis invented the concept of central bank insolvency to describe the impact of possible losses from quantitative easing programs.
+
+
+=== The misallocation hypothesis of slumps and crashes ===
+In 2013, Reis proposed the misallocation hypothesis for the European slump and crash. It contends that by joining the eurozone, countries in the European periphery enjoyed large capital inflows, but their underdeveloped financial and political systems misallocated this capital leading to a slump in productivity and sowing the seeds of the crisis. Fast financial integration without financial depth creates a slump and a crash. Some accounts of why low real interest rates can be causing misallocation and low productivity build on his idea.
+
+
+=== QE and satiating the market for reserves ===
+In 2016, at the Kansas City Federal Reserve economic policy symposium, Reis proposed that a central bank's balance sheet should be just large enough to satiate the demand for bank reserves. In modern monetary systems, where deposits at the central bank are the key monetary instrument, ensuring that the deposit rate equals the private interbank rate achieves the Friedman rule.
+
+
+=== Automatic stabilizers ===
+In 2016, with Alisdair McKay, Reis showed that automatic stabilizers can be very effective by reducing the need for precautionary savings at the start of recessions.
+
+
+== References ==
+
+
+== External links ==
+Official website at the LSE
+The Phillips lecture
+Roberts, Russ (April 27, 2009). "Reis on Keynes, Macroeconomics, and Monetary Policy". EconTalk. Library of Economics and Liberty.

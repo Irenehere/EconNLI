@@ -1,0 +1,161 @@
+In management accounting or managerial accounting, managers use accounting information in decision-making and to assist in the management and performance of their control functions.
+
+
+== Definition ==
+One simple definition of management accounting is the provision of financial and non-financial decision-making information to managers. In other words, management accounting helps the directors inside an organization to make decisions. This can also be known as Cost Accounting. This is the way toward distinguishing, examining, deciphering and imparting data to supervisors to help accomplish business goals. The information gathered includes all fields of accounting that educates the administration regarding business tasks identifying with the financial expenses and decisions made by the organization. Accountants use plans to measure the overall strategy of operations within the organization.According to the Institute of Management Accountants (IMA), "Management accounting is a profession that involves partnering in management decision making, devising planning and performance management systems, and providing expertise in financial reporting and control to assist management in the formulation and implementation of an organization's strategy".Management accountants (also called managerial accountants) look at the events that happen in and around a business while considering the needs of the business. From this, data and estimates emerge. Cost accounting is the process of translating these estimates and data into knowledge that will ultimately be used to guide decision-making.The Chartered Institute of Management Accountants (CIMA) being the largest management accounting institute with over 100,000 members describes Management accounting as analysing information to advise business strategy and drive sustainable business success.
+
+
+== Scope, practice, and application ==
+
+The Association of International Certified Professional Accountants (AICPA) states management accounting as a practice that extends to the following three areas:
+
+Strategic management — advancing the role of the management accountant as a strategic partner in the organization
+Performance management — developing the practice of business decision-making and managing the performance of the organization
+Risk management — contributing to frameworks and practices for identifying, measuring, managing and reporting risks to the achievement of the objectives of the organizationThe Institute of Certified Management Accountants (CMA) states, "A management accountant applies his or her professional knowledge and skill in the preparation and presentation of financial and other decision oriented information in such a way as to assist management in the formulation of policies and in the planning and control of the operation undertaking".
+Management accountants are seen as the "value-creators" amongst the accountants. They are more concerned with forward-looking and taking decisions that will affect the future of the organization; than in the historical recording and compliance (score keeping) aspects of the profession. Management accounting knowledge and experience can be obtained from varied fields and functions within an organization, such as information management, treasury, efficiency auditing, marketing, valuation, pricing, and logistics. In 2014 CIMA created the Global Management Accounting Principles (GMAPs). The result of research from across 20 countries in five continents, the principles aim to guide best practice in the discipline.
+
+
+== Financial versus Management accounting ==
+Management accounting information differs from financial accountancy information in several ways:
+
+while shareholders, creditors, and public regulators use publicly reported financial accountancy, information, only managers within the organization use the normally confidential management accounting information
+while financial accountancy information is historical, management accounting information is primarily forward-looking;
+while financial accountancy information is case-based, management accounting information is model-based with a degree of abstraction in order to support generic decision making;
+while financial accountancy information is computed by reference to general financial accounting standards, management accounting information is computed by reference to the needs of managers, often using management information systems.Focus:  
+
+Financial accounting focuses on the company as a whole.
+Management accounting provides detailed and disaggregated information about products, individual activities, divisions, plants, operations and tasks.
+
+
+== Traditional versus innovative practices ==
+The distinction between traditional and innovative accounting practices is illustrated with the visual timeline (see sidebar) of managerial costing approaches presented at the Institute of Management Accountants 2011 Annual Conference.
+Traditional standard costing (TSC), used in cost accounting, dates back to the 1920s and is a central method in management accounting practiced today because it is used for financial statement reporting for the valuation of income statement and balance sheet line items such as cost of goods sold (COGS) and inventory valuation.  Traditional standard costing must comply with generally accepted accounting principles (GAAP US) and actually aligns itself more with answering financial accounting requirements rather than providing solutions for management accountants.  Traditional approaches limit themselves by defining cost behavior only in terms of production or sales volume.
+In the late 1980s, accounting practitioners and educators were heavily criticized on the grounds that management accounting practices (and, even more so, the curriculum taught to accounting students) had changed little over the preceding 60 years, despite radical changes in the business environment. In 1993, the Accounting Education Change Commission Statement Number 4 calls for faculty members to expand their knowledge about the actual practice of accounting in the workplace. Professional accounting institutes, perhaps fearing that management accountants would increasingly be seen as superfluous in business organizations, subsequently devoted considerable resources to the development of a more innovative skills set for management accountants.
+Variance analysis is a systematic approach to the comparison of the actual and budgeted costs of the raw materials and labour used during a production period.  While some form of variance analysis is still used by most manufacturing firms, it nowadays tends to be used in conjunction with innovative techniques such as life cycle cost analysis and activity-based costing, which are designed with specific aspects of the modern business environment in mind. Life-cycle costing recognizes that managers' ability to influence the cost of manufacturing a product is at its greatest when the product is still at the design stage of its product life-cycle (i.e., before the design has been finalized and production commenced), since small changes to the product design may lead to significant savings in the cost of manufacturing the products.
+Activity-based costing (ABC) recognizes that, in modern factories, most manufacturing costs are determined by the amount of 'activities' (e.g., the number of production runs per month, and the amount of production equipment idle time) and that the key to effective cost control is therefore optimizing the efficiency of these activities.  Both lifecycle costing and activity-based costing recognize that, in the typical modern factory, the avoidance of disruptive events (such as machine breakdowns and quality control failures) is of far greater importance than (for example) reducing the costs of raw materials. Activity-based costing also de-emphasizes direct labor as a cost driver and concentrates instead on activities that drive costs, as the provision of a service or the production of a product component.
+Other approach is the German Grenzplankostenrechnung (GPK) costing methodology. Although it has been in practiced in Europe for more than 50 years, neither GPK nor the proper treatment of 'unused capacity' is widely practiced in the U.S.Another accounting practice available today is resource consumption accounting (RCA).  RCA has been recognized by the International Federation of Accountants (IFAC) as a "sophisticated approach at the upper levels of the continuum of costing techniques" The approach provides the ability to derive costs directly from operational resource data or to isolate and measure unused capacity costs.  RCA was derived by taking costing characteristics of GPK, and combining the use of activity-based drivers when needed, such as those used in activity-based costing.A modern approach to close accounting is continuous accounting, which focuses on achieving a point-in-time close, where accounting processes typically performed at period-end are distributed evenly throughout the period.
+
+
+== Role within a corporation ==
+Consistent with other roles in modern corporations, management accountants have a dual reporting relationship. As a strategic partner and provider of decision based financial and operational information, management accountants are responsible for managing the business team and at the same time having to report relationships and responsibilities to the corporation's finance organization and finance of an organization.
+The activities management accountants provide inclusive of forecasting and planning, performing variance analysis, reviewing and monitoring costs inherent in the business are ones that have dual accountability to both finance and the business team. Examples of tasks where accountability may be more meaningful to the business management team vs. the corporate finance department are the development of new product costing, operations research, business driver metrics, sales management scorecarding, and client profitability analysis. (See financial planning.) Conversely, the preparation of certain financial reports, reconciliations of the financial data to source systems, risk and regulatory reporting will be more useful to the corporate finance team as they are charged with aggregating certain financial information from all segments of the corporation.
+In corporations that derive much of their profits from the information economy, such as banks, publishing houses, telecommunications companies and defence contractors, IT costs are a significant source of uncontrollable spending, which in size is often the greatest corporate cost after total compensation costs and property related costs. A function of management accounting in such organizations is to work closely with the IT department to provide IT cost transparency.Given the above, one view of the progression of the accounting and finance career path is that financial accounting is a stepping stone to management accounting. Consistent with the notion of value creation, management accountants help drive the success of the business while strict financial accounting is more of a compliance and historical endeavor.
+
+
+== Specific methodologies ==
+
+
+=== Activity-based costing (ABC) ===
+Activity-based costing was first clearly defined in 1987 by Robert S. Kaplan and W. Bruns as a chapter in their book Accounting and Management: A Field Study Perspective. They initially focused on the manufacturing industry, where increasing technology and productivity improvements have reduced the relative proportion of the direct costs of labor and materials, but have increased relative proportion of indirect costs. For example, increased automation has reduced labor, which is a direct cost, but has increased depreciation, which is an indirect cost.
+
+
+=== Grenzplankostenrechnung ===
+
+Grenzplankostenrechnung (GPK) is a German costing methodology, developed in the late 1940s and 1960s, designed to provide a consistent and accurate application of how managerial costs are calculated and assigned to a product or service. The term Grenzplankostenrechnung, often referred to as GPK, has best been translated as either marginal planned cost accounting or flexible analytic cost planning and accounting.The origins of GPK are credited to Hans Georg Plaut, an automotive engineer, and Wolfgang Kilger, an academic, working towards the mutual goal of identifying and delivering a sustained methodology designed to correct and enhance cost accounting information. GPK is published in cost accounting textbooks, notably Flexible Plankostenrechnung und Deckungsbeitragsrechnung and taught at German-speaking universities.
+
+
+=== Lean accounting (accounting for lean enterprise) ===
+
+In the mid- to late-1990s several books were written about accounting in the lean enterprise (companies implementing elements of the Toyota Production System). The term lean accounting was coined during that period. These books contest that traditional accounting methods are better suited for mass production and do not support or measure good business practices in just-in-time manufacturing and services. The movement reached a tipping point during the 2005 Lean Accounting Summit in Dearborn, Michigan, United States. 320 individuals attended and discussed the advantages of a new approach to accounting in the lean enterprise. 520 individuals attended the 2nd annual conference in 2006 and it has varied between 250 and 600 attendees since that time.
+
+
+=== Resource consumption accounting (RCA) ===
+
+Resource consumption accounting (RCA) is formally defined as a dynamic, fully integrated, principle-based, and comprehensive management accounting approach that provides managers with decision support information for enterprise optimization. RCA emerged as a management accounting approach around 2000 and was subsequently developed at CAM-I, the Consortium for Advanced Manufacturing–International, in a Cost Management Section RCA interest group in December 2001.
+
+
+=== Throughput accounting ===
+
+The most significant recent direction in managerial accounting is throughput accounting; which recognizes the interdependencies of modern production processes. For any given product, customer or supplier, it is a tool to measure the contribution per unit of constrained resource.
+
+
+=== Transfer pricing ===
+
+Management accounting is an applied discipline used in various industries. The specific functions and principles followed can vary based on the industry. Management accounting principles in banking are specialized but do have some common fundamental concepts used whether the industry is manufacturing-based or service-oriented. For example, transfer pricing is a concept used in manufacturing but is also applied in banking. It is a fundamental principle used in assigning value and revenue attribution to the various business units. Essentially, transfer pricing in banking is the method of assigning the interest rate risk of the bank to the various funding sources and uses of the enterprise. Thus, the bank's corporate treasury department will assign funding charges to the business units for their use of the bank's resources when they make loans to clients. The treasury department will also assign funding credit to business units who bring in deposits (resources) to the bank. Although the funds transfer pricing process is primarily applicable to the loans and deposits of the various banking units, this proactive is applied to all assets and liabilities of the business segment. Once transfer pricing is applied and any other management accounting entries or adjustments are posted to the ledger (which are usually memo accounts and are not included in the legal entity results), the business units are able to produce segment financial results which are used by both internal and external users to evaluate performance.
+
+
+== Resources and continuous learning ==
+There are a variety of ways to keep current and continue to build one's knowledge base in the field of management accounting. Certified Management Accountants (CMAs) are required to achieve continuing education hours every year, similar to a Certified Public Accountant. A company may also have research and training materials available for use in a corporate owned library. This is more common in Fortune 500 companies who have the resources to fund this type of training medium.
+There are also journals, online articles and blogs available.  The journal Cost Management (ISSN 1092-8057) and the Institute of Management Accounting (IMA) site are sources which include Management Accounting Quarterly and Strategic Finance publications.
+
+
+== Tasks and services provided ==
+Listed below are the primary tasks/services performed by management accountants. The degree of complexity relative to these activities are dependent on the experience level and abilities of any one individual.
+
+Rate and volume analysis
+Business metrics development
+Price modeling
+Product profitability
+Geographic vs. industry or client segment reporting
+Sales management scorecards
+Cost analysis
+Cost–benefit analysis
+Cost-volume-profit analysis
+Life cycle cost analysis
+Client profitability analysis
+IT cost transparency
+Capital budgeting
+Buy vs. lease analysis
+Strategic planning
+Strategic management advice
+Internal financial presentation and communication
+Sales forecasting
+Financial forecasting
+Annual budgeting
+Cost allocation
+
+
+== Related qualifications ==
+There are several related professional qualifications and certifications in the field of accountancy including:
+
+Management Accountancy Qualifications
+CIMA
+ICMA
+ICAI-CMA
+ICMAP
+CMA
+Other Professional Accountancy Qualifications
+Chartered Institute of Public Finance and Accountancy, CIPFA
+Chartered Certified Accountant (ACCA)
+Cost & Management Accountant (CMA)
+Chartered Accountant (CA)
+Chartered Professional Accountant (CPA - Canada)
+Certified Public Accountant (CPA - US)
+American Institute of Certified Public Accountants
+Certified Practicing Accountant (CPA Australia)
+Chartered Global Management Accountant
+
+
+== Methods ==
+Activity-based costing
+Grenzplankostenrechnung (GPK)
+Lean accounting
+Resource consumption accounting
+Standard cost accounting
+Throughput accounting
+Transfer pricing
+
+
+== See also ==
+Managerial risk accounting
+Profit model
+
+
+== References ==
+
+["https://aimsoftech.com/">best accounting software]
+
+
+== Further reading ==
+Kurt Heisinger and Joe Hoyle, Managerial Accounting, ISBN 978-1-4533452-9-0.
+James R. Martin, Ph.D., CMA, Management And Accounting Web.
+
+
+== External links ==
+CAM-I Consortium for Advanced Manufacturing–International
+AICPA Financial Management Center – resource for CPAs working in business, industry and government
+Institute of Management Accountants – resource for management accountants (CMAs) working in industry
+Chartered Institute of Management Accountants
+International Federation of Accountants
+The Accounting Adventurista Management Accounting
+The Institute of Cost Accountants of India

@@ -1,0 +1,100 @@
+Strategic financial management is the study of finance with a long term view considering the strategic goals of the enterprise.  Financial management is nowadays increasingly referred to as "Strategic Financial Management" so as to give it an increased frame of reference.
+To understand what strategic financial management is about, we must first understand what is meant by the term "Strategic". Which is something that is done as part of a plan that is meant to achieve a particular purpose.
+Therefore, Strategic Financial Management are those aspect of the overall plan of the organisation that concerns financial managers. This includes different parts of the business plan, for example marketing and sales plan, production plan, personnel plan, capital expenditure, etc. These all have financial implications for the financial managers of an organisation.
+The objective of the Financial Management is the maximisation of shareholders wealth. To satisfy this objective a company requires a "long term course of action" and this is where strategy fits in.
+
+
+== Strategic planning ==
+Strategic planning is an organisation’s process to outlining and defining its strategy, direction it is going. This led to decision making and allocation of resources inline with this strategy. Some techniques used in strategic planning includes: SWOT analysis, PEST analysis, STEER analysis. Often it is a plan for one year but more typically 3 to 5 years if a longer term view is taken. 
+
+
+=== Component of a financial strategy ===
+When making a financial strategy, financial managers need to include the following basic elements. More elements could be added, depending on the size and industry of the project.
+Startup cost: For new business ventures and those started by existing companies. Could include new fabricating equipment costs, new packaging costs, marketing plan.
+Competitive analysis: analysis on how the competition will affect your revenues.
+Ongoing costs: Includes labour, materials, equipment maintenance, shipping and facilities costs. Needs to be broken down into monthly numbers and subtracted from the revenue forecast (see below).
+Revenue forecast: over the length of the project, to determine how much will be available to pay the ongoing cost and if the project will be profitable.
+
+
+== Role of a financial manager ==
+Broadly speaking, financial managers have to have decisions regarding 4 main topics within a company.  Those are as follow:
+
+Investment decisions - Regarding the long and short term investment decisions. For example: the most appropriate level and mix of assets a company should hold.
+Financing decisions - concerns the optimal levels of each financing source - E.g. Debt - Equity ratio.
+Liquidity decisions - Involves the current assets and liabilities of the company - one function is to maintain cash reserves.
+Dividend decisions - Disbursement of dividend to shareholders and retained earnings.
+
+
+== Decision making ==
+Each decisions made by financial managers must be strategic sound and not only have benefits financially (e.g. Increasing value on the Discounted Cash Flow Analysis) but must also consider uncertain, unquantifiable factors which could be strategically beneficial.
+To explain this further, a proposal could have a negative impact from the Discounted Cash Flow analysis, but if it is strategically beneficial to the company this decision will be accepted by the financial managers over a decision which has a positive impact on the Discounted Cash Flow analysis but is not strategically beneficial.
+
+
+=== Investment decisions ===
+For a financial manager in an organisation this will be mainly regarding the selection of assets which funds from the firm will be invested in. These assets will be acquired if they are proven to be strategically sound and assets are classified into 2 classifications:
+
+Long term assets - also known as Capital Budgeting for financial managers.
+Short term assets/current assets.
+Profitability Management.
+
+
+==== Long term assets: capital budgeting investment decisions ====
+Financial managers in this field must select assets or an investment proposals which provides a beneficial course of action, that will most likely come in the future and over the lifetime of the project. This is one of the most crucial financial decisions for a firm.
+
+
+==== Short term assets investment decisions ====
+Important for short term survival of the organisation; thus prerequisite for long term success; mainly concerning the management of current assets that’s held on the company’s balance sheet.
+
+
+==== Profitability management ====
+As a more minor role under this section; it comes under investment decisions because revenue generated will be from investments and divestments.
+
+
+==== Evaluation ====
+Under each of the above headings: financial managers have to use the following financial figures as part of the evaluation process to determine if a proposal should be accepted. Payback period with NPV (Net Present Value), IRR (internal rate of return) and DCF (Discounted Cash Flow).
+
+
+=== Financing decisions ===
+For a financial managers, they have to decide the financing mix, capital structure or leverage of a firm. Which is the use of a combination of equity, debt or hybrid securities to fund a firm's activities, or new venture.
+
+
+==== Decision making ====
+Financial manager often uses the Theory of capital structure to determine the ratio between equity and debt which should be used in a financing round for a company.
+The basis of the theory is that debt capital used beyond the point of minimum weighted average cost of capital will cause devaluation and unnecessary leverage for the company.
+See Corporate finance § Capitalization structure for discussion and Weighted average cost of capital § Calculation for formula.
+
+
+=== Liquidity and working capital decisions ===
+The role of a financial manager often includes making sure the firm is liquid – the firm is able to finance itself in the short run, without running out of cash. They also have to make the firm’s decision in investing into current assets: which can generally be defined as the assets which can be converted into cash within one accounting year, which includes cash, short term securities debtors, etc.
+The main indicator to be used here is the net working capital: which is the difference between current assets and current liabilities. Being able to be positive and negative, indicating the companies current financial position and the health of the balance sheet.
+This can be further split into:
+
+
+==== Receivables management ====
+Which includes investment in receivables that is the volume of credit sales, and collection period. Credit policy which includes credit standards, credit terms and collection efforts.
+
+
+==== Inventory management ====
+Which are stocks of manufactured products and the material that make up the product, which includes raw materials, work-in-progress, finished goods, stores and spares (supplies). For a retail business, for example, this will be a major component of their current assets.
+See Inventory optimization.
+
+
+==== Cash management ====
+Concerned with the management of cash flow in and out of the firm, within the firm, and cash balances held by the firm at a point of time by financing deficit or investing surplus cash. See cash management.
+
+
+=== Dividend decisions ===
+Financial managers often have to influence the dividend to 2 outcomes: The ratio as which this is distributed is called the dividend-pay out ratio. 
+
+Distribute to the shareholder in the form of dividends
+Retain in the business itselfThis is largely dependent on the preference of the shareholders and the investment opportunities available within the firm. But also on the theory that there must be a balance between the pay out to satisfy shareholders for them to continue to invest in the company. But the company will also need to retain profits to be reinvested so more profits can be made for the future. This is also beneficial to the shareholders for growth in the value of shares and for increased dividends paid out in the future. This infers that it is important for management and shareholders to agree to a balanced ratio which both sides can benefit from, in the long term. Although this is often an exception for shareholders who only wish to hold for the short term dividend gain.
+
+
+== Strategic financial management tasks and services provided ==
+Derivatives
+Asset pricing
+Investment banking
+M&A and other corporate restructuring
+
+
+== References ==

@@ -1,0 +1,59 @@
+Urban economics is broadly the economic study of urban areas; as such, it involves using the tools of economics to analyze urban issues such as crime, education, public transit, housing, and local government finance. More specifically, it is a branch of microeconomics that studies the urban spatial structure and the location of households and firms (Quigley 2008).
+Historically, much like economics generally, urban economics was influenced by multiple schools of thought, including original institutional economics and Marxist economics. These heterodox economic currents continue to be used  in contemporary political-economic analyses of cities. But, most urban economics today is neoclassical in orientation and centred largely around urban experiences in the Global North (Obeng-Odoom 2016:1-4). This dominant urban economics also influences mainstream media like The Economist (Obeng-Odoom 2023). Today, much urban economic analysis relies on a particular model of urban spatial structure, the monocentric city model pioneered in the 1960s by William Alonso, Richard Muth, and Edwin Mills. While most other forms of neoclassical economics do not account for spatial relationships between individuals and organizations, urban economics focuses on these spatial relationships to understand the economic motivations underlying the formation, functioning, and development of cities.
+Since its formulation in 1964, Alonso's monocentric city model of a disc-shaped Central Business District (CBD) and the surrounding residential region has served as a starting point for urban economic analysis. Monocentricity has weakened over time because of changes in technology, particularly, faster and cheaper transportation (which makes it possible for commuters to live farther from their jobs in the CBD) and communications (which allow back-office operations to move out of the CBD).
+Additionally, recent research has sought to explain the polycentricity described in Joel Garreau's Edge City. Several explanations for polycentric expansion have been proposed and summarized in models that account for factors such as utility gains from lower average land rents and increasing (or constant) returns due to economies of agglomeration (Strange 2008).
+
+
+== Introduction ==
+Urban economics is rooted in the location theories of von Thünen, Alonso, Christaller, and Lösch that began the process of spatial economic analysis (Capello & Nijkamp 2004:3–4). Economics is the study of the allocation of scarce resources, and as all economic phenomena take place within a geographical space, urban economics focuses on the allocation of resources across space in relation to urban areas (Arnott & McMillen 2006:7) (McCann 2001:1). Other branches of economics ignore the spatial aspects of decision making but urban economics focuses not only on the location decisions of firms but also of cities themselves as cities themselves represent centers of economic activity (O'Sullivan 2003:1).
+Many spatial economic topics can be analyzed within either an urban or regional economics framework as some economic phenomena primarily affect localized urban areas while others are felt over much larger regional areas (McCann 2001:3). Arthur O'Sullivan believes urban economics is divided into six related themes: market forces in the development of cities, land use within cities, urban transportation, urban problems and public policy, housing and public policy, and local government expenditures and taxes. (O'Sullivan 2003:13–14).
+
+
+== Market forces in the development of cities ==
+Market forces in the development of cities relate to how the location decision of firms and households causes the development of cities. The nature and behavior of markets depend somewhat on their locations therefore market performance partly depends on geography.(McCann 2001:1). If a firm locates in a geographically isolated region, its market performance will be different than a firm located in a concentrated region. The location decisions of both firms and households create cities that differ in size and economic structure. When industries cluster, like in Silicon Valley in California, they create urban areas with dominant firms and distinct economies.
+By looking at location decisions of firms and households, the urban economist is able to address why cities develop where they do, why some cities are large and others small, what causes economic growth and decline, and how local governments affect urban growth (O'Sullivan 2003:14). Because urban economics is concerned with asking questions about the nature and workings of the economy of a city, models and techniques developed within the field are primarily designed to analyze phenomena that are confined within the limits of a single city (McCann 2001:2).
+
+
+== Land use ==
+Looking at land use within metropolitan areas, the urban economist seeks to analyze the spatial organization of activities within cities. In attempts to explain observed patterns of land use, the urban economist examines the intra-city location choices of firms and households. Considering the spatial organization of activities within cities, urban economics addresses questions in terms of what determines the price of land and why those prices vary across space, the economic forces that caused the spread of employment from the central core of cities outward, identifying land-use controls, such as zoning, and interpreting how such controls affect the urban economy (O'Sullivan 2003:14).
+
+
+== Economic policy ==
+Economic policy is often implemented at the urban level thus economic policy is often tied to urban policy (McCann 2001:3). Urban problems and public policy tie into urban economics as the theme relates urban problems, such as poverty or crime, to economics by seeking to answer questions with economic guidance. For example, does the tendency for the poor to live close to one another make them even poorer? (O'Sullivan 2003:15).
+
+
+== Transportation and economics ==
+Urban transportation is a theme of urban economics because it affects land-use patterns as transportation affects the relative accessibility of different sites. Issues that tie urban transportation to urban economics include the deficit that most transit authorities have and efficiency questions about proposed transportation developments such as light-rail (O'Sullivan 2003:14). Megaprojects such as this have been shown to be synonymous with unexpected costs and questionable benefits.
+
+
+== Housing and public policy ==
+Housing and public policy relate to urban economics as housing is a unique type of commodity. Because housing is immobile, when a household chooses a dwelling, it is also choosing a location. Urban economists analyze the location choices of households in conjunction with the market effects of housing policies (O'Sullivan 2003:15).
+In analyzing housing policies, we make use of market structures e.g., perfect market structure. There are however problems encountered in making this analysis such as funding, uncertainty, space, etc.
+
+
+== Government expenditures and taxes ==
+The final theme of local government expenditures and taxes relates to urban economics as it analyzes the efficiency of the fragmented local governments presiding in metropolitan areas (O'Sullivan 2003:15).
+
+
+== See also ==
+
+
+== References ==
+
+
+== Literature ==
+Arnott, Richard; McMillen, Daniel P., eds. (2006). A Companion to Urban Economics. Blackwell Publishing. ISBN 1-4051-0629-8.
+Capello, Roberta; Nijkamp, Peter, eds. (2004). Urban Dynamics and Growth: Advances in Urban Economics. Elsvier Inc.
+McCann, Philip (2001). Urban and Regional Economics. Oxford University Press. ISBN 978-0-19-877645-1.
+Obeng-Odoom, Franklin (2016). Reconstructing Urban Economics: Towards a Political Economy of the Built Environment.. Zed Books  ISBN 978-1-7836-0659-7
+Obeng-Odoom, Franklin (2023). "Urban Economics in the Global South: A Study of The Economist", Urban Challenge Journal, vol. 34, no. 1, pp. 107 -118.
+O'Sullivan, Arthur (2003). Urban economics. Boston, Mass: McGraw-Hill/Irwin. ISBN 0-07-248784-4.
+Quigley, John M. (2008). "Urban economics". The New Palgrave Dictionary of Economics (2nd ed.).
+Strange, William C. (2008). "Urban agglomeration". The New Palgrave Dictionary of Economics (2nd ed.).
+
+
+== Further reading ==
+Garreau, Joel. Edge City: Life on the New Frontier. 1992. Anchor. ISBN 978-0-385-42434-9.
+Kahn, Matthew. Green Cities: Urban Growth and the Environment. 2006. Brookings ISBN 978-0-8157-4816-8.
+Obeng-Odoom, Franklin. Reconstructing Urban Economics: Towards a Political Economy of the Built Environment. 2016. Zed. ISBN 978-1-7836-0659-7
+Stilwell, Frank. Understanding Cities & Regions: Spatial Political Economy. 1993 ISBN 978-0-9491-3888-0.

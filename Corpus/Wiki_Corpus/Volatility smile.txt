@@ -1,0 +1,189 @@
+Volatility smiles are implied volatility patterns that arise in pricing financial options. It is a parameter  (implied volatility) that is needed to be modified for the Black–Scholes formula to fit market prices. In particular for a given expiration, options whose strike price differs substantially from the underlying asset's price command higher prices (and thus implied volatilities) than what is suggested by standard option pricing models. These options are said to be either deep in-the-money or out-of-the-money.
+Graphing implied volatilities against strike prices for a given expiry produces a skewed "smile" instead of the expected flat surface. The pattern differs across various markets.  Equity options traded in American markets did not show a volatility smile before the Crash of 1987 but began showing one afterwards. It is believed that investor reassessments of the probabilities of fat-tail have led to higher prices for out-of-the-money options. This anomaly implies deficiencies in the standard Black–Scholes option pricing model which assumes constant volatility and log-normal distributions of underlying asset returns. Empirical asset returns distributions, however, tend to exhibit fat-tails (kurtosis) and skew. Modelling the volatility smile is an active area of research in quantitative finance, and better pricing models such as the stochastic volatility model partially address this issue.
+A related concept is that of term structure of volatility, which describes how (implied) volatility differs for related options with different maturities. An implied volatility surface is a 3-D plot that plots volatility smile and term structure of volatility in a consolidated three-dimensional surface for all options on a given  underlying asset.
+
+
+== Implied volatility ==
+In the Black–Scholes model, the theoretical value of a vanilla option is a monotonic increasing function of the volatility of the underlying asset. This means it is usually possible to compute a unique implied volatility from a given market price for an option. This implied volatility is best regarded as a rescaling of option prices which makes comparisons between different strikes, expirations, and underlyings easier and more intuitive.
+When implied volatility is plotted against strike price, the resulting graph is typically downward sloping for equity markets, or valley-shaped for currency markets. For markets where the graph is downward sloping, such as for equity options, the term "volatility skew" is often used. For other markets, such as FX options or equity index options, where the typical graph turns up at either end, the more familiar term "volatility smile" is used. For example, the implied volatility for upside (i.e. high strike) equity options is typically lower than for at-the-money equity options. However, the implied volatilities of options on foreign exchange contracts tend to rise in both the downside and upside directions.  In equity markets, a small tilted smile is often observed near the money as a kink in the general downward sloping implicit volatility graph. Sometimes the term "smirk" is used to describe a skewed smile.
+Market practitioners use the term implied-volatility to indicate the volatility parameter for ATM (at-the-money) option.  Adjustments to this value are undertaken by incorporating the values of Risk Reversal and Flys (Skews) to determine the actual volatility measure that may be used for options with a delta which is not 50.
+
+
+=== Formula ===
+
+  
+    
+      
+        Call
+        ⁡
+        x
+        =
+        
+          A
+          T
+          M
+        
+        +
+        0.5
+        RR
+        ⁡
+        x
+        +
+        Fly
+        ⁡
+        x
+      
+    
+    {\displaystyle \operatorname {Call} x=\mathrm {ATM} +0.5\operatorname {RR} x+\operatorname {Fly} x}
+  
+  
+    
+      
+        Put
+        ⁡
+        x
+        =
+        
+          A
+          T
+          M
+        
+        −
+        0.5
+        RR
+        ⁡
+        x
+        +
+        Fly
+        ⁡
+        x
+      
+    
+    {\displaystyle \operatorname {Put} x=\mathrm {ATM} -0.5\operatorname {RR} x+\operatorname {Fly} x}
+  where:
+
+  
+    
+      
+        Call
+        ⁡
+        x
+      
+    
+    {\displaystyle \operatorname {Call} x}
+   is the implied volatility at which the x%-delta call is trading in the market
+
+  
+    
+      
+        Put
+        ⁡
+        x
+      
+    
+    {\displaystyle \operatorname {Put} x}
+   is the implied volatility of the x%-delta put
+ATM is the At-The-Money Forward vol at which ATM Calls and Puts are trading in the market
+
+  
+    
+      
+        RR
+        ⁡
+        x
+        =
+        Call
+        ⁡
+        x
+        −
+        Put
+        ⁡
+        x
+      
+    
+    {\displaystyle \operatorname {RR} x=\operatorname {Call} x-\operatorname {Put} x}
+  
+
+  
+    
+      
+        Fly
+        ⁡
+        x
+        =
+        0.5
+        (
+        Call
+        ⁡
+        x
+        +
+        Put
+        ⁡
+        x
+        )
+        −
+        
+          A
+          T
+          M
+        
+      
+    
+    {\displaystyle \operatorname {Fly} x=0.5(\operatorname {Call} x+\operatorname {Put} x)-\mathrm {ATM} }
+  Risk reversals are generally quoted as x% delta risk reversal and essentially is Long x% delta call, and short x% delta put.
+Butterfly, on the other hand, is a strategy consisting of:
+−y% delta fly which mean Long y% delta call, Long y% delta put, short one ATM call and short one ATM put (small hat shape).
+
+
+== Implied volatility and historical volatility ==
+It is helpful to note that implied volatility is related to historical volatility, but the two are distinct. Historical volatility is a direct measure of the movement of the underlying’s price (realized volatility) over recent history (e.g. a trailing 21-day period). Implied volatility, in contrast, is determined by the market price of the derivative contract itself, and not the underlying. Therefore, different derivative contracts on the same underlying have different implied volatilities as a function of their own supply and demand dynamics. For instance, the IBM call option, strike at $100 and expiring in 6 months, may have an implied volatility of 18%, while the put option strike at $105 and expiring in 1 month may have an implied volatility of 21%. At the same time, the historical volatility for IBM for the previous 21 day period might be 17% (all volatilities are expressed in annualized percentage moves).
+
+
+== Term structure of volatility ==
+For options of different maturities, we also see characteristic differences in implied volatility. However, in this case, the dominant effect is related to the market's implied impact of upcoming events. For instance, it is well-observed that realized volatility for stock prices rises significantly on the day that a company reports its earnings. Correspondingly, we see that implied volatility for options will rise during the period prior to the earnings announcement, and then fall again as soon as the stock price absorbs the new information. Options that mature earlier exhibit a larger swing in implied volatility (sometimes called "vol of vol") than options with longer maturities.
+Other option markets show other behavior. For instance, options on commodity futures typically show increased implied volatility just prior to the announcement of harvest forecasts. Options on US Treasury Bill futures show increased implied volatility just prior to meetings of the Federal Reserve Board (when changes in short-term interest rates are announced).
+The market incorporates many other types of events into the term structure of volatility. For instance, the impact of upcoming results of a drug trial can cause implied volatility swings for pharmaceutical stocks. The anticipated resolution date of patent litigation can impact technology stocks, etc.
+Volatility term structures list the relationship between implied volatilities and time to expiration. The term structures provide another method for traders to gauge cheap or expensive options.
+
+
+== Implied volatility surface ==
+It is often useful to plot implied volatility as a function of both strike price and time to maturity. The result is a two-dimensional curved surface plotted in three dimensions whereby the current market implied volatility (z-axis) for all options on the underlying is plotted against the price (y-axis) and time to maturity (x-axis "DTM"). This defines the absolute implied volatility surface; changing coordinates so that the price is replaced by delta yields the relative implied volatility surface.
+The implied volatility surface simultaneously shows both volatility smile and term structure of volatility. Option traders use an implied volatility plot to quickly determine the shape of the implied volatility surface, and to identify any areas where the slope of the plot (and therefore relative implied volatilities) seems out of line.
+The graph shows an implied volatility surface for all the put options on a particular underlying stock price. The z-axis represents implied volatility in percent, and x and y axes represent the option delta, and the days to maturity. Note that to maintain put–call parity, a 20 delta put must have the same implied volatility as an 80 delta call. For this surface, we can see that the underlying symbol has both volatility skew (a tilt along the delta axis), as well as a volatility term structure indicating an anticipated event in the near future.
+
+
+== Evolution: Sticky ==
+An implied volatility surface is static: it describes the implied volatilities at a given moment in time. How the surface changes as the spot changes is called the evolution of the implied volatility surface.
+Common heuristics include:
+
+"sticky strike" (or "sticky-by-strike", or "stick-to-strike"): if spot changes, the implied volatility of an option with a given absolute strike does not change.
+"sticky moneyness" (aka, "sticky delta"; see moneyness for why these are equivalent terms): if spot changes, the implied volatility of an option with a given moneyness (delta) does not change. (Delta means here "Delta Volatility Adjustment", not Delta as Greek. In other words, relative volatility adjustment to ATM strike volatility which always set to be 100% moneyness as closest to the current underlying asset price and 0 for delta volatility adjustment.)So if spot moves from $100 to $120, sticky strike would predict that the implied volatility of a $120 strike option would be whatever it was before the move (though it has moved from being OTM to ATM), while sticky delta would predict that the implied volatility of the $120 strike option would be whatever the $100 strike option's implied volatility was before the move (as these are both ATM at the time).
+
+
+== Modeling volatility ==
+Methods of modelling the volatility smile include stochastic volatility models and local volatility models. For a discussion as to the various alternate approaches developed here, see Financial economics § Challenges and criticism and  Black–Scholes model § The volatility smile.
+
+
+== See also ==
+Volatility (finance)
+Stochastic volatility
+SABR volatility model
+Vanna Volga method
+Heston model
+Implied binomial tree
+Implied trinomial tree
+Edgeworth binomial tree
+Financial economics § Departures from normality
+
+
+== References ==
+
+
+== External links ==
+Emanuel Derman, The Volatility Smile and Its Implied Tree (RISK, 7-2 February 1994, pp. 139–145, pp. 32–39) (PDF)
+Mark Rubinstein, Implied Binomial Trees (PDF)
+Damiano Brigo, Fabio Mercurio, Francesco Rapisarda and Giulio Sartorelli, Volatility Smile Modeling with Mixture Stochastic Differential Equations (PDF)
+Visualization of the volatility smile
+C. Grunspan, "Asymptotics Expansions for the Implied Lognormal Volatility : a Model Free Approach"
+Y. Li, "A mean bound financial model and options pricing"
+examples of commodity volatility smiles/skews

@@ -1,0 +1,48 @@
+Economic methodology is the study of methods, especially the  scientific method,  in relation to economics,  including principles underlying economic reasoning.  In contemporary English, 'methodology' may reference  theoretical or systematic aspects of a method (or several methods). Philosophy and economics also takes up methodology at the intersection of the two subjects.
+
+
+== Scope ==
+General methodological issues include similarities and contrasts to the natural sciences and to other social sciences and, in particular, to:
+
+the definition of economics
+the scope of economics as defined by its methods
+fundamental principles and operational significance of economic theory
+methodological individualism versus holism in economics
+the role of simplifying assumptions such as rational choice and profit maximizing in explaining or predicting phenomena
+descriptive/positive, prescriptive/normative, and applied uses of theory
+the scientific status and expanding domain of economics
+issues critical to the practice and progress of econometrics
+the balance of empirical and philosophical approaches
+the role of experiments in economics
+the role of mathematics and mathematical economics in economics
+the writing and rhetoric of economics
+the relation between theory, observation, application, and methodology in contemporary economics.Economic methodology has gone from periodic reflections of economists on method to a distinct research field in economics since the 1970s. In one direction, it has expanded to the boundaries of philosophy, including the relation of economics to the philosophy of science and the theory of knowledge  In another direction of philosophy and economics, additional subjects are treated including decision theory and ethics.
+
+
+== See also ==
+Economic systems
+Methodology of econometrics
+Model (economics)
+
+
+== Notes ==
+
+
+== References ==
+John Bryan Davis, D. Wade Hands, Uskali Mäki (1998). Handbook of Economic Methodology, E. Elgar
+Hands, D. Wade, ed. (1993). The Philosophy And Methodology Of Economics, Duke University
+Hausman, Daniel M. (1984). The Philosophy of Economics: An Anthology. New York: Cambridge University Press, ISBN 052145929X
+Boland, L. (1982) The Foundations of Economic Method, London: Geo. Allen & Unwin.
+Boland, L. (1989) The Methodology of Economic Model Building: Methodology after Samuelson, London: Routledge.
+Boland, L. (1997) Critical Economic Methodology: A Personal Odyssey, London: Routledge
+Boland, L. (2003) The Foundations of Economic Method: A Popperian Perspective, London: Routledge
+D.N. McCloskey (1983). The Rhetoric of Economics, Univ of Wisconsin Press, 1998
+Daniel M. Hausman (1992). Essays on Philosophy and Economic Methodology, Cambridge University Press, 1992
+Nell, E.J. and Errouaki, K. (2011) Rational Econometric Man. Edward Elgar.
+Düppe, T. (2011). How Economic Methodology Became a Separate Science, Journal of Economic Methodology, 18 (2): 163-176.
+
+
+== External links ==
+Journal of Economic Methodology - page @ EconPapers
+Daniel M. Hausman, Philosophy of Economics (with focus on methodology), Stanford Encyclopedia of Philosophy
+Milton Friedman, "The Methodology of Positive Economics" (excerpts)

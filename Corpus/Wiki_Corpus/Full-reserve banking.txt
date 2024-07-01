@@ -1,0 +1,52 @@
+Full-reserve banking (also known as 100% reserve banking, or sovereign money system) is a system of banking where banks do not lend demand deposits and instead, only lend from time deposits. It differs from fractional-reserve banking, in which banks may lend funds on deposit, while fully reserved banks would be required to keep the full amount of each customer's demand deposits in cash, available for immediate withdrawal.
+Monetary reforms that included full-reserve banking have been proposed in the past, notably in 1935 by a group of economists, including Irving Fisher, under the so-called "Chicago plan" as a response to the Great Depression.Currently, no country in the world requires full-reserve banking across primary credit institutions, although Iceland has considered it. In a 2018 ballot referendum, 75% of Swiss voters voted against the Sovereign Money Initiative which had full reserve banking as a prominent component of its proposed reform of the Swiss monetary system.
+
+
+== Views ==
+
+
+=== In favor ===
+
+Economist Milton Friedman at one time advocated a 100% reserve requirement for checking accounts, and economist Laurence Kotlikoff has also called for an end to fractional-reserve banking. Austrian School economist Murray Rothbard has written that reserves of less than 100% constitute fraud on the part of banks and should be illegal, and that full-reserve banking would eliminate the risk of bank runs. Jesús Huerta de Soto, another economist of the Austrian school, has also strongly argued in favor of full-reserve banking and the outlawing of fractional reserve banking.The financial crisis of 2007–2008 led to renewed interest in full reserve banking and sovereign money issued by a central bank. Monetary reformers point out that fractional reserve banking leads to unpayable debt, growing economic inequality, inevitable bankruptcy, and an imperative for perpetual and unsustainable economic growth. Martin Wolf, chief economist at the Financial Times, endorsed full reserve banking, saying "it would bring huge advantages".Martin Wolf, Chief Economics Commentator at the Financial Times, argues that many people have a fundamentally flawed and oversimplified conception of what it is that banks do. Laurence Kotlikoff and Edward Leamer agree, in a paper entitled "A Banking System We Can Trust", arguing that the current financial system did not produce the benefits that have been attributed to it.  Rather than simply borrowing money from savers to make loans towards investment and production, and holding "money" as a stable liability, banks in reality create credit increasingly for the purpose of acquiring existing assets. Rather than financing real productivity and investment, and generating fair asset prices, Wall Street has come to resemble a casino, in which trade volume of securities skyrockets without having positive impacts on the investment rate or economic growth. The credits and debt banks create play a role in determining how delicate the economy is in the face of crisis. For example, Wall Street caused the housing bubble by financing millions of mortgages that were outside budget constraints, which in turn decreased output by 10 percent.
+
+
+==== Money supply problems ====
+In The Mystery of Banking, Murray Rothbard argues that legalized fractional-reserve banking gave banks "carte blanche" to create money out of thin air. Economists that formulated the Chicago Plan following the Great Depression argue that allowing banks to have fractional reserves puts too much power in the hands of banks by allowing them to determine the amount of money in circulation by changing the amount of loans they give out.
+
+
+==== Fractional-reserve banking fraud issues ====
+Deposit bankers become loan bankers when they issue fake warehouse receipts that are not backed by the assets actually held, thus constituting fraud. Rothbard likens this practice to counterfeiting, with the loan banker extracting resources from the public. However, Bryan Caplan argues that fractional-reserve banking does not constitute fraud, as by Rothbard's own admission an advertised product must simply meet the "common definition" of that product believed by consumers. Caplan contends that it is part of the common definition of a modern bank to make loans against demand deposits, thus not constituting fraud.
+
+
+==== Balance sheet fundamentals ====
+Furthermore, Rothbard argues that fractional reserve banking is fundamentally unsound because of the timescale of a bank's balance sheet. While a typical firm should have its assets be due prior to the payment date of its liabilities, so that the liabilities can be paid, the fractional reserve deposit bank has its demand deposit liabilities due at any point the depositor chooses, and its assets, being the loans it has made with someone else's deposits, due at some later date.
+
+
+=== Against ===
+
+
+==== New fees ====
+Some economists have noted that under full-reserve banking, because banks would not earn revenue from lending against demand deposits, depositors would have to pay fees for the services associated with checking accounts. This, it is felt, would probably be rejected by the public. However, with central bank zero and negative interest rate policies, some writers have noted depositors are already experiencing paying to put their savings even in fractional reserve banks.
+
+
+==== Shadow banking and unregulated institutions ====
+In their influential paper on financial crises, economists Douglas W. Diamond and Philip H. Dybvig warned that under full-reserve banking, since banks would not be permitted to lend out funds deposited in demand accounts, this function would be taken over by unregulated institutions. Unregulated institutions (such as high-yield debt issuers) would take over the economically necessary role of financial intermediation and maturity transformation, therefore destabilizing the financial system and leading to more frequent financial crises.Writing in response to various writers' support for full reserve banking, Paul Krugman stated that the idea was "certainly worth talking about", but worries that it would drive financial activity outside the banking system, into the less regulated shadow banking system.
+
+
+==== Misses the problem ====
+Krugman argues that the 2008 financial crisis was not largely a result of depositors attempting to withdraw deposits from commercial banks, but a large-scale run on shadow banking. As financial markets seemed to have recovered more quickly than the 'real economy', Krugman sees the recession more as a result of excess leverage and household balance-sheet issues. Neither of these issues would be addressed by a full-reserve regulation on commercial banks, he claims.
+
+
+== Further reform ==
+Kotlikoff and Leamer promote the concept of limited purpose banking (LPB), in which banks, now mutual funds, would never fail, as they would be barred from owning financial assets, and their borrowing would be limited to financing their own operations.  By establishing a Federal Financial Authority, with the task of rating, verifying, disclosing and clearing all LPB mutual funds, there would be no need to outsource such tasks to private entities with perverse incentives or lack of oversight. Cash mutual funds would also be created, holding only cash tied to the value of the United States dollar, eliminating the threat of bank runs, and insurance mutual funds would be established to pay off the losses of those that own part of the mutual fund, as insurance companies are currently able to sell plans that purport to insure events for which it would be impossible for them to pay off the entirety of the losses experienced by the insured parties. The authors contend that LPB can accommodate any conceivable risk product, including credit default swaps.  Under LPB, liquidity would increase as such funds become publicly available to the market, which would determine how much bank employees would be paid.Most importantly, what limited purpose banking won't do is leave any bank exposed to CDS risk since people, not banks, would own the CDS mutual funds.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+The Chicago Plan Revisited, IMF Working Paper, Jaromir Benes and Michael Kumhof, August 2012
+In Defence of Fractional Monetary Reserves (Pascal Salin)

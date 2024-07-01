@@ -1,0 +1,312 @@
+In financial markets, stock valuation is the method of calculating theoretical values of companies and their stocks. The main use of these methods is to predict future market prices, or more generally, potential market prices, and thus to profit from price movement – stocks that are judged undervalued (with respect to their theoretical value) are bought, while stocks that are judged overvalued are sold, in the expectation that undervalued stocks will overall rise in value, while overvalued stocks will generally decrease in value.
+A target price is a price at which an analyst believes a stock to be fairly valued relative to its projected and historical earnings.In the view of fundamental analysis, stock valuation based on fundamentals aims to give an estimate of the intrinsic value of a stock, based on predictions of the future cash flows and profitability of the business. Fundamental analysis may be replaced or augmented by market criteria – what the market will pay for the stock, disregarding intrinsic value. These can be combined as "predictions of future cash flows/profits (fundamental)", together with "what will the market pay for these profits?" These can be seen as "supply and demand" sides – what underlies the supply (of stock), and what drives the (market) demand for stock?
+Stock valuation is distinct from business valuation, which is about calculating the economic value of an owner's interest in a business, used to determine the price interested parties would be willing to pay or receive to effect a sale of the business.
+Re. valuation in cases where both parties are corporations, see under Mergers and acquisitions and Corporate finance.
+
+
+== Fundamental criteria (fair value) ==
+There are many different ways to value stocks. The key is to take each approach into account while formulating an overall opinion of the stock. If the valuation of a company is lower or higher than other similar stocks, then the next step would be to determine the reasons.
+The first approach, Fundamental analysis, is typically associated with investors and financial analysts - its output is used to justify stock prices. 
+The most theoretically sound stock valuation method, is called "income valuation" or the discounted cash flow (DCF) method. It is widely applied in all areas of finance.
+Perhaps the most common fundamental methodology is the P/E ratio (Price to Earnings Ratio). This example of "relative valuation" is based on historic ratios and aims to assign value to a stock based on measurable attributes. This form of valuation is typically what drives long-term stock prices.
+The alternative approach - Technical analysis - is to base the assessment on supply and demand: simply, the more people that want to buy the stock, the higher its price will be; and conversely, the more people that want to sell the stock, the lower the price will be. 
+This form of valuation often drives the short-term stock market trends; and is associated with speculators as opposed to investors.
+
+
+=== Discounted cash flow ===
+The discounted cash flow (DCF) method involves discounting of the profits (dividends, earnings, or cash flows) that the stock will bring to the stockholder in the foreseeable future, and sometimes a final value on disposal, depending on the valuation method. The discounted rate normally includes a risk premium which is commonly based on the capital asset pricing model. 
+For discussion of the mechanics, see Valuation using discounted cash flows.
+In July 2010, a Delaware court ruled on appropriate inputs to use in discounted cash flow analysis in a dispute between shareholders and a company over the proper fair value of the stock. In this case the shareholders' model provided value of $139 per share and the company's model provided $89 per share. Contested inputs included the terminal growth rate, the equity risk premium, and beta.
+
+
+=== Earnings per share (EPS) ===
+EPS is the Net income available to common shareholders of the company divided by the number of shares outstanding. Usually, there will be two types of EPS listed: a GAAP (Generally Accepted Accounting Principles) EPS and a Pro Forma EPS, which means that the income has been adjusted to exclude any one time items as well as some non-cash items like amortization of goodwill or stock option expenses. The most important thing to look for in the EPS figure is the overall quality of earnings. Make sure the company is not trying to manipulate their EPS numbers to make it look like they are more profitable. Also, look at the growth in EPS over the past several quarters / years to understand how volatile their EPS is, and to see if they are an underachiever or an overachiever. In other words, have they consistently beaten expectations or are they constantly restating and lowering their forecasts?
+The EPS number that most analysts use is the pro forma EPS. To compute this number, use the net income that excludes any one-time gains or losses and excludes any non-cash expenses like amortization of goodwill.  Never exclude non-cash compensation expense as that does impact earnings per share.  Then divide this number by the number of fully diluted shares outstanding. Historical EPS figures and forecasts for the next 1–2 years can be found by visiting free financial sites such as Yahoo Finance (enter the ticker and then click on "estimates").
+
+
+=== Price to Earnings (P/E) ===
+Now that the analyst has several EPS figures (historical and forecasts), the analyst will be able to look at the most common valuation technique used, the price to earnings ratio, or P/E. To compute this figure, one divides the stock price by the annual EPS figure. For example, if the stock is trading at $10 and the EPS is $0.50, the P/E is 20 times. A complete analysis of the P/E multiple includes a look at the historical and forward ratios.
+Historical P/Es are computed by taking the current price divided by the sum of the EPS for the last four quarters, or for the previous year. Historical trends of the P/E should also be considered by viewing a chart of its historical P/E over the last several years (one can find this on most finance sites like Yahoo Finance). Specifically, consider what range the P/E has traded in so as to determine whether the current P/E is high or low versus its historical average.
+Forward P/Es reflect the growth of the company into the future. Forward P/Es are computed by taking the current stock price divided by the sum of the EPS estimates for the next four quarters, or for the EPS estimate for next calendar or fiscal year or two.
+P/Es change constantly. If there is a large price change in a stock, or if the earnings (EPS) estimates change, the ratio is recomputed.
+
+
+=== Growth rate ===
+
+Discounted cash flow based valuations rely (very) heavily on the expected growth rate of a company. An accurate assessment is therefore critical to the valuation
+Here, the analyst will typically look at the historical growth rate of both sales and income to derive a base for the type of future growth expected. 
+However, since, companies are constantly evolving, as is the economy, solely using historical growth rates to predict the future will not be appropriate (the "problem of induction"; see Discounted cash flow #Shortcomings). 
+These, instead, are used as guidelines for what future growth "could look like" if similar circumstances are encountered by the company.  
+Calculating the future growth rate, therefore, requires personal investment research – familiarity with a company is essential before making a forecast.
+This may take form in listening to the company's quarterly conference call or reading a press release or other company article that discusses the company's growth guidance. 
+However, although companies are in the best position to forecast their own growth, they are often far from accurate; further, unforeseen macro-events could cause impact the economy and /or the company's industry.
+Regardless of research effort, a growth-rate based valuation, therefore, relies heavily on experience and judgement ("gut feel"), and analysts will thus (often) make inaccurate forecasts. 
+It is for this reason, that analysts often display a range of forecast values, especially based on different terminal value assumptions. 
+[As an example here, if the company being valued has been growing earnings between 5 and 10% each year for the last 5 years, but believes that it will grow 15 –20% this year, a more conservative growth rate of 10–15% would be appropriate in valuations.  Another example would be for a company that has been going through restructuring. It may have been growing earnings at 10–15% over the past several quarters or years because of cost cutting, but their sales growth could be only 0–5%. This would signal that their earnings growth will probably slow when the cost cutting has fully taken effect. Therefore, forecasting an earnings growth closer to the 0–5% rate would be more appropriate rather than the 15–20%.]
+
+
+=== Capital structure substitution - asset pricing formula ===
+The capital structure substitution theory (CSS) describes the relationship between earnings, stock price and capital structure of public companies. The equilibrium condition of the CSS theory can be easily rearranged to an asset pricing formula:
+
+  
+    
+      
+        
+          P
+          
+            x
+          
+        
+        =
+        
+          
+            
+              E
+              
+                x
+              
+            
+            
+              
+                R
+                
+                  x
+                
+              
+              [
+              1
+              −
+              T
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle P_{\text{x}}={\frac {E_{\text{x}}}{R_{\text{x}}[1-T]}}}
+  
+where
+
+P is the current market price of public company x
+E is the earnings-per-share of company x
+R is the nominal interest rate on corporate bonds of company x
+T is the corporate tax rateThe CSS theory suggests that company share prices are strongly influenced by bondholders. As a result of active repurchasing or issuing of shares by company managements, equilibrium pricing is no longer a result of balancing shareholder demand and supply. The asset pricing formula only applies to debt-holding companies.
+The asset pricing formula can be used on a market aggregate level as well. The resulting graph shows at what times the S&P 500 Composite was overpriced and at what times it was under-priced relative to the capital structure substitution theory equilibrium. In times when the market is under-priced, corporate buyback programs will allow companies to drive up earnings-per-share, and generate extra demand in the stock market.
+
+
+=== Price earnings to growth (PEG) ratio ===
+This valuation technique has really become popular over the past decade or so. It is better than just looking at a P/E because it takes three factors into account; the price, earnings, and earnings growth rates. To compute the PEG ratio, the Forward P/E is divided by the expected earnings growth rate (one can also use historical P/E and historical growth rate to see where it has traded in the past). This will yield a ratio that is usually expressed as a percentage. The conjecture goes that as the percentage rises over 100% the stock becomes more and more overvalued, and as the PEG ratio falls below 100% the stock becomes more and more undervalued. The conjecture is based on a belief that P/E ratios should approximate the long-term growth rate of a company's earnings. Whether or not this is true will never be proven and the conjecture is therefore just a rule of thumb to use in the overall valuation process.
+Here is an example of how to use the PEG ratio to compare stocks. Stock A is trading at a forward P/E of 15 and expected to grow at 20%. Stock B is trading at a forward P/E of 30 and expected to grow at 25%. The PEG ratio for Stock A is 75% (15/20) and for Stock B is 120% (30/25). According to the PEG ratio, Stock A is a better purchase because it has a lower PEG ratio, or in other words, its future earnings growth can be purchased for a lower relative price than that of Stock B.
+
+
+=== Sum of perpetuities method ===
+The PEG ratio is a special case in the sum of perpetuities method (SPM)  equation. A generalized version of the Walter model (1956), SPM considers the effects of dividends, earnings growth, as well as the risk profile of a firm on a stock's value. Derived from the compound interest formula using the present value of a perpetuity equation, SPM is an alternative to the Gordon Growth Model. The variables are:
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is the value of the stock or business
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is a company's earnings
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is the company's constant growth rate
+
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is the company's risk adjusted discount rate
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the company's dividend payment
+  
+    
+      
+        P
+        =
+        
+          (
+          
+            
+              
+                E
+                ∗
+                G
+              
+              
+                K
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        +
+        
+          (
+          
+            
+              D
+              K
+            
+          
+          )
+        
+      
+    
+    {\displaystyle P=\left({\frac {E*G}{K^{2}}}\right)+\left({\frac {D}{K}}\right)}
+  In a special case where 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is equal to 10%, and the company does not pay dividends, SPM reduces to the PEG ratio.
+Additional models represent the sum of perpetuities in terms of earnings, growth rate, the risk-adjusted discount rate, and accounting book value.
+
+
+=== Return on Invested Capital (ROIC) ===
+This valuation technique measures how much money the company makes each year per dollar of invested capital. Invested Capital is the amount of money invested in the company by both stockholders and debtors. The ratio is expressed as a percent and one looks for a percent that approximates the level of growth that expected. In its simplest definition, this ratio measures the investment return that management is able to get for its capital. The higher the number, the better the return.
+To compute the ratio, take the pro forma net income (same one used in the EPS figure mentioned above) and divide it by the invested capital. Invested capital can be estimated by adding together the stockholders equity, the total long and short term debt and accounts payable, and then subtracting accounts receivable and cash (all of these numbers can be found on the company's latest quarterly balance sheet). This ratio is much more useful when comparing it to other companies being valued.
+
+
+=== Return on Assets (ROA) ===
+Similar to ROIC, ROA, expressed as a percent, measures the company's ability to make money from its assets. To measure the ROA, take the pro forma net income divided by the total assets. However, because of very common irregularities in balance sheets (due to things like Goodwill, write-offs, discontinuations, etc.) this ratio is not always a good indicator of the company's potential. If the ratio is higher or lower than expected, one should look closely at the assets to see what could be over or understating the figure.
+
+
+=== Price to Sales (P/S) ===
+This figure is useful because it compares the current stock price to the annual sales. In other words, it describes how much the stock costs per dollar of sales earned.
+
+
+=== Market Cap ===
+Market cap, which is short for market capitalization, is the value of all of the company's stock. To measure it, multiply the current stock price by the fully diluted shares outstanding. The market cap is only the value of the stock. To get a more complete picture, look at the enterprise value.
+
+
+=== Enterprise Value (EV) ===
+Enterprise value is equal to the total value of the company, as it is trading for on the stock market. To compute it, add the market cap (see above) and the total net debt of the company. The total net debt is equal to total long and short term debt plus accounts payable, minus accounts receivable, minus cash. The enterprise value is the best approximation of what a company is worth at any point in time because it takes into account the actual stock price instead of balance sheet prices. When analysts say that a company is a "billion dollar" company, they are often referring to its total enterprise value. Enterprise value fluctuates rapidly based on stock price changes.
+
+
+=== EV to Sales ===
+This ratio measures the total company value as compared to its annual sales. A high ratio means that the company's value is much more than its sales. To compute it, divide the EV by the net sales for the last four quarters. This ratio is especially useful when valuing companies that do not have earnings, or that are going through unusually rough times. For example, if a company is facing restructuring and it is currently losing money, then the P/E ratio would be irrelevant. However, by applying an EV to Sales ratio, one could compute what that company could trade for when its restructuring is over and its earnings are back to normal.
+
+
+=== EBITDA ===
+EBITDA stands for earnings before interest, taxes, depreciation and amortization. It is one of the best measures of a company's cash flow and is used for valuing both public and private companies. To compute EBITDA, use a company's income statement, take the net income and then add back interest, taxes, depreciation, amortization and any other non-cash or one-time charges. This results in a number that approximates how much cash the company is producing. EBITDA is a very popular figure because it can easily be compared across companies, even if not all of the companies are profit.
+
+
+=== EV to EBITDA ===
+This is perhaps one of the best measurements of whether or not a company is cheap or expensive. To compute, divide the EV by EBITDA (see above for calculations). The higher the number, the more expensive the company is. However, more expensive companies are often valued higher because they are growing faster or because they are a higher quality company. With that said, the best way to use EV/EBITDA is to compare it to that of other similar companies.
+
+
+=== Approximate valuation approaches ===
+
+
+==== Average growth approximation ====
+Assuming that two stocks have the same earnings growth, the one with a lower P/E is a better value. The P/E method is perhaps the most commonly used valuation method in the stock brokerage industry. By using comparison firms, a target price/earnings (or P/E) ratio is selected for the company, and then the future earnings of the company are estimated. The valuation's fair price is simply estimated earnings times target P/E. This model is essentially the same model as Gordon's model, if k-g is estimated as the dividend payout ratio (D/E) divided by the target P/E ratio.
+
+
+==== Constant growth approximation ====
+The Gordon model or Gordon's growth model
+is the best known of a class of discounted dividend models. It assumes that dividends will increase at a constant growth rate (less than the discount rate) forever. The valuation is given by the formula:
+
+  
+    
+      
+        P
+        =
+        D
+        ⋅
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            (
+            
+              
+                
+                  1
+                  +
+                  g
+                
+                
+                  1
+                  +
+                  k
+                
+              
+            
+            )
+          
+          
+            i
+          
+        
+        =
+        D
+        ⋅
+        
+          
+            
+              1
+              +
+              g
+            
+            
+              k
+              −
+              g
+            
+          
+        
+      
+    
+    {\displaystyle P=D\cdot \sum _{i=1}^{\infty }\left({\frac {1+g}{1+k}}\right)^{i}=D\cdot {\frac {1+g}{k-g}}}
+   .and the following table defines each symbol:
+
+Dividend growth rate is not known, but earnings growth may be used in its place, assuming that the payout ratio is constant.
+
+
+== See also ==
+
+
+== References ==

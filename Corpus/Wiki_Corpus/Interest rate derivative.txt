@@ -1,0 +1,48 @@
+In finance, an interest rate derivative (IRD) is a derivative whose payments are determined through calculation techniques where the underlying benchmark product is an interest rate, or set of different interest rates. There are a multitude of different interest rate indices that can be used in this definition.
+IRDs are popular with all financial market participants given the need for almost any area of finance to either hedge or speculate on the movement of interest rates.
+Modeling of interest rate derivatives is usually done on a time-dependent multi-dimensional Lattice ("tree") or using specialized simulation models. Both are calibrated to the underlying risk drivers, usually domestic or foreign short rates and foreign exchange market rates, and incorporate delivery- and day count conventions. The Heath–Jarrow–Morton framework is often used instead of short rates.
+
+
+== Types ==
+The most basic subclassification of interest rate derivatives (IRDs) is to define linear and non-linear.
+Further classification of the above is then made to define vanilla (or standard) IRDs and exotic IRDs; see exotic derivative.
+
+
+=== Linear and non-linear ===
+Linear IRDs are those whose net present values (PVs) are overwhelmingly (although not necessarily entirely) dictated by and undergo changes approximately proportional to the one-to-one movement of the underlying interest rate index. Examples of linear IRDs are; interest rate swaps (IRSs), forward rate agreements (FRAs), zero coupon swaps (ZCSs), cross-currency basis swaps (XCSs) and single currency basis swaps (SBSs).
+Non-linear IRDs form the set of remaining products. Those whose PVs are commonly dictated by more than the one-to-one movement of the underlying interest rate index. Examples of non-linear IRDs are; swaptions, interest rate caps and floors and constant maturity swaps (CMSs). These products' PVs are reliant upon volatility so their pricing is often more complex as is the nature of their risk management.
+
+
+=== Vanilla and exotic ===
+The categorisation of linear and non-linear and vanilla and exotic is not universally acknowledged and a number of products might exist that can be arguably assigned to different categories. These terms may also overlap. 
+"Vanilla", in "vanilla IRSs" and "vanilla swaptions", is often taken to mean the basic, most liquid and commonly traded variants of those products.
+Exotic is usually used to define a feature that is an extension to an IRD type. For example, an in-arrears IRS is a genuine example of an exotic IRS, whereas an IRS whose structure was the same as vanilla but whose start and end dates might be unconventional, would not generally be classed as exotic. Typically this would be referred to as a bespoke IRS (or customised IRS). Bermudan swaptions are examples of swaption extensions that qualify as exotic variants. 
+Other products that are generally classed as exotics are power reverse dual currency note (PRDC or Turbo), target redemption note (TARN), CMS steepener [1], Snowball (finance), Inverse floater, Strips of Collateralized mortgage obligation, Ratchet caps and floors, and Cross currency swaptions.
+
+
+== Trivia ==
+The interest rate derivatives market is the largest derivatives market in the world. The Bank for International Settlements estimates that the notional amount outstanding in June 2012 were US$494 trillion for OTC interest rate contracts, and US$342 trillion for OTC interest rate swaps. According to the International Swaps and Derivatives Association, 80% of the world's top 500 companies as of April 2003 used interest rate derivatives to control their cashflows. This compares with 75% for foreign exchange options, 25% for commodity options and 10% for stock options.
+
+
+== See also ==
+Financial modeling
+Mathematical finance
+Multi-curve framework
+
+
+== References ==
+
+
+== Further reading ==
+J H M Darbyshire (2017). Pricing and Trading Interest Rate Derivatives (2nd ed. 2017 ed.). Aitch and Dee Ltd. ISBN 978-0995455528.
+Leif B.G. Andersen, Vladimir V. Piterbarg (2010). Interest Rate Modeling in Three Volumes (1st ed. 2010 ed.). Atlantic Financial Press. ISBN 978-0-9844221-0-4. Archived from the original on 8 February 2011.
+Damiano Brigo, Fabio Mercurio (2001). Interest Rate Models - Theory and Practice with Smile, Inflation and Credit (2nd ed. 2006 ed.). Springer Verlag. ISBN 978-3-540-22149-4.
+John C. Hull (2005) Options, Futures and Other Derivatives, Sixth Edition. Prentice Hall. ISBN 0-13-149908-4
+John F. Marhsall (2000). Dictionary of Financial Engineering. Wiley. ISBN 0-471-24291-8
+
+
+== External links ==
+Basic Fixed Income Derivative Hedging - Article on Financial-edu.com.
+Interest Rate Modeling by L. Andersen and V. Piterbarg
+Pricing and Trading Interest Rate Derivatives by J H M Darbyshire
+Online Analytics and Portfolio Management Tools by OCM Solutions Inc.

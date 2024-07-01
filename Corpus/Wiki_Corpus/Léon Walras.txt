@@ -1,0 +1,157 @@
+Marie-Esprit-Léon Walras (French: [valʁas]; 16 December 1834 – 5 January 1910) was a French mathematical economist and Georgist. He formulated the marginal theory of value (independently of William Stanley Jevons and Carl Menger) and pioneered the development of general equilibrium theory. Walras is best known for his book Éléments d'économie politique pure, a work that has contributed greatly to the mathematization of economics through the concept of general equilibrium. The definition of the role of the entrepreneur found in it was also taken up and amplified by Joseph Schumpeter.
+For Walras, exchanges only take place after a Walrasian tâtonnement (French for "trial and error"), guided by the auctioneer, has made it possible to reach market equilibrium. It was the general equilibrium obtained from a single hypothesis, rarity, that led Joseph Schumpeter to consider him "the greatest of all economists". The notion of general equilibrium was very quickly adopted by major economists such as Vilfredo Pareto, Knut Wicksell and Gustav Cassel. John Hicks and Paul Samuelson used the Walrasian contribution in the elaboration of the neoclassical synthesis. For their part, Kenneth Arrow and Gérard Debreu, from the perspective of a logician and a mathematician, determined the conditions necessary for equilibrium.
+
+
+== Biography ==
+Walras was the son of a French school administrator Auguste Walras. His father was not a professional economist, yet his economic thinking had a profound effect on his son. He found the value of goods by setting their scarcity relative to human wants.
+Walras enrolled in the École des Mines de Paris, but grew tired of engineering. He worked as a bank manager, journalist, romantic novelist and railway clerk before turning to economics. Walras received an appointment as the professor of political economy at the University of Lausanne.
+Walras also inherited his father's interest in social reform. Much like the Fabians, Walras called for the nationalization of land, believing that land's productivity would always increase and that rents from that land would be sufficient to support the nation without taxes. He also asserts that all other taxes (i.e. on goods, labor, capital) eventually realize effects exactly identical to a consumption tax, so they can hurt the economy (unlike a land tax).
+Another of Walras's influences was Augustin Cournot, a former schoolmate of his father. Through Cournot, Walras came under the influence of rationalism and was introduced to the use of mathematics in economics.
+As Professor of Political Economy at the University of Lausanne, Walras is credited with founding the Lausanne school of economics, along with his successor Vilfredo Pareto.Because most of Walras's publications were only available in French, many economists were unfamiliar with his work. This changed in 1954 with the publication of William Jaffé's English translation of Walras's Éléments d'économie politique pure. Walras's work was also too mathematically complex for many contemporary readers of his time. On the other hand, it has a great insight into the market process under idealized conditions so it has been far more read in the modern era.
+Although Walras came to be regarded as one of the three leaders of the marginalist revolution,
+he was not familiar with the two other leading figures of marginalism, William Stanley Jevons and Carl Menger, and developed his theories independently. Elements has Walras disagreeing with Jevons on the applicability, while the findings adopted by Carl Menger, he says, are completely in alignment with the ideas present in the book (even though expressed non-mathematically).
+
+
+== Main ideas ==
+
+
+=== Walras's law ===
+Walras's law implies that the sum of the values of excess demands across all markets must equal zero, whether or not the economy is in a general equilibrium. This implies that if positive excess demand exists in one market, negative excess demand must exist in some other market. Thus, if all markets but one are in equilibrium, then that last market must also be in equilibrium.
+
+
+=== General equilibrium theory ===
+In 1874 and 1877 Walras published the work that led him to be considered the father of the general equilibrium theory, Éléments d'économie politique pure [see next section for bibliographical details].
+His main goal was to solve a problem presented by A. A. Cournot: Does a general equilibrium exist? Though it had been demonstrated that prices would equate supply and demand to clear individual markets ("partial equilibrium"), it was unclear that an equilibrium existed for all markets simultaneously ("general equilibrium").
+While teaching at the Lausanne Academy, Walras began constructing a mathematical model that assumes a "regime of perfectly free competition", in which productive factors, products, and prices automatically adjust in equilibrium. Walras began with the theory of exchange in 1873 and proceeded to map out his theories of production, capitalization and money in his first edition.
+His theory of exchange began with an expansion of Cournot's demand curve to include more than two commodities, also realizing the value of the quantity sold must equal the quantity purchased thus the ratio of prices must be equal to the inverse ratio of quantities. Walras then drew a supply curve from the demand curve and set equilibrium prices at the intersection. His model could now determine prices of commodities but only the relative price. In order to deduce the absolute price, Walras could choose one price to serve as the numeraire, such that all other prices are measured in units of this commodity. Using the numeraire, he determined that marginal utility [rareté] divided by the price must be equal for all commodities.
+Then he argued that, because each individual consumer consumes as much value as the value of that individual's stock of goods, the value of total sales equals the value of total purchase. That is, Walras's law holds.
+Walras then expanded the theory to include production with the assumption of an existence of fixed coefficients in said production making possible a generalization that the marginal productivity of the factors of production varied with the amount of input, making factor substitution possible.
+Walras constructed his basic theory of general equilibrium by beginning with simple equations and then increasing the complexity in the next equations. He began with a two-person bartering system, then moved on to the derivation of downward-sloping consumer demands. Next he moved on to exchanges involving multiple parties, and finally ended with credit and money.
+Walras wrote down four sets of equations:
+
+the quantity of goods demanded;
+relating the prices of goods to their costs of production;
+the quantities of inputs supplied;
+the quantities of inputs demanded.There are four sets of variables to solve for:
+
+the price of each good;
+the quantity of each good sold;
+the price of each factor of production;
+the quantity of each of those factor bought by businesses.To simplify matters, Walras added one further equation (the Walras's law equation), requiring that all the money received must be spent, one way or the other.
+By Walras's law, any particular market must be in equilibrium if all other markets in an economy are also in equilibrium, because the excess market demands sum to zero. Thus, in an economy with n markets, it is sufficient to solve n-1 simultaneous equations for market clearing. Taking one good as the numéraire in terms of which prices are specified, the economy has n-1 unknown prices that can be determined by the n-1 simultaneous equations, he thus concluded that the general equilibrium exists.Though this argument works when all equations are linear, it does not hold when the equations are nonlinear. It is easy to construct a pairs of equations in two variables with no solutions. A more rigorous version of the argument was developed independently by Lionel McKenzie and the pair Kenneth Arrow and Gérard Debreu in the 1950s.
+
+
+=== Walrasian auction ===
+The Walrasian auction is a type of simultaneous auction where each agent calculates its demand for the good at every possible price and submits this to an auctioneer. The price is then set so that the total demand across all agents equals the total amount of the good. Thus, a Walrasian auction perfectly matches the supply and the demand. Walras suggests that equilibrium will be achieved through a process of tâtonnement (French for "trial and error"), a form of incremental hill climbing.
+
+
+=== Economic value definition of utility ===
+Léon Walras provides a definition of economic utility based on economic value as opposed to an ethical theory of value:
+
+I state that things are useful as soon as they may serve whatever usage, as soon as they match whatever need and allow its fulfillment. Thus, there is here no point to deal with 'nuances' by way of which one classes, in the language of everyday conversation, utility beside what is pleasant and between the necessary and the superfluous. Necessary, useful, pleasant and superfluous, all of this is, for us, more or less useful. There is here as well no need to take into account the morality or immorality of the need that the useful things matches and permits to fulfill. Whether a substance is searched for by a doctor to heal an ill person, or by an assassin to poison his family, this is an important question from other points of view, albeit totally indifferent from ours. The substance is useful, for us, in both cases, and may well be more useful in the second case than in the first one.
+In economic theories of value, the term "value" is unrelated to any notions of value used in ethics, they are homonyms.
+
+
+== Legacy ==
+In 1941 George Stigler wrote about Walras: There is no general history of economic thought in English which devotes more than passing reference to his work. ... This sort of empty fame in English-speaking countries is of course attributable in large part to Walras's use of his mother tongue, French, and his depressing array of mathematical formulas. What caused the re-appraisal of Walras's consideration in the US, was the influx of German-speaking scientists – the German version of the Éléments was published in 1881.
+According to Schumpeter:Walras is ... greatest of all economists. His system of economic equilibrium, uniting, as it does, the quality of 'revolutionary' creativeness with the quality of classic synthesis, is the only work by an economist that will stand comparison with the achievements of theoretical physics.
+
+
+== Major works ==
+
+
+=== Éléments d'Économie Politique Pure ===
+The Éléments of 1874/1877 are the work by which Léon Walras is best known. The full title is 
+
+Éléments d'Économie Politique Pure, ou Théorie de la richesse sociale.The half title page uses only the title ('Éléments d'Économie Politique Pure') whereas inside the body (e.g. p. 1 and the contents page) the subtitle ('Théorie de la richesse sociale') is used as if it were the title.
+
+
+==== Plan of work ====
+The work was issued in two instalments (fascicules) in separate years. It was intended as the first of three parts of a systematic treatise as follows:
+
+1re partie:– Éléments d'Économie Politique Pure, ou Théorie de la richesse sociale.
+Section I. Objet et divisions de l'économie politique et sociale.
+Section II. Théorie mathématique de l'échange.
+Section III. Du numéraire et de la monnaie.
+Section IV. Théorie naturelle de la production et de la conommation de la richesse.
+Section V. Conditions et conséquences du progrès économique.
+Section VI. Effets naturels et nécessaires des divers modes d'organisation économique de la société.
+2e partie:– Éléments d'Économie Politique Appliquée, ou Théorie de la production agricole, industrielle et commerciale de la richesse.
+3e partie:– Éléments d'Économie Sociale, ou Théorie de la répartition de la richesse par la propriété et l'impôt.Works with titles echoing those proposed for Parts II and III were published in 1898 and 1896. They are included in the list of other works below.
+
+
+==== Editions ====
+First (1874/1877). Most readily available. Described by Walker and van Daal as a 'brilliant expression of pure originality, containing many theoretical innovations' which 'needed alteration and development in a variety of important respects'.
+Second (1889). Revised, corrected and enlarged.
+Third (1896). A minor revision with new appendices. This is considered the best edition by Walker and van Daal.
+Fourth (1900). Revised and extended. According to Walker and van Daal, 'these changes resulted in an incomplete, internally contradictory, and occasionally incoherent text'.
+Fifth (1926). Posthumous; published by his daughter Aline. 'Édition définitive, revue et augmentée'. Follows the fourth.
+
+
+==== Derived work ====
+The 'Théorie Mathématique de la Richesse Sociale' included in the list of other works (below) is described by the National Library of Australia as 'a series of lectures and articles that together summarize the mathematical elements of the author's Élements '.
+
+
+==== English Translations ====
+William Jaffé (1954) of the fifth edition as Elements of Pure Economics.
+Donald A. Walker and Jan van Daal (2014) of the third edition as Elements of Theoretical Economics.Walker and van Daal describe Jaffé's translation of the word crieur as 'a momentous error that has misled generations of readers'.
+
+
+==== Online and facsimile editions ====
+Online: Walras, Léon (1874). Éléments D'économie Politique Pure, Ou, Théorie De La Richesse (in French). Retrieved 17 August 2018.
+Facsimile: cheap photographic reprints are produced by facsimilepublisher.com.Both of these are made from the first edition and are defective in respect of illustrations. The original figures were included as folding plates (presumably at the end of each fascicule). The online edition contains only Figs. 3, 4, 10, and 12 whereas the facsimile contains only Figs. 5 and 6.
+
+
+=== Other works ===
+Francis Saveur, 1858.
+"De la propriété intellectuelle", 1859, Journal des économistes.
+Walras, Léon (1860). L'économie Politique Et La Justice: Examen Critique Et Réfutation Des Doctrines Économiques De P.j. Proudhon, Précédés D'un Introduction À L'étude De La Question Sociale (in French). Paris: Guillaumin. Retrieved 17 August 2018.
+"Paradoxes économiques I", 1860, Journal des économistes.
+"Théorie critique de l'impôt", 1861.
+De l'impôt dans le Canton de Vaud, 1861.
+Walras, Léon (1865). Les associations populaires de consommation, de production et de crédit (in French). Paris: Dentu. Retrieved 17 August 2018.
+"La bourse et le crédit", 1867, Paris Guide.
+Walras (1868). Recherche de l'idéal social: leçons publiques faites à Paris (in French). Paris: Guillaumin. Retrieved 17 August 2018.
+"Correspondance entre M. Jevons, professeur a Manchester, et M. Walras, professeur a Lausanne", 1874, Journal des économistes.
+Walras, Léon (1882). De la fixité de valeur de l'étalon monétaire (in French). Paris. Retrieved 17 August 2018.{{cite book}}:  CS1 maint: location missing publisher (link)
+"Un nuovo ramo della matematica. Dell' applicazione delle matematiche all' economia politica", 1876, Giornale degli economisti.
+Théorie mathématique de la richesse sociale, 1883.
+"Notice autobiographique de Léon Walras", 1893.
+Études d'économie sociale; Théorie de la répartition de la richesse sociale, 1896.
+Études d'économie politique appliquée; Théorie de la production de la richesse sociale, 1898.
+"Théorie du crédit", 1898, Revue d'économie politique.
+"Sur les équations de la circulation", 1899, Giornale degli economisti
+"Cournot et l'Économique Mathématique", 1905, Gazette de Lausanne.
+"La Paix par la Justice Sociale et le Libre Échange", 1907, Questions Pratiques de Legislation Ouvrière.
+L'état et le chemin de fer (1875).
+"Leone Walras, Autobiografia", 1908, Giornale degli Economisti.
+"Un initiateur en économie politique, A.A. Walras", 1908, La Revue du Mois.
+"Économique et méchanique", 1909, Bulletin de la Société Vaudoise de Sciences Naturelles
+Correspondence of Léon Walras and related papers (ed. by William Jaffé, 3 vols.), 1965.
+
+
+== See also ==
+Leon Walras at Wikipedia France
+Walras's law
+Walrasian auction
+General equilibrium
+Cost the limit of price
+Progressive theory of capital
+
+
+== Note ==
+
+
+== References ==
+
+
+== Further reading ==
+Jaffé, William, and Donald A. Walker (ed.) (1983). Essays on Walras. Cambridge University Press.
+Morishima, Michio (1977). Walras' economics : a pure theory of capital and money. Cambridge University Press.
+Medema S.G. & Samuels W.J. (2003). "The history of economic thought: a reader" Routledge, London and New York.
+
+
+== External links ==
+
+Biography and major works
+Leon Walras (1834–1910). 2008. {{cite book}}: |work= ignored (help)

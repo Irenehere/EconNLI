@@ -1,0 +1,95 @@
+An alternative investment, also known as an alternative asset or alternative investment fund (AIF), is an investment in any asset class excluding stocks, bonds, and cash. The term is a relatively loose one and includes tangible assets such as precious metals, collectibles (art, wine, antiques, vintage cars, coins, musical instruments, or stamps) and some financial assets such as real estate, commodities, private equity, distressed securities, hedge funds, exchange funds, carbon credits, venture capital, film production, financial derivatives, cryptocurrencies, non-fungible tokens, and Tax Receivable Agreements. Investments in real estate, forestry and shipping are also often termed "alternative" despite the ancient use of such real assets to enhance and preserve wealth. Alternative investments are to be contrasted with traditional investments.
+
+
+== Research ==
+As the definition of alternative investments is broad, data and research vary widely across the investment classes. For example, art and wine investments may lack high-quality data. The Goizueta Business School at Emory University has established the Emory Center for Alternative Investments to provide research and a forum for discussion regarding private equity, hedge fund, and venture capital investments.
+
+
+== Access to alternative investments ==
+In recent years, the growth of alternative finance has opened up new avenues to investing in alternatives such as the following:
+
+
+=== Art ===
+In a 1986 paper, William Baumol used the repeat sale method and compared prices of 500 paintings sold over 410 years before concluding that the average real annual return on art was 0.55%. Another study of high-quality oil paintings sold in Sweden between 1985 and 2016 determined the average return to be 0.6% annually. However, art gallerists are sometimes ambivalent to the idea of treating artwork as an investment. Art is also notoriously difficult to value, and there are quite a few factors to bear in mind for art valuation.
+
+
+=== Equity crowdfunding ===
+Equity crowdfunding platforms allow "the crowd" to review early-stage investment opportunities presented by entrepreneurs and take an equity stake in the business. Typically an online platform acts as a broker between investors and founders. These platforms differ greatly in the types of opportunities they will offer up to investors, how much due diligence is performed, degree of investor protections available, minimum investment size and so on. Equity crowdfunding platforms have seen a significant amount of success in the UK and, with the passing of JOBS Act Title III in early 2016, are now picking up steam in the United States.
+
+
+=== Infrastructure as an asset class ===
+The notion of “infrastructure as an asset class” has grown steadily in the past seven years. But, so far, this development has been the preserve of institutional investors: pension funds, insurance companies and sovereign wealth funds, with very limited access to high-net-worth investors (except a few large family offices).
+
+
+=== SEIS and EIS funds ===
+Only available in the UK, SEIS funds and EIS funds present a tax-efficient way of investing in early-stage ventures. These work much like venture capital funds, with the added bonus of receiving government tax incentives for investing and loss relief protection should the companies invested in fail. Such funds help to diversify investor exposure by investing in multiple early ventures. Fees are normally charged by the management team for participating in the fund, and these can end up totaling anywhere between 15% and 40% of the fund value over the course of its life.
+
+
+=== Lease investing ===
+Lease investing platforms provide investors with options to co-invest and have partial ownership in physical assets that earn lease income. Through these platforms, investors can have fractional ownership of a particular asset leased to an organization and earn fixed returns.
+
+
+=== Private equity ===
+Private equity consists of large-scale private investments into unlisted companies in return for equity. Private funds are typically formed by combining funds from institutional investors such as high-net-worth individuals, insurance companies, university endowment funds and pension funds. Funds are used alongside borrowed money and the money of the private equity firm itself to invest in businesses they believe to have high growth potential.
+
+
+=== Venture capital ===
+Venture capital consists of private investments made into young start-up companies in exchange for equity. Venture capital funds are typically formed by drawing capital from seed money, or angel investors. Nowadays, crowdfunding is also used by start-up companies for capital. Accredited investors such as high-net worth individuals, banks, and other companies will also invest in a start-up company if it grows to a large enough scale.
+
+
+== Investors ==
+The 2003 Capgemini World Wealth Report, based on 2002 data, showed high-net-worth individuals, as defined in the report, to have 10% of their financial assets in alternative investments. For the purposes of the report, alternative investments included "structured products, luxury valuables and collectibles, hedge funds, managed futures, and precious metals". By 2007, this had reduced to 9%. No recommendations were made in either report about the amount of money investors should place in alternative investments. As of 2019, the global breakdown of financial assets included a 13% allocation to alternative investments.
+
+
+== Characteristics ==
+Alternative investments are sometimes used as a way of reducing overall investment risk through diversification.
+Some of the characteristics of alternative investments may include:
+
+Low correlation with traditional financial investments such as stocks and bonds
+It may be difficult to determine the current market value of the asset
+Alternative investments may be relatively illiquid (see "liquid alts")
+Costs of purchase and sale may be relatively high
+There may be limited historical risk and return data
+A high degree of investment analysis may be required before buying
+
+
+== Industry ==
+
+Alternatives may be offered by traditional investment companies or specialized companies. Among companies which specialize in alternative investments, some offer a variety of strategies others offer only a specific type.
+In 2023, Blackstone, which specializes in only alternative investments including  private equity, private debt, real assets, hedge funds, and hedge funds of funds, became the first alternative investment manager to reach $1 trillion in assets under management (AUM). Other notable alternative asset managers include Apollo, KKR, and Carlyle, each of which have hundreds of billions in AUM.As of 2023, traditional asset management companies had begun to offer alternatives including BlackRock, T. Rowe Price, and Franklin Templeton Investments.
+
+
+== Liquid alternatives ==
+
+Liquid alternatives ("alts") are alternative investments that provide daily liquidity. Liquid alternative investments should produce returns uncorrelated to GDP growth, must have protection against systemic market risk and should be too small to create new systemic risks for the market. Hedge funds may be included in this category; however, traditional hedge funds may have liquidity limitations, and the term is usually used for registered mutual funds which use hedge fund strategies such as long-short equity investments.
+
+
+=== United States ===
+Liquid alternatives became popular in the late 2000s, growing from $124 billion in assets under management 2010 to $310 billion in 2014. However, in 2015 only $85 million was added, with 31 closed funds and a high-profile underperformance by the largest long-short equity fund at the time, Marketfield Fund.In 2014 there were an estimated 298 liquid alternative funds with strategies such as long-short equity funds; event-driven, relative value, tactical trading (including managed futures), and multi-strategy. This number does not include option income funds, tactical shorting and leveraged indexed funds.There has been expressed skepticism over the complexity of liquid alts and the lack of able portfolio managers. One of the world's largest hedge fund managers, AQR Capital, began offering funds in 2009, and grew from $33 billion in assets under management (AUM) in 2010 to $185 billion in AUM in 2017 driven in part by marketing mutual-fund like products with lower fees. As of 2016, AQR Capital was the largest manager of liquid alts.
+
+
+== See also ==
+Art valuation
+Chartered Alternative Investment Analyst
+Diamonds as an investment
+Gold as an investment
+Inflation hedge
+Investment wine
+Palladium as an investment
+Philatelic investment
+Platinum as an investment
+Silver as an investment
+Traditional investments
+
+
+== References ==
+
+
+== Further reading ==
+H. Kent Baker and Greg Filbeck (2013). Alternative Investments: Instruments, Performance, Benchmarks and Strategies. John Wiley & Sons. ISBN 978-1-118-24112-7.
+David M. Weiss (2009). Financial Instruments: Equities, Debt, Derivatives and Alternative Investments. Portfolio. ISBN 978-1-59184-227-9.
+How To Invest In Stamps And Coins. Quick Easy Guides. 2008. ISBN 978-1-60620-661-4.
+
+
+== External links ==
+Portfolio Diversification benefits of Investing in Stamps by Chris Veld, University of Stirling. (Incomplete first draft)

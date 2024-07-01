@@ -1,0 +1,131 @@
+Non-accelerating inflation rate of unemployment (NAIRU) is a theoretical level of unemployment below which inflation would be expected to rise. It was first introduced as NIRU (non-inflationary rate of unemployment) by Franco Modigliani and Lucas Papademos in 1975, as an improvement over the "natural rate of unemployment" concept, which was proposed earlier by Milton Friedman.In the United States, estimates of NAIRU typically range between 5 and 6%. Monetary policy conducted under the assumption of a NAIRU typically involves allowing just enough unemployment in the economy to prevent inflation rising above a given target figure. Prices are allowed to increase gradually and some unemployment is tolerated.
+
+
+== Origins ==
+An early form of NAIRU is found in the work of Abba P. Lerner (Lerner 1951, Chapter 14), who referred to it as "low full employment" attained via the expansion of aggregate demand, in contrast with the "high full employment" which adds incomes policies (wage and price controls) to demand stimulation. Friedrich von Hayek argued that governments attempting to achieve full employment would accelerate inflation where unemployment results from a misalignment between the distribution of labour and the distribution of demand.The concept arose in the wake of the popularity of the Phillips curve which summarized the observed negative correlation between the rate of unemployment and the rate of inflation (measured as annual nominal wage growth of employees) for a number of industrialised countries with more or less mixed economies.  This correlation (previously seen for the U.S. by Irving Fisher) persuaded some analysts that it was impossible for governments simultaneously to target both arbitrarily low unemployment and price stability, and that, therefore, it was government's role to seek a point on the trade-off between unemployment and inflation which matched a domestic social consensus.
+During the 1970s in the United States and several other industrialized countries, Phillips curve analysis became less popular, because inflation rose at the same time that unemployment rose (see stagflation).
+Worse, as far as many economists were concerned, was that the Phillips curve had little or no theoretical basis. Critics of this analysis (such as Milton Friedman and Edmund Phelps) argued that the Phillips curve could not be a fundamental characteristic of economic general equilibrium because it showed a correlation between a real economic variable (the unemployment rate) and a nominal economic variable (the inflation rate).  Their counter-analysis was that government macroeconomic policy (primarily monetary policy) was being driven by a low unemployment target and that this caused expectations of inflation to change, so that steadily accelerating inflation rather than reduced unemployment was the result.  The resulting prescription was that government economic policy (or at least monetary policy) should not be influenced by any level of unemployment below a critical level – the "natural rate" or NAIRU.
+
+
+=== Natural rate hypothesis ===
+The idea behind the natural rate hypothesis put forward by Friedman was that any given labor market structure must involve a certain amount of unemployment, including frictional unemployment associated with individuals changing jobs and possibly classical unemployment arising from real wages being held above the market-clearing level by minimum wage laws, trade unions or other labour market institutions. Unexpected inflation might allow unemployment to fall below the natural rate by temporarily depressing real wages, but this effect would dissipate once expectations about inflation were corrected. Only with continuously accelerating inflation could rates of unemployment below the natural rate be maintained.
+
+
+=== NAIRU ===
+The "natural rate" terminology was largely supplanted by that of the NAIRU, which referred to a rate of unemployment below which inflation would accelerate, but did not imply a commitment to any particular theoretical explanation, any particular preferred policy remedy or a prediction that the rate would be stable over time. Franco Modigliani and Lucas Papademos defined the noninflationary rate of employment (NIRU) as the rate of employment above which inflation could be expected to decline, and attempted to estimate it from empirical data James Tobin suggested the reason for them choosing a different term was to avoid the "normative implications" of the concept of a 'natural' rate. He also argued that the idea of a 'natural' rate of unemployment should be viewed as closely linked to Friedman's description of it as the unemployment rate emerging in general equilibrium, when all other parts of the economy clear, whereas the notion of a NAIRU was compatible with an economy in which other markets need not be in equilibrium. In practice the terms can be viewed as approximately synonymous.
+
+
+== Properties ==
+If 
+  
+    
+      
+        
+          U
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle U^{*}}
+   is the NAIRU and 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   is the actual unemployment rate, the theory says that:
+
+if 
+  
+    
+      
+        U
+        <
+        
+          U
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle U<U^{*}}
+   for a few years, inflationary expectations rise, so that the inflation rate tends to increase;if 
+  
+    
+      
+        U
+        >
+        
+          U
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle U>U^{*}}
+   for a few years, inflationary expectations fall, so that the inflation rate tends to slow (there is disinflation); andif 
+  
+    
+      
+        U
+        =
+        
+          U
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle U=U^{*}}
+  , the inflation rate tends to stay the same, unless there is an exogenous shock.Okun's law can be stated as saying that for every one percentage point by which the actual unemployment rate exceeds the so-called "natural" rate of unemployment, real gross domestic product is reduced by 2% to 3%.
+The level of the NAIRU itself is assumed to fluctuate over time as the relationship between unemployment level and pressure on wage levels is affected by productivity, demographics and public policies  In Australia, for example, the NAIRU is estimated to have fallen from around 6% in the late 1990s to closer to 4% twenty years later in 2018.
+
+
+== Relationship to other economic theories ==
+Most economists do not see the NAIRU theory as explaining all inflation. Instead, it is possible to move along a short run Phillips Curve (even though the NAIRU theory says that this curve shifts in the longer run) so that unemployment can rise or fall due to changes in inflation. Exogenous supply-shock inflation is also possible, as with the "energy crises" of the 1970s or the credit crunch of the early 21st century.
+The NAIRU theory was mainly intended as an argument against active Keynesian demand management and in favor of free markets (at least on the macroeconomic level). Monetarists instead support the generalized assertion that the correct approach to unemployment is through microeconomic measures (to lower the NAIRU whatever its exact level), rather than macroeconomic activity based on an estimate of the NAIRU in relation to the actual level of unemployment. Monetary policy, they maintain, should aim instead at stabilizing the inflation rate.
+
+
+== United States boom years of late 1990s and early 2000s ==
+In the U.S. boom years of 1998, 1999, and 2000, unemployment dipped below NAIRU estimates without causing significant increases of inflation.  There are at least three potential explanations of this:  (1) Fed Chair Alan Greenspan had correctly judged that the Internet revolution had structurally lowered NAIRU, or (2) NAIRU is largely mistaken as a concept, or (3) NAIRU correctly applies only to certain historical periods, for example, the 1970s when a higher percentage of workers belonged to unions and some contracts had wage increases tied in advance to the inflation rate, but perhaps neither as accurately nor as correctly to other time periods.Vox reporter Matthew Yglesias wrote of the late 1990s, "Everyone — from college students to stay-at-home moms to sixty-somethings to low-level drug dealers — becomes somewhat more inclined to seek formal employment. That lets veteran workers get higher pay, even as companies are able to maintain some lower-pay work thanks to the growing labor force. This is essentially what we saw happen during the boom years of 1998 and 1999. Wages did rise, but the labor force also grew quite rapidly, and inflation remained under control."The unemployment rate declined to 4% for Dec. 1999, hit a low of 3.8% for April 2000, and held at 3.9% for four months from Sept. to Dec. 2000. This is the U-3 rate, which is what's most commonly reported in the news.  It does not include either persons termed discouraged workers nor those with part-time employment actively seeking full-time.
+
+
+== Criticism ==
+Since NAIRU can vary over time, any estimates of the NAIRU at any point in time have a relatively wide margin for error, which limits its practical value as a policymaking tool. As the NAIRU is inferred from levels of inflation and unemployment and the relationship between those variables is acknowledged to vary over time, some economists have questioned whether there is any real empirical evidence for it at all.The NAIRU analysis is especially problematic if the Phillips curve displays hysteresis, that is, if episodes of high unemployment raise the NAIRU.
+This could happen, for example, if unemployed workers lose skills and thus companies prefer to bid up of the wages of existing workers rather than hire unemployed workers.
+Some economists who favour the provision of a state job guarantee, such as Bill Mitchell, have argued that a certain level of state-provided "buffer" employment for people unable to find private sector jobs, which they refer to as a NAIBER (non-accelerating inflation buffer employment ratio), is also consistent with price stability.
+
+
+== Naming ==
+According to Case, Fair and Oster, the NAIRU is misnamed because it is not actually a "non-accelerating inflation rate of unemployment". Rather, they claim it is the price level that is accelerating (or decelerating), not the inflation rate. The inflation rate is just changing, not accelerating.
+
+
+== See also ==
+Full Employment Abandoned: Shifting Sands and Policy Failures
+NAIBER
+
+
+== References ==
+
+
+== Further reading ==
+K Clark and L Summers, ‘Labour Force Participation: Timing and Persistence’ (1982) 49(5) Review of Economic Studies 825
+SP Hargreaves Heap, ‘Choosing the Wrong ‘Natural’ Rate: Accelerating Inflation or Decelerating Employment and Growth?’ (1980) 90(359) Economic Journal 611.
+FA Hayek, ‘Full Employment, Planning and Inflation’ (1950) 4(6) Institute of Public Affairs Review 174
+E McGaughey, 'Will Robots Automate Your Job Away? Full Employment, Basic Income, and Economic Democracy' (2018) SSRN, part 2(1)
+Fair, Ray C. (2004). "Testing the NAIRU model". Estimating How the Macroeconomy Works. Cambridge: Harvard University Press. pp. 67–79. ISBN 0-674-01546-0.
+Lerner, Abba P. (1951). "A Wage Policy for Full Employment". The Economics of Employment. New York: McGraw-Hill. pp. 209–219.
+Staiger, Douglas; Stock, James H.; Watson, Mark W. (1997). "The NAIRU, Unemployment and Monetary Policy". Journal of Economic Perspectives. 11 (1): 33–49. doi:10.1257/jep.11.1.33. JSTOR 2138250.
+
+
+== External links ==
+NAIRU
+U.S. Natural Rate of Unemployment (Long-Term), 1949–present
+U.S. Natural Rate of Unemployment (Short-Term), 1949–present

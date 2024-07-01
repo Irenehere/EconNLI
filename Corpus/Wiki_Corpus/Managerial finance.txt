@@ -1,0 +1,52 @@
+Managerial finance is the branch of finance that concerns itself with the financial aspects of managerial decisions. 
+Finance addresses the ways in which organizations (and individuals) raise and allocate monetary resources over time, taking into account the risks entailed in their projects;
+Managerial finance, then, emphasizes the managerial application of these finance techniques and theories. 
+The techniques assessed (and developed) are drawn in the main from managerial accounting and corporate finance; 
+the former allow management to better understand, and hence act on, financial information relating to profitability and performance; 
+the latter are about optimizing the overall financial-structure;
+see Financial management § Role.
+In both cases, the discipline addresses these from the Managerial perspectives of Planning, Directing, and Controlling;
+here in the more specific context of strategic planning, organizing, directing, and controlling of the organization's financial undertakings.
+Academics working in this area are typically based in business school finance departments, in accounting, or in management science. 
+
+
+== Managerial accounting techniques ==
+
+Management accounting techniques are applied in the preparation and presentation of financial and other decision oriented information "in such a way as to assist management in the formulation of policies and in the planning and control of the operation undertaking". 
+The analytics here are thus concerned with forward-looking decisions, as opposed to the historical and compliance perspective of financial accounting.
+Undertaking these tasks, financial managers use various management accounting and financial analysis techniques  to accurately assess the results and performance of the business lines and units, and to monitor resource allocation within the organization; 
+this includes
+profitability analysis and cost analytics  
+– employing techniques such as activity based costing, whole-life cost analysis, cost–volume–profit analysis, and variance analysis – 
+as well budget analytics more generally, where conditional budgeting may be explored in some settings.
+(See also cash flow forecast and financial forecast.)
+
+
+== Corporate finance techniques ==
+
+Managerial finance is, as above, also focused on the overall financial-structure of the business, including its realized impact on cash flow and profitability. It is thus interested in long-term revenue / business optimization, while also minimizing the potential impact of any financial shocks on short term performance.  To accomplish these goals, managerial finance addresses techniques utilized in Corporate finance, usually organized re the following:
+
+Working capital management - addressing short term current assets and current liabilities and optimizing cash flow
+Capital budgeting, i.e. selection / valuation and funding of "projects" – addressing long term investments
+Capital structure and dividend policy – addressing long-term financial capital and attempting to optimize the balance sheet.The discipline also considers the various applications of risk management here.
+
+
+== See also ==
+Capital management
+FP&A
+List of accounting topics
+List of management topics
+Managerial economics
+
+
+== References ==
+
+
+== Further reading ==
+Jonathan Lewellen (2003). Financial Management, MIT OpenCourseWare 15.414
+Weston, Fred and Brigham, Eugene (1972), Managerial Finance, Dryden Press, Hinsdale Illinois, 1972
+Chen, Henry editor, (1967), Frontiers of Managerial Finance, Gulf Publishing, Houston Texas, 1967
+Brigham, Eugene and Johnson, Ramon (1980), Issues in Managerial Finance, Holt Rinehart and Winston Publishers, Hindale Illinois,
+Lawrence Gitman and Chad J. Zutter  (2019). Principles of Managerial Finance, 14th edition, Addison-Wesley Publishing, ISBN 978-0133507690.
+Clive Marsh (2009). Mastering Financial Management, Financial Times Prentice Hall ISBN 978-0-273-72454-4
+James Van Horne and John Wachowicz (2009). Fundamentals of Financial Management, 13th ed., Pearson Education Limited. ISBN 9780273713630

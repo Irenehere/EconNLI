@@ -1,0 +1,134 @@
+Public economics (or economics of the public sector) is the study of government policy through the lens of economic efficiency and equity. Public economics builds on the theory of welfare economics and is ultimately used as a tool to improve social welfare. Welfare can be defined in terms of well-being, prosperity, and overall state of being. 
+Public economics provides a framework for thinking about whether or not the government should participate in economic markets and if so to what extent it should do so. Microeconomic theory is utilized to assess whether the private market is likely to provide efficient outcomes in the absence of governmental interference; this study involves the analysis of government taxation and expenditures.
+This subject encompasses a host of topics notably market failures such as, public goods, externalities and Imperfect Competition, and the creation and implementation of government policy.Broad methods and topics include:
+
+the theory and application of public finance
+Analysis and design of public policy
+distributional effects of taxation and government expenditures
+analysis of market failure and government failure.Emphasis is on analytical and scientific methods and normative-ethical analysis, as distinguished from ideology. Examples of topics covered are tax incidence, optimal taxation, and the theory of public goods.
+
+
+== Subject range ==
+The Journal of Economic Literature (JEL) classification codes are one way categorizing the range of economics subjects. There, Public Economics, one of 19 primary classifications, has 8 categories. They are listed below with JEL-code links to corresponding available article-preview links of The New Palgrave Dictionary of Economics Online (2008) and with similar footnote links for each respective subcategory if available:
+JEL: H (all) – Public Economics
+JEL: H0 – General
+JEL: H1 – Structure and Scope of Government
+JEL: H2 – Taxation, Subsidies, and Revenue
+JEL: H3 – Fiscal Policies and Behavior of Economic Agents
+JEL: H4 – Publicly Provided Goods
+JEL: H5 – National Government Expenditures and Related Policies
+JEL: H6 – National Budget, Deficit, and Debt
+JEL: H7 – State and Local Government; Intergovernmental Relations
+JEL: H8 – Miscellaneous Issues.
+
+
+== Market failures ==
+
+The role of government in providing efficient and equitable markets is largely underpinned by addressing market failures that may arise. Public Economics focuses on when and to what degree the government should intervene in the economy to address market failures.  Some examples of government intervention are providing pure public goods such as defense, regulating negative externalities such as pollution and addressing imperfect market conditions such as asymmetric information. 
+
+
+=== Public goods ===
+Pure public goods, or collective consumption goods, exhibit two properties; non-rivalry and non-excludability. Something is non-rivaled if one person's consumption of it does not deprive another person, (to a point) a firework display is non-rivaled - since one person watching a firework display does not prevent another person from doing so. Something is non-excludable if its use cannot be limited to a certain group of people. Again, since one cannot prevent people from viewing a firework display it is non-excludable.  Due to these constraints, one of few examples of a "pure public good" is national defense - it is both non-rivalry and non-excludable. Another example, of a pure public good is knowledge. Consider a book. The book itself can be destroyed and thus is excludable. However, the knowledge obtained from the book is far more difficult to destroy and is non-rivalrous and non-excludable.  In reality, not all public goods can be classed as 'pure' and most display some degree of excludability and rivalrous. These are known as Impure public goods. To visualize the public good's characteristic of non-excludability, it would be the inability to build a fence, barrier or wall that would block the good from consumption. In the modern era, digital replication allows several goods to be non-rivalry; since, people from all over the world can access it if you have access to the internet and a device. 
+Due to the two unique properties that public goods exhibit, being non-rivalrous & non-excludable, it is unlikely that without intervention markets will produce the efficient amount. It therefore, the role of government to regulate the production of public goods so as to create an efficient market equilibrium.
+
+
+=== Externalities ===
+Externalities arise when consumption by individuals or production by firms affect the utility or production function of other individuals or firms. Positive externalities are education, public health and others while examples of negative externalities are air pollution, noise pollution, non-vaccination and more.Pigou describes as positive externalities, examples such as resources invested in private parks that improve the surrounding air, and scientific research from which discoveries of high practical utility often grow. Alternatively, he describes negative externalities, such as the factory that destroys a great part of the amenities of neighboring sites.
+The role of government is to address the negative external effects and societal deadweight loss created from inefficient markets
+
+
+=== Imperfect competition ===
+Imperfect competition within markets can take many forms and will often depend on the barriers to entry, firms profit and production objectives and the nature of the product and respective market.  Imperfect competition will lead to a social cost and it is the role of government to minimize this cost. Some notable imperfections include:
+
+Companies sell differentiated products
+There are barriers to exit and entry
+Suboptimal output and pricingIn its essence, the role of government is to address the issues that arise from these market failures and decide the optimal degree of intervention necessary. 
+
+
+== Taxation ==
+
+
+=== Diamond–Mirrlees efficiency theorem ===
+In 1971, Peter A. Diamond and James A. Mirrlees published a seminal paper that showed that even when lump-sum taxation is not available, production efficiency is still desirable. This finding is known as the Diamond–Mirrlees efficiency theorem, and it is widely credited with having modernized Ramsey's analysis by considering the problem of income distribution with the problem of raising revenue. Joseph E. Stiglitz and Partha Dasgupta (1971) have criticized this theorem as not being robust on the grounds that production efficiency will not necessarily be desirable if certain tax instruments cannot be used.
+
+
+=== Pigouvian taxes ===
+
+One of the achievements for which the great English economist A.C. Pigou is known, was his work on the divergences between marginal private costs and marginal social costs (externalities). In his book, The Economics of Welfare (1932), Pigou describes how these divergences come about:
+
+...one person A, in the course of rendering some service, for which payment is made, to a second person B, incidentally also renders services or disservices to other persons (not producers of like services), of such a sort that payment cannot be extracted from the benefited parties or compensation enforced on behalf of the injured parties (Pigou p. 183).
+In particular, Pigou is known for his advocacy of what are known as corrective taxes, or Pigouvian taxes:
+
+It is plain that divergences between private and social net product of the kinds we have so far been considering cannot, like divergences due to tenancy laws, be mitigated by a modification of the contractual relation between any two contracting parties, because the divergence arises out of a service or disservice to persons other than the contracting parties. It is, however, possible for the State, if it so chooses, to remove the divergence in any field by "extraordinary encouragements" or "extraordinary restraints" upon investments in that field. The most obvious forms which these encouragements and restraints may assume are, of course, those of bounties and taxes (Pigou p. 192).Pigou suggested that the market failure of externalities can be overcome by the introduction of taxes. The government can intervene in the market, using an emission tax for example to create a more efficient outcome; this Pigouvian tax is the optimal policy prescription for any aggregate, negative externality.In 1960, the economist Ronald H. Coase proposed an alternative scheme whereby negative externalities are dealt with through the appropriate assignment of property rights. This result is known as the Coase theorem.
+
+
+== Cost–benefit analysis ==
+
+While the origins of cost–benefit analysis can be traced back to Jules Dupuit's classic article "On the Measurement of the Utility of Public Works" (1844), much of the subsequent scholarly development occurred in the United States and arose from the challenges of water-resource development. In 1950, the U.S. Federal Interagency River Basin Committee's Subcommittee on Benefits and Costs published a report entitled, Proposed Practices for Economic Analysis of River Basin Projects (also known as the Green Book), which became noteworthy for bringing in the language of welfare economics. In 1958, Otto Eckstein published Water-Resource Development: The Economics of Project Evaluation,  and Roland McKean published his Efficiency in Government Through Systems Analysis: With Emphasis on Water Resources Development. The latter book is also considered a classic in the field of operations research. In subsequent years, several other important works appeared: Jack Hirshleifer, James DeHaven, and Jerome W. Milliman published a volume entitled Water Supply: Economics, Technology, and Policy (1960); and a group of Harvard scholars including Robert Dorfman, Stephen Marglin, and others published Design of Water-Resource Systems: New Techniques for Relating Economic Objectives, Engineering Analysis, and Governmental Planning (1962).
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Atkinson, Anthony B., and Joseph E. Stiglitz, 1980. Lectures in Public Economics, McGraw-Hill
+Auerbach, Alan J., and Martin S. Feldstein, ed.  Handbook of Public Economics. Elsevier.1985, v. 1. Description and preview.
+1987, v. 2. Description.
+2002. v. 3. Description.
+2007. v. 4. Description.Barr, Nicholas, 2004. Economics of the Welfare State, 4th ed., Oxford University Press.
+Buchanan, James M., [1967] 1987. Public Finance in Democratic Process: Fiscal Institutions and Individual Choice, UNC Press. Description, scrollable preview, and back cover.
+_____ and Musgrave, Richard A., 1999. Public Finance and Public Choice: Two Contrasting Visions of the State. MIT Press. Description and scrollable preview links. 
+Coase, Ronald. "The Problem of Social Cost" Journal of Law and Economics Vol. 3 (Oct. 1960) 1-44
+Diamond, Peter A. and James A. Mirrlees. "Optimal Taxation and Public Production I: Production Efficiency" The American Economic Review Vol. 61 No. 1 (Mar. 1971) 8-27
+Diamond, Peter A. and James A. Mirrlees. "Optimal Taxation and Public Production II: Tax Rules" The American Economic Review Vol. 61 No. 3 (Jun. 1971) 261-278
+Drèze Jacques H., 1995. "Forty Years of Public Economics: A Personal Perspective," Journal of Economic Perspectives, 9(2), pp. 111-130.
+Dupuit, Jules. "On the Measurement of the Utility of Public Works" in Readings in Welfare Economics, ed. Kenneth J. Arrow and Tibor Scitovsky (1969)
+Haveman, Robert 1976. The Economics of the Public Sector.
+Kolm, Serge-Christophe, 1987. "public economics," The New Palgrave: A Dictionary of Economics, v. 3, pp. 1047–55.
+Feldstein, Martin S., and Robert P. Inman, ed., 1977. The Economics of Public Services. Palgrave Macmillan.
+Musgrave, Richard A., 1959. The Theory of Public Finance: A Study in Public Economy, McGraw-Hill. 1st-page reviews of J.M. Buchanan[1] & C.S. Shoup[2].
+_____ and Alan T. Peacock, ed., [1958] 1994. Classics in the Theory of Public Finance,  Palgrave Macmillan. Description and contents.
+Laffont, Jean-Jacques, 1988. Fundamentals of Public Economics, MIT Press. Description.
+Myles, Gareth D., 1995. Public Economics, Cambridge. Description and scroll to chapter-preview  links.
+Oates, Wallace E., 1972. Fiscal Federalism, Harcourt Brace Jovanovich, Inc.
+Pigou, A.C. "Divergences Between Marginal Social Net Product and Marginal Private Net Product" in The Economics of Welfare, A.C. Pigou (1932)
+Ramsey, Frank P. "A Contribution to the Theory of Taxation" in Classics in the Theory of Public Finance, ed. R.A. Musgrave and A.T. Peacock (1958)
+Stigler, George J. and Paul A. Samuelson, 1963. "A Dialogue on the Proper Economic Role of the State." Selected Papers,  No.7. Chicago: University of Chicago Graduate School of Business.
+Starrett, David A., 1988. Foundations of Public Economics, Cambridge. Description. Scroll to chapter-preview links.
+Stiglitz, Joseph E., 1994. 'Rethinking the Economic Role of the State: Publicly Provided Private Goods' Unpublished.
+_____, 1998. "The Role of Government in the Contemporary World," in Vito Tanzi and Ke-Young Chu, Income Distribution and High-Quality Growth, pp. 211-54.
+_____, 2000. Economics of the Public Sector, 3rd ed., Norton.
+Tinbergen, Jan, 1958.  On the Theory of Economic Policy.
+
+
+== Further reading ==
+Arrow, Kenneth J. Social Choice and Individual Values. (1970)
+Atkinson, Anthony B. "On the Measurement of Inequality" Journal of Economic Theory 2 (1970) 244-263 [3]
+Auerbach, Alan J. and Laurence J. Kotlikoff. Dynamic Fiscal Policy. (1987)
+Boiteux, Marcel. "On the Management of Public Monopolies Subject to Budgetary Constraints" Journal of Economic Theory 3 (1971) 219-240
+Corlett, W.J. and D.C. Hague. "Complementarity and the Excess Burden of Taxation" The Review of Economic Studies Vol. 21 No. 1 (1953–1954) 21-30
+Dalton, Hugh. "The Measurement of Inequality of Incomes" The Economics Journal Vol. 30, No. 119 (Sep. 1920) 348-361
+Edgeworth, F.Y. "The Pure Theory of Taxation" The Economic Journal Vol. 7 No. 25 (Mar. 1897) 46-70 [4]
+Feldstein, Martin. "Social Security, Induced Retirement, and Aggregate Capital Accumulation" The Journal of Political Economy Vol. 82 No. 5 (Sep.-Oct. 1974) 905-926
+Fisher, Irving. "Income in Theory and Income Taxation in Practice" Econometrica Vol. 5 No. 1 (Jan. 1937) 1-55
+Fisher, Irving. "The Double Taxation of Savings" The American Economic Review Vol. 29 No. 1 (Mar. 1939) 16-33
+Gini, Corrado.  "Variability and Mutability" in Memorie di Metodologica Statistica, ed. E. Pizetti and T. Salvemini (1955)
+Harberger, Arnold. "The Incidence of the Corporation Income Tax" The Journal of Political Economy Vol. 70 No. 3 (Jun. 1962) 215-240 [5]
+Lihndahl, Erik. "Just Taxation: A Positive Solution" in Classics in the Theory of Public Finance, ed. R.A. Musgrave and A.T. Peacock (1958) [6]
+Lorenz, M.O. "Methods of Measuring the Concentration of Wealth" American Statistical Association Vol. 9 No. 70 (Jun. 1905) 209-219
+Musgrave, Richard A. "A Multiple Theory of Budget Determination" (1957) [7]
+Niskanen, William A. "The Peculiar Economics of Bureaucracy" The American Economic Review Vol. 58, No. 2 (May 1968) 293-305 [8]
+Niskanen, William A. Bureaucracy and Representative Government. (2007)
+Orshansky, Mollie. "Children of the Poor" Social Security Bulletin Vol. 26 No. 7 (July 1963)
+Orshansky, Mollie. "Counting the Poor: Another Look at the Poverty Profile" Social Security Bulletin Vol. 28 No. 1 (Jan. 1965)
+Samuelson, Paul. "The Pure Theory of Public Expenditure" Review of Economics and Statistics, XXXVI (1954), 387-89 [9]
+Tiebout, Charles M. "A Pure Theory of Local Expenditure" The Journal of Political Economy Vol. 64, No. 5 (Oct. 1956), 416-424 [10]
+Wicksell, Knut. "A New Principle of Just Taxation" in Classics in the Theory of Public Finance, ed. R.A. Musgrave and A.T. Peacock (1958)
+
+
+== External links ==
+Journal of Public Economics
+NBER papers in Public Economics

@@ -1,0 +1,377 @@
+Asset and liability management (often abbreviated ALM) is the practice of managing financial risks that arise due to mismatches between the assets and liabilities as part of an investment strategy in financial accounting.
+ALM sits between risk management and strategic planning. It is focused on a long-term perspective rather than mitigating immediate risks and is a process of maximising assets to meet complex liabilities that may increase profitability.
+ALM includes the allocation and management of assets, equity, interest rate and credit risk management including risk overlays, and the calibration of company-wide tools within these risk frameworks for optimisation and management in the local regulatory and capital environment.
+Often an ALM approach passively matches assets against liabilities (fully hedged) and leaves surplus to be actively managed.
+
+
+== History ==
+Asset and liability management practices were initially pioneered by financial institutions during the 1970s as interest rates became increasingly volatile.
+
+
+== ALM objectives and scope ==
+The exact roles and perimeter around ALM can vary significantly from one bank (or other financial institutions) to another depending on the business model adopted and can encompass a broad area of risks.
+The traditional ALM programs focus on interest rate risk and liquidity risk because they represent the most prominent risks affecting the organization balance-sheet (as they require coordination between assets and liabilities).But ALM also now seeks to broaden assignments such as foreign exchange risk and capital management.
+According to the Balance sheet management benchmark survey conducted in 2009 by the audit and consulting company PricewaterhouseCoopers (PwC), 51% of the 43 leading financial institutions participants look at capital management in their ALM unit.
+The scope of the ALM function to a larger extent covers the following processes:
+
+Liquidity risk: the current and prospective risk arising when the bank is unable to meet its obligations as they come due without adversely affecting the bank's financial conditions. From an ALM perspective, the focus is on the funding liquidity risk of the bank, meaning its ability to meet its current and future cash-flow obligations and collateral needs, both expected and unexpected. This mission thus includes the bank liquidity's benchmark price in the market.
+Interest rate risk: The risk of losses resulting from movements in interest rates and their impact on future cash-flows. Generally because a bank may have a disproportionate amount of fixed or variable rates instruments on either side of the balance-sheet. One of the primary causes are mismatches in terms of bank deposits and loans.
+Capital markets risk: The risk from movements in equity and/or credit on the balance sheet. An insurer may wish to harvest either risk or fee premia. Risk is then mitigated by options, futures, derivative overlays which may incorporate tactical or strategic views.
+Currency risk management: The risk of losses resulting from movements in exchanges rates. To the extent that cash-flow assets and liabilities are denominated in different currencies.
+Funding and capital management: As all the mechanism to ensure the maintenance of adequate capital on a continuous basis. It is a dynamic and ongoing process considering both short- and longer-term capital needs and is coordinated with a bank's overall strategy and planning cycles (usually a prospective time-horizon of 2 years).
+Profit planning and growth.
+In addition, ALM deals with aspects related to credit risk as this function is also to manage the impact of the entire credit portfolio (including cash, investments, and loans) on the balance sheet. The credit risk, specifically in the loan portfolio, is handled by a separate risk management function and represents one of the main data contributors to the ALM team.The ALM function scope covers both a prudential component (management of all possible risks and rules and regulation) and an optimization role (management of funding costs, generating results on balance sheet position), within the limits of compliance (implementation and monitoring with internal rules and regulatory set of rules).
+ALM intervenes in these issues of current business activities but is also consulted to organic development and external acquisition to analyse and validate the funding terms options, conditions of the projects and any risks (i.e., funding issues in local currencies).
+Today, ALM techniques and processes have been extended and adopted by corporations other than financial institutions; e.g., insurance.
+
+
+=== Treasury and ALM ===
+For simplification treasury management can be covered and depicted from a corporate perspective looking at the management of liquidity, funding, and financial risk;
+see Corporate finance § Financial risk management.
+On the other hand, ALM is a discipline relevant to banks and financial institutions whose balance sheets present different challenges and who must meet regulatory standards.
+For banking institutions, treasury and ALM are strictly interrelated with each other and collaborate in managing both liquidity, interest rate, and currency risk at solo and group level: Where ALM focuses more on risk analysis and medium- and long-term financing needs, treasury manages short-term funding (mainly up to one year) including intra-day liquidity management and cash clearing, crisis liquidity monitoring.
+
+
+=== ALM governance ===
+The responsibility for ALM is often divided between the treasury and Chief Financial Officer (CFO). In smaller organizations, the ALM process can be addressed by one or two key persons (Chief Executive Officer, such as the CFO or treasurer).
+The vast majority of banks operate a centralised ALM model which enables oversight of the consolidated balance-sheet with lower-level ALM units focusing on business units or legal entities.
+To assist and supervise the ALM unit an Asset Liability Committee (ALCO), whether at the board or management level, is established. It has the central purpose of attaining goals defined by the short- and long-term strategic plans:
+
+To ensure adequate liquidity while managing the bank's spread between the interest income and interest expense
+To approve a contingency plan
+To review and approve the liquidity and funds management policy at least annually
+To link the funding policy with needs and sources via mix of liabilities or sale of assets (fixed vs. floating rate funds, wholesale vs. retail deposit, money market vs. capital market funding, domestic vs. foreign currency funding...)
+
+
+=== Legislative summary ===
+Relevant ALM legislation deals mainly with the management of interest rate risk and liquidity risk:
+
+Most global banks have benchmarked their ALM framework to the Basel Committee on Banking Supervision (BCBS) guidance 'Principles for the management and supervision of interest rate risk'. Issued in July 2004, this paper has the objective to support the Pillar 2 approach to interest rate risk in the banking book within the Basel II capital framework.
+In January 2013, the Basel Committee has issued the full text of the revised Liquidity Coverage Ratio (LCR) as one of the key component of the Basel III capital framework. This new coming ratio will ensure that banks will have sufficient adequacy transformation level between their stock of unencumbered high-quality assets (HQLA) and their conversion into cash to meet their liquidity requirements for a 30-calendar-day liquidity stress scenario (and thus hoping to cure shortcoming from Basel II that was not addressing liquidity management).
+
+
+== ALM concepts ==
+
+
+=== Building an ALM policy ===
+As in all operational areas, ALM must be guided by a formal policy and must address:
+
+Limits on the maximum size of major asset/ liability categories
+Balance sheet mix : in order to follow the old adage 'Don't put all your eggs in one basket'
+Limits on the mix of balance sheet assets (loans by credit category, financial instruments...) considering levels of risk and return and thus guided by annual planning targets, lending licence constraints and regulatory restrictions on investments.
+Limits on the mix of balance sheet liabilities such as deposits and other types of funding (all sources of funding are expressed as a % of total assets with the objective to offer comparability and correlate by term and pricing to the mix of assets held) considering the differential costs and volatility of these types of funds
+Policy limits have to be realistic :based on historical trend analysis and comparable to the peers or the market
+Correlating maturities and terms
+Controlling liquidity position and set limits in terms of ratios and projected net cash-flows, analyse and test alternative sources of liquidity
+Controlling interest rate risk and establishing interest rate risk measurement techniques
+Controlling currency risk
+Controlling the use of derivatives as well as defining management analysis and expert contribution for derivative transactions
+Frequency and content for board reporting
+But also practical decision such as :
+Who is responsible for monitoring the ALM position of the bank
+What tools to use to monitor the ALM frameworkNote that the ALM policy has not the objective to skip out the institution from elaborating a liquidity policy. In any case, the ALM and liquidity policies need to be correlated as decision on lending, investment, liabilities, equity are all interrelated.
+
+
+=== ALM core functions ===
+
+
+==== Managing gaps ====
+The objective of this aspect of ALM, is to measure and then manage the direction and extent of any asset-liability mismatch, so as to maintain adequate profitability. 
+The result will be expressed as a funding or "maturity gap" (see duration gap for discussion).
+This exercise will have the joint objectives of balancing maturities, cash-flows and / or interest rates, for a particular time horizon. The management thus takes the form of:
+
+matching the maturities of loans and investments with the maturities of deposits, equity, and external credit; the techniques commonly employed are immunization and cashflow matching.
+managing the spread between interest rate sensitive assets and interest rate sensitive liabilities; see Corporate bond § Risk analysis and Yield spread § Yield spread analysis.The above "static" gap analysis considers any future gaps due to current, i.e. existing, exposures, and any related exercise of (embedded) options - usually prepayments - at different points in time.
+"Dynamic gap analysis" enlarges the scope by including "what if" scenarios, testing potential changes in business activity (new volumes, additional prepayment transactions, potential hedging transactions), and considering unusual interest rate scenarios, with their associated shape of the yield curve and resultant changes in pricing.
+Depending on deal-stage and likelihood, analysts will incorporate expected capital investments and their required funding under either approach, as appropriate.
+
+
+== Liquidity risk management ==
+The role of the bank in the context of the maturity transformation that occurs in the banking book (as traditional activity of the bank is to borrow short and lend long) lets inherently the institution vulnerable to liquidity risk and can even conduct to the so-call risk of 'run of the bank' as depositors, investors or insurance policy holders can withdraw their funds/ seek for cash in their financial claims and thus impacting current and future cash-flow and collateral needs of the bank (risk appeared if the bank is unable to meet in good conditions these obligations as they come due).
+This aspect of liquidity risk is named funding liquidity risk and arises because of liquidity mismatch of assets and liabilities (unbalance in the maturity term creating liquidity gap).
+Even if market liquidity risk is not covered into the conventional techniques of ALM (market liquidity risk as the risk to not easily offset or eliminate a position at the prevailing market price because of inadequate market depth or market disruption), these 2 liquidity risk types are closely interconnected. In fact, reasons for banking cash inflows are  :
+
+when counterparties repay their debts (loan repayments): indirect connection due to the borrower's dependence on market liquidity to obtain the funds
+when clients place a deposit: indirect connection due to the depositor's dependence on market liquidity to obtain the funds
+when the bank purchases assets to hold on its own account: direct connection with market liquidity (security's market liquidity as the ease of trading it and thus potential rise in price)
+when the bank sells debts it has held on its own account: direct connection
+
+
+=== Liquidity gap analysis ===
+Measuring liquidity position via liquidity gap analysis is still one of the most common tool used and represents the foundation for scenario analysis and stress-testing.
+
+To do so, ALM team is projecting future funding needs by tracking through maturity and cash-flow mismatches gap risk exposure (or matching schedule). In that situation, the risk depends not only on the maturity of asset-liabilities but also on the maturity of each intermediate cash-flow, including prepayments of loans or unforeseen usage of credit lines.
+
+
+==== Actions to perform ====
+Determining the number or the length of each relevant time interval (time bucket)
+Defining the relevant maturities of the assets and liabilities where a maturing liability will be a cash outflow while a maturing asset will be a cash inflow (based on effective maturities or the 'liquidity duration': estimated time to dispose of the instruments in a crisis situation such as withdrawal from the business). For non maturity assets (such as overdrafts, credit card balances, drawn and undrawn lines of credit or any other off-balance sheet commitments), their movements as well as volume can be predict by making assumptions derived from examining historic data on client's behaviour.
+Slotting every asset, liability and off-balance sheet items into corresponding time bucket based on effective or liquidity duration maturityIn dealing with the liquidity gap, the bank main concern is to deal with a surplus of long-term assets over short-term liabilities and thus continuously to finance the assets with the risk that required funds will not be available or into prohibitive level.
+Before any remediation actions, the bank will ensure first to :
+
+Spread the liability maturity profile across many time intervals to avoid concentration of most of the funding in overnight to few days time buckets (standard prudent practices admit that no more than 20% of the total funding should be in the overnight to one-week period)
+Plan any large size funding operation in advance
+Hold a significant productions of high liquid assets (favorable conversion rate into cash in case distressed liquidity conditions)
+Put limits for each time bucket and monitor to stay within a comfortable level around these limits (mainly expressed as a ratio where mismatch may not exceed X% of the total cash outflows for a given time interval)
+
+
+===== Non-maturing liabilities specificity =====
+As these instruments do not have a contractual maturity, the bank needs to dispose of a clear understanding of their duration level within the banking books. This analysis for non-maturing liabilities such as non interest-bearing deposits (savings accounts and deposits) consists of assessing the account holders behavior to determine the turnover level of the accounts or decay rate of deposits (speed at which the accounts 'decay', the retention rate is representing the inverse of a decay rate).
+Calculation to define  (example):
+
+Average opening of the accounts : a retail deposit portfolio has been open for an average of 8.3 years
+Retention rate : the given retention rate is 74.3%
+Duration level : translation into a duration of 6.2 yearsVarious assessment approaches may be used:
+
+To place these funds in the longest-dated time bucket as deposits remain historically stable over time due to large numbers of depositors.
+To divide the total volume into 2 parts: a stable part (core balance) and a floating part (seen as volatile with a very short maturity)
+To assign maturities and re-pricing dates to the non-maturing liabilities by creating a portfolio of fixed income instruments that imitates the cash-flows of the liabilities positions.The 2007 crisis however has evidence fiercely that the withdrawal of client deposits is driven by two major factors (level of sophistication of the counterparty: high-net-worth clients withdraw their funds quicker than retail ones, the absolute deposit size: large corporate clients are leaving faster than SMEs) enhancing simplification in the new deposit run-off models.
+
+
+==== Remediation actions ====
+A surplus of assets creates a funding requirement, i.e. a negative mismatch that can be financed
+By long-term borrowings (typically costlier) : long-term debt, preferred stock, equity or demand deposit
+By short-term borrowings (cheaper but with higher uncertainty level in term of availability and cost)  : collateralized borrowings (repo), money market
+By asset sales : distressed sales (at loss) but sales induce drastic changes in the bank's strategy
+A surplus of liabilities over assets creates the need to find efficient uses for those funds, i.e. a positive mismatch that is not a wrong signal (generally a rare scenario in a bank as the bank always has a target return on capital to achieve and so requires funds to be put to work by acquiring assets) but only means that the bank is sacrificing profits unnecessarily to achieve a liquidity position that is too liquid. This excess of liquidity can be deployed in money market instruments or risk-free assets such as government T-bills or bank certificate of deposit (CDs) if this liability excess belongs to bank's capital (the ALM desk will not take the risk of putting capital in a credit-risk investment).
+
+
+=== Measuring liquidity risk ===
+The liquidity measurement process consists of evaluating :
+
+Liquidity consumption (as the bank is consumed by illiquid assets and volatile liabilities)
+Liquidity provision (as the bank is provided by stable funds and by liquid assets)2 essential factors are to take into account  :
+
+Speed: the speed of market deterioration in 2008 fosters the need to daily measurement of liquidity figures and quick data availability
+IntegrityBut daily completeness of data for an internationally operating bank should not represent the forefront of its procupation as the seek for daily consolidation is a lengthy process that may put away the vital concern of quick availability of liquidity figures. So the main focus will be on material entities and business as well as off-balance sheet position (commitments given, movements of collateral posted...)
+For the purposes of quantitative analysis, since no single indicator can define adequate liquidity, several financial ratios can assist in assessing the level of liquidity risk. Due to the large number of areas within the bank's business giving rise to liquidity risk, these ratios present the simpler measures covering the major institution concern. In order to cover short-term to long-term liquidity risk they are divided into 3 categories  :
+
+Indicators of operating cash-flows
+Ratios of liquidity
+Financial strength (leverage)
+
+
+=== Setting limits ===
+Setting risk limits still remain a key control tool in managing liquidity as they provide :
+
+A clear and easily understandable communication tool for risk managers to top management of the adequacy of the level of liquidity to the bank's current exposure but also a good alert system to enhance conditions where the liquidity demands may disrupt the normal course of business
+One of the easiest control framework to implement
+
+
+== Funding management ==
+As an echo to the deficit of funds resulting from gaps between assets and liabilities the bank has also to address its funding requirement through an effective, robust and stable funding model.
+
+
+=== Constraints to take into account ===
+Obtaining funds at reasonable costs
+Fostering funding diversification in the sources and tenor of funding in the short, medium to long-term (funding mix process)
+Adapting the maturities of liabilities cash-flow in order to match with funds uses
+Gaining cushion of high liquid assets (refers to the bank's management of its asset funding sources)Today, banking institutions within industrialized countries are facing structural challenges and remain still vulnerable to new market shocks or setbacks:
+
+New regulations from Basel III requirements on new capital buffers and liquidity ratios are increasing the pressure on bank's balance sheet
+Prolonged period of low rates has compressed margins and creates incentives to expand the assets hold in order to cover yields and thus growing exposures (rise in credit and liquidity risks)
+Long-term secured funding has fallen half since 2007 with decrease of the average maturity from 10 to 7 years
+Unsecured funding markets are no longer available for many banks (mostly banks located in southern European countries) with cut access to cheap funding
+Client deposits as the reliable source of stable funding is no more under a growth period as depositors shifting away their funds into safer institutions or non-banks institutions as well as following the economic slowdown trends
+The banking system needs to deal with fierce competition of the shadow banking system : entities or activities structured outside the regular banking mechanism that perform bank-like functions such as credit intermediation or funding sources (with bank corporate clients with refinancing rates lower or similar to the banks themselves and of course without financial regulatory restrictions and risk control). Size of the shadow banking system is evaluated to $67 trillion in 2011 according to the Financial Stability Board (FSB), this estimation is based on a proxy measure for non-credit intermediation in Australia, Canada, Japan, Korea, UK, US and the Euro area.
+
+
+=== Principal sources of funding ===
+After 2007, financial groups have further improved the diversification of funding sources as the crisis has proven that limited mix of funds may turn out to be risky if these sources run dry all of a sudden.
+2 forms to obtain funding for banks :
+
+
+==== Asset-based funding sources ====
+The asset contribution to funding requirement depends on the bank ability to convert easily its assets to cash without loss.
+
+Cash-flows : as the primary source of asset side funding, occur when investments mature or through amortization of loans (periodic principal and interest cash-flows) and mortgage-backed securities
+Pledging of assets: in order to secure borrowings or line commitments. This practice induces a close management of these assets hold as collateral
+Liquidation of assets or sale of subsidiaries or lines of business (other form of shortening of assets can be also to reduce new loans origination)
+Securitization of assets as the bank originates loans with the intent to transform into pools of loans and selling them to investors
+
+
+==== Liability and equity funding sources ====
+
+
+===== Retail funding =====
+From customers and small businesses and seen as stable sources with poor sensitivity level to market interest rates and bank's financial conditions.
+
+Deposit account
+Transaction accounts
+Savings accounts
+Public deposit
+Current account
+
+
+===== Wholesale funding =====
+Borrowing funds under secured and unsecured debt obligations (volatile and subordinated liabilities that are purchased by rate sensitive investors)
+Short-term   :
+High-grade securities (otherwise the counterparty or broker/ dealer will not accept the collateral or charge high haircut on collateral) sold under repurchase agreement : repo transaction that helps create leverage and short-term liabilities collateralised with longer maturity assets
+Debt instruments such as commercial paper (promissory note such as Asset-backed commercial paper program or ABCP)
+Longer terms : collateralized loans and issuance of debt securities such as straight or covered bonds
+Other form of deposit
+Certificate of deposit
+Money market deposit
+Brokered deposit (in the US banking industry)
+Parent company deposit
+Deposit from banks
+Support from legacy governments and central bank facilities. Such as Long Term Refinancing Operations (LTRO) in the Eurozone where the ECB provides financing to Eurozone banks (on 29 February 2012, the last LTRO has contained €529,5 billion 36-months maturity low-interest loans with 800 banks participants)
+
+
+===== Equity funds or raising capital =====
+Common stock
+Preferred stock
+Retained earnings
+
+
+=== Putting an operative plan for the normal daily operations and ongoing business activities ===
+This plan needs to embrace all available funding sources and requires an integrated approach with the strategic business planning process. The objective is to provide realistic projection of funding future under various set of assumptions. This strategy includes :
+
+
+==== Assessment of possible funding sources ====
+Main characteristics :
+
+Concentrations level between funding sources
+Sensitivity to interest-rate and credit risk volatility
+Ability and speed to renew or replace the funding source at favorable terms (evaluation of the possibility to lengthening its maturity for liability source)
+For borrowed funds, documentation of a plan defining repayment of the funds and terms including call features, prepayment penalties, debt covenants...
+Possible early redemption option of the source
+Diversification of sources, tenors, investors base and types, currencies and to collateralization requirements (with limits by counterparty, secured versus unsecured level of the market funding, instrument types, securitization vehicles, geographic market and investor types)
+Costs  : a bank can privilegiate interest bearing deposit products for retail clients as it is still considered as a cheap form of stable funding but the fierce competition between banks to attract a big market share has increased the acquisition and operational costs generated to manage large volume treatment (personnel, advertising...)Dependencies to endogenous (bank specific events such as formulas, asset allocation, funding methods...) / exogenous (investment returns, market volatility, inflation, bank ratings...) factors that will influence the bank ability to access one particular source.
+
+
+==== Setting for each source an action plan and assessment of the bank's exposure to changes ====
+Once the bank has established a list of potential sources based on their characteristics and risk/ reward analysis, it should monitor the link between its funding strategy and market conditions or systemic events.
+For simplification, the diversify available sources are divided into 3 main time categories:
+
+Short-term
+Medium-term
+Long-term periodKey aspects to take into account :
+
+Assessment of the likehood of funding deficiencies or cost increase across time periods. In case for example, position on the wholesale funding, providers often require liquid assets as collateral. If that collaterals become less liquid or difficult to evaluate, wholesale funds providers may arbitrate no more funding extension maturity
+Explanation of the objective, purpose and strategy behind each funding source chosen  : a bank may borrow on a long-term basis to fund real estate loans
+Monitoring of the bank capacity to raise each funds quickly and without bad cost effects as well as the monitoring of the dependence factors affecting its capacity to raise them
+Maintenance of a constant relation with funding market as market access is critical and affects the ability to both raise new funds and liquid assets. This access to market is expressed first by identification and building of strong relationships with current and potential key providers of funding (even if the bank is soliciting also brokers or third parties to raise funds)
+As a prudent measure, the choice of any source has to be demonstrated with the effective ability to access the source for the bank. If the bank has never experienced to sold loans in the past or securitization program, it should not anticipate using such funding strategies as a primary source of liquidity
+
+
+==== Liquidity reserve or highly liquid assets stock ====
+This reserve can also referred to liquidity buffer and represents as the first line of defense in a liquidity crisis before intervention of any measures of the contingency funding plan. It consists of a stock of highly liquid assets without legal, regulatory constraints (the assets need to be readily available and not pledged to payments or clearing houses, we call them cashlike assets). They can include  :
+
+High grade collateral received under repo
+Collateral pledged to the central bank for emergency situation
+Trading assets if they are freely disposable (not used as collateral)Key actions to undertake :
+
+To maintain a central data repository of these unencumbered liquid assets
+To invest in liquid assets for purely precautionary motives during normal time of business and not during first signs of market turbulence
+To apply, if possible (smaller banks may suffer from a lack of internal model intelligence), both an economic and regulatory liquidity assets holding position. The LCR (Liquidity Coverage Ratio), one of the new Basel III ratios in that context can represent an excellent 'warning indicator' for monitoring the dedicated level and evolution of the dedicated stock of liquid assets. Indeed, the LCR addresses the sufficiency of a stock of high quality liquid assets to meet short-term liquidity needs under a specified acute stress scenario. It identifies the amount of unencumbered, high quality liquid assets an institution holds that can be used to offset the net cash outflows it would encounter under an acute 30-days stress scenario specified by supervisors. In light of the stricter LCR eligible assets definition, the economic approach could include a larger bulk of other liquid assets (in particular in the trading book)
+To adapt (scalability approach) the stock of the cushion of liquid assets according to stress scenarios (scenarios including estimation on loss or impairment of unsecured/ secured funding sources, contractual or non contractual cash-flows as well as among others withdrawal stickiness measures). As an example, a bank may decide to use high liquid sovereign debt instruments in entering into repurchase transaction in response to one severe stress scenario
+To evaluate the cost of maintening dedicated stock of liquid assets portfolio as the negative carry between the yield of this portfolio and its penalty rate (cost of funding or rate at which the bank may obtain funding on the financial markets or the interbank market). This negative carry of this high liquid portfolio assets will be then allocated to the respective business lines that are creating the need for such liquidity reserve
+
+
+=== Contingency funding plan ===
+As the bank should not assume that business will always continue as it is the current business process, the institution needs to explore emergency sources of funds and formalise a contingency plan. The purpose is to find alternative backup sources of funding to those that occur within the normal course of operations.
+Dealing with Contingency Funding Plan (CFP) is to find adequate actions as regard to low-probability and high-impact events as opposed to high-probability and low-impact into the day-to-day management of funding sources and their usage within the bank.
+To do so, the bank needs to perform the hereafter tasks  :
+
+
+==== Identification of plausible stress events ====
+Bank specific events : generally linked to bank's business activities and arising from credit, market, operational, reputation or strategic risk. These aspects can be expressed as the inability  :
+
+To fund asset growth
+To renew or replace maturing liabilities
+To use off-balance sheet commitments given
+To hold back unexpected large deposit withdrawalsExternal events :
+
+Changes in economic conditions
+Changes in price volatility of securities
+Negative press coverage
+Disruption in the markets from which the bank obtains funds
+
+
+==== Estimation of the severity levels, occurrence and duration of those stress events on the bank funding structure ====
+This assessment is realised in accordance with the bank current funding structure to establish a clear view on their impacts on the 'normal' funding plan and therefore evaluate the need for extra funding.
+This quantitative estimation of additional funding resources under stress events is declined for:
+
+Each relevant level of the bank (consolidated level to solo and business lines ones)
+Within the 3 main time categories horizon : short-term (focus on intraday, daily, weekly operations), medium to long-termIn addition, analysis are conducted to evaluate the threat of those stress events on the bank earnings, capital level, business activities as well as the balance sheet composition.
+The bank need, in accordance, to develop a monitoring process to :
+
+Detect early sign of events that could degenerate into crisis situation through set of warning indicators or triggers
+Build an escalation scheme via reporting and action plan in order to provide precautionary measure before any material risk materialized
+
+
+==== Overview of potential and viable contingent funding sources and build up of a central inventory ====
+Such inventory includes :
+
+The dedicated liquidity reserve (stock of highly liquid assets that can follow the Basel III new liquidity ratios LCR/ NSFR strict liquid asset definition)
+Other unencumbered liquid assets (i.e.,those contained in the trading book) and in relation to economic liquidity reserve view. They can represent :
+Additional unsecured or secured funding (possible use of securities lending and borrowing)
+Access to central bank reserves
+Reduction plan of assets
+Additional sale plan of unencumbered assets
+
+
+==== Determination of the contingent funding sources value according to stressed scenario events ====
+Stressed haircut applied
+Variation around cash-flow projection
+Erosion level of the funding resources
+Confidence level to gain access to the funding markets (tested market access)
+Monetization possibility of less liquid assets such as real-estate or mortgage loans with linked operational procedures and legal structure to put in place if any (as well as investor base, prices applied, transfer of servicing rights, recourse debt or not)
+
+
+==== Setting of an administrative structure and crisis-management team ====
+The last key aspect of an effective Contingency Funding Plan relates to the management of potential crisis with a dedicated team in charge to provide :
+
+Action plan to take during a given level of stress
+Communication scheme with counterparties, large investors, Central Bank and regulators involved
+Reports and escalation process
+Link with other contingent activities such as the Business Continuity Planning of the bank
+
+
+=== Managing the ALM profile generated by the funding requirements ===
+The objective is to settle an approach of the asset-liabilitiy profile of the bank in accordance with its funding requirement. In fact, how effectively balancing the funding sources and uses with regard to liquidity, interest rate management, funding diversification and the type of business-model the bank is conducting (for example business based on a majority of short-term movements with high frequency changement of the asset profile) or the type of activities of the respective business lines (market making business is requiring more flexible liquidity profile than traditional bank activities)
+
+
+==== ALM report ====
+Funding report summarises the total funding needs and sources with the objective to dispose of a global view where the forward funding requirement lies at the time of the snapshot. The report breakdown is at business line level to a consolidatedone on the firm-wide level. As a widespread standard, a 20% gap tolerance level is applied in each time bucket meaning that gap within each time period defined can support no more than 20% of total funding.
+
+Marginal gap : difference between change in assets and change in liabilities for a given time period to the next (known also as incremental gap)
+Gap as % of total gap : to prevent an excessive forward gap developing in one time period
+
+
+==== Funding cost allocation or Fund Transfer Pricing concept ====
+The effect of terming out funding is to produce a cost of funds, the objective is to :
+
+Set an internal price estimation of the cost of financing needed for the coming periods
+Assign it to users of fundsThis is the concept of Fund Transfer Pricing (FTP) a process within ALM context to ensure that business lines are funded with adequate tenors and that are charged and accountable in adequation to their current or future estimated situation.
+
+
+== See also ==
+Financial risk management § Corporate finance
+Treasury management
+Liquidity risk
+Interest rate risk
+Liquidity at risk
+Earnings at risk
+Cash flow at risk
+
+
+== References ==
+
+Crockford, Neil (1986). An Introduction to Risk Management (2nd ed.). Woodhead-Faulkner. 0-85941-332-2.
+Van Deventer, Imai and Mesler (2004), chapter 2
+Moorad Choudhry (2007). Bank Asset and Liability Management - Strategy, Trading, Analysis. Wiley Finance.
+
+
+== External links ==
+Society of Actuaries Professional Actuarial Specialty Guide describing Asset Liability Management
+Asset-Liability Management by riskglossary.com
+Asset Liability Management in Risk Framework by CoolAvenues.com
+Asset - Liability Management System in banks - Guidelines Reserve Bank of India
+Asset-liability Management: Issues and trends, R. Vaidyanathan, ASCI Journal of Management 29(1). 39-48
+Price Waterhouse Coopers Status of balance sheet management practices among international banks 2009
+Bank for International Settlements Principles for the management and supervision of interest rate risk - final document
+Bank for International Settlements Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools
+Financial Stability Board: Global Shadow Banking Monitoring Report 2012
+Deloitte Global Risk management survey Eighth Edition July 2013 on the latest trends for managing risks in the global financial services industry

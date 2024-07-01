@@ -1,0 +1,67 @@
+In finance, the Markowitz model ─ put forward by Harry Markowitz in 1952 ─ is a portfolio optimization model; 
+it assists in the selection of the most efficient portfolio by analyzing various possible portfolios of the given securities. 
+Here, by choosing securities that do not 'move' exactly together, the HM model shows investors how to reduce their risk. 
+The HM model is also called mean-variance model due to the fact that it is based on expected returns (mean) and the standard deviation (variance) of the various portfolios.
+It is foundational to Modern portfolio theory.
+
+
+== Assumptions ==
+Markowitz made the following assumptions while developing the HM model:
+Risk of a portfolio is based on the variability of returns from said portfolio.
+An investor is risk averse.
+An investor prefers to increase consumption.
+The investor's utility function is concave and increasing, due to their risk aversion and consumption preference.
+Analysis is based on single period model of investment.
+An investor either maximizes their portfolio return for a given level of risk or minimizes their risk for a given return.
+An investor is rational in nature.To choose the best portfolio from a number of possible portfolios, each with different return and risk, two separate decisions are to be made, detailed in the below sections: 
+
+Determination of a set of efficient portfolios.
+Selection of the best portfolio out of the efficient set.
+
+
+== Methodology ==
+
+
+=== Determining the efficient set ===
+A portfolio that gives maximum return for a given risk, or minimum risk for given return is an efficient portfolio. Thus, portfolios are selected as follows:
+(a) From the portfolios that have the same return, the investor will prefer the portfolio with lower risk, and (b) From the portfolios that have the same risk level, an investor will prefer the portfolio with higher rate of return. 
+
+As the investor is rational, they would like to have higher return. And as they are risk averse, they want to have lower risk. In Figure 1, the shaded area PVWP includes all the possible securities an investor can invest in. The efficient portfolios are the ones that lie on the boundary of PQVW. For example, at risk level x2, there are three portfolios S, T, U. But portfolio S is called the efficient portfolio as it has the highest return, y2, compared to T and U[needs dot]. All the portfolios that lie on the boundary of PQVW are efficient portfolios for a given risk level.
+The boundary PQVW is called the Efficient Frontier. All portfolios that lie below the Efficient Frontier are not good enough because the return would be lower for the given risk. Portfolios that lie to the right of the Efficient Frontier would not be good enough, as there is higher risk for a given rate of return. All portfolios lying on the boundary of PQVW are called Efficient Portfolios. The Efficient Frontier is the same for all investors, as all investors want maximum return with the lowest possible risk and they are risk averse.
+
+
+=== Choosing the best portfolio ===
+For selection of the optimal portfolio or the best portfolio, the risk-return preferences are analyzed. An investor who is highly risk averse will hold a portfolio on the lower left hand of the frontier, and an investor who isn’t too risk averse will choose a portfolio on the upper portion of the frontier.
+
+Figure 2 shows the risk-return indifference curve for the investors. Indifference curves C1, C2 and C3 are shown. Each of the different points on a particular indifference curve shows a different combination of risk and return, which provide the same satisfaction to the investors. Each curve to the left represents higher utility or satisfaction. The goal of the investor would be to maximize their satisfaction by moving to a curve that is higher. An investor might have satisfaction represented by C2, but if their satisfaction/utility increases, the investor then moves to curve C3 Thus, at any point of time, an investor will be indifferent between combinations S1 and S2, or S5 and S6.
+
+The investor's optimal portfolio is found at the point of tangency of the efficient frontier with the indifference curve. This point marks the highest level of satisfaction the investor can obtain. This is shown in Figure 3. R is the point where the efficient frontier is tangent to indifference curve C3, and is also an efficient portfolio. With this portfolio, the investor will get highest satisfaction as well as best risk-return combination (a portfolio that provides the highest possible return for a given amount of risk). Any other portfolio, say X, isn't the optimal portfolio even though it lies on the same indifference curve as it is outside the feasible portfolio available in the market. Portfolio Y is also not optimal as it does not lie on the best feasible indifference curve, even though it is a feasible market portfolio. Another investor having other sets of indifference curves might have some different portfolio as their best/optimal portfolio.
+All portfolios so far have been evaluated in terms of risky securities only, and it is possible to include risk-free securities in a portfolio as well. A portfolio with risk-free securities will enable an investor to achieve a higher level of satisfaction. This has been explained in Figure 4.
+
+R1 is the risk-free return, or the return from government securities, as those securities are considered to have no risk for modeling purposes. R1PX is drawn so that it is tangent to the efficient frontier. Any point on the line R1PX shows a combination of different proportions of risk-free securities and efficient portfolios. The satisfaction an investor obtains from portfolios on the line R1PX is more than the satisfaction obtained from the portfolio P. All portfolio combinations to the left of P show combinations of risky and risk-free assets, and all those to the right of P represent purchases of risky assets made with funds borrowed at the risk-free rate.
+In the case that an investor has invested all their funds, additional funds can be borrowed at risk-free rate and a portfolio combination that lies on R1PX can be obtained. R1PX is known as the Capital Market Line (CML). This line represents the risk-return trade off in the capital market. The CML is an upward sloping line, which means that the investor will take higher risk if the return of the portfolio is also higher. The portfolio P is the most efficient portfolio, as it lies on both the CML and Efficient Frontier, and every investor would prefer to attain this portfolio, P. The P portfolio is known as the Market Portfolio and is generally the most diversified portfolio. It consists of essentially all shares and securities in the capital market (either long or short). The Market Portfolio would not include a specific security if the correlation between the portfolio and the security is zero with negative return (gambling), or if the correlation is one (whichever has lower return would not warrant investment).
+In the market for portfolios that consists of risky and risk-free securities, the CML represents the equilibrium condition. The Capital Market Line says that the return from a portfolio is the risk-free rate plus risk premium. Risk premium is the product of the market price of risk and the quantity of risk, and the risk is the standard deviation of the portfolio.
+The CML equation is :
+
+RP = IRF + (RM – IRF)σP/σMwhere,
+
+RP = expected return of portfolioIRF = risk-free rate of interestRM = return on the market portfolioσM = standard deviation of the market portfolioσP = standard deviation of portfolio(RM – IRF)/σM is the slope of CML. (RM – IRF) is a measure of the risk premium, or the reward for holding risky portfolio instead of risk-free portfolio. σM is the risk of the market portfolio. Therefore, the slope measures the reward per unit of market risk.
+The characteristic features of CML are:
+1. At the tangent point, i.e. Portfolio P, is the optimum combination of risky investments and the market portfolio.
+2. Only efficient portfolios that consist of risk free investments and the market portfolio P lie on the CML.
+3. CML is always upward sloping as the price of risk has to be positive. A rational investor will not invest unless they know they will be compensated for that risk.
+
+Figure 5 shows that an investor will choose a portfolio on the efficient frontier, in the absence of risk-free investments. But when risk-free investments are introduced, the investor can choose the portfolio on the CML (which represents the combination of risky and risk-free investments). This can be done with borrowing or lending at the risk-free rate of interest (IRF) and the purchase of efficient portfolio P. The portfolio an investor will choose depends on their preference of risk. The portion from IRF to P, is investment in risk-free assets and is called Lending Portfolio. In this portion, the investor will lend a portion at risk-free rate. The portion beyond P is called Borrowing Portfolio, where the investor borrows some funds at risk-free rate to buy more of portfolio P.
+
+
+== Demerits of the HM model ==
+1. Unless positivity constraints are assigned, the Markowitz solution can easily find highly leveraged portfolios (large long positions in a subset of investable assets financed by large short positions in another subset of assets), but given their leveraged nature the returns from such a portfolio are extremely sensitive to small changes in the returns of the constituent assets and can therefore be extremely 'dangerous'. Positivity constraints are easy to enforce and fix this problem, but if the user wants to 'believe' in the robustness of the Markowitz approach, it would be nice if better-behaved solutions (at the very least, positive weights) were obtained in an unconstrained manner when the set of investment assets is close to the available investment opportunities (the market portfolio) – but this is often not the case.
+2. Practically more vexing, small changes in inputs can give rise to large changes in the portfolio. Mean-variance optimization suffers from 'error maximization': 'an algorithm that takes point estimates (of returns and covariances) as inputs and treats them as if they were known with certainty will react to tiny return differences that are well within measurement error'. In the real world, this degree of instability will lead, to begin with, to large transaction costs, but it is also likely to shake the confidence of the portfolio manager in the model. Extrapolating this point further, among certain universes of assets, academics have found that the Markowitz model has been susceptible to issues such as model instability where, for example, the reference assets have a high degree of correlation.3. The amount of information (the covariance matrix, specifically, or a complete joint probability distribution among assets in the market portfolio) needed to compute a mean-variance optimal portfolio is often intractable and certainly has no room for subjective measurements ('views' about the returns of portfolios of subsets of investable assets). Furthermore, the information dependency and the need to calculate a covariance matrix introduces some, albeit manageable, computational complexity and constraint to model scalability for portfolios with sufficiently large asset universes.
+
+
+== References ==
+
+
+== Selected publications ==
+Markowitz, H.M. (March 1952). "Portfolio Selection". The Journal of Finance. 7 (1): 77–91. doi:10.2307/2975974. JSTOR 2975974.
+Markowitz, H.M. (April 1952). "The Utility of Wealth" (PDF). The Journal of Political Economy. LX (2): 151–158. doi:10.1086/257177.

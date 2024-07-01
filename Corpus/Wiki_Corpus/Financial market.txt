@@ -1,0 +1,152 @@
+A financial market is a market in which people trade financial securities and derivatives at low transaction costs. Some of the securities include stocks and bonds, raw materials and precious metals, which are known in the financial markets as commodities.
+The term "market" is sometimes used for what are more strictly exchanges, organizations that facilitate the trade in financial securities, e.g., a stock exchange or commodity exchange. This may be a physical location (such as the New York Stock Exchange (NYSE), London Stock Exchange (LSE), JSE Limited (JSE), Bombay Stock Exchange (BSE) or an electronic system such as NASDAQ. Much trading of stocks takes place on an exchange; still, corporate actions (merger, spinoff) are outside an exchange, while any two companies or people, for whatever reason, may agree to sell the stock from the one to the other without using an exchange.
+Trading of currencies and bonds is largely on a bilateral basis, although some bonds trade on a stock exchange, and people are building electronic systems for these as well, to stock exchanges. There are also global initiatives such as the United Nations Sustainable Development Goal 10 which has a target to improve regulation and monitoring of global financial markets.
+
+
+== Types of financial markets ==
+Within the financial sector, the term "financial markets" is often used to refer just to the markets that are used to raise finances. For long term finance, they are usually called the capital markets; for short term finance, they are usually called money markets. The money market deals in short-term loans, generally for a period of a year or less. Another common use of the term is as a catchall for all the markets in the financial sector, as per examples in the breakdown below.
+
+Capital markets which consist of:
+Stock markets, which provide financing through the issuance of shares or common stock, and enable the subsequent trading thereof.
+Bond markets, which provide financing through the issuance of bonds, and enable the subsequent trading thereof.
+Commodity markets, The commodity market is a market that trades in the primary economic sector rather than manufactured products, Soft commodities is a term generally referred as to commodities that are grown, rather than mined such as crops (corn, wheat, soybean, fruit and vegetable), livestock, cocoa, coffee and sugar and Hard commodities is a term generally referred as to commodities that are mined such as gold, gemstones and other metals and generally drilled such as oil and gas.
+Money markets, which provide short term debt financing and investment.
+Derivatives markets, which provide instruments for the management of financial risk.
+Futures markets, which provide standardized forward contracts for trading products at some future date; see also forward market.
+Foreign exchange markets, which facilitate the trading of foreign exchange.
+Cryptocurrency market which facilitate the trading of digital assets and financial technologies.
+Spot market
+Interbank lending marketThe capital markets may also be divided into primary markets and secondary markets. Newly formed (issued) securities are bought or sold in primary markets, such as during initial public offerings. Secondary markets allow investors to buy and sell existing securities. The transactions in primary markets exist between issuers and investors, while secondary market transactions exist among investors.
+Liquidity is a crucial aspect of securities that are traded in secondary markets. Liquidity refers to the ease with which a security can be sold without a loss of value. Securities with an active secondary market mean that there are many buyers and sellers at a given point in time. Investors benefit from liquid securities because they can sell their assets whenever they want; an illiquid security may force the seller to get rid of their asset at a large discount.
+
+
+== Raising capital ==
+Financial markets attract funds from investors and channels them to corporations—they thus allow corporations to finance their operations and achieve growth. Money markets allow firms to borrow funds on a short-term basis, while capital markets allow corporations to gain long-term funding to support expansion (known as maturity transformation).
+Without financial markets, borrowers would have difficulty finding lenders themselves. Intermediaries such as banks, Investment Banks, and Boutique Investment Banks can help in this process. Banks take deposits from those who have money to save on the form of savings a/c. They can then lend money from this pool of deposited money to those who seek to borrow. Banks popularly lend money in the form of loans and mortgages.
+More complex transactions than a simple bank deposit require markets where lenders and their agents can meet borrowers and their agents, and where existing borrowing or lending commitments can be sold on to other parties. A good example of a financial market is a stock exchange. A company can raise money by selling shares to investors and its existing shares can be bought or sold.
+The following table illustrates where financial markets fit in the relationship between lenders and borrowers:
+
+
+=== Lenders ===
+The lender temporarily gives money to somebody else, on the condition of getting back the principal amount together with some interest or profit or charge.
+
+
+==== Individuals and doubles ====
+Many individuals are not aware that they are lenders, but almost everybody does lend money in many ways. A person lends money when he or she:
+
+Puts money in a savings account at a bank
+Contributes to a pension plan
+Pays premiums to an insurance company
+Invests in government bonds
+
+
+==== Companies ====
+Companies tend to be lenders of capital. When companies have surplus cash that is not needed for a short period of time, they may seek to make money from their cash surplus by lending it via short term markets called money markets. Alternatively, such companies may decide to return the cash surplus to their shareholders (e.g. via a share repurchase or dividend payment).
+
+
+==== Banks ====
+Banks can be lenders themselves as they are able to create new debt money in the form of deposits.
+
+
+=== Borrowers ===
+Individuals borrow money via bankers' loans for short term needs or longer term mortgages to help finance a house purchase.
+Companies borrow money to aid short term or long term cash flows. They also borrow to fund modernization or future business expansion. It is common for companies to use mixed packages of different types of funding for different purposes – especially where large complex projects such as company management buyouts are concerned.
+Governments often find their spending requirements exceed their tax revenues. To make up this difference, they need to borrow. Governments also borrow on behalf of nationalized industries, municipalities, local authorities and other public sector bodies. In the UK, the total borrowing requirement is often referred to as the Public sector net cash requirement (PSNCR).Governments borrow by issuing bonds. In the UK, the government also borrows from individuals by offering bank accounts and Premium Bonds. Government debt seems to be permanent. Indeed, the debt seemingly expands rather than being paid off. One strategy used by governments to reduce the value of the debt is to influence inflation.
+Municipalities and local authorities may borrow in their own name as well as receiving funding from national governments. In the UK, this would cover an authority like Hampshire County Council.
+Public Corporations typically include nationalized industries. These may include the postal services, railway companies and utility companies.
+Many borrowers have difficulty raising money locally. They need to borrow internationally with the aid of Foreign exchange markets.
+Borrowers having similar needs can form into a group of borrowers. They can also take an organizational form like Mutual Funds. They can provide mortgage on weight basis. The main advantage is that this lowers the cost of their borrowings.
+
+
+== Derivative products ==
+During the 1980s and 1990s, a major growth sector in financial markets was the trade in so called derivatives.
+In the financial markets, stock prices, share prices, bond prices, currency rates, interest rates and dividends go up and down, creating risk. Derivative products are financial products that are used to control risk or paradoxically exploit risk. It is also called financial economics.
+Derivative products or instruments help the issuers to gain an unusual profit from issuing the instruments. For using the help of these products a contract has to be made. Derivative contracts are mainly 4 types:
+Future
+Forward
+Option
+SwapSeemingly, the most obvious buyers and sellers of currency are importers and exporters of goods. While this may have been true in the distant past, when international trade created the demand for currency markets, importers and exporters now represent only 1/32 of foreign exchange dealing, according to the Bank for International Settlements.The picture of foreign currency transactions today shows:
+
+Banks/Institutions
+Speculators
+Government spending (for example, military bases abroad)
+Importers/Exporters
+Tourists
+
+
+== Analysis of financial markets ==
+See Statistical analysis of financial markets, statistical financeMuch effort has gone into the study of financial markets and how prices vary with time. Charles Dow, one of the founders of Dow Jones & Company and The Wall Street Journal, enunciated a set of ideas on the subject which are now called Dow theory. This is the basis of the so-called technical analysis method of attempting to predict future changes. One of the tenets of "technical analysis" is that market trends give an indication of the future, at least in the short term. The claims of the technical analysts are disputed by many academics, who claim that the evidence points rather to the random walk hypothesis, which states that the next change is not correlated to the last change. The role of human psychology in price variations also plays a significant factor. Large amounts of volatility often indicate the presence of strong emotional factors playing into the price. Fear can cause excessive drops in price and greed can create bubbles. In recent years the rise of algorithmic and high-frequency program trading has seen the adoption of momentum, ultra-short term moving average and other similar strategies which are based on technical as opposed to fundamental or theoretical concepts of market behaviour. For instance, according to a study published by the European Central Bank, high frequency trading has a substantial correlation with news announcements and other relevant public information that are able to create wide price movements (e.g., interest rates decisions, trade of balances etc.)
+The scale of changes in price over some unit of time is called the volatility.
+It was discovered by Benoit Mandelbrot that changes in prices do not follow a normal distribution, but are rather modeled better by Lévy stable distributions. The scale of change, or volatility, depends on the length of the time unit to a power a bit more than 1/2. Large changes up or down are more likely than what one would calculate using a normal distribution with an estimated standard deviation.
+
+
+== Financial market slang ==
+Poison pill, when a company issues more shares to prevent being bought out by another company, thereby increasing the number of outstanding shares to be bought by the hostile company making the bid to establish majority.
+Bips, meaning "bps" or basis points. A basis point is a financial unit of measurement used to describe the magnitude of percent change in a variable. One basis point is the equivalent of one hundredth of a percent. For example, if a stock price were to rise 100bit/s, it means it would increase 1%.
+Quant, a quantitative analyst with advanced training in mathematics and statistical methods.
+Rocket scientist, a financial consultant at the zenith of mathematical and computer programming skill. They are able to invent derivatives of high complexity and construct sophisticated pricing models. They generally handle the most advanced computing techniques adopted by the financial markets since the early 1980s. Typically, they are physicists and engineers by training.
+IPO, stands for initial public offering, which is the process a new private company goes through to "go public" or become a publicly traded company on some index.
+White Knight, a friendly party in a takeover bid. Used to describe a party that buys the shares of one organization to help prevent against a hostile takeover of that organization by another party.
+Round-tripping
+Smurfing, a deliberate structuring of payments or transactions to conceal it from regulators or other parties, a type of money laundering that is often illegal.
+Bid–ask spread, the difference between the highest bid and the lowest offer.
+Pip, smallest price move that a given exchange rate makes based on market convention.
+Pegging, when a country wants to obtain price stability, it can use pegging to fix their exchange rate relative to another currency.
+Bearish, this phrase is used to refer to the fact that the market has a downward trend.
+Bullish, this term is used to refer to the fact that the market has an upward trend.
+
+
+== Functions of financial markets ==
+Intermediary functions: The intermediary functions of financial markets include the following:
+Transfer of resources: Financial markets facilitate the transfer of real economic resources from lenders to ultimate borrowers.
+Enhancing income: Financial markets allow lenders to earn interest or dividend on their surplus invisible funds, thus contributing to the enhancement of the individual and the national income.
+Productive usage: Financial markets allow for the productive use of the funds borrowed. The enhancing the income and the gross national production.
+Capital formation: Financial markets provide a channel through which new savings flow to aid capital formation of a country.
+Price determination: Financial markets allow for the determination of price of the traded financial assets through the interaction of buyers and sellers. They provide a sign for the allocation of funds in the economy based on the demand and to the supply through the mechanism called price discovery process.
+Sale mechanism: Financial markets provide a mechanism for selling of a financial asset by an investor so as to offer the benefit of marketability and liquidity of such assets.
+Information: The activities of the participants in the financial market result in the generation and the consequent dissemination of information to the various segments of the market. So as to reduce the cost of transaction of financial assets.
+Financial Functions
+Providing the borrower with funds so as to enable them to carry out their investment plans.
+Providing the lenders with earning assets so as to enable them to earn wealth by deploying the assets in production debentures.
+Providing liquidity in the market so as to facilitate trading of funds.
+Providing liquidity to commercial bank
+Facilitating credit creation
+Promoting savings
+Promoting investment
+Facilitating balanced economic growth
+Improving trading floors
+
+
+== Components of financial market ==
+
+
+=== Based on market levels ===
+Primary market: A primary market is a market for new issues or new financial claims. Therefore, it is also called new issue market. The primary market deals with those securities which are issued to the public for the first time.
+Secondary market: A market for secondary sale of securities. In other words, securities which have already passed through the new issue market are traded in this market. Generally, such securities are quoted in the stock exchange and it provides a continuous and regular market for buying and selling of securities.Simply put, primary market is the market where the newly started company issued shares to the public for the first time through IPO (initial public offering). Secondary market is the market where the second hand securities are sold (security Commodity Markets).
+
+
+=== Based on security types ===
+Money market: Money market is a market for dealing with the financial assets and securities which have a maturity period of up to one year. In other words, it is a market for purely short-term funds.
+Capital market: A capital market is a market for financial assets that have a long or indefinite maturity. Generally, it deals with long-term securities that have a maturity period of above one year. The capital market may be further divided into (a) industrial securities market (b) Govt. securities market and (c) long-term loans market.
+Equity markets: A market where ownership of securities are issued and subscribed is known as equity market. An example of a secondary equity market for shares is the New York (NYSE) stock exchange.
+Debt market: The market where funds are borrowed and lent is known as debt market. Arrangements are made in such a way that the borrowers agree to pay the lender the original amount of the loan plus some specified amount of interest.
+Derivative markets: A market where financial instruments are derived and traded based on an underlying asset such as commodities or stocks.
+Financial service market: A market that comprises participants such as commercial banks that provide various financial services like ATM. Credit cards. Credit rating, stock broking etc. is known as financial service market. Individuals and firms use financial services markets, to purchase services that enhance the workings of debt and equity markets.
+Depository markets: A depository market consists of depository institutions (such as banks) that accept deposits from individuals and firms and uses these funds to participate in the debt market, by giving loans or purchasing other debt instruments such as treasury bills.
+Non-depository market: Non-depository market carry out various functions in financial markets ranging from financial intermediary to selling, insurance etc. The various constituencies in non-depositary markets are mutual funds, insurance companies, pension funds, brokerage firms etc.
+Relation between Bonds and Commodity Prices: With the increase in commodity prices, the cost of goods for companies increases. This increase in commodity prices level causes a rise in inflation.
+Relation between Commodities and Equities: Due to the production cost remaining same, and revenues rising (due to high commodity prices), the operating profit (revenue minus cost) increases, which in turn drives up equity prices.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+Financial Markets with Yale Professor Robert Shiller (Archived 2010-11-03 at the Wayback Machine)

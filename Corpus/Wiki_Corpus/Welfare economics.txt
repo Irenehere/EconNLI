@@ -1,0 +1,111 @@
+Welfare economics is a field of economics that applies microeconomic techniques to evaluate the overall well-being (welfare) of a society. This evaluation is typically done at the economy-wide level, and attempts to assess the distribution of resources and opportunities among members of society.   
+The principles of welfare economics are often used to inform public economics, which focuses on the ways in which government intervention can improve social welfare. Additionally, welfare economics serves as the theoretical foundation for several instruments of public economics, such as cost–benefit analysis. The intersection of welfare economics and behavioral economics has given rise to the subfield of behavioral welfare economics.Two fundamental theorems are associated with welfare economics. The first states that competitive markets, under certain assumptions, lead to Pareto efficient outcomes. This idea is sometimes referred to as Adam Smith's invisible hand. The second theorem states that with further restrictions, any Pareto efficient outcome can be achieved through a competitive market equilibrium, provided that a social planner uses a social welfare function to choose the most equitable efficient outcome and then uses lump sum transfers followed by competitive trade to achieve it. Arrow's impossibility theorem which is closely related social choice theory,  is sometimes considered a third fundamental theorem of welfare economics.Welfare economics typically involves the derivation or assumption of a social welfare function, which can then be used to rank economically feasible allocations of resources based on the social welfare they generate. Such functions often include measures of economic efficiency and equity, as well as other measures such as economic freedom as described in the capability approach.
+
+
+== Approaches ==
+
+
+=== Cardinal utility ===
+
+The early Neoclassical approach was developed by Edgeworth, Sidgwick, Marshall, and Pigou. It assumes the following:
+
+Utility is cardinal, that is, scale-measurable by observation or judgment.
+Preferences are exogenously given and stable.
+Additional consumption provides smaller and smaller increases in utility (diminishing marginal utility).
+All individuals have interpersonally commensurable utility functions (an assumption that Edgeworth avoided in his Mathematical Psychics).With these assumptions, it is possible to construct a social welfare function simply by summing all the individual utility functions. Note that such a measure would still be concerned with the distribution of income (distributive efficiency) but not the distribution of final utilities. In normative terms, such authors were writing in the Benthamite tradition.
+
+
+=== Ordinal utility ===
+
+The New Welfare Economics approach is based on the work of Pareto, Hicks, and Kaldor. It explicitly recognizes the differences between the efficiency aspect of the discipline and the distribution aspect and treats them differently. Questions of efficiency are assessed with criteria such as Pareto efficiency and the Kaldor–Hicks compensation tests, while questions of income distribution are covered in social welfare function specification. Further, efficiency dispenses with cardinal measures of utility, replacing it with ordinal utility, which merely ranks commodity bundles (with an indifference-curve map, for example).
+
+
+== Criteria ==
+
+
+=== Efficiency ===
+Situations are considered to have distributive efficiency when goods are distributed to the people who can gain the most utility from them.
+Pareto efficiency is an efficiency goal that is standard in economics. A situation is Pareto-efficient only if no individual can be made better off without making someone else worse off. An example of an inefficient situation would be if Smith owns an apple but would prefer to consume an orange  while Jones owns an orange but would be prefer to consume an apple. Both could be made better off by trading.
+A pareto-efficient state of affairs can only come about if four criteria are met:
+
+The marginal rates of substitution in consumption for any two goods are identical for all consumers. We cannot reallocate goods between two consumers and make both happier.
+The marginal rate of transformation in production for any two goods is identical for all producers of those two goods. We cannot reallocate production between two producers and increase total output.
+The marginal physical product of a factor input (e.g. labor) must be the same for all producers of a good. We cannot reduce production cost by reallocating production between two producers.
+The marginal rates of substitution in consumption equal the marginal rates of transformation in production for any pair of goods. Producers cannot make consumers happier by producing more of one good and less of the other.There are a number of conditions that lead to inefficiency. They include:
+
+Imperfect market structures such as monopoly, monopsony, oligopoly, oligopsony, and monopolistic competition.
+Factor allocation inefficiencies in production theory basics.
+Externalities.
+Asymmetric information, including principal–agent problems.
+Long run declining average costs in a natural monopoly.
+Taxes and tariffs.
+Government restrictions on prices and quantities sold and other regulation resulting from government failure.Note that if one of these conditions leads to inefficiency, another condition might help by counteracting it. For example, if a pollution externality leads to overproduction of tires, a tax on tires might restore the efficient level of production. A condition inefficient in the "first-best" might be desirable in the second-best.
+To determine whether an activity is moving the economy towards Pareto efficiency, two compensation tests have been developed. Policy changes usually help some people while hurting others, so these tests ask what would happen if the winners were to compensate the losers. Using the Kaldor criterion, the change is desirable if the maximum amount the winners would be willing to pay is greater than the minimum the losers would accept. Under the Hicks criterion, the change is desirable if the maximum  the losers would be willing to offer the winners to prevent the change is less than the minimum the winners would accept as a bribe to give up the change. The Hicks compensation test is from the losers' point of view; the Kaldor compensation test is from the winners'. If both conditions are satisfied, the proposed change will move the economy toward Pareto optimality. This idea is known as Kaldor–Hicks efficiency.  If the two conditions disagree, that yields the Scitovsky paradox.
+
+
+=== Equity ===
+There are many combinations of consumer utility, production mixes, and factor input combinations consistent with efficiency. In fact, there are an infinity of consumption and production equilibria that yield Pareto optimal results. There are as many optima as there are points on the aggregate production–possibility frontier. Hence, Pareto efficiency is a necessary, but not a sufficient condition for social welfare. Each Pareto optimum corresponds to a different income distribution in the economy. Some may involve great inequalities of income. So how do we decide which Pareto optimum is most desirable?  This decision is made, either tacitly or overtly, when we specify the social welfare function. This function embodies value judgements about interpersonal utility. The social welfare function shows the relative importance of the individuals that comprise society.A utilitarian welfare function (also called a Benthamite welfare function) sums the utility of each individual in order to obtain society's overall welfare. All people are treated the same, regardless of their initial level of utility. One extra unit of utility for a starving person is not seen to be of any greater value than an extra unit of utility for a millionaire. At the other extreme is the Max-Min, or Rawlsian utility function. According to the Max-Min criterion, welfare is maximized when the utility of those society members that have the least is the greatest. No economic activity will increase social welfare unless it improves the position of the society member that is the worst off. Most economists specify social welfare functions that are intermediate between these two extremes.
+The social welfare function is typically translated into social indifference curves so that they can be used in the same graphic space as the other functions that they interact with. A utilitarian social indifference curve is linear and downward sloping to the right. The Max-Min social indifference curve takes the shape of two straight lines joined so as they form a 90-degree angle. A social indifference curve drawn from an intermediate social welfare function is a curve that slopes downward to the right.
+
+The intermediate form of social indifference curve can be interpreted as showing that as inequality increases, a larger improvement in the utility of relatively rich individuals is needed to compensate for the loss in utility of relatively poor individuals.
+A crude social welfare function can be constructed by measuring the subjective dollar value of goods and services distributed to participants in the economy (See also Consumer surplus, Consumer welfare standard).
+
+
+== Fundamental theorems ==
+
+The field of welfare economics is associated with two fundamental theorems. The first states that given certain assumptions, competitive markets (price equilibria with transfers, e.g. Walrasian equilibria) produce Pareto efficient outcomes. The assumptions required are generally characterised as "very weak". More specifically, the existence of competitive equilibrium implies both price-taking behaviour and complete markets, but the only additional assumption is the local non-satiation of agents' preferences – that consumers would like, at the margin, to have slightly more of any given good. The first fundamental theorem is said to capture the logic of Adam Smith's invisible hand, though in general there is no reason to suppose that the "best" Pareto efficient point (of which there are a set) will be selected by the market without intervention, only that some such point will be.The second fundamental theorem states that given further restrictions, any Pareto efficient outcome can be supported as a competitive market equilibrium. These restrictions are stronger than for the first fundamental theorem, with convexity of preferences and production functions a sufficient but not necessary condition. A direct consequence of the second theorem is that a benevolent social planner could use a system of lump sum transfers to ensure that the "best" Pareto efficient allocation was supported as a competitive equilibrium for some set of prices. More generally, it suggests that redistribution should, if possible, be achieved without affecting prices (which should continue to reflect relative scarcity), thus ensuring that the final (post-trade) result is efficient. Put into practice, such a policy might resemble predistribution.
+Because of welfare economics' close ties to social choice theory, Arrow's impossibility theorem is sometimes listed as a third fundamental theorem.
+
+
+== Social welfare maximization ==
+Utility functions can be derived from the points on a contract curve. Numerous utility functions can be derived, one for each point on the production possibility frontier (PQ in the diagram above). A social utility frontier (also called a grand utility frontier) can be obtained from the outer envelope of all these utility functions. Each point on a social utility frontier represents an efficient allocation of an economy's resources; that is, it is a Pareto optimum in factor allocation, in production, in consumption, and in the interaction of production and consumption (supply and demand). In the diagram below, the curve MN is a social utility frontier. Point D corresponds with point C from the earlier diagram. Point D is on the social utility frontier because the marginal rate of substitution at point C is equal to the marginal rate of transformation at point A. Point E corresponds with point B in the previous diagram, and lies inside the social utility frontier (indicating inefficiency) because the MRS at point C is not equal to the MRT at point A.
+
+Although all the points on the grand social utility frontier are Pareto efficient, only one point identifies where social welfare is maximized. Such point is called "the point of bliss". This point is Z where the social utility frontier MN is tangent to the highest possible social indifference curve labelled SI.
+
+
+== Criticisms ==
+Some, such as economists in the tradition of the Austrian School, doubt whether a cardinal utility function, or cardinal social welfare function, is of any value. The reason given is that it is difficult to aggregate the utilities of various people that have differing marginal utility of money, such as the wealthy and the poor.
+Also, the economists of the Austrian School question the relevance of Pareto optimal allocation considering situations where the framework of means and ends is not perfectly known, since neoclassical theory always assumes that the ends-means framework is perfectly defined.The value of ordinal utility functions has been questioned. Economists have proposed other means of measuring well-being as an alternative to price indices like willingness to pay using revealed or stated preference method. This includes  
+subjective well-being functions based on individuals' ratings of their happiness or life satisfaction rather than on their preferences.Price-based measures are seen as promoting consumerism and productivism by many. It is possible to do welfare economics without the use of prices; however, this is not always done. Value assumptions explicit in the social welfare function used and implicit in the efficiency criterion chosen tend to make welfare economics a normative and perhaps subjective field. This can make it controversial. However, perhaps most significant of all are concerns about the limits of a utilitarian approach to welfare economics. According to this line of argument, utility is not the only thing that matters and so a comprehensive approach to welfare economics should include other factors.
+The capability approach is a theoretical framework that entails two core normative claims: first, the claim that the freedom to achieve well-being is of primary moral importance, and second, that freedom to achieve well-being is to be understood in terms of people's capabilities, that is, their real opportunities to do and be what they have reason to value.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Bernheim, B. Douglas (December 2008), Behavioral Welfare Economics, NBER, doi:10.3386/w14622, retrieved 8 June 2014
+Deardorff, Alan V. (2014), "Welfare economics", Deardorffs' Glossary of International Economics, retrieved 9 June 2014
+Feldman, Allan M. (2008), "Welfare Economics", The New Palgrave: A Dictionary of Economics (online ed.), vol. 4, pp. 889–95, retrieved 9 June 2014
+Hindriks, Jean; Myles, Gareth D. (2013), Intermediate Public Economics (2nd ed.), Cambridge, MA: MIT Press, ISBN 978-0262018692
+Mas-Colell, Andreu; Whinston, Michael D.; Green, Jerry R. (1995), "Chapter 16: Equilibrium and its Basic Welfare Properties", Microeconomic Theory, Oxford University Press, ISBN 0-19-510268-1
+Varian, Hal R. (2006), Intermediate Microeconomics: A Modern Approach (7th ed.), W.W. Norton & Company, ISBN 978-0-393-92702-3
+
+
+== Further reading ==
+Arrow, Kenneth J. (1951, 2nd ed., 1963). Social Choice and Individual Values, Yale University Press, New Haven.
+Arrow, Kenneth J., and Gérard Debreu ed., 2002. Landmark Papers in General Equilibrium Theory, Social Choice and Welfare. Edward Elgar Publishing, ISBN 978-1-84064-569-9. Description and table of contents.
+Atkinson, Anthony B. (1975). The Economics of Inequality, Oxford University Press, London.
+Atkinson, Anthony B. (2012). Optimum population, welfare economics, and inequality, Oxford University Press, London.
+Bator, Francis M. (1957). "The Simple Analytics of Welfare Maximization", American Economic Review, 47(1),  pp. 22–59
+Calsamiglia, Xavier, and Alan Kirman (1993). "A Unique Informationally Efficient and Decentralized Mechanism with Fair Outcomes", Econometrica, 61(5),  pp. 1147–72
+Chipman, John S., and James C. Moore (1978). "The New Welfare Economics 1939–1974," International Economic Review, 19(3),  pp. 547–84
+Mishan, E. J. (1980). "The New Welfare Economics: An Alternative View", International Economic Review, 21(3), pp. 691–705
+Feldman, Allan M. (1987). "equity," The New Palgrave: A Dictionary of Economics, v. 2, pp. 183–84.
+Feldman, Allan M., and Roberto Serrano, [1980] 2006. Welfare Economics and Social Choice Theory, 2nd ed. ISBN 0-387-29367-1, ISBN 978-0-387-29367-7 Arrow-searchable chapter previews.
+Graaff, Johannes de Villiers, (1957; rev. ed., 1968). Theoretical Welfare Economics, ISBN 978-0-521-09446-7 Cambridge, UK: Cambridge University Press.
+Harberger, Arnold C. (1971) "Three Basic Postulates for Applied Welfare Economics: An Interpretive Essay", Journal of Economic Literature, 9(3),  pp. 785–97
+Just, Richard et al. (2004), The Welfare Economics of Public Policy, Edward Elgar Publishing, Cheltenham and Northampton.
+Kuenne, Robert E., ed. (2000), Readings in Social Welfare: Theory and Policy, Wiley. Description and scroll to chapter-preview links.
+Little, I. M. D.  (1950; 2002). A Critique of Welfare Economics, Oxford. Preview. ISBN 0-19-828119-6.
+Ng, Yew-Kwang (1979; rev. ed., 1983). Welfare economics. London: Macmillan.
+O'Connell, John F. (1982) Welfare Economic Theory, Auburn House Publishing, Boston.
+Samuelson, Paul A. (1947, Enlarged ed. 1983). "Welfare Economics", Foundations of Economic Analysis, Harvard University Press, Cambridge, MA, ch. VIII, pp. 203–53.
+_____ (1977). "Reaffirming the Existence of 'Reasonable' Bergson-Samuelson Social Welfare Functions," Economica, N.S., 44(173),  pp. 81–88.  Reprinted in (1986) The Collected Scientific Papers of Paul A. Samuelson, pp. 47–54
+_____ (1981). "Bergsonian Welfare Economics", in S. Rosefielde (ed.), Economic Welfare and the Economics of Soviet Socialism: Essays in Honor of Abram Bergson, Cambridge University Press, Cambridge, pp. 223–66. Reprinted in (1986) The Collected Scientific Papers of Paul A. Samuelson,  pp. 3–46
+Sen, Amartya K. (1963). "Distribution, Transitivity and Little's Welfare Criteria", Economic Journal, 73(292), pp. 771–78
+_____ (1982).  Choice, Welfare and Measurement, MIT Press. Description and scroll to chapter-preview links.
+Suzumura, Kotaro (1980). "On Distributional Value Judgments and Piecemeal Welfare Criteria," Economica, 47(186),  pp. 125–39

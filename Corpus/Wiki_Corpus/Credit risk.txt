@@ -1,0 +1,102 @@
+Credit risk is the possibility of losing a lender holds due to a risk of default on a debt that may arise from a borrower failing to make required payments. In the first resort, the risk is that of the lender and includes lost principal and interest, disruption to cash flows, and increased collection costs. The loss may be complete or partial. In an efficient market, higher levels of credit risk will be associated with higher borrowing costs.  Because of this, measures of borrowing costs such as yield spreads can be used to infer credit risk levels based on assessments by market participants.
+Losses can arise in a number of circumstances, for example:
+
+A consumer may fail to make a payment due on a mortgage loan, credit card, line of credit, or other loan.
+A company is unable to repay asset-secured fixed or floating charge debt.
+A business or consumer does not pay a trade invoice when due.
+A business does not pay an employee's earned wages when due.
+A business or government bond issuer does not make a payment on a coupon or principal payment when due.
+An insolvent insurance company does not pay a policy obligation.
+An insolvent bank will not return funds to a depositor.
+A government grants bankruptcy protection to an insolvent consumer or business.To reduce the lender's credit risk, the lender may perform a credit check on the prospective borrower, may require the borrower to take out appropriate insurance, such as mortgage insurance, or seek security over some assets of the borrower or a guarantee from a third party. The lender can also take out insurance against the risk or on-sell the debt to another company. In general, the higher the risk, the higher will be the interest rate that the debtor will be asked to pay on the debt.
+Credit risk mainly arises when borrowers are unable or unwilling to pay.
+
+
+== Types ==
+A credit risk can be of the following types:
+Credit default risk – The risk of loss arising from a debtor being unlikely to pay its loan obligations in full or the debtor is more than 90 days past due on any material credit obligation; default risk may impact all credit-sensitive transactions, including loans, securities and derivatives.
+Concentration risk – The risk associated with any single exposure or group of exposures with the potential to produce large enough losses to threaten a bank's core operations. It may arise in the form of single-name concentration or industry concentration.
+Country risk – The risk of loss arising from a sovereign state freezing foreign currency payments (transfer/conversion risk) or when it defaults on its obligations (sovereign risk); this type of risk is prominently associated with the country's macroeconomic performance and its political stability.
+
+
+== Assessment ==
+
+Significant resources and sophisticated programs are used to analyze and manage risk. Some companies run a credit risk department whose job is to assess the financial health of their customers, and extend credit (or not) accordingly. They may use in-house programs to advise on avoiding, reducing and transferring risk. They also use the third party provided intelligence. Nationally recognized statistical rating organizations provide such information for a fee.
+For large companies with liquidly traded corporate bonds or Credit Default Swaps, bond yield spreads and credit default swap spreads indicate market participants assessments of credit risk and may be used as a reference point to price loans or trigger collateral calls.
+Most lenders employ their models (credit scorecards) to rank potential and existing customers according to risk, and then apply appropriate strategies. With products such as unsecured personal loans or mortgages, lenders charge a higher price for higher-risk customers and vice versa. With revolving products such as credit cards and overdrafts, the risk is controlled through the setting of credit limits. Some products also require collateral, usually an asset that is pledged to secure the repayment of the loan.Credit scoring models also form part of the framework used by banks or lending institutions to grant credit to clients. For corporate and commercial borrowers, these models generally have qualitative and quantitative sections outlining various aspects of the risk including, but not limited to, operating experience, management expertise, asset quality, and leverage and liquidity ratios, respectively. Once this information has been fully reviewed by credit officers and credit committees, the lender provides the funds subject to the terms and conditions presented within the contract (as outlined above).
+
+
+=== Sovereign risk ===
+Sovereign credit risk is the risk of a government being unwilling or unable to meet its loan obligations, or reneging on loans it guarantees. Many countries have faced sovereign risk in the late-2000s global recession. The existence of such risk means that creditors should take a two-stage decision process when deciding to lend to a firm based in a foreign country. Firstly one should consider the sovereign risk quality of the country and then consider the firm's credit quality.Five macroeconomic variables that affect the probability of sovereign debt rescheduling are:
+Debt service ratio
+Import ratio
+Investment ratio
+Variance of export revenue
+Domestic money supply growthThe probability of rescheduling is an increasing function of debt service ratio, import ratio, the variance of export revenue and domestic money supply growth. The likelihood of rescheduling is a decreasing function of investment ratio due to future economic productivity gains. Debt rescheduling likelihood can increase if the investment ratio rises as the foreign country could become less dependent on its external creditors and so be less concerned about receiving credit from these countries/investors.
+
+
+=== Counterparty risk ===
+A counterparty risk, also known as a default risk or counterparty credit risk (CCR), is a risk that a counterparty will not pay as obligated on a bond, derivative, insurance policy, or other contract. 
+Financial institutions or other transaction counterparties may hedge or take out credit insurance or, particularly in the context of derivatives, require the posting of collateral. 
+Offsetting counterparty risk is not always possible, e.g. because of temporary liquidity issues or longer-term systemic reasons. 
+Further, counterparty risk increases due to positively correlated risk factors; accounting for this correlation between portfolio risk factors and counterparty default in risk management methodology is not trivial.The capital requirement here is calculated using SA-CCR, the standardized approach for counterparty credit risk. This framework replaced both non-internal model approaches  -  Current Exposure Method (CEM) and Standardised Method (SM). It is a "risk-sensitive methodology", i.e. conscious of asset class and hedging, that differentiates between margined and non-margined trades and recognizes netting benefits; issues insufficiently addressed under the preceding frameworks.
+
+
+== Mitigation ==
+Lenders mitigate credit risk in a number of ways, including:
+
+Risk-based pricing – Lenders may charge a higher interest rate to borrowers who are more likely to default, a practice called risk-based pricing. Lenders consider factors relating to the loan such as loan purpose, credit rating, and loan-to-value ratio and estimates the effect on yield (credit spread).
+Covenants – Lenders may write stipulations on the borrower, called covenants, into loan agreements, such as:Periodically report its financial condition,
+Refrain from paying dividends, repurchasing shares, borrowing further, or other specific, voluntary actions that negatively affect the company's financial position, and
+Repay the loan in full, at the lender's request, in certain events such as changes in the borrower's debt-to-equity ratio or interest coverage ratio.
+Credit insurance and credit derivatives – Lenders and bond holders may hedge their credit risk by purchasing credit insurance or credit derivatives. These contracts transfer the risk from the lender to the seller (insurer) in exchange for payment. The most common credit derivative is the credit default swap.
+Tightening – Lenders can reduce credit risk by reducing the amount of credit extended, either in total or to certain borrowers. For example, a distributor selling its products to a troubled retailer may attempt to lessen credit risk by reducing payment terms from net 30  to net 15.
+Diversification – Lenders to a small number of borrowers (or kinds of borrower) face a high degree of unsystematic credit risk, called concentration risk. Lenders reduce this risk by diversifying the borrower pool.
+Deposit insurance – Governments may establish deposit insurance to guarantee bank deposits in the event of insolvency and to encourage consumers to hold their savings in the banking system instead of in cash.
+
+
+== Related acronyms ==
+ACPM Active credit portfolio management 
+CCR Counterparty Credit Risk
+CE Credit Exposure
+CVA Credit valuation adjustment
+DVA  Debit Valuation Adjustment – see XVA
+EAD Exposure at default
+EE Expected Exposure
+EL Expected loss
+LGD Loss given default
+PD Probability of default
+PFE Potential future exposure
+SA-CCR The Standardised Approach to Counterparty Credit Risk
+VAR Value at risk
+
+
+== See also ==
+Credit (finance)
+Default (finance)
+Distressed securities
+Jarrow–Turnbull model
+KMV model
+Merton model
+Criticism of credit scoring systems in the United States
+
+
+== References ==
+
+
+== Further reading ==
+Bluhm, Christian; Ludger Overbeck & Christoph Wagner (2002). An Introduction to Credit Risk Modeling. Chapman & Hall/CRC. ISBN 978-1-58488-326-5.
+Damiano Brigo and Massimo Masetti (2006). Risk Neutral Pricing of Counterparty Risk, in: Pykhtin, M. (Editor), Counterparty Credit Risk Modeling: Risk Management, Pricing and Regulation. Risk Books. ISBN 978-1-904339-76-2.
+Orlando, Giuseppe; Bufalo Michele; Penikas Henry; Zurlo Concetta (2022). Modern Financial Engineering: Counterparty, Credit, Portfolio and Systemic Risks. World Scientific. ISBN 978-981-125-235-8.
+de Servigny, Arnaud; Olivier Renault (2004). The Standard & Poor's Guide to Measuring and Managing Credit Risk. McGraw-Hill. ISBN 978-0-07-141755-6.
+Darrell Duffie and Kenneth J. Singleton (2003). Credit Risk: Pricing, Measurement, and Management. Princeton University Press. ISBN 978-0-691-09046-7.
+Principles for the management of credit risk from the Bank for International Settlements
+
+
+== External links ==
+Bank Management and Control, Springer Nature – Management for Professionals, 2020
+Credit Risk Modelling, - information on credit risk modelling and decision analytics
+A Guide to Modeling Counterparty Credit Risk –  SSRN Research Paper, July 2007
+Defaultrisk.com – research and white papers on credit risk modelling
+The Journal of Credit Risk publishes research on credit risk theory and practice.
+Soft Data Modeling Via Type 2 Fuzzy Distributions for Corporate Credit Risk Assessment in Commercial Banking SSRN Research Paper, July 2018

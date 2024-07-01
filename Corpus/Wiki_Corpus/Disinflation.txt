@@ -1,0 +1,39 @@
+Disinflation is a decrease in the rate of inflation – a slowdown in the rate of increase of the general price level of goods and services in a nation's gross domestic product over time. It is the opposite of reflation. 
+If the inflation rate is not very high to start with, disinflation can lead to deflation – decreases in the general price level of goods and services. For example if the annual inflation rate one month is 5% and it is 4% the following month, prices disinflated by 1% but are still increasing at a 4% annual rate. If the current rate is 1% and it is the -2% the following month, prices disinflated by 3% and are decreasing at a 2% annual rate.
+
+
+== Causes, characteristics, and an example ==
+There is widespread consensus among economists that inflation is caused by increases in the supply of money available for use in a nation's economy. Inflation can also occur when the economy 'overheats' because of excess aggregate demand (this is called demand-pull inflation). The causes of disinflation are the opposite, either a decrease in the growth rate of the money supply, or a business cycle contraction (recession). During a recession, competition among businesses for customers becomes more intense, and so retailers are no longer able to pass on higher prices to their customers.  In contrast, deflation occurs when prices are actually dropping.
+
+
+== Disinflation distinguished from deflation ==
+If disinflation continues until the inflation rate is zero, the economy enters a deflationary period, with decreasing general prices on all goods and services produced. An example of this happened during the month of October 2008, when U.S. consumer prices fell (deflation) by 1.01% but the overall annual inflation rate simply decreased (disinflation) from an annual rate of 4.94% to 3.66%.  So the distinction between deflation and disinflation at that point was simply one of which time period was being referring to, the monthly basis or the annual basis. Over the year, prices were up 3.66% while over the month prices were down 1.01%.  
+Deflation is a sustained decrease in the general price level (after Inflation drops below zero percent) resulting in a sustained increase in the real value of money and other monetary items. Money and other monetary items are worth more all the time during deflation as opposed to being worth less all the time during inflation. Deflation is negative inflation. 
+Disinflation is lower inflation. Prices are still rising during disinflation, but at a lower rate. The general price level still rises, but, at a slower rate resulting in a continued, but, lower rate of real value destruction in money and other monetary items. A lowering of inflation is not deflation but disinflation.
+Deflation means the general price level is not increasing at all, but, actually decreasing continuously and the internal functional currency – money - and other monetary items are worth more all the time. Deflation causes an increase in the real value of money and other monetary items. 
+Disinflation happens after a period of higher inflation in what are normally considered low inflation economies and is initially popularly confused with deflation. During disinflation many prominent prices, for example, oil, fuel, commodity, property and food prices are falling, but, the general price level is still actually rising, albeit at a much slower rate than during normal low inflation. When the slowing annual inflation rate moves lower and lower it eventually gets to a zero percent annual rate for maybe a month or two. When the general price level then continues to decline even further - below zero percent per annum - the economy moves from inflation to deflation: not just a slower increase in the general increasing price level as during disinflation but actually a sustained decrease in the general price level below zero percent per annum which causes an increase in the real value of money and other monetary items: the opposite of inflation or negative inflation.
+
+
+== See also ==
+Hyperinflation
+Stagflation
+Devaluation
+Chronic inflation
+Deflation
+
+
+== References ==
+
+
+== Further reading ==
+Meltzer, A.H. (2006), "From Inflation to More Inflation, Disinflation, and Low Inflation", American Economic Review, 96 (2): 185–188, doi:10.1257/000282806777211900, S2CID 3789479
+Goodfriend, M.; King, R.G. (2005), "The incredible Volcker disinflation", Journal of Monetary Economics, 52 (5): 981–1015, CiteSeerX 10.1.1.484.439, doi:10.1016/j.jmoneco.2005.07.001
+Calvo, G.A.; Celasun, O.Y.A.; Kumhof, M. (2003), "Inflation Inertia and Credible Disinflation-The Open Economy Case", NBER Working Paper No. 9557, doi:10.3386/w9557
+Siklos, P.L.; Waterloo, O.N.; Zhang, Y.; Ottawa, O.N. (2006), "Inflation, Disinflation, and Deflation in China: Identifying the Shocks Driving Inflation" (PDF), Western Economic Association Meetings in San Diego, California, and the Summer Workshop of the Hong Kong Institute for Monetary Research, archived from the original (PDF) on 2016-03-03, retrieved 2008-11-17Guillermo Calvo; Carlos A. Vegh (1999), "Inflation Stabilization and BOP Crisis in Developing Countries", NBER Working Paper No. 6925, doi:10.3386/w6925
+
+
+== External links ==
+Globalization and Global Disinflation by Kenneth Rogoff, at IMF.com
+What is Disinflation by Timothy McMahon, at InflationData.com
+http://www.voxeu.org/index.php?q=node/3025
+http://economia.unipv.it/pagp/pagine_personali/gascari/disiflation_msvsirr_may_2011.pdf

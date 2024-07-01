@@ -1,0 +1,289 @@
+The efficient-market hypothesis (EMH) is a hypothesis in financial economics that states that asset prices reflect all available information. A direct implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information.
+Because the EMH is formulated in terms of risk adjustment, it only makes testable predictions when coupled with a particular model of risk. As a result, research in financial economics since at least the 1990s has focused on market anomalies, that is, deviations from specific models of risk.The idea that financial market returns are difficult to predict goes back to Bachelier, Mandelbrot, and Samuelson, but is closely associated with Eugene Fama, in part due to his influential 1970 review of the theoretical and empirical research.  The EMH provides the basic logic for modern risk-based theories of asset prices, and frameworks such as consumption-based asset pricing and intermediary asset pricing can be thought of as the combination of a model of risk with the EMH.Many decades of empirical research on return predictability has found mixed evidence. Research in the 1950s and 1960s often found a lack of predictability (e.g. Ball and Brown 1968; Fama, Fisher, Jensen, and Roll 1969), yet the 1980s-2000s saw an explosion of discovered return predictors (e.g. Rosenberg, Reid, and Lanstein 1985; Campbell and Shiller 1988; Jegadeesh and Titman 1993).  Since the 2010s, studies have often found that return predictability has become more elusive, as predictability fails to work out-of-sample (Goyal and Welch 2008), or has been weakened by advances in trading technology and investor learning (Chordia, Subrahmanyam, and Tong 2014; McLean and Pontiff 2016; Martineau 2021).
+
+
+== Theoretical background ==
+Suppose that a piece of information about the value of a stock (say, about a future merger) is widely available to investors.  If the price of the stock does not already reflect that information, then investors can trade on it, thereby moving the price until the information is no longer useful for trading.
+Note that this thought experiment does not necessarily imply that stock prices are unpredictable. For example, suppose that the piece of information in question says that a financial crisis is likely to come soon.  Investors typically do not like to hold stocks during a financial crisis, and thus investors may sell stocks until the price drops enough so that the expected return compensates for this risk.
+How efficient markets are (and are not) linked to the random walk theory can be described through the fundamental theorem of asset pricing.  This theorem provides mathematical predictions regarding the price of a stock, assuming that there is no arbitrage, that is, assuming that there is no risk-free way to trade profitably.  Formally, if arbitrage is impossible, then the theorem predicts that the price of a stock is the discounted value of its future price and dividend:
+
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+        =
+        
+          E
+          
+            t
+          
+        
+        [
+        
+          M
+          
+            t
+            +
+            1
+          
+        
+        (
+        
+          P
+          
+            t
+            +
+            1
+          
+        
+        +
+        
+          D
+          
+            t
+            +
+            1
+          
+        
+        )
+        ]
+      
+    
+    {\displaystyle P_{t}=E_{t}[M_{t+1}(P_{t+1}+D_{t+1})]}
+  where 
+  
+    
+      
+        
+          E
+          
+            t
+          
+        
+      
+    
+    {\displaystyle E_{t}}
+   is the expected value given information at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  ,  
+  
+    
+      
+        
+          M
+          
+            t
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle M_{t+1}}
+   is the stochastic discount factor, and 
+  
+    
+      
+        
+          D
+          
+            t
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle D_{t+1}}
+  is the dividend the stock pays next period.
+Note that this equation does not generally imply a random walk.  However, if we assume the stochastic discount factor is constant and the time interval is short enough so that no dividend is being paid, we have
+
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+        =
+        M
+        
+          E
+          
+            t
+          
+        
+        [
+        
+          P
+          
+            t
+            +
+            1
+          
+        
+        ]
+      
+    
+    {\displaystyle P_{t}=ME_{t}[P_{t+1}]}
+  .Taking logs and assuming that the Jensen's inequality term is negligible, we have
+
+  
+    
+      
+        log
+        ⁡
+        
+          P
+          
+            t
+          
+        
+        =
+        log
+        ⁡
+        M
+        +
+        
+          E
+          
+            t
+          
+        
+        [
+        log
+        ⁡
+        
+          P
+          
+            t
+            +
+            1
+          
+        
+        ]
+      
+    
+    {\displaystyle \log P_{t}=\log M+E_{t}[\log P_{t+1}]}
+  which implies that the log of stock prices follows a random walk (with a drift).
+Although the concept of an efficient market is similar to the assumption that stock prices follow:
+
+  
+    
+      
+        E
+        [
+        
+          S
+          
+            t
+            +
+            1
+          
+        
+        
+          |
+        
+        
+          S
+          
+            t
+          
+        
+        ]
+        =
+        
+          S
+          
+            t
+          
+        
+      
+    
+    {\displaystyle E[S_{t+1}|S_{t}]=S_{t}}
+  
+which follows a martingale, the EMH does not always assume that stocks follow a martingale.
+
+
+== Empirical studies ==
+Research by Alfred Cowles in the 1930s and 1940s suggested that professional investors were in general unable to outperform the market.  During the 1930s-1950s empirical studies focused on time-series properties, and found that US stock prices and related financial series followed a random walk model in the short-term. While there is some predictability over the long-term, the extent to which this is due to rational time-varying risk premia as opposed to behavioral reasons is a subject of debate.  In their seminal paper, Fama, Fisher, Jensen, and Roll (1969) propose the event study methodology and show that stock prices on average react before a stock split, but have no movement afterwards.
+
+
+=== Weak, semi-strong, and strong-form tests ===
+In Fama's influential 1970 review paper, he categorized empirical tests of efficiency into "weak-form", "semi-strong-form", and "strong-form" tests.These categories of tests refer to the information set used in the statement "prices reflect all available information."  Weak-form tests study the information contained in historical prices.  Semi-strong form tests study information (beyond historical prices) which is publicly available.  Strong-form tests regard private information.
+
+
+== Historical background ==
+Benoit Mandelbrot claimed the efficient markets theory was first proposed by the French mathematician Louis Bachelier in 1900 in his PhD thesis "The Theory of Speculation" describing how prices of commodities and stocks varied in markets. It has been speculated that Bachelier drew ideas from the random walk model of Jules Regnault, but Bachelier did not cite him, and Bachelier's thesis is now considered pioneering in the field of financial mathematics. It is commonly thought that Bachelier's work gained little attention and was forgotten for decades until it was rediscovered in the 1950s by Leonard Savage, and then become more popular after Bachelier's thesis was translated into English in 1964. But the work was never forgotten in the mathematical community, as Bachelier published a book in 1912 detailing his ideas, which was cited by mathematicians including Joseph L. Doob, William Feller and Andrey Kolmogorov. The book continued to be cited, but then starting in the 1960s the original thesis by Bachelier began to be cited more than his book when economists started citing Bachelier's work.The concept of market efficiency had been anticipated at the beginning of the century in the dissertation submitted by Bachelier (1900) to the Sorbonne for his PhD in mathematics. In his opening paragraph, Bachelier recognizes that "past, present and even discounted future events are reflected in market price, but often show no apparent relation to price changes".The efficient markets theory was not popular until the 1960s when the advent of computers made it possible to compare calculations and prices of hundreds of stocks more quickly and effortlessly. In 1945, F.A. Hayek argued that markets were the most effective way of aggregating the pieces of information dispersed among individuals within a society. Given the ability to profit from private information, self-interested traders are motivated to acquire and act on their private information. In doing so, traders contribute to more and more efficient market prices. In the competitive limit, market prices reflect all available information and prices can only move in response to news. Thus there is a very close link between EMH and the random walk hypothesis.The efficient-market hypothesis emerged as a prominent theory in the mid-1960s. Paul Samuelson had begun to circulate Bachelier's work among economists. In 1964 Bachelier's dissertation along with the empirical studies mentioned above were published in an anthology edited by Paul Cootner. In 1965, Eugene Fama published his dissertation arguing for the random walk hypothesis. Also, Samuelson published a proof showing that if the market is efficient, prices will exhibit random-walk behavior. This is often cited in support of the efficient-market theory, by the method of affirming the consequent, however in that same paper, Samuelson warns against such backward reasoning, saying "From a nonempirical base of axioms you never get empirical results." In 1970, Fama published a review of both the theory and the evidence for the hypothesis. The paper extended and refined the theory, included the definitions for three forms of financial market efficiency: weak, semi-strong and strong (see above).
+
+
+== Criticism ==
+Investors, including the likes of Warren Buffett, George Soros, and researchers have disputed the efficient-market hypothesis both empirically and theoretically. Behavioral economists attribute the imperfections in financial markets to a combination of cognitive biases such as overconfidence, overreaction, representative bias, information bias, and various other predictable human errors in reasoning and information processing. These have been researched by psychologists such as Daniel Kahneman, Amos Tversky and Paul Slovic and economist Richard Thaler.
+Empirical evidence has been mixed, but has generally not supported strong forms of the efficient-market hypothesis. According to Dreman and Berry, in a 1995 paper, low P/E (price-to-earnings) stocks have greater returns. In an earlier paper, Dreman also refuted the assertion by Ray Ball that these higher returns could be attributed to higher beta,; Dreman's research had been accepted by efficient market theorists as explaining the anomaly in neat accordance with modern portfolio theory.
+
+
+=== Behavioral psychology ===
+Behavioral psychology approaches to stock market trading are among some of the more promising alternatives to EMH (investment strategies such as momentum trading seek to exploit exactly such inefficiencies). But Nobel Laureate co-founder of the programme Daniel Kahneman —announced his skepticism of investors beating the market: "They're just not going to do it. It's just not going to happen." Indeed, defenders of EMH maintain that Behavioral Finance strengthens the case for EMH in that it highlights biases in individuals and committees and not competitive markets. For example, one prominent finding in Behavioral Finance is that individuals employ hyperbolic discounting. It is demonstrably true that bonds, mortgages, annuities and other similar obligations subject to competitive market forces do not. Any manifestation of hyperbolic discounting in the pricing of these obligations would invite arbitrage thereby quickly eliminating any vestige of individual biases. Similarly, diversification, derivative securities and other hedging strategies assuage if not eliminate potential mispricings from the severe risk-intolerance (loss aversion) of individuals underscored by behavioral finance. On the other hand, economists, behavioral psychologists and mutual fund managers are drawn from the human population and are therefore subject to the biases that behavioralists showcase. By contrast, the price signals in markets are far less subject to individual biases highlighted by the Behavioral Finance programme. Richard Thaler has started a fund based on his research on cognitive biases. In a 2008 report he identified complexity and herd behavior as central to the global financial crisis of 2008.Further empirical work has highlighted the impact transaction costs have on the concept of market efficiency, with much evidence suggesting that any anomalies pertaining to market inefficiencies are the result of a cost benefit analysis made by those willing to incur the cost of acquiring the valuable information in order to trade on it. Additionally, the concept of liquidity is a critical component to capturing "inefficiencies" in tests for abnormal returns. Any test of this proposition faces the joint hypothesis problem, where it is impossible to ever test for market efficiency, since to do so requires the use of a measuring stick against which abnormal returns are compared —one cannot know if the market is efficient if one does not know if a model correctly stipulates the required rate of return. Consequently, a situation arises where either the asset pricing model is incorrect or the market is inefficient, but one has no way of knowing which is the case.The performance of stock markets is correlated with the amount of sunshine in the city where the main exchange is located.
+
+
+=== EMH anomalies and rejection of the Capital Asset Pricing Model (CAPM) ===
+While event studies of stock splits are consistent with the EMH (Fama, Fisher, Jensen, and Roll, 1969), other empirical analyses have found problems with the efficient-market hypothesis. Early examples include the observation that small neglected stocks and stocks with high book-to-market (low price-to-book) ratios (value stocks) tended to achieve abnormally high returns relative to what could be explained by the CAPM. Further tests of portfolio efficiency by Gibbons, Ross and Shanken (1989) (GJR) led to rejections of the CAPM, although tests of efficiency inevitably run into the joint hypothesis problem (see Roll's critique).
+Following GJR's results and mounting empirical evidence of EMH anomalies, academics began to move away from the CAPM towards risk factor models such as the Fama-French 3 factor model. These risk factor models are not properly founded on economic theory (whereas CAPM is founded on Modern Portfolio Theory), but rather, constructed with long-short portfolios in response to the observed empirical EMH anomalies. For instance, the "small-minus-big" (SMB) factor in the FF3 factor model is simply a portfolio that holds long positions on small stocks and short positions on large stocks to mimic the risks small stocks face. These risk factors are said to represent some aspect or dimension of undiversifiable systematic risk which should be compensated with higher expected returns. Additional popular risk factors include the "HML" value factor (Fama and French, 1993); "MOM" momentum factor (Carhart, 1997); "ILLIQ" liquidity factors (Amihud et al. 2002). See also Robert Haugen.
+
+
+=== View of some journalists, economists, and investors ===
+Economists Matthew Bishop and Michael Green claim that full acceptance of the hypothesis goes against the thinking of Adam Smith and John Maynard Keynes, who both believed irrational behavior had a real impact on the markets.Economist John Quiggin has claimed that "Bitcoin is perhaps the finest example of a pure bubble", and that it provides a conclusive refutation of EMH. While other assets that have been used as currency (such as gold, tobacco) have value or utility independent of people's willingness to accept them as payment, Quiggin argues that "in the case of Bitcoin there is no source of value whatsoever" and thus Bitcoin should be priced at zero or worthless.
+Tshilidzi Marwala surmised that artificial intelligence (AI) influences the applicability of the efficient market hypothesis in that the greater amount of AI-based market participants, the more efficient the markets become.Warren Buffett has also argued against EMH, most notably in his 1984 presentation "The Superinvestors of Graham-and-Doddsville". He says preponderance of value investors among the world's money managers with the highest rates of performance rebuts the claim of EMH proponents that luck is the reason some investors appear more successful than others. Nonetheless, Buffett has recommended index funds that aim to track average market returns for most investors. Buffett's business partner Charlie Munger has stated the EMH is "obviously roughly correct", in that a hypothetical average investor will tend towards average results "and it's quite hard for anybody to [consistently] beat the market by significant margins". However, Munger also believes "extreme" commitment to the EMH is "bonkers", as the theory's originators were seduced by an "intellectually consistent theory that allowed them to do pretty mathematics [yet] the fundamentals did not properly tie to reality."Burton Malkiel in his A Random Walk Down Wall Street (1973) argues that "the preponderance of statistical evidence" supports EMH, but admits there are enough "gremlins lurking about" in the data to prevent EMH from being conclusively proved.
+In his book The Reformation in Economics, economist and financial analyst Philip Pilkington has argued that the EMH is actually a tautology masquerading as a theory. He argues that, taken at face value, the theory makes the banal claim that the average investor will not beat the market average—which is a tautology. When pressed on this point, Pinkington argues that EMH proponents will usually say that any actual investor will converge with the average investor given enough time and so no investor will beat the market average. But Pilkington points out that when proponents of the theory are presented with evidence that a small minority of investors do, in fact, beat the market over the long-run, these proponents then say that these investors were simply 'lucky'. Pilkington argues that introducing the idea that anyone who diverges from the theory is simply 'lucky' insulates the theory from falsification and so, drawing on the philosopher of science and critic of neoclassical economics Hans Albert, Pilkington argues that the theory falls back into being a tautology or a pseudoscientific construct.Nobel Prize-winning economist Paul Samuelson argued that the stock market is "micro efficient" but not "macro efficient": the EMH is much better suited for individual stocks than it is for the aggregate stock market as a whole. Research based on regression and scatter diagrams, published in 2005, has strongly supported Samuelson's dictum.Peter Lynch, a mutual fund manager at Fidelity Investments who consistently more than doubled market averages while managing the Magellan Fund, has argued that the EMH is contradictory to the random walk hypothesis—though both concepts are widely taught in business schools without seeming awareness of a contradiction. If asset prices are rational and based on all available data as the efficient market hypothesis proposes, then fluctuations in asset price are not random. But if the random walk hypothesis is valid, then asset prices are not rational.Joel Tillinghast, also a fund manager at Fidelity with a long history of outperforming a benchmark, has written that the core arguments of the EMH are "more true than not" and he accepts a "sloppy" version of the theory allowing for a margin of error. But he also contends the EMH is not completely accurate or accurate in all cases, given the recurrent existence of economic bubbles (when some assets are dramatically overpriced) and the fact that value investors (who focus on underpriced assets) have tended to outperform the broader market over long periods. Tillinghast also asserts that even staunch EMH proponents will admit weaknesses to the theory when assets are significantly over- or under-priced, such as double or half their value according to fundamental analysis.
+In a 2012 book, investor Jack Schwager argues the EMH is "right for the wrong reasons". He agrees it is "very difficult" to consistently beat average market returns, but contends it's not due to how information is distributed more or less instantly to all market participants. Information may be distributed more or less instantly, but Schwager proposes information may not be interpreted or applied in the same way by different people and skill may play a factor in how information is used. Schwager argues markets are difficult to beat because of the unpredictable and sometimes irrational behavior of humans who buy and sell assets in the stock market. Schwager also cites several instances of mispricing that he contends are impossible according to a strict or strong interpretation of the EMH.
+
+
+=== Late 2000s financial crisis ===
+The financial crisis of 2007–08 led to renewed scrutiny and criticism of the hypothesis. Market strategist Jeremy Grantham said the EMH was responsible for the current financial crisis, claiming that belief in the hypothesis caused financial leaders to have a "chronic underestimation of the dangers of asset bubbles breaking". Financial journalist Roger Lowenstein said "The upside of the current Great Recession is that it could drive a stake through the heart of the academic nostrum known as the efficient-market hypothesis." Former Federal Reserve chairman Paul Volcker said "It should be clear that among the causes of the recent financial crisis was an unjustified faith in rational expectations, market efficiencies, and the techniques of modern finance." One financial analyst said "By 2007–2009, you had to be a fanatic to believe in the literal truth of the EMH."At the International Organization of Securities Commissions annual conference, held in June 2009, the hypothesis took center stage. Martin Wolf, the chief economics commentator for the Financial Times, dismissed the hypothesis as being a useless way to examine how markets function in reality. Economist Paul McCulley said the hypothesis had not failed, but was "seriously flawed" in its neglect of human nature.The financial crisis led economics scholar Richard Posner to back away from the hypothesis. Posner accused some of his Chicago School colleagues of being "asleep at the switch", saying that "the movement to deregulate the financial industry went too far by exaggerating the resilience—the self healing powers—of laissez-faire capitalism." Others, such as economist and Nobel laurete Eugene Fama, said that the hypothesis held up well during the crisis: "Stock prices typically decline prior to a recession and in a state of recession. This was a particularly severe recession. Prices started to decline in advance of when people recognized that it was a recession and then continued to decline. That was exactly what you would expect if markets are efficient." Despite this, Fama said that "poorly informed investors could theoretically lead the market astray" and that stock prices could become "somewhat irrational" as a result.
+
+
+== Efficient markets applied in securities class action litigation ==
+The theory of efficient markets has been practically applied in the field of Securities Class Action Litigation. Efficient market theory, in conjunction with "fraud-on-the-market theory", has been used in Securities Class Action Litigation to both justify and as mechanism for the calculation of damages. In the Supreme Court Case, Halliburton v. Erica P. John Fund, U.S. Supreme Court, No. 13-317, the use of efficient market theory in supporting securities class action litigation was affirmed. Supreme Court Justice Roberts wrote that "the court's ruling was consistent with the ruling in 'Basic' because it allows 'direct evidence when such evidence is available' instead of relying exclusively on the efficient markets theory."
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Bogle, John (1994). Bogle on Mutual Funds: New Perspectives for the Intelligent Investor, Dell, ISBN 0-440-50682-4
+Cowles, Alfred; H. Jones (1937). "Some A Posteriori Probabilities in Stock Market Action". Econometrica. 5 (3): 280–294. doi:10.2307/1905515. JSTOR 1905515. S2CID 11590069.
+Kendall, Maurice (1942). "The Analysis of Economic Time Series". Journal of the Royal Statistical Society. 96 (3803): 11–25. Bibcode:1942Natur.150..335B. doi:10.1038/150335a0. S2CID 40937750.
+Khan, Arshad M. (1986). "Conformity with Large Speculators: A Test of Efficiency in the Grain Futures Market". Atlantic Economic Journal. 14 (3): 51–55. doi:10.1007/BF02304624. S2CID 153442462.
+Lo, Andrew and MacKinlay, Craig (2001). A Non-random Walk Down Wall St. Princeton Paperbacks
+Malkiel, Burton G. (1987). "efficient market hypothesis," The New Palgrave: A Dictionary of Economics, v. 2, pp. 120–23.
+Malkiel, Burton G. (1996). A Random Walk Down Wall Street, W. W. Norton, ISBN 0-393-03888-2
+Pilkington, P (2017). The Reformation in Economics: A Deconstruction and Reconstruction of Economic Theory. Palgrave Macmillan.
+Samuelson, Paul (1972). "Proof That Properly Anticipated Prices Fluctuate Randomly." Industrial Management Review, Vol. 6, No. 2, pp. 41–49. Reproduced as Chapter 198 in Samuelson, Collected Scientific Papers, Volume III, Cambridge, M.I.T. Press.
+Sharpe, William F. "The Arithmetic of Active Management"
+Working, Holbrook (1960). "Note on the Correlation of First Differences of Averages in a Random Chain". Econometrica. 28 (4): 916–918. doi:10.2307/1907574. JSTOR 1907574.
+Martineau, Charles (2021). "Rest in Peace Post-Earnings Announcement Drift". Critical Finance Review, Forthcoming.
+
+
+== External links ==
+e-m-h.org
+"Earnings Quality and the Equity Risk Premium: A Benchmark Model" abstract from Contemporary Accounting Research
+"The Persistence of Pricing Inefficiencies in the Stock Markets of the Eastern European EU Nations" abstract from Economic and Business Review
+"As The Index Fund Moves from Heresy to Dogma . . . What More Do We Need To Know?" Remarks by John Bogle on the superior returns of passively managed index funds.
+Proof That Properly Discounted Present Values of Assets Vibrate Randomly Paul Samuelson
+Human Behavior and the Efficiency of the Financial System (1999) by Robert J. Shiller Handbook of Macroeconomics

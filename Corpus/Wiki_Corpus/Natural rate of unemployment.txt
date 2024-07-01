@@ -1,0 +1,44 @@
+The natural rate of unemployment is the name that was given to a key concept in the study of economic activity. Milton Friedman and Edmund Phelps, tackling this 'human' problem in the 1960s, both received the Nobel Memorial Prize in Economic Sciences for their work, and the development of the concept is cited as a main motivation behind the prize. A simplistic summary of the concept is: 'The natural rate of unemployment, when an economy is in a steady state of "full employment", is the proportion of the workforce who are unemployed'. Put another way, this concept clarifies that the economic term "full employment" does not mean "zero unemployment".  It represents the hypothetical unemployment rate consistent with aggregate production being at the "long-run" level. This level is consistent with aggregate production in the absence of various temporary frictions such as incomplete price adjustment in labor and goods markets. The natural rate of unemployment therefore corresponds to the unemployment rate prevailing under a classical view of determination of activity.
+The natural unemployment rate is mainly determined by the economy's supply side, and hence production possibilities and economic institutions. If these institutional features involve permanent mismatches in the labor market or real wage rigidities, the natural rate of unemployment may feature involuntary unemployment. The natural rate of unemployment is a combination of frictional and structural unemployment that persists in an efficient, expanding economy when labor and resource markets are in equilibrium.
+Occurrence of disturbances (e.g., cyclical shifts in investment sentiments) will cause actual unemployment to continuously deviate from the natural rate, and be partly determined by aggregate demand factors as under a Keynesian view of output determination. The policy implication is that the natural rate of unemployment cannot permanently be reduced by demand management policies (including monetary policy), but that such policies can play a role in stabilizing variations in actual unemployment.
+Reductions in the natural rate of unemployment must, according to the concept, be achieved through structural policies directed towards an economy's supply side. According to multiple surveys, two-thirds to three-quarters of economists generally agree with the statement, "There is a natural rate of unemployment to which the economy tends in the long run."
+
+
+== Development ==
+While Friedrich von Hayek had argued attempts to create full employment might trigger uncontrollable inflation, and David Hume noted that increases to the money supply would raise the price of labour as early as 1752, the classic statement regarding the natural rate appeared in Milton Friedman's 1968 Presidential Address to the American Economic Association:
+"At any moment of time, there is some level of unemployment which has the property that it is consistent with equilibrium in the structure of real wages ... The 'natural rate of unemployment' ... is the level that would be ground out by the Walrasian system of general equilibrium equations, provided there is embedded in them the actual structural characteristics of the labour and commodity markets, including market imperfections, stochastic variability in demands and supplies, the costs of gathering information about job vacancies, and labor availabilities, the costs of mobility, and so on."However, this remained a vision – Friedman never wrote down a model with all of these properties. When he illustrated the idea of the Natural Rate he simply used the standard text-book labor market demand and supply model  that was essentially the same as Don Patinkin's model of full employment. In this there is a competitive labor market with both labor supply and demand depend on the real wage and the natural rate is simply the competitive equilibrium where demand equals supply.  Implicit in his vision is the notion that the natural rate is Unique: there is only one level of output and employment that is consistent with equilibrium.
+
+
+== Phillips curve ==
+Milton Friedman argued that a natural rate of inflation followed from the Phillips curve. This showed wages tend to rise when unemployment is low. Friedman argued that inflation was the same as wage rises, and built his argument upon a widely believed idea, that a stable negative relation between inflation and unemployment existed. This belief had the policy implication that unemployment could be permanently reduced by expansive demand policy and thus higher inflation.Friedman and Phelps opposed this idea on theoretical grounds, as they noted that if unemployment were to be permanently lower, some real variable in the economy, like the real wage, would have changed permanently. That this should be the case because inflation was higher appeared to rely on systematic irrationality in the labor market. As Friedman remarked, wage inflation would eventually catch up and leave the real wage, and unemployment, unchanged. Hence, lower unemployment could only be attained as long as wage inflation and inflation expectations lagged behind actual inflation. This was seen to be only a temporary outcome. Eventually, unemployment would return to the rate determined by real factors independent of the inflation rate. According to Friedman and Phelps, the Phillips curve was therefore vertical in the long run, and expansive demand policies would only be a cause of inflation, not a cause of permanently lower unemployment.
+Milton Friedman emphasized expectations errors as the main cause of deviation in unemployment from the natural rate. For Friedman, the notion that there was a unique Natural rate was equivalent to his assertion that there is only one level of unemployment at which inflation can be fully anticipated (when actual and expected inflation are the same). Edmund Phelps focused more in detail on the labor market structures and frictions that would cause aggregate demand changes to feed into inflation, and for sluggish expectations, into the determination of the unemployment rate. Also, his theories gave insights into the causes of a too high natural rate of unemployment (i.e., why unemployment could be structural or classical).
+
+
+== Criticisms ==
+The major criticism of a natural rate is that there is no credible evidence for it, as Milton Friedman himself said we "cannot know what the 'natural' rate is". The natural rate hypothesis makes the fundamental assumption that there exists a unique equilibrium level of unemployment. Importantly, Friedman himself never wrote down an explicit model of the natural rate; in his Nobel Lecture, he just uses the simple labor supply and demand model. Others have argued that there might be multiple equilibria, for example due to search externalities as in the Diamond coconut model or that there might exist a natural range of unemployment levels rather than a unique equilibrium. According to Roger Farmer of UCLA, the assumption that, after a shock, the unemployment rate returns to its natural rate does not hold in the data.
+
+
+== See also ==
+Classical dichotomy
+Diamond coconut model
+Frictional unemployment
+NAIRU
+NAIBER
+Phillips curve
+Reserve army of labour
+
+
+== Notes ==
+
+
+== References ==
+K Clark and L Summers, ‘Labour Force Participation: Timing and Persistence’ (1982) 49(5) Review of Economic Studies 825
+M Friedman, ‘The Role of Monetary Policy’ (1968) 58(1) American Economic Review 1
+SP Hargreaves Heap, ‘Choosing the Wrong ‘Natural’ Rate: Accelerating Inflation or Decelerating Employment and Growth?’ (1980) 90(359) Economic Journal 611.
+FA Hayek, ‘Full Employment, Planning and Inflation’ (1950) 4(6) Institute of Public Affairs Review 174
+E McGaughey, 'Will Robots Automate Your Job Away? Full Employment, Basic Income, and Economic Democracy' (2018) SSRN, part 2(1)
+
+
+== External links ==
+U.S. Natural Rate of Unemployment (Long-Term), 1949–present
+U.S. Natural Rate of Unemployment (Short-Term), 1949–present

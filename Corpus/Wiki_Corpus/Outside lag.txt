@@ -1,0 +1,17 @@
+In economics, the outside lag is the amount of time it takes for a government or central bank's actions, in the form of either monetary or fiscal policy, to have a noticeable effect on the economy. Its converse is the inside lag, the amount of time it takes the policy authority to recognize that a situation calls for a policy response and to decide on that response and implement it.
+The outside lag can be a major problem, and must be taken into account in deciding what expansionary or contractionary policy actions to implement and, indeed, whether to implement any at all. 
+
+
+== Long lags ==
+Suppose, for example, that the main thrust of a policy action's effects on the economy is expected to be felt 20 months after the policy action is taken. Then any action chosen to be implemented now would have to be in response not to the economic situation now, but rather the economic situation that is predicted to prevail 20 months from now; since economic prediction is very difficult, active use of monetary or fiscal policy could actually have a destabilizing effect, an example of the law of unintended consequences.
+
+
+== Variable lags ==
+In addition to the outside lag possibly being problematically long, it may also be variable: even though the last time a similar policy was implemented it hit the economy primarily after say 20 months, this time the outside lag may be only 10 months, or it may be 30 months. Again this could lead to the economy being stimulated when it needs to be cooled down, or vice versa.
+
+
+== Distributed lags ==
+Finally, the outside lag may be distributed through time: Perhaps, for example, one third of a policy action's effects will be felt during the first 10 months, one third during the next 10 months, and one third during the 10 months after that. Deciding what policy action if any to implement now is greatly complicated by the prospect of such a distributed effect.
+
+
+== References ==

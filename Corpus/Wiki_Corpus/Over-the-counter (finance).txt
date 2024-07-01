@@ -1,0 +1,44 @@
+Over-the-counter (OTC) or off-exchange trading or pink sheet trading is done directly between two parties, without the supervision of an exchange. It is contrasted with exchange trading, which occurs via exchanges. A stock exchange has the benefit of facilitating liquidity, providing transparency, and maintaining the current market price. In an OTC trade, the price is not necessarily publicly disclosed.
+OTC trading, as well as exchange trading, occurs with commodities, financial instruments (including stocks), and derivatives of such products. Products traded on traditional stock exchanges, and other regulated bourse platforms, must be well standardized. This means that exchanged deliverables match a narrow range of quantity, quality, and identity which is defined by the exchange and identical to all transactions of that product. This is necessary for there to be transparency in stock exchange-based equities trading. 
+The OTC market does not have this limitation. Parties may agree on an unusual quantity, for example. In OTC, market contracts are bilateral (i.e. the contract is only between two parties), and each party could have credit risk concerns with respect to the other party. The OTC derivative market is significant in some asset classes: interest rate, foreign exchange, stocks, and commodities.In 2008, approximately 16 percent of all U.S. stock trades were "off-exchange trading"; by April 2014, that number increased to about 40 percent. Although the notional amount outstanding of OTC derivatives in late 2012 had declined 3.3% over the previous year, the volume of cleared transactions at the end of 2012 totalled US$346.4 trillion. The Bank for International Settlements statistics on OTC derivatives markets showed that "notional amounts outstanding totalled $693 trillion at the end of June 2013... The gross market value of OTC derivatives – that is, the cost of replacing all outstanding contracts at current market prices – declined between end-2012 and end-June 2013, from $25 trillion to $20 trillion."
+
+
+== Stocks ==
+
+In the United States, over-the-counter trading in stock is carried out by market makers using inter-dealer quotation services such as OTC Link (a service offered by OTC Markets Group).
+Although exchange-listed stocks can be traded OTC on the third market, it is rarely the case. Usually OTC stocks are not listed nor traded on exchanges, and vice versa. Stocks quoted on the OTCBB must comply with certain limited U.S. Securities and Exchange Commission (SEC) reporting requirements. 
+The SEC imposes more stringent financial and reporting requirements on other OTC stocks, specifically the OTCQX stocks (traded through the OTC Market Group Inc). Other OTC stocks have no reporting requirements, for example Pink Sheets securities and "gray market" stocks. However, in 2021, the pink sheets market came under the spotlight of greater regulatory scrutiny.Some companies, with Wal-Mart as one of the largest, began trading as OTC stocks and eventually upgraded to a listing on fully regulated market. By 1969 Wal-Mart Stores Inc. was incorporated. In 1972, with stores in five states, including Arkansas, Kansas, Louisiana, Oklahoma and Missouri, Wal-Mart began trading as over-the-counter (OTC) stocks. By 1972 Walmart had earned over US$1 billion in sales — the fastest company to ever accomplish this. In 1972 Wal-Mart was listed on the New York Stock Exchange (NYSE) under the ticker symbol WMT.In Kiplinger in 2017, Dan Burrows wrote that American OTC markets are rife with penny stock fraud and other risks, and should generally be avoided by investors "with the exception of large, established foreign firms". Reputable companies located outside the U.S., he notes, sometimes sell stock over-the-counter to gain access to American markets while avoiding the expense of keeping two sets of audited paperwork to be listed on multiple stock exchanges (one in their homeland or to international standards, and one for American standards).
+
+
+== Contracts ==
+An over-the-counter is a bilateral contract in which two parties (or their brokers or bankers as intermediaries) agree on how a particular trade or agreement is to be settled in the future. It is usually from an investment bank to its clients directly. Forwards and swaps are prime examples of such contracts. It is mostly done online or by telephone. For derivatives, these agreements are usually governed by an International Swaps and Derivatives Association agreement. This segment of the OTC market is occasionally referred to as the "Fourth Market". Critics have labelled the OTC market as the "dark market" because prices are often unpublished and unregulated.Over-the-counter derivatives are especially important for hedging risk in that they can be used to create a "perfect hedge". With exchange traded contracts, standardization does not allow for as much flexibility to hedge risk because the contract is a one-size-fits-all instrument. With OTC derivatives, though, a firm can tailor the contract specifications to best suit its risk exposure.
+
+
+== Counterparty risk ==
+OTC derivatives can lead to significant risks. Especially counterparty risk has gained particular emphasis due to the credit crisis in 2007. Counterparty risk is the risk that a counterparty in a derivatives transaction will default prior to expiration of the trade and will not make the current and future payments required by the contract. There are many ways to limit counterparty risk. One of them focuses on controlling credit exposure with diversification, netting, collateralisation and hedging. Central counterparty clearing of OTC trades has become more common in recent years, with regulators placing pressure on the OTC markets to clear and display trades openly.In their market review published in 2010 the International Swaps and Derivatives Association examined OTC Derivative Bilateral Collateralization Practice as one way of mitigating risk.
+
+
+== Importance of OTC derivatives in modern banking ==
+OTC derivatives are a significant part of the world of global finance. The OTC derivatives markets grew exponentially from 1980 through 2000. This expansion has been driven by interest rate products, foreign exchange instruments and credit default swaps. The notional outstanding of OTC derivatives markets rose throughout the period and totalled approximately US$601 trillion at December 31, 2010.In their 2000 paper by Schinasi et al. published by the International Monetary Fund in 2001, the authors observed that the increase in OTC derivatives transactions would have been impossible "without the dramatic advances in information and computer technologies" that occurred from 1980 to 2000. During that time, major internationally active financial institutions significantly increased the share of their earnings from derivatives activities. These institutions manage portfolios of derivatives involving tens of thousands of positions and aggregate global turnover over $1 trillion. At that time prior to the financial crisis of 2008, the OTC market was an informal network of bilateral counter-party relationships and dynamic, time-varying credit exposures whose size and distribution tied to important asset markets. International financial institutions increasingly nurtured the ability to profit from OTC derivatives activities and financial markets participants benefitted from them. In 2000 the authors acknowledged that the growth in OTC transactions "in many ways made possible, the modernization of commercial and investment banking and the globalization of finance". However, in September, an IMF team led by Mathieson and Schinasi cautioned that "episodes of turbulence" in the late 1990s "revealed the risks posed to market stability originated in features of OTC derivatives instruments and markets.
+
+
+== See also ==
+Collateral management
+Dark liquidity
+Delta one
+London Platinum and Palladium Market
+Special settlement (securities)
+
+
+== Notes ==
+
+
+== Citations ==
+
+
+== References ==
+
+
+== External links ==
+European Union proposals on derivatives regulation - 2008 onwards
+Understanding Derivatives: Markets and Infrastructure – Chapter 3, Over-the-Counter Derivatives By Richard Heckinger, Ivana Ruffini, and Kirstin Wells (Federal Reserve Bank of Chicago)

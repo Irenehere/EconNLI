@@ -1,0 +1,28 @@
+In finance, volatility clustering refers to the observation, first noted by Mandelbrot (1963), that "large changes tend to be followed by large changes, of either sign, and small changes tend to be followed by small changes." A quantitative manifestation of this fact is that, while returns themselves are uncorrelated, absolute returns 
+  
+    
+      
+        
+          |
+        
+        
+          r
+          
+            t
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |r_{t}|}
+   or their squares display a positive, significant and slowly decaying autocorrelation function: corr(|rt|, |rt+τ |) > 0 for τ ranging from a few minutes to several weeks. This empirical property has been documented in the 90's by Granger and Ding (1993)  and Ding and Granger (1996) among others; see also. Some studies point further to long-range dependence in volatility time series, see Ding, Granger and Engle (1993) and Barndorff-Nielsen and Shephard.Observations of this type in financial time series go against simple random walk models and have led to the use of GARCH models and mean-reverting stochastic volatility models in financial forecasting and derivatives pricing. The ARCH (Engle, 1982) and GARCH (Bollerslev, 1986) models aim to more accurately describe the phenomenon of volatility clustering and related effects such as kurtosis. The main idea behind these two models is that volatility is dependent upon past realizations of the asset process and related volatility process. This is a more precise formulation of the intuition that asset volatility tends to revert to some mean rather than remaining constant or moving in monotonic fashion over time.
+
+
+== See also ==
+GARCH
+Stochastic volatility
+
+
+== References ==

@@ -1,0 +1,531 @@
+Consumption is the act of using resources to satisfy current needs and wants. It is seen in contrast to investing, which is spending for acquisition of future income. Consumption is a major concept in economics and is also studied in many other social sciences.
+Different schools of economists define consumption differently. According to mainstream economists, only the final purchase of newly produced goods and services by individuals for immediate use constitutes consumption, while other types of expenditure — in particular, fixed investment, intermediate consumption, and government spending — are placed in separate categories (see consumer choice). Other economists define consumption much more broadly, as the aggregate of all economic activity that does not entail the design, production and marketing of goods and services (e.g., the selection, adoption, use, disposal and recycling of goods and services).Economists are particularly interested in the relationship between consumption and income, as modelled with the consumption function. A similar realist structural view can be found in consumption theory, which views the Fisherian intertemporal choice framework as the real structure of the consumption function. Unlike the passive strategy of structure embodied in inductive structural realism, economists define structure in terms of its invariance under intervention.
+
+
+== Behavioural economics, Keynesian consumption function ==
+
+The Keynesian consumption function is also known as the absolute income hypothesis, as it only bases consumption on current income and ignores potential future income (or lack of). Criticism of this assumption led to the development of Milton Friedman's permanent income hypothesis and Franco Modigliani's life cycle hypothesis.
+More recent theoretical approaches are based on behavioural economics and suggest that a number of behavioural principles can be taken as microeconomic foundations for a behaviourally-based aggregate consumption function.Behavioural economics also adopts and explains several human behavioural traits within the constraint of the standard economic model. These include bounded rationality, bounded willpower, and bounded selfishness.Bounded rationality was first proposed by Herbert Simon. This means that people sometimes respond rationally to their own cognitive limits, which aimed to minimize the sum of the costs of decision making and the costs of error. In addition, bounded willpower refers to the fact that people often take actions that they know are in conflict with their long-term interests. For example, most smokers would rather not smoke, and many smokers willing to pay for a drug or a program to help them quit. Finally, bounded self-interest refers to an essential fact about the utility function of a large part of people: under certain circumstances, they care about others or act as if they care about others, even strangers.
+
+
+== Consumption and household production ==
+Aggregate consumption is a component of aggregate demand.Consumption is defined in part by comparison to production.
+In the tradition of the Columbia School of Household Economics, also known as the New Home Economics, commercial consumption has to be analyzed in the context of household production. The opportunity cost of time affects the cost of home-produced substitutes and therefore demand for commercial goods and services. The elasticity of demand for consumption goods is also a function of who performs chores in households and how their spouses compensate them for opportunity costs of home production.Different schools of economists define production and consumption differently. According to mainstream economists, only the final purchase of goods and services by individuals constitutes consumption, while other types of expenditure — in particular, fixed investment, intermediate consumption, and government spending — are placed in separate categories (See consumer choice). Other economists define consumption much more broadly, as the aggregate of all economic activity that does not entail the design, production and marketing of goods and services (e.g., the selection, adoption, use, disposal and recycling of goods and services).Consumption can also be measured in a variety of different ways such as energy in energy economics metrics.
+
+
+== Consumption as part of GDP ==
+GDP (Gross domestic product) is defined via this formula:
+  
+    
+      
+        Y
+        =
+        C
+        +
+        G
+        +
+        I
+        +
+        N
+        X
+      
+    
+    {\displaystyle Y=C+G+I+NX}
+  
+Where 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   stands for consumption.
+Where 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   stands for total government spending. (including salaries)
+Where 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   stands for Investments.
+Where 
+  
+    
+      
+        N
+        X
+      
+    
+    {\displaystyle NX}
+   stands for net exports. Net exports are exports minus imports.
+In most countries consumption is the most important part of GDP. It usually ranges from 45% from GDP to 85% of GDP.
+
+
+== Consumption in microeconomics ==
+In microeconomics, consumer choice is a theory that assumes that people are rational consumers and they decide on what combinations of goods to buy based on their utility function (which goods provide them with more use/happiness) and their budget constraint (which combinations of goods they can afford to buy). Consumers try to maximize utility while staying within the limits of their budget constrain or to minimalize cost while getting the target level of utility. A special case of this is the consumption-leisure model where a consumer chooses between a combination of leisure and working time, which is represented by income.However, behavioural economics shows that consumers do not behave rationally and they are influenced by factors other than their utility from the given good. Those factors can be the popularity of a given good or its position in a supermarket.
+
+
+== Consumption in macroeconomics ==
+In macroeconomics in the theory of national accounts consumption is not only the amount of money that is spent by households on goods and services from companies. But also the expenditures of government that are meant to provide things for citizens they would have to buy themselves otherwise. This means things like healthcare. Where consumption is equal to income minus savings. Consumption can be calculated via this formula:
+  
+    
+      
+        C
+        =
+        
+          C
+          
+            0
+          
+        
+        +
+        c
+        ∗
+        
+          Y
+          
+            d
+          
+        
+      
+    
+    {\displaystyle C=C_{0}+c*Y_{d}}
+  
+Where 
+  
+    
+      
+        
+          C
+          
+            0
+          
+        
+      
+    
+    {\displaystyle C_{0}}
+   stands for autonomous consumption which is minimal consumption of household that is achieved always, by either reducing the savings of household or by borrowing money.
+
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is marginal propensity to consume where 
+  
+    
+      
+        c
+        ∈
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle c\in [0,1]}
+   and it reveals how much of household income is spent on consumption.
+
+  
+    
+      
+        
+          Y
+          
+            d
+          
+        
+      
+    
+    {\displaystyle Y_{d}}
+   is the disposable income of the household.
+
+
+== Consumption as a measurement of growth ==
+Consumption of electric energy is positively correlated with economical growth. As electric energy is one of the most important inputs of the economy. Electric energy is needed to produce goods and to provide services to consumers. There is a statistically significant effect of electrical energy consumption and economic growth that is positive. Electricity consumption reflects economic growth. With the gradual rise of people's material level, electric energy consumption is also gradually increasing. In Iran, for example, electricity consumption has increased along with economic growth since 1970. But as countries continue to develop this effect is decreasing as they optimize their production, by getting more energy-efficient equipment. Or by transferring parts of their production to foreign nations where the cost of electrical energy is smaller.
+
+
+== Determinant factors of consumption ==
+The main factors affecting consumption studied by economists include:
+Income: Economists consider the income level to be the most crucial factor affecting consumption. Therefore, the offered consumption functions often emphasize this variable. Keynes considers absolute income, Dosnbery considers relative income, and Friedman considers permanent income as factors that determine one's consumption.Consumer expectations: Changes in the prices would change the real income and purchasing power of the consumer. If the consumer's expectations about future prices change, it can change his consumption decisions in the present period.
+Consumer assets and wealth: These refer to assets in the form of cash, bank deposits, securities, as well as physical assets such as stocks of durable goods or real estate such as houses, land, etc. These factors can affect consumption; if the mentioned assets are sufficiently liquid, they will remain in reserve and can be used in emergencies.
+Consumer credits: The increase in the consumer's credit and his credit transactions can allow the consumer to use his future income at present. As a result, it can lead to more consumption expenditure compared to the case that the only purchasing power is current income.
+Interest rate: Fluctuations in interest rates can affect household consumption decisions. An increase in interest rates increases people's savings and, as a result, reduces their consumption expenditures.
+Household size: Households' absolute consumption costs increase as the number of family members increases. Although for some goods, as the number of households increases, the consumption of such goods would increase relatively less than the number of households. This happens due to the phenomena of the economy of scale.
+Social groups: Household consumption varies in different social groups. For example, the consumption pattern of employers is different from the consumption pattern of workers. The smaller the gap between groups in a society, the more homogeneous consumption pattern within the society.
+Consumer taste: One of the important factors in shaping the consumption pattern is consumer taste. This factor, to some extent, can affect other factors such as income and price levels. On the other hand, society's culture has a significant impact on shaping the tastes of consumers.
+Area: Consumption patterns are different in different geographical regions. For example, this pattern differs from urban and rural areas, crowded and sparsely populated areas, economically active and inactive areas, etc.
+
+
+== Consumption theories ==
+Consumption theories began with John Maynard Keynes in 1936 and were developed by economists such as Friedman, Dusenbery, and Modigliani. The relationship between consumption and income was a crucial concept in macroeconomic analysis for a long time.
+
+
+=== Absolute Income Hypothesis ===
+In his 1936 General Theory, Keynes introduced the consumption function. He believed that various factors influence consumption decisions; But in the short run, the most important factor is real income. According to the Absolute Income Hypothesis, consumer spending on consumption goods and services is a linear function of his current disposable income.
+
+
+=== Relative Income Hypothesis ===
+James Dusenbery proposed this model in 1949. This theory is based on two assumptions:
+1- People's consumption behavior is not independent of each other. In other words, two people with the same income that live in two different positions within the income distribution will have different consumptions. In fact, one compares oneself with other people, and what has a significant impact on one's consumption is one's position among individuals and groups in society; Therefore, a person only feels an improvement in his situation in terms of consumption if his average consumption increases relative to the average level of society. This phenomenon is called the Demonstration Effect.
+2- Consumer behavior over time is irreversible. This means that when income declines, consumer spending is sticky to the former level. After getting used to a level of consumption, a person shows resistance to reducing it and is unwilling to reduce that level of consumption. This phenomenon is called the ratchet effect.
+
+
+=== Intertemporal consumption ===
+The model of intertemporal consumption was first thought of by John Rae in 1830s and it was later expanded by Irving Fisher in 1930s in the book Theory of interest. This model describes how consumption is distributed over periods of life. In the basic model with 2 periods for example young and old age.
+
+  
+    
+      
+        
+          S
+          
+            1
+          
+        
+        =
+        
+          Y
+          
+            1
+          
+        
+        −
+        
+          C
+          
+            1
+          
+        
+      
+    
+    {\displaystyle S_{1}=Y_{1}-C_{1}}
+  
+And then
+
+  
+    
+      
+        
+          C
+          
+            2
+          
+        
+        =
+        
+          Y
+          
+            2
+          
+        
+        +
+        
+          S
+          
+            1
+          
+        
+        ×
+        (
+        1
+        +
+        r
+        )
+      
+    
+    {\displaystyle C_{2}=Y_{2}+S_{1}\times (1+r)}
+  
+Where 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is the consumption in a given year.
+Where 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   is the income received in a given year.
+Where 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   are saving from a given year.
+Where 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the interest rate.
+Indexes 1,2 stand for period 1 and period 2.
+This model can be expanded to represent each year of a lifetime.
+
+
+=== Permanent income hypothesis ===
+The permanent income hypothesis was developed by Milton Friedman in the 1950s in his book A theory of the Consumption Function. This theory divides income into two components: 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    {\displaystyle Y_{t}}
+   is transitory income and 
+  
+    
+      
+        
+          Y
+          
+            p
+          
+        
+      
+    
+    {\displaystyle Y_{p}}
+  is permanent income, such that 
+  
+    
+      
+        Y
+        =
+        
+          Y
+          
+            t
+          
+        
+        +
+        
+          Y
+          
+            p
+          
+        
+      
+    
+    {\displaystyle Y=Y_{t}+Y_{p}}
+  .
+Changes in the two components have different impacts on consumption. If 
+  
+    
+      
+        
+          Y
+          
+            p
+          
+        
+      
+    
+    {\displaystyle Y_{p}}
+   changes then consumption changes accordingly by 
+  
+    
+      
+        α
+        ×
+        
+          Y
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \alpha \times Y_{p}}
+  , where 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is known as the marginal propensity to consume. If we expect part of income to be saved or invested, then 
+  
+    
+      
+        α
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle \alpha \in (0,1)}
+  , otherwise 
+  
+    
+      
+        α
+        =
+        1
+      
+    
+    {\displaystyle \alpha =1}
+  . On the other hand, if 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    {\displaystyle Y_{t}}
+   changes (for example as a result of winning the lottery), then this increase in income is distributed over the remaining lifespan. For example, winning $1000 with the expectation of living for 10 more years will result in yearly increase of consumption by $100.
+
+
+=== Life-cycle hypothesis ===
+The life-cycle hypothesis was published by Franco Modigliani in 1966. It describes how people make consumption decisions based on their past income, current income, and future income as they tend to distribute their consumption over their lifetime. It is, in its basic form:
+  
+    
+      
+        C
+        =
+        1
+        
+          /
+        
+        T
+        ×
+        W
+        +
+        1
+        
+          /
+        
+        T
+        ×
+        (
+        R
+        ×
+        Y
+        )
+      
+    
+    {\displaystyle C=1/T\times W+1/T\times (R\times Y)}
+  
+Where  
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is the consumption in given year.
+Where 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is the number of years the individual is going to live for.
+Where 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is for how many more years will the individual be working.
+Where 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   is the average wage the individual will be paid over his or her remaining work time
+And 
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   is the wealth he has already accumulated in his or her life.
+
+
+== Old-age spending ==
+Spending the Kids' Inheritance (originally the title of a book on the subject by Annie Hulley) and the acronyms SKI and SKI'ing refer to the growing number of older people in Western society spending their money on travel, cars and property, in contrast to previous generations who tended to leave that money to their children. According to a study from 2017 that was conducted in the USA 20% of married people consider leaving inheritance a priority, while 34% do not consider it as a priority. And about one in ten unmarried Americans (14 percent) plan to spend their retirement money to improve their lives, rather than saving it to leave an inheritance to their children. In addition, three in ten married Americans (28 percent) have downsized or plan to downsize their home after retirement.Die Broke (from the book Die Broke: A Radical Four-Part Financial Plan by Stephen Pollan and Mark Levine) is a similar idea.
+
+
+== See also ==
+Aggregate demand
+Consumer debt
+Classification of Individual Consumption by Purpose (COICOP)
+Consumer choice
+Consumerism
+Life cycle hypothesis
+Measures of national income and output
+Overconsumption
+Permanent income hypothesis
+List of largest consumer markets
+
+
+== References ==
+
+
+== Further reading ==
+Bourdieu, Pierre (1984). Distinction: A Social Critique of the Judgement of Taste (paperback). Cambridge: Harvard University Press. ISBN 978-0-674-21277-0.
+Deaton, Angus (1992). Understanding Consumption. Oxford University Press. ISBN 978-0-19-828824-4.
+Friedman, Jonathan (1994). Consumption and Identity (Studies in Anthropology & History). Washington, DC: Taylor & Francis. ISBN 978-3-7186-5592-2.
+Isherwood, Baron C.; Douglas, Mary (1996). The World of Goods: Towards an Anthropology of Consumption (Paperback). New York: Routledge. ISBN 978-0-415-13047-9.
+Ivanova, Diana; Stadler, Konstantin; Steen-Olsen, Kjartan; Wood, Richard; Vita, Gibran; Tukker, Arnold; Hertwich, Edgar G. (18 December 2015). "Environmental Impact Assessment of Household Consumption". Journal of Industrial Ecology. 20 (3): 526–536. doi:10.1111/jiec.12371. S2CID 155524615.
+Mackay, Hugh, ed. (1997). Consumption and Everyday Life (Culture, Media and Identities series) (Paperback). Thousand Oaks, Calif: SAGE Publications. ISBN 978-0-7619-5438-5.
+Miller, Daniel (1998). A Theory of Shopping (paperback). Ithaca, N.Y.: Cornell University Press. ISBN 978-0-8014-8551-0.
+Slater, Don (1997). Consumer Culture and Modernity. Cambridge, UK: Polity Press. ISBN 978-0-7456-0304-9.
+Mansvelt, Juliana (2005). Geographies of Consumption. doi:10.4135/9781446221433. ISBN 978-1-4462-2143-3.
+Mohr, Ernst (2021). The Production of Consumer Society. Cultural-Economic Principles of Distinction. Bielefeld: transcript. ISBN 978-3-8376-5703-6.
+
+
+== External links ==
+
+An essay examining the strengths and weaknesses of Keynes's theory of consumption

@@ -1,0 +1,61 @@
+In finance, a price (premium) is paid or received for purchasing or selling options. This article discusses the calculation of this premium in general. For further detail, see: Mathematical finance § Derivatives pricing: the Q world for discussion of the mathematics; Financial engineering for the implementation; as well as Financial modeling § Quantitative finance generally.
+
+
+== Premium components ==
+This price can be split into two components: intrinsic value, and time value (also called "extrinsic value").
+
+
+=== Intrinsic value ===
+The intrinsic value is the difference between the underlying spot price and the strike price, to the extent that this is in favor of the option holder. For a call option, the option is in-the-money if the underlying spot price is higher than the strike price; then the intrinsic value is the underlying price minus the strike price. For a put option, the option is in-the-money if the strike price is higher than the underlying spot price; then the intrinsic value is the strike price minus the underlying spot price. Otherwise the intrinsic value is zero.
+For example, when a DJI call (bullish/long) option is 18,000 and the underlying DJI Index is priced at $18,050 then there is a $50 advantage even if the option were to expire today. This $50 is the intrinsic value of the option.
+In summary, intrinsic value:call option
+
+= current stock price − strike price (call option)= strike price − current stock price (put option)
+
+
+=== Extrinsic (Time) value ===
+
+The option premium is always greater than the intrinsic value up to the expiration event. This extra money is for the risk which the option writer/seller is undertaking. This is called the time value.
+Time value is the amount the option trader is paying for a contract above its intrinsic value, with the belief that prior to expiration the contract value will increase because of a favourable change in the price of the underlying asset. The longer the length of time until the expiry of the contract, the greater the time value. So,
+
+Time value = option premium − intrinsic value
+
+
+== Other factors affecting premium ==
+There are many factors which affect option premium. These factors affect the premium of the option with varying intensity. Some of these factors are listed here:
+
+Price of the underlying: Any fluctuation in the price of the underlying (stock/index/commodity) obviously has the largest effect on premium of an option contract. An increase in the underlying price increases the premium of call option and decreases the premium of put option. Reverse is true when underlying price decreases.
+Strike price: How far is the strike price from spot also affects option premium. Say, if NIFTY goes from 5000 to 5100 the premium of 5000 strike and of 5100 strike will change a lot compared to a contract with strike of 5500 or 4700.
+Volatility of underlying:  Underlying security is a constantly changing entity. The degree by which its price fluctuates can be termed as volatility. So a share which fluctuates 5% on either side on daily basis is said to have more volatility than e.g. stable blue chip shares whose fluctuation is more benign at 2–3%. Volatility affects calls and puts alike. Higher volatility increases the option premium because of greater risk it brings to the seller.
+Payment of Dividend: Payment of Dividend does not have direct impact on value of derivatives but it does have indirect impact through stock price. We know that if dividend is paid, stock goes ex-dividend therefore price of stock will go down which will result into increase in Put premium and decrease in Call premium.Apart from above, other factors like bond yield (or interest rate) also affect the premium. This is because the money invested by the seller can earn this risk free income in any case and hence while selling option; he has to earn more than this because of higher risk he is taking.
+
+
+== Pricing models ==
+
+Because the values of option contracts depend on a number of different variables in addition to the value of the underlying asset, they are complex to value. There are many pricing models in use, although all essentially incorporate the concepts of rational pricing (i.e. risk neutrality), moneyness, option time value and put–call parity.
+The valuation itself combines (1) a model of the behavior ("process") of the underlying price with (2) a mathematical method which returns the premium as a function of the assumed behavior.
+The models in (1) range from the (prototypical) Black–Scholes model for equities, to the Heath–Jarrow–Morton framework for interest rates, to the Heston model where volatility itself is considered stochastic. See Asset pricing for a listing of the various models here.
+As regards (2), the implementation, the most common approaches are:
+
+Closed form, analytic models: the most basic of these are the Black–Scholes formula and the Black model.
+Lattice models (Trees): Binomial options pricing model; Trinomial tree
+Monte Carlo methods for option pricing
+Finite difference methods for option pricing
+More recently, the volatility surface-aware models in the local volatility and stochastic volatility families.The Black model extends Black-Scholes from equity to options on futures, bond options, swaptions, (i.e. options on swaps), and interest rate cap and floors (effectively options on the interest rate).
+The final four are numerical methods, usually requiring sophisticated derivatives-software, or a numeric package such as MATLAB. For these, the result is calculated as follows, even if the numerics differ: 
+(i) a risk-neutral distribution is built for the underlying price over time (for non-European options, at least at each exercise date) via the selected model, as calibrated to the market; 
+(ii) the option's payoff-value is determined at each of these times, for each of these prices; 
+(iii) the payoffs are discounted at the risk-free rate, and then averaged. 
+For the analytic methods, these same are subsumed into a single probabilistic result; see Black–Scholes model § Interpretation.
+
+
+== Post crisis ==
+
+After the financial crisis of 2007–2008, counterparty credit risk considerations must enter into the valuation, previously performed in an entirely "risk neutral world". There are then   three major developments re option pricing:
+
+For discounting, the overnight indexed swap (OIS) curve is now typically used for the "risk free rate", as opposed to LIBOR as previously (LIBOR is due to be phased out by the end of 2021, with replacements including SOFR and TONAR); see Interest rate swap § Valuation and pricing.  Relatedly, the  "Multi-curve framework" is now standard in the valuation of interest rate derivatives and for fixed income analysis more generally.
+As mentioned, option pricing models must consider the volatility surface, and the numerics will then require a zeroth calibration step, such that observed prices are returned before new prices and / or "greeks" can be calculated. To do so, banks will apply local- or stochastic volatility models, such as Heston mentioned above (or less common, implied trees).
+The risk neutral value, no matter how determined, is then adjusted for the impact of counterparty credit risk via a credit valuation adjustment, or CVA, as well as various of the other XVA which may also be appended.
+
+
+== References ==

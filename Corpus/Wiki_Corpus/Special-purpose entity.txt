@@ -1,0 +1,62 @@
+A special-purpose entity (SPE; or, in Europe and India, special-purpose vehicle/SPV; or, in some cases in each EU jurisdiction, FVC, financial vehicle corporation) is a legal entity (usually a limited company of some type or, sometimes, a limited partnership) created to fulfill narrow, specific or temporary objectives.  SPEs are typically used by companies to isolate the firm from financial risk. A formal definition is "The Special Purpose Entity is a fenced organization having limited predefined purposes and a legal personality".Normally a company will transfer assets to the SPE for management or use the SPE to finance a large project thereby achieving a narrow set of goals without putting the entire firm at risk. SPEs are also commonly used in complex financings to separate different layers of equity infusion. Commonly created and registered in tax havens, SPEs allow tax avoidance strategies unavailable in the home district. Round-tripping is one such strategy. In addition, they are commonly used to own a single asset and associated permits and contract rights (such as an apartment building or a power plant), to allow for easier transfer of that asset. They are an integral part of public private partnerships common throughout Europe which rely on a project finance type structure.A special-purpose entity may be owned by one or more other entities and certain jurisdictions may require ownership by certain parties in specific percentages. Often it is important that the SPE is not owned by the entity on whose behalf the SPE is being set up (the sponsor). For example, in the context of a loan securitization, if the SPE securitization vehicle were owned or controlled by the bank whose loans were to be secured, the SPE would be consolidated with the rest of the bank's group for regulatory, accounting, and bankruptcy purposes, which would defeat the point of the securitization. Therefore, many SPEs are set up as 'orphan' companies with their shares settled on charitable trust and with professional directors provided by an administration company to ensure that there is no connection with the sponsor.
+
+
+== Uses ==
+Some of the reasons for creating special-purpose entities are as follow:
+
+Securitization: SPEs are commonly used to securitize loans (or other receivables).  For example, a bank may wish to issue a mortgage-backed security whose payments come from a pool of loans.  However, to ensure that the holders of the mortgage-backed securities have the first priority right to receive payments on the loans, these loans need to be legally separated from the other obligations of the bank.  This is done by creating an SPE, and then transferring the loans from the bank to the SPE.
+Risk sharing: Corporates may use SPEs to legally isolate a high risk project/asset from the parent company and to allow other investors to take a share of the risk.
+Finance:  Multi-tiered SPEs allow multiple tiers of investment and debt.
+Asset transfer:  Many permits required to operate certain assets (such as power plants) are either non-transferable or difficult to transfer.  By having an SPE own the asset and all the permits, the SPE can be sold as a self-contained package, rather than attempting to assign over numerous permits.
+To maintain the secrecy of intellectual property: For example, when Intel and Hewlett-Packard started developing IA-64 (Itanium) processor architecture, they created a special-purpose entity which owned the intellectual technology behind the processor. This was done to prevent competitors like AMD accessing the technology through pre-existing licensing deals.
+Financial engineering: SPEs are often used in financial engineering schemes which have, as their main goal, the avoidance of tax or the manipulation of financial statements. The Enron case is possibly the most famous example of a company using SPEs to achieve the latter goal.
+Regulatory reasons: A special-purpose entity can sometimes be set up within an orphan structure to circumvent regulatory restrictions, such as regulations relating to nationality of ownership of specific assets.
+Property investing: Some countries have different tax rates for capital gains and gains from property sales.  Letting each property be owned by a separate company can mean a lower tax bill.  These companies can then be sold and bought instead of the actual properties, effectively converting property sale gains into capital gains in order to pay less tax.
+
+
+== Types ==
+
+
+=== Securitization ===
+A real estate mortgage investment conduit (REMIC), used for the pooling and securitization of mortgage loans for mortgage-backed securities.
+A financial asset securitization investment trust (FASIT), a defunct entity used for securitization of any debt for asset-backed securities.
+An Irish Section 110 Special Purpose Vehicle (SPV) (S110 SPV), the largest SPV in the EU for securitisation.
+
+
+=== Investment ===
+A real estate investment trust (REIT), a tax designation for a corporate entity investing in real estate for the purpose of reducing or eliminating corporate tax.
+
+
+== Establishment ==
+Like a company, an SPE must have promoter(s) or sponsor(s). Usually, a sponsoring corporation hives off assets or activities from the rest of the company into an SPE. This isolation of assets is important for providing comfort to investors. The assets or activities are distanced from the parent company, hence the performance of the new entity will not be affected by the ups and downs of the originating entity. The SPE will be subject to fewer risks and thus provide greater comfort to the lenders. What is important here is the distance between the sponsoring company and the SPE. In the absence of adequate distance between the sponsor and the new entity, the latter will not be an SPE but only a subsidiary company.
+A good SPE should be able to stand on its feet, independent of the sponsoring company. This does not always happen in practice. One of the reasons for the collapse of the Enron SPE was that it became a vehicle for furthering the ends of the parent company in violation of the prudential norms of corporate financing and accounting.
+
+
+== Abuses ==
+Special-purpose entities were one of the main tools used by executives at Enron, in order to hide losses and fabricate earnings, resulting in the Enron scandal of 2001. They were also used to hide losses and overstate earnings by executives at Towers Financial Corporation, which declared bankruptcy in 1994.  Several executives of the company were found guilty of securities fraud, served prison sentences, and paid fines. Evergrande  has also been accused of  using off book SPE to hide debt.
+
+
+== Accounting guidance ==
+Under US GAAP, a number of accounting standards apply to SPEs, most notably FIN 46R that sets out the consolidation treatment of these entities. There are a number of other standards that apply to different transactions with SPEs.
+Under International Financial Reporting Standards (IFRS), the relevant standard is IAS 27 in connection with the interpretation of SIC12 (Consolidation—Special-Purpose Entities). For periods beginning on or after 1 January 2013, IFRS 10 Consolidated Financial Statements supersedes IAS 27 and SIC 12.
+
+
+== See also ==
+Enron
+FIN 46 (FASB ruling on consolidation of variable interest entities)
+Instex, a special purpose vehicle intended to promote trade with Iran without using the US dollar and evade sanctions against Iran.
+Irish Section 110 Special Purpose Vehicle (SPV)
+Off-balance-sheet entity
+Orphan structure
+Special-purpose acquisition company
+Special purpose private equity fund, similarly named business term
+Stichting
+Structured investment vehicle
+Variable interest entity (VIE)
+
+
+== Notes ==
+^ a: For example, it is quite common for tanker fleets to have each tanker owned by a separate special-purpose entity to try to avoid group liability in relation to widely drawn anti-pollution laws.
+
+
+== References ==

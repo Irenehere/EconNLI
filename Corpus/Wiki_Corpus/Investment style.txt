@@ -1,0 +1,26 @@
+Investment style,
+ 
+is a term in investment management (and more generally, in finance), referring to how a characteristic investment philosophy is employed by an investor or fund manager. 
+The classification  here extends across asset classes — equities, bonds or financial derivatives — and within each further weighs factors such as leverage, momentum, diversification benefits, relative value or growth prospects.
+Major styles include the following:
+
+Active vs. Passive: Active investors believe in their ability to outperform the overall market by picking stocks they believe may perform well. Passive investors, on the other hand, feel that simply investing in a market index fund may produce potentially higher long-term results (pointing out that the majority of mutual funds underperform market indexes). Active investors feel that a less efficient market (prices inhering all news, and hence potential) should favor active stock selection: for example, smaller companies are not followed as closely as larger blue-chip firms, and may then trade at a discount to true value. The core-/satellite concept combines a passive style in an efficient market and an active style in less efficient markets.Growth vs. Value:  Active investors can be divided into growth and value seekers. Proponents of growth seek companies they expect (on average) to increase earnings by 15% to 25%. Value investors look for bargains — cheap stocks that are often out of favor, such as cyclical stocks that are at the low end of their business cycle. A value investor is primarily attracted by asset-oriented stocks with low prices compared to underlying book, replacement, or liquidation values. These two styles may offer a diversification effect: returns on growth stocks and value stocks are not highly correlated, thus by diversifying between growth and value, investors may reduce risk and still enjoy long-term return potential.Small Cap vs. Large Cap:  Some investors use the size of a company as the basis for investing. Studies of stock returns going back to 1925 have suggested that "smaller is better," and on average, the highest returns have come from stocks with the lowest market capitalization, the so-called "Size premium". At the same time, small-cap stocks have higher price volatility, which translates into higher risk. (Also, there have been long periods when large-cap stocks have outperformed.) Some investors then choose the middle ground and invest in mid-cap stocks seeking a tradeoff between volatility and return. 
+
+
+== See also ==
+Style investing
+Style drift
+Returns-based style analysis
+Asset allocation
+Financial risk management § Investment management
+Growth investing
+Value investing
+Low-volatility investing
+Momentum investing
+Quality investing
+Magic Formula investing
+Conservative Formula Investing
+Buy and hold
+
+
+== References ==

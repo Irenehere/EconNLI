@@ -1,0 +1,97 @@
+Mathematical finance, also known as quantitative finance and financial mathematics, is a field of applied mathematics, concerned with mathematical modeling of financial markets.
+In general, there exist two separate branches of finance that require advanced quantitative techniques: derivatives pricing on the one hand, and risk and portfolio management on the other.
+Mathematical finance overlaps heavily with the fields of computational finance and financial engineering. The latter focuses on applications and modeling, often by help of stochastic asset models, while the former focuses, in addition to analysis, on building tools of implementation for the models. 
+Also related is quantitative investing, which relies on statistical and numerical models (and lately machine learning) as opposed to traditional fundamental analysis when managing portfolios.
+French mathematician Louis Bachelier's doctoral thesis, defended in 1900, is considered the first scholarly work on mathematical finance. But mathematical finance emerged as a discipline in the 1970s, following the work of Fischer Black, Myron Scholes and Robert Merton on option pricing theory. Mathematical investing originated from the research of mathematician Edward Thorp who used statistical methods to first invent card counting in blackjack and then applied its principles to modern systematic investing.The subject has a close relationship with the discipline of financial economics, which is concerned with much of the underlying theory that is involved in financial mathematics. While trained economists use complex economic models that are built on observed empirical relationships, in contrast, mathematical finance analysis will derive and extend the mathematical or numerical models without necessarily establishing a link to financial theory, taking observed market prices as input.
+See: Valuation of options; Financial modeling; Asset pricing. 
+The fundamental theorem of arbitrage-free pricing is one of the key theorems in mathematical finance, while the Black–Scholes equation and formula are amongst the key results.Today many universities offer degree and research programs in mathematical finance.
+
+
+== History: Q versus P ==
+There are two separate branches of finance that require advanced quantitative techniques: derivatives pricing, and risk and portfolio management. One of the main differences is that they use different probabilities such as the risk-neutral probability (or arbitrage-pricing probability), denoted by "Q", and the actual (or actuarial) probability, denoted by "P".
+
+
+=== Derivatives pricing: the Q world ===
+
+The goal of derivatives pricing is to determine the fair price of a given security in terms of more liquid securities whose price is determined by the law of supply and demand. The meaning of "fair" depends, of course, on whether one considers buying or selling the security. Examples of securities being priced are plain vanilla and exotic options, convertible bonds, etc.
+Once a fair price has been determined, the sell-side trader can make a market on the security. Therefore, derivatives pricing is a complex "extrapolation" exercise to define the current market value of a security, which is then used by the sell-side community. 
+Quantitative derivatives pricing was initiated by Louis Bachelier in The Theory of Speculation ("Théorie de la spéculation", published 1900), with the introduction of the most basic and most influential of processes, Brownian motion, and its applications to the pricing of options. Brownian motion is derived using the Langevin equation and the discrete random walk. Bachelier modeled the time series of changes in the logarithm of stock prices as a random walk in which the short-term changes had a finite variance. This causes longer-term changes to follow a Gaussian distribution.The theory remained dormant until Fischer Black and Myron Scholes, along with fundamental contributions by Robert C. Merton, applied the second most influential process, the geometric Brownian motion, to option pricing. For this M. Scholes and R. Merton were awarded the 1997 Nobel Memorial Prize in Economic Sciences. Black was ineligible for the prize because of his death in 1995.The next important step was the fundamental theorem of asset pricing by Harrison and Pliska (1981), according to which the suitably normalized current price P0 of a security is arbitrage-free, and thus truly fair only if there exists a stochastic process Pt with constant expected value which describes its future evolution:
+
+A process satisfying (1) is called a "martingale". A martingale does not reward risk. Thus the probability of the normalized security price process is called "risk-neutral" and is typically denoted by the blackboard font letter "
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  ".
+The relationship (1) must hold for all times t: therefore the processes used for derivatives pricing are naturally set in continuous time.
+The quants who operate in the Q world of derivatives pricing are specialists with deep knowledge of the specific products they model.
+Securities are priced individually, and thus the problems in the Q world are low-dimensional in nature. Calibration is one of the main challenges of the Q world: once a continuous-time parametric process has been calibrated to a set of traded securities through a relationship such as (1), a similar relationship is used to define the price of new derivatives.
+The main quantitative tools necessary to handle continuous-time Q-processes are Itô's stochastic calculus, simulation and partial differential equations (PDEs).
+
+
+=== Risk and portfolio management: the P world ===
+Risk and portfolio management aims at modeling the statistically derived probability distribution of the market prices of all the securities at a given future investment horizon. 
+This "real" probability distribution of the market prices is typically denoted by the blackboard font letter "
+  
+    
+      
+        
+          P
+        
+      
+    
+    {\displaystyle \mathbb {P} }
+  ", as opposed to the "risk-neutral" probability "
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  " used in derivatives pricing. Based on the P distribution, the buy-side community takes decisions on which securities to purchase in order to improve the prospective profit-and-loss profile of their positions considered as a portfolio. Increasingly, elements of this process are automated; see Outline of finance § Quantitative investing for a listing of relevant articles.
+For their pioneering work, Markowitz and Sharpe, along with Merton Miller, shared the 1990 Nobel Memorial Prize in Economic Sciences, for the first time ever awarded for a work in finance.
+The portfolio-selection work of Markowitz and Sharpe introduced mathematics to investment management. With time, the mathematics has become more sophisticated. Thanks to Robert Merton and Paul Samuelson, one-period models were replaced by continuous time, Brownian-motion models, and the quadratic utility function implicit in mean–variance optimization was replaced by more general increasing, concave utility functions. Furthermore, in recent years the focus shifted toward estimation risk, i.e., the dangers of incorrectly assuming that advanced time series analysis alone can provide completely accurate estimates of the market parameters.
+See Financial risk management § Investment management.
+Much effort has gone into the study of financial markets and how prices vary with time. 
+Charles Dow, one of the founders of Dow Jones & Company and The Wall Street Journal, enunciated a set of ideas on the subject which are now called Dow Theory. This is the basis of the so-called technical analysis method of attempting to predict future changes. One of the tenets of "technical analysis" is that market trends give an indication of the future, at least in the short term. The claims of the technical analysts are disputed by many academics.
+
+
+== Criticism ==
+
+The aftermath of the financial crisis of 2009 as well as the multiple Flash Crashes of the early 2010s resulted in social uproars in the general population and ethical malaises in the scientific community which triggered noticeable changes in Quantitative Finance (QF).
+More specifically, mathematical finance was instructed to change and become more realistic as opposed to more convenient. The concurrent rise of Big data and Data Science contributed to facilitating these changes. More specifically, in terms of defining new models, we saw a significant increase in the use of Machine Learning overtaking traditional Mathematical Finance models.Over the years, increasingly sophisticated mathematical models and derivative pricing strategies have been developed, but their credibility was damaged by the financial crisis of 2007–2010.
+Contemporary practice of mathematical finance has been subjected to criticism from figures within the field notably by Paul Wilmott, and by Nassim Nicholas Taleb, in his book The Black Swan. Taleb claims that the prices of financial assets cannot be characterized by the simple models currently in use, rendering much of current practice at best irrelevant, and, at worst, dangerously misleading. Wilmott and Emanuel Derman published the Financial Modelers' Manifesto in January 2009 which addresses some of the most serious concerns.
+Bodies such as the Institute for New Economic Thinking are now attempting to develop new theories and methods.In general, modeling the changes by distributions with finite variance is, increasingly, said to be inappropriate. In the 1960s it was discovered by Benoit Mandelbrot that changes in prices do not follow a Gaussian distribution, but are rather modeled better by Lévy alpha-stable distributions. The scale of change, or volatility, depends on the length of the time interval to a power a bit more than 1/2. Large changes up or down are more likely than what one would calculate using a Gaussian distribution with an estimated standard deviation. But the problem is that it does not solve the problem as it makes parametrization much harder and risk control less reliable.Perhaps more fundamental: though mathematical finance models may generate a profit in the short-run, this type of modeling is often in conflict with a central tenet of modern macroeconomics, the Lucas critique - or rational expectations -  which states that observed relationships may not be structural in nature and thus may not be possible to exploit for public policy or for profit unless we have identified relationships using causal analysis and econometrics. Mathematical finance models do not, therefore, incorporate complex elements of human psychology that are critical to modeling modern macroeconomic movements such as the self-fulfilling panic that motivates bank runs.
+
+
+== See also ==
+
+
+=== Mathematical tools ===
+
+
+=== Derivatives pricing ===
+
+
+=== Portfolio modelling ===
+
+
+=== Other ===
+
+
+== Notes ==
+
+
+== Further reading ==
+Nicole El Karoui, "The future of financial mathematics", ParisTech Review, 6 September 2013
+Harold Markowitz, "Portfolio Selection", The Journal of Finance, 7, 1952, pp. 77–91
+William F. Sharpe, Investments, Prentice-Hall, 1985
+Pierre Henry Labordere (2017). “Model-Free Hedging A Martingale Optimal Transport Viewpoint”. Chapman & Hall/ CRC.

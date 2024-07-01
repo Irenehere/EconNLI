@@ -1,0 +1,71 @@
+The derivatives market is the financial market for derivatives, financial instruments like futures contracts or options, which are derived from other forms of assets.
+The market can be divided into two, that for exchange-traded derivatives and that for over-the-counter derivatives. The legal nature of these products is very different, as well as the way they are traded, though many market participants are active in both. The derivatives market in Europe has a notional amount of €660 trillion.
+
+
+== Participants in a derivative market ==
+Participants in a derivative market can be segregated into four sets based on their trading motives.
+Hedgers
+Speculators
+Margin Traders
+Arbitrageurs
+
+
+== Types of trades in a derivative market ==
+Directional Trades
+Spreads
+Arbitrage positions
+Hedged Trades
+
+
+== Futures markets ==
+
+Futures exchanges, such as Euronext.liffe and the Chicago Mercantile Exchange, trade in standardized derivative contracts. These are options contracts,swaps contracts and futures contracts on a whole range of underlying products. The members of the exchange hold positions in these contracts with the exchange, who acts as central counterparty. When one party goes long (buys a futures contract), another goes short (sells). When a new contract is introduced, the total position in the contract is zero. Therefore, the sum of all the long positions must be equal to the sum of all the short positions. In other words, risk is transferred from one party to another is a type of a zero sum game. The total notional amount of all the outstanding positions at the end of June 2004 stood at $53 trillion (source: Bank for International Settlements (BIS): [1]). That figure grew to $81 trillion by the end of March 2008 (source: BIS [2])
+
+
+== Over-the-counter markets ==
+Tailor-made derivatives, not traded on a futures exchange are traded on over-the-counter markets, also known as the OTC market. These consist of investment banks with traders who make markets in these derivatives, and clients such as hedge funds, commercial banks, government-sponsored enterprises, etc. Products that are always traded over-the-counter are swaps, forward rate agreements, forward contracts, credit derivatives, accumulators etc. The total notional amount of all the outstanding positions at the end of June 2004 stood at $220 trillion (source: BIS: [3]). By the end of 2007 this figure had risen to $596 trillion and in 2009 it stood at $615 trillion (source: BIS: [4])
+OTC Markets are generally separated into two key segments: the customer market and the interdealer market. Customers almost exclusively trade through dealers because of the high search and transaction costs. Dealers are large institutions that arrange transactions for their customers, utilizing their specialized knowledge, expertise, and access to capital. In order to hedge the risks incurred by transacting with customers, dealers turn to the interdealer market, or the exchange-traded markets. Dealers can also trade for themselves or act as market makers in the OTC market (source: Federal Reserve Bank of Chicago [5]).
+
+
+== Netting ==
+US: Figures below are from the second quarter of 2008 [6] Archived 2007-12-26 at the Wayback Machine
+
+Total derivatives (notional amount): $182.2 trillion (second quarter, 2008)
+Interest rate contracts: $145.0 trillion (86%)
+Foreign exchange contracts: $18.2 trillion(10%)
+2008 Second Quarter, banks reported trading revenues of $1.6 billion
+Total number of commercial banks holding derivatives: 975Positions in the OTC derivatives market have increased at a rapid pace since the last triennial survey  was undertaken in 2004. Notional amounts outstanding of such instruments totalled $516 trillion at the end of June 2007 (according to the Bank for International Settlements [7]), 135% higher than the level recorded in the 2004 survey (Graph 4). This corresponds to an annualised compound rate of growth of 34%, which is higher than the approximatively 25% average annual rate of increase since positions in OTC derivatives were first surveyed by the BIS in 1995. Notional amounts outstanding provide useful information on  the structure of the OTC derivatives market but should not be interpreted as a measure of the riskiness of these positions. Gross market values, which represent the cost of replacing all open contracts at the prevailing market prices, have increased by 74% since 2004, to $11 trillion at the end of June 2007. [8] (page 28)
+Notional amounts outstanding as of December 2012 are $632 trillion as per recent survey.
+
+
+== Role in the financial crisis of 2007–2008 ==
+The derivative markets played an important role in the financial crisis of 2007–2008. Credit default swaps (CDSs), financial instruments traded on the over the counter derivatives markets, and mortgage-backed securities (MBSs), a type of securitized debt were notable contributors. The leveraged operations are said to have generated an "irrational appeal" for risk taking, and the lack of clearing obligations also appeared as very damaging for the balance of the market.  More specifically, interdealer collateral management and risk management systems proved to be inadequate.
+The G-20's proposals for financial markets reform all stress these points, and suggest:
+
+higher capital standards
+stronger risk management
+international surveillance of financial firms' operations
+dynamic capital rules.
+
+
+== See also ==
+Commodity market
+Securitization
+Financial engineering
+
+
+== References ==
+
+
+== Further reading ==
+Bartram, Söhnke M.; Brown, Gregory W.; Conrad, Jennifer C. (August 2011). "The Effects of Derivatives on Firm Risk and Value" (PDF). Journal of Financial and Quantitative Analysis. 46 (4): 967–999. doi:10.1017/s0022109011000275. S2CID 3945906. SSRN 1550942.
+Bartram, Söhnke M.; Brown, Gregory W.; Fehle, Frank R. (Spring 2009). "International Evidence on Financial Derivatives Usage". Financial Management. 38 (1): 185–206. doi:10.1111/j.1755-053x.2009.01033.x. SSRN 471245.
+Bartram, Söhnke M.; Fehle, Frank R. (March 2007). "Competition without Fungibility: Evidence from Alternative Market Structures for Derivatives". Journal of Banking and Finance. 31 (3): 659–677. doi:10.1016/j.jbankfin.2006.02.004. S2CID 55973719. SSRN 311880.
+Damodaran, A. (2013). Living with noise: Valuation in the face of uncertainty. Journal of Applied Finance, 23(2), 6-22.
+Weinberg, Ari, "The Great Derivatives Smackdown", Forbes magazine, May 9, 2003.
+European Central Bank (Editor: Tom Kokkola), "The Payment System", Frankfurt am Main 2010, Chapter 3, ISBN 978-92-899-0632-6.
+
+
+== External links ==
+Understanding Derivatives: Markets and Infrastructure – Federal Reserve Bank of Chicago
+PBS (WGBH, Boston), "The Warning", Frontline TV public affairs program, October 20, 2009. "At the center of it all he finds Brooksley Born, who speaks for the first time on television about her failed campaign to regulate the secretive, multitrillion-dollar derivatives market whose crash helped trigger the financial collapse in the fall of 2008."

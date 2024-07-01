@@ -1,0 +1,24 @@
+In finance, a call option, often simply labeled a "call", is a contract between the buyer and the seller of the call option to exchange a security at a set price. The buyer of the call option has the right, but not the obligation, to buy an agreed quantity of a particular commodity or financial instrument (the underlying) from the seller of the option at or before a certain time (the expiration date) for a certain price (the strike price). This effectively gives the owner a long position in the given asset. The seller (or "writer") is obliged to sell the commodity or financial instrument to the buyer if the buyer so decides. This effectively gives the seller a short position in the given asset. The buyer pays a fee (called a premium) for this right. The term "call" comes from the fact that the owner has the right to "call the stock away" from the seller.
+
+
+== Price of options ==
+Option values vary with the value of the underlying instrument over time. The price of the call contract must act as a proxy response for the valuation of:
+
+the expected intrinsic value of the option, defined as the expected value of the difference between the strike price and the market value, i.e., max[S−X, 0].
+the risk premium to compensate for the unpredictability of the value
+the time value of money reflecting the delay to the payout timeThe call contract price generally will be higher when the contract has more time to expire (except in cases when a significant dividend is present) and when the underlying financial instrument shows more volatility or other unpredictability. Determining this value is one of the central functions of financial mathematics. The most common method used is the Black–Scholes model, which provides an estimate of the price of European-style options.
+
+
+== See also ==
+Covered call
+Moneyness
+Naked call
+Naked put
+Option time value
+Pre-emption right
+Put option
+Put–call parity
+Right of first refusal
+
+
+== References ==

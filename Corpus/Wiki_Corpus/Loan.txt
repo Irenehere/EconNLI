@@ -1,0 +1,130 @@
+In finance, a loan is the transfer of money by one party to another with an agreement to pay it back. The recipient, or borrower, incurs a debt and is usually required to pay interest for the use of the money.
+The document evidencing the debt (e.g., a promissory note) will normally specify, among other things, the principal amount of money borrowed, the interest rate the lender is charging, and the date of repayment. A loan entails the reallocation of the subject asset(s) for a period of time, between the lender and the borrower.
+The interest provides an incentive for the lender to engage in the loan. In a legal loan, each of these obligations and restrictions is enforced by contract, which can also place the borrower under additional restrictions known as loan covenants. Although this article focuses on monetary loans, in practice, any material object might be lent.
+Acting as a provider of loans is one of the main activities of financial institutions such as banks and credit card companies. For other institutions, issuing of debt contracts such as bonds is a typical source of funding.
+
+
+== Personal loan ==
+
+
+=== Secured ===
+
+A secured loan is a form of debt in which the borrower pledges some asset (i.e., a car, a house) as collateral.
+A mortgage loan is a very common type of loan, used by many individuals to purchase residential or commercial property. The lender, usually a financial institution, is given security –  a lien on the title to the property –  until the mortgage is paid off in full. In the case of home loans, if the borrower defaults on the loan, the bank would have the legal right to repossess the house and sell it, to recover sums owing to it.
+Similarly, a loan taken out to buy a car may be secured by the car. The duration of the loan is much shorter –  often corresponding to the useful life of the car. There are two types of auto loans, direct and indirect. In a direct auto loan, a bank lends the money directly to a consumer. In an indirect auto loan, a car dealership (or a connected company) acts as an intermediary between the bank or financial institution and the consumer.
+Other forms of secured loans include loans against securities – such as shares, mutual funds, bonds, etc. This particular instrument issues customers a line of credit based on the quality of the securities pledged. Gold loans are issued to customers after evaluating the quantity and quality of gold in the items pledged. Corporate entities can also take out secured lending by pledging the company's assets, including the company itself. The interest rates for secured loans are usually lower than those of unsecured loans. Usually, the lending institution employs people (on a roll or on a contract basis) to evaluate the quality of pledged collateral before sanctioning the loan.
+
+
+=== Unsecured ===
+Unsecured loans are monetary loans that are not secured against the borrower's assets. These may be available from financial institutions under many different guises or marketing packages:
+
+Credit cards
+Personal loans
+Bank overdrafts
+Credit facilities or lines of credit
+Corporate bonds (may be secured or unsecured)
+Peer-to-peer lendingThe interest rates applicable to these different forms may vary depending on the lender and the borrower.  These may or may not be regulated by law. In the United Kingdom, when applied to individuals, these may come under the Consumer Credit Act 1974.
+Interest rates on unsecured loans are nearly always higher than for secured loans because an unsecured lender's options for recourse against the borrower in the event of default are severely limited, subjecting the lender to higher risk compared to that encountered for a secured loan. An unsecured lender must sue the borrower, obtain a money judgment for breach of contract, and then pursue execution of the judgment against the borrower's unencumbered assets (that is, the ones not already pledged to secured lenders). In insolvency proceedings, secured lenders traditionally have priority over unsecured lenders when a court divides up the borrower's assets. Thus, a higher interest rate reflects the additional risk that in the event of insolvency, the debt may be uncollectible.
+
+
+=== Demand ===
+Demand loans are short-term loans that typically do not have fixed dates for repayment. Instead, demand loans carry a floating interest rate, which varies according to the prime lending rate or other defined contract terms. Demand loans can be "called" for repayment by the lending institution at any time. Demand loans may be unsecured or secured.
+
+
+=== Subsidized ===
+A subsidized loan is a loan on which the interest is reduced by an explicit or hidden subsidy. In the context of college loans in the United States, it refers to a loan on which no interest is accrued while a student remains enrolled in education.
+
+
+=== Concessional ===
+A concessional loan, sometimes called a "soft loan", is granted on terms substantially more generous than market loans either through below-market interest rates, by grace periods, or a combination of both. Such loans may be made by foreign governments to developing countries or may be offered to employees of lending institutions as an employee benefit (sometimes called a perk).
+
+
+== Target markets ==
+Loans can also be categorized according to whether the debtor is an individual person (consumer) or a business.
+
+
+=== Personal ===
+
+Common personal loans include mortgage loans, car loans, home equity lines of credit, credit cards, installment loans, and payday loans. The credit score of the borrower is a major component in and underwriting and interest rates (APR) of these loans. The monthly payments of personal loans can be decreased by selecting longer payment terms, but overall interest paid increases as well. A personal loan can be obtained from banks, alternative (non-bank) lenders, online loan providers and private lenders.
+
+
+=== Commercial ===
+
+Loans to businesses are similar to the above but also include commercial mortgages and corporate bonds and government guaranteed loans Underwriting is not based upon credit score but rather credit rating.
+
+
+== Loan payment ==
+The most typical loan payment type is the fully amortizing payment in which each monthly rate has the same value over time.The fixed monthly payment P for a loan of L for n months and a monthly interest rate c is:
+
+  
+    
+      
+        P
+        =
+        L
+        ⋅
+        
+          
+            
+              c
+              
+              (
+              1
+              +
+              c
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              (
+              1
+              +
+              c
+              
+                )
+                
+                  n
+                
+              
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle P=L\cdot {\frac {c\,(1+c)^{n}}{(1+c)^{n}-1}}}
+  For more information, see monthly amortized loan or mortgage payments.
+
+
+== Abuses in lending ==
+Predatory lending is one form of abuse in the granting of loans. It usually involves granting a loan in order to put the borrower in a position that one can gain advantage over them; subprime mortgage-lending and payday-lending are two examples, where the moneylender is not authorized or regulated, the lender could be considered a loan shark.
+Usury is a different form of abuse, where the lender charges excessive interest. In different time periods and cultures, the acceptable interest rate has varied, from no interest at all as in the biblical prescript, to unlimited interest rates. Credit card companies in some countries have been accused by consumer organizations of lending at usurious interest rates and making money out of frivolous "extra charges".Abuses can also take place in the form of the customer defrauding the lender by borrowing without intending to repay the loan.
+
+
+== United States taxes ==
+Most of the basic rules governing how loans are handled for tax purposes in the United States are codified by both Congress (the Internal Revenue Code) and the Treasury Department (Treasury Regulations –  another set of rules that interpret the Internal Revenue Code).: 111 
+A loan is not gross income to the borrower.: 111  Since the borrower has the obligation to repay the loan, the borrower has no accession to wealth.: 111 
+The lender may not deduct (from own gross income) the amount of the loan.: 111  The rationale here is that one asset (the cash) has been converted into a different asset (a promise of repayment).: 111  Deductions are not typically available when an outlay serves to create a new or different asset.: 111 
+The amount paid to satisfy the loan obligation is not deductible (from own gross income) by the borrower.: 111 
+Repayment of the loan is not gross income to the lender.: 111  In effect, the promise of repayment is converted back to cash, with no accession to wealth by the lender.: 111 
+Interest paid to the lender is included in the lender's gross income.: 111   Interest paid represents compensation for the use of the lender's money or property and thus represents profit or an accession to wealth to the lender.: 111  Interest income can be attributed to lenders even if the lender does not charge a minimum amount of interest.: 112 
+Interest paid to the lender may be deductible by the borrower.: 111  In general, interest paid in connection with the borrower's business activity is deductible, while interest paid on personal loans are not deductible.: 111  The major exception here is interest paid on a home mortgage.: 111 
+
+
+=== Income from discharge of indebtedness ===
+Although a loan does not start out as income to the borrower, it becomes income to the borrower if the borrower is discharged of indebtedness.: 111  Thus, if a debt is discharged, then the borrower essentially has received income equal to the amount of the indebtedness. The Internal Revenue Code lists "Income from Discharge of Indebtedness" in Section 61(a)(12) as a source of gross income.
+Example: X owes Y $50,000. If Y discharges the indebtedness, then X no longer owes Y $50,000. For purposes of calculating income, this is treated the same way as if Y gave X $50,000.
+For a more detailed description of the "discharge of indebtedness", look at Section 108 (Cancellation-of-debt income) of the Internal Revenue Code.
+
+
+== See also ==
+
+US specific:
+
+
+== References ==

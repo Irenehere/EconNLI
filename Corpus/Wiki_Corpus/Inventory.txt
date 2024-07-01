@@ -1,0 +1,178 @@
+Inventory (American English) or stock (British English) refers to the goods and materials that a business holds for the ultimate goal of resale, production or utilisation.Inventory management is a discipline primarily about specifying the shape and placement of stocked goods. It is required at different locations within a facility or within many locations of a supply network to precede the regular and planned course of production and stock of materials.
+The concept of inventory, stock or work in process (or work in progress) has been extended from manufacturing systems to service businesses  and projects, by generalizing the definition to be "all work within the process of production—all work that is or has occurred prior to the completion of production". In the context of a manufacturing production system, inventory refers to all work that has occurred—raw materials, partially finished products, finished products prior to sale and departure from the manufacturing system. In the context of services, inventory refers to all work done prior to sale, including partially process information.
+
+
+== Business inventory ==
+
+
+=== Reasons for keeping stock ===
+There are five basic reasons for keeping an inventory:
+
+Time: The time lags present in the supply chain, from supplier to user at every stage, requires that you maintain certain amounts of inventory to use in this lead time. However, in practice, inventory is to be maintained for consumption during 'variations in lead time'. Lead time itself can be addressed by ordering that many days in advance.
+Seasonal demand: Demands varies periodically, but producers capacity is fixed. This can lead to stock accumulation, consider for example how goods consumed only in holidays can lead to accumulation of large stocks on the anticipation of future consumption.
+Uncertainty: Inventories are maintained as buffers to meet uncertainties in demand, supply and movements of goods.
+Economies of scale: Ideal condition of "one unit at a time at a place where a user needs it, when he needs it" principle tends to incur lots of costs in terms of logistics. So bulk buying, movement and storing brings in economies of scale, thus inventory.
+Appreciation in value: In some situations, some stock gains the required value when it is kept for some time to allow it reach the desired standard for consumption, or for production. For example, beer in the brewing industry.All these stock reasons can apply to any owner or product.
+
+
+=== Special terms used in dealing with inventory management ===
+Stock Keeping Unit (SKU) SKUs are clear, internal identification numbers assigned to each of the products and their variants. SKUs can be any combination of letters and numbers chosen, just as long as the system is consistent and used for all the products in the inventory. An SKU code may also be referred to as product code, barcode, part number or MPN (Manufacturer's Part Number)."Specialinvestor.com". www.specialinvestor.com. Archived from the original on 31 December 2006. Retrieved 8 May 2018.</ref>
+"New old stock" (sometimes abbreviated NOS) is a term used in business to refer to merchandise being offered for sale that was manufactured long ago but that has never been used. Such merchandise may not be produced anymore, and the new old stock may represent the only market source of a particular item at the present time.
+ABC analysis (also known as Pareto analysis) is a method of classifying inventory items based on their contribution to total sales revenue. This can be used to prioritize inventory management efforts and ensure that businesses are focusing on the most important items.
+
+
+=== Typology ===
+Buffer/safety stock: Safety stock is the additional inventory that a company keeps on hand to mitigate the risk of stockouts or delays in supply chain. It is the extra stock that is kept in reserve above and beyond the regular inventory levels. The purpose of safety stock is to provide a buffer against fluctuations in demand or supply that could otherwise result in stockouts.
+Reorder level: Reorder level refers to the point when a company place an order to re-fill the stocks. Reorder point depends on the inventory policy of a company. Some companies place orders when the inventory level is lower than a certain quantity. Some companies place orders periodically.
+Cycle stock: Used in batch processes, cycle stock is the available inventory, excluding buffer stock.
+De-coupling: Buffer stock held between the machines in a single process which serves as a buffer for the next one allowing smooth flow of work instead of waiting the previous or next machine in the same process.
+Anticipation stock: Building up extra stock for periods of increased demand—e.g., ice cream for summer.
+Pipeline stock: Goods still in transit or in the process of distribution; e.g., they have left the factory but not arrived at the customer yet. Often calculated as: Average Daily / Weekly usage quantity X Lead time in days + Safety stock.
+
+
+=== Inventory examples ===
+While accountants often discuss inventory in terms of goods for sale, organizations—manufacturers, service-providers and not-for-profits—also have inventories (fixtures, equipment, furniture, supplies, parts, etc.) that they do not intend to sell. Manufacturers', distributors', and wholesalers' inventory tends to cluster in warehouses. Retailers' inventory may exist in a warehouse or in a shop or store accessible to customers. Inventories not intended for sale to customers or to clients may be held in any premises an organization uses. Stock ties up cash and, if uncontrolled, it will be impossible to know the actual level of stocks and therefore difficult to keep the costs associated with holding too much or too little inventory under control.
+While the reasons for holding stock were covered earlier, most manufacturing organizations usually divide their "goods for sale" inventory into:
+
+Raw materials: Materials and components scheduled for use in making a product.
+Work in process (WIP): Materials and components that have begun their transformation to finished goods. These are used in process of manufacture and as such these are neither raw material nor finished goods.
+Finished goods: Goods ready for sale to customers.
+Goods for resale: Returned goods that are salable.
+Stocks in transit: The materials which are not at the seller's location or buyers' location but in between are "stocks in transit". Or we could say, the stocks which left the seller's plant but have not reached the buyer, and are in transit.
+Consignment stocks: The inventories where goods are with the buyer, but the actual ownership of goods remains with the seller until the goods are sold. Though the goods were transported to the buyer, payment of goods is done once the goods are sold. Hence such stocks are known as consignment stocks.
+Maintenance supply.For example:
+
+
+==== Manufacturing ====
+A canned food manufacturer's materials inventory includes the ingredients to form the foods to be canned, empty cans and their lids (or coils of steel or aluminum for constructing those components), labels, and anything else (solder, glue, etc.) that will form part of a finished can. The firm's work in process includes those materials from the time of release to the work floor until they become complete and ready for sale to wholesale or retail customers. This may be vats of prepared food, filled cans not yet labeled or sub-assemblies of food components. It may also include finished cans that are not yet packaged into cartons or pallets. Its finished good inventory consists of all the filled and labeled cans of food in its warehouse that it has manufactured and wishes to sell to food distributors (wholesalers), to grocery stores (retailers), and even perhaps to consumers through arrangements like factory stores and outlet centers.
+
+
+==== Capital projects ====
+The partially completed work (or work in process) is a measure of inventory built during the work execution of a capital project, such as encountered in civilian infrastructure construction or oil and gas. Inventory may not only reflect physical items (such as materials, parts, partially-finished sub-assemblies) but also knowledge work-in-process (such as partially completed engineering designs of components and assemblies to be fabricated).
+
+
+==== Virtual inventory ====
+A "virtual inventory" (also known as a "bank inventory") enables a group of users to share common parts, especially where their availability at short notice may be critical but they are unlikely to required by more than a few bank members at any one time. Virtual inventory also allows distributors and fulfilment houses to ship goods to retailers direct from stock regardless of whether the stock is held in a retail store, stock room or warehouse.
+
+
+=== Costs associated with inventory ===
+There are several costs associated with inventory:
+
+Ordering cost
+Setup cost
+Holding Cost
+Shortage Cost
+
+
+== Principle of inventory proportionality ==
+
+
+=== Purpose ===
+Inventory proportionality is the goal of demand-driven inventory management. The primary optimal outcome is to have the same number of days' (or hours', etc.) worth of inventory on hand across all products so that the time of runout of all products would be simultaneous. In such a case, there is no "excess inventory", that is, inventory that would be left over of another product when the first product runs out. Holding excess inventory is sub-optimal because the money spent to obtain and the cost of holding it could have been utilized better elsewhere, i.e. to the product that just ran out.
+The secondary goal of inventory proportionality is inventory minimization. By integrating accurate demand forecasting with inventory management, rather than only looking at past averages, a much more accurate and optimal outcome is expected. Integrating demand forecasting into inventory management in this way also allows for the prediction of the "can fit" point when inventory storage is limited on a per-product basis.
+
+
+=== Applications ===
+The technique of inventory proportionality is most appropriate for inventories that remain unseen by the consumer, as opposed to "keep full" systems where a retail consumer would like to see full shelves of the product they are buying so as not to think they are buying something old, unwanted or stale; and differentiated from the "trigger point" systems where product is reordered when it hits a certain level; inventory proportionality is used effectively by just-in-time manufacturing processes and retail applications where the product is hidden from view.
+One early example of inventory proportionality used in a retail application in the United States was for motor fuel. Motor fuel (e.g. gasoline) is generally stored in underground storage tanks. The motorists do not know whether they are buying gasoline off the top or bottom of the tank, nor need they care. Additionally, these storage tanks have a maximum capacity and cannot be overfilled. Finally, the product is expensive. Inventory proportionality is used to balance the inventories of the different grades of motor fuel, each stored in dedicated tanks, in proportion to the sales of each grade. Excess inventory is not seen or valued by the consumer, so it is simply cash sunk (literally) into the ground. Inventory proportionality minimizes the amount of excess inventory carried in underground storage tanks. This application for motor fuel was first developed and implemented by Petrolsoft Corporation in 1990 for Chevron Products Company. Most major oil companies use such systems today.
+
+
+=== Roots ===
+The use of inventory proportionality in the United States is thought to have been inspired by Japanese just-in-time parts inventory management made famous by Toyota Motors in the 1980s.
+
+
+== High-level inventory management ==
+It seems that around 1880 there was a change in manufacturing practice from companies with relatively homogeneous lines of products to horizontally integrated companies with unprecedented diversity in processes and products. Those companies (especially in metalworking) attempted to achieve success through economies of scope—the gains of jointly producing two or more products in one facility. The managers now needed information on the effect of product-mix decisions on overall profits and therefore needed accurate product-cost information. A variety of attempts to achieve this were unsuccessful due to the huge overhead of the information processing of the time. However, the burgeoning need for financial reporting after 1900 created unavoidable pressure for financial accounting of stock and the management need to cost manage products became overshadowed. In particular, it was the need for audited accounts that sealed the fate of managerial cost accounting. The dominance of financial reporting accounting over management accounting remains to this day with few exceptions, and the financial reporting definitions of 'cost' have distorted effective management 'cost' accounting since that time. This is particularly true of inventory.
+Hence, high-level financial inventory has these two basic formulas, which relate to the accounting period:
+
+Cost of Beginning Inventory at the start of the period + inventory purchases within the period + cost of production within the period =  cost of goods available
+Cost of goods available − cost of ending inventory at the end of the period = cost of goods soldThe benefit of these formulas is that the first absorbs all overheads of production and raw material costs into a value of inventory for reporting. The second formula then creates the new start point for the next period and gives a figure to be subtracted from the sales price to determine some form of sales-margin figure.
+Manufacturing management is more interested in inventory turnover ratio or average days to sell inventory since it tells them something about relative inventory levels.
+
+Inventory turnover ratio (also known as inventory turns) = cost of goods sold / Average Inventory = Cost of Goods Sold / ((Beginning Inventory + Ending Inventory) / 2)and its inverse
+
+Average Days to Sell Inventory = Number of Days a Year / Inventory Turnover Ratio = 365 days a year / Inventory Turnover RatioThis ratio estimates how many times the inventory turns over a year. This number tells how much cash/goods are tied up waiting for the process and is a critical measure of process reliability and effectiveness. So a factory with two inventory turns has six months stock on hand, which is generally not a good figure (depending upon the industry), whereas a factory that moves from six turns to twelve turns has probably improved effectiveness by 100%. This improvement will have some negative results in the financial reporting, since the 'value' now stored in the factory as inventory is reduced.
+While these accounting measures of inventory are very useful because of their simplicity, they are also fraught with the danger of their own assumptions. There are, in fact, so many things that can vary hidden under this appearance of simplicity that a variety of 'adjusting' assumptions may be used. These include:
+
+Specific Identification
+Lower of cost or market
+Weighted Average Cost
+Moving-Average Cost
+FIFO and LIFO.
+Queueing theory.Inventory Turn is a financial accounting tool for evaluating inventory and it is not necessarily a management tool. Inventory management should be forward looking. The methodology applied is based on historical cost of goods sold. The ratio may not be able to reflect the usability of future production demand, as well as customer demand.
+Business models, including Just in Time (JIT) Inventory, Vendor Managed Inventory (VMI) and Customer Managed Inventory (CMI), attempt to minimize on-hand inventory and increase inventory turns. VMI and CMI have gained considerable attention due to the success of third-party vendors who offer added expertise and knowledge that organizations may not possess.
+Inventory management also involves risk which varies depending upon a firm's position in the distribution channel. Some typical measures of inventory exposure are width of commitment, time of duration and depth. Inventory management in modern days is online oriented and more viable in digital. This type of dynamics order management will require end-to-end visibility, collaboration across fulfillment processes, real-time data automation among different companies, and integration among multiple systems.
+
+
+== Accounting for inventory ==
+Each country has its own rules about accounting for inventory that fit with their financial-reporting rules.
+For example, organizations in the U.S. define inventory to suit their needs within US Generally Accepted Accounting Practices (GAAP), the rules defined by the Financial Accounting Standards Board (FASB) (and others) and enforced by the U.S. Securities and Exchange Commission (SEC) and other federal and state agencies. Other countries often have similar arrangements but with their own accounting standards and national agencies instead.
+It is intentional that financial accounting uses standards that allow the public to compare firms' performance, cost accounting functions internally to an organization and potentially with much greater flexibility. A discussion of inventory from standard and Theory of Constraints-based (throughput) cost accounting perspective follows some examples and a discussion of inventory from a financial accounting perspective.
+The internal costing/valuation of inventory can be complex. Whereas in the past most enterprises ran simple, one-process factories, such enterprises are quite probably in the minority in the 21st century. Where 'one process' factories exist, there is a market for the goods created, which establishes an independent market value for the good. Today, with multistage-process companies, there is much inventory that would once have been finished goods which is now held as 'work in process' (WIP). This needs to be valued in the accounts, but the valuation is a management decision since there is no market for the partially finished product. This somewhat arbitrary 'valuation' of WIP combined with the allocation of overheads to it has led to some unintended and undesirable results.
+
+
+=== Financial accounting ===
+An organization's inventory can appear a mixed blessing, since it counts as an asset on the balance sheet, but it also ties up money that could serve for other purposes and requires additional expense for its protection. Inventory may also cause significant tax expenses, depending on particular countries' laws regarding depreciation of inventory, as in Thor Power Tool Company v. Commissioner.
+Inventory appears as a current asset on an organization's balance sheet because the organization can, in principle, turn it into cash by selling it. Some organizations hold larger inventories than their operations require in order to inflate their apparent asset value and their perceived profitability.
+In addition to the money tied up by acquiring inventory, inventory also brings associated costs for warehouse space, for utilities, and for insurance to cover staff to handle and protect it from fire and other disasters, obsolescence, shrinkage (theft and errors), and others. Such holding costs can mount up: between a third and a half of its acquisition value per year. 
+Businesses that stock too little inventory cannot take advantage of large orders from customers if they cannot deliver. The conflicting objectives of cost control and customer service often put an organization's financial and operating managers against its sales and marketing departments. Salespeople, in particular, often receive sales-commission payments, so unavailable goods may reduce their potential personal income. This conflict can be minimised by reducing production time to being near or less than customers' expected delivery time. This effort, known as "Lean production" will significantly reduce working capital tied up in inventory and reduce manufacturing costs (See the Toyota Production System).
+
+
+=== Role of inventory accounting ===
+By helping the organization to make better decisions, the accountants can help the public sector to change in a very positive way that delivers increased value for the taxpayer's investment. It can also help to incentive's progress and to ensure that reforms are sustainable and effective in the long term, by ensuring that success is appropriately recognized in both the formal and informal reward systems of the organization.
+To say that they have a key role to play is an understatement. Finance is connected to most, if not all, of the key business processes within the organization. It should be steering the stewardship and accountability systems that ensure that the organization is conducting its business in an appropriate, ethical manner. It is critical that these foundations are firmly laid. So often they are the litmus test by which public confidence in the institution is either won or lost.
+Finance should also be providing the information, analysis and advice to enable the organizations’ service managers to operate effectively. This goes beyond the traditional preoccupation with budgets—how much have we spent so far, how much do we have left to spend? It is about helping the organization to better understand its own performance. That means making the connections and understanding the relationships between given inputs—the resources brought to bear—and the outputs and outcomes that they achieve. It is also about understanding and actively managing risks within the organization and its activities.
+
+
+=== FIFO vs. LIFO accounting ===
+
+When a merchant buys goods from inventory, the value of the inventory account is reduced by the cost of goods sold (COGS). This is simple where the cost has not varied across those held in stock; but where it has, then an agreed method must be derived to evaluate it. For commodity items that one cannot track individually, accountants must choose a method that fits the nature of the sale. Two popular methods in use are: FIFO (first in, first out) and LIFO (last in, first out).
+FIFO treats the first unit that arrived in inventory as the first one sold. LIFO considers the last unit arriving in inventory as the first one sold. Which method an accountant selects can have a significant effect on net income and book value and, in turn, on taxation. Using LIFO accounting for inventory, a company generally reports lower net income and lower book value, due to the effects of inflation. This generally results in lower taxation. Due to LIFO's potential to skew inventory value, UK GAAP and IAS have effectively banned LIFO inventory accounting. LIFO accounting is permitted in the United States subject to section 472 of the Internal Revenue Code.
+
+
+=== Standard cost accounting ===
+
+Standard cost accounting uses ratios called efficiencies that compare the labour and materials actually used to produce a good with those that the same goods would have required under "standard" conditions. As long as actual and standard conditions are similar, few problems arise. Unfortunately, standard cost accounting methods developed about 100 years ago, when labor comprised the most important cost in manufactured goods. Standard methods continue to emphasize labor efficiency even though that resource now constitutes a (very) small part of cost in most cases.
+Standard cost accounting can hurt managers, workers, and firms in several ways. For example, a policy decision to increase inventory can harm a manufacturing manager's performance evaluation. Increasing inventory requires increased production, which means that processes must operate at higher rates. When (not if) something goes wrong, the process takes longer and uses more than the standard labor time. The manager appears responsible for the excess, even though s/he has no control over the production requirement or the problem.
+In adverse economic times, firms use the same efficiencies to downsize, rightsize, or otherwise reduce their labor force. Workers laid off under those circumstances have even less control over excess inventory and cost efficiencies than their managers.
+Many financial and cost accountants have agreed for many years on the desirability of replacing standard cost accounting. They have not, however, found a successor.
+
+
+=== Theory of constraints cost accounting ===
+Eliyahu M. Goldratt developed the Theory of Constraints in part to address the cost-accounting problems in what he calls the "cost world." He offers a substitute, called throughput accounting, that uses throughput (money for goods sold to customers) in place of output (goods produced that may sell or may boost inventory) and considers labor as a fixed rather than as a variable cost. He defines inventory simply as everything the organization owns that it plans to sell, including buildings, machinery, and many other things in addition to the categories listed here. Throughput accounting recognizes only one class of variable costs: the truly variable costs, like materials and components, which vary directly with the quantity produced
+Finished goods inventories remain balance-sheet assets, but labor-efficiency ratios no longer evaluate managers and workers. Instead of an incentive to reduce labor cost, throughput accounting focuses attention on the relationships between throughput (revenue or income) on one hand and controllable operating expenses and changes in inventory on the other.
+
+
+== National accounts ==
+Inventories also play an important role in national accounts and the analysis of the business cycle. Some short-term macroeconomic fluctuations are attributed to the inventory cycle.
+
+
+== Distressed inventory ==
+Also known as distressed or expired stock, distressed inventory is inventory whose potential to be sold at a normal cost has passed or will soon pass. In certain industries it could also mean that the stock is or will soon be impossible to sell. Examples of distressed inventory include products which have reached their expiry date, or have reached a date in advance of expiry at which the planned market will no longer purchase them (e.g. 3 months left to expiry), clothing which is out of fashion, music which is no longer popular and old newspapers or magazines. It also includes computer or consumer-electronic equipment which is obsolete or discontinued and whose manufacturer is unable to support it, along with products which use that type of equipment e.g. VHS format equipment and videos.In 2001, Cisco wrote off inventory worth US$2.25 billion due to duplicate orders. This is considered one of the biggest inventory write-offs in business history.
+
+
+== Stock rotation ==
+Stock rotation is the practice of changing the way inventory is displayed on a regular basis. This is most commonly used in hospitality and retail - particularity where food products are sold. For example, in the case of supermarkets that a customer frequents on a regular basis, the customer may know exactly what they want and where it is. This results in many customers going straight to the product they seek and do not look at other items on sale. To discourage this practice, stores will rotate the location of stock to encourage customers to look through the entire store. This is in hopes the customer will pick up items they would not normally see.
+
+
+== Inventory credit ==
+Inventory credit refers to the use of stock, or inventory, as collateral to raise finance. Where banks may be reluctant to accept traditional collateral, for example in developing countries where land title may be lacking, inventory credit is a potentially important way of overcoming financing constraints. This is not a new concept; archaeological evidence suggests that it was practiced in Ancient Rome. Obtaining finance against stocks of a wide range of products held in a bonded warehouse is common in much of the world. It is, for example, used with Parmesan cheese in Italy. Inventory credit on the basis of stored agricultural produce is widely used in Latin American countries and in some Asian countries. A precondition for such credit is that banks must be confident that the stored product will be available if they need to call on the collateral; this implies the existence of a reliable network of certified warehouses. Banks also face problems in valuing the inventory. The possibility of sudden falls in commodity prices means that they are usually reluctant to lend more than about 60% of the value of the inventory at the time of the loan.
+
+
+== Journal ==
+International Journal of Inventory Research
+Omega - The International Journal of Management Science
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Kieso, DE; Warfield, TD; Weygandt, JJ (2007). Intermediate Accounting 8th Canadian Edition. Canada: John Wiley & Sons. ISBN 978-0-470-15313-0.
+Cannella S., Ciancimino E. (2010) Up-to-date Supply Chain Management: the Coordinated (S,R). In "Advanced Manufacturing and Sustainable Logistics". Dangelmaier  W. et al. (Eds.) 175–185. Springer-Verlag  Berlin Heidelberg, Germany.

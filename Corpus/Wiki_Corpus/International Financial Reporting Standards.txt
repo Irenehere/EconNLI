@@ -1,0 +1,166 @@
+International Financial Reporting Standards, commonly called IFRS, are accounting standards issued by the IFRS Foundation and the International Accounting Standards Board (IASB). They constitute a standardised way of describing the company's financial performance and position so that company financial statements are understandable and comparable across international boundaries. They are particularly relevant for companies with shares or securities publicly listed.
+IFRS have replaced many different national accounting standards around the world but have not replaced the separate accounting standards in the United States where U.S. GAAP is applied.
+
+
+== History ==
+The International Accounting Standards Committee (IASC) was established in June 1973 by accountancy bodies representing ten countries.  It devised and published International Accounting Standards (IAS), interpretations and a conceptual framework.  These were looked to by many national accounting standard-setters in developing national standards.In 2001 the International Accounting Standards Board (IASB) replaced the IASC with a remit to bring about convergence between national accounting standards through the development of global accounting standards.  During its first meeting the new Board adopted existing IAS and Standing Interpretations Committee standards (SICs). The IASB has continued to develop standards calling the new standards "International Financial Reporting Standards" (IFRS).In 2002 the European Union (EU) agreed that, from 1 January 2005, International Financial Reporting Standards would apply for the consolidated accounts of the EU listed companies, bringing about the introduction of IFRS to many large entities.  Other countries have since followed the lead of the EU.
+In 2021 on the occasion of COP26 of the United Nations Framework Convention on Climate Change in Glasgow the IFRS Foundation announced the formation of the new International Sustainability Standards Board ISSB.
+
+
+== Adoption ==
+IFRS Standards are required or permitted in 132 jurisdictions across the world, including major countries and territories such as Australia, Brazil, Canada, Chile, the European Union, GCC countries, Hong Kong, India, Israel, Malaysia, Pakistan, Philippines, Russia,  Singapore, South Africa, South Korea, Taiwan, and Turkey.To assess progress towards the goal of a single set of global accounting standards, the IFRS Foundation has developed and posted profiles about the use of IFRS Standards in individual jurisdictions. These are based on information from various sources. The starting point was the responses provided by standard-setting and other relevant bodies to a survey that the IFRS Foundation conducted. As of August 2019, profiles are completed for 166 jurisdictions, with 166 jurisdictions requiring the use of IFRS Standards.Due to the difficulty of maintaining up-to-date information in individual jurisdictions, three sources of information on current worldwide IFRS adoption are recommended:
+
+IFRS Foundation profiles page
+The World Bank
+International Federation of AccountantsRay J. Ball described the expectation by the European Union and others that IFRS adoption worldwide would be beneficial to investors and other users of financial statements, by reducing the costs of comparing investment opportunities and increasing the quality of information. Companies are also expected to benefit, as investors will be more willing to provide financing. Companies that have high levels of international activities are among the group that would benefit from a switch to IFRS Standards. Companies that are involved in foreign activities and investing benefit from the switch due to the increased comparability of a set accounting standard. However, Ray J. Ball has expressed some scepticism of the overall cost of the international standard; he argues that the enforcement of the standards could be lax, and the regional differences in accounting could become obscured behind a label. He also expressed concerns about the fair value emphasis of IFRS and the influence of accountants from non-common-law regions, where losses have been recognised in a less timely manner.
+
+
+== US Generally Accepted Accounting Principles ==
+US Generally Accepted Accounting Principles, commonly called US GAAP, remains separate from IFRS.  The Securities Exchange Committee (SEC) requires the use of US GAAP by domestic companies with listed securities and does not permit them to use IFRS; US GAAP is also used by some companies in Japan and the rest of the world.
+In 2002 IASB and the Financial Accounting Standards Board (FASB), the body supporting US GAAP, announced a programme known as the Norwalk Agreement that aimed at eliminating differences between IFRS and US GAAP. In 2012 the SEC announced that it expected separate US GAAP to continue for the foreseeable future but sought to encourage further work to align the two standards.IFRS is sometimes described as principles-based, as opposed to a rules-based approach in US GAAP; so in US GAAP there is more instruction in the application of standards to specific examples and industries.
+
+
+== Conceptual Framework for Financial Reporting ==
+The Conceptual Framework serves as a tool for the IASB to develop standards. It does not override the requirements of individual IFRSs. Some companies may use the Framework as a reference for selecting their accounting policies in the absence of specific IFRS requirements.
+
+
+=== Objective of financial statements ===
+The Conceptual Framework states that the primary purpose of financial information is to be useful to existing and potential investors, lenders and other creditors when making decisions about the financing of the entity and exercising rights to vote on, or otherwise influence, management's actions that affect the use of the entity's economic resources.Users base their expectations of returns on their assessment of:
+
+The amount, timing and uncertainty of future net cash inflows to the entity;
+Management's stewardship of the entity's resources.
+
+
+=== Qualitative characteristics of financial information ===
+The Conceptual Framework for Financial Reporting defines the fundamental qualitative characteristics of financial information to be:
+Relevance; and
+Faithful representationThe Framework also describes and 
+qualitative characteristics:
+
+Comparability
+Verifiability
+Timeliness
+Understandability
+
+
+=== Elements of financial statements ===
+The Conceptual Framework defines the elements of financial statements to be:-
+Asset: A present economic resource controlled by the entity as a result of past events which are expected to generate future economic benefits
+Liability: A present obligation of the entity to transfer an economic resource as a result of past events
+Equity: The residual interest in the assets of the entity after deducting all its liabilities
+Income: increases in economic benefit during an accounting period in the form of inflows or enhancements of assets, or decrease of liabilities that result in increases in equity. However, it does not include the contributions made by the equity participants (for example owners, partners or shareholders).
+Expenses: decreases in assets, or increases in liabilities, that result in decreases in equity. However, these do not include the distributions made to the equity participants.
+Other changes in economic resources and claims: Contributions from holders of equity and distributions to them
+
+
+=== Recognition of elements of financial statements ===
+An item is recognized in the financial statements when:
+it is probable that future economic benefit will flow to or from an entity.
+the resource can be reliably measuredIn some cases specific standards add additional conditions before recognition is possible or prohibit recognition altogether.
+An example is the recognition of internally generated brands, mastheads, publishing titles, customer lists and items similar in substance, for which recognition is prohibited by IAS 38. In addition research and development expenses can only be recognised as an intangible asset if they cross the threshold of being classified as 'development cost'.Whilst the standard on provisions, IAS 37, prohibits the recognition of a provision for contingent liabilities, this prohibition is not applicable to the accounting for contingent liabilities in a business combination. In that case the acquirer shall recognise a contingent liability even if it is not probable that an outflow of resources embodying economic benefits will be required.
+
+
+=== Concepts of capital and capital maintenance ===
+Concepts of capital maintenance are important as only income earned in excess of amounts needed to maintain capital may be regarded as profit. The Conceptual Framework describes the following concepts of capital maintenance:
+Financial capital maintenance. Under this concept a profit is earned only if the financial amount of the net assets at the end of the period exceeds the financial (or money) amount of net assets at the beginning of the period, after excluding any distributions to, and contributions from owners during the period. Financial capital maintenance can be measured in either nominal monetary units or units of constant purchasing power;
+Physical capital maintenance. Under this concept a profit is earned only if the physical productive capacity (or operating capacity) of the entity (or the resources or funds needed to achieve that capacity) at the end of the period exceeds the physical productive capacity at the beginning of period, after excluding any distributions to, and contributions from owners during the period.Most entities adopt a financial concept of capital maintenance. However, the Conceptual Framework does not prescribe any model of capital maintenance.
+
+
+== Requirements ==
+
+
+=== Presentation of financial statements ===
+IFRS financial statements consist of:
+a statement of financial position (balance sheet)
+a statement of comprehensive income.  This may be presented as a single statement or with a separate statement of profit and loss and a statement of other comprehensive income
+a statement of changes in equity
+a statement of cash flows
+notes, including a summary of the significant accounting policies.Comparative information is required for the prior reporting period.
+
+
+=== General features ===
+The following are the general features in IFRS:
+
+Fair presentation and compliance with IFRS: Fair presentation requires the faithful representation of the effects of the transactions, other events and conditions in accordance with the definitions and recognition criteria for assets, liabilities, income and expenses set out in the Framework of IFRS.
+Going concern: Financial statements are present on a going concern basis unless management either intends to liquidate the entity or to cease trading, or has no realistic alternative but to do so.
+Accrual basis of accounting: An entity shall recognise items as assets, liabilities, equity, income and expenses when they satisfy the definition and recognition criteria for those elements in the Framework of IFRS.
+Materiality and aggregation: Every material class of similar items has to be presented separately. Items that are of a dissimilar nature or function shall be presented separately unless they are immaterial.
+Offsetting: Offsetting is generally forbidden in IFRS. However certain standards require offsetting when specific conditions are satisfied (such as in case of the accounting for defined benefit liabilities in IAS 19 and the net presentation of deferred tax liabilities and deferred tax assets in IAS 12).
+Frequency of reporting: IFRS requires that at least annually a complete set of financial statements is presented. However listed companies generally also publish interim financial statements (for which the accounting is fully IFRS compliant) for which the presentation is in accordance with IAS 34 Interim Financing Reporting.
+Comparative information: IFRS requires entities to present comparative information in respect of the preceding period for all amounts reported in the current period's financial statements. In addition comparative information shall also be provided for narrative and descriptive information if it is relevant to understanding the current period's financial statements. The standard IAS 1 also requires an additional statement of financial position (also called a third balance sheet) when an entity applies an accounting policy retrospectively or makes a retrospective restatement of items in its financial statements, or when it reclassifies items in its financial statements. This for example occurred with the adoption of the revised standard IAS 19 (as of 1 January 2013) or when the new consolidation standards IFRS 10-11-12 were adopted (as of 1 January 2013 or 2014 for companies in the European Union).
+Consistency of presentation: IFRS requires that the presentation and classification of items in the financial statements is retained from one period to the next unless: 
+
+
+=== Cash flow statements ===
+Cash flow statements in IFRS are presented as follows:
+Operating cash flows: the principal revenue-producing activities of the entity and are generally calculated by applying the indirect method, whereby profit or loss is adjusted for the effects of transaction of a non-cash nature, any deferrals or accruals of past or future cash receipts or payments, and items of income or expense associated with investing or financing cash flows.
+Investing cash flows: the acquisition and disposal of long-term assets and other investments not included in cash equivalents. These represent the extent to which expenditures have been made for resources intended to generate future income and cash flows. Only expenditures that result in a recognised asset in the statement of financial position are eligible for classification as investing activities.
+Financing cash flows: activities that result in changes in the size and composition of the contributed equity and borrowings of the entity. These are important because they are useful in predicting claims on future cash flows by providers of capital to the entity.
+
+
+== Criticisms ==
+In 2012, staff of the Securities and Exchange Commission (SEC) issued a report setting out observations on a potential adoption of IFRS in the United States.  This included the following criticisms:-
+that it would be expensive for companies to move to compliance with IFRS;
+that the IASB had reliance on funding from large accounting firms which might jeopardise its actual or perceived independence;
+that the process of convergence of IFRS with US GAAP had not made progress in some areas;
+that the valuation of inventory under Last In First Out (LIFO) remains common in the United States, where it has some tax advantages, but would be prohibited under IFRS;
+that IFRS is not comprehensive in its coverage.IASB staff have responded to these observations and concluded that there were no insurmountable obstacles for the adoption of IFRS by the United States.In 2013 IASB member Philippe Danjou listed ten common criticisms of IFRS.  He sought to counter these, describing them as misconceptions
+IFRS practise a generalized "fair value"
+IFRS are intended to reflect the global financial value of the company
+IFRS deny the concept of accounting conservatism
+IFRS give prominence to economic reality over legal form
+Directors can't make heads or tails of IFRS financial statements
+IFRS financial statements do not reflect the business model
+Financial instruments are stated at "full fair value", thereby maximizing earnings volatility.  The "fair value" is always defined as "market value" even when markets are illiquid.
+The treatment of business combinations is irrational.
+IFRSs create accounting volatility that does not reflect the economic reality.Charles Lee, professor of accounting at Stanford Graduate School of Business, has also criticised the use of fair values in financial reporting.In 2019, H David Sherman and S David Young criticised the current state of financial reporting under IFRS and US GAAP:-
+Convergence of reporting standards has stalled.  IFRS is not consistently applied;
+Alternative methods of revenue recognition make it difficult to interpret reported results;
+Many companies are using unofficial measures, for example earnings before interest, tax, depreciation and amortisation (EBITDA), whether to get around a deficiency in the format in accounting standards or potentially to mislead users;
+Companies can control decisions on expenditure to manage results.
+
+
+== Economic effects ==
+Many researchers have studied the effects of IFRS adoption but results are unclear. For example, one study uses data from 26 countries to study the economic consequences of mandatory IFRS adoption. It shows that, on average, even though market liquidity increases around the time of the introduction of IFRS, it is unclear whether IFRS mandate adoption is the sole reason of observed market effects.  Firms' reporting incentives, law enforcement, and increased comparability of financial reports can also explain the effects.
+The adoption of IFRS in the European Union is a special case because it is an element of wider reforms aiming to consolidate the economies of member countries. One study reports positive market effects for companies adopting IFRS but these positive effects occurred even before the transition took place. Another study looked at the development of the stock market in Poland; it found positive effects associated with Poland joining the EU but no specific effect attributable to the IFRS. Interestingly, member states maintain a large degree of independence in setting national accounting standards for companies that prefer to stay local.
+
+
+== See also ==
+List of International Financial Reporting Standards
+Chinese accounting standards
+Generally Accepted Accounting Principles (Canada)
+Generally Accepted Accounting Principles (France)
+Generally Accepted Accounting Principles (UK)
+Generally Accepted Accounting Principles (United States)
+Indian Accounting Standards
+International Public Sector Accounting Standards
+Nepal Financial Reporting Standards
+Philosophy of accounting
+
+
+== References ==
+
+
+== Further reading ==
+International Accounting Standards Board (2007): International Financial Reporting Standards 2007 (including International Accounting Standards (IAS(tm)) and Interpretations as of 1 January 2007), LexisNexis, ISBN 1-4224-1813-8
+Original texts of IAS/IFRS, SIC and IFRIC adopted by the Commission of the European Communities and published in Official Journal of the European Union https://web.archive.org/web/20061020223959/http://ec.europa.eu/internal_market/accounting/ias_en.htm#adopted-commission
+Case studies of IFRS implementation in Brazil Archived 4 July 2010 at the Wayback Machine, Germany Archived 4 July 2010 at the Wayback Machine, India, Jamaica Archived 4 July 2010 at the Wayback Machine, Kenya Archived 31 March 2010 at the Wayback Machine, Pakistan, South Africa and Turkey. Prepared by the United Nations Intergovernmental Working Group of Experts on International Standards of Accounting and Reporting (ISAR).
+Wiley Guide to Fair Value Under IFRS [1], John Wiley & Sons.
+Perramon, J., & Amat, O. (2006). IFRS introduction and its effect on listed companies in Spain. Economics Working Papers 975, Department of Economics and Business, Universitat Pompeu Fabra. Available at SSRN 1002516.
+
+
+== External links ==
+IFRS Foundation
+International Accounting Standards Board
+The International Accounting Standards Board – (Archive) Free access to all IFRS standards, news and status of projects in progress
+PwC IFRS page with news and downloadable documents
+The latest IFRS news and resources from the Institute of Chartered Accountants in England and Wales (ICAEW)
+Initial publication of the International Accounting Standards in the Official Journal of the European Union PB L 261 13-10-2003
+Directorate Internal Market of the European Union on the implementation of the IAS in the European Union
+Deloitte: An Overview of International Financial Reporting Standards
+The American Institute of CPAs (AICPA) in partnership with its marketing and technology subsidiary, CPA2Biz, has developed the IFRS.com web site.
+RSM Richter IFRS page with news and downloadable documents related to IFRS Conversions in Canada
+U.S. Securities and Exchange Commission Proposal for First-Time Application of International Financial Reporting Standards by Foreign private issuers registered with the SEC
+IFRS for SMEs  Presented by Michael Wells, Director of the IFRS Education Initiative at the IASC Foundation
+Pricewaterhousecoopers's map of countries that apply IFRS Archived 29 August 2012 at the Wayback Machine
+EY IFRS page with insights on IFRS Standards

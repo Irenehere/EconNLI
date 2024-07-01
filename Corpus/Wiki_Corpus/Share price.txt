@@ -1,0 +1,36 @@
+A share price is the price of a single share of a number of saleable equity shares of a company.
+In layman's terms, the stock price is the highest amount someone is willing to pay for the stock, or the lowest amount that it can be bought for.
+
+
+== Behaviour of share prices ==
+In economics and financial theory, analysts use random walk techniques to model behavior of asset prices, in particular share prices on stock markets. This practice has its basis in the presumption that investors act rationally and without biases, and that at any moment they estimate the value of an asset based on future expectations. Under these conditions, all existing information affects the price, which changes only when new information comes out. By definition, new information appears randomly and influences the asset price randomly.
+Empirical studies have demonstrated that prices do not completely follow random walks. Low serial correlations (around 0.05) exist in the short term, and slightly stronger correlations over the longer term. Their sign and the strength depend on a variety of factors.
+Researchers have found that some of the biggest price deviations from random walks result from seasonal and temporal patterns. In particular, returns in January significantly exceed those in other months (January effect) and on Mondays stock prices go down more than on any other day. Observers have noted these effects in many different markets for more than half a century, but without succeeding in giving a completely satisfactory explanation for their persistence.
+Technical analysis uses most of the anomalies to extract information on future price movements from historical data. But some economists, for example Eugene Fama, argue that most of these patterns occur accidentally, rather than as a result of irrational or inefficient behavior of investors: the huge amount of data available to researchers for analysis allegedly causes the fluctuations.
+Another school of thought, behavioral finance, attributes non-randomness to investors' cognitive and emotional biases. This can be contrasted with fundamental analysis.
+When viewed over long periods, the share price is related to expectations of future earnings and dividends of the firm. Over short periods, especially for younger or smaller firms, the relationship between share price and dividends can be quite unmatched.
+
+
+== Share prices in the United States ==
+Many U.S.-based companies seek to keep their share price (also called stock price) low, partly based on "round lot" trading (multiples of 100 shares). A corporation can adjust its stock price by a stock split, substituting a quantity of shares at one price for a different number of shares at an adjusted price where the value of shares x price remains equivalent.  (For example, 500 shares at $32 may become 1000 shares at $16.) Many major firms like to keep their price in the $25 to $75 price range.
+A US share must be priced at $1 or more to be covered by NASDAQ. If the share price falls below that level, the stock is "delisted" and becomes an OTC (over the counter stock). A stock must have a price of $1 or more for 10 consecutive trading days during each month to remain listed.
+
+
+== Most expensive shares ==
+The highest share prices on the NYSE have been those of Berkshire Hathaway class A, trading at over $425,000/share (in November 2021). Berkshire Hathaway has refused to split its stock and make it more affordable to retail investors, as they want to attract shareholders with a long-term vision. In 1996, Berkshire Hathaway issued the class B shares that come with 1/1000 of the value and 1/1500 of the voting rights in order to avoid the formation of mutual funds that buy class A shares.
+Lindt & Sprüngli shares are valued at $122'000 (April 2022). Similarly, the Swiss chocolate manufacturer issued the Partizipationsschein share class without voting rights, at 1/100 of the share value.
+
+
+=== List of publicly traded shares ===
+
+
+== History ==
+Robert D. Coleman's Evolution of Stock Pricing notes that the invention of double-entry bookkeeping in the fourteenth century led to company valuations being based upon ratios such as price per unit of earnings (from the income statement), price per unit of net worth (from the balance sheet) and price per unit of cash flow (from the funds statement). The next advance was to price individual shares rather than whole companies. A price/dividends ratio began to be used. Following this, the next stage was the use of discounted cash flows, based on the time value of money, to estimate the intrinsic value of stock.
+
+
+== See also ==
+Common stock
+Share capital
+
+
+== References ==

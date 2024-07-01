@@ -1,0 +1,88 @@
+Capital budgeting in corporate finance, corporate planning and accounting is area of capital management that concerns the planning process used to determine whether an organization's long term capital investments such as new machinery, replacement of machinery, new plants, new products, and research  development projects are worth the funding of cash through the firm's capitalization structures (debt, equity or retained earnings). It is the process of allocating resources for major capital, or investment, expenditures.  
+An underlying goal, consistent with the overall approach in corporate finance, is to increase the value of the firm to the shareholders. 
+Capital budgeting is typically considered a non-core business activity as it is not part of the revenue model or models of most types of firms, or even a part of daily operations. It holds a strategic financial function within a business. One example of a firm type where capital budgeting is plausibly a part of the core business activities is with investment banks, as their revenue model or models rely on financial strategy to a considerable degree.For the budget allocated to ongoing expenses and revenue, see operating budget.
+
+
+== Techniques ==
+Many formal methods are used in capital budgeting, including the techniques such as
+
+Accounting rate of return
+Average accounting return
+Payback period
+Net present value
+Profitability index
+Internal rate of return
+Modified internal rate of return
+Equivalent annual cost
+Real options valuationThese methods use the incremental cash flows from each potential investment, or project. Techniques based on accounting earnings and accounting rules are sometimes used - though economists consider this to be improper -  such as the accounting rate of return, and "return on investment."  Simplified and hybrid methods are used as well, such as payback period and discounted payback period.
+
+
+=== Net present value ===
+
+Cash flows are discounted at the cost of capital to give the net present value (NPV) added to the firm. Unless capital is constrained, or there are dependencies between projects, in order to maximize the value added to the firm, the firm would accept all projects with positive NPV. This method accounts for the time value of money. For the mechanics of the valuation here, see Valuation using discounted cash flows.
+Mutually exclusive projects are a set of projects from which at most one will be accepted, for example, a set of projects which accomplish the same task. Thus when choosing between mutually exclusive projects, more than one of the projects may satisfy the capital budgeting criterion, but only one project can be accepted; see below #Ranked projects.
+
+
+=== Internal rate of return ===
+
+The internal rate of return (IRR) is the discount rate that gives a net present value (NPV) of zero. It is a widely used measure of investment efficiency. To maximize return, sort projects in order of IRR.
+Many projects have a simple cash flow structure, with a negative cash flow at the start, and subsequent cash flows are positive. In such a case, if the IRR is greater than the cost of capital, the NPV is positive, so for non-mutually exclusive projects in an unconstrained environment, applying this criterion will result in the same decision as the NPV method.
+An example of a project with cash flows which do not conform to this pattern is a loan, consisting of a positive cash flow at the beginning, followed by negative cash flows later. The greater the IRR of the loan, the higher the rate the borrower must pay, so clearly, a lower IRR is preferable in this case. Any such loan with IRR less than the cost of capital has a positive NPV.
+Excluding such cases, for investment projects, where the pattern of cash flows is such that the higher the IRR, the higher the NPV, for mutually exclusive projects, the decision rule of taking the project with the highest IRR will maximize the return, but it may select a project with a lower NPV.
+In some cases, several solutions to the equation NPV = 0 may exist, meaning there is more than one possible IRR. The IRR exists and is unique if one or more years of net investment (negative cash flow) are followed by years of net revenues.  But if the signs of the cash flows change more than once, there may be several IRRs.  The IRR equation generally cannot be solved analytically but only via iterations.
+IRR is the return on capital invested, over the sub-period it is invested. It may be impossible to reinvest intermediate cash flows at the same rate as the IRR. Accordingly, a measure called Modified Internal Rate of Return (MIRR) is designed to overcome this issue, by simulating reinvestment of cash flows at a second rate of return.
+Despite a strong academic preference for maximizing the value of the firm according to NPV, surveys indicate that executives prefer to maximize returns.
+
+
+=== Equivalent annuity method ===
+
+The equivalent annuity method expresses the NPV as an annualized cash flow by dividing it by the present value of the annuity factor.  It is often used when assessing only the costs of specific projects that have the same cash inflows.  In this form, it is known as the equivalent annual cost (EAC) method and is the cost per year of owning and operating an asset over its entire lifespan.
+It is often used when comparing investment projects of unequal lifespans.  For example, if project A has an expected lifetime of 7 years, and project B has an expected lifetime of 11 years it would be improper to simply compare the net present values (NPVs) of the two projects, unless the projects could not be repeated.
+The use of the EAC method implies that the project will be replaced by an identical project.
+Alternatively, the chain method can be used with the NPV method under the assumption that the projects will be replaced with the same cash flows each time. To compare projects of unequal length, say, 3 years and 4 years, the projects are chained together, i.e. four repetitions of the 3-year project are compare to three repetitions of the 4-year project.  The chain method and the EAC method give mathematically equivalent answers.
+The assumption of the same cash flows for each link in the chain is essentially an assumption of zero inflation, so a real interest rate rather than a nominal interest rate is commonly used in the calculations.
+
+
+=== Real options ===
+
+Real options analysis has become important since the 1970s as option pricing models have gotten more sophisticated.  The discounted cash flow methods essentially value projects as if they were risky bonds, with the promised cash flows known.  But managers will have many choices of how to increase future cash inflows, or to decrease future cash outflows.  In other words, managers get to manage the projects - not simply accept or reject them.  Real options analysis tries to value the choices - the option value - that the managers will have in the future and adds these values to the NPV.
+
+
+== Ranked projects ==
+The real value of capital budgeting is to rank projects.  Most organizations have many projects that could potentially be financially rewarding.  Once it has been determined that a particular project has exceeded its hurdle, then it should be ranked against peer projects (e.g. - highest Profitability index to lowest Profitability index).  The highest ranking projects should be implemented until the budgeted capital has been expended.
+
+
+== Funding sources ==
+Capital budgeting investments and projects must be funded through excess cash provided through the raising of debt capital, equity capital, or the use of retained earnings.  
+Debt capital is borrowed cash, usually in the form of bank loans, or bonds issued to creditors.  
+Equity capital are investments made by shareholders, who purchase shares in the company's stock.  
+Retained earnings are excess cash surplus from the company's present and past earnings.
+Each of these sources has its own characteristics re (i) the required rate of return expected by capital providers, with the consequent impact on overall cost of capital, as well as (ii) implications for cash flow. 
+The "financing mix" selected will thus effect the valuation of the firm: Corporate finance § Capitalization structure discusses these two interrelated considerations .
+
+
+== Need ==
+A large sum of money is involved, which influences the profitability of the firm, making capital budgeting an important task.
+Long-term investments, once made, cannot be reversed without a significant loss of invested capital. The investment becomes sunk, and mistakes, rather than being readily rectified, must often be borne until the project can be withdrawn through depreciation charges or, in the worst case, liquidation of the firm. It influences the whole conduct of the business for years to come.
+Investment decisions are the major decisions that will cause profit to be earned for the firm and will probably be measured through return on capital. A proper mix of capital investment is quite important to ensure an adequate rate of return on investment, which calls for capital budgeting.
+The implications of long term investment decisions are more extensive than those of short-run decisions because of the time factor involved; capital budgeting decisions are subject to a higher degree of risk and uncertainty than short-run decisions.
+
+
+== See also ==
+Operating budget
+Engineering Economics
+Engineering economics (civil engineering)
+Valuation using discounted cash flows, and especially #Determine equity value
+Budget § Corporate Budget
+Supply chain finance
+
+
+== References ==
+
+
+== Further reading ==
+International Good Practice Guidance: Project Appraisal Using Discounted Cash Flow, International Federation of Accountants, June 2008, ISBN 978-1-934779-39-2
+Prospective Analysis: Guidelines for Forecasting Financial Statements, Ignacio Velez-Pareja, Joseph Tham, 2008
+To Plug or Not to Plug, that is the Question: No Plugs, No Circularity: A Better Way to Forecast Financial Statements, Ignacio Velez-Pareja, 2008
+A Step by Step Guide to Construct a Financial Model Without Plugs and Without Circularity for Valuation Purposes, Ignacio Velez-Pareja, 2008
+Long-Term Financial Statements Forecasting: Reinvesting Retained Earnings, Sergei Cheremushkin, 2008

@@ -1,0 +1,21 @@
+Investment performance is the return on an investment portfolio.  The investment portfolio can contain a single asset or multiple assets.  The investment performance is measured over a specific period of time and in a specific currency. 
+Investors often distinguish different types of return.  One is the distinction between the total return and the price return, where the former takes into account income (interest and dividends), whereas the latter only takes into account capital appreciation.
+Another distinction is between net and gross return.  The 'pure' net return to the investor is the return inclusive of all fees, expenses, and taxes, whereas the 'pure' gross return is the return before all fees, expenses, and taxes.  As a result, gross returns will be greater than net returns.  Various variations between these two extremes exist.  Which return one looks at depends on what one is trying to measure.  For example, if one wishes to measure the ability of an investment manager to add value, then the return net of transaction expenses, but gross of all other fees, expenses, and taxes is an appropriate measure to look at since fees, expenses, and taxes other than transaction expenses are often outside the control of the investment manager.
+Another important distinction is between the money-weighted return and the time-weighted return.  The former is appropriate if the manager determines the timing of inflows in or outflows from the portfolio.  The latter is appropriate when the manager is not responsible for the timing of cash inflows into and cash outflows from the portfolio.
+
+
+== See also ==
+Absolute investment performance, Absolute return
+Financial risk management § Investment management
+Holding period return
+Modified Dietz Method
+Internal Rate of Return
+Rate of return
+Relative return
+Risk-adjusted return on capital
+Simple Dietz Method
+Time-weighted return
+
+
+== Further reading ==
+Bruce J. Feibel. Investment Performance Measurement. New York: Wiley, 2003. ISBN 0-471-26849-6

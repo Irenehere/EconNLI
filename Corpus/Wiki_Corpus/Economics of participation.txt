@@ -1,0 +1,100 @@
+Economics of participation is an umbrella term spanning the economic analysis of worker cooperatives, labor-managed firms, profit sharing, gain sharing, employee ownership, employee stock ownership plans, works councils, codetermination, and other mechanisms which employees use to participate in their firm's decision making and financial results.
+A historical analysis of worker participation traces its development from informal profit sharing in U.S. factories, to flexible remuneration in the aftermath of Industrial Revolution and to staff democracy's application for earning stability in economic downturns during the 21st Century.The economic analysis of these participatory tools reveals their benefits and limitations for individuals, businesses and the wider economy. As a result of worker participation, employees gain skills, morale and motivation that improve business output, productivity and profitability. Spill-on effects into the wider economy can anchor human and financial capital in domestic industries, which have the potential to increase aggregate demand. However, negative implications of staff democracy encompass the free-rider effect and volatile incomes, which may reduce morale and motivation at an organisational level. Further, the long-run success of worker democracy is economically equivocal, and may prove an Pareto inefficient use of economic resources.
+
+
+== History ==
+Economics of participation is fundamentally derived from the concept of an employee's involvement in, and contribution to, the operational and managerial functions of their workplace. This foundational concept dates to as early as 1733, when President Benjamin Franklin applied a form of employee ownership to the establishment of print shops during the founding of the United States. In exchange for a third of each shop's profits, Franklin covered the costs of each shop's upfront capital in addition to a third of operating expenses. After six years, he transferred the stores' ownership to various journeymen, "most of [whom] did well" and who were able to "go on working for themselves" successfully, among the first of all employee-owners.Then, during the 1970s, the USA's first profit sharing plan was initiated into Pensylvanian glassworks factories by Secretary of the Treasurer Albert Gallatin, where a fixed proportion of company profits were redistributed to employees as bonuses for exceeding output targets.
+
+
+=== Industrial Revolution and 20th century ===
+Economics of participation emerged more formally during the USA's shift towards an industrial economy. The directors of large companies, for example Procter & Gamble and Sears & Roebuck, wanted to provide their staff with income during retirement, as financial support during employees' post-working lives. To achieve this without deteriorating firm profitability, these directors decided to award employees ownership in exchange for production effort while still employed: those who achieved set targets were allocated company stock upon retirement. In 1956, the first employee stock ownership plan was created by Louis O. Kelso, a lawyer and economist from San Francisco, to transfer ownership of Peninsula Newspapers, Inc. from two elderly founders to the company's employees.
+During the late nineteenth century, General Foods and Pillsbury were among the first companies to formally initiate profit-sharing bonuses: select percentages of firm profits were reallocated to staff when they exceeded sales targets. Later, in 1916, Harris Trust and Savings Bank of Chicago created the first profit-sharing pension plan, drawing upon the example set by Proctor & Gamble to ensure loyal, motivated staff received financial aid during retirement. Resultantly, the concept of profit-sharing was more widely used to the point where, during the Second World War, select employers applied it to provide necessary financial aid to staff without raising wages numerically. The notion that profit-sharing balances employees' financial security with their firm's need for increased profitability thus emerged.
+Worker cooperatives, another key tool used for economics of participation, gained momentum as part of the labour movement. During the Industrial Revolution, once-workers more frequently began to assume managerial and directorial roles as a "critical reaction to industrial capitalism and the excesses of the Industrial Revolution." Worker cooperatives emerged rapidly, to combat "insecurities of wage labour" by establishing and operating employee-owned firms that provided fair wages, most prominently in the cotton mills of New Lanark, Scotland. Dr William King, a pioneer in the field of economics of participation, founded a monthly periodical titled The Co-operator in 1828, which many sourced for advice on inaugurating their own worker cooperative.
+
+
+=== Contemporary applications ===
+While traditional business uses of the economics of participation primarily aimed to increase firm profitability, modern applications are often justified by their capacity to improved corporate culture, morale and staff satisfaction. Companies such as Huawei and Publix Super Markets have implemented a combination of employee ownership and profit-sharing plans as tools for employee participation, doing so to more closely align their staff with the goals, objectives and policies of their corporate vision rather than boost financial return. For instance, the aggregate yearly value of Huawei's employee remuneration, including profit-sharing plans and stock ownership, is 2.8 times the firm's annual net profit.More recently, economics of participation tools, particularly profit sharing and employee ownership, have been applied as strategic responses to pandemic-induced economic downturn. The table below shows results from a 2021 study comparing the effects of COVID-19 on employee-owned and non-employee-owned firms: significant differences in total employment, pay cuts and hour cuts were observed.
+
+Owing to their benefits for worker motivation, loyalty, career security and income stability, many economists predict tools for economics of participation are likely to become more frequent responses to downswings in economic activity.
+
+
+== Benefits for firms, employees and society ==
+By allowing employees to participate in organisational decision-making, businesses reinforce a corporate culture framed around self-ownership, accountability, shared values and secure employment. In turn, this culture generates financial and non-financial benefits for staff, firm profitability and the wider economy.
+
+
+=== Benefits for the firm ===
+The application of economics of participation to business decision making more strongly identifies individual staff members with the values and culture of their workplace. The resulting increase in motivational outcomes stimulates gains to productivity], which improve total output, revenues and growth. An early study introducing employee-ownership into forty-five firms recorded a 3.84 percentage point increase in employment growth and a 3.51 percentage point increase in sales growth after this tool for economics of participation was implemented. Subsequent studies have confirmed the positive effects of worker participation on business output, concluding that this practice generally stimulates "increased productivity reinforced by increased participation".Moreover, tools such as profit-sharing or employee stock ownership may reduce shirking behaviours in staff as it is in workers’ best interest to maximise their output for increased pay. Hence, businesses may be able to reduce their supervision personnel and the expenses associated with these staff members’ wages. In addition, the Substitution argument is enabled by economics of participation, whereby firms use tools such as profit-sharing or ESOPs to substitute fixed pay (i.e. wages and salaries) for variable remuneration. By doing so, a business's cost of human capital is more closely aligned with its ability to award financial compensation: the firm is thus provided with greater flexibility to adjust wages according to prevailing economic conditions. For example, a decrease in profit-shared wages during an economic recession may mitigate the impact of reduced output and revenues on business profitability, enabling firms to retain workers at a lower cost rather than retrenching them. As such, economics of participation can improve job security for staff, while guarding firm profits against unforeseen economic misfortune.
+
+
+=== Benefits for the employee ===
+Tools for economics of participation often aim to increase business output and productivity. As these increased levels of output are directly correlated to higher profit portions for staff, employees also receive the benefit of voluntarily increasing their remuneration so that efficiency wages may be awarded. These above-market wages are made financially feasible by the gains derived from increased productivity, whereby a firm's initial investment into its human capital enables economic rent to be shared, via profit-sharing mechanisms or wage redistribution.Furthermore, when an increased number of employees adopt managerial roles within a firm or a worker cooperative, a flatter organisational structure arises. Hence, staff are allowed to participate "at the highest level" through member-driven participation, for example through open-led meetings and consensus decision-making. Often, this is facilitated through training in public speaking and small-group debate opportunities, which develop staff members' communication abilities and equip them with skills vital to labour participation. By fulfilling these managerial functions, workers develop transferrable soft skills in communication and responsibility that increase chances of future employment and career development.
+Moreover, when tools to encourage employee engagement are combined with strong labour market regulation, the welfare of employees may increase. For instance, if employee-owners collectively decide to implement policies for flexitime or telecommuting, worker satisfaction and productivity are likely to improve, and aforementioned efficiency wages may further increase.
+
+
+=== Benefits for society ===
+Methods to encourage economics of participation are heavily reliant on the concept of economic democracy, and thereby advocate for the transfer of decision-making power from managers and directors to public stakeholders, among which are workers. In the first instance, the implementation of employee ownership can privatise a firm and encourage economic reform, which encourages a more equal distribution of resources and economic growth. The economics of participation can also be applied on a microeconomic scale: for example, a centrally planned economy which includes state-owned factors of production can distribute revenue made from the use of each resource to workers involved in its production. This makeshift use of 'profit sharing' enables manual labourers retain their capitalistic motivations to produce efficiently, while the state maintains a majority share of ownership over the factors of production.
+In addition, the economics of employee ownership recognise its ability to "anchor capital", or fix resources in local production and development. Resultantly, domestic employment opportunities are increased as jobs are maintained and added, which increase consumer incomes 
+  
+    
+      
+        (
+        Y
+        )
+      
+    
+    {\displaystyle (Y)}
+  . As levels of income increase, consumers gain greater confidence and consumption 
+  
+    
+      
+        (
+        C
+        )
+      
+    
+    {\displaystyle (C)}
+   rises, finally contributing to an increase in aggregate demand 
+  
+    
+      
+        A
+        D
+        =
+        C
+        +
+        I
+        +
+        G
+        +
+        (
+        X
+        −
+        M
+        )
+      
+    
+    {\displaystyle AD=C+I+G+(X-M)}
+  .Additionally, economic analysis of worker participation suggests mechanisms such as profit sharing and employee ownership can "share wealth more broadly and increase the mutuality of interests" for both employees and employers, particularly when the former are of low socioeconomic status. While remuneration in the form of income successfully satisfies short-term consumptive needs, wealth assets are more effective in granting owners access to additional asset-producing opportunities, which can in turn augment quality of life, income security and financial wellbeing overall. For example, after a 2015 study introduced employee ownership into the W. K. Kellogg Foundation, the value of employee owners' "ESOP account after 20 years of employment [was] more than twice the average of a similar employee with only a 401k plan", despite over 50% of employee owners not having a college or associate degree. Hence, employee participation may be seen to improve the long-term asset wealth of staff, and therefore contribute to an increase in financial quality of life for society overall.
+
+
+== Limitations for firms, employees and society ==
+The economics of participation also acknowledge the shortcomings of employees' involvement in the decision-making and financial results of their firm. Scholars including Gregory Dow, David Ellerman and James Meade recognise that the labour-managed firm, tools for profit sharing and mechanisms for employee ownership may not be Pareto efficient, and are unfeasible for certain economies where market imperfections exist.
+
+
+=== Limitations for the firm ===
+Many obstacles impede a firm's easy implementation of worker democracy, and its results may not always be purely positive. Corporate morale is not always improved by employee participation: for instance, if a company's share price stagnates or declines after an ESOP is inaugurated, employees may feel as if their efforts are unrewarded. As their remuneration (i.e. a dividend) is directly impacted by share price, company-wide morale may worsen and levels of staff turnover may increase. Prolonged decreases in share performance may also lead to covert and overt industrial actions, which create a toxic corporate culture and accrue negative publicity for the firm itself. In addition, ESOPs implemented via share option plans may dilute company ownership. Thus, as more shares are issued each employee owns a smaller proportion of their firm, which may detract from the sense of ownership required for worker democracy to function effectively.Moreover, significant expenses are incurred while the concept of employee participation is introduced into a firm, and productivity may be lost during the process of familiarising staff with its protocols. An increase in such expenses, often considerable in magnitude, can severely and negatively affect a business's profit performance. Mechanisms such as profit sharing and employee ownership do not directly increase corporate capital or business profitability. Instead, they rely on the indirect effects of worker democracy to improve financial performance; for example through a reduction in fixed wages, gradual productivity gains and the elimination of supervision personnel. These indirect gains to a firm's profits are not always realised, which may worsen the business's financial position. As the profit-enhancing effects of employee participation are not guaranteed nor immediate, capital is often required from external investors and venture capitalists, who may desire decision-making power which has the potential to undermine the very concept upon which the labour-managed firm is predicated.
+
+
+=== Limitations for the employee ===
+As aforementioned, worker participation is often remunerated through non-fixed wages, for example profit-shared income or dividends paid to employee-owners. These forms of income are volatile, fluctuating alongside the economic cycle, company performance and the forces of supply and demand. Hence, worker income stability is jeopardised and remuneration may be significantly lower than a formal salary if economic conditions dampen or a firm's profit performance plateaus at a low point. In a particular focus group, 96% of employees opposed the complete substitution of wages and salaries for profit-shared remuneration, with a further 42% emphasising the "disappointment or bitterness" encountered when profit performance, and thus staff pay, decreased. As financial reward is a key motivator for many employees, a decrease in monetary remuneration may, in turn, reduce staff satisfaction, morale and motivation; ultimately lessening the productivity outputted by the firm.In addition, a variation of the economic argument denoted the "free-rider effect" also pertains to worker participation; a market failure whereby those who receive economic rewards from labour under-participate, or do not contribute equally to collaboratively designed tasks. Though a firm may be controlled by multiple employee-owners, or many staff receive profit-shared rewards, it is likely that they do not all contribute equally to the business's activities. Therefore, the distribution of income may be affected by the aforementioned free-rider problem. If noticed by staff, this effect may negatively impact staff morale and demotivate workers from increasing productivity.
+
+
+=== Limitations for society ===
+The successful introduction of worker participation into a business is challenging: as aforementioned, external finance, significant time and lost productivity are all expenses involved in the establishment of profit sharing tools, ESOPs or worker cooperatives. In the longer-term, however, very few tools for economic democracy survive, rendering their resource usage inefficient. The 'Degeneration Thesis' presented by Cornforth argues that firms operating upon the principles of worker democracy inevitably degenerate into more traditional capitalist structures, as a result of an economic variation of Michels's "iron law of oligarchy". When freely competitive markets confront an employee-owned firm, technical expertise, access to information about competitors' products and taller management structures are required to remain operative and profitable. Often, worker cooperatives and firms boasting staff democracy fail to access these resources, and so "degenerate" into traditionally-structured businesses. This process is resource inefficient, as time, capital and productivity is lost in the degeneration of an employee-owned firm, which reduces the total output available for consumption by society.
+
+
+== Contributing scholars, publications and organisations ==
+The economics of participation have been developed by the contributions of numerous scholars and organisations. In particular, the work of Gregory Dow, David Ellerman, Derek C. Jones, Takao Kato, James Meade and Jaroslav Vanek has been significant in advancing the econometric, microeconomic and macroeconomic analysis of labour-managed firms, worker cooperatives, profit-sharing tools and other mechanisms for employee participation.In addition, the economics of participation are widely published, analysed and debated in the Journal of Participation and Employee Ownership, Annals of Public and Cooperative Economics, Economic and Industrial Democracy and Journal of Comparative Economics. The International Association for the Economics of Participation is also significant in the promulgation of knowledge regarding this applied economic science.
+
+
+== References ==

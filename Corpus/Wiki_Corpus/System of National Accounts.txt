@@ -1,0 +1,119 @@
+The System of National Accounts (often abbreviated as SNA; formerly the United Nations System of National Accounts or UNSNA) is an international standard system of national accounts, the first international standard being published in 1953. Handbooks have been released for the 1968 revision, the 1993 revision, and the 2008 revision. The System of National Accounts, in its various released versions, frequently with significant local adaptations, has been adopted by many nations. It continues to evolve and is maintained by the United Nations, the International Monetary Fund, the World Bank, the Organisation for Economic Co-operation and Development, and Eurostat.
+The aim of SNA is to provide an integrated, complete system of accounts enabling international comparisons of all significant economic activity. The suggestion is that individual countries use SNA as a guide in constructing their own national accounting systems, to promote international comparability. However, adherence to an international standard is entirely voluntary, and cannot be rigidly enforced. The systems used by some countries (for example, France, the United States, and China) differ significantly from the SNA. In itself, this is not a major problem, provided that each system provides sufficient data which can be reworked to compile national accounts according to the SNA standard.
+
+
+== Publication of data ==
+Economic and financial data from member countries are used to compile annual (and sometimes quarterly) data on the gross product, investment, capital transactions, government expenditure, and foreign trade. The results are published in a UN Yearbook, National Accounts Statistics: Main Aggregates and Detailed Tables, which currently (and until the 2008 revision comes into force) follows the 1993 recommendations. The values provided are in the national currency.
+Additionally, national statistical offices may also publish SNA-type data series. More detailed data at a lower level of aggregation is often available on request. Because national accounts data is notoriously prone to revision (because it involves a very large number of different data sources, entries and estimation procedures impacting on the totals), there are often discrepancies between the totals cited for the same accounting period in different publications issued in different years. The "first final figures" may in fact be retrospectively revised several times because of new sources, methods or conceptual changes. The yearly revisions may be quantitatively slight, but cumulatively across e.g. ten years they may alter a trend significantly. This is something the researcher should bear in mind in seeking to obtain a consistent data set.
+
+
+== Quality and coverage ==
+The quality and comprehensiveness of national account data differ between countries. Among the reasons are that:
+
+some governments invest far more money in statistical research than other governments.
+economic activity in some countries is much more difficult to measure accurately than in others (for example, a large grey economy, widespread illiteracy, a lack of cash economy, survey access difficulties because of geographic factors or socio-political instability, very large mobility of people and assets – this is particularly the case in sub-Saharan countries).
+some statistical agencies have more scientific autonomy and budgetary discretion than others, allowing them to do surveys or statistical reports which other statistical agencies are prevented from doing for legal, political or financial reasons.
+some countries (for example, Holland, Germany, Britain, Poland, and Australia) have a strong intellectual (scholarly or cultural) tradition in the area of social statistics, often going back a hundred or even several hundred years, while others (such as many African countries, where a population census began to be organized by the government only much more recently, and most universities started much later) do not. What matters in this sense is, above all, whether a society sees the value of statistics, makes extensive use of statistical expertise for analytical and policy purposes and therefore is sympathetic to investing in the statistical enterprise.
+although the United Nations has rather little power to enforce the actual production of statistics to a given standard in member countries, even if international conventions are signed, some of the world's states are part of an international union (for example the European Union, the OECD, or the United States), which requires by agreement that the member states of the union will physically supply standardized data sets, for the purpose of inter-state comparisons, even if the countries themselves might not have so much use for the data supplied. Thus, there may be "external incentives" for the production of more comprehensive statistical information which affect some countries but are much less evident in others, where the information is required by some international body.
+
+
+== Main accounts in the system ==
+
+
+=== SNA includes the following main accounts ===
+the production account (components of gross output)
+the primary distribution of income account (incomes generated by production)
+the transfers (redistribution) account (including social spending)
+the household expenditure account
+the capital account
+the (domestic) financial transactions account ("flow of funds")
+the changes in asset values account
+the assets and liabilities account (balance sheet)
+the external transactions account (balance of payments)These accounts include various annexes and sub-accounts, and standards are also provided for input-output tables showing the transactions between production sectors.
+Almost all member countries of the United Nations provide income and product accounts, but not necessarily a full set of standard accounts, or a full set of data, for the standard accounting information supplied. For example, standardized assets and liabilities accounts for households hardly exist and remain to be developed.
+A recent development is an attempt to create standard accounts of strategic stocks of natural resources.
+
+
+== Developments ==
+SNA continues to be developed further, and international conferences are regularly held to discuss various conceptual and measurement issues.
+Some examples are the construction of accounts for environmental resources, the measurement of the trade in services and of capital stocks, the treatment of insurance payments, the grey economy, employee compensation in the form of stock options or other non-wage income, intangible capital, etc.
+Discussions and updates are reported in SNA News & Notes [3].
+SNA Revisions are documented at the UN Statistics Division site [4]
+
+
+== The 2008 SNA Revision ==
+For the 2008 SNA Revision, the full text is available online: [5]. The OECD provides some overview commentary [6].
+The revision of the 1993 system was coordinated by the Intersecretariat Working Group on National Accounts (ISWGNA) comprising the United Nations Statistics Division (UNSD), International Monetary Fund (IMF), World Bank (WB), Organisation for Economic Co-operation and Development (OECD), Statistical Office of the European Communities (Eurostat) and the United Nations regional commissions.
+The ISWGNA working group has its own website under the UN Statistics Division.
+
+
+== Criticism of SNA ==
+
+
+=== General criticisms ===
+The most general criticism of SNA has always been that its concepts do not adequately reflect the interactions, relationships, and activities of the real world – for a variety of reasons, but mainly because: 
+
+The system does not provide explicit detail for particular economic phenomena, suggesting thereby that they do not really exist.
+There is something wrong with the valuation scheme that is being assumed.
+In the valiant attempt to include all "micro" business activities under general "macro" headings, necessarily a distorted picture of reality results because at least a portion of micro-transactions does not easily fit under the general conceptual headings.
+National accounts data are not useful to solve many of society's problems, because those problems really require quite different kinds of data to solve them, for example, behavioral data, attitudinal data, or physical data.
+National accounts data are constructed from thousands of different data series, and the results are typically revised several times after the first official estimates are published. Therefore, the first estimates are rarely fully accurate in terms of the measurement concepts used. In addition, the earlier data series released are often also revised, sometimes many years later, so that the data may never be quite "final" and accurate.
+
+
+=== Criticism of GDP ===
+The most popular criticism of national accounts is made against the concept of gross domestic product (GDP).
+In part, this criticism of GDP is misplaced, because the fault is not so much with the concept itself. It is useful to have a measure of a country's total net output, and its changes over time – that's better than having no measure at all).
+The fault is with the actual use that is made of the concept by governments, intellectuals, and businessmen in public discourse. GDP is used for all kinds of comparisons, but some of those comparisons are conceptually not very appropriate.
+GDP measures are frequently abused by writers who neither understand what they mean, how they were produced, nor what they can be validly used for.
+Economists like Joseph Stiglitz argue that a measure of "well-being" is needed to balance a measure of output growth.
+
+
+=== Feminist criticism ===
+SNA has been criticised as biased by feminist economists such as Marilyn Waring and Maria Mies because no imputation for the monetary value of unpaid housework, or for unpaid voluntary labor is made in the accounts, even though the accounts do include the "imputed rental value of owner-occupied dwellings" (the market-rents which owner-occupiers would receive if they rented out the housing they occupy). This obscures the reality that market production depends to a large extent on non-market labour being performed.
+However, such criticism raises several questions for the statisticians who would have to produce the data:
+
+whether an international standard method of imputation for the value of such services is feasible, given e.g. that the conditions under which the market equivalents for unpaid household services are supplied vary a great deal internationally;
+whether making the imputation would result in truly meaningful, internationally comparable measures;
+whether attaching a price to voluntary labor, done primarily by women, itself actually performs an emancipatory or morally propitious function or has a general useful purpose beyond academia.The intention of those who would like to produce this kind of standard data might be perfectly honorable, but the production of the data has to be practically justifiable in terms of technical feasibility and utility. Attaching an imaginary price to housework might not be the best data to have about housework.
+In most OECD countries, statisticians have in recent years estimated the value of housework using data from time use surveys. The valuation principle often applied is that of how much a service would cost, if it was purchased at market rates, instead of being voluntarily supplied. Sometimes an "opportunity cost" method is also used: in this case, statisticians estimate how much women could earn in a paid job if they were not doing unpaid housework. Typically, the results suggest that the value of unpaid housework is close to about half the value of GDP.
+Christine Lagarde, the head of the International Monetary Fund, claimed at the IMF World Bank annual meetings in Tokyo in October 2012 that women could rescue Japan's stagnating economy, if more of them took paid jobs instead of doing unpaid care work. A 2010 Goldman Sachs report had calculated that Japan's GDP would rise by 15 percent, if the participation of Japanese women in the paid labour force was increased from 60 percent to 80 percent, matching that of men. The difficulty with this kind of argument is, that domestic and care work would still need to be done by someone, meaning women and men would need to share household responsibilities more equally, or rely on public- or private-sector provided child and eldercare. According to the ILO, there are over 52 million domestic workers in the world, who mostly work for little pay and with little legal protection. They are mainly servants of the wealthy and the middle class.
+
+
+=== Marxist criticism ===
+Marxian economists have criticized SNA concepts also from a different theoretical perspective on the new value added or value product. On this view, the distinctions drawn in SNA to define income from production and property income are rather capricious or eclectic, obscuring thereby the different components and sources of realised surplus value; the categories are said to be based on an inconsistent view of newly created value, conserved value, and transferred value (see also double counting). The result is that the true profit volume is underestimated in the accounts – since true profit income is larger than operating surplus – and workers' earnings are overestimated since the account shows the total labour costs to the employer rather than the "factor income" which workers actually get. If one is interested in what incomes people actually get, how much they own, or how much they borrow, national accounts often do not provide the required information.
+Additionally, it is argued by Marxists that the SNA aggregate "compensation of employees" does not distinguish adequately between pre-tax and post-tax wage income, the income of higher corporate officers, and deferred income (employee and employer contributions to social insurance schemes of various kinds). "Compensation of employees" may also include the value of stock options received as income by corporate officers. Thus, it is argued, the accounts have to be substantially re-aggregated, to obtain a true picture of income generated and distributed in the economy. The problem there is that the detailed information to do it is often not made available, or is available only at a prohibitive cost.
+US government statisticians admit frankly that "Unfortunately, the finance sector is one of the more poorly measured sectors in national accounts". The oddity of this is, that the finance sector nowadays dominates international transactions, and strongly influences the developmental path of the world economy. So, it is precisely the leading sector in the world economy for which systematic, comprehensive, and comparable data are not available.
+
+
+=== Statisticians' criticisms ===
+Statisticians have also criticized the validity of international statistical comparisons using national accounts data, on the ground that in the real world, the estimates are rarely compiled in a uniform way – despite appearances to the contrary.
+For example, Jochen Hartwig provides evidence to show that "the divergence in growth rates [of real GDP] between the U.S. and the EU since 1997 can be explained almost entirely in terms of changes to deflation methods that have been introduced in the U.S. after 1997, but not – or only to a very limited extent – in Europe".The "magic" of national accounts is that they provide an instant source of detailed international comparisons, but, critics argue, on closer inspection, the numbers are not really so comparable as they are made out to be. The effect is that all sorts of easy comparisons are tossed around by policy scientists which, if the technical story behind the numbers was told, would never be attempted because the comparisons are scientifically untenable (or at the very least rather dubious).
+Both the strength and the weaknesses of national accounts are that they are based on an enormous variety of data sources. The strength consists in the fact that a lot of cross-checking between data sources and data sets can occur, to assess the credibility of the estimates. The weakness is that the sheer number of inferences made from different data sets used increases the possibility of data errors, and makes it more difficult to assess error margins.
+The data quality has also often been criticized on the ground that what pretends to be "data" in reality often consists only of estimates extrapolated from mathematical models, not direct observations. These models are designed to predict what particular data values ought to be, based on sample data for "indicative trends". One can, for example, observe that if variables X, Y, and Z go up, then variable P will go up as well, in a specific proportionality. In that case, one may not need to survey P or its components directly, it is sufficient to get trend data for X, Y, and Z and feed them into a mathematical model which then predicts what the values for P will be at each interval of time.
+Because statistical surveys are very costly or may be difficult to organize, or because the data has to be produced rapidly to meet a deadline, statisticians often try to find cheaper, quicker, and more efficient methods to produce the data, by means of inferences from data that they already have, or from selected data which they can get more easily.
+But the objection to this approach - although it can sometimes be proved to provide accurate data successfully - is that there is a loss in data accuracy and data quality. 
+
+The extrapolated estimates may lack any solid empirical basis, and the tendency is for fluctuations in the magnitudes of variables to be "smoothed out" by the estimation or interpolation procedure.
+Any unexpectedly large fluctuation in a variable is difficult to predict by a mathematical model since ultimately the model's descriptions assume the future trend will conform to the law of averages and the patterns of the past.
+Without adequate, comprehensive observational data from direct surveys, many of the statistical inferences made are simply not truly verifiable. All one can then say about the estimates is, that they are "probably fairly accurate, given previous and other concurrent data."A typical reply of statisticians to this kind of objection is that although it is preferable to have comprehensive survey data available as a basis for estimation, and although data errors and inaccuracies do occur, it is possible to find techniques that keep the margins of error within acceptable bounds.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+*Paul Studenski, The Income of Nations; Theory, Measurement, and Analysis: Past and Present. New York: New York University Press, 1958.
+Andre Vanoli, A History of National Accounting, IOS Press, Amsterdam, 2005
+Carol S. Carson, Jeanette Honsa, "The United Nations System of National Accounts: an introduction", in: Survey of Current Business, June 1990 [7]
+CEC, IMF, OECD, UN & World Bank “System of National Accounts 1993”. Commission of the European Communities-Eurostat, International Monetary Fund, Organisation for Economic Co-operation and Development, United Nations and World Bank, Brussels/Luxembourg, New York, Paris, Washington, 1993, xlix + 711 pp.
+EC, IMF, OECD, UN & World Bank “System of National Accounts 2008”. European Commission, International Monetary Fund, Organisation for Economic Co-operation and Development, United Nations and World Bank, New York, Dec. 2009, 1993, lvi + 662 pp.
+The Review of Income and Wealth [8]
+United Nations Statistics Division (UNSD) “National Accounts".
+Zoltan Kenessey (Ed.), The Accounts of Nations, Amsterdam IOS, 1994.
+
+
+== External links ==
+UN.SNA.2008 manual in html5 with IDs, table-of-contents, and link-preview (html5.id.toc), non-official.

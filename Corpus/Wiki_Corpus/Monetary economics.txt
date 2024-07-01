@@ -1,0 +1,78 @@
+Monetary economics is the branch of economics that studies the different theories of money: it provides a framework for analyzing money and considers its functions (such as medium of exchange, store of value, and unit of account), and it considers how money can gain acceptance purely because of its convenience as a public good. The discipline has historically prefigured, and remains integrally linked to, macroeconomics. This branch also examines the effects of monetary systems, including regulation of money and associated financial institutions and international aspects.Modern analysis has attempted to provide microfoundations for the demand for money and to distinguish valid nominal and real monetary relationships for micro or macro uses, including their influence on the  aggregate demand for output. Its methods include deriving and testing the implications of money as a substitute for other assets and as based on explicit frictions.
+
+
+== History ==
+
+The foundational concept of any modern theory of money is the understanding that the value of fiat money depends upon exchange and not weight (compare with the Arrow-Debreu model).
+
+
+== Research areas ==
+Traditionally, research areas in monetary economics have included:
+
+Empirical determinants and measurement of the money supply, whether narrowly, broadly, or index-aggregated, in relation to economic activity
+Empirical determinants of the demand for money.
+Credit theory of money (also called debt theory of money), concerning the relationship between credit and money.
+Debt deflation and balance-sheet theories, which hypothesize that over-extension of credit associated with a subsequent asset-price fall generate business fluctuations through the wealth effect on net worth.
+Monetary aspects studied by central banks.
+The monetary/fiscal policy relationship to macroeconomic stability
+The effect of money supply growth on inflation.
+The political economy of financial regulation and monetary policy
+Monetary implications of the asset-price/macroeconomic relation: the quantity theory of money, monetarism, and the importance and stability of the relation between the money supply and interest rates, the price level, and nominal and real output of an economy.Monetary impacts on interest rates and the term structure of interest rates
+Lessons of monetary/financial historyTransmission mechanisms of monetary policy as to the macroeconomy
+Neutrality of money vs. money illusion as to a change in the money supply, price level, or inflation on output
+Tests, testability, and implications of rational-expectations theory as to changes in output or inflation from monetary policy
+Monetary implications of imperfect and asymmetric information and fraudulent financeGame theory as a modeling paradigm for monetary and financial institutions
+Possible advantages of following a monetary-policy rule to avoid inefficiencies of time inconsistency from  discretionary policy
+
+
+== History ==
+
+
+=== Islamic Golden Age ===
+At around the same time in the medieval Islamic world, a vigorous monetary economy was created during the 7th–12th centuries on the basis of the expanding levels of circulation of a stable high-value currency (the dinar). Innovations introduced by Muslim economists, traders and merchants include the earliest uses of credit, cheques, promissory notes, savings accounts, transactional accounts, loaning, trusts, exchange rates, the transfer of credit and debt, and banking institutions for loans and deposits.
+
+
+=== 1500s to 1700s ===
+In the Indian subcontinent, Sher Shah Suri (1540–1545), introduced a silver coin called a rupiya, weighing 178 grams. Its use was continued by the Mughal rulers. The history of the rupee traces back to Ancient India circa 3rd century BC. Ancient India was one of the earliest issuers of coins in the world, along with the Lydian staters, several other Middle Eastern coinages and the Chinese wen.
+The term is from rūpya, a Sanskrit term for silver coin, from Sanskrit rūpa, beautiful form.The imperial taka was officially introduced by the monetary reforms of Muhammad bin Tughluq, the emperor of the Delhi Sultanate, in 1329. It was modeled as representative money, a concept pioneered as paper money by the Mongols in China and Persia. The tanka was minted in copper and brass. Its value was exchanged with gold and silver reserves in the imperial treasury. The currency was introduced due to the shortage of metals.Both the Kabuli rupee and the Kandahari rupee were used as currency in Afghanistan prior to 1891, when they were standardized as the Afghan rupee. The Afghan rupee, which was subdivided into 60 paisas, was replaced by the Afghan afghani in 1925.
+Until the middle of the 20th century, Tibet's official currency was also known as the Tibetan rupee.Serious interest in the concepts behind money occurred during the dramatic period of inflation in the late 15th to early 17th centuries known as the Price Revolution, during which the value of gold fell precipitously, sometimes fluctuating wildly, because of the importation of gold from the New World, primarily by Spain.At the end of this period, the first modern texts on monetary economics were beginning to appear.
+During the eighteenth century, the concept of banknotes became more common in Europe. David Hume referred to it as "this new invention of paper".In 1705, John Law in Scotland published Money and Trade Considered, which examined the failure of metal-based money during the previous hundred and fifty years. He proposed replacing that system with a land bank system of paper money based on the value of real estate. He succeeded in getting this proposal implemented. However, his bank failed due to a bubble of speculation collapsing into extreme inflation; perhaps because he failed to take the lessons of the Spanish Price Revolution seriously.In 1720, Isaac Gervaise wrote The System or Theory of the Trade of the World. He criticised mercantilism and state-supported credit for the inflation problems of his era.Della Moneta, was published by Ferdinando Galiani in 1751, and is arguably the first modern text on economic theory. It was printed twenty-five years before Adam Smith's more famous book, The Wealth of Nations, which touched on some of the same topics. Della Moneta covered many modern monetary concepts, including the value, origin, and regulation of money. It carefully examined the possible causes for money's value to fluctuate.
+The year following, 1752, Of the Balance of Trade was published by Hume. He argued that one need not worry about the import or export of goods creating a surplus or shortage of either money or goods because an excess or shortage of money will always increase or decrease demand until equilibrium is reached. In modern economic terms, this is as equilibration through the price-specie flow mechanism.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Handbook of Monetary Economics, Elsevier.Friedman, Benjamin M., and Frank H. Hahn, ed., 1990.  v. 1 links for description & contents and chapter-outline previews
+_____, 1990. v. 2 links for description & contents and chapter-outline previews.
+Friedman, Benjamin, and Michael Woodford, 2010. v. 3A & 3B links for  description & and chapter abstract & TOC.Boughton, James R.,  and Elmus R. Wicker, 1975.  The Principles of Monetary Economics.
+Brunner, Karl, and Allan H. Meltzer, 1993. Money and the Economy: Issues in Monetary Analysis, Cambridge.  Description and chapter previews, pp. ix-x.
+Clower, Robert W., ed., 1969.  Monetary Theory: Selected Readings, Harmondsworth, Penguin.
+Eden, Benjamin, 2005.  A Course in Monetary Economics: Sequential Trade, Money, and Uncertainty. Description.
+Gale, Douglas, 1982.  Money: in Equilibrium, Cambridge University Press, Cambridge Economic Handbooks, 349 pp. ISBN 978-0-521-28900-9.  Description and preview.
+_____, 1983. Money:  in Disequilibrium, Cambridge Economic Handbooks, 382 pp.  ISBN 978-0-521-26917-9. Description  and preview.
+Goodhart, Charles, 1989.  Money, Information and Uncertainty, 2nd Ed. MIT Press. Description and chapter titles.
+Grandmont, Jean-Michel, 1985. Money and Value: A Reconsideration of Classical and Neoclassical Monetary Economics, Econometric Society Monographs, v. 5, Cambridge University Press. ISBN 978-0-521-31364-3. Description and preview .
+Handa, Jagdish, 2007.  Monetary Economics, 2nd ed.  Routledge. Description and   preview.
+Harris, Laurence, 1981.  Monetary Theory. New York: McGraw-Hill.
+Hicks, John R., 1967. Critical Essays in Monetary Theory, Chapter preview links. Oxford.
+The New Palgrave Dictionary of Finance and Money, 1992. 3 v. Description.
+The New Palgrave Dictionary of Economics Online, 2008. Abstract links for  "Monetary Economics" (alphabetical) and "monetary".
+Rabin, Alan A., 2004.  Monetary Theory MPG Books: London. Arrow-page-searchable chapter previews.
+Starr, Ross M., ed. (1989). General equilibrium models of monetary economies: Studies in the static foundations of monetary theory. Economic theory, econometrics, and mathematical economics. Academic Press. p. 351. ISBN 978-0-12-663970-4.
+Walsh, Carl E., 2003. Monetary Theory and Policy, 2nd ed., MIT Press. ISBN 0-262-23231-6. Description and chapter-preview links.
+Woodford, Michael (2003). Interest and prices: Foundations of a theory of monetary policy. Princeton, New Jersey: Princeton University Press. ISBN 0-691-01049-8.
+
+
+== External links ==
+
+Journal of Money, Credit and Banking
+Journal of Monetary Economics
+NBER Working Papers: Links to JEL classes of abstracts or downloads for Macroeconomics and Monetary Economics, including:(JEL: E4) Money and Interest Rates
+(JEL: E5) Monetary Policy, Central Banking, and the Supply of Money and Credit
+Presentation of Money, credit and finance an slideshow
+What is money? an slideshow http://www.slideshare.net/MitchGreen/lesson-1-what-is-money#btnNext

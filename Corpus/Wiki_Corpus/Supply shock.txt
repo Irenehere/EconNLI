@@ -1,0 +1,22 @@
+A supply shock is an event that suddenly increases or decreases the supply of a commodity or service, or of commodities and services in general. This sudden change affects the equilibrium price of the good or service or the economy's general price level.
+In the short run, an economy-wide negative supply shock will shift the aggregate supply curve leftward, decreasing the output and increasing the price level. For example, the imposition of an embargo on trade in oil would cause an adverse supply shock, since oil is a key factor of production for a wide variety of goods. A supply shock can cause stagflation due to a combination of rising prices and falling output.
+In the short run, an economy-wide positive supply shock will shift the aggregate supply curve rightward, increasing output and decreasing the price level. A positive supply shock could be an advance in technology (a technology shock) which makes production more efficient, thus increasing output.
+
+
+== Technical analysis ==
+The slope of a demand curve determines how much the price level and output respond to the shock, with more inelastic demand (and hence a steeper demand curve) causing there to be a larger effect on the price level and a smaller effect on quantity.
+
+
+== See also ==
+Shock (economics)Commodity price shock
+Demand shock
+Technology shockMacroeconomics
+Stagflation
+Supply and demand
+
+
+== References ==
+
+
+== Bibliography ==
+Czech, Brian, Supply Shock: Economic Growth at the Crossroads and the Steady State Solution, (Gabriola Island, Canada, 2013)

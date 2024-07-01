@@ -1,0 +1,169 @@
+A corporate tax, also called corporation tax or company tax, is a type of direct tax levied on the income or capital of corporations and other similar legal entities. The tax is usually imposed at the national level, but it may also be imposed at state or local levels in some countries. Corporate taxes may be referred to as income tax or capital tax, depending on the nature of the tax.
+The purpose of corporate tax is to generate revenue for the government by taxing the profits earned by corporations. The tax rate varies from country to country and is usually calculated as a percentage of the corporation's net income or capital. Corporate tax rates may also differ for domestic and foreign corporations.
+Many countries have tax laws that require corporations to pay taxes on their worldwide income, regardless of where the income is earned. However, some countries have territorial tax systems, which only require corporations to pay taxes on income earned within the country's borders.
+A country's corporate tax may apply to:
+
+corporations incorporated in the country,
+corporations doing business in the country on income from that country,
+foreign corporations who have a permanent establishment in the country, or
+corporations deemed to be resident for tax purposes in the country.Company income subject to tax is often determined much like taxable income for individual taxpayers. Generally, the tax is imposed on net profits. In some jurisdictions, rules for taxing companies may differ significantly from rules for taxing individuals. Certain corporate acts or types of entities may be exempt from tax.
+The incidence of corporate taxation is a subject of significant debate among economists and policymakers. Evidence suggests that some portion of the corporate tax falls on owners of capital, workers, and shareholders, but the ultimate incidence of the tax is an unresolved question.
+
+
+== Economics ==
+Economists disagree as to how much of the burden of the corporate tax falls on owners, workers, consumers, and landowners, and how the corporate tax affects economic growth and economic inequality. More of the burden probably falls on capital in large open economies such as the US. Some studies place the burden more on labor. According to one study: "Regression analysis shows that a one-percentage-point increase in the marginal state corporate tax rate reduces wages 0.14 to 0.36 percent." There have been other studies.  According to the Adam Smith Institute, "Clausing (2012), Gravelle (2010) and Auerbach (2005), the three best reviews we found, basically conclude that most of the tax falls on capital, not labour."
+A 2022 meta-analysis found that the impact of corporate taxes on economic growth was exaggerated and that it could not be ruled out that the impact of corporate taxation on economic growth was zero.
+
+
+== Legal framework ==
+A corporate tax is a tax imposed on the net profit of a corporation that is taxed at the entity level in a particular jurisdiction. Net profit for corporate tax is generally the financial statement net profit with modifications, and may be defined in great detail within each country's tax system. Such taxes may include income or other taxes. The tax systems of most countries impose an income tax at the entity level on the certain type(s) of entities (company or corporation). The rate of tax varies by jurisdiction. The tax may have an alternative base, such as assets, payroll, or income computed in an alternative manner.
+Most countries exempt certain types of corporate events or transactions from income tax. For example, events related to the formation or reorganization of the corporation, which are treated as capital costs. In addition, most systems provide specific rules for taxation of the entity and/or its members upon winding up or dissolution of the entity.
+In systems where financing costs are allowed as reductions of the tax base (tax deductions), rules may apply that differentiate between classes of member-provided financing. In such systems, items characterized as interest may be deductible, perhaps subject to limitations, while items characterized as dividends are not. Some systems limit deductions based on simple formulas, such as a debt-to-equity ratio, while other systems have more complex rules.
+Some systems provide a mechanism whereby groups of related corporations may obtain benefit from losses, credits, or other items of all members within the group. Mechanisms include combined or consolidated returns as well as group relief (direct benefit from items of another member).
+Many systems additionally tax shareholders of those entities on dividends or other distributions by the corporation. A few systems provide for partial integration of entity and member taxation. This may be accomplished by "imputation systems" or franking credits. In the past, mechanisms have existed for advance payment of member tax by corporations, with such payment offsetting entity level tax.
+Many systems (particularly sub-country level systems) impose a tax on particular corporate attributes.  Such non-income taxes may be based on capital stock issued or authorized (either by number of shares or value), total equity, net capital, or other measures unique to corporations.
+Corporations, like other entities, may be subject to withholding tax obligations upon making certain varieties of payments to others.  These obligations are generally not the tax of the corporation, but the system may impose penalties on the corporation or its officers or employees for failing to withhold and pay over such taxes. A company has been defined as a juristic person having an independent and separate existence from its shareholders. Income of the company is computed and assessed separately in the hands of the company. In certain cases, distributions from the company to its shareholders as dividends are taxed as income to the shareholders.
+Corporations property tax, payroll tax, withholding tax, excise tax, customs duties, value added tax, and other common taxes, are generally not referred to as "corporate tax".
+
+
+=== Definition of corporation ===
+
+Characterization as a corporation for tax purposes is based on the form of organization, with the exception of United States Federal and most states income taxes, under which an entity may elect to be treated as a corporation and taxed at the entity level or taxed only at the member level.  See Limited liability company,  Partnership taxation, S corporation, Sole proprietorship.
+
+
+== Types ==
+Most jurisdictions tax corporations on their income, like the United Kingdom or the United States. The United States taxes most types of corporate income at 21%.The United States taxes corporations under the same framework of tax law as individuals, with differences related to the inherent natures of corporations and individuals or unincorporated entities.  Individuals are not formed, amalgamated, or acquired; and corporations do not incur medical expenses except by way of compensating individuals.Most systems tax both domestic and foreign corporations.  Often, domestic corporations are taxed on worldwide income while foreign corporations are taxed only on income from sources within the jurisdiction.
+
+
+=== Taxable income ===
+The United States defines taxable income for a corporation as all gross income, i.e. sales plus other income minus cost of goods sold and tax exempt income less allowable tax deductions, without the allowance of the standard deduction applicable to individuals.The United States' system requires that differences in principles for recognizing income and deductions differing from financial accounting principles like the timing of income or deduction, tax exemption for certain income, and disallowance or limitation of certain tax deductions  be disclosed in considerable detail for non-small corporations on Schedule M-3 to Form 1120.The United States taxes resident corporations, i.e. those organized within the country, on their worldwide income, and nonresident, foreign corporations only on their income from sources within the country.  Hong Kong taxes resident and nonresident corporations only on income from sources within the country.
+
+
+== Rates ==
+Corporate tax rates generally are the same for differing types of income, yet the US graduated its tax rate system where corporations with lower levels of income pay a lower rate of tax, with rates varying from 15% on the first $50,000 of income to 35% on incomes over $10,000,000, with phase-outs.The corporate income tax rates differ between US states and range from 2.5% to 11.5%.The Canadian system imposes tax at different rates for different types of corporations, allowing lower rates for some smaller corporations.Tax rates vary by jurisdiction and some countries have sub-country level jurisdictions like provinces, cantons, prefectures, cities, or other that also impose corporate income tax like Canada, Germany, Japan, Switzerland, and the United States. Some jurisdictions impose tax at a different rate on an alternative tax base.
+
+Examples of corporate tax rates for a few English-speaking countries include:
+
+Australia: 28.5%, however some specialized entities are taxed at lower rates.
+Canada:  Federal 11%, or Federal 15% plus provincial 1% to 16%.  Note: the rates are additive.
+Hong Kong: 16.5%
+Ireland:  12.5% on trading (business) income, and 25% on non-trading income.
+New Zealand: 28%
+Singapore: 17% from 2010, however a partial exemption scheme may apply to new companies.
+United Kingdom: 19% for 2017–2022.
+United States: Federal 21%.  States: 0% to 10%, deductible in computing Federal taxable income. Some cities:  up to 9%, deductible in computing Federal taxable income.  The Federal Alternative Minimum Tax of 20% is imposed on regular taxable income with adjustments.
+
+
+=== International corporate tax rates ===
+Corporate tax rates vary widely by country, leading some corporations to shield earnings within offshore subsidiaries or to redomicile within countries with lower tax rates.
+In comparing national corporate tax rates one should also take into account the taxes on dividends paid to shareholders. For example, the overall U.S. tax on corporate profits of 35% is less than or similar to that of European countries such as Germany, Ireland, Switzerland and the United Kingdom, which have lower corporate tax rates but higher taxes on dividends paid to shareholders.Corporate tax rates across the Organisation for Economic Co-operation and Development (OECD) are shown in the table.
+
+The corporate tax rates in other jurisdictions include:
+
+In October 2021 some 136 countries agreed to enforce a corporate tax rate of at least 15% from 2023 after the talks on a minimum rate led by OECD for a decade.
+
+
+== Distribution of earnings ==
+Most systems that tax corporations also impose income tax on shareholders of corporations when earnings are distributed.  Such distribution of earnings is generally referred to as a dividend.  The tax may be at reduced rates.  For example, the United States provides for reduced amounts of tax on dividends received by  individuals and by corporations.The company law of some jurisdictions prevents corporations from distributing amounts to shareholders except as distribution of earnings.  Such earnings may be determined under company law principles or tax principles. In such jurisdictions, exceptions are usually provided with respect to distribution of shares of the company, for winding up, and in limited other situations.
+Other jurisdictions treat distributions as distributions of earnings taxable to shareholders if earnings are available to be distributed, but do not prohibit distributions in excess of earnings.  For example, under the United States system each corporation must maintain a calculation of its earnings and profits (a tax concept similar to retained earnings).  A distribution to a shareholder is considered to be from earnings and profits to the extent thereof unless an exception applies.  Note that the United States provides reduced tax on dividend income of both corporations and individuals.
+Other jurisdictions provide corporations a means of designating, within limits, whether a distribution is a distribution of earnings taxable to the shareholder or a return of capital.
+
+
+=== Example ===
+The following illustrates the dual level of tax concept:
+Widget Corp earns 100 of profits before tax in each of years 1 and 2.  It distributes all the earnings in year 3, when it has no profits.  Jim owns all of Widget Corp.  The tax rate in the residence jurisdiction of Jim and Widget Corp is 30%.
+
+
+== Other corporate events ==
+Many systems provide that certain corporate events are not taxable to corporations or shareholders.  Significant restrictions and special rules often apply.  The rules related to such transactions are often quite complex.
+
+
+=== Formation ===
+Most systems treat the formation of a corporation by a controlling corporate shareholder as a nontaxable event.  Many systems, including the United States and Canada, extend this tax free treatment to the formation of a corporation by any group of shareholders in control of the corporation.  Generally, in tax free formations the tax attributes of assets and liabilities are transferred to the new corporation along with such assets and liabilities.
+Example:  John and Mary are United States residents who operate a business.  They decide to incorporate for business reasons.  They transfer the assets of the business to Newco, a newly formed Delaware corporation of which they are the sole shareholders, subject to accrued liabilities of the business in exchange solely for common shares of Newco.  Under United States principles, this transfer does not cause tax to John, Mary, or Newco.  If on the other hand Newco also assumes a bank loan in excess of the basis of the assets transferred less the accrued liabilities, John and Mary will recognize taxable gain for such excess.
+
+
+=== Acquisitions ===
+Corporations may merge or acquire other corporations in a manner a particular tax system treats as nontaxable to either of the corporations and/or to their shareholders.  Generally, significant restrictions apply if tax free treatment is to be obtained.  For example, Bigco acquires all of the shares of Smallco from Smallco shareholders in exchange solely for Bigco shares.  This acquisition is not taxable to Smallco or its shareholders under U.S. or Canadian tax law if certain requirements are met, even if Smallco is then liquidated into or merged or amalgamated with Bigco.
+
+
+=== Reorganizations ===
+In addition, corporations may change key aspects of their legal identity, capitalization, or structure in a tax free manner under most systems.  Examples of reorganizations that may be tax free include mergers, amalgamations, liquidations of subsidiaries, share for share exchanges, exchanges of shares for assets, changes in form or place of organization, and recapitalizations.
+
+
+== Interest deduction limitations ==
+Most jurisdictions allow a tax deduction for interest expense incurred by a corporation in carrying out its trading activities.  Where such interest is paid to related parties, such deduction may be limited.  Without such limitation, owners could structure financing of the corporation in a manner that would provide for a tax deduction for much of the profits, potentially without changing the tax on shareholders.  For example, assume a corporation earns profits of 100 before interest expense and would normally distribute 50 to shareholders.  If the corporation is structured so that deductible interest of 50 is payable to the shareholders, it will cut its tax to half the amount due if it merely paid a dividend.
+A common form of limitation is to limit the deduction for interest paid to related parties to interest charged at arm's length rates on debt not exceeding a certain portion of the equity of the paying corporation.  For example, interest paid on related party debt in excess of three times equity may not be deductible in computing taxable income.
+The United States, United Kingdom, and French tax systems apply a more complex set of tests to limit deductions.  Under the U.S. system, related party interest expense in excess of 50% of cash flow is generally not currently deductible, with the excess potentially deductible in future years.The classification of instruments as debt on which interest is deductible or as equity with respect to which distributions are not deductible can be complex in some systems.
+
+
+== Foreign corporation branches ==
+Most jurisdictions tax foreign corporations differently from domestic corporations.  No international laws limit the ability of a country to tax its nationals and residents (individuals and entities).  However, treaties and practicality impose limits on taxation of those outside its borders, even on income from sources within the country.
+Most jurisdictions tax foreign corporations on business income within the jurisdiction when earned through a branch or permanent establishment in the jurisdiction.  This tax may be imposed at the same rate as the tax on business income of a resident corporation or at a different rate.Upon payment of dividends, corporations are generally subject to withholding tax only by their country of incorporation.  Many countries impose a branch profits tax on foreign corporations to prevent the advantage the absence of dividend withholding tax would otherwise provide to foreign corporations.  This tax may be imposed at the time profits are earned by the branch or at the time they are remitted or deemed remitted outside the country.Branches of foreign corporations may not be entitled to all of the same deductions as domestic corporations.  Some jurisdictions do not recognize inter-branch payments as actual payments, and income or deductions arising from such inter-branch payments are disregarded.  Some jurisdictions impose express limits on tax deductions of branches.  Commonly limited deductions include management fees and interest.
+Nathan M. Jenson argues that low corporate tax rates are a minor determinate of a multinational company when setting up their headquarters in a country. Nathan M. Jenson: Sinha, S.S. 2008, "Can India Adopt Strategic Flexibility Like China Did?", Global Journal of Flexible Systems Management, vol. 9, no. 2/3, pp. 1.
+
+
+== Losses ==
+Most jurisdictions allow interperiod allocation or deduction of losses in some manner for corporations, even where such deduction is not allowed for individuals.  A few jurisdictions allow losses (usually defined as negative taxable income) to be deducted by revising or amending prior year taxable income.  Most jurisdictions allow such deductions only in subsequent periods.  Some jurisdictions impose time limitations as to when loss deductions may be utilized.
+
+
+== Groups of companies ==
+Several jurisdictions provide a mechanism whereby losses or tax credits of one corporation may be used by another corporation where both corporations are commonly controlled (together, a group).  In the United States and Netherlands, among others, this is accomplished by filing a single tax return including the income and loss of each group member.  This is referred to as a consolidated return in the United States and as a fiscal unity in the Netherlands.  In the United Kingdom, this is accomplished directly on a pairwise basis called group relief.  Losses of one group member company may be "surrendered" to another group member company, and the latter company may deduct the loss against profits.
+The United States has extensive regulations dealing with consolidated returns.  One such rule requires matching of income and deductions on intercompany transactions within the group by use of "deferred intercompany transaction" rules.
+In addition, a few systems provide a tax exemption for dividend income received by corporations.  The Netherlands system provides a "participation exception" to taxation for corporations owning more than 25% of the dividend paying corporation.
+
+
+== Transfer pricing ==
+
+A key issue in corporate tax is the setting of prices charged by related parties for goods, services or the use of property. Many jurisdictions have guidelines on transfer pricing which allow tax authorities to adjust transfer prices used. Such adjustments may apply in both an international and a domestic context.
+
+
+== Taxation of shareholders ==
+Most income tax systems levy tax on the corporation and, upon distribution of earnings (dividends), on the shareholder.  This results in a dual level of tax.  Most systems require that income tax be withheld on distribution of dividends to foreign shareholders, and some also require withholding of tax on distributions to domestic shareholders.  The rate of such withholding tax may be reduced for a shareholder under a tax treaty.
+Some systems tax some or all dividend income at lower rates than other income.  The United States has historically provided a dividends received deduction to corporations with respect to dividends from other corporations in which the recipient owns more than 10% of the shares.  For tax years 2004–2010, the United States also has imposed a reduced rate of taxation on dividends received by individuals.Some systems currently attempt or in the past have attempted to integrate taxation of the corporation with taxation of shareholders to mitigate the dual level of taxation.  As a current example, Australia provides for a "franking credit" as a benefit to shareholders.  When an Australian company pays a dividend to a domestic shareholder, it reports the dividend as well as a notional tax credit amount.  The shareholder utilizes this notional credit to offset shareholder level income tax.A previous system was utilised in the United Kingdom, called the advance corporation tax (ACT).  When a company paid a dividend, it was required to pay an amount of ACT, which it then used to offset its own taxes.  The ACT was included in income by the shareholder resident in the United Kingdom or certain treaty countries, and treated as a payment of tax by the shareholder.  To the extent that deemed tax payment exceeded taxes otherwise due, it was refundable to the shareholder.
+
+
+== Alternative tax bases ==
+Many jurisdictions incorporate some sort of alternative tax computation.  These computations may be based on assets, capital, wages, or some alternative measure of taxable income.  Often the alternative tax functions as a minimum tax.
+United States federal income tax incorporates an alternative minimum tax.  This tax is computed at a lower tax rate (20% for corporations), and imposed based on a modified version of taxable income.  Modifications include longer depreciation lives assets under MACRS, adjustments related to costs of developing natural resources, and an addback of certain tax exempt interest.  The U.S. state of Michigan previously taxed businesses on an alternative base that did not allow compensation of employees as a tax deduction and allowed full deduction of the cost of production assets upon acquisition.
+Some jurisdictions, such as Swiss cantons and certain states within the United States, impose taxes based on capital.  These may be based on total equity per audited financial statements, a computed amount of assets less liabilities or quantity of shares outstanding.  In some jurisdictions, capital based taxes are imposed in addition to the income tax.  In other jurisdictions, the capital taxes function as alternative taxes.
+Mexico imposes an alternative tax on corporations, the IETU.  The tax rate is lower than the regular rate, and there are adjustments for salaries and wages, interest and royalties, and depreciable assets.
+
+
+== Tax returns ==
+Most systems require that corporations file an annual income tax return.  Some systems (such as the Canadian, United Kingdom and United States systems) require that taxpayers self assess tax on the tax return.  Other systems provide that the government must make an assessment for tax to be due.  Some systems require certification of tax returns in some manner by accountants licensed to practice in the jurisdiction, often the company's auditors.Tax returns can be fairly simple or quite complex.  The systems requiring simple returns often base taxable income on financial statement profits with few adjustments, and may require that audited financial statements be attached to the return.  Returns for such systems generally require that the relevant financial statements be attached to a simple adjustment schedule.  By contrast, United States corporate tax returns require both computation of taxable income from components thereof and reconciliation of taxable income to financial statement income.
+Many systems require forms or schedules supporting particular items on the main form.  Some of these schedules may be incorporated into the main form.  For example, the Canadian corporate return, Form T-2, an eight-page form, incorporates some detail schedules but has nearly 50 additional schedules that may be required.
+Some systems have different returns for different types of corporations or corporations engaged in specialized businesses.  The United States has 13 variations on the basic Form 1120 for S corporations, insurance companies, Domestic international sales corporations, foreign corporations, and other entities.  The structure of the forms and imbedded schedules vary by type of form.
+Preparation of non-simple corporate tax returns can be time consuming.  For example, the U.S. Internal Revenue Service states in the instructions for Form 1120 that the average time needed to complete form is over 56 hours, not including record keeping time and required attachments.
+Tax return due dates vary by jurisdiction, fiscal or tax year, and type of entity.  In self-assessment systems, payment of taxes is generally due no later than the normal due date, though advance tax payments may be required.  Canadian corporations must pay estimated taxes monthly.  In each case, final payment is due with the corporation tax return.
+
+
+== See also ==
+Corporate tax rates in Canada
+Corporate tax in the United States
+United Kingdom corporation tax
+Corporation tax in the Republic of Ireland
+List of Tax rates of Europe
+List of Tax rates around the world
+
+
+== References ==
+
+
+== Further reading ==
+U.S.Bittker, Boris I. and Eustice, James S.: Federal Income Taxation of Corporations and Shareholders:  paperback ISBN 978-0-7913-4101-8, subscription service
+Kahn & Lehman. Corporate Income Taxation
+Healy, John C. and Schadewald, Michael S.: Multistate Corporate Tax Course 2010, CCH, ISBN 978-0-8080-2173-5 (also available as a multi-volume guide, ISBN 978-0-8080-2015-8)
+Hoffman, et al.: Corporations, Partnerships, Estates and Trusts, ISBN 978-0-324-66021-0
+Momburn, et al.:  Mastering Corporate Tax, Carolina Academic Press, ISBN 978-1-59460-368-6
+Watson, Garrett and William McBride, "Evaluating Proposals to Increase the Corporate Tax Rate and Levy a Minimum Tax on Corporate Book Income,"  FISCAL FACT (Tax Foundation, No. 751 Feb. 2021) United KingdomTolley's Corporation Tax, 2007-2008 ISBN 978-0-7545-3273-6
+Watterson, Juliana M.:  Corporation Tax 2009/2010, Bloomsbury Professional, ISBN 978-1-84766-327-6
+
+
+== External links ==
+CanadaCRA main website
+CRA gateway for corporations
+CRA gateway to T2 returnsUnited KingdomHMRC main website
+HMRC Introduction to Corporation TaxUnited StatesIRS main website
+IRS gateway for corporations
+IRS Publication 542, Corporations

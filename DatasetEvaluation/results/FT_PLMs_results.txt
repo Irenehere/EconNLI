@@ -1,0 +1,269 @@
+roberta-base, run 0
+              precision    recall  f1-score   support
+
+           0     0.8307    0.7076    0.7642       513
+           1     0.7453    0.8558    0.7967       513
+
+    accuracy                         0.7817      1026
+   macro avg     0.7880    0.7817    0.7805      1026
+weighted avg     0.7880    0.7817    0.7805      1026
+
+roberta-base, run 1
+              precision    recall  f1-score   support
+
+           0     0.8249    0.6979    0.7561       513
+           1     0.7382    0.8519    0.7910       513
+
+    accuracy                         0.7749      1026
+   macro avg     0.7815    0.7749    0.7735      1026
+weighted avg     0.7815    0.7749    0.7735      1026
+
+roberta-base, run 2
+              precision    recall  f1-score   support
+
+           0     0.8108    0.7018    0.7524       513
+           1     0.7371    0.8363    0.7836       513
+
+    accuracy                         0.7690      1026
+   macro avg     0.7740    0.7690    0.7680      1026
+weighted avg     0.7740    0.7690    0.7680      1026
+
+bert-base-uncased, run 0
+              precision    recall  f1-score   support
+
+           0     0.7662    0.8304    0.7970       513
+           1     0.8149    0.7466    0.7792       513
+
+    accuracy                         0.7885      1026
+   macro avg     0.7905    0.7885    0.7881      1026
+weighted avg     0.7905    0.7885    0.7881      1026
+
+bert-base-uncased, run 1
+              precision    recall  f1-score   support
+
+           0     0.7654    0.8460    0.8037       513
+           1     0.8279    0.7407    0.7819       513
+
+    accuracy                         0.7934      1026
+   macro avg     0.7967    0.7934    0.7928      1026
+weighted avg     0.7967    0.7934    0.7928      1026
+
+bert-base-uncased, run 2
+              precision    recall  f1-score   support
+
+           0     0.7768    0.8207    0.7981       513
+           1     0.8099    0.7641    0.7864       513
+
+    accuracy                         0.7924      1026
+   macro avg     0.7933    0.7924    0.7922      1026
+weighted avg     0.7933    0.7924    0.7922      1026
+
+yiyanghkust/finbert-pretrain, run 0
+              precision    recall  f1-score   support
+
+           0     0.7291    0.8499    0.7849       513
+           1     0.8201    0.6842    0.7460       513
+
+    accuracy                         0.7671      1026
+   macro avg     0.7746    0.7671    0.7654      1026
+weighted avg     0.7746    0.7671    0.7654      1026
+
+yiyanghkust/finbert-pretrain, run 1
+              precision    recall  f1-score   support
+
+           0     0.7347    0.8207    0.7753       513
+           1     0.7969    0.7037    0.7474       513
+
+    accuracy                         0.7622      1026
+   macro avg     0.7658    0.7622    0.7614      1026
+weighted avg     0.7658    0.7622    0.7614      1026
+
+yiyanghkust/finbert-pretrain, run 2
+              precision    recall  f1-score   support
+
+           0     0.7567    0.7700    0.7633       513
+           1     0.7659    0.7524    0.7591       513
+
+    accuracy                         0.7612      1026
+   macro avg     0.7613    0.7612    0.7612      1026
+weighted avg     0.7613    0.7612    0.7612      1026
+
+SALT-NLP/FLANG-BERT, run 0
+              precision    recall  f1-score   support
+
+           0     0.7712    0.8343    0.8015       513
+           1     0.8195    0.7524    0.7846       513
+
+    accuracy                         0.7934      1026
+   macro avg     0.7954    0.7934    0.7930      1026
+weighted avg     0.7954    0.7934    0.7930      1026
+
+SALT-NLP/FLANG-BERT, run 1
+              precision    recall  f1-score   support
+
+           0     0.7914    0.7914    0.7914       513
+           1     0.7914    0.7914    0.7914       513
+
+    accuracy                         0.7914      1026
+   macro avg     0.7914    0.7914    0.7914      1026
+weighted avg     0.7914    0.7914    0.7914      1026
+
+SALT-NLP/FLANG-BERT, run 2
+              precision    recall  f1-score   support
+
+           0     0.7720    0.8051    0.7882       513
+           1     0.7963    0.7622    0.7789       513
+
+    accuracy                         0.7836      1026
+   macro avg     0.7841    0.7836    0.7835      1026
+weighted avg     0.7841    0.7836    0.7835      1026
+
+SALT-NLP/FLANG-ELECTRA, run 0
+              precision    recall  f1-score   support
+
+           0     0.8382    0.6764    0.7487       513
+           1     0.7288    0.8694    0.7929       513
+
+    accuracy                         0.7729      1026
+   macro avg     0.7835    0.7729    0.7708      1026
+weighted avg     0.7835    0.7729    0.7708      1026
+
+SALT-NLP/FLANG-ELECTRA, run 0
+              precision    recall  f1-score   support
+
+           0     0.8150    0.7212    0.7653       513
+           1     0.7500    0.8363    0.7908       513
+
+    accuracy                         0.7788      1026
+   macro avg     0.7825    0.7788    0.7780      1026
+weighted avg     0.7825    0.7788    0.7780      1026
+
+SALT-NLP/FLANG-ELECTRA, run 1
+              precision    recall  f1-score   support
+
+           0     0.8480    0.6745    0.7514       513
+           1     0.7298    0.8791    0.7975       513
+
+    accuracy                         0.7768      1026
+   macro avg     0.7889    0.7768    0.7744      1026
+weighted avg     0.7889    0.7768    0.7744      1026
+
+SALT-NLP/FLANG-ELECTRA, run 2
+              precision    recall  f1-score   support
+
+           0     0.8286    0.6784    0.7460       513
+           1     0.7277    0.8596    0.7882       513
+
+    accuracy                         0.7690      1026
+   macro avg     0.7781    0.7690    0.7671      1026
+weighted avg     0.7781    0.7690    0.7671      1026
+
+Llama-2-7b-chat-hf, SFT 
+              precision    recall  f1-score   support
+
+           0     0.8235    0.7961    0.8096       510
+           1     0.8038    0.8304    0.8169       513
+
+    accuracy                         0.8133      1023
+   macro avg     0.8137    0.8132    0.8132      1023
+weighted avg     0.8136    0.8133    0.8132      1023
+
+Llama-2-13b-chat-hf, SFT 
+              precision    recall  f1-score   support
+
+           0     0.9079    0.8070    0.8545       513
+           1     0.8263    0.9181    0.8698       513
+
+    accuracy                         0.8626      1026
+   macro avg     0.8671    0.8626    0.8621      1026
+weighted avg     0.8671    0.8626    0.8621      1026
+
+../llama/Llama-2-13b-chat-hf, SFT, run 0 
+              precision    recall  f1-score   support
+
+           0     0.9311    0.7641    0.8394       513
+           1     0.8000    0.9435    0.8658       513
+
+    accuracy                         0.8538      1026
+   macro avg     0.8656    0.8538    0.8526      1026
+weighted avg     0.8656    0.8538    0.8526      1026
+
+../llama/Llama-2-13b-chat-hf, SFT, run 0 
+              precision    recall  f1-score   support
+
+           0     0.9170    0.8830    0.8997       513
+           1     0.8872    0.9201    0.9033       513
+
+    accuracy                         0.9016      1026
+   macro avg     0.9021    0.9016    0.9015      1026
+weighted avg     0.9021    0.9016    0.9015      1026
+
+../llama/Llama-2-7b-chat-hf/, SFT, run 0 
+              precision    recall  f1-score   support
+
+           0     0.8907    0.8733    0.8819       513
+           1     0.8757    0.8928    0.8842       513
+
+    accuracy                         0.8830      1026
+   macro avg     0.8832    0.8830    0.8830      1026
+weighted avg     0.8832    0.8830    0.8830      1026
+
+../llama/Llama-2-7b-chat-hf/, SFT, run 1 
+              precision    recall  f1-score   support
+
+           0     0.8849    0.8694    0.8771       513
+           1     0.8716    0.8869    0.8792       513
+
+    accuracy                         0.8782      1026
+   macro avg     0.8783    0.8782    0.8782      1026
+weighted avg     0.8783    0.8782    0.8782      1026
+
+../llama/Llama-2-7b-chat-hf/, SFT, run 0 
+              precision    recall  f1-score   support
+
+           0     0.8947    0.8616    0.8779       513
+           1     0.8665    0.8986    0.8823       513
+
+    accuracy                         0.8801      1026
+   macro avg     0.8806    0.8801    0.8801      1026
+weighted avg     0.8806    0.8801    0.8801      1026
+
+../llama/Llama-2-7b-chat-hf/, SFT, run 1 
+              precision    recall  f1-score   support
+
+           0     0.8907    0.8577    0.8739       513
+           1     0.8628    0.8947    0.8785       513
+
+    accuracy                         0.8762      1026
+   macro avg     0.8767    0.8762    0.8762      1026
+weighted avg     0.8767    0.8762    0.8762      1026
+
+../llama/Llama-2-13b-chat-hf, SFT, run 0 
+              precision    recall  f1-score   support
+
+           0     0.8980    0.8752    0.8865       513
+           1     0.8783    0.9006    0.8893       513
+
+    accuracy                         0.8879      1026
+   macro avg     0.8882    0.8879    0.8879      1026
+weighted avg     0.8882    0.8879    0.8879      1026
+
+../llama/Llama-2-13b-chat-hf, SFT, run 1 
+              precision    recall  f1-score   support
+
+           0     0.9002    0.8791    0.8895       513
+           1     0.8819    0.9025    0.8921       513
+
+    accuracy                         0.8908      1026
+   macro avg     0.8911    0.8908    0.8908      1026
+weighted avg     0.8911    0.8908    0.8908      1026
+
+SALT-NLP/FLANG-ELECTRA, run 0
+              precision    recall  f1-score   support
+
+           0     0.8137    0.7661    0.7892       513
+           1     0.7790    0.8246    0.8011       513
+
+    accuracy                         0.7953      1026
+   macro avg     0.7963    0.7953    0.7951      1026
+weighted avg     0.7963    0.7953    0.7951      1026

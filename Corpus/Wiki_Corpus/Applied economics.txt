@@ -1,0 +1,105 @@
+Applied economics is the study as regards the application of economic theory and econometrics in specific settings. As one of the two sets of fields of economics (the other set being the core), it is typically characterized by the application of the core, i.e. economic theory and econometrics to address practical issues in a range of fields including  demographic economics, labour economics, business economics, industrial organization, agricultural economics, development economics, education economics, engineering economics, financial economics, health economics, monetary economics, public economics, and economic history. From the perspective of economic development, the purpose of applied economics is to enhance the quality of business practices and national policy making.The process often involves a reduction in the level of abstraction of this core theory. There are a variety of approaches including not only empirical estimation using econometrics, input-output analysis or simulations but also case studies, historical analogy and so-called common sense or the "vernacular".  This range of approaches is indicative of what Roger Backhouse and Jeff Biddle argue is the ambiguous nature of the concept of applied economics. It is a concept with multiple meanings. Among broad methodological distinctions, one source places it in neither positive nor normative economics but the art of economics, glossed as "what most economists do".
+
+
+== Origins of the term ==
+The origin and meanings of applied economics have a long history going back to the writing of Say and Mill. Say wrote about "applying" the "general principles of political economy" to "ascertain the rule of action of any combination of circumstances presented to us". The full title of Mill's (1848) work is Principles of Political Economy with Some of Their Applications to Social Philosophy.
+
+
+== J.N. Keynes discussion ==
+John Neville Keynes was perhaps the first to use the phrase "applied economics". He noted that the "English School" (John Stuart Mill, John Elliott Cairnes, and Nassau William Senior) believed that political economy was a positive, abstract, deductive science; and that this school made a clear distinction  "between political economy itself and its applications to practice" (1917, 12). This school thought that a general body of theory could be established through abstract reasoning – not relying on a wide knowledge of economic facts. From this point of view applying this theory involved making allowances for some of the factors ignored in building the abstract theories.  Keynes wrote about applying the political economies hypothetical laws to interpreting and explaining of "concrete industrial facts". The issue of conceptual distinction between political economy as a science (involving formulating laws which govern  the production and distribution of wealth) and political economy as an art (using the laws to tackle practical problems).Whilst noting the rival view of the historical economists, who believed that the goals being pursued by policy makers and the means to pursue them were an integral part of the science of economics, J.N Keynes believed in the desirability of the "English School's" distinction between the discovery of principles and their application (1917, 54).Indeed, it was he who proposed using the phrase "applied economics" instead of "the art of political economy".  Keynes further discussed the uses of the phrases applied political economy and applied economics noting three different uses:
+in the sense suggested in the text [in association with the art of political economy];
+to designate the application of economic theory to the interpretation and explanation of particular economic phenomena, without any necessary reference however, to the solution of practical questions;
+to mark off the more concrete and specialized portions of economic doctrine from those more abstract doctrines that are held to pervade all economic reasoning. (1917, 58–59) and applying theories of economy on what we have in reality to get a healthy enterprise and business prosperity.
+
+
+== Other 19th and early 20th century economists' use of the term ==
+Léon Walras, for example, planned to organize his main work into volumes on "pure", "applied", and "social" economics. Jaffé (1983) describes Walras's plan as involving making a distinction between that which is true, is useful, and is just.  In using the term true, Walras referred to propositions that necessarily followed from the nature of things. Pure economics then involves pure logic. Applied economics involves examining ways to achieve practical goals and requires the making judgments about whether or not the logic of pure economics was relevant to the real world. Social economics also presumed pure economics, but dealt with a different range of questions than did applied economics.Vilfredo Pareto ([1906] 1971, 104) follows as similar usage suggesting economics might begin by eliminating that which is inessential to  examine problems as reduced to their principal and essentials. He distinguishes between "pure economics" from "applied economics" with pure economics containing only the principal lines of argument and applied economics involving supplying the details.Joseph Schumpeter (1954, 23) referred to some applied fields in economics the repetition of which might help highlight some of the issues involved in what defining applied economics involves. He discussed the following fields:
+those that are typically thought of as part of economics but which also looked at individually to allow greater attention to detail – e.g. money and banking, trade, cycles, and location
+those that are independent of economics but study of them is needed for economics. These include subjects such as accounting, actuarial science, and insurance
+those that are areas of public policy: agriculture, labour, transportation, utility industries, control of industry, and public finance
+comparative economic systems
+demography
+area studies
+
+
+== More modern views ==
+
+
+=== Mainstream view ===
+Modern mainstream economics holds the view that there is a body of abstract economic theory –  the "core"  –  and applied economics involves the practitioner in the lowering some elements of the abstraction of this to examine particular issues. This lowering of the level of abstraction may involve:
+relabeling variables as more specific, concrete concepts;
+providing some structure to allow the drawing of more detailed conclusions;
+producing numerical estimates for some of the parameters;
+using the analysis to interpret the real world phenomena which are interpreted as examples of some more general class of events that the core theory might be used to examine.
+
+
+=== Economics as a science ===
+Pesaran and Harcourt (2000) describe Stone's attempt to face the challenge of making economics into a science by combining theory and measurement within a cohesive framework. They report Stone's proposal for the establishment of the now famous Department of Applied Economics at Cambridge. Stone argued that:
+
+"The ultimate aim of applied economics is to increase human welfare by the investigation and analysis of economic problems of the real world. It is the view of the Department that this can best be achieved by the synthesis of three types of study which now tend to be pursued in isolation. The Department will concentrate simultaneously on the work of observations, i.e. the discovery and preparation of data; the theoretical appraisal of problems, i.e. the framing of hypotheses in a form suitable for quantitative testing; and the development of statistical methods appropriate to the special problems of economic information. The special character of the Department's approach to problems of the real world will lie in this attempt at systematic synthesis." (Stone in Pesaran and Harcourt (2000) pp. 149–150)
+
+
+=== Other views ===
+The basis for rival approaches tends to be the denial that sound theory can be made without some concrete linking with its area of application. Both the 19th century Historical School and the 20th Century Institutionalists argue in this way. Mitchell (1936) noted that those working in "specialized fields" had little use for kind of qualitative theory postulated by Marshall and Jevons. Mitchell suggested that knowledge of "real markets," would cause the complexion and content of economic theory (Mitchell 1937, 26–28). Friedman shared this view that theoretical concepts might or rather should arise out of the analysis of real world data. For both Mitchell and Friedman economics should involve an interaction between examining data and formulating hypotheses.Another issue which is related to the McCloskey critique. This is economists do not necessarily practice what they preach. In this context that is the claim to be an "applied economist," is just shorthand for saying they are looking at the real economy. What is being applied need not be "economic theory", as conventionally defined rather something more basic. Eli Devons made a distinction between three different kinds of "things", any of which might be being applied:
+theoretical models;
+commonsense axioms, and
+theoretical concepts.
+
+
+=== Journals ===
+
+
+==== The Journal of Applied Economics ====
+The Journal of Applied Economics publishes original contributions on applied issues in micro and macroeconomics. The primary criteria for selecting papers are quality and importance for the field. Papers based on a well motivated research problem that make a concrete contribution to empirical economics or applied theory are especially encouraged.
+
+
+==== Applied Economics ====
+Applied Economics is a journal that interprets its subject area as "the application of economic analysis to specific problems in both the public and private sectors" and seeks to publish "quantitative studies, the results of which are of use in the practical field" and thus may help "bring economic theory nearer to reality"; Applied Economics is a leading peer-reviewed journal in economics and its practical applications.
+
+
+==== American Economic Journal: Applied Economics ====
+This quarterly journal which began publication in 2009 is from the American Economic Association. It publishes papers on a range of topics in applied economics, particularly empirical microeconomic issues, such as in labor economics, development microeconomics, health,  education, demography, empirical corporate finance, empirical studies of trade, and empirical behavioral economics.
+
+
+==== American Journal of Agricultural Economics ====
+These journals are published by the Agricultural & Applied Economics Association.  The American Journal of Agricultural Economics has been produced since 1919, and publishes research in the "economics of agriculture and food, natural resources and the environment, and rural and community development throughout the world".
+
+
+==== Applied Economics Perspectives and Policy ====
+Applied Economic Perspectives and Policy (AEPP) is the leading  peer-reviewed journal of applied economics and policy. Published four times per year by Oxford University Press, it is the one of two journals published by the Agricultural & Applied Economics Association (AAEA), along with the American Journal of Agricultural Economics (AJAE). Today is the leading journal in 'applied economics' with a 2011 impact factor of 1.552. The purpose of AEPP is to analyze areas of current applied economic research in an effort to inform the policy-makers and decision makers; and to generate connections between sub-fields of agricultural and applied economics in order to focus future research and increase knowledge of those in the field about the impact of public policy.
+
+
+== Critique ==
+Backhouse and Biddle argue that the mainstream view, that there is an accepted "theoretical core" and that this can be applied in a range of areas, relies on this core having specific characteristics – namely, that it has a wide scope and can be developed independently of individual applications. But they note that as with the definition of applied economics itself, there are within the economics profession differing views as to what belongs in the core – where one draws the line between research that is contributing to the core and research that is applying the core, and the relative importance or significance of research on topics in the core versus applied economics research.Some examples of the problems of applied economics from various fields and issues:
+
+Examples of problems of applied economics: MacroeconomicsOne example of this is macroeconomics. In the 1960s and 1970s, macroeconomics was a part of the core of the subject. Why? Because macroeconomics was not only sufficiently important to be part of any economist's training, but also embodied a set of concepts and principles not found in microeconomic theory. However the replacement of Keynesian approach to macroeconomics with new classical macroeconomics and its successors, macroeconomics might now be regarded by the mainstream as merely an application of microeconomic theory.
+Examples of problems of applied economics: Development EconomicsAnother example is the situation within Development Economics. Throughout the 1950s and 1960s most development economist regarded  the application of standard "core" microeconomic theory to their area as being entirely inappropriate. An alternative set of models provided their core. This might be best described as the structuralist approach. More recently development economics texts have provided applications of mainstream core theory.
+Examples of problems of applied economics: Economic Growth TheoryComim uses the history of the economics of growth in order to illustrate the historical nature of the concept of applied economics. He first discusses the perspective of the theorists' views of the applied dimension of their work and examines each from the perspective of the work carried out at the Department of Applied Economics (DAE) at Cambridge University. He emphasizes the divergences concerning economists' understanding of the proper use of economic theory, divergences that might ultimately reveal the influence of distinct practices as far as applied economics is concerned and the role of institutional environments.
+Examples of problems of applied economics: the Minimum-wage controversyLeonard notes one area of disagreement amongst applied economists which became famous in the US. That was the minimum-wage controversy. He notes that the fierceness of this controversy was odd because the likely effects were small and that several seemingly more important policy issues such as (entitlement reform, health insurance, CPI calculation) generated nothing like the storm. His explanation is that while this controversy was not especially important to the economy, it was very important to economics and economics as a policy science. His explanation for this is that minimum wage research came to be seen as a test of the usefulness of applying neoclassical price theory to the wages and employment. In other words, it was not just a technical quarrel over such things as the sign and size of wage-elasticity but rather an installment in a long running  methodological dispute over whether neoclassical price theory is in reality of any use.
+A critique of the dominance of econometricsSwann (2006) queries the dominance of such econometric techniques within Applied Economics and suggests what he describes as the "vernacular of the everyday practice of economics" should be taken seriously. Swann points out that econometrics's privileged position has not been supported by its disappointing results  and rather suggests other applied techniques, the vernacular, are also worthy of consideration. These approaches to applied economics, include simulation, engineering economics, case studies and common sense.
+
+
+== See also ==
+Applied statistics
+Applied anthropology
+Applied physics
+Applied theology
+
+
+== Notes ==
+
+
+== References ==
+Begg, I and S. G. B. Henry (1998). Applied Economics and Public Policy, Cambridge University Press. Description.
+Campbell, M. (1989). "Sources of Controversy in Applied Economics." In Controversy in Applied Economics, edited by M. Campbell, M. Hardy, and N. Healey. New York: Wheatsheaf.
+Department of Applied Economics (1948). "First Report: Activities in the Years 1946–1948." Cambridge: University of Cambridge, .
+Dow, S. (1987). "The Scottish Political Economy Tradition. Scottish Journal of Political Economy, 34(4), pp. 335–48.
+Harcourt, G. C., and M. Kitson (1993). "Fifty Years of Measurement: A Cambridge View". Review of Income and Wealth, ser. 39, no. 4, December, 435–47.
+History of Political Economy (2000). Toward a History of Applied Economics. Annual Supplement, Volume 32.  Durham, NC and London:  Duke University Press Table of Contents.
+Robinson, J. ([1974] 1979). "History versus Equilibrium." In vol. 5 of Collected Economic Papers. Oxford: Basil Blackwell.
+Schabas, M.  (2001). "Economics, History of," sect. 3 Applied Economics, International Encyclopedia of the Social & Behavioral Sciences, pp. 4152–4158. Abstract.
+Swann, G. M. P. (2006). Putting Econometrics in Its Place: A New Direction in Applied Economics, Edward Elgar Description.
+
+
+== Further reading ==
+Woolridge, Jeffrey M. (2013). Introductory Econometrics: A Modern Approach (5 ed.). Michigan State University: South-Western Cengage Learning.

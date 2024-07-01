@@ -1,0 +1,50 @@
+John Burr Williams (November 27, 1900 – September 15, 1989) was an American economist, recognized as an important figure in the field of fundamental analysis, and for his analysis of stock prices as reflecting their "intrinsic value".He is best known for his 1938 text The Theory of Investment Value, based on his PhD thesis, in which he articulated the theory of discounted cash flow (DCF) based valuation, and in particular, dividend based valuation.
+
+
+== Biography ==
+Williams studied mathematics and chemistry at Harvard University, and enrolled at Harvard Business School in 1923. After graduating, he worked as a security analyst, where he realised that "how to estimate the fair value was a puzzle indeed... To be a good investment analyst, one needs to be an expert economist also."  In 1932 he enrolled at Harvard for a PhD in economics, with the hopes of learning what had caused the Wall Street Crash of 1929 and the subsequent economic depression of the 1930s. For his thesis, Joseph Schumpeter suggested the question of the intrinsic value of a common stock, for which Williams' personal experience and background would serve him in good stead. He received his doctorate in 1940.
+Williams sent The Theory of Investment Value for publication before he had won faculty approval for his doctorate. The work discusses Williams' general theory, as well as providing over 20 specific mathematical models; it also contains a second section devoted to case studies. Various publishers refused the work since it contained algebraic symbols, and Harvard University Press published The Theory of Investment Value in 1938, only after Williams had agreed to pay part of the printing cost. The work has been influential since its publication; Mark Rubinstein describes it as an "insufficiently appreciated classic".From 1927 until his death, Williams worked in the management of private investment portfolios and security analysis. He taught economics and investment analysis as a visiting professor at the University of Wisconsin–Madison; he also wrote many articles for economic journals. Today, his privately held investment management company, Burr and Company, LLC. is run by his grandson, John Borden Williams.
+
+
+== Theory ==
+Williams was among the first to challenge the "casino" view that economists held of financial markets and asset pricing—where prices are determined largely by expectations and counter-expectations of capital gains (see Keynesian beauty contest). He argued that financial markets are, instead, "markets", properly speaking, and that prices should therefore reflect an asset's intrinsic value. (Theory of Investment Value opens with: "Separate and distinct things not to be confused, as every thoughtful investor knows, are real worth and market price...".)  In so doing, he changed the focus from the time series of the market to the underlying components of asset value. Rather than forecasting stock prices directly, Williams emphasized future corporate earnings and dividends.Developing this idea, Williams proposed that the value of an asset should be calculated using “evaluation by the rule of present worth”. Thus, for a common stock, the intrinsic, long-term worth is the present value of its future net cash flows—in the form of dividend distributions and selling price.  Under conditions of certainty, the value of a stock is, therefore, the discounted value of all its future dividends; see Gordon model.
+While Williams did not originate the idea of present value, he substantiated the concept of discounted cash flow valuation and is generally regarded as having developed the basis for the dividend discount model (DDM).
+Through his approach to modelling and forecasting cash flows—which he called “algebraic budgeting”—Williams was also a pioneer of the pro forma modeling of financial statements.  Here, Williams (Theory, ch. 7) provides an early discussion of industry lifecycle.
+Today, “evaluation by the rule of present worth”, applied in conjunction with an asset appropriate discount rate — usually derived using the capital asset pricing model (Harry Markowitz and William F. Sharpe), or the arbitrage pricing theory (Stephen Ross) — is probably the most widely used stock valuation method amongst institutional investors; see List of valuation topics. (Nicholas Molodovsky, the former editor of the Financial Analysts Journal, was the first to substitute "dividends" in Williams' formula for: earnings times the percentage of earnings paid out in dividends.)
+Williams also anticipated the Modigliani–Miller theorem. In presenting the "Law of the Conservation of Investment Value" (Theory, pg. 72), he argued that since the value of an enterprise is the "present worth" of all its future distributions — whether interest or dividends — it "in no [way] depends on what the company's capitalization is". Modigliani and Miller show that Williams, however, had not actually proved this law, as he had not made it clear how an arbitrage opportunity would arise if his Law were to fail.
+
+
+== Publications ==
+The Theory of Investment Value. Harvard University Press 1938; 1997 reprint, Fraser Publishing. ISBN 0-87034-126-X
+International trade under flexible exchange rates. 1954
+Interest, Growth and Inflation 1964; 1998 reprint, Fraser Publishing. ISBN 0-87034-131-6
+
+
+== See also ==
+Benjamin Graham
+Warren Buffett
+Irving Fisher
+Philip Fisher
+Value investing
+Corporate finance § Investment and project valuation
+Financial economics § Corporate finance theory
+Valuation using discounted cash flows
+
+
+== References ==
+
+
+== External links ==
+John Burr Williams
+
+Theory of Investment Value, fraserpublishing.com
+John Burr Williams, The Theory of Investment Value, numeraire.com
+Obituary, NY Times
+John Burr Williams on dividends, beginnersinvest, about.comIn context
+
+Capital Ideas: The Improbable Origins of Modern Wall Street, Peter L. Bernstein. Free Press 1993. ISBN 0-02-903012-9
+"The Theory of Investment". Archived from the original on June 21, 2012. Retrieved April 8, 2014.. Prof. G.L. Fonseca, New School for Social Research
+A Short History of Investment Forecasting, Prof. Michael Phillips, California State University, Northridge
+"Great Moments in Financial Economics I". Archived from the original on June 28, 2007. Retrieved June 29, 2006., "II". Archived from the original on June 28, 2007. Retrieved June 30, 2006.. Prof. Mark Rubinstein, Haas School of Business
+"The Scientific Evolution of Finance". Archived from the original on February 4, 2003. Retrieved July 30, 2007.. Prof. Don Chance, Louisiana State University, Prof. Pamela Peterson James Madison University
+Selected Moments in the History of Discounted Present Value, Prof. Eric Kirzner Rotman School of Management

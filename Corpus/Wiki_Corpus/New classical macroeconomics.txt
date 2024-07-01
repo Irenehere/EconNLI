@@ -1,0 +1,53 @@
+New classical macroeconomics, sometimes simply called new classical economics, is a school of thought in macroeconomics that builds its analysis entirely on a neoclassical framework. Specifically, it emphasizes the importance of rigorous foundations based on microeconomics, especially rational expectations.
+New classical macroeconomics strives to provide neoclassical microeconomic foundations for macroeconomic analysis. This is in contrast with its rival new Keynesian school that uses microfoundations, such as price stickiness and imperfect competition, to generate macroeconomic models similar to earlier, Keynesian ones.
+
+
+== History ==
+Classical economics is the term used for the first modern school of economics. The publication of Adam Smith's The Wealth of Nations in 1776 is considered to be the birth of the school. Perhaps the central idea behind it is on the ability of the market to be self-correcting as well as being the most superior institution in allocating resources. The central assumption implied is that all individuals maximize their utility.
+The so-called marginal revolution that occurred in Europe in the late 19th century, led by Carl Menger, William Stanley Jevons, and Léon Walras, gave rise to what is known as neoclassical economics. This neoclassical formulation had also been formalized by Alfred Marshall. However, it was the general equilibrium of Walras that helped solidify the research in economic science as a mathematical and deductive enterprise, the essence of which is still neoclassical and makes up what is currently found in mainstream economics textbooks to this day.
+The neoclassical school dominated the field up until the Great Depression of the 1930s. Then, however, with the publication of The General Theory of Employment, Interest and Money by John Maynard Keynes in 1936, certain neoclassical assumptions were rejected. Keynes proposed an aggregated framework to explain macroeconomic behavior, leading thus to the current distinction between micro- and macroeconomics. Of particular importance in Keynes' theories was his explanation of economic behavior as also being led by "animal spirits". In this sense, it limited the role for the so-called rational (maximizing) agent.
+The Post-World War II period saw the widespread implementation of Keynesian economic policy in the United States and Western European countries. Its dominance in the field by the 1970s was best reflected by the controversial statement attributed to US President Richard Nixon and economist Milton Friedman: "We are all Keynesians now".
+Problems arose during the 1973–75 recession which was largely triggered by the 1973 oil crisis. The nascent classical economists ignored the broader global economic conditions of the time in favor of targeting Keynesian policy responses for continued unemployment, high inflation and stagnant economic growth—stagflation. Conversely, the emerging global markets left traditional Keynesian schools struggling to reconcile the Phillips curve with the current economic conditions, which ruled out concurrent high inflation and high unemployment.
+
+
+=== Emergence in response to stagflation ===
+The New Classical school emerged in the 1970s as a response to what were perceived as failures of Keynesian economics to explain stagflation. New Classical and monetarist criticisms led by Robert Lucas, Jr. and Milton Friedman respectively forced a labored rethinking of Keynesian economics. In particular, Lucas designed the Lucas critique primarily as a means to cast doubt on the Keynesian model. This strengthened the case for macro models to be based on microeconomics.
+After the 1970s, the New Classical school for a while became the dominant school in Macroeconomics.
+
+
+=== New neoclassical synthesis ===
+Prior to the late 1990s, macroeconomics was split between new Keynesian work on market imperfections demonstrated with small models and new classical work on real business cycle theory that used fully specified general equilibrium models and used changes in technology to explain fluctuations in economic output. The new neoclassical synthesis developed as a consensus on the best way to explain short-run fluctuations in the economy.The new synthesis took elements from both schools.  New classical economics contributed the methodology behind real business cycle theory and new Keynesian economics contributed nominal rigidities (slow moving and periodic, rather than continuous, price changes also called sticky prices). The new synthesis provides the theoretical foundation for much of contemporary mainstream economics.
+
+
+== Analytic method ==
+The new classical perspective takes root in three diagnostic sources of fluctuations in growth: the productivity wedge, the capital wedge, and the labor wedge. Through the neoclassical perspective and business cycle accounting one can look at the diagnostics and find the main ‘culprits’ for fluctuations in the real economy.
+
+A productivity/efficiency wedge is a simple measure of aggregate production efficiency. In relation to the Great Depression, a productivity wedge means the economy is less productive given the capital and labor resources available in the economy.
+A capital wedge is a gap between the intertemporal marginal rate of substitution in consumption and the marginal product of capital. In this wedge, there's a “deadweight” loss that affects capital accumulation and savings decisions acting as a distortionary capital (savings) tax.
+A labor wedge is the ratio between the marginal rate of substitution of consumption for leisure and the marginal product of labor and acts as a distortionary labor tax, making hiring workers less profitable (i.e. labor market frictions).
+
+
+== Foundation,  axioms and assumptions ==
+New classical economics is based on Walrasian assumptions. All agents are assumed to maximize utility on the basis of rational expectations. At any one time, the economy is assumed to have a unique equilibrium at full employment or potential output achieved through price and wage adjustment. In other words, the market clears at all times.
+New classical economics has also pioneered the use of representative agent models. Such models have received severe neoclassical criticism, pointing to the disjuncture between microeconomic behavior and macroeconomic results, as indicated by Alan Kirman.The concept of rational expectations was originally used by John Muth, and was popularized by Lucas. One of the most famous new classical models is the real business cycle model, developed by Edward C. Prescott and Finn E. Kydland.
+
+
+== Legacy ==
+It turned out that pure new classical models had low explanatory and predictive power. The models could not simultaneously explain both the duration and magnitude of actual cycles. Additionally, the model's key result that only unexpected changes in money can affect the business cycle and unemployment did not stand empirical tests.The mainstream turned to the new neoclassical synthesis. Most economists, even most new classical economists, accepted the new Keynesian notion that for several reasons wages and prices do not move quickly and smoothly to the values needed for long-run equilibrium between quantities supplied and demanded. Therefore, they also accept the monetarist and new Keynesian view that monetary policy can have a considerable effect in the short run. The new classical macroeconomics contributed the rational expectations hypothesis and the idea of intertemporal optimisation to new Keynesian economics and the new neoclassical synthesis.Peter Galbács thinks that critics have a superficial and incomplete understanding of the new classical macroeconomics. He argues that one should not forget the conditional character of the new classical doctrines. If prices are completely flexible and if public expectations are completely rational and if real economic shocks are white noises, monetary policy cannot affect unemployment or production and any intention to control the real economy ends up only in a change in the rate of inflation. However, and this is the point, if any of these conditions does not hold, monetary policy can be effective again. So, if any of the conditions necessary for the equivalence does not hold, countercyclical fiscal policy can be effective. Controlling the real economy is possible perhaps in a Keynesian style if government regains its potential to exert this control. Therefore, actually, new classical macroeconomics highlights the conditions under which economic policy can be effective and not the predestined inefficiency of economic policy. Countercyclical aspirations need not to be abandoned, only the playing-field of economic policy got narrowed by new classicals. While Keynes urged active countercyclical efforts of fiscal policy, these efforts are not predestined to fail not even in the new classical theory, only the conditions necessary for the efficiency of countercyclical efforts were specified by new classicals.
+
+
+== See also ==
+Neoclassical synthesis
+
+
+== References ==
+
+
+== Further reading ==
+Artis, Michael (1992). "Macroecononomic Theory". In Maloney, John (ed.). What's New in Economics?. New York: Manchester University Press. pp. 135–167. ISBN 978-0-7190-3280-6.
+Barro, Robert J. (1989). "New Classicals and Keynesians, or the Good Guys and the Bad Guys" (PDF). Swiss Journal of Economics and Statistics. 125 (3): 263–273. doi:10.3386/w2982.
+Hoover, Kevin D. (1988). The New Classical Macroeconomics. Oxford: Basil Blackwell. ISBN 978-0-631-14605-6.
+
+
+== External links ==
+Hoover, Kevin D. (2008). "New Classical Macroeconomics". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.

@@ -1,0 +1,32 @@
+In macroeconomic theory, liquidity preference  is the demand for money, considered as liquidity. The concept was first developed by John Maynard Keynes in his book The General Theory of Employment, Interest and Money (1936) to explain determination of the interest rate by the supply and demand for money. The demand for money as an asset was theorized to depend on the interest foregone by not holding bonds (here, the term "bonds" can be understood to also represent stocks and other less liquid assets in general, as well as government bonds). Interest rates, he argues, cannot be a reward for saving as such because, if a person hoards his savings in cash, keeping it under his mattress say, he will receive no interest, although he has nevertheless refrained from consuming all his current income. Instead of a reward for saving, interest, in the Keynesian analysis, is a reward for parting with liquidity. According to Keynes, money is the most liquid asset. Liquidity is an attribute to an asset. The more quickly an asset is converted into money the more liquid it is said to be.According to Keynes, demand for liquidity is determined by three motives:
+the transactions motive: people prefer to have liquidity to assure basic transactions, for their income is not constantly available. The amount of liquidity demanded is determined by the level of income: the higher the income, the more money demanded for carrying out increased spending.
+the precautionary motive: people prefer to have liquidity in the case of social unexpected problems that need unusual costs. The amount of money demanded for this purpose increases as income increases.
+speculative motive: people retain liquidity to speculate that bond prices will fall. When the interest rate decreases people demand more money to hold until the interest rate increases, which would drive down the price of an existing bond to keep its yield in line with the interest rate. Thus, the lower the interest rate, the more money demanded (and vice versa).The liquidity-preference relation can be represented graphically as a schedule of the money demanded at each different interest rate. The supply of money together with the liquidity-preference curve in theory interact to determine the interest rate at which the quantity of money demanded equals the quantity of money supplied (see IS/LM model).
+
+
+== Alternatives ==
+A major rival to the liquidity preference theory of interest is the time preference theory, to which liquidity preference was actually a response. Because liquidity is effectively the ease at which assets can be converted into currency, liquidity can be considered a more complex term for the amount of time committed in order to convert an asset. Thus, in some ways, it is extremely similar to time preference.
+
+
+== Criticisms ==
+In Man, Economy, and State (1962), Murray Rothbard argues that the liquidity preference theory of interest suffers from a fallacy of mutual determination. Keynes alleges that the rate of interest is determined by liquidity preference. In practice, however, Keynes treats the rate of interest as determining liquidity preference. Rothbard states "The Keynesians therefore treat the rate of interest, not as they believe they do—as determined by liquidity preference—but rather as some sort of mysterious and unexplained force imposing itself on the other elements of the economic system."Criticism emanates also from post-Keynesian economists, such as circuitist Alain Parguez, professor of economics, University of Besançon, who "reject[s] the keynesian liquidity preference theory ... but only because it lacks sensible empirical foundations in a true monetary economy".
+
+
+== See also ==
+Diamond–Dybvig model
+Liquidity premium
+Liquidity trap
+Money demand
+Money market
+Money supply
+Time preference
+
+
+== Citations ==
+
+
+== References ==
+Gauti B. Eggertsson  (2008). "liquidity trap," The New Palgrave Dictionary of Economics, 2nd Edition.
+Liquidity Preference Curve
+Dimand, Robert W. (2008). "Macroeconomics, origins and history of". In Durlauf, Steven N.; Blume, Lawrence E. (eds.). The New Palgrave Dictionary of Economics. Palgrave Macmillan. pp. 236–244. doi:10.1057/9780230226203.1009. ISBN 978-0-333-78676-5.
+Panico, Carlo (2008). "liquidity preference". In Durlauf, Steven N.; Blume, Lawrence E. (eds.). The New Palgrave Dictionary of Economics. Palgrave Macmillan.

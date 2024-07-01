@@ -1,0 +1,247 @@
+Endogenous growth theory holds that economic growth is primarily the result of endogenous and not external forces. Endogenous growth theory holds that investment in human capital, innovation, and knowledge are significant contributors to economic growth. The theory also focuses on positive externalities and spillover effects of a knowledge-based economy which will lead to economic development. The endogenous growth theory primarily holds that the long run growth rate of an economy depends on policy measures. For example, subsidies for research and development or education increase the growth rate in some endogenous growth models by increasing the incentive for innovation.
+
+
+== Models ==
+In the mid-1980s, a group of growth theorists became increasingly dissatisfied with common accounts of exogenous factors determining long-run growth. They favored a model that replaced the exogenous growth variable (unexplained technical progress) with a model in which the key determinants of growth were explicit in the model. The work of Kenneth Arrow (1962), Hirofumi Uzawa (1965), and Miguel Sidrauski (1967) formed the basis for this research. Paul Romer (1986), Robert Lucas (1988), Sergio Rebelo (1991) and Ortigueira and Santos (1997) omitted technological change; instead, growth in these models is due to indefinite investment in human capital which had a spillover effect on the economy and reduces the diminishing return to capital accumulation.The AK model, which is the simplest endogenous model, gives a constant-savings rate of endogenous growth and assumes a constant, exogenous, saving rate. It models technological progress with a single parameter (usually A). The model is based on the assumption that the production function does not exhibit diminishing returns to scale. Various rationales for this assumption have been given, such as positive spillovers from capital investment to the economy as a whole or improvements in technology leading to further improvements. However, the endogenous growth theory is further supported with models in which agents optimally determined the consumption and saving, optimizing the resources allocation to research and development leading to technological progress. Romer (1986, 1990) and significant contributions by Aghion and Howitt (1992) and Grossman and Helpman (1991), incorporated imperfect markets and R&D to the growth model. The  quantity   theory  of  endogenous productivity growth was  proposed by  Russian economist  Vladimir Pokrovskii.The theory explains  growth as a consequence of the dynamics of three factors, among them a technological characteristics of  production equipment ,   without  any arbitrary parameters,  which makes it possible to  reproduce historical rates of economic growth with considerable precision.
+
+
+=== AK model ===
+
+The AK model production function is a special case of a Cobb–Douglas production function: 
+
+  
+    
+      
+        Y
+        =
+        A
+        
+          K
+          
+            a
+          
+        
+        
+          L
+          
+            1
+            −
+            a
+          
+        
+        
+      
+    
+    {\displaystyle Y=AK^{a}L^{1-a}\,}
+  This equation shows a Cobb–Douglas function where Y represents the total production in an economy. A represents total factor productivity, K is capital, L is labor, and the parameter 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   measures the output elasticity of capital. For the special case in which 
+  
+    
+      
+        a
+        =
+        1
+      
+    
+    {\displaystyle a=1}
+  , the production function becomes linear in capital thereby giving constant returns to scale:
+
+  
+    
+      
+        Y
+        =
+        A
+        K
+        .
+      
+    
+    {\displaystyle Y=AK.}
+  To avoid the contradictions,    Russian economist  Vladimir Pokrovskii  proposed to  write the production function in the united form
+
+  
+    
+      
+        Y
+        =
+        
+          
+            {
+            
+              
+                
+                  ξ
+                  K
+                  ,
+                
+                
+                  ξ
+                  >
+                  0
+                
+              
+              
+                
+                  
+                    Y
+                    
+                      0
+                    
+                  
+                  
+                    
+                      L
+                      
+                        L
+                        
+                          0
+                        
+                      
+                    
+                  
+                  
+                    
+                      (
+                      
+                        
+                          
+                            
+                              L
+                              
+                                0
+                              
+                            
+                            L
+                          
+                        
+                        
+                          
+                            P
+                            
+                              P
+                              
+                                0
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    
+                      α
+                    
+                  
+                  ,
+                
+                
+                  0
+                  <
+                  α
+                  <
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle Y={\begin{cases}\xi K,&\xi >0\\Y_{0}{\frac {L}{L_{0}}}\left({\frac {L_{0}}{L}}{\frac {P}{P_{0}}}\right)^{\alpha },&0<\alpha <1\end{cases}}}
+  where  
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is a capital service;   
+  
+    
+      
+        
+          Y
+          
+            0
+          
+        
+      
+    
+    {\displaystyle Y_{0}}
+  , 
+  
+    
+      
+        
+          L
+          
+            0
+          
+        
+      
+    
+    {\displaystyle L_{0}}
+   and 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+      
+    
+    {\displaystyle P_{0}}
+   correspond to output, labour and substitutive work in the base year. This form of the  theory explains  growth as a consequence of the dynamics of the production  factors,   without  any arbitrary parameters,  which makes it possible to  reproduce historical rates of economic growth with considerable precision.
+
+
+== Versus exogenous growth theory ==
+In neo-classical growth models, the long-run rate of growth is exogenously determined by either the savings rate (the Harrod–Domar model) or the rate of technical progress (Solow model). However, the savings rate and rate of technological progress remain unexplained. Endogenous growth theory tries to overcome this shortcoming by building macroeconomic models out of microeconomic foundations. Households are assumed to maximize utility subject to budget constraints while firms maximize profits. Crucial importance is usually given to the production of new technologies and human capital. The engine for growth can be as simple as a constant return to scale production function (the AK model) or more complicated set ups with spillover effects (spillovers are positive externalities, benefits that are attributed to costs from other firms), increasing numbers of goods, increasing qualities, etc.
+Often endogenous growth theory assumes constant marginal product of capital at the aggregate level, or at least that the limit of the marginal product of capital does not tend towards zero. This does not imply that larger firms will be more productive than small ones, because at the firm level the marginal product of capital is still diminishing. Therefore, it is possible to construct endogenous growth models with perfect competition. However, in many endogenous growth models the assumption of perfect competition is relaxed, and some degree of monopoly power is thought to exist. Generally monopoly power in these models comes from the holding of patents. These are models with two sectors, producers of final output and an R&D sector: the R&D sector develops ideas which grant them monopoly power. R&D firms are assumed to be able to make monopoly profits selling ideas to production firms, but the free entry condition means that these profits are dissipated on R&D spending.
+
+
+== Implications ==
+An endogenous growth theory implication is that policies that embrace openness, competition, change and innovation will promote growth. Conversely, policies that have the effect of restricting or slowing change by protecting or favouring particular existing industries or firms are likely, over time, to slow growth to the disadvantage of the community. Peter Howitt has written:
+
+Sustained economic growth is everywhere and always a process of continual transformation. The sort of economic progress that has been enjoyed by the richest nations since the Industrial Revolution would not have been possible if people had not undergone wrenching changes. Economies that cease to transform themselves are destined to fall off the path of economic growth. The countries that most deserve the title of “developing” are not the poorest countries of the world, but the richest. [They] need to engage in the never-ending process of economic development if they are to enjoy continued prosperity.
+
+
+== Criticisms ==
+One of the main failings of endogenous growth theories is the collective failure to explain conditional convergence reported in empirical literature.Another frequent critique concerns the cornerstone assumption of diminishing returns to capital. Stephen Parente contends that new growth theory has proved to be no more successful than exogenous growth theory in explaining the income divergence between the developing and developed worlds (despite usually being more complex).Paul Krugman criticized endogenous growth theory as nearly impossible to check by empirical evidence; “too much of it involved making assumptions about how unmeasurable things affected other unmeasurable things.”
+
+
+== See also ==
+Economic growth
+Human capital
+Feldman–Mahalanobis model
+Solow–Swan model, “the” exogenous growth model
+Ramsey–Cass–Koopmans model, a microfounded growth model with infinite horizon
+
+
+== Notes ==
+
+
+== References ==
+Lucas, R. E. (1988). "On the mechanics of Economic Development" (PDF). Journal of Monetary Economics. 22: 3–42. doi:10.1016/0304-3932(88)90168-7. S2CID 154875771.
+Ortigueira, Salvador; Santos, Manuel S. (1997). "On the Speed of Convergence in Endogenous Growth Models". American Economic Review. 87 (3): 383–399. JSTOR 2951351.
+Rebelo, Sergio (1991). "Long-Run Policy Analysis and Long-Run Growth". Journal of Political Economy. 99 (3): 500. CiteSeerX 10.1.1.295.3609. doi:10.1086/261764. S2CID 14215251.
+Uzawa, Hirofumi (1965). "Optimum Technical Change in an Aggregative Model of Economic Growth" (PDF). International Economic Review. 6 (1): 18–31. doi:10.2307/2525621. JSTOR 2525621.
+
+
+== Further reading ==
+Acemoglu, Daron (2009). "Endogenous Technological Change". Introduction to Modern Economic Growth. Princeton University Press. pp. 411–533. ISBN 978-0-691-13292-1.
+Akcigit, Ufuk; Ates, Sina T. (2021/01). "Ten Facts on Declining Business Dynamism and Lessons from Endogenous Growth Theory". American Economic Journal: Macroeconomics 13(1): 257–298.
+Barro, Robert J.; Sala-i-Martin, Xavier (2004). "One-Sector Models of Endogenous Growth". Economic Growth (Second ed.). New York: McGraw-Hill. pp. 205–237. ISBN 978-0-262-02553-9.
+Farmer, Roger E. A. (1999). "Endogenous Growth Theory". Macroeconomics (Second ed.). Cincinnati: South-Western. pp. 357–380. ISBN 978-0-324-12058-5.
+Romer, David (2011). "Endogenous Growth". Advanced Macroeconomics (Fourth ed.). New York: McGraw-Hill. pp. 101–149. ISBN 978-0-07-351137-5.

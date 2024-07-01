@@ -1,0 +1,81 @@
+The money market is a component of the economy that provides short-term funds. The money market deals in short-term loans, generally for a period of a year or less.
+As short-term securities became a commodity, the money market became a component of the financial market for assets involved in short-term borrowing, lending, buying and selling with original maturities of one year or less. Trading in money markets is done over the counter and is wholesale.
+There are several money market instruments in most Western countries, including treasury bills, commercial paper, banker's acceptances, deposits, certificates of deposit, bills of exchange, repurchase agreements, federal funds, and short-lived mortgage- and asset-backed securities. The instruments bear differing maturities, currencies, credit risks, and structures.
+A market can be described as a money market if it is composed of highly liquid, short-term assets. Money market funds typically invest in government securities, certificates of deposit, commercial paper of companies, and other highly liquid, low-risk securities. The four most relevant types of money are commodity money, fiat money, fiduciary money (cheques, banknotes), and commercial bank money.  Commodity money relies on intrinsically valuable commodities that act as a medium of exchange. Fiat money, on the other hand, gets its value from a government order.
+Money markets, which provide liquidity for the global financial system including for capital markets, are part of the broader system of financial markets.
+
+
+== Participants ==
+The money market consists of financial institutions and dealers in money or credit who wish to either borrow or lend. Participants borrow and lend for short periods, typically up to twelve months.  Money market trades in short-term financial instruments commonly called "paper". This contrasts with the capital market for longer-term funding, which is supplied by bonds and equity.
+The core of the money market consists of interbank lending—banks borrowing and lending to each other using commercial paper, repurchase agreements and similar instruments. These instruments are often benchmarked to (i.e., priced by reference to) the London Interbank Offered Rate (LIBOR) for the appropriate term and currency.
+Finance companies typically fund themselves by issuing large amounts of asset-backed commercial paper (ABCP), which is secured by the pledge of eligible assets into an ABCP conduit. Examples of eligible assets include auto loans, credit card receivables, residential/commercial mortgage loans, mortgage-backed securities and similar financial assets. Some large corporations with strong credit rating issue commercial paper on their own credit.  Other large corporations arrange for banks to issue commercial paper on their behalf.
+In the United States, federal, state and local governments all issue paper to meet funding needs. States and local governments issue municipal paper, while the U.S. Treasury issues Treasury bills to fund the U.S. public debt:
+
+Trading companies often purchase bankers' acceptances to tender for payment to overseas suppliers.
+Retail and institutional money market funds
+Banks
+Central banks
+Cash management programs
+Merchant banks
+
+
+== Functions ==
+Money markets serve five functions—to finance trade, finance industry, invest profitably, enhance commercial banks' self-sufficiency, and lubricate central bank policies.
+
+
+=== Financing trade ===
+The money market plays a crucial role in financing domestic and international trade. Commercial finance is made available to the traders through bills of exchange, which are discounted by the bill market. The acceptance houses and discount markets help in financing foreign trade.
+
+
+=== Financing industry ===
+The money market contributes to the growth of industries in two ways:
+
+They help industries secure short-term loans to meet their working capital requirements through the system of finance bills, commercial papers, etc.
+Industries generally need long-term loans, which are provided in the capital market. However, the capital market depends upon the nature of and the conditions in the money market. The short-term interest rates of the money market influence the long-term interest rates of the capital market. Thus, money market indirectly helps the industries through its link with and influence on long-term capital market.
+
+
+=== Profitable investments ===
+The money market enables commercial banks to use their excess reserves in profitable investments. The main objective of commercial banks is to earn income from its reserves as well as maintain liquidity to meet the uncertain cash demand of its depositors. In the money market, the excess reserves of commercial banks are invested in near money assets (e.g., short-term bills of exchange), which are easily converted into cash. Thus, commercial banks earn profits without sacrificing liquidity.
+
+
+=== Self-sufficiency of commercial banks ===
+Developed money markets help commercial banks to become self-sufficient. In an emergency, when commercial banks have scarcity of funds, they need not approach the central bank and borrow at a higher interest rate. They can instead meet their requirements by recalling their old short-run loans from the money market.
+
+
+=== Help to central bank ===
+Though the central bank can function and influence the banking system in the absence of a money market, the existence of a developed money market smooths the functioning and increases the efficiency of the central bank.
+Money markets help central banks in two ways:
+
+Short-run interest rates serve as an indicator of the monetary and banking conditions in the country and, in this way, guide the central bank to adopt an appropriate banking policy,
+Sensitive and integrated money markets help the central bank secure quick and widespread influence on the sub-markets, thus facilitating effective policy implementation
+
+
+== Instruments ==
+Certificate of deposit – Time deposit, commonly offered to consumers by banks, thrift institutions, and credit unions.
+Repurchase agreements – Short-term loans—normally for less than one week and frequently for one day—arranged by selling securities to an investor with an agreement to repurchase them at a fixed price on a fixed date.
+Money market mutual funds - short-term investment debt, operated by professional institutions. Money market mutual funds are an investment fund where a number of investors invest their money in mutual fund institutions, and they diversify the funds in various investments.
+Commercial paper – Short term instruments promissory notes issued by company at discount to face value and redeemed at face value
+Eurodollar deposit – Deposits made in U.S. dollars at a bank or bank branch located outside the United States.
+Federal agency short-term securities – In the U.S., short-term securities issued by government sponsored enterprises such as the Farm Credit System, the Federal Home Loan Banks and the Federal National Mortgage Association. Money markets is heavily used function.
+Federal funds – In the U.S., interest-bearing deposits held by banks and other depository institutions at the Federal Reserve; these are immediately available funds that institutions borrow or lend, usually on an overnight basis. They are lent for the federal funds rate.
+Municipal notes – In the U.S., short-term notes issued by municipalities in anticipation of tax receipts or other revenues
+Treasury bills – Short-term debt obligations of a national government that are issued to mature in three to twelve months
+Money funds – Pooled short-maturity, high-quality investments that buy money market securities on behalf of retail or institutional investors
+Foreign exchange swaps – Exchanging a set of currencies in spot date and the reversal of the exchange of currencies at a predetermined time in the future
+Short-lived mortgage- and asset-backed securities
+
+
+=== Discount and accrual instruments ===
+There are two types of instruments in the fixed income market that pay interest at maturity, instead of as coupons—discount instruments and accrual instruments. Discount instruments, like repurchase agreements, are issued at a discount of face value, and their maturity value is the face value. Accrual instruments are issued at face value and mature at face value plus interest.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+"Money Market Funds Enter a World of Risk", New York Times, September 18, 2008
+Study on the identification of euro money market transactions in TARGET2

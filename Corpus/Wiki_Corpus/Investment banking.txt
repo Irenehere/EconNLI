@@ -1,0 +1,175 @@
+Investment banking pertains to certain activities of a financial services company or a corporate division that consist in advisory-based financial transactions on behalf of individuals, corporations, and governments. Traditionally associated with corporate finance, such a bank might assist in raising financial capital by underwriting or acting as the client's agent in the issuance of debt or equity securities. An investment bank may also assist companies involved in mergers and acquisitions (M&A) and provide ancillary services such as market making, trading of derivatives and equity securities, FICC services (fixed income instruments, currencies, and commodities) or research (macroeconomic, credit or equity research). Most investment banks maintain prime brokerage and asset management departments in conjunction with their investment research businesses. As an industry, it is broken up into the Bulge Bracket (upper tier), Middle Market (mid-level businesses), and boutique market (specialized businesses).
+Unlike commercial banks and retail banks, investment banks do not take deposits. From the passage of Glass–Steagall Act in 1933 until its repeal in 1999 by the Gramm–Leach–Bliley Act, the United States maintained a separation between investment banking and commercial banks. Other industrialized countries, including G7 countries, have historically not maintained such a separation. As part of the Dodd–Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd–Frank Act of 2010), the Volcker Rule asserts some institutional separation of investment banking services from commercial banking.All investment banking activity is classed as either "sell side" or "buy side". The "sell side" involves trading securities for cash or for other securities (e.g. facilitating transactions, market-making), or the promotion of securities (e.g. underwriting, research, etc.). The "buy side" involves the provision of advice to institutions that buy investment services. Private equity funds, mutual funds, life insurance companies, unit trusts, and hedge funds are the most common types of buy-side entities.
+An investment bank can also be split into private and public functions with a screen separating the two to prevent information from crossing. The private areas of the bank deal with private insider information that may not be publicly disclosed, while the public areas, such as stock analysis, deal with public information. An advisor who provides investment banking services in the United States must be a licensed broker-dealer and subject to U.S. Securities and Exchange Commission (SEC) and Financial Industry Regulatory Authority (FINRA) regulation.
+
+
+== History ==
+
+
+=== Early history ===
+The Dutch East India Company was the first company to issue bonds and shares of stock to the general public. It was also the first publicly traded company, being the first company to be listed on an official stock exchange.
+
+
+=== Further developments ===
+
+Investment banking has changed over the years, beginning as a partnership firm focused on underwriting security issuance, i.e. initial public offerings (IPOs) and secondary market offerings, brokerage, and mergers and acquisitions, and evolving into a "full-service" range including securities research, proprietary trading, and investment management. In the 21st century, the SEC filings of the major independent investment banks such as Goldman Sachs and Morgan Stanley reflect three product segments:
+
+investment banking (mergers and acquisitions, advisory services, and securities underwriting),
+asset management (sponsored investment funds), and
+trading and principal investments (broker-dealer activities, including proprietary trading ("dealer" transactions) and brokerage trading ("broker" transactions)).In the United States, commercial banking and investment banking were separated by the Glass–Steagall Act, which was repealed in 1999. The repeal led to more "universal banks" offering an even greater range of services. Many large commercial banks have therefore developed investment banking divisions through acquisitions and hiring. Notable large banks with significant investment banks include JPMorgan Chase, Bank of America, Citigroup, Credit Suisse, Deutsche Bank, UBS, and Barclays.
+After the financial crisis of 2007–08 and the subsequent passage of the Dodd-Frank Act of 2010, regulations have limited certain investment banking operations, notably with the Volcker Rule's restrictions on proprietary trading.The traditional service of underwriting security issues has declined as a percentage of revenue. As far back as 1960, 70% of Merrill Lynch's revenue was derived from transaction commissions while "traditional investment banking" services accounted for 5%. However, Merrill Lynch was a relatively "retail-focused" firm with a large brokerage network.
+
+
+== Organizational structure ==
+
+
+=== Core investment banking activities ===
+Investment banking is split into front office, middle office, and back office activities. While large service investment banks offer all lines of business, both "sell side" and "buy side", smaller sell-side investment firms such as boutique investment banks and small broker-dealers focus on investment banking and sales/trading/research, respectively.
+Investment banks offer services to both corporations issuing securities and investors buying securities. For corporations, investment bankers offer information on when and how to place their securities on the open market, an activity very important to an investment bank's reputation. Therefore, investment bankers play a very important role in issuing new security offerings.
+
+
+==== Front office ====
+Front office is generally described as a revenue-generating role. There are two main areas within front office: investment banking and markets.
+Investment banking involves advising organizations on mergers and acquisitions, as well as a wide array of capital raising strategies.
+Markets is divided into "sales and trading" (including "structuring"), and "research".
+
+
+===== Corporate finance =====
+
+Corporate finance is the aspect of investment banks which involves helping customers raise funds in capital markets and giving advice on mergers and acquisitions (M&A);
+transactions in which capital is raised for the corporation include those listed aside.
+This work may involve, i.a., subscribing investors to a security issuance, coordinating with bidders, or negotiating with a merger target. 
+A pitch book of financial information is generated to market the bank to a potential M&A client; if the pitch is successful, the bank arranges the deal for the client. 
+The investment banking division (IBD) is generally divided into industry coverage and product coverage groups. 
+Industry coverage groups focus on a specific industry—such as healthcare, public finance (governments), FIG (financial institutions group), industrials, TMT (technology, media, and telecommunications), P&E (power & energy), consumer/retail, food & beverage, corporate defense and governance—and maintain relationships with corporations within the industry to bring in business for the bank. 
+Product coverage groups focus on financial products—such as mergers and acquisitions, leveraged finance, public finance, asset finance and leasing, structured finance, restructuring, equity, and debt issuance.
+Recent legal and regulatory developments in the U.S. will likely alter the makeup of the group of arrangers and financiers willing to arrange and provide financing for certain highly leveraged transactions.
+
+
+===== Sales and trading =====
+
+On behalf of the bank and its clients, a large investment bank's primary function is buying and selling products.Sales is the term for the investment bank's sales force, whose primary job is to call on institutional and high-net-worth investors to suggest trading ideas (on a caveat emptor basis) and take orders. Sales desks then communicate their clients' orders to the appropriate trading rooms, which can price and execute trades, or structure new products that fit a specific need. 
+Sales make deals tailored to their corporate customers' needs, that is, their terms are often specific. Focusing on their customer relationship, they may deal on the whole range of asset types. 
+(In distinction, trades negotiated by market-makers usually bear standard terms; in market making, traders will buy and sell financial products with the goal of making money on each trade.
+See under trading desk.)
+Structuring has been a relatively recent activity as derivatives have come into play, with highly technical and numerate employees working on creating complex structured products which typically offer much greater margins and returns than underlying cash securities, so-called "yield enhancement". In 2010, investment banks came under pressure as a result of selling complex derivatives contracts to local municipalities in Europe and the US.Strategists advise external as well as internal clients on the strategies that can be adopted in various markets. Ranging from derivatives to specific industries, strategists place companies and industries in a quantitative framework with full consideration of the macroeconomic scene. This strategy often affects the way the firm will operate in the market, the direction it would like to take in terms of its proprietary and flow positions, the suggestions salespersons give to clients, as well as the way structurers create new products. 
+Banks also undertake risk through proprietary trading, performed by a special set of traders who do not interface with clients and through "principal risk"—risk undertaken by a trader after he buys or sells a product to a client and does not hedge his total exposure. 
+Here, and in general, banks seek to maximize profitability for a given amount of risk on their balance sheet. 
+Note here that the FRTB framework has underscored the distinction between the "Trading book" and the "Banking book"  
+- i.e. assets intended for active trading, as opposed to assets expected to be held to maturity - 
+and market risk capital requirements will differ accordingly.
+The necessity for numerical ability in sales and trading has created jobs for physics, computer science, mathematics, and engineering PhDs who act as "front office" quantitative analysts.
+
+
+===== Research =====
+
+The securities research division reviews companies and writes reports about their prospects, often with "buy", "hold", or "sell" ratings. Investment banks typically have sell-side analysts which cover various industries. Their sponsored funds or proprietary trading offices will also have buy-side research.
+Research also covers credit risk, fixed income, macroeconomics, and quantitative analysis, all of which are used internally and externally to advise clients; alongside "Equity", these may be separate "groups". 
+The research group(s) typically provide a key service in terms of advisory and strategy.
+While the research division may or may not generate revenue (based on policies at different banks), its resources are used to assist traders in trading, the sales force in suggesting ideas to customers, and investment bankers by covering their clients. Research also serves outside clients with investment advice (such as institutional investors and high-net-worth individuals) in the hopes that these clients will execute suggested trade ideas through the sales and trading division of the bank, and thereby generate revenue for the firm.
+With MiFID II requiring sell-side research teams in banks to charge for research, the business model for research is increasingly becoming revenue-generating. External rankings of researchers are becoming increasingly important, and banks have started the process of monetizing research publications, client interaction times, meetings with clients etc.
+There is a potential conflict of interest between the investment bank and its analysis, in that published analysis can impact the performance of a security (in the secondary markets or an initial public offering) or influence the relationship between the banker and its corporate clients, and vice versa regarding material non-public information (MNPI), thereby affecting the bank's profitability.
+See also Chinese wall § Finance.
+
+
+==== Middle office ====
+This area of the bank includes treasury management, internal controls (such as Risk), and internal corporate strategy.
+Corporate treasury is responsible for an investment bank's funding, capital structure management, and liquidity risk monitoring; it is (co)responsible for the bank's funds transfer pricing (FTP) framework.
+Internal control tracks and analyzes the capital flows of the firm, the finance division is the principal adviser to senior management on essential areas such as controlling the firm's global risk exposure and the profitability and structure of the firm's various businesses via dedicated trading desk product control teams. In the United States and United Kingdom, a comptroller (or financial controller) is a senior position, often reporting to the chief financial officer.
+
+
+===== Risk management =====
+
+Risk management involves analyzing the market and credit risk that an investment bank or its clients take onto their balance sheet during transactions or trades. 
+Middle office "Credit Risk" focuses around capital markets activities, such as syndicated loans, bond issuance, restructuring, and leveraged finance. 
+These are not considered "front office" as they tend not to be client-facing and rather 'control' banking functions from taking too much risk. 
+"Market Risk" is the control function for the Markets' business and conducts review of sales and trading activities utilizing the VaR model. 
+Other Middle office "Risk Groups" include country risk, operational risk, and counterparty risks which may or may not exist on a bank to bank basis.
+Front office risk teams, on the other hand, engage in revenue-generating activities involving debt structuring, restructuring, syndicated loans, and securitization for clients such as corporates, governments, and hedge funds. 
+Here "Credit Risk Solutions", are a key part of capital market transactions, involving debt structuring, exit financing, loan amendment, project finance, leveraged buy-outs, and sometimes portfolio hedging. 
+The "Market Risk Team" provides services to investors via derivative solutions, portfolio management, portfolio consulting, and risk advisory.
+Well-known "Risk Groups" are at JPMorgan Chase, Morgan Stanley, Goldman Sachs and Barclays. 
+J.P. Morgan IB Risk works with investment banking to execute transactions and advise investors, although its Finance & Operation risk groups focus on middle office functions involving internal, non-revenue generating, operational risk controls. The credit default swap, for instance, is a famous credit risk hedging solution for clients invented by J.P. Morgan's Blythe Masters during the 1990s. 
+The Loan Risk Solutions group within Barclays' investment banking division and Risk Management and Financing group housed in Goldman Sach's securities division are client-driven franchises.
+Note, however, that risk management groups such as credit risk, operational risk, internal risk control, and legal risk are restrained to internal business functions — including firm balance-sheet risk analysis and assigning the trading cap — that are independent of client needs, even though these groups may be responsible for deal approval that directly affects capital market activities. 
+Similarly, the Internal corporate strategy group, tackling firm management and profit strategy, unlike corporate strategy groups that advise clients, is non-revenue regenerating yet a key functional role within investment banks.
+This list is not a comprehensive summary of all middle-office functions within an investment bank, as specific desks within front and back offices may participate in internal functions.
+
+
+==== Back office ====
+The back office data-checks trades that have been conducted, ensuring that they are not wrong, and transacts the required transfers. Many banks have outsourced operations. It is, however, a critical part of the bank.
+
+
+===== Technology =====
+Every major investment bank has considerable amounts of in-house software, created by the technology team, who are also responsible for technical support. Technology has changed considerably in the last few years as more sales and trading desks are using electronic processing. Some trades are initiated by complex algorithms for hedging purposes.
+Firms are responsible for compliance with local and foreign government regulations and internal regulations. 
+
+
+=== Other businesses ===
+Global transaction banking is the division that provides cash management, securities services (including custody and securities lending etc.) to institutions. Prime brokerage with hedge funds has been an especially profitable business, as well as risky, as seen in the bank run with Bear Stearns in 2008.
+Investment management is the professional management of various securities (stocks, bonds, etc.) and other assets (e.g., real estate), to meet specified investment goals for the benefit of investors. Investors may be institutions (insurance companies, pension funds, corporations etc.) or private investors (both directly via investment contracts and more commonly via investment funds e.g., mutual funds). The investment management division of an investment bank is generally divided into separate groups, often known as private wealth management and private client services.
+Merchant banking can be called "very personal banking"; merchant banks offer capital in exchange for share ownership rather than loans, and offer advice on management and strategy. Merchant banking is also a name used to describe the private equity side of a firm. Current examples include Defoe Fournier & Cie. and JPMorgan Chase's One Equity Partners. The original J.P. Morgan & Co., Rothschilds, Barings and Warburgs were all merchant banks. Originally, "merchant bank" was the British English term for an investment bank.
+
+
+== Industry profile ==
+As an industry, it is broken up into the Bulge Bracket (upper tier), Middle Market (mid-level businesses), and boutique market (specialized businesses). There are various trade associations throughout the world which represent the industry in lobbying, facilitate industry standards, and publish statistics. The International Council of Securities Associations (ICSA) is a global group of trade associations.
+In the United States, the Securities Industry and Financial Markets Association (SIFMA) is likely the most significant; however, several of the large investment banks are members of the American Bankers Association Securities Association (ABASA), while small investment banks are members of the National Investment Banking Association (NIBA).
+In Europe, the European Forum of Securities Associations was formed in 2007 by various European trade associations. Several European trade associations (principally the London Investment Banking Association and the European SIFMA affiliate) combined in November 2009 to form the Association for Financial Markets in Europe (AFME).In the securities industry in China, the Securities Association of China is a self-regulatory organization whose members are largely investment banks.
+
+
+=== Global size and revenue mix ===
+Global investment banking revenue increased for the fifth year running in 2007, to a record US$84 billion, which was up 22% on the previous year and more than double the level in 2003. Subsequent to their exposure to United States sub-prime securities investments, many investment banks have experienced losses. As of late 2012, global revenues for investment banks were estimated at $240 billion, down about a third from 2009, as companies pursued less deals and traded less. Differences in total revenue are likely due to different ways of classifying investment banking revenue, such as subtracting proprietary trading revenue.
+In terms of total revenue, SEC filings of the major independent investment banks in the United States show that investment banking (defined as M&A advisory services and security underwriting) made up only about 15–20% of total revenue for these banks from 1996 to 2006, with the majority of revenue (60+% in some years) brought in by "trading" which includes brokerage commissions and proprietary trading; the proprietary trading is estimated to provide a significant portion of this revenue.The United States generated 46% of global revenue in 2009, down from 56% in 1999. Europe (with Middle East and Africa) generated about a third while Asian countries generated the remaining 21%.: 8  The industry is heavily concentrated in a small number of major financial centers, including New York City, City of London, Frankfurt, Hong Kong, Singapore, and Tokyo. The majority of the world's largest Bulge Bracket investment banks and their investment managers are headquartered in New York and are also important participants in other financial centers. The city of London has historically served as a hub of European M&A activity, often facilitating the most capital movement and corporate restructuring in the area. Meanwhile, Asian cities are receiving a growing share of M&A activity.
+According to estimates published by the International Financial Services London, for the decade prior to the financial crisis in 2008, M&A was a primary source of investment banking revenue, often accounting for 40% of such revenue, but dropped during and after the financial crisis.: 9  Equity underwriting revenue ranged from 30% to 38%, and fixed-income underwriting accounted for the remaining revenue.: 9 Revenues have been affected by the introduction of new products with higher margins; however, these innovations are often copied quickly by competing banks, pushing down trading margins. For example, brokerages commissions for bond and equity trading is a commodity business, but structuring and trading derivatives have higher margins because each over-the-counter contract has to be uniquely structured and could involve complex pay-off and risk profiles. One growth area is private investment in public equity (PIPEs, otherwise known as Regulation D or Regulation S). Such transactions are privately negotiated between companies and accredited investors.
+Banks also earned revenue by securitizing debt, particularly mortgage debt prior to the financial crisis. Investment banks have become concerned that lenders are securitizing in-house, driving the investment banks to pursue vertical integration by becoming lenders, which is allowed in the United States since the repeal of the Glass–Steagall Act in 1999.
+
+
+=== Top 10 banks ===
+
+According to The Wall Street Journal, in terms of total M&A advisory fees for the whole of 2020, the top ten investment banks were as listed in the table below. Many of these firms belong either to the Bulge Bracket (upper tier), Middle Market (mid-level businesses), or are elite boutique investment banks (independent investment banks).
+
+The above list is just a ranking of the advisory arm (M&A advisory, syndicated loans, equity capital markets, and debt capital markets) of each bank and does not include the generally much larger portion of revenues from sales and trading and asset management. Mergers and acquisitions and capital markets are also often covered by The Wall Street Journal and Bloomberg.
+
+
+== Financial crisis of 2007–2008 ==
+The financial crisis of 2007–2008 led to the collapse of several notable investment banks, such as the bankruptcy of Lehman Brothers (one of the largest investment banks in the world) and the hurried sale of Merrill Lynch and the much smaller Bear Stearns to much larger banks, which effectively rescued them from bankruptcy. The entire financial services industry, including numerous investment banks, was bailed out by government taxpayer funded loans through the Troubled Asset Relief Program (TARP). Surviving U.S. investment banks such as Goldman Sachs and Morgan Stanley converted to traditional bank holding companies to accept TARP relief. Similar situations occurred across the globe with countries rescuing their banking industry. Initially, banks received part of a $700 billion TARP intended to stabilize the economy and thaw the frozen credit markets. Eventually, taxpayer assistance to banks reached nearly $13 trillion—most without much scrutiny— lending did not increase, and credit markets remained frozen.The crisis led to questioning of the business model of the investment bank without the regulation imposed on it by Glass–Steagall. Once Robert Rubin, a former co-chairman of Goldman Sachs, became part of the Clinton administration and deregulated banks, the previous conservatism of underwriting established companies and seeking long-term gains was replaced by lower standards and short-term profit. Formerly, the guidelines said that in order to take a company public, it had to be in business for a minimum of five years and it had to show profitability for three consecutive years. After deregulation, those standards were gone, but small investors did not grasp the full impact of the change.A number of former Goldman Sachs top executives, such as Henry Paulson and Ed Liddy, were in high-level positions in government and oversaw the controversial taxpayer-funded bank bailout. The TARP Oversight Report released by the Congressional Oversight Panel found that the bailout tended to encourage risky behavior and "corrupt[ed] the fundamental tenets of a market economy".Under threat of a subpoena, Goldman Sachs revealed that it received $12.9 billion in taxpayer aid, $4.3 billion of which was then paid out to 32 entities, including many overseas banks, hedge funds, and pensions. The same year it received $10 billion in aid from the government, it also paid out multimillion-dollar bonuses; the total paid in bonuses was $4.82 billion. Similarly, Morgan Stanley received $10 billion in TARP funds and paid out $4.475 billion in bonuses.
+
+
+== Criticisms ==
+
+The investment banking industry, and many individual investment banks, have come under criticism for a variety of reasons, including perceived conflicts of interest, overly large pay packages, cartel-like or oligopolistic behavior, taking both sides in transactions, and more. Investment banking has also been criticised for its opacity.
+
+
+=== Conflicts of interest ===
+Conflicts of interest may arise between different parts of a bank, creating the potential for market manipulation, according to critics. Authorities that regulate investment banking, such as the Financial Conduct Authority (FCA) in the United Kingdom and the SEC in the United States, require that banks impose a "Chinese wall" to prevent communication between investment banking on one side and equity research and trading on the other. However, critics say such a barrier does not always exist in practice. Independent advisory firms that exclusively provide corporate finance advice argue that their advice is not conflicted, unlike bulge bracket banks.
+Conflicts of interest often arise in relation to investment banks' equity research units, which have long been part of the industry. A common practice is for equity analysts to initiate coverage of a company in order to develop relationships that lead to highly profitable investment banking business. In the 1990s, many equity researchers allegedly traded positive stock ratings for investment banking business. Alternatively, companies may threaten to divert investment banking business to competitors unless their stock was rated favorably. Laws were passed to criminalize such acts, and increased pressure from regulators and a series of lawsuits, settlements, and prosecutions curbed this business to a large extent following the 2001 stock market tumble after the dot-com bubble.
+Philip Augar, author of The Greed Merchants, said in an interview that, "You cannot simultaneously serve the interest of issuer clients and investing clients. And it’s not just underwriting and sales; investment banks run proprietary trading operations that are also making a profit out of these securities."Many investment banks also own retail brokerages. During the 1990s, some retail brokerages sold consumers securities which did not meet their stated risk profile. This behavior may have led to investment banking business or even sales of surplus shares during a public offering to keep public perception of the stock favorable.
+Since investment banks engage heavily in trading for their own account, there is always the temptation for them to engage in some form of front running—the illegal practice whereby a broker executes orders for their own account before filling orders previously submitted by their customers, thereby benefiting from any changes in prices induced by those orders.
+Documents under seal in a decade-long lawsuit concerning eToys.com's IPO but obtained by New York Times' Wall Street Business columnist Joe Nocera alleged that IPOs managed by Goldman Sachs and other investment bankers involved asking for kickbacks from their institutional clients who made large profits flipping IPOs which Goldman had intentionally undervalued. Depositions in the lawsuit alleged that clients willingly complied with these demands because they understood it was necessary in order to participate in future hot issues. Reuters Wall Street correspondent Felix Salmon retracted his earlier, more conciliatory statements on the subject and said he believed that the depositions show that companies going public and their initial consumer stockholders are both defrauded by this practice, which may be widespread throughout the IPO finance industry. The case is ongoing, and the allegations remain unproven.
+
+
+=== Compensation ===
+Investment banking is often criticized for the enormous pay packages awarded to those who work in the industry. According to Bloomberg Wall Street's five biggest firms paid over $3 billion to their executives from 2003 to 2008, "while they presided over the packaging and sale of loans that helped bring down the investment-banking system".The highly generous pay packages include $172 million for Merrill Lynch CEO Stanley O'Neal from 2003 to 2007, before it was bought by Bank of America in 2008, and $161 million for Bear Stearns' James Cayne before the bank collapsed and was sold to JPMorgan Chase in June 2008.Such pay arrangements have attracted the ire of Democrats and Republicans in the United States Congress, who demanded limits on executive pay in 2008 when the U.S. government was bailing out the industry with a $700 billion financial rescue package.Writing in the Global Association of Risk Professionals journal, Aaron Brown, a vice president at Morgan Stanley, says "By any standard of human fairness, of course, investment bankers make obscene amounts of money."
+
+
+== See also ==
+Alternative investment
+Boutique investment bank
+Devolvement
+Independent advisory firm
+Investment Banking Exam
+List of investment banks
+Traditional investments
+
+
+== References ==
+
+
+== Further reading ==
+Fleuriet Michel Investment Banking Explained: An Insider's Guide to the Industry McGraw-Hill New York NY 2008 ISBN 978-0-07-149733-6.
+DePamphilis, Donald (2008). Mergers, Acquisitions, and Other Restructuring Activities. New York: Elsevier, Academic Press. p. 740. ISBN 978-0-12-374012-0.
+Cartwright, Susan; Schoenberg, Richard (2006). "Thirty Years of Mergers and Acquisitions Research: Recent Advances and Future Opportunities" (PDF). British Journal of Management. 17 (S1): S1–S5. doi:10.1111/j.1467-8551.2006.00475.x. hdl:1826/3570. S2CID 154230290.
+Harwood, I. A. (2006). "Confidentiality constraints within mergers and acquisitions: gaining insights through a 'bubble' metaphor". British Journal of Management. 17 (4): 347–359. doi:10.1111/j.1467-8551.2005.00440.x. S2CID 154600685.
+Rosenbaum, Joshua; Joshua Pearl (2009). Investment Banking: Valuation, Leveraged Buyouts, and Mergers & Acquisitions. Hoboken, NJ: John Wiley & Sons. ISBN 978-0-470-44220-3.
+Straub, Thomas (2007). Reasons for Frequent Failure in Mergers and Acquisitions: A Comprehensive Analysis. Wiesbaden: Deutscher Universitätsverlag. ISBN 978-3-8350-0844-1.
+Scott, Andy (2008). China Briefing: Mergers and Acquisitions in China (2nd ed.). ISBN 978-3642149184.

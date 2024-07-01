@@ -1,0 +1,574 @@
+The Harrod–Domar model is a Keynesian model of economic growth. It is used in development economics to explain an economy's growth rate in terms of the level of saving and of capital. It suggests that there is no natural reason for an economy to have balanced growth. The model was developed independently by Roy F. Harrod in 1939, and Evsey Domar in 1946, although a similar model had been proposed by Gustav Cassel in 1924. The Harrod–Domar model was the precursor to the exogenous growth model.Neoclassical economists claimed shortcomings in the Harrod–Domar model—in particular the instability of its solution—and, by the late 1950s, started an academic dialogue that led to the development of the Solow–Swan model.According to the Harrod–Domar model there are three kinds of growth: warranted growth, actual growth and natural rate of growth.
+Warranted growth rate is the rate of growth at which the economy does not expand indefinitely or go into recession. Actual growth is the real rate increase in a country's GDP per year. (See also: Gross domestic product and Natural gross domestic product). Natural growth is the growth an economy requires to maintain full employment. For example, If the labor force grows at 3 percent per year, then to maintain full employment, the economy’s annual growth rate must be 3 percent.
+
+
+== Mathematical formalism ==
+
+
+=== Definitions ===
+Let Y represent output, which equals income, and let K equal the capital stock.  S is total saving, s is the savings rate, and I is investment.  δ stands for the rate of depreciation of the capital stock. The Harrod–Domar model makes the following a priori assumptions:
+
+
+=== Derivations ===
+Derivation of output growth rate:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                c
+                =
+                
+                  
+                    
+                      d
+                      Y
+                    
+                    
+                      d
+                      K
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      Y
+                      (
+                      t
+                      +
+                      1
+                      )
+                      −
+                      Y
+                      (
+                      t
+                      )
+                    
+                    
+                      K
+                      (
+                      t
+                      )
+                      +
+                      s
+                      Y
+                      (
+                      t
+                      )
+                      −
+                      δ
+                       
+                      K
+                      (
+                      t
+                      )
+                      −
+                      K
+                      (
+                      t
+                      )
+                    
+                  
+                
+              
+            
+            
+              
+              
+                c
+                =
+                
+                  
+                    
+                      Y
+                      (
+                      t
+                      +
+                      1
+                      )
+                      −
+                      Y
+                      (
+                      t
+                      )
+                    
+                    
+                      s
+                      Y
+                      (
+                      t
+                      )
+                      −
+                      δ
+                       
+                      
+                        
+                          
+                            d
+                            K
+                          
+                          
+                            d
+                            Y
+                          
+                        
+                      
+                      Y
+                      (
+                      t
+                      )
+                    
+                  
+                
+              
+            
+            
+              
+              
+                c
+                (
+                s
+                Y
+                (
+                t
+                )
+                −
+                δ
+                 
+                
+                  
+                    
+                      d
+                      K
+                    
+                    
+                      d
+                      Y
+                    
+                  
+                
+                Y
+                (
+                t
+                )
+                )
+                =
+                Y
+                (
+                t
+                +
+                1
+                )
+                −
+                Y
+                (
+                t
+                )
+              
+            
+            
+              
+              
+                c
+                Y
+                (
+                t
+                )
+                
+                  (
+                  
+                    s
+                    −
+                    δ
+                     
+                    
+                      
+                        
+                          d
+                          K
+                        
+                        
+                          d
+                          Y
+                        
+                      
+                    
+                  
+                  )
+                
+                =
+                Y
+                (
+                t
+                +
+                1
+                )
+                −
+                Y
+                (
+                t
+                )
+              
+            
+            
+              
+              
+                c
+                s
+                −
+                c
+                δ
+                 
+                
+                  
+                    
+                      d
+                      K
+                    
+                    
+                      d
+                      Y
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      Y
+                      (
+                      t
+                      +
+                      1
+                      )
+                      −
+                      Y
+                      (
+                      t
+                      )
+                    
+                    
+                      Y
+                      (
+                      t
+                      )
+                    
+                  
+                
+              
+            
+            
+              
+              
+                s
+                
+                  
+                    
+                      d
+                      Y
+                    
+                    
+                      d
+                      K
+                    
+                  
+                
+                −
+                δ
+                 
+                
+                  
+                    
+                      d
+                      Y
+                    
+                    
+                      d
+                      K
+                    
+                  
+                
+                
+                  
+                    
+                      d
+                      K
+                    
+                    
+                      d
+                      Y
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      Y
+                      (
+                      t
+                      +
+                      1
+                      )
+                      −
+                      Y
+                      (
+                      t
+                      )
+                    
+                    
+                      Y
+                      (
+                      t
+                      )
+                    
+                  
+                
+              
+            
+            
+              
+              
+                s
+                c
+                −
+                δ
+                 
+                =
+                
+                  
+                    
+                      Δ
+                      Y
+                    
+                    Y
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&c={\frac {dY}{dK}}={\frac {Y(t+1)-Y(t)}{K(t)+sY(t)-\delta \ K(t)-K(t)}}\\[8pt]&c={\frac {Y(t+1)-Y(t)}{sY(t)-\delta \ {\frac {dK}{dY}}Y(t)}}\\[8pt]&c(sY(t)-\delta \ {\frac {dK}{dY}}Y(t))=Y(t+1)-Y(t)\\[8pt]&cY(t)\left(s-\delta \ {\frac {dK}{dY}}\right)=Y(t+1)-Y(t)\\[8pt]&cs-c\delta \ {\frac {dK}{dY}}={\frac {Y(t+1)-Y(t)}{Y(t)}}\\[8pt]&s{\frac {dY}{dK}}-\delta \ {\frac {dY}{dK}}{\frac {dK}{dY}}={\frac {Y(t+1)-Y(t)}{Y(t)}}\\[8pt]&sc-\delta \ ={\frac {\Delta Y}{Y}}\end{aligned}}}
+  A derivation with calculus is as follows, using dot notation (for example, 
+  
+    
+      
+         
+        
+          
+            
+              Y
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle \ {\dot {Y}}}
+  ) for the derivative of a variable with respect to time.
+First, assumptions (1)–(3) imply that output and capital are linearly related (for readers with an economics background, this proportionality implies a capital-elasticity of output equal to unity). These assumptions thus generate equal growth rates between the two variables. That is,
+
+  
+    
+      
+         
+        Y
+        =
+        c
+        K
+        ⇒
+        l
+        o
+        g
+        (
+        Y
+        )
+        =
+        l
+        o
+        g
+        (
+        c
+        )
+        +
+        l
+        o
+        g
+        (
+        K
+        )
+      
+    
+    {\displaystyle \ Y=cK\Rightarrow log(Y)=log(c)+log(K)}
+  Since the marginal product of capital, c, is a constant, we have
+
+  
+    
+      
+         
+        
+          
+            
+              d
+              log
+              ⁡
+              (
+              Y
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              log
+              ⁡
+              (
+              K
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        ⇒
+        
+          
+            
+              
+                Y
+                ˙
+              
+            
+            Y
+          
+        
+        =
+        
+          
+            
+              
+                K
+                ˙
+              
+            
+            K
+          
+        
+      
+    
+    {\displaystyle \ {\frac {d\log(Y)}{dt}}={\frac {d\log(K)}{dt}}\Rightarrow {\frac {\dot {Y}}{Y}}={\frac {\dot {K}}{K}}}
+  Next, with assumptions (4) and (5), we can find capital's growth rate as,
+
+  
+    
+      
+         
+        
+          
+            
+              
+                K
+                ˙
+              
+            
+            K
+          
+        
+        =
+        
+          
+            I
+            K
+          
+        
+        −
+        δ
+         
+        =
+        s
+        
+          
+            Y
+            K
+          
+        
+        −
+        δ
+         
+      
+    
+    {\displaystyle \ {\frac {\dot {K}}{K}}={\frac {I}{K}}-\delta \ =s{\frac {Y}{K}}-\delta \ }
+  
+
+  
+    
+      
+         
+        ⇒
+        
+          
+            
+              
+                Y
+                ˙
+              
+            
+            Y
+          
+        
+        =
+        s
+        c
+        −
+        δ
+         
+      
+    
+    {\displaystyle \ \Rightarrow {\frac {\dot {Y}}{Y}}=sc-\delta \ }
+  In summation, the savings rate times the marginal product of capital minus the depreciation rate equals the output growth rate. Increasing the savings rate, increasing the marginal product of capital, or decreasing the depreciation rate will increase the growth rate of output; these are the means to achieve growth in the Harrod–Domar model.
+
+
+== Significance ==
+Domar proposed the model in the aftermath of the great depression, intending to model economies in the short-run, during a period where there is high enough unemployment such that any additional machine may be fully utilized by labor. Consequently, production can be modelled as a function of capital only.Although the Harrod–Domar model was initially created to help analyse the business cycle, it was later adapted to explain economic growth. Its implications were that growth depends on the quantity of labour and capital; more investment leads to capital accumulation, which generates economic growth. The model carries implications for less economically developed countries, where labour is in plentiful supply in these countries but physical capital is not, slowing down economic progress. LDCs do not have sufficiently high incomes to enable sufficient rates of saving; therefore, accumulation of physical-capital stock through investment is low.
+The model implies that economic growth depends on policies to increase investment, by increasing saving, and using that investment more efficiently through technological advances.
+The model concludes that an economy does not "naturally" find full employment and stable growth rates.
+
+
+== Criticisms ==
+The main criticism of the model is the level of assumption, one being that there is no reason for growth to be sufficient to maintain full employment; this is based on the belief that the relative price of labour and capital is fixed, and that they are used in equal proportions. The model also assumes that savings rates are constant, which may not be true, and assumes that the marginal returns to capital are constant. Furthermore, the model has been criticized for the assumption that productive capacity is proportional to capital stock, which Domar later stated was not a realistic assumption.
+
+
+== See also ==
+Economic growth
+Feldman–Mahalanobis model
+Solow–Swan model
+
+
+== References ==
+
+
+== Further reading ==
+Ackley, Gardner (1961). "Economic Growth: The Problem of Capital Accumulation". Macroeconomic Theory. New York: Macmillan. pp. 505–535.
+Baumol, William J. (1970). "Mr. Harrod's Model". Economic Dynamics (Third ed.). London: Macmillan. pp. 37–55. ISBN 0-02-306660-1.
+Brems, Hans (1967). "The One-Country Harrod–Domar Model of Growth". Quantitative Economic Theory: A Synthetic Approach. New York: Wiley. pp. 426–435.
+Cochrane, James L.; Gubins, Samuel; Kiker, B. F. (1974). "Economic Growth (I)". Macroeconomics: Analysis and Policy. Glenview: Scott, Foresman and Co. pp. 328–353. ISBN 0-673-07639-3.
+Gapinski, James H. (1982). "Celebrated Paradigms of Economic Growth". Macroeconomic Theory: Statics, Dynamics, and Policy. McGraw-Hill. pp. 251–285. ISBN 0-07-022765-9.
+Keiser, Norman F. (1975). "An Introduction to Growth Theory". Macroeconomics (Second ed.). New York: Random House. pp. 386–399. ISBN 0-394-31922-2.
+Lindauer, John (1976). Macroeconomics (Third ed.). New York: Wiley. pp. 325–332. ISBN 0-471-53572-9.

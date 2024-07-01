@@ -1,0 +1,248 @@
+A real estate investment trust (REIT, pronounced "reet") is a company that owns, and in most cases operates, income-producing real estate. REITs own many types of commercial real estate, including office and apartment buildings, warehouses, hospitals, shopping centers, hotels and commercial forests. Some REITs engage in financing real estate.
+Most countries' laws on REITs entitle a real estate company to pay less in corporation tax and capital gains tax. REITs have been criticised as enabling speculation on housing, and reducing housing affordability, without increasing finance for building.REITs can be publicly traded on major exchanges, publicly registered but non-listed, or private. The two main types of REITs are equity REITs and mortgage REITs (mREITs). In November 2014, equity REITs were recognized as a distinct asset class in the Global Industry Classification Standard by S&P Dow Jones Indices and MSCI. The key statistics to examine the financial position and operation of a REIT include net asset value (NAV), funds from operations (FFO), and adjusted funds from operations (AFFO).
+
+
+== History ==
+
+
+=== Creation ===
+REITs were created in the United States after President Dwight D. Eisenhower signed Public Law 86-779, sometimes called the Cigar Excise Tax Extension of 1960. The law was enacted to allow all investors to invest in large-scale, diversified portfolios of income-producing real estate in the same way they typically invest in other asset classes – through the purchase and sale of liquid securities. The first REIT was American Realty Trust founded by Thomas J. Broyhill, cousin of Virginia U.S. Congressman Joel Broyhill in 1961 who pushed for the creation under Eisenhower.
+As of 2021, at least 39 countries around the world have established REITs. A comprehensive index for the REIT and the global listed property market is the FTSE EPRA/Nareit Global Real Estate Index Series, which was created jointly in October 2001 by the index provider FTSE Group, Nareit and the European Public Real Estate Association (EPRA). As of 29 January 2021, the global index included 490 stock exchange listed real estate companies from 39 countries representing an equity market capitalization of about $1.7 trillion.
+
+
+=== Evolution ===
+Around the time of their creation in 1960, the first REITs primarily consisted of mortgage companies. The industry experienced significant expansion in the late 1960s and early 1970s. The growth primarily resulted from the increased use of mREITs in land development and construction deals. The Tax Reform Act of 1976 authorized REITs to be established as corporations in addition to business trusts.
+The Tax Reform Act of 1986 also impacted REITs. The legislation included new rules designed to prevent taxpayers from using partnerships to shelter their earnings from other sources. Three years later, REITs witnessed significant losses in the stock market.
+Retail REIT Taubman Centers Inc. launched the modern era of REITs in 1992 with its creation of the UPREIT. In an UPREIT, the parties of an existing partnership and a REIT become partners in a new "operating partnership". The REIT typically is the general partner and the majority owner of the operating partnership units, and the partners who contributed properties have the right to exchange their operating partnership units for REIT shares or cash. The industry struggled to begin in 2007 as the global financial crisis kicked in. In response to the global credit crisis, listed REITs responded by deleveraging (paying off debt) and re-equitizing (selling stock to get cash) their balance sheets. Listed REITs and REOCs raised $37.5 billion in 91 secondary equity offerings, nine IPOs and 37 unsecured debt offerings as investors continued to act favorably to companies strengthening their balance sheets following the credit crisis.
+REIT dividends have a 100 percent payout ratio for all income at lower rates. This inhibits the internal growth of the REIT and causes investors to not tolerate low or non-existent yields as the interest rates are more sensitive. Economic climates characterized by rising interest rates can cause a net negative effect on REIT shares. The dividends paid by REITs look less attractive when compared to bonds that have
+increasing coupon rates. Also, when investors shy away from REITs, it makes it
+difficult for management to raise additional funds to acquire more property.
+
+
+== Africa ==
+
+
+=== Kenya ===
+The first REIT in Kenya was approved by the Capital Markets Authority in October 2015. The REIT is issued by Stanlib Kenya under the name Fahari I-Reit scheme. 
+The REIT scheme will provide unit holders stable cash inflows from the income generating real estate properties.
+The unrestricted IPO will be listed on the main investment market segment of the Nairobi Securities Exchange.
+
+
+=== Ghana ===
+REITs have been in existence in Ghana since 1994. The Home Finance Company, now HFC Bank, established the first REIT in Ghana in August 1994. HFC Bank has been at the forefront of mortgage financing in Ghana since 1993. It has used various collective investment schemes as well as corporate bonds to finance its mortgage lending activities. Collective Investment Schemes, of which REITs are a part, are regulated by the Securities and Exchange Commission of Ghana.
+
+
+=== Nigeria ===
+In 2007, the Securities and Exchange Commission (SEC) issued the first set of guidelines for the registration and issuance of requirements for the operation of REITs in Nigeria as detailed in the Investment and Securities Act (ISA). The first REIT, the N50 billion Union Homes Hybrid Real Estate Investment Trust, was launched in September 2008. In November 2015 there were three listed REITS on the Nigerian Stock Exchange: Skye Shelter Fund, Union Home and UPDC. A Haldane McCall REIT did not list after failing to reach the minimum 50% subscription in a January 2015 initial public offer amid poor market prospects.
+
+
+=== South Africa ===
+By October 2015 there were 33 South African REITS and three non-South African REITs listed on the Johannesburg Stock Exchange, according to the SA REIT Association, which said market capitalization was more than R455 billion.
+
+
+== Asia ==
+
+
+=== Australia ===
+
+The REIT concept was launched in Australia in 1971. General Property Trust was the first Australian real estate investment trust (LPT) on the Australian stock exchanges (now the Australian Securities Exchange).  REITs which are listed on an exchange were known as Listed Property Trusts (LPTs) until March 2008, distinguishing them from private REITs which are known in Australia as Unlisted Property Trusts.  They have since been renamed Australian Real Estate Investment Trusts (A-REITs) in line with international practice.REITs have shown numerous benefits over direct investment including lower tax rates and increased liquidity. There are now more than 70 A-REITs listed on the ASX, with market capitalization in excess of A$100bn.Australia is also receiving growing recognition as having the world's largest REITs market outside the United States. More than 12 percent of global listed property trusts can be found on the ASX.
+
+
+=== Hong Kong ===
+REITs have been in existence in Hong Kong since 2005, when The Link REIT was launched by the Hong Kong Housing Authority on behalf of the Hong Kong Government. Since 2005, there have been seven REIT listings as at July 2007, most of which, including Sunlight REIT have not enjoyed success because of low yield. Except for The Link and Regal Real Estate Investment Trust, share prices of all but one are significantly below initial public offering (IPO) price. Hong Kong issuers' use of financial engineering (interest rate swaps) to improve initial yields has also been cited as having reduced investors' interestAs of July 2012 there are nine REITs listed with a total market capitalisation of approximately €15 billion which amounts to almost 2% of the total global REIT market capitalisation. Two out of the nine listed REITs are also included in the EPRA index, an index published by the European Public Real Estate Association (EPRA). The current top five REITs in Hong Kong are The Link REIT with a total market capitalisation of €8 billion, Hui Xian REIT with a total market capitalisation of €2.3 billion, Champion REIT with a total market capitalisation of €1.8 billion, Fortune REIT with a total market capitalisation of €1 billion and Real Estate with a total market capitalisation of €700 million.
+
+
+=== India ===
+
+As of August 2014, India approved creation of real estate investment trusts in the country. Indian REITs (country specific/generic version I-REITs) will help individual investors enjoy the benefits of owning an interest in the securitised real estate market. The greatest benefit will be that of fast and easy liquidation of investments in the real estate market unlike the traditional way of disposing of real estate. The government and Securities and Exchange Board of India through various notifications is in the process of making it easier to invest in real estate in India directly and indirectly through foreign direct investment, through listed real estate companies and mutual funds. In the budget of 2014, finance minister Arun Jaitley has introduced a law for setting up of REITs.
+As in 2021, there are three REITs listed in National Stock Exchange of India. These are Embassy, Mindspace and Brookfields. Overall, the shareholding of Indian REITs is skewed towards institutional investors (mostly FPIs), with very minimal contribution from retail investors.
+
+
+=== China ===
+CSRC (China Securities Regulatory Commission) and NDRC (National Development and Reform Commission) jointly announced the start of pilot projects in REITs on April 30, 2020. This official announcement represents the beginning of REITs in mainland China.
+
+
+=== Japan ===
+Japan permitted the establishment of REITs in December 2001. J-REIT securities are traded on the Tokyo Stock Exchange among other exchanges in Japan.A J-REIT (a listed real estate investment trust) is strictly regulated under the Law concerning Investment Trusts and Investment Companies (LITIC) and established as an investment company under the LITIC.In addition to REITs, Japanese law also provides for a parallel system of special purpose companies which can be used for the securitization of particular properties on the private placement basis. REIT shares targeted in 2016 accounted for 7 percent of the United States market, which were subsequently sold for less than half of the initial value at $31 billion.
+
+
+=== Malaysia ===
+The Bursa Malaysia has 18 REIT listed with five Islamic REITS (shariah compliant – according to Islamic investment compliance).
+
+
+=== Indonesia ===
+Dana Investasi Real Estat Berbentuk Kontrak Investasi Kolektif (DIREs) have lacked popularity because of high sale tax and double taxation. Until 2016, only one DIRE was established, which was in 2012. However, tax incentives plans demonstrate an  intention of policymakers and lawmakers to boost the competitiveness of the market, and to encourage DIREs to be listed domestically.
+
+
+=== Pakistan ===
+The Securities and Exchange Commission of Pakistan is in the process of implementing a REIT regulatory framework that will allow full foreign ownership, free movement of capital and unrestricted repatriation of profits. It will curb speculation in Pakistani real estate markets and gives access to small investors who want to diversify into real estate. The Securities and Exchange Commission of Pakistan is proposing a regulatory framework similar to that of Singapore and Hong Kong.The Securities and Exchange Commission of Pakistan expected that about six REITs would be licensed within the first year, mainly large asset management companies. Pakistan has seen an outflow of investments by foreign real estate development companies, mostly based in Malaysia and Dubai.SECP has issued licenses to four parties namely, Arif Habib REIT Management Company, AKD REIT Management Company, Eden Developers REIT Management Company and SB Global REIT Management Company.
+
+
+=== Philippines ===
+The legal framework enabling the establishment of REITs in the Philippines have been in place after the Real Estate Investment Trust Act of 2009 (Republic Act No. 9856) passed into law on December 17, 2009. Its Implementing Rules and Regulations were approved by the Securities and Exchange Commission in May 2010. However, it failed to attract investors due to its restrictive tax policies and high friction cost.Regulations on REITs was relaxed in January 2020 which led to the establishment of the first REIT in the country, AREIT Inc. of Ayala Land which had its public offering in August of the same year. However foreign investors still have poor reception towards REITs during that year when there was also a prevailing COVID-19 pandemic.
+
+
+=== Singapore ===
+Commonly referred to as S-REITs, there are more than 40 REITs listed on the Singapore Exchange, with the latest REIT, Cromwell European REIT, listed on 30 November 2017. The first one to be set up being CapitaMall Trust in July 2002. They represent a range of property sectors including retail, office, industrial, hospitality and residential. S-REITs hold a variety of properties in countries including Japan, China, Indonesia and Hong Kong, in addition to local properties. In recent years, foreign assets listing on the Singapore Exchange has grown to overtake those traditional listing with local assets.
+S-REITs are regulated as Collective Investment Schemes under the Monetary Authority of Singapore's Code on Collective Investment Schemes, or alternatively as Business Trusts.Some of the regulations that S-REITs have to adhere to includes:
+Maximum gearing ratio of 35%
+Annual valuation of its properties
+Restriction to certain types of investments the S-REITs can make
+Distribution of at least 90% of its taxable incomeS-REITs benefit from tax advantaged status where the tax is payable only at the investor level and not at the REITs level. In addition to REITs, there are ten Business Trusts ("BTs") (similar to REITs but may hold assets that are not conventional and are not subjected to stringent rules as compared to SREITs), and six Stapled Instruments (composed of a stapled Business Trust Unit and a REIT unit), which are listed on the Singapore Exchange. The total market capitalisation of the listed Trust on Singapore Exchange approximate SGD 100 billion (as at 30 Nov 17).
+
+
+=== Thailand ===
+The Securities and Exchange Commission created regulations to establish REITs as an investment vehicle in late 2012, opening the doors for the first REITs to be listed in 2013. There are at least two tens of REITS. Introduced in 2014 to replace the Property Funds for Public Offering (PFPO) scheme, REITs have gained popularity, and the total market capitalisation has reached THB 85 billion across two million square metres of assets.
+
+
+=== United Arab Emirates ===
+The REIT legislation was introduced by Dubai International Financial Centre (DIFC) to promote the
+development of REIT's in the UAE by passing The Investment Trust Law No.5 that went into effect
+on August 6, 2006.   This restricts all 'true' REIT structures to be domiciled within the DIFC.  The first REIT license to be issued will be backed by Dubai Islamic Bank with a REIT named 'Emirates REIT' headed up by the dot com entrepreneur, Sylvain Vieujot.The issue is that DIFC domiciled REITs cannot acquire non-Freezone assets within the Emirate of Dubai.  The only federally approved Freezone within the UAE is the DIFC itself so therefore any properties outside this zone are purchasable by local Gulf (GCC) passport holders only. However, through a collaboration with local authorities, Emirates REIT has been able to establish a platform enabling it to purchase properties anywhere in Dubai given a minimum of 51% of local ownership of its shares. This allows the company to diversify its portfolio with an efficient revenue generating mix of properties in the prime locations of Dubai. Emirates REIT is the first REIT established within the United Arab Emirates. It is also the first REIT listed on NASDAQ Dubai and one of the five Shari'a compliant REIT in the world with a focus on Income-producing assets.
+Emirates REIT has a portfolio of over US$575.3 million consisting of a total of seven properties primarily focus on commercial and office space as of December 2014. It has had substantial growth over the last four years.
+
+
+=== Saudi Arabia ===
+Commonly referred to as Real Estate Investment Fund, the regulations were launched in July 2006 by the Saudi Capital Market Authority, The regulation did not allow the funds to be traded in the stock market and force all funds to be structured by a licensed Investment companies by CMA with a presence of a real estate developer and some other key persons.
+
+
+=== Sri Lanka ===
+On 1 August 2020, the Securities and Exchange Commission of Sri Lanka (SEC) announced that REITS will be introduced as an extension of the current Unit Trust Code and the new Rules, which came into effect from 31 July 2020 is in the form of a Gazette Notification published by the SEC. These Rules which are comprehensive, will govern the setting up of and the conduct of a Sri Lankan REITs. Specific provisions have been included for the verification of title and valuation of property that will form part of the assets of the REIT. Amongst the requirements is the mandatory distribution of approximately 90% of income to the unit holders, which is currently not a requirement for any of the listed entities. Further, due to the availability of the tax pass through mechanism to Unit Trusts, REITs also could benefit to be a viable business concept to Sri Lanka that will open new horizons for entrepreneurs to take the real estate industry to greater heights.
+
+
+== Europe ==
+
+
+=== Belgium ===
+Bernheim Comofi (now AG Real Estate) introduced Belgian REITs in 1995 with the constitution of Befimmo. Others REITs in Belgium include Cofinimmo and Ascensio.
+
+
+=== Bulgaria ===
+REITs were introduced in Bulgaria in 2004 with the Special Purpose Investment Companies Act. They are pass-through entities for corporate income tax purposes (i.e., they are not subject to corporate income-tax), but are subject to numerous restrictions.
+
+
+=== Finland ===
+Finnish REITs were established in 2010, when the Finnish parliament passed "the tax exemption law" (Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden verohuojennuksesta, 299/2009). Together with the "Law on Real Estate Funds" (Kiinteistörahastolaki, 1173–1997) it enables the existence of tax-efficient residential REITs.
+Qualifications
+
+REITs have to be established as public listed companies (julkinen osakeyhtiö, Oyj) for this specific purpose. When the REIT is established the minimum equity is 5M€ and it has to be distributed over five separate investors.
+Minimum holding period: five years.
+At least 80% of its assets have to be invested in residential real-estate.
+At least 80% of the REIT's gross revenues must come from residential rental income.
+At least 90% of the REIT's taxable income, excluding unrealised capital gains, has to be distributed to its shareholders through dividends.
+The corporation is income-tax-exempt, but the shareholders will have to pay individual income tax on the dividends.
+The largest individual shareholder may own less than 10% of company shares (maximum 30% till the end of 2013).As of 2018 Orava Residential REIT is the only REIT in Finland.
+
+
+=== France ===
+The French acronyms for REIT are SIIC or "SCPI" (which are two different kinds of real-estate trust). In France, Unibail-Rodamco is the largest SIIC. Gecina is the second-largest publicly traded property company in France, with the third-highest asset value among European REITs.
+
+
+=== Germany ===
+Germany planned to introduce REITs in order to create a new type of real estate investment vehicle. The Government feared that failing to introduce REITs in Germany would result in a significant loss of investment capital to other countries.  Nonetheless, there still is political resistance to these plans, especially from the Social Democratic Party.In June 2006 the ministry of finance announced that they planned  to introduce REITs in 2007.  The legal details seem to adopt much of the British REIT regulation.
+A law concerning REITs was enacted 1 June 2007, effective retroactively to 1 January 2007:
+REITs have to be established as corporations—"REIT-AG" or "REIT-Aktiengesellschaft".
+At least 75% of its assets have to be invested in real estate.
+At least 75% of the G-REIT's gross revenues must be real-estate related.
+At least 90% of the REIT's taxable income has to be distributed to its shareholders through dividends.
+The corporation is income-tax-exempt, but the shareholders will have to pay individual income tax on the dividends.
+Investments in residential properties built before 1 January 2007 are not permitted.The German public real-estate sector accounts for 0.21% of the total global REIT market capitalization. Three out of the four G-REITS are represented in the EPRA index, an index managed by the European Public Real Estate Association (EPRA).
+
+
+=== Ireland ===
+The 2013 Finance Act contained provisions for creating REIT structures in Ireland. Irish based REITs include Hibernia REIT, Green REIT, Yew Grove REIT and IRES REIT.
+
+
+=== Spain ===
+Created in 2009, similar to British REITs, the SOCIMI (Sociedad cotizada de Capital Inmobiliario) boosted after a policy of fiscal incentives to help recover the biggest home prices crisis in Spain, in 2013. There are more than 70 REITS in Spain, but the liquidity is low and the holding period is large.
+
+
+=== United Kingdom ===
+
+The legislation laying out the rules for REITs in the United Kingdom was enacted in the Finance Act 2006 (now see the Corporation Tax Act 2010 sections 518 to 609) and came into effect in January 2007 when nine UK property-companies converted to REIT status, including five FTSE 100 members at that time: British Land, Hammerson, Land Securities, Liberty International and Slough Estates (now known as "SEGRO").  The other four companies were Brixton (now known as "SEGRO"), Great Portland Estates, Primary Health Properties and Workspace Group.British REITs have to distribute 90% of their income to investors. They must be a close-ended investment trust and be UK-resident and publicly listed on a stock exchange. The EPRA in Brussels each year publishes a breakdown of the UK REIT structure requirements.To support the introduction of REITs in the UK, several commercial property and financial-services companies formed the REITs and Quoted Property Group. Other key bodies involved include the London Stock Exchange the British Property Federation and Reita. The Reita campaign was launched on 16 August 2006 by the REITs and Quoted Property Group in order to provide a source of information on REITs, quoted property and related investment-funds. Reita aims to raise awareness and understanding of REITs and of investment in quoted property companies. It does this primarily through its portal www.reita.org, providing knowledge, education and tools for financial advisers and investors.Doug Naismith, managing director of European Personal Investments for Fidelity International, said in 2011: "As existing markets expand and REIT-like structures are introduced in more countries, we expect to see the overall market grow by some ten percent per annum over the next five years, taking the market to $1 trillion by 2010."The Finance Act 2012 brought five main changes to the REIT regime in the UK: 
+
+the abolition of the 2% entry charge to join the regime—this should make REITs more attractive due to reduced costs
+relaxation of the listing requirements—REITs can now be AIM quoted (the London Stock Exchange's international market for smaller growing companies)—making a listing more attractive due to reduced costs and greater flexibility
+a REIT now has a three-year grace period before having to comply with close company rules (a close company is a company under the control of five or fewer investors)
+a REIT will not be considered to be a close company if it can be made close by the inclusion of institutional investors (authorised unit trusts, OEICs, pension schemes, insurance companies and bodies which are sovereign immune)—this point makes REITs attractive investment trusts
+the interest cover test of 1.25 times finance costs is not as onerousBoyd Carson of Sapphire Capital Partners LLP commented that "the most important of these advantages is the ability for REITs to be listed on the AIM and the abolition of the 2% entry charge to the regime is also a significant step forward." However, "UK-REITs are still not as cash driven as the market would likely prefer".
+
+
+== North America ==
+
+
+=== Canada ===
+
+Canadian REITs were established in 1993.  They are required to be configured as trusts and are not taxed if they distribute their net taxable income to shareholders. REITs have been excluded from the income trust tax legislation passed in the 2007 budget by the Conservative government.  Many Canadian REITs have limited liability. On December 16, 2010, the Department of Finance proposed amendments to the rules defining "Qualifying REITs" for Canadian tax purposes. As a result, "Qualifying REITs" are exempt from the new entity-level, "specified investment flow-through" (SIFT) tax that all publicly traded income trusts and partnerships are paying as of January 1, 2011.
+
+
+=== Mexico ===
+Mexico has passed legislation to allow for the equivalent of REITs, known as FIBRAs (Fideicomiso de Infraestructura y Bienes Raíces), to be traded in the Mexican Stock Exchange. Like REITs legislation in other countries, companies must qualify as a FIBRA by complying with the following rules:
+at least 70% of assets must be invested in financing or owning of real estate assets, with the remaining amount invested in government-issued securities or debt-instrument mutual funds.
+Acquired or developed real estate assets must be income generating and held for at least four years.
+If shares, known as Certificados de Participación Inmobiliarios or CPIs, are issued privately, there must be more than 10 unrelated investors in the FIBRA.
+The FIBRA must distribute 95% of annual profits to investors.The first Mexican REIT was launched in 2011 and is called FIBRA UNO. 
+According to The Wall Street Journal, Mexican REITs debuted in March 2011 "after government regulatory changes made the structure possible. Fibras offered investors an easy way to own Mexican real estate and pick up an attractive dividend at the same time. Like U.S. REITs, Fibras avoid paying corporate taxes as long as they distribute at least 95% of their income to shareholders as dividends."
+
+
+=== United States ===
+
+
+==== History ====
+The U.S. Congress enacted the law providing for REITs in 1960. The law was intended to provide a real estate investment structure similar to the one that mutual funds provide for investment in stocks. REITs are strong income vehicles because, to avoid incurring liability for U.S. federal income tax, REITs generally must pay out an amount equal to at least 90 percent of their taxable income in the form of dividends to shareholders.From 2008 to 2011, REITs faced challenges from both a slowing United States economy and the late-2000s financial crisis.For the five-year period ending in 2019, the S&P 500 index, an index of stocks for US large cap companies, returned an annualized 12.5% compared with an annualized return of 9.0% for the FTSE NAREIT All Equity REITs index. However, for the years 1972-2019 the total annualized returns were 12.1% for the S&P 500 versus 13.3% for the FTSE NAREIT index. There are more than 190 public REITs listed on exchanges in the United States.
+
+
+==== Legislation ====
+Under U.S. Federal income tax law, a REIT is "any corporation, trust or association that acts as an investment agent specializing in real estate and real estate mortgages" under Internal Revenue Code section 856. The rules for federal income taxation of REITs are found primarily in Part II (sections 856 through 859) of Subchapter M of Chapter 1 of the Internal Revenue Code. Because a REIT is entitled to deduct dividends paid to its owners (commonly referred to as shareholders), a REIT may avoid incurring all or part of its liabilities for U.S. federal income tax. To qualify as a REIT, an organization makes an "election" to do so by filing a Form 1120-REIT with the Internal Revenue Service, and by meeting certain other requirements. The purpose of this designation is to reduce or eliminate corporate tax, thus avoiding double taxation of owner income. In return, REITs are required to distribute at least 90% of their taxable income into the hands of investors. The REIT structure was designed to provide a real estate investment structure similar to the structure mutual funds provide for investment in stocks.
+
+
+==== Structure ====
+
+In the United States, a REIT is a company that owns, and in most cases operates, income-producing real estate. Some REITs finance real estate. To be a REIT, a company must distribute at least 90 percent of its taxable income to shareholders annually in the form of dividends.To qualify as a REIT under U.S. tax rules, a company must:
+
+Be structured as a corporation, trust, or association
+Be managed by a board of directors or trustees
+Have transferable shares or transferable certificates of interest
+Otherwise be taxable as a domestic corporation
+Not be a financial institution or an insurance company
+Be jointly owned by 100 persons or more
+Have 95 percent of its income derived from dividends, interest, and property income
+Pay dividends of at least 90% of the REIT's taxable income
+Have no more than 50% of the shares held by five or fewer individuals during the last half of each taxable year (5/50 rule)
+Have at least 75% of its total assets invested in real estate
+Derive at least 75% of its gross income from rents or mortgage interest
+Have no more than 25% of its assets invested in taxable REIT subsidiaries.
+
+
+== South America ==
+
+
+=== Brazil ===
+REITs were introduced in Brazil in 1993 by the law 8668–93 and initially ruled by the instruction 205/94 and, nowadays, by instruction 472/08 from CVM (Comissão de Valores Mobiliários - which is the Brazilian equivalent of SEC). Locally they are described as "FII"s or "Fundos de Investimento Imobiliário".  FII's dividends have been free of taxes for personal investors (not companies) since 2006, but only for the funds which have at least 50 investors and that are publicly traded in the stock market. FIIs, referred to as "REIT" to correspond with the similar investment vehicle in the US, have been used either to own and operate independent property investments, associated with a single property or part property, or to own several real properties (multiple properties) funded through the capital markets.
+
+
+== See also ==
+Australian real estate investment trust
+Closed-end fund
+EPRA index
+Income trust
+Investment trust
+List of real estate investment firms
+Mutual fund
+Real estate investing
+Real estate business
+Real estate development
+Real estate mortgage investment conduit (REMIC)
+Royalty trust
+Stock market
+Taxable REIT subsidiaries
+
+
+== References ==
+
+
+== External links ==
+
+Nareit - National Association of Real Estate Investment Trusts
+Real Estate Investment Trusts at Curlie
+EPRA - European Public Real Estate Association

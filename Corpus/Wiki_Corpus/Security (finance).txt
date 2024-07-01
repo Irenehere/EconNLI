@@ -1,0 +1,163 @@
+A security is a tradable financial asset. The term commonly refers to any form of financial instrument, but its legal definition varies by jurisdiction. In some countries and languages people commonly use the term "security" to refer to any form of financial instrument, even though the underlying legal and regulatory regime may not have such a broad definition. In some jurisdictions the term specifically excludes financial instruments other than  equities and fixed income instruments. In some jurisdictions it includes some instruments that are close to equities and fixed income, e.g., equity warrants.
+Securities may be represented by a certificate or, more typically, they may be "non-certificated", that is in electronic (dematerialized) or "book entry only" form. Certificates may be bearer, meaning they entitle the holder to rights under the security merely by holding the security, or registered, meaning they entitle the holder to rights only if they appear on a security register maintained by the issuer or an intermediary. They include shares of corporate stock or mutual funds, bonds issued by corporations or governmental agencies, stock options or other options, limited partnership units, and various other formal investment instruments that are negotiable and fungible.
+
+
+== United Kingdom and United States ==
+In the United Kingdom, the Financial Conduct Authority functions as the national competent authority for the regulation of financial markets; the definition in its Handbook of the term "security" applies only to equities, debentures, alternative debentures, government and public securities, warrants, certificates representing certain securities, units, stakeholder pension schemes, personal pension schemes, rights to or interests in investments, and anything that may be admitted to the Official List.
+In the United States, a "security" is a tradable financial asset of any kind. Securities can be broadly categorized into:
+
+debt securities (e.g., banknotes, bonds, and debentures)
+ equity securities (e.g., common stocks)
+ derivatives (e.g.,  forwards,  futures, options, and swaps).The company or other entity issuing the security is called the issuer. A country's regulatory structure determines what qualifies as a security. For example, private investment pools may have some features of securities, but they may not be registered or regulated as such if they meet various restrictions.
+Securities are the traditional method that commercial enterprises use to raise new capital. They may offer an attractive alternative to bank loans - depending on their pricing and market demand for particular characteristics. A disadvantage of bank loans as a source of financing is that the bank may seek a measure of protection against default by the borrower via extensive financial covenants. Through securities, capital is provided by investors who purchase the securities upon their initial issuance. In a similar way, a government may issue securities when it chooses to increase government debt.
+
+
+== Debt and equity ==
+Securities are traditionally divided into debt securities and equities.
+
+
+=== Debt ===
+Debt securities may be called debentures, bonds, deposits, notes or commercial paper depending on their maturity, collateral and other characteristics. The holder of a debt security is typically entitled to the payment of principal and interest, together with other contractual rights under the terms of the issue, such as the right to receive certain information. Debt securities are generally issued for a fixed term and redeemable by the issuer at the end of that term. Debt securities may be protected by collateral or may be unsecured, and, if they are unsecured, may be contractually "senior" to other unsecured debt meaning their holders would have a priority in a bankruptcy of the issuer. Debt that is not senior is "subordinated".
+Corporate bonds represent the debt of commercial or industrial entities. Debentures have a long maturity, typically at least ten years, whereas notes have a shorter maturity. Commercial paper is a simple form of debt security that essentially represents a post-dated cheque with a maturity of not more than 270 days.
+Money market instruments are short term debt instruments that may have characteristics of deposit accounts, such as certificates of deposit, Accelerated Return Notes (ARN), and certain bills of exchange. They are highly liquid and are sometimes referred to as "near cash". Commercial paper is also often highly liquid.
+Euro debt securities are securities issued internationally outside their domestic market in a denomination different from that of the issuer's domicile. They include eurobonds and euronotes. Eurobonds are characteristically underwritten, and not secured, and interest is paid gross. A euronote may take the form of euro-commercial paper (ECP) or euro-certificates of deposit.
+Government bonds are medium or long term debt securities issued by sovereign governments or their agencies. Typically they carry a lower rate of interest than corporate bonds, and serve as a source of finance for governments. U.S. federal government bonds are called treasuries. Because of their liquidity and perceived low risk, treasuries are used to manage the money supply in the open market operations of non-US central banks.
+Sub-sovereign government bonds, known in the U.S. as municipal bonds, represent the debt of state, provincial, territorial, municipal or other governmental units other than sovereign governments.
+Supranational bonds represent the debt of international organizations such as the World Bank, the International Monetary Fund, regional multilateral development banks and others.
+
+
+=== Equity ===
+An equity security is a share of equity interest in an entity such as the capital stock of a company, trust or partnership. The most common form of equity interest is common stock, although preferred equity is also a form of capital stock. The holder of an equity is a shareholder, owning a share, or fractional part of the issuer. Unlike debt securities, which typically require regular payments (interest) to the holder, equity securities are not entitled to any payment. In bankruptcy, they share only in the residual interest of the issuer after all obligations have been paid out to creditors. However, equity generally entitles the holder to a pro rata portion of control of the company, meaning that a holder of a majority of the equity is usually entitled to control the issuer. Equity also enjoys the right to profits and capital gain, whereas holders of debt securities receive only interest and repayment of principal regardless of how well the issuer performs financially. Furthermore, debt securities do not have voting rights outside of bankruptcy. In other words, equity holders are entitled to the "upside" of the business and to control the business.
+
+
+=== Hybrid ===
+Hybrid securities combine some of the characteristics of both debt and equity securities.
+Preference shares form an intermediate class of security between equities and debt. If the issuer is liquidated, preference shareholders have the right to receive interest or a return of capital prior to ordinary shareholders. However, from a legal perspective, preference shares are capital stocks and therefore may entitle the holders to some degree of control depending on whether they carry voting rights.
+Convertibles are bonds or preferred stocks that can be converted, at the election of the holder of the convertibles, into the ordinary shares of the issuing company. The convertibility, however, may be forced if the convertible is a callable bond, and the issuer calls the bond. The bondholder has about 1 month to convert it, or the company will call the bond by giving the holder the call price, which may be less than the value of the converted stock. This is referred to as a forced conversion.
+Equity warrants are options issued by the company that allow the holder of the warrant to purchase a specific number of shares at a specified price within a specified time. They are often issued together with bonds or existing equities, and are, sometimes, detachable from them and separately tradeable. When the holder of the warrant exercises it, he pays the money directly to the company, and the company issues new shares to the holder.
+Warrants, like other convertible securities, increases the number of shares outstanding, and are always accounted for in financial reports as fully diluted earnings per share, which assumes that all warrants and convertibles will be exercised.
+
+
+== Classification ==
+Securities may be classified according to many categories or classification systems:
+
+Currency of denomination
+Ownership rights
+Terms to maturity
+Degree of liquidity
+Income payments
+Tax treatment
+Credit rating
+Industrial sector or "industry". ("Sector" often refers to a higher level or broader category, such as Consumer Discretionary, whereas "industry" often refers to a lower level classification, such as Consumer Appliances. See Industry for a discussion of some classification systems.)
+Region or country (such as country of incorporation, country of principal sales/market of its products or services, or country in which the principal securities exchange where it trades is located)
+Market capitalization
+State (typically for municipal or "tax-free" bonds in the US)
+
+
+== Type of holder ==
+Investors in securities may be retail, i.e., members of the public investing personally, other than by way of business. 
+In distinction, the greatest part of investment in terms of volume, is wholesale, i.e., by financial institutions acting on their own account, or on behalf of clients. 
+Important institutional investors include investment banks, insurance companies, pension funds and other managed funds. 
+The "wholesaler" is typically an underwriter or a broker-dealer who trades with other broker-dealers, rather than with the retail investor.This distinction carries over to banking; compare Retail banking and Wholesale banking.
+
+
+== Investment ==
+The traditional economic function of the purchase of securities is investment, with the view to receiving income or achieving capital gain. Debt securities generally offer a higher rate of interest than bank deposits, and equities may offer the prospect of capital growth. Equity investment may also offer control of the business of the issuer. Debt holdings may also offer some measure of control to the investor if the company is a fledgling start-up or an old giant undergoing restructuring. In these cases, if interest payments are missed, the creditors may take control of the company and liquidate it to recover some of their investment.
+
+
+== Collateral ==
+The last decade has seen an enormous growth in the use of securities as collateral. Purchasing securities with borrowed money secured by other securities or cash itself is called "buying on margin". Where A is owed a debt or other obligation by B, A may require B to deliver property rights in securities to A, either at inception (transfer of title) or only in default (non-transfer-of-title institutional). For institutional loans, property rights are not transferred but nevertheless enable A to satisfy its claims in case B fails to make good on its obligations to A or otherwise becomes insolvent. Collateral arrangements are divided into two broad categories, namely security interests and outright collateral transfers. Commonly, commercial banks, investment banks, government agencies and other institutional investors such as mutual funds are significant collateral takers as well as providers. In addition, private parties may utilize stocks or other securities as collateral for portfolio loans in securities lending scenarios.
+On the consumer level, loans against securities have grown into three distinct groups over the last decade: 1) Standard Institutional Loans, generally offering low loan-to-value with very strict call and coverage regimens, akin to standard margin loans; 2) Transfer-of-Title (ToT) Loans, typically provided by private parties where borrower ownership is completely extinguished save for the rights provided in the loan contract; and 3) Non-Transfer-of-Title Credit Line facilities where shares are not sold and they serve as assets in a standard lien-type line of cash credit. Of the three, transfer-of-title loans have fallen into the very high-risk category as the number of providers has dwindled as regulators have launched an industry-wide crackdown on transfer-of-title structures where the private lender may sell or sell short the securities to fund the loan. Institutionally managed consumer securities-based loans on the other hand, draw loan funds from the financial resources of the lending institution, not from the sale of the securities.
+Collateral and sources of collateral are changing, in 2012 gold became a more acceptable form of collateral. However more recently Exchange-traded funds (ETFs) seen by many as the ugly ducklings of the collateral world have started to become more readily available and acceptable. But in a world where collateral is becoming scarce and efficiency is everything, many of these mallards are proving themselves to be not so ugly after all—many more are veritable swans. The problem, until now, for collateral managers has been deciphering the bad eggs from the good, which proves to be a time-consuming and inefficient task.
+
+
+== Markets ==
+
+
+=== Primary and secondary market ===
+Public securities markets are either primary or secondary markets. In the primary market, the money for the securities is received by the issuer of the securities from investors, typically in an initial public offering (IPO). In the secondary market, the securities are simply assets held by one investor selling them to another investor, with the money going from one investor to the other.
+An initial public offering is when a company issues public stock newly to investors, called an "IPO" for short. A company can later issue more new shares, or issue shares that have been previously registered in a shelf registration. These later new issues are also sold in the primary market, but they are not considered to be an IPO but are often called a "secondary offering". Issuers usually retain investment banks to assist them in administering the IPO, obtaining SEC (or other regulatory body) approval of the offering filing, and selling the new issue. When the investment bank buys the entire new issue from the issuer at a discount to resell it at a markup, it is called a firm commitment underwriting. However, if the investment bank considers the risk too great for an underwriting, it may only assent to a best effort agreement, where the investment bank will simply do its best to sell the new issue.
+For the primary market to thrive, there must be a secondary market, or aftermarket that provides liquidity for the investment security—where holders of securities can sell them to other investors for cash. Otherwise, few people would purchase primary issues, and, thus, companies and governments would be restricted in raising equity capital (money) for their operations. Organized exchanges constitute the main secondary markets. Many smaller issues and most debt securities trade in the decentralized, dealer-based over-the-counter markets.
+In Europe, the principal trade organization for securities dealers is the International Capital Market Association. In the U.S., the principal trade organization for securities dealers is the Securities Industry and Financial Markets Association, which is the result of the merger of the Securities Industry Association and the Bond Market Association. The Financial Information Services Division of the Software and Information Industry Association (FISD/SIIA) represents a round-table of market data industry firms, referring to them as Consumers, Exchanges, and Vendors. In India the equivalent organisation is the securities exchange board of India (SEBI).
+
+
+=== Public offer and private placement ===
+In the primary markets, securities may be offered to the public in a public offer. Alternatively, they may be offered privately to a limited number of qualified persons in a private placement. Sometimes a combination of the two is used. The distinction between the two is important to securities regulation and company law. Privately placed securities are not publicly tradable and may only be bought and sold by sophisticated qualified investors. As a result, the secondary market is not nearly as liquid as it is for public (registered) securities.
+Another category, sovereign bonds, is generally sold by auction to a specialized class of dealers.
+
+
+=== Listing and over-the-counter dealing ===
+Securities are often listed in a stock exchange, an organized and officially recognized market on which securities can be bought and sold. Issuers may seek listings for their securities to attract investors, by ensuring there is a liquid and regulated market that investors can buy and sell securities in.
+Growth in informal electronic trading systems has challenged the traditional business of stock exchanges. Large volumes of securities are also bought and sold "over the counter" (OTC). OTC dealing involves buyers and sellers dealing with each other by telephone or electronically on the basis of prices that are displayed electronically, usually by financial data vendors such as SuperDerivatives, Reuters, Investing.com and Bloomberg.
+There are also eurosecurities, which are securities that are issued outside their domestic market into more than one jurisdiction. They are generally listed on the Luxembourg Stock Exchange or admitted to listing in London. The reasons for listing eurobonds include regulatory and tax considerations, as well as the investment restrictions.
+
+
+=== Securities services ===
+Securities Services refers to the products and services that are offered to institutional clients that issue, trade, and hold securities. The bank engaged in securities services are usually called a custodian bank. Market players include BNY Mellon, J.P. Morgan, HSBC, Citi, BNP Paribas, Société Générale etc.
+
+
+=== Market ===
+London is the centre of the eurosecurities markets. There was a huge rise in the eurosecurities market in London in the early 1980s. Settlement of trades in eurosecurities is currently effected through two European computerized clearing/depositories called Euroclear (in Belgium) and Clearstream (formerly Cedelbank) in Luxembourg.
+The main market for Eurobonds is the EuroMTS, owned by Borsa Italiana and Euronext. There are ramp up market in Emergent countries, but it is growing slowly.
+
+
+== Physical nature ==
+
+
+=== Certificated securities ===
+Securities that are represented in paper (physical) form are called certificated securities. They may be bearer or registered.
+
+
+=== DRS securities ===
+Securities may also be held in the Direct Registration System (DRS), which is a method of recording shares of stock in book-entry form. Book-entry means the company's transfer agent maintains the shares on the owner's behalf without the need for physical share certificates. Shares held in un-certificated book-entry form have the same rights and privileges as shares held in certificated form.
+
+
+==== Bearer securities ====
+Bearer securities are completely negotiable and entitle the holder to the rights under the security (e.g., to payment if it is a debt security, and voting if it is an equity security). They are transferred by delivering the instrument from person to person. In some cases, transfer is by endorsement, or signing the back of the instrument, and delivery.
+Regulatory and fiscal authorities sometimes regard bearer securities negatively, as they may be used to facilitate the evasion of regulatory restrictions and tax. In the United Kingdom, for example, the issue of bearer securities was heavily restricted firstly by the Exchange Control Act 1947 until 1953. Bearer securities are very rare in the United States because of the negative tax implications they may have to the issuer and holder.
+In Luxembourg, the law of 28 July 2014 concerning the compulsory deposit and immobilization of shares and units in bearer form adopts the compulsory deposit and immobilization of bearer shares and units with a depositary allowing identification of the holders thereof.
+
+
+==== Registered securities ====
+In the case of registered securities, certificates bearing the name of the holder are issued, but these merely represent the securities. A person does not automatically acquire legal ownership by having possession of the certificate. Instead, the issuer (or its appointed agent) maintains a register in which details of the holder of the securities are entered and updated as appropriate. A transfer of registered securities is effected by amending the register.
+
+
+=== Non-certificated securities and global certificates ===
+Modern practice has developed to eliminate both the need for certificates and maintenance of a complete security register by the issuer. There are two general ways this has been accomplished.
+
+
+==== Non-certificated securities ====
+In some jurisdictions, such as France, it is possible for issuers of that jurisdiction to maintain a legal record of their securities electronically.
+In the United States, the current "official" version of Article 8 of the Uniform Commercial Code permits non-certificated securities. However, the "official" UCC is a mere draft that must be enacted individually by each U.S. state. Though all 50 states (as well as the District of Columbia and the U.S. Virgin Islands) have enacted some form of Article 8, many of them still appear to use older versions of Article 8, including some that did not permit non-certificated securities.
+
+
+==== Global certificates, book entry interests, depositories ====
+To facilitate the electronic transfer of interests in securities without dealing with inconsistent versions of Article 8, a system has developed whereby issuers deposit a single global certificate representing all the outstanding securities of a class or series with a universal depository. This depository is called The Depository Trust Company, or DTC. DTC's parent, Depository Trust & Clearing Corporation (DTCC), is a non-profit cooperative owned by approximately thirty of the largest Wall Street players that typically act as brokers or dealers in securities. These thirty banks are called the DTC participants. DTC, through a legal nominee, owns each of the global securities on behalf of all the DTC participants.
+All securities traded through DTC are in fact held, in electronic form, on the books of various intermediaries between the ultimate owner, e.g., a retail investor, and the DTC participants. For example, Mr. Smith may hold 100 shares of Coca-Cola, Inc. in his brokerage account at local broker Jones & Co. brokers. In turn, Jones & Co. may hold 1000 shares of Coca-Cola on behalf of Mr. Smith and nine other customers. These 1000 shares are held by Jones & Co. in an account with Goldman Sachs, a DTC participant, or in an account at another DTC participant. Goldman Sachs in turn may hold millions of Coca-Cola shares on its books on behalf of hundreds of brokers similar to Jones & Co. Each day, the DTC participants settle their accounts with the other DTC participants and adjust the number of shares held on their books for the benefit of customers like Jones & Co. Ownership of securities in this fashion is called beneficial ownership. Each intermediary holds on behalf of someone beneath him in the chain. The ultimate owner is called the beneficial owner. This is also referred to as owning in "Street name".
+Among brokerages and mutual fund companies, a large amount of mutual fund share transactions take place among intermediaries as opposed to shares being sold and redeemed directly with the transfer agent of the fund. Most of these intermediaries such as brokerage firms clear the shares electronically through the National Securities Clearing Corp. or "NSCC", a subsidiary of DTCC.
+
+
+==== Other depositories ====
+Besides DTC, two other large securities depositories exist, both in Europe: Euroclear and Clearstream.
+
+
+=== Divided and undivided security ===
+The terms "divided" and "undivided" relate to the proprietary nature of a security.
+Each divided security constitutes a separate asset, which is legally distinct from each other security in the same issue. Pre-electronic bearer securities were divided. Each instrument constitutes the separate covenant of the issuer and is a separate debt.
+With undivided securities, the entire issue makes up one single asset, with each of the securities being a fractional part of this undivided whole. Shares in the secondary markets are always undivided. The issuer owes only one set of obligations to shareholders under its memorandum, articles of association and company law. A share represents an undivided fractional part of the issuing company. Registered debt securities also have this undivided nature.
+
+
+=== Fungible and non-fungible securities ===
+In a fungible security, all holdings of the security are treated identically and are interchangeable.
+Sometimes securities are not fungible with other securities, for example different series of bonds issued by the same company at different times with different conditions attaching to them.
+
+
+== Regulation ==
+In the US, the public offer and sale of securities must be either registered pursuant to a registration statement that is filed with the U.S. Securities and Exchange Commission (SEC) or are offered and sold pursuant to an exemption therefrom. Dealing in securities is regulated by both federal authorities (SEC) and state securities departments. In addition, the brokerage industry is supposedly self policed by self-regulatory organizations (SROs), such as the Financial Industry Regulatory Authority (FINRA), formerly the National Association of Securities Dealers (or NASD), or the Municipal Securities Rulemaking Board (MSRB).
+With respect to investment schemes that do not fall within the traditional categories of securities listed in the definition of a security (Sec. 2(a)(1) of the Securities Act of 1933 and Sec. 3(a)(10) of the 34 act) the US Courts have developed a broad definition for securities that must then be registered with the SEC. When determining if there is an "investment contract" that must be registered the courts look for an investment of money, a common enterprise and expectation of profits to come primarily from the efforts of others. See SEC v. W.J. Howey Co.
+
+
+== See also ==
+
+
+== References ==

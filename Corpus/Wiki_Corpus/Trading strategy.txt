@@ -1,0 +1,47 @@
+In finance, a trading strategy is a fixed plan that is designed to achieve a profitable return by going long or short in markets. The main reasons that a properly researched trading strategy helps are its verifiability, quantifiability, consistency, and objectivity.
+For every trading strategy one needs to define assets to trade, entry/exit points and money management rules. Bad money management can make a potentially profitable strategy unprofitable.Trading strategies are based on fundamental or technical analysis, or both. They are usually verified by backtesting, where the process should follow the scientific method, and by forward testing (a.k.a. 'paper trading') where they are tested in a simulated trading environment.
+
+
+== Types of trading strategies ==
+The term trading strategy can in brief be used by any fixed plan of trading a financial instrument, but the general use of the term is within computer assisted trading, where a trading strategy is implemented as computer program for automated trading.
+Technical strategies can be broadly divided into the mean-reversion and momentum groups.
+Long/short equity. A long short strategy consists of selecting a universe of equities and ranking them according to a combined alpha factor. Given the rankings we long the top percentile and short the bottom percentile of securities once every rebalancing period.
+Pairs trade. A pairs trading strategy consists of identifying similar pairs of stocks and taking a linear combination of their price so that the result is a stationary time-series. We can then compute z-scores for the stationary signal and trade on the spread assuming mean reversion: short the top asset and long the bottom asset.
+Swing trading strategy; Swing traders buy or sell as that price volatility sets in and trades are usually held for more than a day.
+Scalping (trading); Scalping is a method to making dozens or hundreds of trades per day, to get a small profit from each trade by exploiting the bid/ask spread.
+Day Trading; The Day trading is done by professional traders; the day trading is the method of buying or selling within the same day. Positions are closed out within the same day they are taken, and no position is held overnight.
+Trading the news; The news is an essential skill for astute portfolio management, and long term performance is the technique of making a profit by trading financial instruments (stock, currency...) just in time and in accordance to the occurrence of events.
+Trading Signals; Trading signal is simply a method to buy signals from signals provider.
+Social trading; using other peoples trading behaviour and activity to drive a trading strategy.All these trading strategies are basically speculative. In the moral context speculative activities are considered negatively and to be avoided by each individual. who conversely should maintain a long-term horizon avoiding any types of short term speculation.
+
+
+== Development ==
+The trading strategy is developed by the following methods:
+
+Automated trading; by programming or by visual development.
+Trading Plan Creation; by creating a detailed and defined set of rules that guide the trader into and through the trading process with entry and exit techniques clearly outlined and risk, reward parameters established from the outset.The development and application of a trading strategy preferably follows eight steps: (1) Formulation, (2) Specification in computer-testable form, (3) Preliminary testing, (4) Optimization, (5) Evaluation of performance and robustness, (6) Trading of the strategy, (7) Monitoring of trading performance, (8) Refinement and evolution.
+
+
+== Performance measurement ==
+Usually the performance of a trading strategy is measured on the risk-adjusted basis.  Probably the best-known risk-adjusted performance measure is the Sharpe ratio. However, in practice one usually compares the expected return against the volatility of returns or the maximum drawdown. Normally, higher expected return implies higher volatility and drawdown. The choice of the risk-reward trade-off strongly depends on trader's risk preferences. Often the performance is measured against a benchmark, the most common one is an Exchange-traded fund on a stock index. In the long term a strategy that acts according to Kelly criterion beats any other strategy. However, Kelly's approach was heavily criticized by Paul Samuelson.
+
+
+== Executing strategies ==
+A trading strategy can be executed by a trader (Discretionary Trading) or automated (Automated Trading). Discretionary Trading requires a great deal of skill and discipline. It is tempting for the trader to deviate from the strategy, which usually reduces its performance.
+An automated trading strategy wraps trading formulas into automated order and execution systems. Advanced computer modeling techniques, combined with electronic access to world market data and information, enable traders using a trading strategy to have a unique market vantage point. A trading strategy can automate all or part of your investment portfolio. Computer trading models can be adjusted for either conservative or aggressive trading styles e.g. Scalping is considered a form of trading in financial markets with a very short-term approach that is why it is associated with aggressive style.Trading activity boost and development is connected with the era of internet inception. First online related trading activity and rapid growth of electronic commerce started in 1997–98.
+
+
+== See also ==
+Alpha (finance)
+Alternative trading system
+Do-it-yourself investing
+Electronic trading platform
+Empirical research
+Falsifiability
+Forex Signal
+Investment strategy
+Statistical inference
+Quantitative investing
+
+
+== References ==

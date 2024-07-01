@@ -1,0 +1,66 @@
+Research and development (R&D or R+D; known in Europe as research and technological development or RTD), is the set of innovative activities undertaken by corporations or governments in developing new services or products, and improving existing ones. Research and development constitutes the first stage of development of a potential new service or the production process.
+R&D activities differ from institution to institution, with two primary models of an R&D department either staffed by engineers and tasked with directly developing new products, or staffed with industrial scientists and tasked with applied research in scientific or technological fields, which may facilitate future product development. R&D differs from the vast majority of corporate activities in that it is not intended to yield immediate profit, and generally carries greater risk and an uncertain return on investment. However R&D is crucial for acquiring larger shares of the market through the marketisation of new products. R&D&I or R&D&i are also acronyms with the same general meaning of R&D and stand for research, development and innovation.
+
+
+== Background ==
+New product design and development is often a crucial factor in the survival of a company. In a global industrial landscape that is changing fast, firms must continually revise their design and range of products. This is necessary as well due to the fierce competition and the evolving preferences of consumers. Without an R&D program, a firm must rely on strategic alliances, acquisitions, and networks to tap into the innovations of others.
+A system driven by marketing is one that puts the customer needs first, and produces goods that are known to sell. Market research is carried out, which establishes the needs of consumers and the potential niche market of a new product. If the development is technology driven, R&D is directed toward developing products to meet the unmet needs.In general, research and development activities are conducted by specialized units or centers belonging to a company, or can be out-sourced to a contract research organization, universities, or state agencies. In the context of commerce, "research and development" normally refers to future-oriented, longer-term activities in science or technology, using similar techniques to scientific research but directed toward desired outcomes and with broad forecasts of commercial yield.Statistics on organizations devoted to "R&D" may express the state of an industry, the degree of competition or the lure of progress. Some common measures include: budgets, numbers of patents or on rates of peer-reviewed publications. Bank ratios are one of the best measures, because they are continuously maintained, public and reflect risk.
+In the United States, a typical ratio of research and development for an industrial company is about 3.5% of revenues; this measure is called "R&D intensity". A high technology company, such as a computer manufacturer, might spend 7% or a pharmaceutical companies such as Merck & Co. 14.1% or Novartis 15.1%. Anything over 15% is remarkable, and usually gains a reputation for being a high technology company such as  engineering company Ericsson 24.9%, or biotech company Allergan, which tops the spending table with 43.4% investment. Such companies are often seen as credit risks because their spending ratios are so unusual.Generally such firms prosper only in markets whose customers have extreme high technology needs, like certain prescription drugs or special chemicals, scientific instruments, and safety-critical systems in medicine, aeronautics or military weapons.The extreme needs justify the high risk of failure and consequently high gross margins from 60% to 90% of revenues. That is, gross profits will be as much as 90% of the sales cost, with manufacturing costing only 10% of the product price, because so many individual projects yield no exploitable product. Most industrial companies get 40% revenues only.On a technical level, high tech organizations explore ways to re-purpose and repackage advanced technologies as a way of amortizing the high overhead. They often reuse advanced manufacturing processes, expensive safety certifications, specialized embedded software, computer-aided design software, electronic designs and mechanical subsystems.Research from 2000 has shown that firms with a persistent R&D strategy outperform those with an irregular or no R&D investment program.
+
+
+== Business R&D ==
+Research and development are very difficult to manage, since the defining feature of research is that the researchers do not know in advance exactly how to accomplish the desired result. As a result, "higher R&D spending does not guarantee more creativity, higher profit or a greater market share". Research is the most risky financing area because both the development of an invention and its successful realization carries uncertainty including the profitability of the invention. One way entrepreneurs can reduce these uncertainties is to buy the licence for a franchise, so that the know-how is already incorporated in the licence.
+
+
+=== Benefit by sector ===
+In general, it has been found that there is a positive correlation between the research and development and firm productivity across all sectors, but that this positive correlation is much stronger in high-tech firms than in low-tech firms. In research done by Francesco Crespi and Cristiano Antonelli, high-tech firms were found to have "virtuous" Matthew effects while low-tech firms experienced "vicious" Matthew effects, meaning that high-tech firms were awarded subsidies on merit while low-tech firms most often were given subsidies based on name recognition, even if not put to good use.  While the strength of the correlation between R&D spending and productivity in low-tech industries is less than in high-tech industries, studies have been done showing non-trivial carryover effects to other parts of the marketplace by low-tech R&D.
+
+
+=== Risks ===
+Business R&D is risky for at least two reasons. The first source of risks comes from R&D nature, where R&D project could fail without residual values. The second source of risks comes from takeover risks, which means R&D is appealing to bidders because they could gain technologies from acquisition targets. Therefore, firms may gain R&D profit that co-moves with takeover waves, causing risks to the company which engages in R&D activity.
+
+
+=== Global ===
+Global R&D management is the discipline of designing and leading R&D processes globally, across cultural and lingual settings, and the transfer of knowledge across international corporate networks.
+
+
+== Government expenditures ==
+
+
+=== United States ===
+Former President Barack Obama requested $147.696 billion for research and development in FY2012, 21% of which was destined to fund basic research. According to National Science Foundation in U.S., in 2015, R&D expenditures performed by federal government and local governments are 54 and 0.6 billions of dollars. The federal research and development budget for fiscal year 2020 was $156 billion, 41.4% of which was for the Department of Defense (DOD). DOD's total research, development, test, and evaluation budget was roughly $108.5 billion.
+
+
+=== European Union ===
+Europe is lagging behind in R&D investments from the past two decades. The target of 3% of gross domestic product (GDP) was meant to be reached by 2020, but the current amount is below this target. This also causes a digital divide among countries since only a few EU Member States have R&D spending.Research and innovation in Europe are financially supported by the programme Horizon 2020, which is open to participation worldwide.A notable example is the European environmental research and innovation policy, based on the Europe 2020 strategy which will run from 2014 to 2020, a multidisciplinary effort to provide safe, economically feasible, environmentally sound and socially acceptable solutions along the entire value chain of human activities.Firms that have embraced advanced digital technology devote a greater proportion of their investment efforts to R&D. Firms who engaged in digitisation during the pandemic report spending a big portion of their expenditure in 2020 on software, data, IT infrastructure, and website operations. A 2021/2022 survey found that one in every seven enterprises in the Central, Eastern and South Eastern regions (14%) may be classed as active innovators — that is, firms that spent heavily in research and development and developed a new product, process, or service — however this figure is lower than the EU average of 18%. In 2022, 67% of enterprises in the same region deployed at least one sophisticated digital technology, and 69% EU firms did the same.
+
+
+=== Worldwide ===
+In 2015, research and development constituted an average 2.2% of the global GDP according to the UNESCO Institute for Statistics.By 2018, research and development constituted an average 1.79% of the global GDP according to the UNESCO Institute for Statistics. Countries agreed in 2015 to monitor their progress in raising research intensity (SDG 9.5.1), as well as researcher density (SDG 9.5.2), as part of their commitment to reaching the Sustainable Development Goals by 2030. However, this undertaking has not spurred an increase in reporting of data. On the contrary, a total of 99 countries reported data on domestic investment in research in 2015 but only 69 countries in 2018. Similarly, 59 countries recorded the number of researchers (in full-time equivalents) in 2018, down from 90 countries in 2015. UNESCO Institute for Statistics is the global custodian of these R&D data; data can be freely obtained from the UIS database.
+
+
+== See also ==
+Basic research
+Demonstration
+Industrial laboratory
+Innovation
+List of business and finance abbreviations
+List of companies by research and development spending
+List of countries by research and development spending
+Neglected tropical disease research and development
+Prototype
+Science of science policy
+Science policy
+Technological revolution
+Technology life cycle
+
+
+== References ==
+
+
+== Sources ==
+ This article incorporates text from a free content work.  Licensed under C-BY-SA 3.0 IGO. Text taken from UNESCO Science Report: the Race Against Time for Smarter Development.​,  Schneegans, S., T. Straza and J. Lewis (eds), UNESCO.
+
+
+== External links ==
+ Media related to Research and development at Wikimedia Commons

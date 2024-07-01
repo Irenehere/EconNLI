@@ -1,0 +1,51 @@
+Computational Economics is an interdisciplinary research discipline that involves computer science, economics, and management science.  This subject encompasses computational modeling of economic systems. Some of these areas are unique, while others established areas of economics by allowing robust data analytics and solutions of problems that would be arduous to research without computers and associated numerical methods.Computational methods have been applied in various fields of economics research, including but not limiting to:   
+Econometrics: Non-parametric approaches, Semi-parametric approaches, and Machine Learning.
+Dynamic Systems Modeling: Optimization, Dynamic stochastic general equilibrium modeling, and Agent-based modeling.
+
+
+== History ==
+Computational economics developed concurrently with the mathematization of the field. During the early 20th century, pioneers such as Jan Tinbergen and Ragnar Frisch advanced the computerization of economics and the growth of econometrics. As a result of advancements in Econometrics, regression models, hypothesis testing, and other computational statistical methods became widely adopted in economic research. On the theoretical front, complex macroeconomic models, including the Real Business Cycle (RBC) model and Dynamic Stochastic General Equilibrium (DSGE) models have propelled the development and application of numerical solution methods that rely heavily on computation. In the 21st century, the development of computational algorithms created new means for computational methods to interact with economic research. Innovative approaches such as machine learning models and agent-based modeling have been actively explored in different areas of economic research, offering economists an expanded toolkit that frequently differs in character from traditional methods.  
+
+
+== Applications ==
+
+
+=== Agent based modelling ===
+
+Computational economics uses computer-based economic modeling to solve analytically and statistically formulated economic problems. A research program, to that end, is agent-based computational economics (ACE), the computational study of economic processes, including whole economies, as dynamic systems of interacting agents. As such, it is an economic adaptation of the complex adaptive systems paradigm. Here the "agent" refers to "computational objects modeled as interacting according to rules," not real people. Agents can represent social, biological, and/or physical entities. The theoretical assumption of mathematical optimization by agents in equilibrium is replaced by the less restrictive postulate of agents with bounded rationality adapting to market forces, including game-theoretical contexts. Starting from initial conditions determined by the modeler, an ACE model develops forward through time driven solely by agent interactions. The scientific objective of the method is to test theoretical findings against real-world data in ways that permit empirically supported theories to cumulate over time.
+
+
+=== Machine learning in computational economics ===
+Machine learning models present a method to resolve vast, complex, unstructured data sets. Various machine learning methods such as the kernel method and random forest have been developed and utilized in data-mining and statistical analysis. These models provide superior classification, predictive capabilities, flexibility compared to traditional statistical models, such as that of the STAR method. Other methods, such as causal machine learning and causal tree, provide distinct advantages, including inference testing.
+There are notable advantages and disadvantages of utilizing machine learning tools in economic research. In economics, a model is selected and analyzed at once. The economic research would select a model based on principle, then test/analyze the model with data, followed by cross-validation with other models. On the other hand, machine learning models have built in "tuning" effects. As the model conducts empirical analysis, it cross-validates, estimates, and compares various models concurrently. This process may yield more robust estimates than those of the traditional ones.
+Traditional economics partially normalize the data based on existing principles, while machine learning presents a more positive/empirical approach to model fitting. Although Machine Learning excels at classification, predication and evaluating goodness of fit, many models lack the capacity for statistical inference, which are of greater interest to economic researchers. Machine learning models' limitations means that economists utilizing machine learning would need to develop strategies for robust, statistical causal inference, a core focus of modern empirical research. For example, economics researchers might hope to identify confounders, confidence intervals, and other parameters that are not well-specified in Machine Learning algorithms.Machine learning may effectively enable the development of more complicated heterogeneous economic models. Traditionally, heterogeneous models required extensive computational work. Since heterogeneity could be differences in tastes, beliefs, abilities, skills or constraints, optimizing a heterogeneous model is a lot more tedious than the homogeneous approach (representative agent). The development of reinforced learning and deep learning may significantly reduce the complexity of heterogeneous analysis, creating models that better reflect agents' behaviors in the economy.The adoption and implementation of neural networks, deep learning in the field of computational economics may reduce the redundant work of data cleaning and data analytics, significantly lowering the time and cost of large scale data analytics and enabling researchers to collect, analyze data on a great scale. This would encourage economic researchers to explore new modeling methods. In addition, reduced emphasis on data analysis would enable researchers to focus more on subject matters such as causal inference, confounding variables, and realism of the model. Under the proper guidance, machine learning models may accelerate the process of developing accurate, applicable economics through large scale empirical data analysis and computation.  
+
+
+=== Dynamic Stochastic General Equilibrium (DSGE) model ===
+
+Dynamic modeling methods are frequently adopted in macroeconomic research to simulate economic fluctuations and test for the effects of policy changes. The DSGE one class of dynamic models relying heavily on computational techniques and solutions. DSGE models utilize micro-founded economic principles to capture characteristics of the real world economy in an environment with intertemporal uncertainty. Given their inherent complexity, DSGE models are in general analytically intractable, and are usually implemented numerically using computer software. One major advantage of DSGE models is that they facilitate the estimation of agents' dynamic choices with flexibility.  However, many scholars have criticized DSGE models for their reliance on reduced-form assumptions that are largely unrealistic.
+
+
+=== Computational tools and programming languages ===
+Utilizing computational tools in economic research has been the norm and foundation for a long time. Computational tools for economics include a variety of computer software that facilitate the execution of various matrix operations (e.g. matrix inversion) and the solution of  systems of linear and nonlinear equations. Various programming languages are utilized in economic research for the purpose of data analytics and modeling. Following is a typical listing of programming languages used in computational economics research:
+C++, MATLAB, Julia (programming language), Python (programming language), R (programming language), Stata
+Among these programming languages, C++ as a compiled language performs the fastest, while Python as an interpreted language is the slowest. MATLAB, Julia, and R achieve a balance between performance and interpretability. As an early statistical analytics software, Stata was the most conventional programming language option. Economists embraced Stata as one of the most popular statistical analytics programs due to its breadth, accuracy, flexibility, and repeatability.
+
+
+== Journals ==
+The following journals specialise in computational economics: ACM Transactions on Economics and Computation, Computational Economics, Journal of Applied Econometrics, Journal of Economic Dynamics and Control and the Journal of Economic Interaction and Coordination.
+
+
+== References ==
+
+
+== External links ==
+Society for Computational Economics
+Journal of Economic Dynamics and Control - publishes articles on computational economics
+Agent-Based Computational Economics - maintained by Leigh Tesfatsion
+The Use of Agent-Based Models in Regional Science - a study on agent-based models to simulate urban agglomeration
+Computational Economics with Python - a series of lectures
+Computational Finance and Economic Agents
+Journal of Economic Interaction and Coordination - official journal of the Association of Economic Science with Heterogeneous Interacting Agents
+Chair of Economic Policy, University of Bamberg (Germany)
+Repository of public-domain computational solutions

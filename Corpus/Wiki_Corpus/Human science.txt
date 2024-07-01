@@ -1,0 +1,58 @@
+Human science (or human sciences in the plural) studies the philosophical, biological, social, and cultural aspects of human life. Human science aims to expand our understanding of the human world through a broad interdisciplinary approach. It encompasses a wide range of fields - including history, philosophy, sociology, psychology, justice studies, evolutionary biology, biochemistry, neurosciences, folkloristics, and anthropology. It is the study and interpretation of the experiences, activities, constructs, and artifacts associated with human beings. The study of the human sciences attempts to expand and enlighten the human being's knowledge of its existence, its interrelationship with other species and systems, and the development of artifacts to perpetuate the human expression and thought. It is the study of human phenomena. The study of the human experience is historical and current in nature. It requires the evaluation and interpretation of the historic human experience and the analysis of current human activity to gain an understanding of human phenomena and to project the outlines of human evolution. Human science is the objective, informed critique of human existence and how it relates to reality.
+Underlying human science is the relationship between various humanistic modes of inquiry within fields such as, history, sociology, folkloristics, anthropology and economics, and advances in such things as genetics, evolutionary biology and the social sciences for the purpose of understanding our lives in a rapidly changing world. Its use of an empirical methodology that encompasses psychological experience contrasts to the purely positivistic approach typical of the natural sciences which exclude all methods not based solely on sensory observations. Modern approaches in the human sciences integrate an understanding of human structure, function and adaptation with a broader exploration of what it means to be human.  The term is also used to distinguish not only the content of a field of study from those of the natural sciences, but also its methodology.
+
+
+== Meaning of 'science' ==
+Ambiguity and confusion regarding usage of the terms 'science', 'empirical science', and 'scientific method' have complicated the usage of the term 'human science' with respect to human activities. The term 'science' is derived from the Latin scientia meaning 'knowledge'. 'Science' may be appropriately used to refer to any branch of knowledge or study dealing with a body of facts or truths systematically arranged to show the operation of general laws.
+However, according to positivists, the only authentic knowledge is scientific knowledge which comes from positive affirmation of theories through strict scientific method, the application of knowledge or mathematics. As a result of the positivist influence, the term science is frequently employed as a synonym for empirical science. Empirical science is knowledge based on the scientific method, a systematic approach to verification of knowledge first developed for dealing with natural physical phenomena and emphasizing the importance of experience based on sensory observation. However, even with regard to the natural sciences, significant difference exist among scientists and philosophers of science with regard to what constitutes valid scientific method—for example, evolutionary biology, geology and astronomy, studying events that cannot be repeated, can use a method of historical narratives. More recently, usage of the term has been extended to the study of human social phenomena. Thus, natural and social sciences are commonly classified as science, whereas the study of classics, languages, literature, music, philosophy, history, religion, and the visual and performing arts are referred to as the humanities. Ambiguity with respect to the meaning of the term science is aggravated by the widespread use of the term formal science with reference to any one of several sciences that is predominantly concerned with abstract form that cannot be validated by physical experience through the senses, such as logic, mathematics, and the theoretical branches of computer science, information theory, and statistics.
+
+
+== History ==
+The phrase 'human science' in English was used during the 17th-century scientific revolution, for example by Theophilus Gale, to draw a distinction between supernatural knowledge (divine science) and study by humans (human science). John Locke also uses 'human science' to mean knowledge produced by people, but without the distinction. By the 20th century, this latter meaning was used at the same time as 'sciences that make human beings the topic of research'.
+
+
+=== Early development ===
+The term "moral science" was used by David Hume (1711-1776) in his Enquiry concerning the Principles of Morals to refer to the systematic study of human nature and relationships. Hume wished to establish a "science of human nature" based upon empirical phenomena, and excluding all that does not arise from observation. Rejecting teleological, theological and metaphysical explanations, Hume sought to develop an essentially descriptive methodology; phenomena were to be precisely characterized. He emphasized the necessity of carefully explicating the cognitive content of ideas and vocabulary, relating these to their empirical roots and real-world significance.A variety of early thinkers in the humanistic sciences took up Hume's direction. Adam Smith, for example, conceived of economics as a moral science in the Humean sense.
+
+
+=== Later development ===
+Partly in reaction to the establishment of positivist philosophy and the latter's Comtean intrusions into traditionally humanistic areas such as sociology, non-positivistic researchers in the humanistic sciences began to carefully but emphatically distinguish the methodological approach appropriate to these areas of study, for which the unique and distinguishing characteristics of phenomena are in the forefront (e.g. for the biographer), from that appropriate to the natural sciences, for which the ability to link phenomena into generalized groups is foremost. In this sense, Johann Gustav Droysen contrasted the humanistic science's need to comprehend the phenomena under consideration with natural science's need to explain phenomena, while Windelband coined the terms idiographic for a descriptive study of the individual nature of phenomena, and nomothetic for sciences that aim to define the generalizing laws.Wilhelm Dilthey brought nineteenth-century attempts to formulate a methodology appropriate to the humanistic sciences together with Hume's term "moral science", which he translated as Geisteswissenschaft - a term with no exact English equivalent. Dilthey attempted to articulate the entire range of the moral sciences in a comprehensive and systematic way.: Chap. I  Meanwhile, his conception of “Geisteswissenschaften” encompasses also the abovementioned study of classics, languages, literature, music, philosophy, history, religion, and the visual and performing arts. He characterized the scientific nature of a study as depending upon:: Chapter XI 
+The conviction that perception gives access to reality
+The self-evident nature of logical reasoning
+The principle of sufficient reasonBut the specific nature of the Geisteswissenschaften is based on the "inner" experience (Erleben), the "comprehension" (Verstehen) of the meaning of expressions and "understanding" in terms of the relations of the part and the whole – in contrast to the Naturwissenschaften, the "explanation" of phenomena by hypothetical laws in the "natural sciences".: p. 86 Edmund Husserl, a student of Franz Brentano, articulated his phenomenological philosophy in a way that could be thought as a basis of Dilthey's attempt. Dilthey appreciated Husserl's Logische Untersuchungen (1900/1901, the first draft of Husserl's Phenomenology) as an “epoch making“ epistemological foundation of his conception of Geisteswissenschaften.: p. 14 In recent years, 'human science' has been used to refer to "a philosophy and approach to science that seeks to understand human experience in deeply subjective, personal, historical, contextual, cross-cultural, political, and spiritual terms. Human science is the science of qualities rather than of quantities and closes the subject-object split in science. In particular, it addresses the ways in which self-reflection, art, music, poetry, drama, language and imagery reveal the human condition. By being interpretive, reflective, and appreciative, human science re-opens the conversation among science, art, and philosophy."
+
+
+== Objective vs. subjective experiences ==
+Since Auguste Comte, the positivistic social sciences have sought to imitate the approach of the natural sciences by emphasizing the importance of objective external observations and searching for universal laws whose operation is predicated on external initial conditions that do not take into account differences in subjective human perception and attitude. Critics argue that subjective human experience and intention plays such a central role in determining human social behavior that an objective approach to the social sciences is too confining. Rejecting the positivist influence, they argue that the scientific method can rightly be applied to subjective, as well as objective, experience. The term subjective is used in this context to refer to inner psychological experience rather than outer sensory experience. It is not used in the sense of being prejudiced by personal motives or beliefs.
+
+
+== Human science in universities ==
+Since 1878, the University of Cambridge has been home to the Moral Sciences Club, with strong ties to analytic philosophy.The Human Science degree is relatively young. It has been a degree subject at Oxford since 1969. At University College London, it was proposed in 1973 by Professor J. Z. Young and implemented two years later. His aim was to train general science graduates who would be scientifically literate, numerate and easily able to communicate across a wide range of disciplines, replacing the traditional Classics training for higher-level government and management careers. Central topics include the evolution of humans, their behaviour, molecular and population genetics, population growth and ageing, ethnic and cultural diversity and the human interaction with the environment, including conservation, disease and nutrition. The study of both biological and social disciplines, integrated within a framework of human diversity and sustainability, should enable the human scientist to develop professional competencies suited to address such multidimensional human problems. In the United Kingdom, Human Science is offered at degree level at several institutions, these include:
+
+University of Oxford
+University College London (as Human Sciences and as Human Sciences and Evolution)
+King's College London (as Anatomy, Developmental & Human Biology)
+University of Exeter
+Durham University (as Health and Human Sciences)
+Cardiff University (as Human and Social Sciences)
+Osaka University
+
+
+== See also ==
+History of the Human Sciences (journal)
+Social science
+
+
+== References ==
+
+
+== Bibliography ==
+Flew, A. (1986). David Hume: Philosopher of Moral Science, Basil Blackwell, Oxford
+Hume, David, An Enquiry Concerning the Principles of Morals
+
+
+== External links ==
+Institute for Comparative Research in Human and Social Sciences (ICR) -Japan
+Human Science Lab -London
+Human Science(s) across Global Academies
+Marxism philosophy

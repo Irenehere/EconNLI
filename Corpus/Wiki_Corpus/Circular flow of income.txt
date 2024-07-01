@@ -1,0 +1,150 @@
+The circular flow of income or circular flow is a model of the economy in which the major exchanges are represented as flows of money, goods and services, etc. between economic agents. The flows of money and goods exchanged in a closed circuit correspond in value, but run in the opposite direction. The circular flow analysis is the basis of national accounts and hence of macroeconomics.
+The idea of the circular flow was already present in the work of Richard Cantillon. François Quesnay developed and visualized this concept in the so-called Tableau économique. Important developments of Quesnay's tableau were Karl Marx's reproduction schemes in the second volume of Capital: Critique of Political Economy, and John Maynard Keynes' General Theory of Employment, Interest and Money. Richard Stone further developed the concept for the United Nations (UN) and the Organisation for Economic Co-operation and Development to the system, which is now used internationally.
+
+
+== Overview ==
+The circular flow of income is a concept for better understanding of the economy as a whole and for example the National Income and Product Accounts (NIPAs). In its most basic form it considers a simple economy consisting solely of businesses and individuals, and can be represented in a so-called "circular flow diagram." In this simple economy, individuals provide the labour that enables businesses to produce goods and services. These activities are represented by the green lines in the diagram.Alternatively, one can think of these transactions in terms of the monetary flows that occur. Businesses provide individuals with income (in the form of compensation) in exchange for their labor. That income is spent on the goods and services businesses produce. These activities are represented by the blue lines in the diagram above.The circular flow diagram illustrates the interdependence of the “flows,” or activities, that occur in the economy, such as the production of goods and services (or the “output” of the economy) and the income generated from that production. The circular flow also illustrates the equality between the income earned from production and the value of goods and services produced.Of course, the total economy is much more complicated than the illustration above. An economy involves interactions between not only individuals and businesses, but also Federal, state, and local governments and residents of the rest of the world. Also not shown in this simple illustration of the economy are other aspects of economic activity such as investment in capital (produced—or fixed—assets such as structures, equipment, research and development, and software), flows of financial capital (such as stocks, bonds, and bank deposits), and the contributions of these flows to the accumulation of fixed assets.
+
+
+== History ==
+
+
+=== Cantillon ===
+One of the earliest ideas on the circular flow was explained in the work of 18th century Irish-French economist Richard Cantillon, who was influenced by prior economists, especially William Petty. Cantillon described the concept in his 1730 Essay on the Nature of Trade in General, in chapter 11, entitled "The Par or Relation between the Value of Land and Labor" to chapter 13, entitled "The Circulation and Exchange of Goods and Merchandise, as well as their Production, are Carried On in Europe by Entrepreneurs, and at a Risk." Thornton eds. (2010) further explained:
+
+Cantillon develops a circular-flow model of the economy that shows the distribution of farm production between property owners, farmers, and workers. Farm production is exchanged for the goods and services produced in the cities by entrepreneurs and artisans. While the property owners are “independent,” the model demonstrates the mutual interdependence between all the classes of people that Adam Smith dubbed the “invisible hand” in The Theory of Moral Sentiments (1759). Cantillon distinguished at least five types of economic agents: property owners, farmers, entrepreneurs, labors and artisans, as expressed in the contemporary diagram of the Cantillon's Circular Flow Economy.
+
+
+=== Quesnay ===
+François Quesnay further developed these concepts, and was the first to visualize these interactions over time in the so-called Tableau économique. Quesnay believed that trade and industry were not sources of wealth, and instead in his 1758 book Tableau économique (Economic Table) argued that agricultural surpluses, by flowing through the economy in the form of rent, wages, and purchases were the real economic movers, for two reasons.
+
+First, regulation impedes the flow of income throughout all social classes and therefore economic development.
+Second, taxes on the productive classes such as farmers should be reduced in favor of higher taxes for unproductive classes such as landowners, since their luxurious way of life distorts the income flow.The model Quesnay created consisted of three economic agents: The "Proprietary" class consisted of only landowners. The "Productive" class consisted of all agricultural laborers. The "Sterile" class is made up of artisans and merchants. The flow of production and/or cash between the three classes started with the Proprietary class because they own the land and they buy from both of the other classes. Quesnay visualised the steps in the process in the Tableau économique.
+
+
+=== Marx ===
+In Marxian economics, economic reproduction refers to recurrent (or cyclical) processes by which the initial conditions necessary for economic activity to occur are constantly re-created.Economic reproduction involves the physical production and distribution of goods and services, the trade (the circulation via exchanges and transactions) of goods and services, and the consumption of goods and services (both productive or intermediate consumption and final consumption).
+Karl Marx developed the original insights of Quesnay to model the circulation of capital, money, and commodities in the second volume of Das Kapital to show how the reproduction process that must occur in any type of society can take place in capitalist society by means of the circulation of capital.Marx distinguishes between "simple reproduction" and "expanded (or enlarged) reproduction". In the former case, no economic growth occurs, while in the latter case, more is produced than is needed to maintain the economy at the given level, making economic growth possible. In the capitalist mode of production, the difference is that in the former case, the new surplus value created by wage-labour is spent by the employer on consumption (or hoarded), whereas in the latter case, part of it is reinvested in production.
+
+
+=== Further developments ===
+An important development was John Maynard Keynes's 1933 publication of the General Theory of Employment, Interest and Money. Keynes' assistant Richard Stone further developed the concept for the United Nations (UN) and the Organisation for Economic Co-operation and Development to the systems, which is now used internationally.
+The first to visualize the modern circular flow of income model was Frank Knight in 1933 publication of The Economic Organization. Knight (1933) explained:
+
+[we may view the] economic organization as a system of prize relations. Seen in the large, free enterprise is an organization of production and distribution in which individuals or family units get their real income,  their "living," by selling productive power for money to "business units" or "enterprises", and buying with the money income thus obtained the direct goods and services which they consume. This view, it will be remembered, ignores for the sake of simplicity the fact that an appreciable fraction of the productive power in use at any time is not really employed in satisfying current wants but to make provision for increased want-satisfaction in the future; it treats society as it would be, or would tend to become, with progress absent, or in a "static" state.Knight pictured a circulation of money and circulation of economic value between people (individuals, families) and business enterprises as a group, explaining: "The general character of an enterprise system, reduced to its very simplest terms, can be illustrated by a diagram showing the exchange of productive power for consumption goods between individuals and business units, mediated by the circulation of money, and suggesting the familiar figure of the wheel of wealth."
+
+
+== Types of models ==
+A circular flow of income model is a simplified representation of an economy.
+
+
+=== Two-sector model ===
+In the basic two-sector circular flow of income model, the economy consists of two sectors: (1) households and (2) firms. (Some sources refer to households as "individuals" or the "public" and to firms as "businesses" or the "productive sector.") The model assumes that there is no financial sector, no government sector, and no foreign sector. In addition, the model assumes that (a) through their expenditures, households spend all of their income on goods and services or consumption and (b) through their expenditures, households purchase all output produced by firms. This means that all household expenditures become income for firms. The firms then spend all of this income on factors of production such as labor, capital and raw materials, "transferring" all of their income to the factor owners (which are households). The factor owners (households), in turn, spend all of their income on goods, which leads to a circular flow of income.
+
+
+=== Three-sector model ===
+The three-sector model adds the government sector to the two-sector model. Thus, the three-sector model includes (1) households, (2) firms, and (3) government. It excludes the financial sector and the foreign sector. The government sector consists of the economic activities of local, state and federal governments. Flows from households and firms to government are in the form of taxes. The income the government receives flows to firms and households in the form of subsidies, transfers, and purchases of goods and services. Every payment has a corresponding receipt; that is, every flow of money has a corresponding flow of goods in the opposite direction. As a result, the aggregate expenditure of the economy is identical to its aggregate income, making a circular flow.
+
+
+=== Four-sector model ===
+The four-sector model adds the foreign sector to the three-sector model. (The foreign sector is also known as the "external sector," the "overseas sector," or the "rest of the world.") Thus, the four-sector model includes (1) households, (2) firms, (3) government, and (4) the rest of the world. It excludes the financial sector. The foreign sector comprises (a) foreign trade (imports and exports of goods and services) and (b) inflow and outflow of capital (foreign exchange). Again, each flow of money has a corresponding flow of goods (or services) in the opposite direction. Each of the four sectors receives some payments from the other in lieu of goods and services which makes a regular flow of goods and physical services. The addition of the foreign sector
+
+
+=== Five-sector model ===
+The five-sector model adds the financial sector to the four-sector model. Thus, the five-sector model includes (1) households, (2) firms, (3) government, (4) the rest of the world, and (5) the financial sector. The financial sector includes banks and non-bank intermediaries that engage in borrowing (savings from households) and lending (investments in firms). Money facilitates such an exchange smoothly. Residuals from each market enter the capital market as savings, which in turn are invested in firms and the government sector. Technically speaking, so long as lending is equal to borrowing (i.e., leakages are equal to injections), the circular flow will continue indefinitely. However, this job is done by financial institutions in the economy.
+
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Alternative models ===
+The progression from the two-sector model to the five sector model as documented above (that is, by starting with households and firms, then successively adding the government sector, the foreign sector, and the financial sector) is common. However, some authors group (1) households, (2) firms, and (3) the financial sector together as the "private sector" and subsequently add (4) the government sector, making the "domestic sector," and (5) the foreign sector. Others use the "capital market" rather than the "financial sector" to account for the flows of savings and investments; in these sources, the fully specified model has four sectors (households, firms, government, and foreign) plus the capital market, which is regarded as a market rather than a sector.
+
+
+== Circular flow of income topics ==
+
+
+=== Leakages and injection ===
+The five-sector model considers leakages and injections.
+
+'Leakage' means withdrawal from the flow. When households and firms save part of their incomes it constitutes leakage. They may be in form of savings, tax payments, and imports. Leakages reduce the flow of income.
+'Injection' means the introduction of income into the flow. When households and firms borrow savings, they constitute injections. Injections increase the flow of income. Injections can take the forms of investment, government spending and exports. As long as leakages are equal to injections, the circular flow of income continues indefinitely. Financial institutions or capital market play the role of intermediaries. This means that income individuals receive from businesses and the goods and services that are sold to them do not count as injections or leakages, as no new money is being introduced to the flow and no money is being taken out of the flow.Leakages and injections can occur in the financial sector, government sector and overseas sector:
+
+
+==== In the financial sector ====
+In terms of the circular flow of income model, the leakage that financial institutions provide in the economy is the option for households to save their money. This is a leakage because the saved money cannot be spent in the economy and thus is an idle asset that means not all output will be purchased. The injection that the financial sector provides into the economy is investment (I) into the business/firms sector. An example of a group in the finance sector includes banks such as Westpac or financial institutions such as Suncorp.
+
+
+==== In the government sector ====
+The leakage that the government sector provides is through the collection of revenue through taxes (T) that is provided by households and firms to the government. This is a leakage because it is a leakage out of the current income, thus reducing the expenditure on current goods and services. The injection provided by the government sector is government spending (G) that provides collective services and welfare payments to the community. An example of a tax collected by the government as a leakage is income tax, and an injection into the economy can be when the government redistributes this income in the form of welfare payments, that is a form of government spending back into the economy.
+
+
+==== In the overseas sector ====
+The main leakage from this sector are imports (M), which represent spending by residents into the rest of the world. The main injection provided by this sector is the exports of goods and services which generate income for the exporters from overseas residents. An example of the use of the overseas sector is Australia exporting wool to China: China pays the exporter of the wool (the farmer), therefore, more money enters the economy, thus making it an injection. Another example is China processing the wool into items such as coats and Australia importing the product by paying the Chinese exporter; since the money paying for the coat leaves the economy, it is a leakage.
+
+
+==== Summary of leakages and injections ====
+
+
+=== The state of equilibrium ===
+In terms of the five sector circular flow of income model the state of equilibrium occurs when the total leakages are equal to the total injections that occur in the economy. This can be shown as:
+
+This can be further illustrated through a fictitious economy where:
+
+Therefore, since the leakages are equal to the injections the economy is in a stable state of equilibrium. This state can be contrasted to the state of disequilibrium where unlike that of equilibrium the sum of total leakages does not equal the sum of total injections. By giving values to the leakages and injections the circular flow of income can be used to show the state of disequilibrium. Disequilibrium can be shown as:
+
+Therefore, it can be shown as one of the below equations where:
+
+The effects of disequilibrium vary according to which of the above equations they belong to.
+If S + T + M > I + G + X the levels of income, output, expenditure and employment will fall causing a recession or contraction in the overall economic activity. But if S + T + M < I + G + X the levels of income, output, expenditure and employment will rise causing a boom or expansion in economic activity.
+
+To manage this problem, if disequilibrium were to occur in the five sector circular flow of income model, changes in expenditure and output will lead to equilibrium being regained. An example of this is if:
+S + T + M > I + G + X the levels of income, expenditure and output will fall causing a contraction or recession in the overall economic activity. As the income falls households will cut down on all leakages such as saving, they will also pay less in taxation and with a lower income they will spend less on imports. This will lead to a fall in the leakages until they equal the injections and a lower level of equilibrium will be the result.
+The other equation of disequilibrium, if S + T + M < I + G + X in the five sector model the levels of income, expenditure and output will greatly rise causing a boom in economic activity. As the households income increases there will be a higher opportunity to save therefore saving in the financial sector will increase, taxation for the higher threshold will increase and they will be able to spend more on imports. In this case when the leakages increase the situation will be a higher level of equilibrium.
+
+
+== Significance of study of circular flow of income ==
+The circular flow of income is significant in four areas:
+Measurement of national income
+Knowledge of Interdependence - Circular flow of income signifies the interdependence of each of activity upon one another. If there is no consumption, there will be no demand and expenditure which in fact restricts the amount of production and income.
+Unending Nature of Economic Activities - It signifies that production, income and expenditure are of unending nature, therefore, economic activities in an economy can never come to a halt. National income is also bound to rise in future.
+Injections and Leakages
+
+
+== Circular flow diagram as a subsystem of the environment ==
+
+The circular flow diagram is an abstraction of the economy as a whole. The diagram suggests that the economy can reproduce itself. The idea is that as households spend money of goods and services from firms, the firms have the means to purchase labor from the households, which the households to then purchase goods and services. Suggesting that this process can and will continuously go on as a perpetual motion machine. However, according to the Laws of Thermodynamics perpetual motion machines do not exist. The First Laws says matter and energy cannot be created or destroyed, and the Second Laws says that matter and energy move from a low entropy, useful, state towards a less useful higher entropy state. Thus, no system can continue without inputs of new energy that exit as high entropy waste. Just as no animal can live on its own waste, no economy can recycle the waste it produces without the input of new energy to reproduce itself. The economy therefore cannot be the whole. It must be a subsystem of the larger ecosystem.The abstraction ignores the linear throughput of matter and energy that must power the continuous motion of money, goods and services, and factors of production. Matter and energy enter the economy in the form of low entropy natural capital, such as solar energy, oil wells, fisheries, and mines.  These materials and energy are used by households and firms a like to create products and wealth.  After the material are used up, the energy and matter leaves the economy in the form of high entropy waste that is no longer valuable to the economy.  The natural materials that power the motion of the circular flow of the economy come from the environment, and the waste must be absorbed by the larger ecosystem in which the economy exists.This is not to say that the circular flow diagram isn't useful in understanding the basics of an economy, such as leakages and injections.  However, it cannot be ignored that the economy intrinsically requires natural resources and the creation of waste that must be absorbed in some manner. The economy can only continue churning if it has matter and energy to power it and the ability to absorb the waste it creates.  This matter and low entropy energy and the ability to absorb waste exists in a finite amount, and thus there is a finite amount of inputs to the flow and outputs of the flow that the environment can handle, implying there is a sustainable limit to motion, and therefore growth, of the economy.
+
+
+== See also ==
+History of economic thought
+Barter economy
+Free-market economy
+Market
+Velocity of money
+
+
+== References ==
+
+AttributionThis article incorporates text from Bureau of Economic Analysis. Measuring the Economy : A Primer on GDP and the National Income and Product Accounts, 2014, a publication now in the public domain.
+
+
+== Further reading ==
+Backhouse, Roger E., and Yann Giraud. "Circular flow diagrams." in: Famous Figures and Diagrams in Economics (2010): 221–230. Chapter 23.
+Richard Cantillon, Chantal Saucier (translation) & Mark Thornton (editor) (2010) [1755]. An Essay on Economic Theory. Auburn, Alabama: Ludwig von Mises Institute. ISBN 0-415-07577-7.
+Daraban, Bogdan. "Introducing the Circular Flow Diagram to Business Students." Journal of Education for Business 85.5 (2010): 274–279.
+Mankiw, Gregory (2011). Principles of Economics, 6th edition. Thomson Europe.
+Marks, Melanie, and Gemma Kotula. "Using the circular flow of income model to teach economics in the middle school classroom." The Social Studies 100.5 (2009): 233–242.
+Lloyd A. Metzler. “Three Lags in the Circular Flow of Income”, in: Income, Employment and Public; essays in honor of Alvin H. Hansen, Lloyd A Metzler; New York, W.W. Norton [1948]. pp. 11–32
+Antoin E. Murphy. "John Law and Richard Cantillon on the circular flow of income." Journal of the History of Economic Thought. 1.1 (1993): 47–62.
+Sloman, John (1999). Economics, 3rd edition. Prentice Economics. Europe: Prentice-Hall. ISBN 0-273-65574-4.
+
+
+== External links ==
+
+Circular Flow Model Archived 2014-08-02 at the Wayback Machine, The Economic Lowdown Video Series at the Federal Reserve Bank of St. Louis

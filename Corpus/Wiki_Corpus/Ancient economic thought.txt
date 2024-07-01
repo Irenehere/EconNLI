@@ -1,0 +1,137 @@
+In the history of economic thought, ancient economic thought refers to the ideas from people before the Middle Ages.
+Economics in the classical age is defined in the modern analysis as a factor of ethics and politics, only becoming an object of study as a separate discipline during the 18th century.
+
+
+== Ancient Near East ==
+Economic organization in the earliest civilizations of the fertile crescent was driven by the need to efficiently grow crops in river basins. The Euphrates and Nile valleys were homes to earliest examples of codified measurements written in base 60 and Egyptian fractions.
+Egyptian keepers of royal granaries, and absentee Egyptian landowners are reported in the Heqanakht papyri. Historians of this period note that the major tool of accounting for agrarian societies, the scales used to measure grain inventory, reflected dual religious and ethical symbolic meanings.The Erlenmeyer tablets give a picture of Sumerian production in the Euphrates Valley around 2200-2100 BC, and show an understanding of the relationship between grain and labor inputs (valued in "female labor days") and outputs and an emphasis on efficiency. Egyptians measured work output in man-days. The development of sophisticated economic administration continued in the Euphrates and Nile valleys during the Babylonian Empire and Egyptian Empires when trading units spread through the Near East within monetary systems. Egyptian fraction and base 60 monetary units were extended in use and diversity to Greek, early Islamic culture, and medieval cultures. By 1202, Fibonacci's use of zero and Vedic-Islamic numerals, motivated Europeans to apply zero as an exponent, birthing modern decimals 350 years later.
+The city-states of Sumer developed a trade and market economy based originally on the commodity money of the Shekel which was a certain weight measure of barley, while the Babylonians and their city-state neighbors later developed the earliest system of economics using a metric of various commodities, that was fixed in a legal code. The early law codes from Sumer could be considered the first (written) economic formula, and had many attributes still in use in the current price system today: codified amounts of money for business deals (interest rates), fines in money for 'wrongdoing', inheritance rules, laws concerning how private property is to be taxed or divided, etc. For a summary of the laws, see Babylonian law.
+Earlier collections of (written) laws, just prior to Hammurabi, that could also be considered rules and regulations as to economic law for their cities include the codex of Ur-Nammu, king of Ur (c. 2050 BC), the laws of Eshnunna (c. 1930 BC)  and the codex of Lipit-Ishtar of Isin (c. 1870 BC).
+
+
+== Ancient Greco-Roman World ==
+Some scholars assert economic thought similar to the modern understanding occurred during the 18th century or the Enlightenment, as early economic thought was based on metaphysical principles which are incommensurate with contemporary dominant economic theories such as neo-classical economics.Several ancient Greek and Roman thinkers made various economic observations, especially Aristotle and Xenophon. Many other Greek writings show understanding of sophisticated economic concepts. For instance, a form of Gresham’s Law is presented in Aristophanes’ Frogs, and beyond Plato's application of sophisticated mathematical advances influenced by the Pythagoreans is his appreciation of fiat money in his Laws (742a–b) and in the pseudo-Platonic dialogue, Eryxias. Bryson of Heraclea was a neo-platonic who is cited as having heavily influenced early Muslim economic scholarship.
+
+
+=== Hesiod ===
+
+... Through work men grow rich in flocks and substance ... In the opinion of the Austrian School of economics the first economist is thought to be Hesiod, by the fact of his having written on the fundamental subject of the scarcity of resources, in Works and Days. His contribution to economic thought is at least in his relevancy to the practice of economical activity in the depositing and lending of grain, as his writings are "... the chief resource for details as to Grecian agriculture ..." and that according to Loudon (1825) he provided " ... directions for the whole business of family economy in the country".
+
+
+=== Xenophon ===
+
+The influence of Babylonian and Persian thought on Greek administrative economics is present in the work of Greek historian Xenophon. Discussion of economic principles are especially present in his Oeconomicus, Cyropaedia, Hiero, and Ways and Means. Hiero is a minor work which includes discussion of leaders stimulating private production and technology through various means including public recognition and prizes. Ways and Means is a short treatise on economic development, and showed an understanding of the importance of taking advantage of economies of scale and advocated laws promoting foreign merchants. The Oeconomicus discusses the administration of agricultural land. In the work, subjective personal value of goods is analyzed and compared with exchange value. Xenophon uses the example of a horse, which may be of no use to a person who does not know how to handle it, but still has exchange value.Although this broadens the idea of value based in individual use to a more general social concept of value that comes through exchange, scholars note that this is not a market theory of value. In Cyropaedia Xenophon presents what in hindsight can be seen as the foundation for a theory of fair exchange in the market. In one anecdote, the young Cyrus is to judge the fairness of an exchange made between a tall and a short boy. The tall boy forces the pair to exchange tunics, because the tall boy's tunic is too short, shorter than the short boys, which is too tall for him.  Cyrus rules the exchange fair because it results in a better fit for both boys.  Cyrus' mentors were not pleased with Cyrus' basing his decision on the values involved, as a just exchange must be voluntary.Later in the biography, Xenophon discusses the concept of division of labor, referencing specialized cooks and workers in a shoemaking shop. Scholars have noted that Adam Smith's early notes about this concept "read like a paraphrase of Xenophon's discussion of the role of the carpenter as a "jack of all trades" in small cities and as a specialist in large cities. Marx attributes to Cyropaedia the idea that the division of labor correlates to the size of a market. Xenophon also presents an example of mutual advantage from exchange in a story about Cyrus coordinating an exchange of surplus farmland from Armenians, who were herders, and surplus grazing land from Chaldeans, who were farmers.
+
+
+=== Plato ===
+
+Of Plato's works those considered the most important to study of economics are Nomoi, Politeia and Politikos (Backhaus). In his work Laws Plato writes on the three things as important to a person of these mind he stated as the most important, then body and lastly estate (Χρήματα). In Phaedo, Plato makes the first distinction between  things which are thought necessary and those thought a luxury (Bonar).Plato promoted the exercise of temperance in respect to the pursuit of material wealth such that by strengthening moderation a person there-by preserves the order of their psyche. In The Republic he gives an account of the manner by which a state is to be formed with the skills (techne) of individuals supporting economic sustainability. With respect to the identification of skill Plato's writing in the Republic also deals with the specialization of skills as the concept of division of labour.
+
+
+=== Aristotle ===
+
+Aristotle's Politics (ca. 350 BCE) was mainly concerned to analyze different forms of a state (monarchy, aristocracy, constitutional government, tyranny, oligarchy, democracy) as a critique of Plato's advocacy of a ruling class of philosopher-kings. In particular for economists, Plato had drawn a blueprint of society on the basis of common ownership of resources. Aristotle viewed this model as an oligarchical anathema. In Politics, Book II, Part V, he argued that:
+
+"Property should be in a certain sense common, but, as a general rule, private; for, when everyone has a distinct interest, men will not complain of one another, and they will make more progress, because every one will be attending to his own business... And further, there is the greatest pleasure in doing a kindness or service to friends or guests or companions, which can only be rendered when a man has private property. These advantages are lost by excessive unification of the state."
+Allocation of scarce resources was a moral issue to Aristotle. He also wrote in Politics (book I), that consumption was the objective of production, and the surplus should be allocated to the rearing of children, and personal satiation ought to be the natural limit of consumption. (To Aristotle, the question was a moral one: in his era child mortality was high). In transactions, Aristotle used the labels of "natural" and "unnatural". Natural transactions were related to the satisfaction of needs and yielded wealth that was limited in quantity by the purpose it served. Un-natural transactions aimed at monetary gain and the wealth they yielded was potentially without limits. He explained the un-natural wealth had no limits because it became an end in itself rather than a means to another end—satisfaction of needs.  This distinction is the basis for Aristotle's moral rejection of usury.
+Later, in book VII Chapter 1 of Politics, Aristotle asserts external goods have a limit, like any other instrument, and all things useful are of such a nature that where there is too much of them they must either do harm, or at any rate be of no use, to their possessors and some interpret this as capturing a concept of diminishing marginal utility, though there has been marked disagreement about the development and role of marginal utility considerations in Aristotle's value theory. Certainly this book formulates an ordinal hierarchy of values, which later appeared in Maslow's contribution to motivation theory.
+Aristotle's Nicomachean Ethics, particularly book V.v, has been called the most economically provocative analytic writing in ancient Greece. Therein, Aristotle discusses justice in distribution and exchange.  Still considering isolated exchanges rather than markets, Aristotle sought to discuss just exchange prices between individuals with different subjective values for their goods. Aristotle suggested three different proportions to analyze distributive, corrective, and reciprocal or exchange transactions: the arithmetic, the geometric, and the harmonic. The harmonic proportion implies a strong commitment to the subjective values of the traders.Sixth century AD philosopher Boethius used the example of 16 as the harmonic mean of 10 and 40.  16 is the same percentage larger than 10 as it is smaller than 40 (60 percent of 10 is 6, while 60 percent of 40 is 24).  Thus if two bargainers have subjective prices for a good of 10 and 40, Aristotle points out that in exchange, it is most fair to price the good at 16, due to the equality proportional differences from their price to the new price.  Another nuance in this analysis of exchange is that Aristotle also saw a zone of consumer surplus or mutual advantage to both consumers that had to be divided.
+
+
+=== Roman law ===
+
+Early Greek and Judaic law follow a voluntaristic principle of just exchange; a party was only held to an agreement after the point of sale.  Roman law developed the contract recognizing that planning and commitments over time are necessary for efficient production and trade.  The large body of law was unified as the Corpus Juris Civilis in the 530s by Justinian who was Emperor of the Eastern Roman Empire from 526-565.
+
+
+== Ancient India ==
+
+
+=== Chanakya ===
+
+Chanakya (c. 350 BC-275 BC) considered economic issues. He was a professor of political science at the Takshashila University of ancient India, and later the prime minister of the Mauryan emperor Chandragupta Maurya. He wrote the Arthashastra ("Science of Material Gain" or "''Science of political economy" in Sanskrit). Many of the topics discussed in the Arthashastra are still prevalent in modern economics, including its discussions on the management of an efficient and solid economy, and the ethics of economics. Chanakya also focuses on issues of welfare (for instance, redistribution of wealth during a famine) and the collective ethics that hold a society together.
+The Arthashastra discusses a mixed economy, where private enterprise and state enterprise frequently competed side by side, in agriculture, animal husbandry, forest produce, mining, manufacturing and trade. However, royal statutes and officials regulated private economic activities, some economic activity was the monopoly of the state, and a superintendent oversaw that both private and state owned enterprises followed the same regulations. The private enterprises were taxed. Mines were state owned, but leased to private parties for operations, according to chapter 2.12 of the text. The Arthashastra states that protecting the consumer must be an important priority for the officials of the kingdom.
+
+The scope of Arthaśāstra is, however, far wider than statecraft, and it offers an outline of an entire civil and criminal code and bureaucratic framework for administering a kingdom, with a wealth of descriptive cultural detail on topics such as mineralogy, mining and metals, agriculture, animal husbandry and medicine. The Arthaśāstra also focuses on issues of welfare (for instance, redistribution of wealth during a famine) and the collective ethics that hold a society together. It discusses the ethics of economics and the duties and obligations of a king.
+Chanakya says that artha (sound economies) is the most important quality and discipline required for a Rajarshi, and that dharma & kama are both dependent on it.
+According to Chanakya, a conducive atmosphere is necessary for the state's economy to thrive. This requires that a state's law and order be maintained. Arthashastra specifies fines and punishments to support strict enforcement of laws (the Dandaniti).
+Roger Boesche has called the Arthashastra "a great political book of the ancient world". He interprets the 1st millennium BCE text as describing a system similar to the Soviet Union and China, where the state envisions itself as driven by the common good, but also operates an extensive spy network and system of surveillance. This view has been challenged by Thomas Trautmann, who asserts that a free market and individual rights, albeit a regulated system, are proposed by Arthashastra. Boesche is not summarily critical and adds:
+
+Kautilya's Arthashastra depicts a bureaucratic welfare state, in fact some kind of socialized monarchy, in which the central government administers the details of the economy for the common good...In addition, Kautilya offers a work of genius in matters of foreign policy and welfare, including key principles of international relations from a realist perspective and a discussion of when an army must use cruel violence and when it is more advantageous to be humane.
+Chanakya discusses economic laws, and suggests having a court system to oversee and resolve economic, contracts and market-related disputes. The text also provides a system of appeal where three dharmastha (judges) consider contractual disputes between two parties, and considers profiteering and false claims to dupe customers a crime. The text, states Trautmann, thus anticipates market exchange and provides a framework for its functioning.
+
+
+=== Mahavira ===
+
+Economics in Jainism is influenced by the Mahavira and his principles and philosophies. His philosophies have been used to explain the economics behind it. He was the last of the 24 Tirthankars, who spread Jainism. In the Economics context he explains the importance of the concept of 'anekanta' (non-absolutism).There are two core political-economic system of the society recognized by the Mahavira. One is Communism and the other, Capitalism. The former is meant to be more socialistic and the latter capitalistic. However the Mahavira found no difference in both these systems because both were driven by materialism.
+
+
+== Ancient China ==
+
+
+=== Fan Li ===
+Fan Li (later Tao Zhu Gong) (517 BC - ) Chinese businessman, politician and strategist, wrote on economic issues. He developed 'golden' rules for doing business. Additionally, he discussed seasonal effects on markets, and business strategy among other things.
+
+
+=== Confucianism and legalism ===
+In ancient China, Chinese scholar-officials would often debate about the role government should have in the economy, such as setting monopolies in lucrative industries and instating price controls. Confucian factions tended to oppose extensive government controls, while "Reform" or legalist factions favored intervention. The Confucians' rationale for opposing government intervention was that the government should not "compete for profit with the people" as it would tend to exploit the population whenever it was involved in mercantile activity.
+One such debate is recorded in the Discourses on Salt and Iron, a debate over Salt and iron monopolies imposed by Emperor Wu of Han to fund wars and expansionism against the Xiongnu.
+
+Although Confucian laissez faire was largely dominant throughout China's history, legalist policies often gained prominence in times of war or with the patronage of rulers, such as under Qin Shi Huang, Sang Hongyang, Wang Mang and Wang Anshi, though they were abolished shortly thereafter.
+
+
+=== Wang Anshi ===
+
+Chancellor Wang Anshi (1021–1086), one of China's most prominent reformers, lived during the medieval Song Dynasty (960-1279). Espousing heated reaction by conservative ministers at court, Wang Anshi's political faction of the New Policies Group enacted a series of reforms that centered around military reform, bureaucratic reform, and economic reform. Economic reforms introduced included low-cost loans for farmers (whom he considered the backbone of the Chinese economy in terms of production of goods and greatest source of the land tax), replacing the corvee labor service with a tax instead, enacting government monopolies on crucial industries producing tea, salt, and wine, introduction of a local militia to ease the budget spending on the official standing army of 1 million troops, and the establishment of a Finance Planning Commission staffed largely by political loyals so that his reforms could pass quickly with less time for conservatives to oppose it in court. Reformers and conservatives would oust each other from power once they had the support of the emperor.
+
+
+== Medieval Islamic world ==
+
+To some degree, the early Muslims based their economic analyses on the Qur'an (such as opposition to riba, interest), and from sunnah, the sayings and doings of Muhammad.
+
+
+=== Early Muslim thinkers ===
+Al-Ghazali (1058–1111) classified economics as one of the sciences connected with religion, along with metaphysics, ethics, and psychology.  Authors have noted, however, that this connection has not caused early Muslim economic thought to remain static. Persian philosopher Nasir al-Din al-Tusi (1201–1274) presents an early definition of economics (what he calls hekmat-e-madani, the science of city life) in discourse three of his Ethics:
+
+"the study of universal laws governing the public interest (welfare?) in so far as they are directed, through cooperation, toward the optimal (perfection)."
+Many scholars trace the history of economic thought through the Muslim world, which was in a Golden Age from the 8th to 13th century and whose philosophy continued the work of the Greek and Hellenistic thinkers and came to influence Aquinas when Europe "rediscovered" Greek philosophy through Arabic translation. A common theme among these scholars was the praise of economic activity and even self-interested accumulation of wealth. Persian philosopher Ibn Miskawayh (born 1030) notes:
+
+"The creditor desires the well-being of the debtor in order to get his money back rather than because of his love for him. The debtor, on the other hand, does not take great interest in the creditor."
+This view is in conflict with an idea Joseph Schumpeter called the Great (Schumpeterian) Gap, which comes from his 1954 book History of Economic Analysis, claiming a break in economic thought during the 500-year period between the decline of the Greco-Roman civilization in the eighth century and the thirteenth century work of Thomas Aquinas (1225–1274). However, in 1964 Joseph J. Spengler's "Economic Thought of Islam: Ibn Khaldun" appeared in the journal Comparative Studies in Society and History and took a large step in bringing knowledge of medieval Muslim economic scholars to the contemporary West.The influence of earlier Greek and Hellenistic thought on the Muslim world began largely with Abbasid caliph al-Ma'mun, who sponsored the translation of Greek texts into Arabic in the 9th century by Syrian Christians in Baghdad. But already by that time numerous Muslim scholars had written on economic issues, and early Muslim leaders had shown sophisticated attempts to enforce fiscal and monetary financing, use deficit financing, use taxes to encourage production, the use of credit instruments for banking, including rudimentary savings and checking accounts, and contract law.Among the earliest Muslim economic thinkers was Abu Yusuf (731-798), a student of the founder of the Hanafi Sunni School of Islamic thought, Abu Hanifah.  Abu Yusuf was chief jurist for Abbasid Caliph Harun al-Rashid, for whom he wrote the  Book of Taxation (Kitab al-Kharaj).  This book outlined Abu Yusuf's ideas on taxation, public finance, and agricultural production.  He discussed proportional tax on produce instead of fixed taxes on property as being superior as an incentive to bring more land into cultivation.  He also advocated forgiving tax policies which favor the producer and a centralized tax administration to reduce corruption.  Abu Yusuf favored the use of tax revenues for socioeconomic infrastructure, and included discussion of various types of taxes, including sales tax, death taxes, and import tariffs.The power of supply and demand was understood to some extent by various early Muslim scholars as well. Ibn Taymiyyah illustrates:
+
+"If desire for goods increases while its availability decreases, its price rises. On the other hand, if availability of the good increases and the desire for it decreases, the price comes down." Ghazali suggests an early version of price inelasticity of demand for certain goods, and he and Ibn Miskawayh discuss equilibrium prices."
+Other important Muslim scholars who wrote about economics include al-Mawardi (1075–1158) and Ibn Taimiyah (1263–1328).
+
+
+=== Ibn Khaldun ===
+
+Perhaps the most well known Islamic scholar who wrote about economics was Ibn Khaldun of Tunisia (1332–1406), considered a father of modern economics, Ibn Khaldun wrote on economic and political theory in the introduction, or Muqaddimah (Prolegomena), of his History of the World (Kitab al-Ibar).  In the book, he discussed what he called asabiyyah (social cohesion), which he sourced as the cause of some civilizations becoming great and others not.  Ibn Khaldun felt that many social forces are cyclic, although there can be sudden sharp turns that break the pattern.His idea about the benefits of the division of labor also relate to asabiyya, the greater the social cohesion, the more complex the successful division may be, the greater the economic growth.  He noted that growth and development positively stimulate both supply and demand, and that the forces of supply and demand are what determine the prices of goods.  He also noted macroeconomic forces of population growth, human capital development, and technological developments effects on development. In fact, Ibn Khaldun thought that population growth was directly a function of wealth.Although he understood that money served as a standard of value, a medium of exchange, and a preserver of value, he did not realize that the value of gold and silver changed based on the forces of supply and demand. He also introduced the concept known as the Khaldun-Laffer Curve (the relationship between tax rates and tax revenue increases as tax rates increase for a while, but then the increases in tax rates begin to cause a decrease in tax revenues as the taxes impose too great a cost to producers in the economy).
+
+
+== See also ==
+History of economic thought
+History of money
+Schools of economics
+
+
+== References ==
+
+
+== Bibliography ==
+Boesche, Roger (2002), The First Great Political Realist: Kautilya and His Arthashastra, Lanham: Lexington Books, ISBN 0-7391-0401-2
+Ebrey, Patricia Buckley; Walthall, Anne; Palais, James B. (2006). East Asia: A Social, Cultural, and Political History. Boston: Houghton Mifflin. ISBN 0-618-13384-4.
+Falagas, Matthew E.; Zarkadoulia, Effie A.; Samonis, George (2006). "Arab science in the golden age (750–1258 C.E.) and today". The FASEB Journal. 20 (10): 1581–1586. doi:10.1096/fj.06-0803ufm. PMID 16873881. S2CID 40960150.
+Finley, M. I. The Ancient Economy ISBN 0-520-02436-2
+Finley, M. I. (1970). "Aristotle and economic analysis". Past & Present. 47 (1): 3–25. doi:10.1093/past/47.1.3.
+Hosseini, Hamid S. (2003). "Contributions of Medieval Muslim Scholars to the History of Economics and their Impact: A Refutation of the Schumpeterian Great Gap". In Biddle, Jeff E.; Davis, Jon B.; Samuels, Warren J. (eds.). A Companion to the History of Economic Thought. Malden, MA: Blackwell. pp. 28–45. doi:10.1002/9780470999059.ch3. ISBN 0-631-22573-0.
+Lowry, S. Todd (2003). "Ancient and Medieval Economics". In Biddle, Jeff E.; Davis, Jon B.; Samuels, Warren J. (eds.). A Companion to the History of Economic Thought. Malden, MA: Blackwell. pp. 11–27. doi:10.1002/9780470999059.ch2. ISBN 0-631-22573-0. Full-text of "Ancient and Medieval Economics" available in Google Books preview.
+Marx, Karl (1930). Capital: A Critique of Political Economy. London: J. M. Dent.
+Meikle, Scott (1995). Aristotle's economic thought. New York: Oxford University Press. ISBN 0-19-815002-4.
+Olivelle, Patrick (2013). King, Governance, and Law in Ancient India: Kauṭilya's Arthaśāstra. Oxford, UK: Oxford University Press. ISBN 978-0199891825. Retrieved 2016-02-20.
+Schumpeter, Joseph (1954). History of Economic Analysis. New York: Oxford University Press.
+Spengler, J. Joseph (1964). "Economic thought of Islam: Ibn Khaldun". Comparative Studies in Society and History. Cambridge University Press. 6 (3): 264–306. doi:10.1017/s0010417500002164. JSTOR 177577.
+Weiss, Dieter (1995). "Ibn Khaldun on Economic Transformation". International Journal of Middle East Studies. Cambridge University Press. 27 (1): 29–37. doi:10.1017/S0020743800061560. JSTOR 176185.
+Warburton, David (2003). Macroeconomics from the beginning: The General Theory, Ancient Markets, and the Rate of Interest. Paris: Recherches et Publications. ISBN 978-2-940032-15-0.
+
+
+== External links ==
+"The Invention of Coinage and the Monetization of Ancient Greece"

@@ -1,0 +1,106 @@
+Education economics or the economics of education is the study of economic issues relating to education, including the demand for education, the financing and provision of education, and the comparative efficiency of various educational programs and policies. From early works on the relationship between schooling and labor market outcomes for individuals, the field of the economics of education has grown rapidly to cover virtually all areas with linkages to education.
+
+
+== Education as an investment ==
+Economics distinguishes in addition to physical capital another form of capital that is no less critical as a means of production – human capital. With investments in human capital, such as education, three major economic effects can be expected:
+increased expenses as the accumulation of human capital requires investments just as physical capital does,
+increased productivity as people gain characteristics that enable them to produce more output and hence
+return on investment in the form of higher incomes.
+
+
+=== Investment costs ===
+Investments in human capital entail an investment cost, just as any investment does. Typically in European countries, most education expenditure takes the form of government consumption, although some costs are also borne by individuals. These investments can be rather costly. EU governments spent between 3% and 8% of GDP on education in 2005, the average being 5%. However, measuring the spending this way alone greatly underestimates the costs because a more subtle form of costs is completely overlooked: the opportunity cost of forgone wages as students cannot work while they study. It has been estimated that the total costs, including opportunity costs, of education are as much as double the direct costs.
+Including opportunity costs investments in education can be estimated to have been around 10% of GDP in the EU countries in 2005. In comparison, investments in physical capital were 20% of GDP. Thus, the two are of similar magnitude.
+K-12 public education in the United States is primarily funded by state and local governments, while the federal government provides a smaller percentage of funding through grant programs for at-risk youth. In 2018, the US spent approximately 5% of its GDP on K-12 public education, placing the US as the 7th highest spender per student compared to other OECD nations. Schools in the US spend approximately $17,000 per student, but public education spending varies significantly at the state level. At the college level, increasing tuition and out-of-pocket costs have increased the cost of attending college. The opportunity cost of college also increased due to the higher wages of high school graduates. Over the past decade, the cost of in-state tuition for a 4-year education increased by one-third, with tuition inflation rates decreasing in the recent decade. A 2014 study by economists Jaison Abel and Richard Deitz found that the opportunity cost of attending college amounts to $120,000 due to forgone wages, with the total cost of college amounting to an estimated $150,000 when also factoring in out-of-pocket expenses.
+
+
+=== Returns on investment ===
+Human capital in the form of education shares many characteristics with physical capital. Both require an investment to create and, once created, both have economic value. Physical capital earns a return because people are willing to pay to use a piece of physical capital in work as it allows them to produce more output. To measure the productive value of physical capital, we can simply measure how much of a return it commands in the market. In the case of human capital calculating returns is more complicated – after all, we cannot separate education from the person to see how much it rents for.
+To get around this problem, the returns to human capital are generally inferred from differences in wages among people with different levels of education. Hall and Jones have calculated from international data that on average the returns on education are 13.4% per year for first four years of schooling (grades 1–4), 10.1% per year for the next four years (grades 5–8) and 6.8% for each year beyond eight years. Thus someone with 12 years of schooling can be expected to earn, on average, 1.1344 × 1.1014 × 1.0684 = 3.161 times as much as someone with no schooling at all.
+
+Higher levels of educational attainment can increase lifetime earnings, impacting the return on investment (ROI) of education. In the US at the college and university level, each level of degree attainment significantly increases lifetime earnings as more education is achieved. Lifetime ROI is significantly higher at lower levels of educational attainment than at higher levels (1,200.8% for an Associate's degree vs. 287.7% for a Bachelor's degree). While higher levels of degree attainment can increase lifetime earnings, the ROI decreases at the doctoral level compared to a master's degree. In higher education, ROI also varies significantly depending on the degree concentration. Degree concentration matters when examining the ROI of Bachelor's degrees, with choice of major accounting for half of the variation in ROI between majors. College degrees with the highest ROI are in engineering, medicine, business, and other sciences. While nearly 40% of degree programs do not deliver a financial return, a bachelor's degree can also have social benefits that can increase ROI, which is often not accounted for in typical ROI calculations. 
+
+
+=== Effects on productivity ===
+Economy-wide, the effect of human capital on incomes has been estimated to be rather significant: 65% of wages paid in developed countries is payments to human capital and only 35% to raw labor. The higher productivity of well-educated workers is one of the factors that explain higher GDPs and, therefore, higher incomes in developed countries. A strong correlation between GDP and education is clearly visible among the countries of the world, as is shown by the upper left figure. 
+Of course, correlation does not imply causation:  It's possible that richer countries choose to spend more on education.  However, Hanushek found that scores on internationally standardized tests of student achievement do better in explaining economic growth than years of schooling, as discussed further below.  
+Multiple studies have found that investing in the education of poor children on average substantially reduces their risk of poverty as adults and increases their life expectancy. Children in the 1962 Perry Preschool program and matched controls have been followed for decades since. The Perry Preschool participants had substantially fewer teenage pregnancies, fewer high school dropouts, less crime and higher incomes on average as adults.  And the results have been intergenerational:  The children of the Perry Preschool children have similarly had fewer school suspensions, higher levels of education and employment, and lower levels of participation in crime, compared with the children of those in the control group.To distinguish the part of GDP explained with education from other causes, Weil has calculated how much one would expect each country's GDP to be higher based on the data on average schooling. This was based on the above-mentioned calculations of Hall and Jones on the returns on education. GDPs predicted by Weil's calculations can be plotted against actual GDPs, as is done in the figure on the left, demonstrating that the variation in education explains some, but not all, of the variation in GDP.
+Finally, the matter of externalities should be considered. Usually when speaking of externalities one thinks of the negative effects of economic activities that are not included in market prices, such as pollution. These are negative externalities. However, there are also positive externalities – that is, positive effects of which someone can benefit without having to pay for it.
+Education bears with it major positive externalities: giving one person more education raises not only his or her output but also the output of those around him or her. Educated workers can bring new technologies, methods and information to the consideration of others. They can teach things to others and act as an example. The positive externalities of education include the effects of personal networks and the roles educated workers play in them.Positive externalities from human capital are one explanation for why governments are involved in education. If people were left on their own, they would not take into account the full social benefit of education – in other words, the rise in the output and wages of others – so the amount they would choose to obtain would be lower than the social optimum.
+
+
+== Demand for education ==
+
+
+=== Liberal approaches ===
+The dominant model of the demand for education is based on human capital theory. The central idea is that undertaking education is investment in the acquisition of skills and knowledge which will increase earnings, or provide long-term benefits such as an appreciation of literature (sometimes referred to as cultural capital). An increase in human capital can follow technological progress as knowledgeable employees are in demand due to the need for their skills, whether it be in understanding the production process or in operating machines. Studies from 1958 attempted to calculate the returns from additional schooling (the percent increase in income acquired through an additional year of schooling). Later results attempted to allow for different returns across persons or by level of education.Statistics have shown that countries with high enrollment/graduation rates have grown faster than countries without.  The United States has been the world leader in educational advances, beginning with the high school movement (1910–1950). There also seems to be a correlation between gender differences in education with the level of growth; more development is observed in countries that have an equal distribution of the percentage of women versus men who graduated from high school. When looking at correlations in the data, education seems to generate economic growth; however, it could be that we have this causality relationship backwards. For example, if education is seen as a luxury good, it may be that richer households are seeking out educational attainment as a symbol of status, rather than the relationship of education leading to wealth.
+Educational advance is not the only variable for economic growth, though, as it only explains about 14% of the average annual increase in labor productivity over the period 1915-2005.  From lack of a more significant correlation between formal educational achievement and productivity growth, some economists see reason to believe that in today's world many skills and capabilities come by way of learning outside of traditional education, or outside of schooling altogether.An alternative model of the demand for education, commonly referred to as screening, is based on the economic theory of signalling. The central idea is that the successful completion of education is a signal of ability.
+
+
+=== Marxist critique ===
+Although Marx and Engels did not write widely about the social functions of education, their concepts and methods are theorized and criticized by the influence of Marx as education being used in reproduction of capitalist societies. Marx and Engels approached scholarship as "revolutionary scholarship" where education should serve as a propaganda for the struggle of the working class. The classical Marxian paradigm sees education as serving the interest of capital and is seeking alternative modes of education that would prepare students and citizens for more progressive socialist mode of social organizations. Marx and Engels understood education and free time as essential to developing free individuals and creating many-sided human beings, thus for them education should become a more essential part of the life of people unlike capitalist society which is organized mainly around work and the production of commodities.
+
+
+== Financing and provision ==
+In most countries school education is predominantly financed and provided by governments. Public funding and provision also plays a major role in higher education. Although there is wide agreement on the principle that education, at least at school level, should be financed mainly by governments, there is considerable debate over the desirable extent of public provision of education. Supporters of public education argue that universal public provision promotes equality of opportunity and social cohesion. Opponents of public provision advocate alternatives such as vouchers.
+
+
+=== Inequalities in education financing ===
+Since the 1960s, government expenditure on education for low and middle-income countries generally increased while spending on education for high-income countries remained relatively constant. Based on educational funding in OECD countries, compensation for teachers drives education spending at all education levels. At the college and university level, spending on instruction decreases but still consumes the majority of education expenditures. Since a majority of public education is funded through local taxes in the US, the wealth of a community affects school district funding. Wealthier communities are able to afford to pay more in income and property taxes, while poorer communities cannot, causing inequalities in public education. One notable inequality that arises from differences in funding is the ability of wealthier schools to afford more qualified educators who are more experienced and can improve student test results. Since many European countries finance education primarily through federal taxes, there is less inequality among schools compared to the US as education spending is more uniform. Equal distribution of education resources has the ability to reduce variation in income by creating a more uniform educational system, which can benefit human capital in the long term.
+
+
+=== Pre-primary education financing ===
+Compared to other areas of basic education, globally comparable data on pre-primary education financing remain scarce. While much of existing non-formal and private programmes may not be fully accounted for, it can be deduced from the level of provision that pre-primary financing remains inadequate, especially when considered against expected benefits. Globally, pre-primary education accounts for the lowest proportion of the total public expenditure on education, in spite of the much-documented positive impact of quality early childhood care and education on later learning and other social outcomes.
+
+
+== Education production function ==
+An education production function is an application of the economic concept of a production function to the field of education. It relates various inputs affecting a student's learning (schools, families, peers, neighborhoods, etc.) to measured outputs including subsequent labor market success, college attendance, graduation rates, and, most frequently, standardized test scores. The original study that eventually prompted interest in the idea of education production functions was by a sociologist, James S. Coleman.  The Coleman Report, published in 1966, concluded that the marginal effect of various school inputs on student achievement was small compared to the impact of families and friends. Later work, by Eric A. Hanushek, Richard Murnane, and other economists introduced the structure of "production" to the consideration of student learning outcomes.  Hanushek et al. (2008, 2015) reported a very high correlation between "adjusted growth rate" and "adjusted test scores".A large number of successive studies, increasingly involving economists, produced inconsistent results about the impact of school resources on student performance, leading to considerable controversy in policy discussions.  The interpretation of the various studies has been very controversial, in part because the findings have directly influenced policy debates.  Two separate lines of study have been particularly widely debated.  The overall question of whether added funds to schools are likely to produce higher achievement (the “money doesn’t matter” debate) has entered into legislative debates and court consideration of school finance systems.  Additionally, policy discussions about class size reduction heightened academic study of the relationship of class size and achievement.
+
+
+== Notable education economists ==
+
+
+== See also ==
+Academic inflation
+Education policy
+Educational devaluation
+The Case Against Education
+
+
+== Sources ==
+ This article incorporates text from a free content work.  Licensed under CC-BY-SA IGO 3.0 (license statement/permission). Text taken from Investing against Evidence: The Global State of Early Childhood Care and Education​, 15, Marope, P.T.M., Kaga, Y., UNESCO. UNESCO.
+
+
+== Notes ==
+
+
+== References ==
+Roland Bénabou, 1996."Heterogeneity, Stratification, and Growth: Macroeconomic Implications of Community Structure and School Finance,"  American Economic Review,86(3) p p. 584- 609.
+Mark Blaug, 1985. "Where Are We Now in the Economics of Education?" Economics of Education Review, 4(1), pp. 17–28. Abstract.
+Clive R. Belfield, ed., 2006.Modern Classics In The Economics Of Education, Elgar.  Description.
+Eric A. Hanushek, 1986. "The economics of schooling:  Production and efficiency in public schools." Journal of Economic Literature 24, no. 3 (September): 1141-1177.
+Eric A. Hanushek, 1992. "The Trade-off between Child Quantity and Quality,"  Journal of Political Economy, 100(1), p p. 84-117.
+Hanushek, Eric A.; Jamison, Dean T.; Jamison, Eliot A.; Woessmann, Ludger (Spring 2008). "Education and Economic Growth: It's not just going to school, but learning something while there that matters". Education Next. 8 (2): 62–70. Retrieved 2016-10-13.
+Stephen A. Hoenack, 1996. "The Economics of Education in Developing Countries: An Assessment of the State of the Art," Economics of Education Review,  15(4), pp. 327–338. Abstract.
+Caroline M. Hoxby, 1999. "The Productivity of Schools and Other Local Public Goods Producers," Journal of Public Economics, 74(1), pp. 1–30 Abstract.
+_____, 2000. "Does Competition among Public Schools Benefit Students and Taxpayers?" American Economic Review, 90(5), p p. 1209- 1238.
+Geraint Johnes and Jill Johnes, ed., 2004. International Handbook on the Economics of Education, Elgar.
+George Psacharopoulos and Harry A. Patrinos, 2004. "Returns to Investment in Education: A Further Update," Education Economics, 12(2), pp. 111–134.
+Steven G. Rivkin, Eric A. Hanushek, and John F. Kain, 2005. "Teachers, Schools, and Academic Achievement," Econometrica, 73(2), pp. 417–458.
+Sherwin Rosen, 1987. "human capital," The New Palgrave: A Dictionary of Economics, v. 2, pp. 681–90.Selected entries on education from The New Palgrave Dictionary of Economics, 2008), 2nd Edition:
+
+"education in developing countries" by Paul Glewwe. Abstract.
+"human capital, fertility and growth" by Oded Galor. Abstract.
+"intergenerational transmission" by Lance Lochner.Abstract.
+"local public finance" by John M. Quigley.  Abstract.
+"population health, economic implications of" by David Canning and David E. Bloom.  Abstract.
+
+
+== Further reading ==
+Hanushek, Eric (2013). Endangering Prosperity: A Global View of the American School. Brookings Institution. ISBN 978-0-8157-0373-0.
+Hanushek, Eric (2009). Schoolhouses, Courthouses, and Statehouses: Solving the Funding-Achievement Puzzle in America's Public Schools. Princeton University Press. ISBN 978-0-691-13000-2.
+
+
+== External links ==
+World Bank,  "Economics of Education"
+OECD's Education GPS: a review of education policy analysis and statistics.

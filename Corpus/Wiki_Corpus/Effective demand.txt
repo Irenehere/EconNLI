@@ -1,0 +1,34 @@
+In economics, effective demand (ED) in a market is the demand for a product or service which occurs when purchasers are constrained in a different market.  It contrasts with notional demand, which is the demand that occurs when purchasers are not constrained in any other market.  In the aggregated market for goods in general, demand, notional or effective, is referred to as aggregate demand. The concept of effective supply parallels the concept of effective demand.  The concept of effective demand or supply becomes relevant when markets do not continuously maintain equilibrium prices.
+
+
+== Examples of spillovers ==
+One example involves spillovers from the labor market to the goods market. If there is labour market disequilibrium such that individuals cannot supply all the labor they want to supply, then the amount that they are able to supply will influence their demand for goods; the demand for goods, contingent on the constraint on the amount of labor that can be supplied, is their effective demand for goods.  In contrast, if there were no labor market disequilibrium, individuals would simultaneously choose both their quantity of labor to supply and the quantity of goods to purchase, and the latter would be their notional demand for goods.  In this example, the effective demand for goods would be less than the notional demand for goods.
+Conversely, if there are goods market shortages, individuals may choose to supply less labor (and enjoy more leisure) than they would in the absence of goods market disequilibrium. The amount of labor they choose to supply, contingent on the constraint on the number of goods they can buy, is the effective supply of labor.
+Another example involves spillovers from credit markets to the goods market.  If there is credit rationing, some individuals are constrained in the number of funds they can borrow to finance goods purchases (including consumer durables and houses), so their effective demand for goods, as a function of this constraint, is less than their notional demand for goods (the amount they would buy if they could borrow all they want to).
+Firms can also exhibit effective demands or supplies that differ from notional demands or supplies. They too can be credit constrained, resulting in their effective demand for goods such as physical capital differing from their notional demand.  In addition, in a time of labor shortage, they are constrained in how much labor they can employ; therefore the number of goods they choose to supply at any potential goods price—their effective supply of goods—will be less than their notional supply.  And if firms are constrained by excess supply in the goods market, limiting how much goods they can sell, then their effective demand for labor will be less than their notional demand for labor.
+The excess demands in different markets can influence each other.  The presence of excess demand in one market influences effective demand or supply in another market, which may influence the degree of disequilibrium in the latter market; in turn, the constraints imposed on participants in that market influence their effective demand or supply in the former market.
+
+
+== History ==
+Classical economist David Ricardo embraced Say's Law, suggesting, in Keynes's formulation, that "supply creates its own demand". According to Say's Law, for every excess supply (glut) of goods in one market, there is a corresponding excess demand (shortage) in another. This theory suggests that a general glut can never be accompanied by inadequate demand for products on a macroeconomic level. In the challenge of Say's Law, Thomas Malthus, Jean Charles Leonard de Sismondi and other 19th century economists argued that "effective demand" is the foundation of a stable economy. Responding to the Great Depression of the 20th century, in the 1930s Michał Kalecki and John Maynard Keynes concurred with the latter theory, suggesting that "demand creates its own supply" and developing a comprehensive theory of effective demand.
+According to Keynesian economics, weak demand results in unplanned accumulation of inventories, leading to diminished production and income, and increased unemployment. This triggers a multiplier effect which draws the economy toward underemployment equilibrium. By the same token, strong demand results in unplanned reduction of inventories, which tends to increase production, employment, and incomes. If entrepreneurs consider such trends sustainable, investments typically increase, thereby improving potential levels of production.
+In the 1960s, Robert Clower and Axel Leijonhufvud did further work on effective demand, and in the 1970s Robert Barro and Herschel Grossman published a well-known model of spillover effects upon effective demand.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Buiter, Willem, and Lorie, Henri, "Some unfamiliar properties of a familiar macroeconomic model," The Economic Journal, December 1977, 743-754.
+Huw Dixon, Reflections on New Keynesian Economics, Surfing Economics, 2001, chapter 4.
+Korliras, Panayotis, "A disequilibrium macroeconomic model," Quarterly Journal of Economics, February 1975, 56-80.
+Lambert, Edward, “Modeling an Effective Demand Limit to the Business Cycle” Effective Demand blog. 12/28/2014.
+Lambert, Edward, “Synopsis of Effective Demand.” Effective Demand blog. 9/24/2015.
+Lorie, Henri, "Price-quantity adjustments in a macro-disequilibrium model," Economic Inquiry, April 1978, 265-287.
+Tucker, Donald, "Credit rationing, interest rate lags, and monetary policy speed," Quarterly Journal of Economics, February 1968, 54-84.
+Tucker, Donald, "Macroeconomic models and the demand for money under market disequilibrium," Journal of Money, Credit and Banking, February 1971, 57-83.
+Varian, H., "The stability of a disequilibrium IS-LM model," Scandinavian Journal of Economics, 1977(2), 260-270.
+Vianello, F. [1989], “Effective Demand and the Rate of Profits: Some Thoughts on Marx, Kalecki and Sraffa”, in: Sebastiani, M. (ed.), Kalecki's Relevance Today, London, Macmillan, ISBN 978-03-12-02411-6.

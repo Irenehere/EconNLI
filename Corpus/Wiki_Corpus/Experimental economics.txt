@@ -1,0 +1,111 @@
+Experimental economics is the application of experimental methods to study economic questions. Data collected in experiments are used to estimate effect size, test the validity of economic theories, and illuminate market mechanisms. Economic experiments usually use cash to motivate subjects, in order to mimic real-world incentives. Experiments are used to help understand how and why markets and other exchange systems function as they do. Experimental economics have also expanded to understand institutions and the law (experimental law and economics).A fundamental aspect of the subject is design of experiments. Experiments may be conducted in the field or in laboratory settings, whether of individual or group behavior.Variants of the subject outside such formal confines include natural and quasi-natural experiments.
+
+
+== Experimental topics ==
+One can loosely classify economic experiments using the following topics:
+
+Markets
+Games
+Evolutionary game theory
+Decision making
+Bargaining
+Contracts
+Auctions
+Coordination
+Social Preferences
+Learning
+Matching
+Field ExperimentsWithin economics education, one application involves experiments used in the teaching of economics.  An alternative approach with experimental dimensions is agent-based computational modeling. It is important to consider the potential and constraints of games for understanding rational behavior and solving human conflict.
+
+
+=== Coordination games ===
+Coordination games are games with multiple pure strategy Nash equilibria. There are two general sets of questions that experimental economists typically ask when examining such games: (1) Can laboratory subjects coordinate, or learn to coordinate, on one of multiple equilibria, and if so are there general principles that can help predict which equilibrium is likely to be chosen? (2) Can laboratory subjects coordinate, or learn to coordinate, on the Pareto best equilibrium and if not, are there conditions or mechanisms which would help subjects coordinate on the Pareto best equilibrium?  Deductive selection principles are those that allow predictions based on the properties of the game alone. Inductive selection principles are those that allow predictions based on characterizations of dynamics. Under some conditions at least groups of experimental subjects can coordinate even complex non-obvious asymmetric Pareto-best equilibria. This is even though all subjects decide simultaneously and independently without communication. The way by which this happens is not yet fully understood.
+
+
+=== Learning experiments ===
+Economic theories often assume that economic incentives can shape behavior even when individual agents have limited understanding of the environment. The relationship between economic incentives and outcomes may be indirect: The economic incentives determine the agents’ experience, and these experiences may then drive future actions.
+Learning experiments can be classified as individual choice tasks or games, where games typically refer to strategic interactions of two or more players. Oftentimes, the general patterns of learning behavior can be best illustrated with individual choice tasks.In games of two players or more, the subjects often form beliefs about what actions the other subjects are taking and these beliefs are updated over time. This is known as belief learning. Subjects also tend to make the same decisions that have rewarded them with high payoffs in the past. This is known as reinforcement learning.
+Until the 1990s, simple adaptive models, such as Cournot competition or fictitious play, were generally used. In the mid-1990s, Alvin E. Roth and Ido Erev demonstrated that reinforcement learning can make useful predictions in experimental games. In 1999, Colin Camerer and Teck-Hua Ho introduced Experience Weighted Attraction (EWA), a general model that incorporated reinforcement and belief learning, and shows that fictitious play is mathematically equivalent to generalized reinforcement, provided weights are placed on past history.
+Criticisms of EWA include overfitting due to many parameters, lack of generality over games, and the possibility that the interpretation of EWA parameters may be difficult. Overfitting is addressed by estimating parameters on some of the experimental periods or experimental subjects and forecasting behavior in the remaining sample (if models are overfitting, these out-of-sample validation forecasts will be much less accurate than in-sample fits, which they generally are not). Generality in games is addressed by replacing fixed parameters with "self-tuning" functions of experience, allowing pseudo-parameters to change over the course of a game and to also vary systematically across games.
+Modern experimental economists have done much notable work recently. Roberto Weber has raised issues of learning without feedback. David Cooper and John Kagel have investigated types of learning over similar strategies. Ido Erev and Greg Barron have looked at learning in cognitive strategies. Dale Stahl has characterized learning over decision making rules. Charles A. Holt has studied logit learning in different kinds of games, including games with multiple equilibria. Wilfred Amaldoss has looked at interesting applications of EWA in marketing. Amnon Rapoport, Jim Parco and Ryan Murphy have investigated reinforcement-based adaptive learning models in one of the most celebrated paradoxes in game theory known as the centipede game.
+
+
+=== Market games ===
+Edward Chamberlin is thought to have conducted "not only the first market experiment, but also the first economic experiment of any kind." Vernon Smith, drawing on Chamberlin's work, but also modifying it in key respects, conducted pioneering economics experiments on the convergence of prices and quantities to their theoretical competitive equilibrium values in experimental markets. Smith studied the behavior of "buyers" and "sellers", who are told how much they "value" a fictitious commodity and then are asked to competitively "bid" or "ask" on these commodities following the rules of various real world market institutions (e.g., the Double auction as well the English and Dutch auctions). Smith found that in some forms of centralized trading, prices and quantities traded in such markets converge on the values that would be predicted by the economic theory of perfect competition, despite the conditions not meeting many of the assumptions of perfect competition (large numbers, perfect information).
+Over the years, Smith pioneered – along with other collaborators – the use of controlled laboratory experiments in economics, and established it as a legitimate tool in economics and other related fields. Charles Plott of the California Institute of Technology collaborated with Smith in the 1970s and pioneered experiments in political science, as well as using experiments to inform economic design or engineering to inform policies. In 2002, Smith was awarded (jointly with Daniel Kahneman) the Bank of Sweden Prize in Economic Sciences "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms".
+
+
+=== Finance ===
+Experimental finance studies financial markets with the goals of establishing different market settings and environments to observe experimentally and analyze agents' behavior and the resulting characteristics of trading flows, information diffusion and aggregation, price setting mechanism and returns processes. Presently, researchers use simulation software to conduct their research.
+For instance, experiments have manipulated information asymmetry about the holding value of a bond or a share on the pricing for those who don't have enough information, in order to study stock market bubbles.
+
+
+=== Social preferences ===
+
+The term "social preferences" refers to the concern (or lack thereof) that people have for each other's well-being, and it encompasses altruism, spitefulness, tastes for equality, and tastes for reciprocity. Experiments on social preferences generally study economic games including the dictator game, the ultimatum game, the trust game, the gift-exchange game, the public goods game, and modifications to these canonical settings.
+As one example of results, ultimatum game experiments have shown that people are generally willing to sacrifice monetary rewards when offered low allocations, thus behaving inconsistently with simple models of self-interest. Economic experiments have measured how this deviation varies across cultures.
+
+
+=== Contracts ===
+Contract theory is concerned with providing incentives in situations in which some variables cannot be observed by all parties. Hence, contract theory is difficult to test in the field: If the researcher could verify the relevant variables, then the contractual parties could contract on these variables, hence any interesting contract-theoretic problem would disappear. Yet, in laboratory experiments it is possible to directly test contract-theoretic models. For instance, researchers have experimentally studied moral hazard theory, adverse selection theory, exclusive contracting, deferred compensation, the hold-up problem, flexible versus rigid contracts, and models with endogenous information structures.
+
+
+=== Agent-based computational modeling ===
+Agent-based computational modeling is a relatively recent method in economics with experimental dimensions.  Here the focus is on economic processes, including whole economies, as dynamic systems of interacting agents,  an application of the complex adaptive systems paradigm.  The "agent" refers to "computational objects modeled as interacting according to rules," not real people. Agents can represent social and/or physical entities. Starting from initial conditions determined by the modeler, an ACE model develops forward through time driven solely by agent interactions.  Issues include those common to experimental economics in general and by comparison as well as development of a common framework for empirical validation and resolving open questions in agent-based modeling.
+
+
+== Methodology ==
+
+
+=== Guidelines ===
+Experimental economists generally adhere to the following methodological guidelines:
+
+Incentivize subjects with real monetary payoffs.
+Publish full experimental instructions.
+Do not use deception.
+Avoid introducing specific, concrete context.
+
+
+=== Critiques ===
+The above guidelines have developed in large part to address two central critiques. Specifically, economics experiments are often challenged because of concerns about their "internal validity" and "external validity", for example, that they are not applicable models for many types of economic behavior, so the experiments simply aren't good enough to produce useful answers. However, none of the critiques towards this methodology are specific to it, as they are immediately applicable to either theoretical or empirical approaches or both.
+
+
+== Software tools ==
+The most famous software for conducting experimental economics research is z-Tree, which is developed by Urs Fischbacher from 1998 on. It had about 9460 citation results counted on Google Scholar in February 2020. It transcripts as Zurich Toolbox for Readymade Economic Experiments and was one of the reasons for the Joachim Herz Research prize for "Best research work" awarded to Fischbacher in Dezember 2016.
+z-Tree is a software, which runs on a network of computers in a research lab. One of the computers is used by experimenters and the other computers are used by the subjects of experiment. The setup of an experiment is variable and can be defined in the imperative language z-Tree programming language. This language allows the experimenter to set up a variety of experiments and additional surveys.
+Alternatively, there is a big number of competing alternative software. Following table presents a growing list of software tools for experimental economics:
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Battalio, Raymond C., et al., 1973. "A Test of Consumer Demand Theory Using Observations of Individual Consumer Purchases," Economic Inquiry, 11(4), pp. 411–428
+Bayer, R. C., & Renou, L. (2011). Cognitive abilities and behavior in strategic-form games. Discussion Papers in Economics 11/16, Department of Economics, University of Leicester
+Camerer, Colin, George Loewenstein, and Drazen Prelec, 2005. "Neuroeconomics: How Neuroscience Can Inform Economics," Journal of Economic Literature, 43(1), pp. 9–64
+Chamberlin, Edward H.,  1948. "An Experimental Imperfect Market," Journal of Political Economy, 56(2), pp. 95–108
+Coursey, Don (2008). "Experimental Economics". In Henderson, David R. (ed.). The Concise Encyclopedia of Economics. Indianapolis, IN: Liberty Fund, Inc. pp. 166–169. ISBN 978-0865976665.
+Davis, Douglas D., and Charles A. Holt, 1993. Experimental Economics, Princeton. Description, preview and ch. 1 (complete)
+Falk, Armin and Simon Gächter, 2008. "experimental labour economics," The New Palgrave Dictionary of Economics, 2nd Edition. Abstract and galley proof
+Friedman, Daniel, and Shyam Sunder, 1994. Experimental Methods: A Primer for Economists, Cambridge University Press. Description/contents links and scrollable preview. ISBN 978-0521456821
+Grether, David M., and Charles R. Plott, 1979. "Economic Theory of Choice and the Preference Reversal Phenomenon," American Economic Review, 69(4 ), pp. 623–638
+Guala, Francesco, 2005. The Methodology of Experimental Economics, Cambridge. Description/contents links and ch. 1 excerpt
+Gunnthorsdottir Anna, Vragov Roumen, Seifert Stefan and Kevin McCabe, 2010. "Near-efficient equilibria in contribution-based competitive grouping," Journal of Public Economics, 94, pp. 987–994.[2]
+Hertwig, Ralph, and Andreas Ortmann, 2001. "Experimental Practices in Economics : A Methodological Challenge for Psychologists?" Behavioral and Brain Sciences, 24(3), pp. 383–403
+Holt, Charles A., and Susan K. Laury, 2002. "Risk Aversion and Incentive Effects," American Economic Review, 92(5) pp. 1644–1655
+Kagel, John H. et al., 1975. "Experimental Studies of Consumer Demand Behavior Using Laboratory Animals," Economic Inquiry, 13(1), pp. 22–38. Abstract
+Kagel, John H., and Alvin E. Roth, ed.,  1995. The Handbook of Experimental Economics, Princeton University Press. Description/TOC and detailed contents.
+Kahneman Daniel, Jack L. Knetsch, and Richard Thaler, 1986. "Fairness as a Constraint on Profit Seeking: Entitlements in the Market," American Economic Review, 76(4), pp. 728–741
+Plott, Charles R., 1982.  "Industrial Organization Theory and Experimental Economics," Journal of Economic Literature, 20(4), pp. 1485–1527. Reprinted in Plott, 2001,  Market Institutions and Price Discovery, pp. 18–59. Elgar.  Description
+_____ and Susan K. Laury, 2002. "Risk Aversion and Incentive Effects," American Economic Review, 92(5) pp. 1644–1655
+Plott, Charles R., and Vernon L. Smith, 2008. Handbook of Experimental Economics Results, v. 1, Elsevier. Description and chapter-link previews
+Roth, Alvin E., and Michael W Malouf, 1979. "Game-theoretic Models and the Role of Information in Bargaining," Psychological Review, 86(6), pp. 574–594
+Serra, Daniel et al., 2012. Experimental economics: Some methodological aspects, special issue of the Review of Philosophical Economics, 2012/1 (vol 13), 192 p. (ISBN 978-2711652068)
+Smith, Vernon L., 1962.  "An Experimental Study of Competitive Market Behavior," Journal of Political Economy, 70(2), pp. 111–137
+____, 1982. "Microeconomic Systems as an Experimental Science,"  American Economic Review, 72(5), pp. 923–955
+_____, 1991. Papers in Experimental Economics [1962–88],  Cambridge. Description and chapter-preview links
+_____, [1987] 2008. "Experimental Methods in Economics," The New Palgrave Dictionary of Economics, 2nd Edition. Abstract Archived 2011-05-15 at the Wayback Machine
+Smith, Vernon L.; Wilson, Bart (2008). "Economics, Experimental". In Hamowy, Ronald (ed.). The Encyclopedia of Libertarianism. Thousand Oaks, CA: Sage; Cato Institute. pp. 137–138. doi:10.4135/9781412965811.n86. ISBN 978-1412965804. LCCN 2008009151. OCLC 750831024.

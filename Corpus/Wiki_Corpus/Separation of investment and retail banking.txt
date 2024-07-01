@@ -1,0 +1,31 @@
+The separation of investment and retail banking aims to protect the "utility" aspects of day-to-day banking from being endangered by losses sustained by higher-risk investment activities ("casino banking"). This can take the form of a two-tier structure in which a company is banned from doing both activities, or enforcing a legal ring-fence between two divisions of a company. Banks have resisted this separation saying that it increases costs for consumers.
+Historically retail banks have used cash deposited by savers for investment activities. Following the Wall Street Crash of 1929 the United States sought to reduce the risk of savings being used to pay losses incurred on bad investments with the Glass–Steagall legislation of 1933 which restricted affiliations between banks and securities firms. This legislation was weakened in the 1990s, culminating in its abolition in 1999 by the Gramm–Leach–Bliley Act. This triggered a spate of international mergers,  creating companies so vital to the running of the global financial system that they were "too big to fail". Investment losses in the financial crisis of 2007–2008 threatened to bankrupt these systemically important banks and national governments felt obliged to bail them out at great cost.
+Since then governments have tried to reduce the likelihood of future bailouts by separating investment banking and retail banking. The United States response came in the form of the Dodd-Frank Act of 2010, although full implementation of the Volcker Rule that restricts proprietary trading by retail banks has been postponed until at least 2017. In the United Kingdom the 2011 Vickers report of the Independent Commission on Banking has recommended the ring fencing of retail from investment banking by 2019. In the Eurozone the Liikanen report of 2012 recommended a similar ring-fence between the two activities.
+
+
+== Mechanisms ==
+Glass–Steagall insisted that investment and retail banking were performed by completely separate organisations. More recent legislation in Europe has concentrated on setting up legal barriers between different divisions of the same bank, to protect retail deposits from investment losses; Liikanen required the biggest investment divisions to hold their own capital for trading purposes.
+
+
+== Disadvantages ==
+The banks have resisted efforts to split investment and retail banking on the grounds that it would cost billions to establish and reduce their profits.
+
+
+== Eurozone ==
+The Liikanen report or "Report of the European Commission’s High-level Expert Group on Bank Structural Reform" was published in October 2012 by a group of experts led by Erkki Liikanen, governor of the Bank of Finland and ECB council member.
+
+
+== Japan ==
+A series of bank failures in the mid 1920s led to the Bank Law of 1927, which defined the regular business of banks as deposit-taking, money-lending, discounting of bills and notes, and exchange transactions whilst prohibiting them from engaging in other business. But it allowed banks to hold the shares of other companies (later restricted by the Antimonopoly Law of 1947), and did not restrict the use of shares as securities for loans. Article 65 of the Securities and Exchange Law of 1948 was modelled after the Glass-Steagall legislation in the US, but allows banks to hold securities for investment purposes so does little to protect depositors. The Bank Law of 1981 allowed banks to deal in government bonds.
+
+
+== United Kingdom ==
+The Independent Commission on Banking, chaired by John Vickers, was established in June 2010 and produced its final report in September 2011. Its headline recommendation was that British banks should 'ring-fence' their retail banking divisions from their investment banking arms to safeguard against riskier banking activities, but it also made a number of other recommendations on bank capital requirements and competition in retail banking. The government announced the same day that it would introduce legislation into Parliament aimed at implementing the recommendations.
+
+
+== United States ==
+The Glass–Steagall Act describes four provisions of the Banking Act of 1933 that limited securities, activities, and affiliations within commercial banks and securities firms. Starting in the early 1960s, federal banking regulators interpreted provisions of the Glass–Steagall Act to permit commercial banks and especially commercial bank affiliates to engage in an expanding list and volume of securities activities. Congressional efforts to "repeal the Glass–Steagall Act", referring to those four provisions (and then usually to only the two provisions that restricted affiliations between commercial banks and securities firms), culminated in the 1999 Gramm–Leach–Bliley Act (GLBA), which repealed the two provisions restricting affiliations between banks and securities firms.
+By that time, many commentators argued Glass–Steagall was already "dead". Most notably, Citibank's 1998 affiliation with Salomon Smith Barney, one of the largest US securities firms, was permitted under the Federal Reserve Board's then existing interpretation of the Glass–Steagall Act. President Bill Clinton publicly declared "the Glass–Steagall law is no longer appropriate".Many commentators have stated that the GLBA's repeal of the affiliation restrictions of the Glass–Steagall Act was an important cause of the financial crisis of 2007–08. Economists at the Federal Reserve, such as Ben Bernanke, have argued that the activities linked to the financial crisis were not prohibited (or, in most cases, even regulated) by the Glass–Steagall Act.
+
+
+== References ==

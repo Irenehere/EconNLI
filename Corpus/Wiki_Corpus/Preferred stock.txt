@@ -1,0 +1,100 @@
+Preferred stock (also called preferred shares, preference shares, or simply preferreds) is a component of share capital that may have any combination of features not possessed by common stock, including properties of both an equity and a debt instrument, and is generally considered a hybrid instrument. Preferred stocks are senior (i.e., higher ranking) to common stock but subordinate to bonds in terms of claim (or rights to their share of the assets of the company, given that such assets are payable to the returnee stock bond) and may have priority over common stock (ordinary shares) in the payment of dividends and upon liquidation. Terms of the preferred stock are described in the issuing company's articles of association or articles of incorporation.
+Like bonds, preferred stocks are rated by major credit rating agencies. Their ratings are generally lower than those of bonds, because preferred dividends do not carry the same guarantees as interest payments from bonds, and because preferred-stock holders' claims are junior to those of all creditors.
+Preferred equity has characteristics similar to preferred stock, but the term is typically used for investments in real estate or other private investments where the common stock is not publicly traded, so private equity has no public credit rating.
+
+
+== Features ==
+Features usually associated with preferred stock include:
+Preference in dividends
+Preference in assets, in the event of liquidation
+Convertibility to common stock
+Callability (ability to be redeemed before maturity) at the corporation's option (possibly subject to a spens clause)
+Nonvoting
+Higher dividend yields
+
+
+=== Preference in dividends ===
+In general, preferred stock has preference in dividend payments. The preference does not assure the payment of dividends, but the company must pay the stated dividends on preferred stock before or at the same time as any dividends on common stock.
+Preferred stock can be cumulative or noncumulative. A cumulative preferred requires that if a company fails to pay a dividend (or pays less than the stated rate), it must make up for it at a later time in order to ever pay common-stock dividends again. Dividends accumulate with each passed dividend period (which may be quarterly, semi-annually or annually). When a dividend is not paid in time, it has "passed"; all passed dividends on a cumulative stock make up a dividend in arrears. A stock without this feature is known as a noncumulative, or straight, preferred stock; any dividends passed are lost if not declared.
+
+
+=== Other features or rights ===
+Preferred stock may or may not have a fixed liquidation value (or par value) associated with it. This represents the amount of capital that was contributed to the corporation when the shares were first issued.
+Preferred stock has a claim on liquidation proceeds of a stock corporation equal to its par (or liquidation) value, unless otherwise negotiated. This claim is senior to that of common stock, which has only a residual claim.
+Almost all preferred shares have a negotiated, fixed-dividend amount. The dividend is usually specified as a percentage of the par value or as a fixed amount (for example, Pacific Gas & Electric 6% Series A Preferred). Sometimes, dividends on preferred shares may be negotiated as floating; they may change according to a benchmark interest-rate index (such as LIBOR).
+Some preferred shares have special voting rights to approve extraordinary events (such as the issuance of new shares or approval of the acquisition of a company) or to elect directors, but most preferred shares have no voting rights associated with them; some preferred shares gain voting rights when the preferred dividends are in arrears for a substantial time. This is all variable on the rights assigned to the preferred shares at the time of incorporation.The above list (which includes several customary rights) is not comprehensive; preferred shares (like other legal arrangements) may specify nearly any right conceivable. Preferred shares in the U.S. normally carry a call provision, enabling the issuing corporation to repurchase the share at its (usually limited) discretion.
+
+
+== Types ==
+In addition to straight preferred stock, there is diversity in the preferred stock market. Additional types of preferred stock include:
+
+Prior preferred stock—Many companies have different issues of preferred stock outstanding at one time; one issue is usually designated highest-priority. If the company has only enough money to meet the dividend schedule on one of the preferred issues, it makes the payments on the prior preferred. Therefore, prior preferreds have less credit risk than other preferred stocks (but usually offer a lower yield).
+Preference preferred stock—Ranked behind a company's prior preferred stock (on a seniority basis) are its preference preferred issues. These issues receive preference over all other classes of the company's preferred (except for prior preferred). If the company issues more than one issue of preference preferred, the issues are ranked by seniority. One issue is designated first preference, the next-senior issue is the second and so on.
+Convertible preferred stock—These are preferred issues that holders can exchange for a predetermined number of the company's common-stock shares. This exchange may occur at any time the investor chooses, regardless of the market price of the common stock. It is a one-way deal; one cannot convert the common stock back to preferred stock. A variant of this is the anti-dilutive convertible preferred recently made popular by investment banker Stan Medley who structured several variants of these preferred for some forty plus public companies. In the variants used by Stan Medley, the preferred share converts to either a percentage of the company's common shares or a fixed dollar amount of common shares rather than a set number of shares of common. The intention is to ameliorate the bad effects investors suffer from rampant shorting and dilutive efforts on the OTC markets.
+
+Cumulative preferred stock—If the dividend is not paid, it will accumulate for future payment.
+Non-cumulative preferred stock—Dividends for this type of preferred stock will not accumulate if they are unpaid; very common in TRuPS and bank preferred stock, since under BIS rules preferred stock must be non-cumulative if it is to be included in Tier 1 capital.
+Exchangeable preferred stock—This type of preferred stock carries an embedded option to be exchanged for some other security.
+Participating preferred stock—These preferred issues offer holders the opportunity to receive extra dividends if the company achieves predetermined financial goals. Investors who purchased these stocks receive their regular dividend regardless of company performance (assuming the company does well enough to make its annual dividend payments). If the company achieves predetermined sales, earnings or profitability goals, the investors receive an additional dividend.
+Perpetual preferred stock—This type of preferred stock has no fixed date on which invested capital will be returned to the shareholder (although there are redemption privileges held by the corporation); most preferred stock is issued without a redemption date.
+Putable preferred stock—These issues have a "put" privilege, whereby the holder may (under certain conditions) force the issuer to redeem shares.
+Monthly income preferred stock—A combination of preferred stock and subordinated debt.
+
+
+== Usage ==
+Preferred stocks offer a company an alternative form of financing—for example through pension-led funding; in some cases, a company can defer dividends by going into arrears with little penalty or risk to its credit rating, however, such action could have a negative impact on the company meeting the terms of its financing contract. With traditional debt, payments are required; a missed payment would put the company in default.
+Occasionally, companies use preferred shares as means of preventing hostile takeovers, creating preferred shares with a poison pill (or forced-exchange or conversion features) that is exercised upon a change in control. Some corporations contain provisions in their charters authorizing the issuance of preferred stock whose terms and conditions may be determined by the board of directors when issued. These "blank checks" are often used as a takeover defense; they may be assigned very high liquidation value (which must be redeemed in the event of a change of control), or may have great super-voting powers.
+When a corporation goes bankrupt, there may be enough money to repay holders of preferred issues known as "senior" but not enough money for "junior" issues. Therefore, when preferred shares are first issued, their governing document may contain protective provisions preventing the issuance of new preferred shares with a senior claim. Individual series of preferred shares may have a senior, pari-passu (equal), or junior relationship with other series issued by the same corporation.
+
+
+== Users ==
+Preferred shares are more common in private or pre-public companies, where it is useful to distinguish between the control of and the economic interest in the company. Government regulations and the rules of stock exchanges may either encourage or discourage the issuance of publicly traded preferred shares. In many countries, banks are encouraged to issue preferred stock as a source of Tier 1 capital. 
+A company may issue several classes of preferred stock. A company raising venture capital or other funding may undergo several rounds of financing, with each round receiving separate rights and having a separate class of preferred stock. Such a company might have "Series A Preferred", "Series B Preferred", "Series C Preferred", and corresponding shares of common stock. Typically, company founders and employees receive common stock, while venture capital investors receive preferred shares, often with a liquidation preference. The preferred shares are typically converted to common shares with the completion of an initial public offering or acquisition. An additional advantage of issuing preferred shares to investors but common shares to employees is the ability to retain a lower 409(a) valuation for common shares and thus a lower strike price for incentive stock options. This allows employees to receive more gains on their stock.In the United States there are two types of preferred stocks: straight preferreds and convertible preferreds. Straight preferreds are issued in perpetuity (although some are subject to call by the issuer, under certain conditions) and pay a stipulated dividend rate to the holder. Convertible preferreds—in addition to the foregoing features of a straight preferred—contain a provision by which the holder may convert the preferred into the common stock of the company (or sometimes, into the common stock of an affiliated company) under certain conditions (among which may be the specification of a future date when conversion may begin, a certain number of common shares per preferred share, or a certain price per share for the common stock).
+There are income-tax advantages generally available to corporations investing in preferred stocks in the United States. See Dividends received deduction.
+But for individuals, a straight preferred stock, a hybrid between a bond and a stock, bears some disadvantages of each type of securities without enjoying the advantages of either. Like a bond, a straight preferred does not participate in future earnings and dividend growth of the company, or growth in the price of the common stock. However, a bond has greater security than the preferred and has a maturity date at which the principal is to be repaid. Like the common, the preferred has less security protection than the bond. However, the potential increase in the market price of the common (and its dividends, paid from future growth of the company) is lacking for the preferred. One advantage of the preferred to its issuer is that the preferred receives better equity credit at rating agencies than straight debt (since it is usually perpetual). Also, certain types of preferred stock qualify as Tier 1 capital; this allows financial institutions to satisfy regulatory requirements without diluting common shareholders. Through preferred stock, financial institutions are able to gain leverage while receiving Tier 1 equity credit.
+If an investor paid par ($100) today for a typical straight preferred, such an investment would give a current yield of just over six percent. If, in a few years, 10-year Treasuries were to yield more than 13 percent to maturity (as they did in 1981) these preferreds would yield at least 13 percent; since the rate of dividend is fixed, this would reduce their market price to $46, a 54-percent loss. The difference between straight preferreds and Treasuries (or any investment-grade Federal-agency or corporate bond) is that the bonds would move up to par as their maturity date approaches; however, the straight preferred (having no maturity date) might remain at these $40 levels (or lower) for a long time.
+Advantages of straight preferreds may include higher yields and—in the U.S. at least—tax advantages; they yield about 2 percent more than 10-year Treasuries, rank ahead of common stock in case of bankruptcy and dividends are taxable at a maximum rate of 15% rather than at ordinary-income rates (as with bond interest).
+
+
+== Advantages of preference shares ==
+No obligation for dividends: A company is not bound to pay a dividend on preference shares if its profits in a particular year are insufficient. It can postpone the dividend in case of cumulative preference shares also. No fixed burden is created on its finances.
+No interference: Generally, preference shares do not carry voting rights. Therefore, a company can raise capital without dilution of control. Equity shareholders retain exclusive control over the company.
+Trading on equity: The rate of dividend on preference shares is fixed. Therefore, with the rise in its earnings, the company can provide the benefits of trading on equity to the equity shareholders.
+No charge on assets: Preference shares do not create any mortgage or charge on the assets of the company. The company can keep its fixed assets free for raising loans in future
+Variety: Different types of preference shares can be issued depending on the needs of investors. Participating preference shares or convertible preference shares may be issued to attract bold and enterprising investors.
+
+
+== Country-by-country perspectives ==
+
+
+=== Canada ===
+Preferred shares represent a significant portion of Canadian capital markets, with over C$11.2 billion in new preferred shares issued in 2016. Many Canadian issuers are financial organizations that may count capital raised in the preferred-share market as Tier 1 capital (provided that the shares issued are perpetual). Another class of issuer includes split share corporations. Investors in Canadian preferred shares are generally those who wish to hold fixed-income investments in a taxable portfolio. Preferential tax treatment of dividend income (as opposed to interest income) may, in many cases, result in a greater after-tax return than might be achieved with bonds.
+Preferred shares are often used by private corporations to achieve Canadian tax objectives. For instance, the use of preferred shares can allow a business to accomplish an estate freeze. By transferring common shares in exchange for fixed-value preferred shares, business owners can allow future gains in the value of the business to accrue to others (such as a discretionary trust).
+
+
+=== Germany ===
+The rights of holders of preference shares in Germany are usually rather similar to those of ordinary shares, except for some dividend preference and no voting right in many topics of shareholders' meetings. Preference shares in German stock exchanges are usually indicated with V, VA, or Vz (short for Vorzugsaktie)—for example, "BMW Vz"—in contrast to St, StA (short for Stammaktie), or NA (short for Namensaktie) for standard shares. Preference shares with multiple voting rights (e.g., at RWE or Siemens) have been abolished.
+Preferred stock may comprise up to half of total equity. It is convertible into common stock, but its conversion requires approval by a majority vote at the stockholders' meeting. If the vote passes, German law requires consensus with preferred stockholders to convert their stock (which is usually encouraged by offering a one-time premium to preferred stockholders). The firm's intention to do so may arise from its financial policy (i.e. its ranking in a specific index). Industry stock indices usually do not consider preferred stock in determining the daily trading volume of a company's stock; for example, they do not qualify the company for a listing due to a low trading volume in common stocks.
+
+
+=== United Kingdom ===
+Perpetual non-cumulative preference shares may be included as Tier 1 capital. Perpetual cumulative preferred shares are Upper Tier 2 capital. Dated preferred shares (normally having an original maturity of at least five years) may be included in Lower Tier 2 capital.
+
+
+=== United States ===
+In the United States, the issuance of publicly listed preferred stock is generally limited to financial institutions, REITs and public utilities. Because in the U.S. dividends on preferred stock are not tax-deductible at the corporate level (in contrast to interest expense), the effective cost of capital raised by preferred stock is significantly greater than issuing the equivalent amount of debt at the same interest rate. This has led to the development of TRuPS:  debt instruments with the same properties as preferred stock. With the passage of the Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010, TRuPS will be phased out as a vehicle for raising Tier 1 capital by bank holding companies. Outstanding TRuPS issues will be phased out completely by 2015.However, with a qualified dividend tax rate of 23.8% (compared to a top ordinary interest marginal tax rate of 40.8%), $1 of dividend income taxed at this rate provides the same after-tax income as approximately $1.30 in interest income. The size of the preferred stock market in the United States has been estimated as $100 billion (as of early 2008), compared to $9.5 trillion for equities and US$4.0 trillion for bonds. The amount of new issuance in the United States was $34.1 billion in 2016.
+
+
+=== Other countries ===
+In Nigeria, preferred shares make up a small percentage of a company's stock with no voting rights except in cases where they are not paid dividends; owners of preferred shares are entitled to a greater percentage of company profits.
+Czech Republic—Preferred stock cannot be more than 50 percent of total equity.
+France—By a law enacted in June 2004, France allows the creation of preferred shares.
+South Africa—Dividends from preference shares are not taxable as income when held by individuals.
+Brazil—In Brazil, up to 50 percent of the capital stock of a company may be composed of preferred stock. The preferred stock will have at least one less right than the common stock (normally voting power), but will have a preference in receiving dividends.
+Russia—No more than 25% of capital may be preferred stock. Voting rights are limited, but if dividends are not fully paid, shareholders obtain full voting rights.
+
+
+== Notes ==
+
+
+== External links ==

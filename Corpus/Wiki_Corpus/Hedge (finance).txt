@@ -1,0 +1,154 @@
+A hedge is an investment position intended to offset potential losses or gains that may be incurred by a companion investment. A hedge can be constructed from many types of financial instruments, including stocks, exchange-traded funds, insurance, forward contracts, swaps, options, gambles, many types of over-the-counter and derivative products, and futures contracts.
+Public futures markets were established in the 19th century to allow transparent, standardized, and efficient hedging of agricultural commodity prices; they have since expanded to include futures contracts for hedging the values of energy, precious metals, foreign currency, and interest rate fluctuations.
+
+
+== Etymology ==
+Hedging is the practice of taking a position in one market to offset and balance against the risk adopted by assuming a position in a contrary or opposing market or investment. The word hedge is from Old English hecg, originally any fence, living or artificial. The first known use of the word as a verb meaning 'dodge, evade' dates from the 1590s; that of 'insure oneself against loss,' as in a bet, is from the 1670s.
+
+
+== Hedge-investment duality ==
+Optimal hedging and optimal investments are intimately connected. It can be shown that one person's optimal investment is another's optimal hedge (and vice versa). This follows from a geometric structure formed by probabilistic representations of market views and risk scenarios. In practice, the hedge-investment duality is related to the widely used notion of risk recycling.
+
+
+== Examples ==
+
+
+=== Agricultural commodity price hedging ===
+A typical hedger might be a commercial farmer. The market values of wheat and other crops fluctuate constantly as supply and demand for them vary, with occasional large moves in either direction. Based on current prices and forecast levels at harvest time, the farmer might decide that planting wheat is a good idea one season, but the price of wheat might change over time. Once the farmer plants wheat, he is committed to it for an entire growing season. If the actual price of wheat rises greatly between planting and harvest, the farmer stands to make a lot of unexpected money, but if the actual price drops by harvest time, he is going to lose the invested money.Due to the uncertainty of future supply and demand fluctuations, and the price risk imposed on the farmer, the farmer in this example may use different financial transactions to reduce, or hedge, their risk. One such transaction is the use of forward contracts. Forward contracts are mutual agreements to deliver a certain amount of a commodity at a certain date for a specified price and each contract is unique to the buyer and seller. For this example, the farmer can sell a number of forward contracts equivalent to the amount of wheat he expects to harvest and essentially lock in the current price of wheat. Once the forward contracts expire, the farmer will harvest the wheat and deliver it to the buyer at the price agreed to in the forward contract. Therefore, the farmer has reduced his risks to fluctuations in the market of wheat because he has already guaranteed a certain number of bushels for a certain price. However, there are still many risks associated with this type of hedge. For example, if the farmer has a low yield year and he harvests less than the amount specified in the forward contracts, he must purchase the bushels elsewhere in order to fill the contract. This becomes even more of a problem when the lower yields affect the entire wheat industry and the price of wheat increases due to supply and demand pressures. Also, while the farmer hedged all of the risks of a price decrease away by locking in the price with a forward contract, he also gives up the right to the benefits of a price increase. Another risk associated with the forward contract is the risk of default or renegotiation. The forward contract locks in a certain amount and price at a certain future date. Because of that, there is always the possibility that the buyer will not pay the amount required at the end of the contract or that the buyer will try to renegotiate the contract before it expires.Future contracts are another way our farmer can hedge his risk without a few of the risks that forward contracts have. Future contracts are similar to forward contracts except they are more standardized (i.e. each contract is the same quantity and date for everyone). These contracts trade on exchanges and are guaranteed through clearing houses. Clearing houses ensure that every contract is honored and they take the opposite side of every contract. Future contracts typically are more liquid than forward contracts and move with the market. Because of this, the farmer can minimize the risk he faces in the future through the selling of future contracts. Future contracts also differ from forward contracts in that delivery never happens. The exchanges and clearing houses allow the buyer or seller to leave the contract early and cash out. So tying back into the farmer selling his wheat at a future date, he will sell short futures contracts for the amount that he predicts to harvest to protect against a price decrease. The current (spot) price of wheat and the price of the futures contracts for wheat converge as time gets closer to the delivery date, so in order to make money on the hedge, the farmer must close out his position earlier than then. On the chance that prices decrease in the future, the farmer will make a profit on his short position in the futures market which offsets any decrease in revenues from the spot market for wheat. On the other hand, if prices increase, the farmer will generate a loss on the futures market which is offset by an increase in revenues on the spot market for wheat. Instead of agreeing to sell his wheat to one person on a set date, the farmer will just buy and sell futures on an exchange and then sell his wheat wherever he wants once he harvests it.
+
+
+=== Hedging a stock price ===
+A common hedging technique used in the financial industry is the long/short equity technique.
+A stock trader believes that the stock price of Company A will rise over the next month, due to the company's new and efficient method of producing widgets. They want to buy Company A shares to profit from their expected price increase, as they believe that shares are currently underpriced. But Company A is part of a highly volatile widget industry. So there is a risk of a future event that affects stock prices across the whole industry, including the stock of Company A along with all other companies.
+Since the trader is interested in the specific company, rather than the entire industry, they want to hedge out the industry-related risk by short selling an equal value of shares from Company A's direct, yet weaker competitor, Company B.
+The first day the trader's portfolio is:
+
+Long 1,000 shares of Company A at $1 each
+Short 500 shares of Company B at $2 eachThe trader has sold short the same value of shares (the value, number of shares × price, is $1000 in both cases).
+If the trader was able to short sell an asset whose price had a mathematically defined relation with Company A's stock price (for example a put option on Company A shares), the trade might be essentially riskless. In this case, the risk would be limited to the put option's premium.
+On the second day, a favorable news story about the widgets industry is published and the value of all widgets stock goes up. Company A, however, because it is a stronger company, increases by 10%, while Company B increases by just 5%:
+
+Long 1,000 shares of Company A at $1.10 each: $100 gain
+Short 500 shares of Company B at $2.10 each: $50 loss  (in a short position, the investor loses money when the price goes up)The trader might regret the hedge on day two, since it reduced the profits on the Company A position. But on the third day, an unfavorable news story is published about the health effects of widgets, and all widgets stocks crash: 50% is wiped off the value of the widgets industry in the course of a few hours. Nevertheless, since Company A is the better company, it suffers less than Company B:
+Value of long position (Company A):
+
+Day 1: $1,000
+Day 2: $1,100
+Day 3: $550 => ($1,000 − $550) = $450 lossValue of short position (Company B):
+
+Day 1: −$1,000
+Day 2: −$1,050
+Day 3: −$525 => ($1,000 − $525) = $475 profitWithout the hedge, the trader would have lost $450. But the hedge – the short sale of Company B – nets a profit of $25 during a dramatic market collapse.
+
+
+=== Stock/futures hedging ===
+The introduction of stock market index futures has provided a second means of hedging risk on a single stock by selling short the market, as opposed to another single or selection of stocks. Futures are generally highly fungible and cover a wide variety of potential investments, which makes them easier to use than trying to find another stock which somehow represents the opposite of a selected investment. Futures hedging is widely used as part of the traditional long/short play.
+
+
+=== Hedging employee stock options ===
+Employee stock options (ESOs) are securities issued by the company mainly to its own executives and employees. These securities are more volatile than stocks. An efficient way to lower the ESO risk is to sell exchange traded calls and, to a lesser degree, to buy puts. Companies discourage hedging the ESOs but there is no prohibition against it.
+
+
+=== Hedging fuel consumption ===
+
+Airlines use futures contracts and derivatives to hedge their exposure to the price of jet fuel. They know that they must purchase jet fuel for as long as they want to stay in business, and fuel prices are notoriously volatile. By using crude oil futures contracts to hedge their fuel requirements (and engaging in similar but more complex derivatives transactions), Southwest Airlines was able to save a large amount of money when buying fuel as compared to rival airlines when fuel prices in the U.S. rose dramatically after the 2003 Iraq war and Hurricane Katrina.
+
+
+=== Hedging emotions ===
+
+As an emotion regulation strategy, people can bet against a desired outcome. A New England Patriots fan, for example, could bet their opponents to win to reduce the negative emotions felt if the team loses a game. Some scientific wagers, such as Hawking's 1974 "insurance policy" bet, fall into this category.
+People typically do not bet against desired outcomes that are important to their identity, due to negative signal about their identity that making such a gamble entails. Betting against your team or political candidate, for example, may signal to you that you are not as committed to them as you thought you were.
+
+
+== Types of hedging ==
+Hedging can be used in many different ways including foreign exchange trading. The stock example above is a "classic" sort of hedge, known in the industry as a pairs trade due to the trading on a pair of related securities. As investors became more sophisticated, along with the mathematical tools used to calculate values (known as models), the types of hedges have increased greatly.
+Examples of hedging include:
+Forward exchange contract for currencies
+Commodity future contracts for hedging physical positions
+Currency future contracts
+Money Market Operations for currencies
+Forward Exchange Contract for interest
+Money Market Operations for interest
+Future contracts for interest
+Covered Calls on equities
+Short Straddles on equities or indexes
+Bets on elections or sporting events
+
+
+== Hedging strategies ==
+A hedging strategy usually refers to the general risk management policy of a financially and physically trading firm how to minimize their risks. As the term hedging indicates, this risk mitigation is usually done by using financial instruments, but a hedging strategy as used by commodity traders like large energy companies, is usually referring to a business model (including both financial and physical deals).
+In order to show the difference between these strategies, consider the fictional company BlackIsGreen Ltd trading coal by buying this commodity at the wholesale market and selling it to households mostly in winter.
+
+
+=== Back-to-back hedging ===
+Back-to-back (B2B) is a strategy where any open position is immediately closed, e.g. by buying the respective commodity on the spot market.
+This technique is often applied in the commodity market when the customers’ price is directly calculable from visible forward energy prices at the point of customer sign-up.If BlackIsGreen decides to have a B2B-strategy, they would buy the exact amount of coal at the very moment when the household customer comes into their shop and signs the contract. This strategy minimizes many commodity risks, but has the drawback that it has a large volume and liquidity risk, as BlackIsGreen does not know whether it can find enough coal on the wholesale market to fulfill the need of the households.
+
+
+=== Tracker hedging ===
+Tracker hedging is a pre-purchase approach, where the open position is decreased the closer the maturity date comes.
+If BlackIsGreen knows that most of the consumers demand coal in winter to heat their house, a strategy driven by a tracker would now mean that BlackIsGreen buys e.g. half of the expected coal volume in summer, another quarter in autumn and the remaining volume in winter. The closer the winter comes, the better are the weather forecasts and therefore the estimate, how much coal will be demanded by the households in the coming winter.
+Retail customers’ price will be influenced by long-term wholesale price trends. A certain hedging corridor around the pre-defined tracker-curve is allowed and fraction of the open positions decreases as the maturity date comes closer.
+
+
+=== Delta hedging ===
+
+Delta-hedging mitigates the financial risk of an option by hedging against price changes in its underlying. It is so called as Delta is the first derivative of the option's value with respect to the underlying instrument's price. This is performed in practice by buying a derivative with an inverse price movement. It is also a type of market neutral strategy.
+Only if BlackIsGreen chooses to perform delta-hedging as strategy, actual financial instruments come into play for hedging (in the usual, stricter meaning).
+
+
+=== Risk reversal ===
+Risk reversal means simultaneously buying a call option and selling a put option. This has the effect of simulating being long on a stock or commodity position.
+
+
+== Natural hedges ==
+Many hedges do not involve exotic financial instruments or derivatives such as the married put. A natural hedge is an investment that reduces the undesired risk by matching cash flows (i.e. revenues and expenses). For example, an exporter to the United States faces a risk of changes in the value of the U.S. dollar and chooses to open a production facility in that market to match its expected sales revenue to its cost structure.
+Another example is a company that opens a subsidiary in another country and borrows in the foreign currency to finance its operations, even though the foreign interest rate may be more expensive than in its home country: by matching the debt payments to expected revenues in the foreign currency, the parent company has reduced its foreign currency exposure. Similarly, an oil producer may expect to receive its revenues in U.S. dollars, but faces costs in a different currency; it would be applying a natural hedge if it agreed to, for example, pay bonuses to employees in U.S. dollars.
+One common means of hedging against risk is the purchase of insurance to protect against financial loss due to accidental property damage or loss, personal injury, or loss of life.
+
+
+== Categories of hedgeable risk ==
+There are varying types of financial risk that can be protected against with a hedge. Those types of risks include:
+
+Commodity risk: the risk that arises from potential movements in the value of commodity contracts, which include agricultural products, metals, and energy products. Corporates  exposed on the "procurement side" of the value chain, require protection against rising commodity prices, where these cannot be "passed on to the customer"; on the sales side, corporates look towards hedging against a decline in price. Both may hedge using  commodity-derivatives where available.Credit risk: the risk that money owing will not be paid by an obligor. Since credit risk is the natural business of banks, but an unwanted risk for commercial traders, an early market developed between banks and traders that involved selling obligations at a discounted rate. The contemporary practice in commerce settings is to purchase trade credit insurance; in an (investment) banking context, these risks can be hedged through credit derivatives. In the latter, analysts use models such as Jarrow–Turnbull and Merton / KMV to estimate the probability of default, and/or (portfolio-wide) will use a transition matrix of Bond credit ratings  to estimate the probability and impact of a "credit migration". See Fixed income analysis.Currency risk: the risk that a financial instrument or business transaction will be affected unfavorably by a change in exchange rates.  Foreign exchange risk hedging is used both by investors to deflect the risks they encounter when investing abroad, and by non-financial actors in the global economy for whom multi-currency activities are a "necessary evil" rather than a desired state of exposure.Interest rate risk:  the risk that the value of an interest-bearing liability, such as a loan or a bond, will worsen due to an interest rate increase (see Bond valuation § Present value approach). Interest rate risks can be hedged using Interest rate derivatives such as interest rate swaps; sensitivities here are measured using duration and convexity for bonds, and DV01 and key rate durations generally.  At the portfolio level, cash-flow risks are typically managed via immunization or cashflow matching, while valuation-risk is hedged through bond index futures or optionsEquity risk: the risk that one's investments will depreciate because of stock market dynamics causing one to lose money.Volatility risk: is the threat that an exchange rate movement poses to an investor's portfolio in a foreign currency.Volume risk is the risk that a customer demands more or less of a product than expected.
+
+
+== Hedging equity and equity futures ==
+Equity in a portfolio can be hedged by taking an opposite position in futures. To protect your stock picking against systematic market risk, futures are shorted when equity is purchased, or long futures when stock is shorted.
+One way to hedge is the market neutral approach. In this approach, an equivalent dollar amount in the stock trade is taken in futures – for example, by buying 10,000 GBP worth of Vodafone and shorting 10,000 worth of FTSE futures (the index in which Vodafone trades).
+Another way to hedge is the beta neutral. Beta is the historical correlation between a stock and an index. If the beta of a Vodafone stock is 2, then for a 10,000 GBP long position in Vodafone an investor would hedge with a 20,000 GBP equivalent short position in the FTSE futures.
+Futures contracts and forward contracts are means of hedging against the risk of adverse market movements. These originally developed out of commodity markets in the 19th century, but over the last fifty years a large global market developed in products to hedge financial market risk.
+
+
+=== Futures hedging ===
+Investors who primarily trade in futures may hedge their futures against synthetic futures. A synthetic in this case is a synthetic future comprising a call and a put position. Long synthetic futures means long call and short put at the same expiry price. To hedge against a long futures trade a short position in synthetics can be established, and vice versa.
+Stack hedging is a strategy which involves buying various futures contracts that are concentrated in nearby delivery months to increase the liquidity position. It is generally used by investors to ensure the surety of their earnings for a longer period of time.
+
+
+=== Contract for difference ===
+
+A contract for difference (CFD) is a two-way hedge or swap contract that allows the seller and purchaser to fix the price of a volatile commodity. Consider a deal between an electricity producer and an electricity retailer, both of whom trade through an electricity market pool. If the producer and the retailer agree to a strike price of $50 per MWh, for 1 MWh in a trading period, and if the actual pool price is $70, then the producer gets $70 from the pool but has to rebate $20 (the "difference" between the strike price and the pool price) to the retailer.
+Conversely, the retailer pays the difference to the producer if the pool price is lower than the agreed upon contractual strike price. In effect, the pool volatility is nullified and the parties pay and receive $50 per MWh. However, the party who pays the difference is "out of the money" because without the hedge they would have received the benefit of the pool price.
+
+
+== Related concepts ==
+Forwards: A contract specifying future delivery of an amount of an item, at a price decided now. The delivery is obligatory, not optional.
+Forward rate agreement (FRA): A contract specifying an interest rate amount to be settled at a pre-determined interest rate on the date of the contract.
+Option (finance): similar to a forward contract, but optional.
+Call option: A contract that gives the owner the right, but not the obligation, to buy an item in the future, at a price decided now.
+Put option: A contract that gives the owner the right, but not the obligation, to sell an item in the future, at a price decided now.
+Non-deliverable forwards (NDF): A strictly risk-transfer financial product similar to a forward rate agreement, but used only where monetary policy restrictions on the currency in question limit the free flow and conversion of capital. As the name suggests, NDFs are not delivered but settled in a reference currency, usually USD or EUR, where the parties exchange the gain or loss that the NDF instrument yields, and if the buyer of the controlled currency truly needs that hard currency, he can take the reference payout and go to the government in question and convert the USD or EUR payout. The insurance effect is the same; it's just that the supply of insured currency is restricted and controlled by government. See capital control.
+Interest rate parity and Covered interest arbitrage: The simple concept that two similar investments in two different currencies ought to yield the same return. If the two similar investments are not at face value offering the same interest rate return, the difference should conceptually be made up by changes in the exchange rate over the life of the investment. IRP basically provides the math to calculate a projected or implied forward rate of exchange. This calculated rate is not and cannot be considered a prediction or forecast, but rather is the arbitrage-free calculation for what the exchange rate is implied to be in order for it to be impossible to make a free profit by converting money to one currency, investing it for a period, then converting back and making more money than if a person had invested in the same opportunity in the original currency.
+Hedge fund: A fund which may engage in hedged transactions or hedged investment strategies.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Understanding Derivatives: Markets and Infrastructure Federal Reserve Bank of Chicago, Financial Markets Group
+Basic Fixed Income Derivative Hedging Article on Financial-edu.com
+Hedging Corporate Bond Issuance with Rate Locks article on Financial-edu.com

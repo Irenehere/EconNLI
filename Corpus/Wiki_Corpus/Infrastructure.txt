@@ -1,0 +1,179 @@
+Infrastructure is the set of facilities and systems that serve a country, city, or other area, and encompasses the services and facilities necessary for its economy, households and firms to function. Infrastructure is composed of public and private physical structures such as roads, railways, bridges, tunnels, water supply, sewers, electrical grids, and telecommunications (including Internet connectivity and broadband access). In general, infrastructure has been defined as "the physical components of interrelated systems providing commodities and services essential to enable, sustain, or enhance societal living conditions" and maintain the surrounding environment.Especially in light of the massive societal transformations needed to mitigate and adapt to climate change, contemporary infrastructure conversations frequently focus on sustainable development and green infrastructure. Acknowledging this importance, the international community has created policy focused on sustainable infrastructure through the Sustainable Development Goals, especially Sustainable Development Goal 9 "Industry, Innovation and Infrastructure".
+One way to describe different types of infrastructure is to classify them as two distinct kinds: hard infrastructure and soft infrastructure. Hard infrastructure is the physical networks necessary for the functioning of a modern industrial society or industry. This includes roads, bridges, and railways. Soft infrastructure is all the institutions that maintain the economic, health, social, environmental, and cultural standards of a country. This includes educational programs, official statistics, parks and recreational facilities, law enforcement agencies, and emergency services.
+
+
+== Etymology ==
+The word "infrastructure" has been used in French since 1875 and in English since 1887, originally meaning "installations that form the basis for any operation or system". It is a loanword from French, where it was already used for establishing a roadbed of substrate material, required before railroad tracks or constructed pavement could be laid on top of it. The word is a combination of the Latin prefix "infra", meaning "below", as many of these constructions are underground (for example, tunnels, water and gas systems, and railways), and the French word "structure" (derived from the Latin word "structure"). The army use of the term achieved currency in the United States after the formation of NATO in the 1940s, and by 1970 was adopted by urban planners in its modern civilian sense.
+
+
+== Classifications ==
+A 1987 US National Research Council panel adopted the term "public works infrastructure", referring to:
+
+"... both specific functional modes – highways, streets, roads, and bridges; mass transit; airports and airways; water supply and water resources; wastewater management; solid-waste treatment and disposal; electric power generation and transmission; telecommunications; and hazardous waste management – and the combined system these modal elements comprise. A comprehension of infrastructure spans not only these public works facilities, but also the operating procedures, management practices, and development policies that interact together with societal demand and the physical world to facilitate the transport of people and goods, provision of water for drinking and a variety of other uses, safe disposal of society's waste products, provision of energy where it is needed, and transmission of information within and between communities."
+
+The American Society of Civil Engineers publishes an "Infrastructure Report Card" which represents the organizations opinion on the condition of various infrastructure every 2–4 years. As of 2017 they grade 16 categories, namely aviation, bridges, dams, drinking water, energy, hazardous waste, inland waterways, levees, parks and recreation, ports, rail, roads, schools, solid waste, transit and wastewater.: 4  The United States has received a rating of "D+" on its infrastructure. This aging infrastructure is a result of governmental neglect and inadequate funding. As the United States presumably looks to upgrade its existing infrastructure, sustainable measures could be a consideration of the design, build, and operation plans.
+
+
+=== Personal ===
+A way to embody personal infrastructure is to think of it in terms of human capital. Human capital is defined by the Encyclopædia Britannica as "intangible collective resources possessed by individuals and groups within a given population". The goal of personal infrastructure is to determine the quality of the economic agents' values. This results in three major tasks: the task of economic proxies in the economic process (teachers, unskilled and qualified labor, etc.); the importance of personal infrastructure for an individual (short and long-term consumption of education); and the social relevance of personal infrastructure. Essentially, personal infrastructure maps the human impact on infrastructure as it is related to the economy, individual growth, and social impact.
+
+
+=== Institutional ===
+Institutional infrastructure branches from the term "economic constitution". According to Gianpiero Torrisi, institutional infrastructure is the object of economic and legal policy. It compromises the grown and sets norms. It refers to the degree of fair treatment of equal economic data and determines the framework within which economic agents may formulate their own economic plans and carry them out in co-operation with others.
+
+
+=== Sustainable ===
+Sustainable infrastructure refers to the processes of design and construction that take into consideration their environmental, economic, and social impact. Included in this section are several elements of sustainable schemes, including materials, water, energy, transportation, and waste management infrastructure. Although there are endless other factors of consideration, those will not be covered in this section.
+
+
+=== Material ===
+Material infrastructure is defined as "those immobile, non-circulating capital goods that essentially contribute to the production of infrastructure goods and services needed to satisfy basic physical and social requirements of economic agents". There are two distinct qualities of material infrastructures: 1) fulfillment of social needs and 2) mass production. The first characteristic deals with the basic needs of human life. The second characteristic is the non-availability of infrastructure goods and services. Today, there are various materials that can be used to build infrastructure. The most prevalent ones are asphalt, concrete, steel, masonry, wood, polymers and composites.
+
+
+=== Economic ===
+According to the business dictionary, economic infrastructure can be defined as "internal facilities of a country that make business activity possible, such as communication, transportation and distribution networks, financial institutions and markets, and energy supply systems". Economic infrastructure support productive activities and events. This includes roads, highways, bridges, airports, cycling infrastructure, water distribution networks, sewer systems, and irrigation plants.
+
+
+=== Social ===
+Social infrastructure can be broadly defined as the construction and maintenance of facilities that support social services. Social infrastructures are created to increase social comfort and promote economic activity. These include schools, parks and playgrounds, structures for public safety, waste disposal plants, hospitals, and sports areas.
+
+
+=== Core ===
+Core assets provide essential services and have monopolistic characteristics. Investors seeking core infrastructure look for five different characteristics: income, low volatility of returns, diversification, inflation protection, and long-term liability matching. Core infrastructure incorporates all the main types of infrastructure, such as roads, highways, railways, public transportation, water, and gas supply.
+
+
+=== Basic ===
+Basic infrastructure refers to main railways, roads, canals, harbors and docks, the electromagnetic telegraph, drainage, dikes, and land reclamation. It consist of the more well-known and common features of infrastructure that we come across in our daily lives (buildings, roads, docks).
+
+
+=== Complementary ===
+Complementary infrastructure refers to things like light railways, tramways, and gas/electricity/water supply. To complement something means to bring it to perfection or complete it. Complementary infrastructure deals with the little parts of the engineering world that make life more convenient and efficient. They are needed to ensure successful usage and marketing of an already finished product, like in the case of road bridges. Other examples are lights on sidewalks, landscaping around buildings, and benches where pedestrians can rest.
+
+
+== Applications ==
+
+
+=== Engineering and construction ===
+Engineers generally limit the term "infrastructure" to describe fixed assets that are in the form of a large network; in other words, hard infrastructure. Efforts to devise more generic definitions of infrastructures have typically referred to the network aspects of most of the structures, and to the accumulated value of investments in the networks as assets. One such definition from 1998 defined infrastructure as the network of assets "where the system as a whole is intended to be maintained indefinitely at a specified standard of service by the continuing replacement and refurbishment of its components".
+
+
+=== Civil defense and economic development ===
+
+Civil defense planners and developmental economists generally refer to both hard and soft infrastructure, including public services such as schools and hospitals, emergency services such as police and fire fighting, and basic services in the economic sector. The notion of infrastructure-based development combining long-term infrastructure investments by government agencies at central and regional levels with public private partnerships has proven popular among economists in Asia (notably Singapore and China), mainland Europe, and Latin America.
+
+
+=== Military ===
+Military infrastructure is the buildings and permanent installations necessary for the support of military forces, whether they are stationed in bases, being deployed or engaged in operations. Examples include barracks, headquarters, airfields, communications facilities, stores of military equipment, port installations, and maintenance stations.
+
+
+=== Communications ===
+Communications infrastructure is the informal and formal channels of communication, political and social networks, or beliefs held by members of particular groups, as well as information technology, software development tools. Still underlying these more conceptual uses is the idea that infrastructure provides organizing structure and support for the system or organization it serves, whether it is a city, a nation, a corporation, or a collection of people with common interests. Examples include IT infrastructure, research infrastructure, terrorist infrastructure, employment infrastructure, and tourism infrastructure.
+
+
+== Related concepts ==
+The term "infrastructure" may be confused with the following overlapping or related concepts.
+Land improvement and land development are general terms that in some contexts may include infrastructure, but in the context of a discussion of infrastructure would refer only to smaller-scale systems or works that are not included in infrastructure, because they are typically limited to a single parcel of land, and are owned and operated by the landowner. For example, an irrigation canal that serves a region or district would be included with infrastructure, but the private irrigation systems on individual land parcels would be considered land improvements, not infrastructure. Service connections to municipal service and public utility networks would also be considered land improvements, not infrastructure.The term "public works" includes government-owned and operated infrastructure as well as public buildings, such as schools and courthouses. Public works generally refers to physical assets needed to deliver public services. Public services include both infrastructure and services generally provided by the government.
+
+
+== Ownership and financing ==
+
+Infrastructure may be owned and managed by governments or by privately held companies, such as sole public utility or railway companies. Generally, most roads, major airports and other ports, water distribution systems, and sewage networks are publicly owned, whereas most energy and telecommunications networks are privately owned. Publicly owned infrastructure may be paid for from taxes, tolls, or metered user fees, whereas private infrastructure is generally paid for by metered user fees. Major investment projects are generally financed by the issuance of long-term bonds.Government-owned and operated infrastructure may be developed and operated in the private sector or in public-private partnerships, in addition to in the public sector. As of 2008 in the United States for example, public spending on infrastructure has varied between 2.3% and 3.6% of GDP since 1950. Many financial institutions invest in infrastructure.
+
+
+== In the developing world ==
+According to researchers at the Overseas Development Institute, the lack of infrastructure in many developing countries represents one of the most significant limitations to economic growth and achievement of the Millennium Development Goals (MDGs). Infrastructure investments and maintenance can be very expensive, especially in such areas as landlocked, rural and sparsely populated countries in Africa. It has been argued that infrastructure investments contributed to more than half of Africa's improved growth performance between 1990 and 2005, and increased investment is necessary to maintain growth and tackle poverty. The returns to investment in infrastructure are very significant, with on average thirty to forty percent returns for telecommunications (ICT) investments, over forty percent for electricity generation, and eighty percent for roads.
+
+
+=== Regional differences ===
+The demand for infrastructure both by consumers and by companies is much higher than the amount invested. There are severe constraints on the supply side of the provision of infrastructure in Asia. The infrastructure financing gap between what is invested in Asia-Pacific (around US$48 billion) and what is needed (US$228 billion) is around US$180 billion every year.In Latin America, three percent of GDP (around US$71 billion) would need to be invested in infrastructure in order to satisfy demand, yet in 2005, for example, only around two percent was invested leaving a financing gap of approximately US$24 billion.In Africa, in order to reach the seven percent annual growth calculated to be required to meet the MDGs by 2015 would require infrastructure investments of about fifteen percent of GDP, or around US$93 billion a year. In fragile states, over thirty-seven percent of GDP would be required.
+
+
+=== Sources of funding for infrastructure ===
+The source of financing for infrastructure varies significantly across sectors. Some sectors are dominated by government spending, others by overseas development aid (ODA), and yet others by private investors.  In California, infrastructure financing districts are established by local governments to pay for physical facilities and services within a specified area by using property tax increases. In order to facilitate investment of the private sector in developing countries' infrastructure markets, it is necessary to design risk-allocation mechanisms more carefully, given the higher risks of their markets.The spending money that comes from the government is less than it used to be. From the 1930s to 2019, the United States went from spending 4.2% of GDP to 2.5% of GDP on infrastructure. These under investments have accrued, in fact, according to the 2017 ASCE Infrastructure Report Card, from 2016 to 2025, infrastructure will be underinvested by $2 trillion. Compared to the global GDP percentages, The United States is tied for second-to-last place, with an average percentage of 2.4%. This means that the government spends less money on repairing old infrastructure and or on infrastructure as a whole.In Sub-Saharan Africa, governments spend around US$9.4 billion out of a total of US$24.9 billion. In irrigation, governments represent almost all spending. In transport and energy a majority of investment is government spending. In ICT and water supply and sanitation, the private sector represents the majority of capital expenditure. Overall, between them aid, the private sector, and non-OECD financiers exceed government spending. The private sector spending alone equals state capital expenditure, though the majority is focused on ICT infrastructure investments. External financing increased in the 2000s (decade) and in Africa alone external infrastructure investments increased from US$7 billion in 2002 to US$27 billion in 2009. China, in particular, has emerged as an important investor.
+
+
+== Coronavirus implications ==
+The 2020 COVID-19 pandemic has only exacerbated the underfunding of infrastructure globally that has been accumulating for decades. The pandemic has increased unemployment and has widely disrupted the economy. This has serious impacts on households, businesses, and federal, state and local governments. This is especially detrimental to infrastructure because it is so dependent on funding from government agencies – with state and local governments accounting for approximately 75% of spending on public infrastructure in the United States.Governments are facing enormous decreases in revenue, economic downturns, overworked health systems, and hesitant workforces, resulting in huge budget deficits across the board. However, they must also scale up public investment to ensure successful reopening, boost growth and employment, and green their economies. The unusually large scale of the packages needed for COVID-19 was accompanied by widespread calls for "greening" them to meet the dual goals of economic recovery and environmental sustainability. However, as of March 2021, only a small fraction of the G20 COVID-19 related fiscal measures was found to be climate friendly.
+
+
+== Sustainable infrastructure ==
+
+Although it is readily apparent that much effort is needed to repair the economic damage inflicted by the Coronavirus epidemic, an immediate return to business as usual could be environmentally harmful, as shown by the 2007-08 financial crisis in the United States. While the ensuing economic slowdown reduced global greenhouse gas emissions in 2009, emissions reached a record high in 2010, partially due to governments' implemented economic stimulus measures with minimal consideration of the environmental consequences. The concern is whether this same pattern will repeat itself. The post-COVID-19 period could determine whether the world meets or misses the emissions goals of the 2015 Paris Agreement and limits global warming to 1.5 degrees C to 2 degrees C.As a result of the COVID-19 epidemic, a host of factors could jeopardize a low-carbon recovery plan: this includes reduced attention on the global political stage (2020 UN Climate Summit has been postponed to 2021), the relaxing of environmental regulations in pursuit of economic growth, decreased oil prices preventing low-carbon technologies from being competitive, and finally, stimulus programs that take away funds that could have been used to further the process of decarbonization. Research suggests that a recovery plan based on lower-carbon emissions could not only make significant emissions reductions needed to battle climate change, but also create more economic growth and jobs than a high-carbon recovery plan would. A study published in the Oxford Review of Economic Policy, more than 200 economists and economic officials reported that "green" economic-recovery initiatives performed at least as well as less "green" initiatives. There have also been calls for an independent body could provide a comparable assessment of countries' fiscal policies, promoting transparency and accountability at the international level.In addition, in an econometric study published in the Economic Modelling journal, an analysis on government energy technology spending showed that spending on the renewable energy sector created five more jobs per million dollars invested than spending on fossil fuels. Since sustainable infrastructure is more beneficial in both an economic and environmental context, it represents the future of infrastructure. Especially with increasing pressure from climate change and diminishing natural resources, infrastructure not only needs to maintain economic development and job development, and a high quality of life for residents, but also protect the environment and its natural resources.
+
+
+=== Sustainable energy ===
+Sustainable energy infrastructure includes types of renewable energy power plants as well as the means of exchange from the plant to the homes and businesses that use that energy. Renewable energy includes well researched and widely implemented methods such as wind, solar, and hydraulic power, as well as newer and less commonly used types of power creation such as fusion energy. Sustainable energy infrastructure must maintain a strong supply relative to demand, and must also maintain sufficiently low prices for consumers so as not to decrease demand. Any type of renewable energy infrastructure that fails to meet these consumption and price requirements will ultimately be forced out of the market by prevailing non renewable energy sources.
+
+
+=== Sustainable water ===
+Sustainable water infrastructure is focused on a community's sufficient access to clean, safe drinking water. Water is a public good along with electricity, which means that sustainable water catchment and distribution systems must remain affordable to all members of a population. "Sustainable Water" may refer to a nation or community's ability to be self-sustainable, with enough water to meet multiple needs including agriculture, industry, sanitation, and drinking water. It can also refer to the holistic and effective management of water resources. Increasingly, policy makers and regulators are incorporating Nature-based solutions (NBS or NbS) into attempts to achieve sustainable water infrastructure.
+
+
+=== Sustainable waste management ===
+Sustainable waste management systems aim to minimize the amount of waste products produced by individuals and corporations. Commercial waste management plans have transitioned from simple waste removal plans into comprehensive plans focused on reducing the total amount of waste produced before removal. Sustainable waste management is beneficial environmentally, and can also cut costs for businesses that reduce their amount of disposed goods.
+
+
+=== Sustainable transportation ===
+
+Sustainable transportation includes a shift away from private, greenhouse gas emitting cars in favor of adopting methods of transportation that are either carbon neutral or reduce carbon emissions such as bikes or electric bus systems. Additionally, cities must invest in the appropriate built environments for these ecologically preferable modes of transportation. Cities will need to invest in public transportation networks, as well as bike path networks among other sustainable solutions that incentivize citizens to use these alternate transit options. Reducing the urban dependency on cars is a fundamental goal of developing sustainable transportation, and this cannot be accomplished without a coordinated focus on both creating the methods of transportation themselves and providing them with networks that are equally or more efficient than existing car networks such as aging highway systems.
+
+
+=== Sustainable materials ===
+Another solution to transition into a more sustainable infrastructure is using more sustainable materials. A material is sustainable if the needed amount can be produced without depleting non-renewable resources. It also should have low environmental impacts by not disrupting the established steady-state equilibrium of it. The materials should also be resilient, renewable, reusable, and recyclable.Today, concrete is one of the most common materials used in infrastructure. There is twice as much concrete used in construction than all other building materials combined. It is the backbone of industrialization, as it is used in bridges, piers, pipelines, pavements, and buildings. However, while they do serve as a connection between cities, transportation for people and goods, and protection for land against flooding and erosion, they only last for 50 to 100 years. Many were built within the last 50 years, which means many infrastructures need substantial maintenance to continue functioning.
+However, concrete is not sustainable. The production of concrete contributes up to 8% of the world's greenhouse gas emissions. A tenth of the world's industrial water usage is from producing concrete. Even transporting the raw materials to concrete production sites adds to airborne pollution. Furthermore, the production sites and the infrastructures themselves all strip away agricultural land that could have been fertile soil or habitats vital to the ecosystem.
+
+
+== Green infrastructure ==
+
+Green infrastructure is a type of sustainable infrastructure. Green infrastructure uses plant or soil systems to restore some of the natural processes needed to manage water and create healthier urban environments. In a more practical sense, it refers to a decentralized network of stormwater management practices, which includes green roofs, trees, bioretention and infiltration, and permeable pavement. Green infrastructure has become an increasingly popular strategy in recent years due to its effectiveness in providing ecological, economic, and social benefits – including positively impacting energy consumption, air quality, and carbon reduction and sequestration.
+
+
+=== Green roofs ===
+
+A green roof is a rooftop that is partially or completely covered with growing vegetation planted over a membrane. It also includes additional layers, including a root barrier and drainage and irrigation systems. There are several categories of green roofs, including extensive (have a growing media depth ranging from two to six inches) and intensive (have a growing media with a depth greater than six inches). One benefit of green roofs is that they reduce stormwater runoff because of its ability to store water in its growing media, reducing the runoff entering the sewer system and waterways, which also decreases the risk of combined sewer overflows. They reduce energy usage since the growing media provides additional insulation, reduces the amount of solar radiation on the roof's surface, and provides evaporative cooling from water in the plants, which reduce the roof surface temperatures and heat influx. Green roofs also reduce atmospheric carbon dioxide since the vegetation sequesters carbon and, since they reduce energy usage and the urban heat island by reducing the roof temperature, they also lower carbon dioxide emissions from electricity generation.
+
+
+=== Tree planting ===
+Tree planting provides a host of ecological, social, and economic benefits. Trees can intercept rain, support infiltration and water storage in soil, diminish the impact of raindrops on barren surfaces, minimize soil moisture through transpiration, and they help reduce stormwater runoff. Additionally, trees contribute to recharging local aquifers and improve the health of watershed systems. Trees also reduce energy usage by providing shade and releasing water into the atmosphere which cools the air and reduces the amount of heat absorbed by buildings. Finally, trees improve air quality by absorbing harmful air pollutants reducing the amount of greenhouse gases.
+
+
+=== Bioretention and infiltration practices ===
+There are a variety of types of bioretention and infiltration practices, including rain gardens and bioswales. A rain garden is planted in a small depression or natural slope and includes native shrubs and flowers. They temporarily hold and absorb rain water and are effective in removing up to 90% of nutrients and chemicals and up to 80% of sediments from the runoff. As a result, they soak 30% more water than conventional gardens. Bioswales are planted in paved areas like parking lots or sidewalks and are made to allow for overflow into the sewer system by trapping silt and other pollutants, which are normally left over from impermeable surfaces. Both rain gardens and bioswales mitigate flood impacts and prevent stormwater from polluting local waterways; increase the usable water supply by reducing the amount of water needed for outdoor irrigation; improve air quality by minimizing the amount of water going into treatment facilities, which also reduces energy usage and, as a result, reduces air pollution since less greenhouse gases are emitted.
+
+
+== Smart cities ==
+
+Smart cities use innovative methods of design and implementation in various sectors of infrastructure and planning to create communities that operate at a higher level of relative sustainability than their traditional counterparts. In a sustainable city, urban resilience as well as infrastructure reliability must both be present. Urban resilience is defined by a city's capacity to quickly adapt or recover from infrastructure defects, and infrastructure reliability means that systems must work efficiently while continuing to maximize their output. When urban resilience and infrastructure reliability interact, cities are able to produce the same level of output at similarly reasonable costs as compared to other non sustainable communities, while still maintaining ease of operation and usage.
+
+
+=== Masdar City ===
+
+Masdar City is a proposed zero emission smart city that will be contracted in the United Arab Emirates. Some individuals have referred to this planned settlement as "utopia-like", due to the fact that it will feature multiple sustainable infrastructure elements, including energy, water, waste management, and transportation. Masdar City will have a power infrastructure containing renewable energy methods including solar energy.Masdar City is located in a desert region, meaning that sustainable collection and distribution of water is dependent on the city's ability to use water at innovative stages of the water cycle. The city will use groundwater, greywater, seawater, blackwater, and other water resources to obtain both drinking and landscaping water.Initially, Masdar City will be waste-free. Recycling and other waste management and waste reduction methods will be encouraged. Additionally, the city will implement a system to convert waste into fertilizer, which will decrease the amount of space needed for waste accumulation as well as provide an environmentally friendly alternative to traditional fertilizer production methods.
+No cars will be allowed in Masdar City, contributing to low carbon emissions within the city boundaries. Instead, alternative transportation options will be prioritized during infrastructure development. This means that a bike lane network will be accessible and comprehensive, and other options will also be available.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Koh, Jae Myong (2018) Green Infrastructure Financing: Institutional Investors, PPPs and Bankable Projects, London: Palgrave Macmillan. ISBN 978-3-319-71769-2.
+Nurre, Sarah G. "Restoring infrastructure systems: An integrated network design and scheduling (INDS) problem." European Journal of Operational Research. (12/2012), 223 (3), pp. 794–806.
+Ascher, Kate; researched by Wendy Marech (2007). The works: anatomy of a city (Reprint ed.). New York: Penguin Press. ISBN 978-0-14-311270-9.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Larry W. Beeferman, "Pension Fund Investment in Infrastructure: A Resource Paper", Capital Matter (Occasional Paper Series), No. 3 December 2008
+A. Eberhard, "Infrastructure Regulation in Developing Countries", PPIAF Working Paper No. 4 (2007) World Bank
+M. Nicolas J. Firzli and Vincent Bazi, "Infrastructure Investments in an Age of Austerity: The Pension and Sovereign Funds Perspective", published jointly in Revue Analyse Financière, Q4 2011 issue, pp. 34–37 and USAK/JTW July 30, 2011 (online edition)
+Hayes, Brian (2005). Infrastructure: the book of everything for the industrial landscape (1st ed.). New York: Norton. ISBN 978-0-393-32959-9.
+Huler, Scott (2010). On the grid: a plot of land, an average neighborhood, and the systems that make our world work. Emmaus, PA: Rodale. ISBN 978-1-60529-647-0.
+Georg Inderst, "Pension Fund Investment in Infrastructure", OECD Working Papers on Insurance and Private Pensions, No. 32 (2009)
+Dalakoglou, Dimitris (2017). The Road: An Ethnography of (Im)mobility, space and cross-border infrastructures. Manchester: Manchester University Press/ Oxford university Press.
+
+
+== External links ==
+
+Body of Knowledge on Infrastructure Regulation
+Next Generation Infrastructures international research programme
+Report Card on America's Infrastructure
+Dirk van Laak: Infrastructures, version: 1.0, in: Docupedia Zeitgeschichte, 20th may 2021

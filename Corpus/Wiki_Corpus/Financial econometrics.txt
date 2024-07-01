@@ -1,0 +1,31 @@
+Financial econometrics  is the application of statistical methods to financial market data. Financial econometrics is a branch of financial economics, in the field of economics. Areas of study include capital markets, financial institutions, corporate finance and corporate governance. Topics often revolve around asset valuation of individual stocks, bonds, derivatives, currencies and other financial instruments.
+It differs from other forms of econometrics because the emphasis is usually on analyzing the prices of financial assets traded at competitive, liquid markets.
+People working in the finance industry or researching the finance sector often use econometric techniques in a range of activities – for example, in support of portfolio management and in the valuation of securities. Financial econometrics is essential for risk management when it is important to know how often 'bad' investment outcomes are expected to occur over future days, weeks, months and years.
+
+
+== Topics ==
+The sort of topics that financial econometricians are typically familiar with include:
+
+analysis of high-frequency price observations
+arbitrage pricing theory
+asset price dynamics
+optimal asset allocation
+cointegration
+event study
+nonlinear financial models such as autoregressive conditional heteroskedasticity
+realized variance
+fund performance analysis such as returns-based style analysis
+tests of the random walk hypothesis
+the capital asset pricing model
+the term structure of interest rates (the yield curve)
+value at risk
+volatility estimation techniques such as exponential smoothing models and RiskMetrics
+
+
+== Research community ==
+The Society for Financial Econometrics (SoFiE) is a global network of academics and practitioners dedicated to sharing research and ideas in the fast-growing field of financial econometrics. It is an independent non-profit membership organization, committed to promoting and expanding research and education by organizing and sponsoring conferences, programs and activities at the intersection of finance and econometrics, including links to macroeconomic fundamentals. SoFiE was co-founded by Robert F. Engle and Eric Ghysels.
+Premier-quality journals which publish financial econometrics research include Econometrica, Journal of Econometrics and Journal of Business & Economic Statistics. The Journal of Financial Econometrics has an exclusive focus on financial econometrics. It is edited by Federico Bandi and Andrew Patton, and it has a close relationship with SoFiE.
+The Nobel Memorial Prize in Economic Sciences has been awarded for significant contribution to financial econometrics; in 2003 to Robert F. Engle "for methods of analyzing economic time series with time-varying volatility" and Clive Granger "for methods of analyzing economic time series with common trends" and in 2013 to Eugene Fama, Lars Peter Hansen and Robert J. Shiller "for their empirical analysis of asset prices". Other highly influential researchers include Torben G. Andersen, Tim Bollerslev and Neil Shephard.
+
+
+== References ==

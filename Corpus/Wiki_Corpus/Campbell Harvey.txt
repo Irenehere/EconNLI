@@ -1,0 +1,49 @@
+Campbell Russell "Cam" Harvey (born June 23, 1958) is a Canadian economist, known for his work on asset allocation with changing risk and risk premiums and the problem of separating luck from skill in investment management. He is currently the J. Paul Sticht Professor of International Business at Duke University's Fuqua School of Business in Durham, North Carolina, as well as a research associate with the National Bureau of Economic Research in Cambridge, Massachusetts. He is also a research associate with the Institute of International Integration Studies at Trinity College Dublin and a visiting researcher at the University of Oxford. He served as the 2016 president of the American Finance Association.
+
+
+== Career ==
+He earned his undergraduate degree in economics and political science from Trinity College at the University of Toronto in 1981 and his MBA from York University in Toronto in 1983. His doctoral work was carried out at the Booth School of Business at the University of Chicago. His doctoral supervisors were Eugene Fama, Merton Miller, Robert Stambaugh, Wayne Ferson, Shmuel Kandel, and Lars Hansen.
+His 1986 Ph.D. thesis explored the concept that the term structure of interest rates (difference between long-term interest rates and short-term rates) could predict the US business cycle. His thesis was published in the Journal of Financial Economics in 1988. That work was subsequently expanded and published in the Financial Analysts Journal  in 1989.
+
+
+=== Time-varying risk and risk premia ===
+Harvey's 1986 thesis showed that information in the term structure of interest rates was linked to future growth of the economy. When short-term rates were higher than long-term rates (an inverted yield curve), recessions followed. In the time since his thesis was published, the yield curve has inverted three times—in 1989, 2000, and 2006—correctly predicting the three recessions of 1990–1991, 2001, and 2007–2009.Given the idea that the business cycle is to some degree predictable, Harvey argued in his 1991 paper with Wayne Ferson in the Journal of Political Economy that both risk exposures and risk premia should vary predictably through the business cycle. Harvey's research in both the 1989 Journal of Financial Economics and in the 1991 Journal of Finance documented the predictability of asset returns.
+
+
+=== Emerging markets finance ===
+Harvey was one of the early finance researchers to study emerging markets' equity and bond returns. His 1995 paper in the Review of Financial Studies showed that the standard approaches in finance in developed markets could not be applied to many developing countries. His 1995 Journal of Finance paper with Geert Bekaert proposed a way of dealing with the special challenges of emerging markets.
+In multiple research papers authored with Bekaert, Harvey studies the relationship between the real economy and finance. His 2005 paper with Bekaert and Christian Lundblad shows opening financial markets to foreign investors reduces the cost of financing while increasing investment and GDP for developing countries.
+
+
+=== Survey work in finance ===
+Harvey is the founding director of the Duke University/CFO Magazine Global Business Outlook Survey. In work with John Graham, he linked the theory and practice of finance. That is, many research papers make assumptions about how managers behave. Harvey's research asks the managers directly about these assumptions. The survey has been conducted every quarter since 1996 and has generated numerous research papers, including a paper published in the Journal of Financial Economics in 2001. His paper with John Graham and Shiva Rajgopal in the Journal of Accounting and Economics in 2005 shows that 78% of Chief Financial Officers admit to destroying value by trying to hit quarterly earnings targets.
+
+
+=== Risk management ===
+Harvey has been a strong proponent of modifying the view of risk. Much risk modeling focuses on volatility or standard deviation. In his 2000 paper in the Journal of Finance with Siddique, Harvey presents a two-part argument in favor of incorporating skewness. First, asset returns are not normally distributed. Second, investors like positive skew (big profits) and dislike negative skew (big losses); Harvey argues these preferences need to be taken into account in both portfolio management and risk management. Harvey also asserts estimates are imprecise and this uncertainty needs to be taken into account when making investment decisions.
+
+
+=== Luck versus skill ===
+In a paper in the Review of Financial Studies in 2016, written with Yan Liu and Heqing Zhu, Harvey shows that over half of the published asset pricing factors are likely false. In a paper published in the Review of Financial Studies in 2018 with Yan Liu, Harvey shows how to improve the ability to detect skilled and unskilled managers with a method designed to reduce the noise in past performance. Harvey's Presidential Address to the American Finance Association, published in the Journal of Finance in 2017, challenges the way that research is conducted in empirical finance and points out some basic misunderstandings of statistics. Finally, Harvey's latest work with Yan Liu provides a new way to calibrate Type I (mistakenly choosing a bad manager) and Type II (missing a good investment manager) errors.
+
+
+== Awards ==
+Fellow of the American Finance Association, 2017
+Bernstein Fabozzi/Jacobs Levy Awards 2015 and 2016
+James R. Vertin Award 2007 from CFA Institute
+Graham and Dodd Award 2013 from CFA Institute
+Jensen Prize 2001 and 2005 from Journal of Financial Economics
+
+
+== Editorships ==
+Harvey served as editor of the Journal of Finance, a position he held for the 2006–2012 term.
+Previously, he served as an editor of the Review of Financial Studies from 1999–2005.
+
+
+== References ==
+
+
+== External links ==
+Duke University
+NBER
+Campbell Harvey publications indexed by Google Scholar

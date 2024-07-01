@@ -1,0 +1,195 @@
+Cash flow matching is a process of hedging in which a company or other entity matches its cash outflows (i.e., financial obligations) with its cash inflows over a given time horizon. It is a subset of immunization strategies in finance. Cash flow matching is of particular importance to defined benefit pension plans.
+
+
+== Solution with linear programming ==
+It is possible to solve the simple cash flow matching problem using linear programming. Suppose that we have a choice of 
+  
+    
+      
+        j
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        n
+      
+    
+    {\displaystyle j=1,...,n}
+   bonds with which to receive cash flows over 
+  
+    
+      
+        t
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        T
+      
+    
+    {\displaystyle t=1,...,T}
+   time periods in order to cover liabilities 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          L
+          
+            T
+          
+        
+      
+    
+    {\displaystyle L_{1},...,L_{T}}
+   for each time period.  The 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  th bond in time period 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is assumed to have known cash flows 
+  
+    
+      
+        
+          F
+          
+            t
+            j
+          
+        
+      
+    
+    {\displaystyle F_{tj}}
+   and initial price 
+  
+    
+      
+        
+          p
+          
+            j
+          
+        
+      
+    
+    {\displaystyle p_{j}}
+  . It possible to buy 
+  
+    
+      
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle x_{j}}
+   bonds and to run a surplus 
+  
+    
+      
+        
+          s
+          
+            t
+          
+        
+      
+    
+    {\displaystyle s_{t}}
+   in a given time period, both of which must be non-negative, and leads to the set of constraints:Our goal is to minimize the initial cost of purchasing bonds to meet the liabilities in each time period, given by 
+  
+    
+      
+        
+          p
+          
+            T
+          
+        
+        x
+      
+    
+    {\displaystyle p^{T}x}
+  . Together, these requirements give rise to the associated linear programming problem:where 
+  
+    
+      
+        F
+        ∈
+        
+          
+            R
+          
+          
+            T
+            ×
+            n
+          
+        
+      
+    
+    {\displaystyle F\in \mathbb {R} ^{T\times n}}
+   and 
+  
+    
+      
+        R
+        ∈
+        
+          
+            R
+          
+          
+            T
+            ×
+            T
+          
+        
+      
+    
+    {\displaystyle R\in \mathbb {R} ^{T\times T}}
+  , with entries:In the instance when fixed income instruments (not necessarily bonds) are used to provide the dedicated cash flows, it is unlikely to be the case that fractional components are available for purchase. Therefore, a more realistic approach to cash flow matching is to employ mixed-integer linear programming to select a discrete number of instruments with which to match liabilities.
+
+
+== See also ==
+Cash flow hedging
+Debt sculpting
+Duration gap
+Dedicated portfolio theory
+Fannie Mae
+Immunization (finance)
+Financial risk management § Investment management
+
+
+== References ==

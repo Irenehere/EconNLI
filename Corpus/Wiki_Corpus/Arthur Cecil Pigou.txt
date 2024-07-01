@@ -1,0 +1,85 @@
+Arthur Cecil Pigou (; 18 November 1877 – 7 March 1959) was an English economist. As a teacher and builder of the School of Economics at the University of Cambridge, he trained and influenced many Cambridge economists who went on to take chairs of economics around the world. His work covered various fields of economics, particularly welfare economics, but also included Business cycle theory, unemployment, public finance, index numbers, and measurement of national output. His reputation was affected adversely by influential economic writers who used his work as the basis on which to define their own opposing views. He reluctantly served on several public committees, including the Cunliffe Committee and the 1919 Royal Commission on Income tax.
+
+
+== Early life and education ==
+Pigou was born at Ryde on the Isle of Wight, the son of Clarence George Scott Pigou, an army officer, and his wife Nora Biddel Frances Sophia, daughter of Sir John Lees, 3rd Baronet. He won a scholarship to Harrow School, where he was in Newlands house and became the first modern head of school. The school's economics society is named The Pigou Society in his honour. In 1896 he was admitted as a history scholar to King's College, Cambridge, where he first read history under Oscar Browning. He won the Chancellor's Gold Medal for English Verse in 1899, and the Cobden (1901), Burney (1901), and Adam Smith Prizes (1903), and made his mark in the Cambridge Union Society, of which he was President in 1900. He came to economics through the study of philosophy and ethics under the Moral Science Tripos. He studied economics under Alfred Marshall, whom he later succeeded as professor of political economy. His first and unsuccessful attempt at a fellowship of King's was a thesis on "Browning as a Religious Teacher".
+
+
+== Academic work ==
+Pigou began lecturing on economics in 1901 and started giving the course on advanced economics to second year students on which was based the education of many Cambridge economists over the next thirty years. In his early days he lectured on a variety of subjects outside economics. He became a Fellow of King's College on his second attempt in March 1902, and was appointed Girdler's Lecturer in the summer of 1904. He devoted himself to exploring the various departments of economic doctrine, and as a result published the works on which his worldwide reputation rests. He specifically studied under Alfred Marshall and focused on normative economics. He became intrigued by welfare economics, which examines the overall benefit to society that comes from all the decisions made: those that individuals make about buying, selling and working, and those that firms make about production and employment. His first work was more philosophical than his later work, as he expanded the essay which had won him the Adam Smith Prize in 1903 into Principles and Methods of Industrial Peace.
+In 1908 Pigou was elected Professor of Political Economy at the University of Cambridge in succession to Alfred Marshall. He held the post until 1943.
+In 1909 he wrote an essay  in favour of Land Value Taxation, likely to be interpreted as support for Lloyd George's People's Budget. Marshall's views on the land value tax were the inspiration for his view on taxing negative externalities.Pigou's most enduring contribution was The Economics of Welfare, 1920, in which he introduced the concept of externality and the idea that externality problems could be corrected by the imposition of a Pigovian tax (also spelled "Pigouvian tax"). In The Economics of Welfare (initially called Wealth and Welfare), Pigou developed Marshall’s concept of externality, which is a cost imposed or benefit conferred on others that is not accounted for by the person who creates these costs or benefits. Pigou argued that negative externalities (costs imposed) should be offset by a tax, while positive externalities should be offset by a subsidy. In the early 1960s Pigou's analysis was criticised by Ronald Coase, who argued that taxes and subsidies are not necessary if the partners in the transaction can bargain over the transaction. The externality concept remains central to modern welfare economics and particularly to environmental economics. The Pigou Club, named in his honour, is an association of modern economists who support the idea of a carbon tax to address the problem of climate change.
+A neglected aspect of Pigou's work is his analysis of a range of labour-market phenomena studied by subsequent economists, including collective bargaining, wage rigidity, internal labour markets, segmented labour market, and human capital. Sticky wages are when workers’ earnings don’t
+adjust quickly to changes in labour market conditions. This can slow an economy's recovery from a recession.Pigou’s contributions to solving unemployment serve as a basic foundation for understanding the phenomena of labor market externalities. His Theory of Unemployment, first published in 1933, describe many of the factors that contribute to unemployment, such as sticky wages, and an unwillingness to work at the market price. Both of these are factors that were given by Alfred Marshall and reinforced by Pigou. Up until the post-World War One era, frictional unemployment was understood as part of a functional market. However, Pigou also notes that there is another type of unemployment that emerges not because people are unwilling to work at market wages but because employers have lower demand for labor. With the lack of employment that resulted from the devastation of four years of war, England suffered from an economic depression long before the Great Depression, due in part to the fact that employers were hesitant to continue to hire women and veterans. This new factor of unemployment, Pigou writes, could be solved with subsidies provided by the government to industries suffering the most, such as manufacturing.Keynes argues against several points that Pigou makes in his Theory of Unemployment, but the most visible is Pigou’s theory that unemployment is either frictional or voluntary. However, the separation between frictional and voluntary unemployment is the first foray into understanding the way unemployment impacts the labor market until the publishing of Keynes General Theory.
+One of his early acts was to provide private financial support for John Maynard Keynes to work on probability theory. Pigou and Keynes had great mutual affection and regard for each other, and their intellectual differences never put their personal friendship seriously in jeopardy.
+Pigou was generally critical of Keynesian macroeconomics and developed the idea of the Pigou effect on real money balances to argue that the economy would be more self-stabilizing than Keynes proposed. In a couple of lectures delivered in 1949 he made a more favourable, though still critical evaluation of Keynes' work: "I should say... that in setting out and developing his fundamental conception, Keynes made a very important, original and valuable addition to the armoury of economic analysis". He later said that he had come with the passage of time to feel that he had failed earlier to appreciate some of the important things that Keynes was trying to say.Keynes, in turn, was very critical of Pigou, mentioning Pigou at least 17 times in The General Theory of Employment, Interest and Money, usually disparagingly. Keynes states that "[Pigou] is unable to devise any satisfactory formula to evaluate new equipment against old when, owing to changes in technique, the two are not identical. I believe that the concept at which Professor Pigou is aiming is the right and appropriate concept for economic analysis. But, until a satisfactory
+system of units has been adopted, its precise definition is an impossible task."
+
+
+== Personal life ==
+Pigou had strong principles, and these gave him some problems in World War I. He was a conscientious objector to military service when it required an obligation to destroy human life. He remained at Cambridge, but during the vacations was an ambulance driver at the front for the Friends' Ambulance Unit, and insisted on undertaking jobs of particular danger. Towards the end of the war he reluctantly accepted a post in the Board of Trade, but showed little aptitude for the work.
+He was a reluctant member of the Cunliffe Committee on the Currency and Foreign Exchange (1918–1919), the Royal Commission on the Income Tax (1919–1920), and the Chamberlain Committee on the Currency and Bank of England Note Issues (1924–1925). The report of the last body was the prelude to the much criticised restoration of the gold standard at the old parity of exchange. Pigou was elected to the British Academy in 1925, but resigned later in 1947. In later years he withdrew from national affairs and devoted himself to more academic economics and writing weighty letters to The Times on problems of the day.  He was a foreign honorary member of the American Academy of Arts and Sciences, a foreign member of the Accademia dei Lincei, and an honorary resident of the International Economic Committee.
+He loved mountains and climbing, and introduced climbing to many friends, such as Wilfrid Noyce and others, who became far greater climbers. An illness affecting his heart developed in the early 1930s, however, and this affected his vigour, curtailing his climbing and leaving him with phases of debility for the rest of his life. Pigou gave up his professor's chair in 1943, but remained a Fellow of King's College until his death. In his later years he gradually became more of a recluse, emerging occasionally from his rooms to give lectures or to take a walk.
+Pigou never married. He had good friendships, particularly in his later years. He had a penchant for complaining about politicians.
+
+
+== Major publications ==
+Browning as a Religious Teacher, 1901.
+The Riddle of the Tariff, 1903.
+"Monopoly and Consumers' Surplus", 1904, Economic Journal.
+ Principles and Methods of Industrial Peace, 1905.
+Pigou, Arthur Cecil (1906). Protective & Preferential Import Duties. ISBN 9780415143912.
+"Review of the Fifth Edition of Marshall's Principles of Economics", 1907, Economic Journal.
+"Producers' and Consumers' Surplus", 1910, Economic Journal.
+Wealth and Welfare, 1912.
+Unemployment, 1914.
+Some Aspects of the Housing Problem, Warburton Lecture, 1914.
+"The Value of Money." 1917, Quarterly Journal of Economics, 32( 1), pp. 38– 65.
+The Economics of Welfare (1st ed.). London: MacMillan and Co., Ltd. 1920. — 4th ed. 1932: Pdf
+A Levy on Capital and a Levy on War Wealth, 1920 (London: Humphrey Milford)
+"Empty Economic Boxes: A reply", 1922, Economic Journal.
+The Political Economy of War, 1922.
+"Exchange Value of Legal Tender Money", 1922, in: Essays in Applied Economics.
+Essays in Applied Economics, 1923.
+Industrial Fluctuations, 1927.
+"The Law of Diminishing and Increasing Cost", 1927, Economic Journal.
+A Study in Public Finance, 1928.
+"An Analysis of Supply", 1928, Economic Journal.
+The Theory of Unemployment, 1933.
+The Economics of Stationary States, 1935.
+"Mr. J.M. Keynes' General Theory of Employment ...," 1936, Economica, N.S. 3(10), pp. 115–132.
+"Real and Money Wage Rates in Relation to Unemployment", 1937, Economic Journal.
+"Money Wages in Relation to Unemployment", 1938, Economic Journal.
+Employment and Equilibrium, 1941.
+"The Classical Stationary State", 1943, Economic Journal.
+Lapses from Full Employment, 1944.
+"Economic Progress in a Stable Environment", 1947, Economica.
+Aspects of British Economic History 1918-1925, 1947 (London: Macmillan)
+The Veil of Money, 1949. First-page chapter-preview links
+Keynes's General Theory: A retrospective view, 1951.
+Essays in Economics, 1952.
+
+
+== See also ==
+Liberalism in the United Kingdom
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Sources ===
+"Arthur Pigou". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/35529. (Subscription or UK public library membership required.)
+
+
+== Further reading ==
+Aslanbeigui, Nahid & Guy Oakes (2015). Arthur Cecil Pigou. Palgrave Macmillan. ISBN 978-1-137-31450-5.
+Collard, David, ed. (1917). A.C.Pigou: Journal Papers 1902-1922. London: Palgrave Macmillan.
+Kumekawa, Ian (2017). The First Serious Optimist: A.C. Pigou and the Birth of Welfare Economics. Princeton University Press. ISBN 978-0691163482.
+
+
+== External links ==
+ Quotations related to Arthur Cecil Pigou at Wikiquote
+Works by or about Arthur Cecil Pigou at Internet Archive

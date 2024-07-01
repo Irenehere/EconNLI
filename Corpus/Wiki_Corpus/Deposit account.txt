@@ -1,0 +1,29 @@
+A deposit account is a bank account maintained by a financial institution in which a customer can deposit and withdraw money. Deposit accounts can be savings accounts, current accounts or any of several other types of accounts explained below.
+Transactions on deposit accounts are recorded in a bank's books, and the resulting balance is recorded as a liability of the bank and represents an amount owed by the bank to the customer. In other words, the banker-customer (depositor) relationship is one of debtor-creditor. Some banks charge fees for transactions on a customer's account. Additionally, some banks pay customers interest on their account balances.
+
+
+== Types of accounts ==
+
+
+== How banking works ==
+In banking, the verbs "deposit" and "withdraw" mean a customer paying money into, and taking money out of, an account, respectively. From a legal and financial accounting standpoint, the noun "deposit" is used by the banking industry in financial statements to describe the liability owed by the bank to its depositor, and not the funds that the bank holds as a result of the deposit, which are shown as assets of the bank.
+Subject to restrictions imposed by the terms and conditions of the account, the account holder (customer) retains the right to have the deposited money repaid on demand. The terms and conditions may specify the methods by which a customer may move money into or out of the account, e.g., by cheque, internet banking, EFTPOS or other channels.
+For example, a depositor depositing $100 in cash into a checking account at a bank in the United States surrenders legal title to the $100 in cash, which becomes an asset of the bank. On the bank's books, the bank debits its cash account for the $100 in cash, and credits a "deposits" liability account for an equal amount. (See double-entry bookkeeping system.)
+In the financial statements of the bank, the $100 in currency would be shown on the balance sheet as an asset of the bank and the deposit account would be shown as a liability owed by the bank to its customer. The bank's financial statement reflects the economic substance of the transaction, which is that the bank has borrowed $100 from its customer and has contractually obliged itself to repay the customer according to the terms of the agreement. These "physical" reserve funds may be held as deposits at the relevant central bank and will receive interest as per monetary policy.
+Typically, a bank will not hold the entire sum in reserve, but will lend most of the money to other clients, in a process known as fractional-reserve banking. This allows providers to earn interest on the asset and hence to pay interest on deposits.
+By transferring the ownership of deposits from one party to another, banks can avoid using physical cash as a method of payment. Commercial bank deposits account for most of the money supply in use today. For example, if a bank in the United States makes a loan to a customer by depositing the loan proceeds in that customer's checking account, the bank typically records this event by debiting an asset account on the bank's books (called loans receivable or some similar name) and credits the deposit liability or checking account of the customer on the bank's books. From an economic standpoint, the bank has essentially created economic money (although not legal tender). The customer's checking account balance has no banknotes in it, as a demand deposit account is simply a liability owed by the bank to its customer. In this way, commercial banks are allowed to increase the money supply (without printing currency).
+
+
+== Regulations ==
+
+Banking operates under an intricate system of customs and conventions developed over many centuries. It is also normally subject to statutory regulations, such as reserve requirements developed to reduce the risk of failure of the bank. It may also have the purpose of reducing the extent of depositor losses in the event of bank failure.
+To reduce the risk to depositors of a bank failure, some bank deposits may also be secured by a deposit insurance scheme, or be protected by a government guarantee scheme.
+
+
+== See also ==
+Bank
+Capital market
+Ethical banking
+
+
+== References ==

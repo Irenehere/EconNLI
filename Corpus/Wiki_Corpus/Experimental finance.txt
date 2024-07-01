@@ -1,0 +1,64 @@
+The goals of experimental finance are to understand human and market behavior in settings relevant to finance. Experiments are synthetic economic environments created by researchers specifically to answer research questions. This might involve, for example, establishing different market settings and environments to observe experimentally and analyze agents' behavior and the resulting characteristics of trading flows, information diffusion and aggregation, price setting mechanism and returns processes.
+Fields to which experimental methods have been applied include corporate finance, asset pricing, financial econometrics, international finance, personal financial decision-making, macro-finance, banking and financial intermediation, capital markets, risk management and insurance, derivatives, quantitative finance, corporate governance and compensation, investments, market mechanisms, SME and microfinance and entrepreneurial finance. 
+Researchers in experimental finance can study to what extent existing financial economics theory makes valid predictions and attempt to discover new principles on which theory can be extended.
+Experimental finance is a branch of experimental economics and its most common use lies in the field of behavioral finance.
+
+
+== History ==
+In 1948, Chamberlin reported results of the first market experiment. Since then the acceptability, recognition, role, and methods of experimental economics have evolved. 
+From the early 1980s on a similar pattern emerged in experimental finance.
+The foundational work in experimental finance was the work of Forsythe, Palfrey and Plott (1980), Plott and Sunder (1982), and Smith, Suchanek and Williams (1988).
+
+
+== Scientific value ==
+Financial economics has one of the most detailed and updated observational data available of all branches of economics. Consequently, finance is characterized by strong empirical traditions. Much analysis is done on data from stock exchanges including bids, asks, transaction prices, volume, etc. There is also data available from information services on actions and events that may influence markets. Data from these sources is not able to report on expectations, on which theory of financial markets is built. In experimental markets the researcher is able to know expectations, and control fundamental values, trading institutions, and market parameters such as available liquidity and the total stock of the asset. This gives the researcher the ability to know the price and other predictions of alternative theories. This creates the opportunity to do powerful tests on the robustness of theories which were not possible from field data, since there is little knowledge on the parameters and expectations from field data.
+
+
+== Advantages ==
+Financial data analysis is based on data drawn from settings created for a purpose other than answering a specific research question. This results in the situation where any interpretation of the results may be challenged since it ignores other variables that have changed. Traditional data analysis issues include omitted-variables biases, self-selection biases, unobservable independent variables, and unobservable dependent variables.Properly designed experiments are able to avoid several problems:Omitted-variables bias: Multiple experiments can be created with settings that differ from one another in exactly one independent variable. This way all other variables of the setting are controlled, which eliminates alternative explanations for observed differences in the dependent variable.
+Self-selection: By randomly assigning subjects to different treatment groups, the experimenters avoid issues caused by self-selection and are able to directly observe the changes in the dependent variable by changing by altering certain independent variables.
+Unobservable independent variables: Experimentalists can create experimental settings themselves. This makes them able to observe all variables. Traditional data analysis may not be able to observe some variables, but sometimes experimenters cannot directly elicit certain information from subjects either. Without directly knowing a certain independent variable, good experimental design can create measures that to a large extent reflects the unobservable independent variable and the problem is therefore avoided.
+Unobservable dependent variables: In traditional data studies, extracting the cause for the dependent variable to change may prove to be difficult. Experimentalists have the ability to create certain tasks that elicit the dependent variable.
+
+
+== Types of experiments ==
+
+
+=== Laboratory experiments ===
+Laboratory experiments are the most common form of experimentation. Here the idea is to construct a highly controlled setting in a laboratory. The use of lab experiments increased due to growing interest in issues such as economic cooperation, trust, and neuroeconomics. In this type of experiments, treatment is assigned randomly to a group of individuals in order to compare their economic actions and behavior to an untreated control group within the artificial laboratory environment. The ability to control the variables in the experiment provides for more accurate assessment of causality.
+
+
+=== Controlled field studies or randomized field experiments ===
+Controlled field experiments also randomize treatments but do so in real world applications. Average effects on people's behavior can then be consistently estimated by comparing behavior before and after the allocation.
+
+
+=== Natural experiments ===
+A natural experiment happens when some feature of the real world is randomly changed which allows using the exogenous variation due to this change to study causal effects of an otherwise endogenous explanatory variable. Natural experiments are popular in economic and finance research since they offer intuitive interpretation of the underlying identifying assumptions and enable a broader audience to check their consistency, this compared to purely statistical identification.
+
+
+== Main findings ==
+Experimental methods in finance offer complementary methodologies that have allowed for the observation and manipulation of underlying determinants of prices, such as fundamental values or insider information. Experimental studies complement empirical work, particularly in the area of theory testing and development. Exploiting this experimental methodology has revealed some important findings over the past years. These findings could not have been reached by traditional field data analysis alone and are therefore experimental finance’s main contributions to the field of finance:
+Security markets can aggregate and disseminate information (there are efficient markets), but this process is less effective as the information becomes less widely held and the number of information components that must be aggregated increases.
+But this is not always the case (some of them are inefficient).
+When information dissemination occurs, it is rarely perfect or instantaneous. Learning takes time.
+More information is not always better from the point of view of the individual trader. Only those insiders who are much better informed than others can outperform other traders.
+Markets for longer-lived assets have a strong tendency to generate price bubbles and crashes, prolonged deviations from fundamental values.
+Emotions of traders play a role in generating bubbles in experimental asset markets.
+Asset mispricing has been largely associated with trader overconfidence.
+Prices as well as bids, offers, timing, etc., convey information. There are many channels for information flow.
+Well-functioning derivative markets can help to improve primary markets’ efficiency.
+Statistical efficiency or inability to make money using past data does not mean informational efficiency. Not being able to earn abnormal returns from the market does not mean that the price is right.
+
+
+== See also ==
+Experimental economics
+Behavioral economics
+Game theory
+Replication crisis #In economics
+
+
+== References ==
+
+
+== External links ==
+Society for Experimental Finance (SEF)

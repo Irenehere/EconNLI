@@ -1,0 +1,265 @@
+Greenhouse gases are those gases in the atmosphere that raise the surface temperature of planets such as the Earth. What distinguishes them from other gases is that they absorb the wavelengths of radiation that a planet emits, resulting in the greenhouse effect. The Earth is warmed by sunlight, causing its surface to radiate heat, which is then mostly absorbed by water vapor (H2O), carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and ozone (O3). Without greenhouse gases, the average temperature of Earth's surface would be about −18 °C (0 °F), rather than the present average of 15 °C (59 °F).Human activities since the beginning of the Industrial Revolution (around 1750) have increased atmospheric methane concentrations by over 150% and carbon dioxide by over 50%, up to a level not seen in over 3 million years. Carbon dioxide is the cause for about three quarters of global warming and can take thousands of years to be fully absorbed by the carbon cycle. Methane causes most of the remaining warming and lasts in the atmosphere for an average of 12 years.The vast majority of carbon dioxide emissions by humans come from the combustion of fossil fuels, principally coal, petroleum (including oil) and natural gas. Additional contributions come from cement manufacturing, fertilizer production, and changes in land use like deforestation. Methane emissions originate from agriculture, fossil fuel production, waste, and other sources.Average global surface temperature has risen by 1.2 °C (2.2 °F) as a result of greenhouse gas emissions. If current emission rates continue then temperatures will surpass 2.0 °C (3.6 °F) sometime between 2040 and 2070, which is the level the United Nations' Intergovernmental Panel on Climate Change (IPCC) says is "dangerous".
+
+
+== Definition ==
+
+Greenhouse gases are infrared active gases that absorb and emit infrared radiation in the wavelength range emitted by Earth.: 2233  Carbon dioxide (0.04%), nitrous oxide, methane, and ozone are trace gases that account for almost 0.1% of Earth's atmosphere and have an appreciable greenhouse effect.
+A formal definition of greenhouses gases is as follows: "Gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and emit radiation at specific wavelengths within the spectrum of radiation emitted by the Earth’s surface, by the atmosphere itself, and by clouds. This property causes the greenhouse effect.": 2233  The radiation emitted by the Earth’s surface, the atmosphere and clouds is called thermal infrared or longwave radiation.: 2251 The most abundant greenhouse gases in Earth's atmosphere, listed in decreasing order of average global mole fraction, are:
+Water vapor (H2O)
+Carbon dioxide (CO2)
+Methane (CH4)
+Nitrous oxide (N2O)
+Ozone (O3)
+Chlorofluorocarbons (CFCs and HCFCs)
+Hydrofluorocarbons (HFCs)
+Perfluorocarbons (CF4, C2F6, etc.), SF6, and NF3Water vapor is a potent greenhouse gas but not one that humans are directly adding to. It is therefore not one of the drivers of climate change that the IPCC (Intergovernmental Panel on Climate Change) is concerned with, and therefore not included in the IPCC list of greenhouse gases. Changes in water vapor is a feedback that impacts climate sensitivity in complicated ways (because of clouds mostly).
+
+
+=== Infrared active gases ===
+Gases which can absorb and emit thermal infrared radiation, are said to be infrared active.Most gases whose molecules have two different atoms (such as carbon monoxide, CO), and all gasses with three or more atoms (including H2O and CO2), are infrared active and act as greenhouse gases. Technically, this is because an asymmetry in the molecule's electric charge distribution allows molecular vibrations to interact with electromagnetic radiation.Gasses with only one atom (such as argon, Ar) or with two identical atoms (such as nitrogen, N2, and oxygen, O2) are not infrared active. They are transparent to thermal radiation, and, for practical purposes, do not absorb or emit thermal radiation. 
+This is because monatomic gases such as Ar do not have vibrational modes, and molecules containing two atoms of the same element such as N2 and O2 have no asymmetry in the distribution of their electrical charges when they vibrate. Hence they are almost totally unaffected by infrared thermal radiation. N2 and O2 are able to absorb and emit very small amounts of infrared thermal radiation as a result of collision-induced absorption. However, even taking relative abundances into account, this effect is small compared to the influences of Earth's major greenhouse gases.The major constituents of Earth's atmosphere, nitrogen (N2) (78%), oxygen (O2) (21%), and argon (Ar) (0.9%), are not infrared active and so are not greenhouse gases. These gases make up more than 99% of the dry atmosphere.
+
+
+== Sources ==
+
+
+=== Natural sources ===
+Most greenhouse gases have both natural and human-caused sources. An exception are purely human-produced synthetic halocarbons which have no natural sources. During the pre-industrial Holocene, concentrations of existing gases were roughly constant, because the large natural sources and sinks roughly balanced. In the industrial era, human activities have added greenhouse gases to the atmosphere, mainly through the burning of fossil fuels and clearing of forests.
+
+
+=== Greenhouse gas emissions from human activities ===
+
+
+=== Water vapor ===
+Water vapor accounts for the largest percentage of the greenhouse effect, between 36% and 66% for clear sky conditions and between 66% and 85% when including clouds. Water vapor concentrations fluctuate regionally, but human activity does not directly affect water vapor concentrations except at local scales, such as near irrigated fields. Indirectly, human activity that increases global temperatures will increase water vapor concentrations, a process known as water vapor feedback. The atmospheric concentration of vapor is highly variable and depends largely on temperature, from less than 0.01% in extremely cold regions up to 3% by mass in saturated air at about 32 °C. (See Relative humidity#Other important facts.)
+The average residence time of a water molecule in the atmosphere is only about nine days, compared to years or centuries for other greenhouse gases such as CH4 and CO2. Water vapor responds to and amplifies effects of the other greenhouse gases. The Clausius–Clapeyron relation establishes that more water vapor will be present per unit volume at elevated temperatures. This and other basic principles indicate that warming associated with increased concentrations of the other greenhouse gases also will increase the concentration of water vapor (assuming that the relative humidity remains approximately constant; modeling and observational studies find that this is indeed so). Because water vapor is a greenhouse gas, this results in further warming and so is a "positive feedback" that amplifies the original warming. Current estimates (as of 2000) suggest that water vapor feedback has a "gain" coefficient of about 0.4; a gain coefficient must be 1 or greater to create an unstable feedback loop of the sort that could stimulate runaway warming. Thus, although water vapor feedback amplifies the impact of temperature changes caused by other factors, there is no indication that Earth is involved in a runaway greenhouse effect of the sort that could lead to Venus-like conditions.
+
+
+== Role in heat transport and radiative forcing ==
+
+
+=== Effects on air and surface ===
+Absorption and emission of thermal radiation by greenhouse gases plays a role in heat transport in the air and at the surface:
+
+Atmospheric cooling: Greenhouse gases emit more thermal radiation than they absorb, and so have an overall cooling effect on air.: 139 
+Inhibition of radiative surface cooling: Greenhouse gases limit radiative heat flow away from the surface and within the lower atmosphere. Greenhouse gases exchange thermal radiation with the surface, reducing the overall rate of upward radiative heat transfer.: 139 Naming these effects contributes to a full understanding of the role of greenhouse gases. However, these effects are of secondary importance when it comes to understanding global warming. It is important to focus on top-of-atmosphere energy balance in order to correctly reason about global warming. It has been argued that the surface budget fallacy, in which focus on the surface energy budget leads to faulty reasoning, constitutes a common fallacy when thinking about the greenhouse effect and global warming.: 413 
+
+
+=== Effect at top-of-atmosphere (TOA) ===
+At the top of the atmosphere (TOA), absorbing and emission of thermal radiation by greenhouse gases leads to inhibition of radiative cooling to space, which means the amount of thermal radiation reaching space is reduced, relative to what is emitted by the surface. The change in TOA energy balance leads to the surface accumulating thermal energy and warming until TOA energy balance is achieved.
+
+
+=== Radiative forcing ===
+Radiative forcing is a metric that characterizes the impact of an external change in a factor that influences climate, e.g., a change in the concentration of greenhouse gases, or the effect of a volcanic eruption. The radiative forcing associated with a change is calculated as the change in the top-of-atmosphere (TOA) energy balance that would be caused by the external change, if one imagined that the change could be made without giving the troposphere or surface time to respond to reduce the imbalance. A positive forcing indicates more energy arriving than leaving.: 2245  The term radiative forcing has been used inconsistently in the scientific literature.Increasing the concentration of greenhouse gases is associated with a positive radiative forcing. Increasing the concentration of greenhouse gases tends to increase the TOA energy imbalance, leading to additional warming.
+The major non-gas contributor to Earth's greenhouse effect, clouds, also absorb and emit infrared radiation and thus have an effect on greenhouse gas radiative properties. Clouds are water droplets or ice crystals suspended in the atmosphere.
+
+
+==== Chemical process contributions to radiative forcing ====
+Some gases contribute indirectly to altering the TOA radiative balance through participation in chemical processes within the atmosphere.Oxidation of CO to CO2 directly produces an unambiguous increase in radiative forcing although the reason is subtle. The peak of the thermal IR emission from Earth's surface is very close to a strong vibrational absorption band of CO2 (wavelength 15 microns, or wavenumber 667 cm−1). On the other hand, the single CO vibrational band only absorbs IR at much shorter wavelengths (4.7 microns, or 2145 cm−1), where the emission of radiant energy from Earth's surface is at least a factor of ten lower. Oxidation of methane to CO2, which requires reactions with the OH radical, produces an instantaneous reduction in radiative absorption and emission since CO2 is a weaker greenhouse gas than methane. However, the oxidations of CO and CH4 are entwined since both consume OH radicals. In any case, the calculation of the total radiative effect includes both direct and indirect forcing.A second type of indirect effect happens when chemical reactions in the atmosphere involving these gases change the concentrations of greenhouse gases. For example, the destruction of non-methane volatile organic compounds (NMVOCs) in the atmosphere can produce ozone. The size of the indirect effect can depend strongly on where and when the gas is emitted.Methane has indirect effects in addition to forming CO2. The main chemical that reacts with methane in the atmosphere is the hydroxyl radical (OH), thus more methane means that the concentration of OH goes down. Effectively, methane increases its own atmospheric lifetime and therefore its overall radiative effect. The oxidation of methane can produce both ozone and water; and is a major source of water vapor in the normally dry stratosphere. CO and NMVOCs produce CO2 when they are oxidized. They remove OH from the atmosphere, and this leads to higher concentrations of methane. The surprising effect of this is that the global warming potential of CO is three times that of CO2. The same process that converts NMVOCs to carbon dioxide can also lead to the formation of tropospheric ozone. Halocarbons have an indirect effect because they destroy stratospheric ozone. Finally, hydrogen can lead to ozone production and CH4 increases as well as producing stratospheric water vapor.
+
+
+== Role in greenhouse effect ==
+
+
+=== Contributions to the overall greenhouse effect ===
+
+The most important contributions to the total greenhouse effect are shown in the following table.
+
+Greenhouse gases not listed explictly above include sulfur hexafluoride, hydrofluorocarbons and perfluorocarbons (see IPCC list of greenhouse gases).
+It is not possible to state that a certain gas causes an exact percentage of the greenhouse effect. This is because some of the gases absorb and emit radiation at the same frequencies as others, so that the total greenhouse effect is not simply the sum of the influence of each gas. The higher ends of the ranges quoted are for each gas alone; the lower ends account for overlaps with the other gases. In addition, some gases, such as methane, are known to have large indirect effects that are still being quantified.
+
+
+=== Contributions to enhanced greenhouse effect ===
+Anthropogenic changes to the greenhouse effect are referred to as the enhanced greenhouse effect.: 2223 The contribution of each gas to the enhanced greenhouse effect is determined by the characteristics of that gas, its abundance, and any indirect effects it may cause. For example, the direct radiative effect of a mass of methane is about 84 times stronger than the same mass of carbon dioxide over a 20-year time frame but it is present in much smaller concentrations so that its total direct radiative effect has so far been smaller, in part due to its shorter atmospheric lifetime in the absence of additional carbon sequestration. On the other hand, in addition to its direct radiative impact, methane has a large, indirect radiative effect because it contributes to ozone formation. A publication from 2005 said that the contribution to climate change from methane was at least double previous estimates as a result of this effect.
+
+
+==== Radiative forcing and annual greenhouse gas index ====
+Earth absorbs some of the radiant energy received from the sun, reflects some of it as light and reflects or radiates the rest back to space as heat. A planet's surface temperature depends on this balance between incoming and outgoing energy. When Earth's energy balance is shifted, its surface becomes warmer or cooler, leading to a variety of changes in global climate.A number of natural and human-made mechanisms can affect the global energy balance and force changes in Earth's climate. Greenhouse gases are one such mechanism. Greenhouse gases absorb and emit some of the outgoing energy radiated from Earth's surface, causing that heat to be retained in the lower atmosphere. As explained above, some greenhouse gases remain in the atmosphere for decades or even centuries such as Nitrous oxide and Fluorinated gases, and therefore can affect Earth's energy balance over a long period. Radiative forcing quantifies (in Watts per square meter) the effect of factors that influence Earth's energy balance; including changes in the concentrations of greenhouse gases. Positive radiative forcing leads to warming by increasing the net incoming energy, whereas negative radiative forcing leads to cooling, as with anti-greenhouse effects causing gases like sulfur dioxide.
+The Annual Greenhouse Gas Index (AGGI) is defined by atmospheric scientists at NOAA as the ratio of total direct radiative forcing due to long-lived and well-mixed greenhouse gases for any year for which adequate global measurements exist, to that present in year 1990. These radiative forcing levels are relative to those present in year 1750 (i.e. prior to the start of the industrial era). 1990 is chosen because it is the baseline year for the Kyoto Protocol, and is the publication year of the first IPCC Scientific Assessment of Climate Change. As such, NOAA states that the AGGI "measures the commitment that (global) society has already made to living in a changing climate. It is based on the highest quality atmospheric observations from sites around the world. Its uncertainty is very low."
+
+
+==== Global warming potential ====
+The global warming potential (GWP) depends on both the efficiency of the molecule as a greenhouse gas and its atmospheric lifetime. GWP is measured relative to the same mass of CO2 and evaluated for a specific timescale. Thus, if a gas has a high (positive) radiative forcing but also a short lifetime, it will have a large GWP on a 20-year scale but a small one on a 100-year scale. Conversely, if a molecule has a longer atmospheric lifetime than CO2 its GWP will increase when the timescale is considered. Carbon dioxide is defined to have a GWP of 1 over all time periods.
+Methane has an atmospheric lifetime of 12 ± 2 years. The 2021 IPCC report lists the GWP as 83 over a time scale of 20 years, 30 over 100 years and 10 over 500 years. A 2014 analysis, however, states that although methane's initial impact is about 100 times greater than that of CO2, because of the shorter atmospheric lifetime, after six or seven decades, the impact of the two gases is about equal, and from then on methane's relative role continues to decline. The decrease in GWP at longer times is because methane decomposes to water and CO2 through chemical reactions in the atmosphere.
+Examples of the atmospheric lifetime and GWP relative to CO2 for several greenhouse gases are given in the following table:
+
+The use of CFC-12 (except some essential uses) has been phased out due to its ozone depleting properties. The phasing-out of less active HCFC-compounds will be completed in 2030.
+
+
+== Concentrations in the atmosphere ==
+
+
+=== Factors affecting concentrations ===
+Atmospheric concentrations are determined by the balance between sources (emissions of the gas from human activities and natural systems) and sinks (the removal of the gas from the atmosphere by conversion to a different chemical compound or absorption by bodies of water).
+
+
+==== Airborne fraction ====
+The proportion of an emission remaining in the atmosphere after a specified time is the "airborne fraction" (AF). The annual airborne fraction is the ratio of the atmospheric increase in a given year to that year's total emissions. 
+As of 2006 the annual airborne fraction for CO2 was about 0.45. The annual airborne fraction increased at a rate of 0.25 ± 0.21% per year over the period 1959–2006.
+
+
+==== Atmospheric lifetime ====
+Aside from water vapor, which has a residence time of about nine days, major greenhouse gases are well mixed and take many years to leave the atmosphere. Although it is not easy to know with precision how long it takes greenhouse gases to leave the atmosphere, there are estimates for the principal greenhouse gases. Jacob (1999) defines the lifetime 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   of an atmospheric species X in a one-box model as the average time that a molecule of X remains in the box. Mathematically 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   can be defined as the ratio of the mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   (in kg) of X in the box to its removal rate, which is the sum of the flow of X out of the box
+(
+  
+    
+      
+        
+          F
+          
+            out
+          
+        
+      
+    
+    {\displaystyle F_{\text{out}}}
+  ),
+chemical loss of X
+(
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  ),
+and deposition of X
+(
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  )
+(all in kg/s):
+
+  
+    
+      
+        τ
+        =
+        
+          
+            m
+            
+              
+                F
+                
+                  out
+                
+              
+              +
+              L
+              +
+              D
+            
+          
+        
+      
+    
+    {\displaystyle \tau ={\frac {m}{F_{\text{out}}+L+D}}}
+  .If input of this gas into the box ceased, then after time 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  , its concentration would decrease by about 63%.
+The atmospheric lifetime of a species therefore measures the time required to restore equilibrium following a sudden increase or decrease in its concentration in the atmosphere. Individual atoms or molecules may be lost or deposited to sinks such as the soil, the oceans and other waters, or vegetation and other biological systems, reducing the excess to background concentrations. The average time taken to achieve this is the mean lifetime.
+Carbon dioxide has a variable atmospheric lifetime, and cannot be specified precisely.: 2237  Similar issues apply to other greenhouse gases, many of which have longer mean lifetimes than CO2, e.g. N2O has a mean atmospheric lifetime of 121 years.
+
+
+=== Current concentrations ===
+Abbreviations used in the two tables below: ppm = parts-per-million; ppb = parts-per-billion; ppt = parts-per-trillion; W/m2 = watts per square meter
+
+
+=== Changes since the Industrial Revolution ===
+
+Since the beginning of the Industrial Revolution, the concentrations of many of the greenhouse gases have increased. For example, the mole fraction of carbon dioxide has increased from 280 ppm to 421 ppm, or 140 ppm over modern pre-industrial levels. The first 30 ppm increase took place in about 200 years, from the start of the Industrial Revolution to 1958; however the next 90 ppm increase took place within 56 years, from 1958 to 2014.Recent data also shows that the concentration is increasing at a higher rate. In the 1960s, the average annual increase was only 37% of what it was in 2000 through 2007.
+Many observations are available online in a variety of Atmospheric Chemistry Observational Databases.
+
+
+=== Measurements from ice cores over the past 800,000 years ===
+Ice cores provide evidence for greenhouse gas concentration variations over the past 800,000 years (see the following section). Both CO2 and CH4 vary between glacial and interglacial phases, and concentrations of these gases correlate strongly with temperature. Direct data does not exist for periods earlier than those represented in the ice core record, a record that indicates CO2 mole fractions stayed within a range of 180 ppm to 280 ppm throughout the last 800,000 years, until the increase of the last 250 years. However, various proxies and modeling suggests larger variations in past epochs; 500 million years ago CO2 levels were likely 10 times higher than now. Indeed, higher CO2 concentrations are thought to have prevailed throughout most of the Phanerozoic Eon, with concentrations four to six times current concentrations during the Mesozoic era, and ten to fifteen times current concentrations during the early Palaeozoic era until the middle of the Devonian period, about 400 Ma. The spread of land plants is thought to have reduced CO2 concentrations during the late Devonian, and plant activities as both sources and sinks of CO2 have since been important in providing stabilizing feedbacks.
+Earlier still, a 200-million year period of intermittent, widespread glaciation extending close to the equator (Snowball Earth) appears to have been ended suddenly, about 550 Ma, by a colossal volcanic outgassing that raised the CO2 concentration of the atmosphere abruptly to 12%, about 350 times modern levels, causing extreme greenhouse conditions and carbonate deposition as limestone at the rate of about 1 mm per day. This episode marked the close of the Precambrian Eon, and was succeeded by the generally warmer conditions of the Phanerozoic, during which multicellular animal and plant life evolved. No volcanic carbon dioxide emission of comparable scale has occurred since. In the modern era, emissions to the atmosphere from volcanoes are approximately 0.645 billion tons of CO2 per year, whereas humans contribute 29 billion tons of CO2 each year.Measurements from Antarctic ice cores
+show that before industrial emissions started atmospheric CO2 mole fractions were about 280 parts per million (ppm), and stayed between 260 and 280 during the preceding ten thousand years. Carbon dioxide mole fractions in the atmosphere have gone up by approximately 35 percent since the 1900s, rising from 280 parts per million by volume to 387 parts per million in 2009. One study using evidence from stomata of fossilized leaves suggests greater variability, with carbon dioxide mole fractions above 300 ppm during the period seven to ten thousand years ago, though others have argued that these findings more likely reflect calibration or contamination problems rather than actual CO2 variability. Because of the way air is trapped in ice (pores in the ice close off slowly to form bubbles deep within the firn) and the time period represented in each ice sample analyzed, these figures represent averages of atmospheric concentrations of up to a few centuries rather than annual or decadal levels.
+
+
+== Removal from the atmosphere ==
+
+
+=== Natural processes ===
+Greenhouse gases can be removed from the atmosphere by various processes, as a consequence of:
+
+a physical change (condensation and precipitation remove water vapor from the atmosphere).
+a chemical reaction within the atmosphere. For example, methane is oxidized by reaction with naturally occurring hydroxyl radical, OH· and degraded to CO2 and water vapor (CO2 from the oxidation of methane is not included in the methane Global warming potential). Other chemical reactions include solution and solid phase chemistry occurring in atmospheric aerosols.
+a physical exchange between the atmosphere and the other components of the planet. An example is the mixing of atmospheric gases into the oceans.
+a chemical change at the interface between the atmosphere and the other components of the planet. This is the case for CO2, which is reduced by photosynthesis of plants, and which, after dissolving in the oceans, reacts to form carbonic acid and bicarbonate and carbonate ions (see ocean acidification).
+a photochemical change. Halocarbons are dissociated by UV light releasing Cl· and F· as free radicals in the stratosphere with harmful effects on ozone (halocarbons are generally too stable to disappear by chemical reaction in the atmosphere).
+
+
+=== Negative emissions ===
+
+A number of technologies remove greenhouse gases emissions from the atmosphere. Most widely analyzed are those that remove carbon dioxide from the atmosphere, either to geologic formations such as bio-energy with carbon capture and storage and carbon dioxide air capture, or to the soil as in the case with biochar. Many long-term climate scenario models require large-scale human-made negative emissions to avoid serious climate change.
+
+
+== History of scientific research ==
+
+In the late 19th century, scientists experimentally discovered that N2 and O2 do not absorb infrared radiation (called, at that time, "dark radiation"), while water (both as true vapor and condensed in the form of microscopic droplets suspended in clouds) and CO2 and other poly-atomic gaseous molecules do absorb infrared radiation. In the early 20th century, researchers realized that greenhouse gases in the atmosphere made Earth's overall temperature higher than it would be without them. During the late 20th century, a scientific consensus evolved that increasing concentrations of greenhouse gases in the atmosphere cause a substantial rise in global temperatures and changes to other parts of the climate system, with consequences for the environment and for human health.
+
+
+== Other planets ==
+
+Greenhouse gases exist in many atmospheres, creating greenhouse effects on Mars, Titan and particularly in the thick atmosphere of Venus.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Works cited ===
+Blasing, T.J. (February 2013), Current Greenhouse Gas Concentrations, doi:10.3334/CDIAC/atg.032, archived from the original on 16 July 2011, retrieved 30 October 2012
+IPCC TAR WG1 (2001), Houghton, J.T.; Ding, Y.; Griggs, D.J.; Noguer, M.; van der Linden, P.J.; Dai, X.; Maskell, K.; Johnson, C.A. (eds.), Climate Change 2001: The Scientific Basis, Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80767-0, archived from the original on 15 December 2019, retrieved 18 December 2019 (pb: 0-521-01495-6)
+IPCC (2021). Masson-Delmotte, V.; Zhai, P.; Pirani, A.; Connors, S. L.; et al. (eds.). Climate Change 2021: The Physical Science Basis (PDF). Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press (In Press).
+IPCC AR4 WG1 (2007), Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K.B.; Tignor, M.; Miller, H.L. (eds.), Climate Change 2007: The Physical Science Basis – Contribution of Working Group I (WG1) to the Fourth Assessment Report (AR4) of the Intergovernmental Panel on Climate Change (IPCC), Cambridge University Press, ISBN 978-0521880091 (pb: ISBN 978-0521705967)
+Canadell, Josep G.; Monteiro, Pedro M.S. (2021). "Chapter 5: Global Carbon and other Biogeochemical Cycles and Feedbacks" (PDF). IPCC AR6 WG1 2021.
+Forster, Piers; Storelvmo, Trude (2021). "Chapter 7: The Earth's Energy Budget, Climate Feedbacks, and Climate Sensitivity" (PDF). IPCC AR6 WG1 2021.
+Rogner, H.-H.; Zhou, D.; Bradley, R.; Crabbé, P.; Edenhofer, O.; Hare, B.; Kuijpers, L.; Yamaguchi, M. (2007), B. Metz; O.R. Davidson; P.R. Bosch; R. Dave; L.A. Meyer (eds.), Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0521880114, archived from the original on 21 January 2012, retrieved 14 January 2012
+
+
+== External links ==
+ Media related to Greenhouse gases at Wikimedia Commons
+Carbon Dioxide Information Analysis Center (CDIAC), U.S. Department of Energy, retrieved 26 July 2020
+Annual Greenhouse Gas Index (AGGI) from NOAA
+Atmospheric spectra of GHGs and other trace gases Archived 25 March 2013 at the Wayback Machine

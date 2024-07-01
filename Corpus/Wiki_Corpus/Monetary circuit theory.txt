@@ -1,0 +1,51 @@
+Monetary circuit theory is a heterodox theory of monetary economics, particularly money creation, often associated with the post-Keynesian school.
+It holds that money is created endogenously by the banking sector, rather than exogenously by central bank lending; it is a theory of endogenous money. It is also called circuitism and the circulation approach.
+
+
+== Contrast with mainstream theory ==
+The key distinction from mainstream economic theories of money creation is that circuitism holds that money is created endogenously by the banking sector, rather than exogenously by the government through central bank lending: that is, the economy creates money itself (endogenously), rather than money being provided by some outside agent (exogenously).
+These theoretical differences lead to a number of different consequences and policy prescriptions; circuitism rejects, among other things, the money multiplier based on reserve requirements, arguing that money is created by banks lending, which only then pulls in reserves from the central bank, rather than by re-lending money pushed in by the central bank.  The money multiplier arises instead from capital adequacy ratios, i.e. the ratio of its capital to its risk-weighted assets.
+
+
+== Circuitist model ==
+Circuitism is easily understood in terms of familiar bank accounts and debit card or credit card transactions: bank deposits are just an entry in a bank account book (not specie – bills and coins), and a purchase subtracts money from the buyer's account with the bank, and adds it to the seller's account with the bank.
+
+
+=== Transactions ===
+As with other monetary theories, circuitism distinguishes between hard money – money that is exchangeable at a given rate for some commodity, such as gold – and credit money. The theory considers credit money created by commercial banks as primary (at least in modern economies), rather than derived from central bank money – credit money drives the monetary system. While it does not claim that all money is credit money – historically money has often been a commodity, or exchangeable for such – basic models begin by only considering credit money, adding other types of money later.
+In circuitism, a monetary transaction – buying a loaf of bread, in exchange for dollars, for instance – is not a bilateral transaction (between buyer and seller) as in a barter economy, but is rather a tripartite transaction between buyer, seller, and bank. Rather than a buyer handing over a physical good in exchange for their purchase, instead there is a debit to their account at a bank, and a corresponding credit to the seller's account. This is precisely what happens in credit card or debit card transactions, and in the circuitist account, this is how all credit money transactions occur.
+For example, if one purchases a loaf of bread with fiat money bills, it may appear that one is purchasing the bread in exchange for the commodity of "dollar bills", but circuitism argues that one is instead simply transferring a credit, here with the issuing central bank: as the bills are not backed by anything, they are ultimately just a physical record of a credit with the central bank, not a commodity.
+
+
+=== Monetary creation ===
+In circuitism, as in other theories of credit money, credit money is created by a loan being extended. Crucially, this loan need not (in principle) be backed by any central bank money: the money is created from the promise (credit) embodied in the loan, not from the lending or relending of central bank money: credit is prior to reserves.When the loan is repaid, with interest, the credit money of the loan is destroyed, but reserves (equal to the interest) are created – the profit from the loan.  
+The failure of monetary policy during depressions – central banks give money to commercial banks, but the commercial banks do not lend it out – is referred to as "pushing on a string", and is cited by circuitists in favor of their model: credit money is pulled out by loans being made, not pushed out by central banks printing money and giving it to commercial banks to lend.
+In 2014, economist Richard Werner conducted an empirical study to determine if, in the process of issuing a loan, banks create new money or transfer money from another account. The study involved taking out a loan with a cooperating bank and monitoring their internal records to determine if the bank transfers the funds from other accounts within or outside the bank, or whether they are newly created. The study determined that the bank did not transfer funds between any accounts when the loan was issued. 
+
+
+== History ==
+Circuitism was developed by French and Italian economists after World War II; it was officially presented by Augusto Graziani in (Graziani 1989),
+following an earlier outline in (Graziani 1984).The notion and terminology of a money circuit dates at least to 1903, when amateur economist Nicholas Johannsen wrote Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens (The Circuit Theory of Money), under the pseudonym J.J.O. Lahn (Graziani 2003). In the interwar period, German and Austrian economists studied monetary circuits, under the term Kreislauf, with the term "circuit" being introduced by French economists following this usage. The main protagonists of the French approach to the monetary circuit is Alain Parguez. Today, the main defenders of the theory of the monetary circuit can be found in the work of Riccardo Realfonzo, Giuseppe Fontana and Riccardo Bellofiore in Italy; and in Canada, in the work of Marc Lavoie, Louis-Philippe Rochon and Mario Seccareccia.
+
+
+== Modeling difficulties ==
+While the verbal description of circuitism has attracted interest, it has proven difficult to model mathematically. Initial efforts to model the monetary circuit proved problematic, with models exhibiting a number of unexpected and undesired properties – money disappearing immediately, for instance. These problem go by such names as:
+
+Losses in Circuit
+Destruction of Money
+Dilemma of profitA comprehensive model of the total monetary circuit, which  is free from the above difficulties,   was presented recently by  Pokrovskii  et al.
+
+
+== See also ==
+Modern Monetary Theory, another theory of endogenous money
+Post-Keynesian economics
+
+
+== Further reading ==
+Graziani, Augusto (1989), Theory of the Monetary Circuit, ISBN 978-0-902169-39-5
+Graziani, Augusto (2003), The Monetary Theory of Production, ISBN 978-0-521-10417-3
+Realfonzo, Riccardo (2012), Circuit Theory, in J.E. King, The Elgar Companion to Post Keynesian Economics, Edward Elgar, pp. 87-92
+Realfonzo, Riccardo (2006), "The Italian Circuitist Approach", in A Handbook of Alternative Monetary Economics, edited by P. Arestis and M. Sawyer, Edward Elgar, Cheltenham, pp. 105-120.
+
+
+== References ==

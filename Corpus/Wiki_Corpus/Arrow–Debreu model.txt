@@ -1,0 +1,3118 @@
+In mathematical economics, the Arrow–Debreu model is a theoretical general equilibrium model. It posits that under certain economic assumptions (convex preferences, perfect competition, and demand independence) there must be a set of prices such that aggregate supplies will equal aggregate demands for every commodity in the economy.The model is central to the theory of general (economic) equilibrium and it is often used as a general reference for other microeconomic models. It was proposed by Kenneth Arrow, Gérard Debreu in 1954, and Lionel W. McKenzie independently in 1954, with later improvements in 1959.The A-D model is one of the most general models of competitive economy and is a crucial part of general equilibrium theory, as it can be used to prove the existence of general equilibrium (or Walrasian equilibrium) of an economy. In general, there may be many equilibria.
+Arrow (1972) and Debreu (1983) were separately awarded the Nobel Prize in Economics for their development of the model. McKenzie however was not awarded.
+
+
+== Preliminary concepts ==
+
+
+=== Convex sets and fixed points ===
+
+In 1954, McKenzie and the pair Arrow and Debreu independently proved the existence of general equilibria by invoking the Kakutani fixed-point theorem on the fixed points of a continuous function from a compact, convex set into itself. In the Arrow–Debreu approach, convexity is essential, because such fixed-point theorems are inapplicable to non-convex sets. For example, the rotation of the unit circle by 90 degrees lacks fixed points, although this rotation is a continuous transformation of a compact set into itself; although compact, the unit circle is non-convex. In contrast, the same rotation applied to the convex hull of the unit circle leaves the point (0,0) fixed. Notice that the Kakutani theorem does not assert that there exists exactly one fixed point. Reflecting the unit disk across the y-axis leaves a vertical segment fixed, so that this reflection has an infinite number of fixed points.
+
+
+=== Non-convexity in large economies ===
+
+The assumption of convexity precluded many applications, which were discussed in the Journal of Political Economy from 1959 to 1961 by Francis M. Bator, M. J. Farrell, Tjalling Koopmans, and Thomas J. Rothenberg. Ross M. Starr (1969) proved the existence of economic equilibria when some consumer preferences need not be convex. In his paper, Starr proved that a "convexified" economy has general equilibria that are closely approximated by "quasi-equilbria" of the original economy; Starr's proof used the Shapley–Folkman theorem.
+
+
+== Formal statement ==
+The contents of both theorems [fundamental theorems of welfare economics] are old beliefs in economics. Arrow and Debreu have recently treated this question with techniques permitting proofs.This statement is precisely correct; once there were beliefs, now there was knowledge.
+But more was at stake. Great scholars change the way that we think about the world, and about what and who we are. The Arrow-Debreu model, as communicated in Theory of Value changed basic thinking, and it quickly became the standard model of price theory. It is the “benchmark” model in Finance, International Trade, Public Finance, Transportation, and even macroeconomics... In rather short order it was no longer “as it is” in Marshall, Hicks, and Samuelson; rather it became “as it is” in Theory of Value.
+This section follows the presentation in, which is based on.
+
+
+=== Intuitive description of the Arrow–Debreu model ===
+The Arrow–Debreu model models an economy as a combination of three kinds of agents: the households, the producers, and the market. The households and producers transact with the market, but not with each other directly.
+The households possess endowments (bundles of commodities they begin with), which one may think of as "inheritance". For the sake of mathematical clarity, all households are required to sell all their endowment to the market at the beginning. If they wish to retain some of the endowment, they would have to repurchase from the market later. The endowments may be working hours, use of land, tons of corn, etc.
+The households possess proportional ownerships of producers, which can be thought of as joint-stock companies. The profit made by producer 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   is divided among the households in proportion to how much stock each household holds for the producer 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  . Ownership is imposed at the beginning, and the households may not sell, buy, create, or discard them.
+The households receive a budget, as the sum of income from selling endowments and dividend from producer profits.
+The households possess preferences over bundles of commodities, which under the assumptions given, makes them utility maximizers. The households choose the consumption plan with the highest utility that they can afford using their budget.
+The producers are capable of transforming bundles of commodities into other bundles of commodities. The producers have no separate utility functions. Instead, they are all purely profit maximizers.
+The market is only capable of "choosing" a market price vector, which is a list of prices for each commodity, which every producer and household takes (there is no bargaining behavior—every producer and household is a price taker). The market has no utility or profit. Instead, the market aims to choose a market price vector such that, even though each household and producer is maximizing their own utility and profit, their consumption plans and production plans "harmonize". That is, "the market clears". In other words, the market is playing the role of a "Walrasian auctioneer".
+
+
+=== Notation setup ===
+In general, we write indices of agents as superscripts, and vector coordinate indices as subscripts.
+
+
+==== useful notations for real vectors ====
+
+  
+    
+      
+        x
+        ⪰
+        y
+      
+    
+    {\displaystyle x\succeq y}
+   if 
+  
+    
+      
+        ∀
+        n
+        ,
+        
+          x
+          
+            n
+          
+        
+        ≥
+        
+          y
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \forall n,x_{n}\geq y_{n}}
+  
+
+  
+    
+      
+        
+          
+            R
+          
+          
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} _{+}^{N}}
+   is the set of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   such that 
+  
+    
+      
+        x
+        ⪰
+        0
+      
+    
+    {\displaystyle x\succeq 0}
+  
+
+  
+    
+      
+        
+          
+            R
+          
+          
+            +
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} _{++}^{N}}
+   is the set of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   such that 
+  
+    
+      
+        x
+        ≻
+        0
+      
+    
+    {\displaystyle x\succ 0}
+  
+
+  
+    
+      
+        
+          Δ
+          
+            N
+          
+        
+        =
+        
+          {
+          
+            x
+            ∈
+            
+              
+                R
+              
+              
+                N
+              
+            
+            :
+            
+              x
+              
+                1
+              
+            
+            ,
+            .
+            .
+            .
+            ,
+            
+              x
+              
+                N
+              
+            
+            ≥
+            0
+            ,
+            
+              ∑
+              
+                n
+                ∈
+                1
+                :
+                N
+              
+            
+            
+              x
+              
+                n
+              
+            
+            =
+            1
+          
+          }
+        
+      
+    
+    {\displaystyle \Delta _{N}=\left\{x\in \mathbb {R} ^{N}:x_{1},...,x_{N}\geq 0,\sum _{n\in 1:N}x_{n}=1\right\}}
+   is the N-simplex. We often call it the price simplex since we will sometimes scale the price vector to lie on it.
+
+
+==== market ====
+The commodities are indexed as 
+  
+    
+      
+        n
+        ∈
+        1
+        :
+        N
+      
+    
+    {\displaystyle n\in 1:N}
+  . Here 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is the number of commodities that exists in the economy. It is a finite number.
+The price vector 
+  
+    
+      
+        p
+        =
+        (
+        
+          p
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          p
+          
+            N
+          
+        
+        )
+        ∈
+        
+          
+            R
+          
+          
+            +
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle p=(p_{1},...,p_{N})\in \mathbb {R} _{++}^{N}}
+   is a vector of length 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  , with each coordinate being the price of a commodity. The prices may be zero or positive.
+
+
+==== households ====
+The households are indexed as 
+  
+    
+      
+        i
+        ∈
+        I
+      
+    
+    {\displaystyle i\in I}
+  .
+Each household begins with an endowment of commodities 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle r^{i}\in \mathbb {R} _{+}^{N}}
+  .
+Each household begins with a tuple of ownerships of the producers 
+  
+    
+      
+        
+          α
+          
+            i
+            ,
+            j
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle \alpha ^{i,j}\geq 0}
+  . The ownerships satisfy 
+  
+    
+      
+        
+          ∑
+          
+            i
+            ∈
+            I
+          
+        
+        
+          α
+          
+            i
+            ,
+            j
+          
+        
+        =
+        1
+        
+        ∀
+        j
+        ∈
+        J
+      
+    
+    {\displaystyle \sum _{i\in I}\alpha ^{i,j}=1\quad \forall j\in J}
+  .
+The budget that the household receives is the sum of its income from selling endowments at the market price, plus profits from its ownership of producers:(
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   stands for money)
+Each household has a Consumption Possibility Set 
+  
+    
+      
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+        ⊂
+        
+          
+            R
+          
+          
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle CPS^{i}\subset \mathbb {R} _{+}^{N}}
+  .
+Each household has a preference relation 
+  
+    
+      
+        
+          ⪰
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \succeq ^{i}}
+   over 
+  
+    
+      
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle CPS^{i}}
+  .
+With assumptions on 
+  
+    
+      
+        
+          ⪰
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \succeq ^{i}}
+   (given in the next section), each preference relation is representable by a utility function 
+  
+    
+      
+        
+          u
+          
+            i
+          
+        
+        :
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle u^{i}:CPS^{i}\to [0,1]}
+   by the Debreu theorems. Thus instead of maximizing preference, we can equivalently state that the household is maximizing its utility.
+A consumption plan is a vector in 
+  
+    
+      
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle CPS^{i}}
+  , written as 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x^{i}}
+  .
+
+  
+    
+      
+        
+          U
+          
+            +
+          
+          
+            i
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle U_{+}^{i}(x^{i})}
+   is the set of consumption plans at least as preferable as 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x^{i}}
+  .
+The budget set is the set of consumption plans that it can afford:.
+For each price vector 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , the household has a demand vector for commodities, as 
+  
+    
+      
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+        ∈
+        
+          
+            R
+          
+          
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle D^{i}(p)\in \mathbb {R} _{+}^{N}}
+  . This function is defined as the solution to a constraint maximization problem. It depends on both the economy and the initial distribution.It may not be well-defined for all 
+  
+    
+      
+        p
+        ∈
+        
+          
+            R
+          
+          
+            +
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle p\in \mathbb {R} _{++}^{N}}
+  . However, we will use enough assumptions such that that it is well-defined at equilibrium price vectors.
+
+
+==== producers ====
+The producers are indexed as 
+  
+    
+      
+        j
+        ∈
+        J
+      
+    
+    {\displaystyle j\in J}
+  .
+Each producer has a Production Possibility Set 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+      
+    
+    {\displaystyle PPS^{j}}
+  . Note that the supply vector may have both positive and negative coordinates. For example, 
+  
+    
+      
+        (
+        −
+        1
+        ,
+        1
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (-1,1,0)}
+   indicates a production plan that uses up 1 unit of commodity 1 to produce 1 unit of commodity 2.
+A production plan is a vector in 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+      
+    
+    {\displaystyle PPS^{j}}
+  , written as 
+  
+    
+      
+        
+          y
+          
+            j
+          
+        
+      
+    
+    {\displaystyle y^{j}}
+  .
+For each price vector 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , the producer has a supply vector for commodities, as 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+        ∈
+        
+          
+            R
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle S^{j}(p)\in \mathbb {R} ^{N}}
+  . This function will be defined as the solution to a constraint maximization problem. It depends on both the economy and the initial distribution.It may not be well-defined for all 
+  
+    
+      
+        p
+        ∈
+        
+          
+            R
+          
+          
+            +
+            +
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle p\in \mathbb {R} _{++}^{N}}
+  . However, we will use enough assumptions such that that it is well-defined at equilibrium price vectors.
+The profit is 
+
+
+==== aggregates ====
+aggregate consumption possibility set 
+  
+    
+      
+        C
+        P
+        S
+        =
+        
+          ∑
+          
+            i
+            ∈
+            I
+          
+        
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle CPS=\sum _{i\in I}CPS^{i}}
+  .
+aggregate production possibility set 
+  
+    
+      
+        P
+        P
+        S
+        =
+        
+          ∑
+          
+            j
+            ∈
+            J
+          
+        
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+      
+    
+    {\displaystyle PPS=\sum _{j\in J}PPS^{j}}
+  .
+aggregate endowment 
+  
+    
+      
+        r
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r=\sum _{i}r^{i}}
+  
+aggregate demand 
+  
+    
+      
+        D
+        (
+        p
+        )
+        :=
+        
+          ∑
+          
+            i
+          
+        
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle D(p):=\sum _{i}D^{i}(p)}
+  
+aggregate supply 
+  
+    
+      
+        S
+        (
+        p
+        )
+        :=
+        
+          ∑
+          
+            j
+          
+        
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle S(p):=\sum _{j}S^{j}(p)}
+  
+excess demand 
+  
+    
+      
+        Z
+        (
+        p
+        )
+        =
+        D
+        (
+        p
+        )
+        −
+        S
+        (
+        p
+        )
+        −
+        r
+      
+    
+    {\displaystyle Z(p)=D(p)-S(p)-r}
+  
+
+
+==== the whole economy ====
+An economy is a tuple 
+  
+    
+      
+        (
+        N
+        ,
+        I
+        ,
+        J
+        ,
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+        ,
+        
+          ⪰
+          
+            i
+          
+        
+        ,
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle (N,I,J,CPS^{i},\succeq ^{i},PPS^{j})}
+  . That is, it is a tuple specifying the commodities, the consumer preferences, consumption possibility sets, and the producers' production possibility sets.
+An economy with initial distribution is an economy, along with an initial distribution tuple 
+  
+    
+      
+        (
+        
+          r
+          
+            i
+          
+        
+        ,
+        
+          α
+          
+            i
+            ,
+            j
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+            ,
+            j
+            ∈
+            J
+          
+        
+      
+    
+    {\displaystyle (r^{i},\alpha ^{i,j})_{i\in I,j\in J}}
+   for the economy.
+A state of the economy is a tuple of price, consumption plans, and production plans for each household and producer: 
+  
+    
+      
+        (
+        (
+        
+          p
+          
+            n
+          
+        
+        
+          )
+          
+            n
+            ∈
+            1
+            :
+            N
+          
+        
+        ,
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        (
+        
+          y
+          
+            j
+          
+        
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+        )
+      
+    
+    {\displaystyle ((p_{n})_{n\in 1:N},(x^{i})_{i\in I},(y^{j})_{j\in J})}
+  .
+A state is feasible iff each 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ∈
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x^{i}\in CPS^{i}}
+  , each 
+  
+    
+      
+        
+          y
+          
+            j
+          
+        
+        ∈
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+      
+    
+    {\displaystyle y^{j}\in PPS^{j}}
+  , and 
+  
+    
+      
+        
+          ∑
+          
+            i
+            ∈
+            I
+          
+        
+        
+          x
+          
+            i
+          
+        
+        ⪯
+        
+          ∑
+          
+            j
+            ∈
+            J
+          
+        
+        
+          y
+          
+            j
+          
+        
+        +
+        r
+      
+    
+    {\displaystyle \sum _{i\in I}x^{i}\preceq \sum _{j\in J}y^{j}+r}
+  .
+The feasible production possibilities set, given endowment 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , is 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            r
+          
+        
+        :=
+        {
+        y
+        ∈
+        P
+        P
+        S
+        :
+        y
+        +
+        r
+        ⪰
+        0
+        }
+      
+    
+    {\displaystyle PPS_{r}:=\{y\in PPS:y+r\succeq 0\}}
+  .
+Given an economy with distribution, the state corresponding to a price vector 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   is 
+  
+    
+      
+        (
+        p
+        ,
+        (
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        (
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+        )
+      
+    
+    {\displaystyle (p,(D^{i}(p))_{i\in I},(S^{j}(p))_{j\in J})}
+  .
+Given an economy with distribution, a price vector 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   is an equilibrium price vector for the economy with initial distribution, iffThat is, if a commodity is not free, then supply exactly equals demand, and if a commodity is free, then supply is equal or greater than demand (we allow free commodity to be oversupplied).
+A state is an equilibrium state iff it is the state corresponding to an equilibrium price vector.
+
+
+=== Assumptions ===
+
+
+=== Imposing an artificial restriction ===
+The functions 
+  
+    
+      
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+        ,
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle D^{i}(p),S^{j}(p)}
+   are not necessarily well-defined for all price vectors 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . For example, if producer 1 is capable of transforming 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   units of commodity 1 into 
+  
+    
+      
+        
+          
+            (
+            t
+            +
+            1
+            
+              )
+              
+                2
+              
+            
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\sqrt {(t+1)^{2}-1}}}
+   units of commodity 2, and we have 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        
+          /
+        
+        
+          p
+          
+            2
+          
+        
+        <
+        1
+      
+    
+    {\displaystyle p_{1}/p_{2}<1}
+  , then the producer can create plans with infinite profit, thus 
+  
+    
+      
+        
+          Π
+          
+            j
+          
+        
+        (
+        p
+        )
+        =
+        +
+        ∞
+      
+    
+    {\displaystyle \Pi ^{j}(p)=+\infty }
+  , and 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle S^{j}(p)}
+   is undefined.
+Consequently, we define "restricted market" to be the same market, except there is a universal upper bound 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  , such that every producer is required to use a production plan 
+  
+    
+      
+        ‖
+        
+          y
+          
+            j
+          
+        
+        ‖
+        ≤
+        C
+      
+    
+    {\displaystyle \|y^{j}\|\leq C}
+  , and each household is required to use a consumption plan 
+  
+    
+      
+        ‖
+        
+          x
+          
+            i
+          
+        
+        ‖
+        ≤
+        C
+      
+    
+    {\displaystyle \|x^{i}\|\leq C}
+  . Denote the corresponding quantities on the restricted market with a tilde. So for example, 
+  
+    
+      
+        
+          
+            
+              Z
+              ~
+            
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle {\tilde {Z}}(p)}
+   is the excess demand function on the restricted market.
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is chosen to be "large enough" for the economy, so that the restriction is not in effect under equilibrium conditions (see next section). In detail, 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is chosen to be large enough such that:
+
+For any consumption plan 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   such that 
+  
+    
+      
+        x
+        ⪰
+        0
+        ,
+        ‖
+        x
+        ‖
+        =
+        C
+      
+    
+    {\displaystyle x\succeq 0,\|x\|=C}
+  , the plan is so "extravagant" that even if all the producers coordinate, they would still fall short of meeting the demand.
+For any list of production plans for the economy 
+  
+    
+      
+        (
+        
+          y
+          
+            j
+          
+        
+        ∈
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+      
+    
+    {\displaystyle (y^{j}\in PPS^{j})_{j\in J}}
+  , if 
+  
+    
+      
+        
+          ∑
+          
+            j
+            ∈
+            J
+          
+        
+        
+          y
+          
+            j
+          
+        
+        +
+        r
+        ⪰
+        0
+      
+    
+    {\displaystyle \sum _{j\in J}y^{j}+r\succeq 0}
+  , then 
+  
+    
+      
+        ‖
+        
+          y
+          
+            j
+          
+        
+        ‖
+        <
+        C
+      
+    
+    {\displaystyle \|y^{j}\|<C}
+  for each 
+  
+    
+      
+        j
+        ∈
+        J
+      
+    
+    {\displaystyle j\in J}
+  . In other words, for any attainable production plan under the given endowment 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , each producer's individual production plan must lie strictly within the restriction.Each requirement is satisfiable.
+
+Define the set of attainable aggregate production plans to be 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            r
+          
+        
+        =
+        
+          {
+          
+            
+              ∑
+              
+                j
+                ∈
+                J
+              
+            
+            
+              y
+              
+                j
+              
+            
+            :
+            
+              y
+              
+                j
+              
+            
+            ∈
+            P
+            P
+            
+              S
+              
+                j
+              
+            
+            
+               for each 
+            
+            j
+            ∈
+            J
+            ,
+            
+               and 
+            
+            
+              ∑
+              
+                j
+                ∈
+                J
+              
+            
+            
+              y
+              
+                j
+              
+            
+            +
+            r
+            ⪰
+            0
+          
+          }
+        
+      
+    
+    {\displaystyle PPS_{r}=\left\{\sum _{j\in J}y^{j}:y^{j}\in PPS^{j}{\text{ for each }}j\in J,{\text{ and }}\sum _{j\in J}y^{j}+r\succeq 0\right\}}
+  , then under the assumptions for the producers given above (especially the "no arbitrarily large free lunch" assumption), 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            r
+          
+        
+      
+    
+    {\displaystyle PPS_{r}}
+   is bounded for any 
+  
+    
+      
+        r
+        ⪰
+        0
+      
+    
+    {\displaystyle r\succeq 0}
+   (proof omitted). Thus the first requirement is satisfiable.
+Define the set of attainable individual production plans to be 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            r
+          
+          
+            j
+          
+        
+        :=
+        {
+        
+          y
+          
+            j
+          
+        
+        ∈
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+        :
+        
+          y
+          
+            j
+          
+        
+        
+           is a part of some attainable production plan under endowment 
+        
+        r
+        }
+      
+    
+    {\displaystyle PPS_{r}^{j}:=\{y^{j}\in PPS^{j}:y^{j}{\text{ is a part of some attainable production plan under endowment }}r\}}
+  then under the assumptions for the producers given above (especially the "no arbitrarily large transformations" assumption), 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            r
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle PPS_{r}^{j}}
+   is bounded for any 
+  
+    
+      
+        j
+        ∈
+        J
+        ,
+        r
+        ⪰
+        0
+      
+    
+    {\displaystyle j\in J,r\succeq 0}
+   (proof omitted). Thus the second requirement is satisfiable.The two requirements together imply that the restriction is not a real restriction when the production plans and consumption plans are "interior" to the restriction.
+
+At any price vector 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , if 
+  
+    
+      
+        ‖
+        
+          
+            
+              
+                S
+                ~
+              
+            
+          
+          
+            j
+          
+        
+        (
+        p
+        )
+        ‖
+        <
+        C
+      
+    
+    {\displaystyle \|{\tilde {S}}^{j}(p)\|<C}
+  , then 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle S^{j}(p)}
+   exists and is equal to 
+  
+    
+      
+        
+          
+            
+              
+                S
+                ~
+              
+            
+          
+          
+            j
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle {\tilde {S}}^{j}(p)}
+  . In other words, if the production plan of a restricted producer is interior to the artificial restriction, then the unrestricted producer would choose the same production plan. This is proved by exploiting the second requirement on 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  .
+If all 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+        =
+        
+          
+            
+              
+                S
+                ~
+              
+            
+          
+          
+            j
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle S^{j}(p)={\tilde {S}}^{j}(p)}
+  , then the restricted and unrestricted households have the same budget. Now, if we also have 
+  
+    
+      
+        ‖
+        
+          
+            
+              
+                D
+                ~
+              
+            
+          
+          
+            i
+          
+        
+        (
+        p
+        )
+        ‖
+        <
+        C
+      
+    
+    {\displaystyle \|{\tilde {D}}^{i}(p)\|<C}
+  , then 
+  
+    
+      
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle D^{i}(p)}
+   exists and is equal to 
+  
+    
+      
+        
+          
+            
+              
+                D
+                ~
+              
+            
+          
+          
+            i
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle {\tilde {D}}^{i}(p)}
+  . In other words, if the consumption plan of a restricted household is interior to the artificial restriction, then the unrestricted household would choose the same consumption plan. This is proved by exploiting the first requirement on 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  .
+These two propositions imply that equilibria for the restricted market are equilibria for the unrestricted market:
+
+
+=== Existence of general equilibrium ===
+As the last piece of the construction, we define Walras's law:
+
+The unrestricted market satisfies Walras's law at 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   iff all 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+        ,
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle S^{j}(p),D^{i}(p)}
+   are defined, and 
+  
+    
+      
+        ⟨
+        p
+        ,
+        Z
+        (
+        p
+        )
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle \langle p,Z(p)\rangle =0}
+  , that is,
+The restricted market satisfies Walras's law at 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   iff 
+  
+    
+      
+        ⟨
+        p
+        ,
+        
+          
+            
+              Z
+              ~
+            
+          
+        
+        (
+        p
+        )
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle \langle p,{\tilde {Z}}(p)\rangle =0}
+  .Walras's law can be interpreted on both sides:
+
+On the side of the households, it is saying that the aggregate household expenditure is equal to aggregate profit and aggregate income from selling endowments. In other words, every household spends its entire budget.
+On the side of the producers, it is saying that the aggregate profit plus the aggregate cost equals the aggregate revenue.
+
+Note that the above proof does not give an iterative algorithm for finding any equilibrium, as there is no guarantee that the function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is a contraction. This is unsurprising, as there is no guarantee (without further assumptions) that any market equilibrium is a stable equilibrium.
+
+
+=== Uzawa equivalence theorem ===
+(Uzawa, 1962) showed that the existence of general equilibrium in an economy characterized by a continuous excess demand function fulfilling Walras’s Law is equivalent to Brouwer fixed-Point theorem. Thus, the use of Brouwer's fixed-point theorem is essential for showing that the equilibrium exists in general.
+
+
+=== Fundamental theorems of welfare economics ===
+In welfare economics, one possible concern is finding a Pareto-optimal plan for the economy.
+Intuitively, one can consider the problem of welfare economics to be the problem faced by a master planner for the whole economy: given starting endowment 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   for the entire society, the planner must pick a feasible master plan of production and consumption plans 
+  
+    
+      
+        (
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        (
+        
+          y
+          
+            j
+          
+        
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+        )
+      
+    
+    {\displaystyle ((x^{i})_{i\in I},(y^{j})_{j\in J})}
+  . The master planner has a wide freedom in choosing the master plan, but any reasonable planner should agree that, if someone's utility can be increased, while everyone else's is not decreased, then it is a better plan. That is, the Pareto ordering should be followed.
+Define the Pareto ordering on the set of all plans 
+  
+    
+      
+        (
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        (
+        
+          y
+          
+            j
+          
+        
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+        )
+      
+    
+    {\displaystyle ((x^{i})_{i\in I},(y^{j})_{j\in J})}
+   by 
+  
+    
+      
+        (
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        (
+        
+          y
+          
+            j
+          
+        
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+        )
+        ⪰
+        (
+        (
+        
+          x
+          
+            ′
+            
+              i
+            
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        (
+        
+          y
+          
+            ′
+            
+              j
+            
+          
+        
+        
+          )
+          
+            j
+            ∈
+            J
+          
+        
+        )
+      
+    
+    {\displaystyle ((x^{i})_{i\in I},(y^{j})_{j\in J})\succeq ((x'^{i})_{i\in I},(y'^{j})_{j\in J})}
+   iff 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        
+          ⪰
+          
+            i
+          
+        
+        
+          x
+          
+            ′
+            
+              i
+            
+          
+        
+      
+    
+    {\displaystyle x^{i}\succeq ^{i}x'^{i}}
+   for all 
+  
+    
+      
+        i
+        ∈
+        I
+      
+    
+    {\displaystyle i\in I}
+  .
+Then, we say that a plan is Pareto-efficient with respect to a starting endowment 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , iff it is feasible, and there does not exist another feasible plan that is strictly better in Pareto ordering.
+In general, there are a whole continuum of Pareto-efficient plans for each starting endowment 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  . 
+With the set up, we have two fundamental theorems of welfare economics:
+
+Proof idea: any Pareto-optimal consumption plan is separated by a hyperplane from the set of attainable consumption plans. The slope of the hyperplane would be the equilibrium prices. Verify that under such prices, each producer and household would find the given state optimal. Verify that Walras's law holds, and so the expenditures match income plus profit, and so it is possible to provide each household with exactly the necessary budget.
+
+
+=== Convexity vs strict convexity ===
+The assumptions of strict convexity can be relaxed to convexity. This modification changes supply and demand functions from point-valued functions into set-valued functions (or "correspondences"), and the application of Brouwer's fixed-point theorem into Kakutani's fixed-point theorem.
+This modification is similar to the generalization of the minimax theorem to the existence of Nash equilibria.
+The two fundamental theorems of welfare economics holds without modification.
+
+
+=== Equilibrium vs "quasi-equilibrium" ===
+The definition of market equilibrium assumes that every household performs utility maximization, subject to budget constraints. That is, The dual problem would be cost minimization subject to utility constraints. That is,for some real number 
+  
+    
+      
+        
+          u
+          
+            0
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle u_{0}^{i}}
+  . The duality gap between the two problems is nonnegative, and may be positive. Consequently, some authors study the dual problem and the properties of its "quasi-equilibrium" (or "compensated equilibrium"). Every equilibrium is a quasi-equilibrium, but the converse is not necessarily true.
+
+
+== Extensions ==
+
+
+=== Accounting for strategic bargaining ===
+In the model, all producers and households are "price takers", meaning that they simply transact with the market using the price vector 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . In particular, behaviors such as cartel, monopoly, consumer coalition, etc are not modelled. Edgeworth's limit theorem shows that under certain stronger assumptions, the households can do no better than price-take at the limit of an infinitely large economy.
+
+
+==== Setup ====
+In detail, we continue with the economic model on the households and producers, but we consider a different method to design production and distribution of commodities than the market economy. It may be interpreted as a model of a "socialist" economy.
+
+There is no money, market, or private ownership of producers.
+Since we have abolished private ownership, money, and the profit motive, there is no point in distinguishing one producer from the next. Consequently, instead of each producer planning individually 
+  
+    
+      
+        
+          y
+          
+            j
+          
+        
+        ∈
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+      
+    
+    {\displaystyle y^{j}\in PPS^{j}}
+  , it is as if the whole society has one great producer producing 
+  
+    
+      
+        y
+        ∈
+        P
+        P
+        S
+      
+    
+    {\displaystyle y\in PPS}
+  .
+Households still have the same preferences and endowments, but they no longer have budgets.
+Producers do not produce to maximize profit, since there is no profit. All households come together to make a state 
+  
+    
+      
+        (
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+        ,
+        y
+        )
+      
+    
+    {\displaystyle ((x_{i})_{i\in I},y)}
+  —a production and consumption plan for the whole economy—with the following constraints:
+Any nonempty subset of households may eliminate all other households, while retaining control of the producers.This economy is thus a cooperative game with each household being a player, and we have the following concepts from cooperative game theory:
+
+A blocking coalition is a nonempty subset of households, such that there exists a strictly Pareto-better plan even if they eliminate all other households.
+A state is a core state iff there are no blocking coalitions.
+The core of an economy is the set of core states.Since we assumed that any nonempty subset of households may eliminate all other households, while retaining control of the producers, the only states that can be executed are the core states. A state that is not a core state would immediately be objected by a coalition of households.
+We need one more assumption on 
+  
+    
+      
+        P
+        P
+        S
+      
+    
+    {\displaystyle PPS}
+  , that it is a cone, that is, 
+  
+    
+      
+        k
+        ⋅
+        P
+        P
+        S
+        ⊂
+        P
+        P
+        S
+      
+    
+    {\displaystyle k\cdot PPS\subset PPS}
+   for any 
+  
+    
+      
+        k
+        ≥
+        0
+      
+    
+    {\displaystyle k\geq 0}
+  . This assumption rules out two ways for the economy to become trivial.
+
+The curse of free lunch: In this model, the whole 
+  
+    
+      
+        P
+        P
+        S
+      
+    
+    {\displaystyle PPS}
+   is available to any nonempty coalition, even a coalition of one. Consequently, if nobody has any endowment, and yet 
+  
+    
+      
+        P
+        P
+        S
+      
+    
+    {\displaystyle PPS}
+   contains some "free lunch" 
+  
+    
+      
+        y
+        ≻
+        0
+      
+    
+    {\displaystyle y\succ 0}
+  , then (assuming preferences are monotonic) every household would like to take all of 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   for itself, and consequently there exists *no* core state. Intuitively, the picture of the world is a committee of selfish people, vetoing any plan that doesn't give the entire free lunch to itself.
+The limit to growth: Consider a society with 2 commodities. One is "labor" and another is "food". Households have only labor as endowment, but they only consume food. The 
+  
+    
+      
+        P
+        P
+        S
+      
+    
+    {\displaystyle PPS}
+   looks like a ramp with a flat top. So, putting in 0-1 thousand hours of labor produces 0-1 thousand kg of food, linearly, but any more labor produces no food. Now suppose each household is endowed with 1 thousand hours of labor. It's clear that every household would immediately block every other household, since it's always better for one to use the entire 
+  
+    
+      
+        P
+        P
+        S
+      
+    
+    {\displaystyle PPS}
+   for itself.
+
+
+==== Main results (Debreu and Scarf, 1963) ====
+
+In Debreu and Scarf's paper, they defined a particular way to approach an infinitely large economy, by "replicating households". That is, for any positive integer 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  , define an economy where there are 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   households that have exactly the same consumption possibility set and preference as household 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  .
+Let 
+  
+    
+      
+        
+          x
+          
+            i
+            ,
+            k
+          
+        
+      
+    
+    {\displaystyle x^{i,k}}
+   stand for the consumption plan of the 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -th replicate of household 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  . Define a plan to be equitable iff 
+  
+    
+      
+        
+          x
+          
+            i
+            ,
+            k
+          
+        
+        
+          ∼
+          
+            i
+          
+        
+        
+          x
+          
+            i
+            ,
+            
+              k
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle x^{i,k}\sim ^{i}x^{i,k'}}
+   for any 
+  
+    
+      
+        i
+        ∈
+        I
+      
+    
+    {\displaystyle i\in I}
+   and 
+  
+    
+      
+        k
+        ,
+        
+          k
+          ′
+        
+        ∈
+        K
+      
+    
+    {\displaystyle k,k'\in K}
+  .
+In general, a state would be quite complex, treating each replicate differently. However, core states are significantly simpler: they are equitable, treating every replicate equally.
+
+Consequently, when studying core states, it is sufficient to consider one consumption plan for each type of households. Now, define 
+  
+    
+      
+        
+          C
+          
+            K
+          
+        
+      
+    
+    {\displaystyle C_{K}}
+   to be the set of all core states for the economy with 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   replicates per household. It is clear that 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+        ⊃
+        
+          C
+          
+            2
+          
+        
+        ⊃
+        ⋯
+      
+    
+    {\displaystyle C_{1}\supset C_{2}\supset \cdots }
+  , so we may define the limit set of core states 
+  
+    
+      
+        C
+        :=
+        
+          ∩
+          
+            K
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          C
+          
+            K
+          
+        
+      
+    
+    {\displaystyle C:=\cap _{K=1}^{\infty }C_{K}}
+  .
+We have seen that 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   contains the set of market equilibria for the original economy. The converse is true under minor additional assumption:
+
+The assumption that 
+  
+    
+      
+        P
+        P
+        S
+      
+    
+    {\displaystyle PPS}
+   is a polygonal cone, or every 
+  
+    
+      
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle CPS^{i}}
+   has nonempty interior, is necessary to avoid the technical issue of "quasi-equilibrium". Without the assumption, we can only prove that 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is contained in the set of quasi-equilibria.
+
+
+=== Accounting for nonconvexity ===
+The assumption that production possibility sets are convex is a strong constraint, as it implies that there is no economy of scale. Similarly, we may consider nonconvex consumption possibility sets and nonconvex preferences. In such cases, the supply and demand functions 
+  
+    
+      
+        
+          S
+          
+            j
+          
+        
+        (
+        p
+        )
+        ,
+        
+          D
+          
+            i
+          
+        
+        (
+        p
+        )
+      
+    
+    {\displaystyle S^{j}(p),D^{i}(p)}
+   may be discontinuous with respect to price vector, thus a general equilibrium may not exist.
+However, we may "convexify" the economy, find an equilibrium for it, then by the Shapley–Folkman–Starr theorem, it is an approximate equilibrium for the original economy.
+In detail, given any economy satisfying all the assumptions given, except convexity of 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+        ,
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle PPS^{j},CPS^{i}}
+   and 
+  
+    
+      
+        
+          ⪰
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \succeq ^{i}}
+  , we define the "convexified economy" to be the same economy, except that
+
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            ′
+            
+              j
+            
+          
+        
+        =
+        
+          C
+          o
+          n
+          v
+        
+        (
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle PPS'^{j}=\mathrm {Conv} (PPS^{j})}
+  
+
+  
+    
+      
+        C
+        P
+        
+          S
+          
+            ′
+            
+              i
+            
+          
+        
+        =
+        
+          C
+          o
+          n
+          v
+        
+        (
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle CPS'^{i}=\mathrm {Conv} (CPS^{i})}
+  
+
+  
+    
+      
+        x
+        
+          ⪰
+          
+            ′
+            
+              i
+            
+          
+        
+        y
+      
+    
+    {\displaystyle x\succeq '^{i}y}
+   iff 
+  
+    
+      
+        ∀
+        z
+        ∈
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+        ,
+        y
+        ∈
+        
+          C
+          o
+          n
+          v
+        
+        (
+        
+          U
+          
+            +
+          
+          
+            i
+          
+        
+        (
+        z
+        )
+        )
+        
+        ⟹
+        
+        x
+        ∈
+        
+          C
+          o
+          n
+          v
+        
+        (
+        
+          U
+          
+            +
+          
+          
+            i
+          
+        
+        (
+        z
+        )
+        )
+      
+    
+    {\displaystyle \forall z\in CPS^{i},y\in \mathrm {Conv} (U_{+}^{i}(z))\implies x\in \mathrm {Conv} (U_{+}^{i}(z))}
+  .where 
+  
+    
+      
+        
+          C
+          o
+          n
+          v
+        
+      
+    
+    {\displaystyle \mathrm {Conv} }
+   denotes the convex hull.
+With this, any general equilibrium for the convexified economy is also an approximate equilibrium for the original economy. That is, if 
+  
+    
+      
+        
+          p
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle p^{*}}
+   is an equilibrium price vector for the convexified economy, thenwhere 
+  
+    
+      
+        d
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle d(\cdot ,\cdot )}
+   is the Euclidean distance, and 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is any upper bound on the inner radii of all 
+  
+    
+      
+        P
+        P
+        
+          S
+          
+            j
+          
+        
+        ,
+        C
+        P
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle PPS^{j},CPS^{i}}
+   (see page on Shapley–Folkman–Starr theorem for the definition of inner radii).
+The convexified economy may not satisfy the assumptions. For example, the set 
+  
+    
+      
+        {
+        (
+        x
+        ,
+        0
+        )
+        :
+        x
+        ≥
+        0
+        }
+        ∪
+        {
+        (
+        x
+        ,
+        y
+        )
+        :
+        x
+        y
+        =
+        1
+        ,
+        x
+        >
+        0
+        }
+      
+    
+    {\displaystyle \{(x,0):x\geq 0\}\cup \{(x,y):xy=1,x>0\}}
+   is closed, but its convex hull is not closed. Imposing the further assumption that the convexified economy also satisfies the assumptions, we find that the original economy always has an approximate equilibrium.
+
+
+=== Accounting for time, space, and uncertainty ===
+
+The commodities in the Arrow–Debreu model are entirely abstract. Thus, although it is typically represented as a static market, it can be used to model time, space, and uncertainty by splitting one commodity into several, each contingent on a certain time, place, and state of the world. For example, "apples" can be split into "apples in New York in September if oranges are available" and "apples in Chicago in June if oranges are not available".
+Given some base commodities, the Arrow–Debreu complete market is a market where there is a separate commodity for every future time, for every place of delivery, for every state of the world under consideration, for every base commodity.
+In financial economics the term "Arrow–Debreu" most commonly refers to an Arrow–Debreu security. A canonical Arrow–Debreu security is a security that pays one unit of numeraire if a particular state of the world is reached and zero otherwise (the price of such a security being a so-called "state price"). As such, any derivatives contract whose settlement value is a function on an underlying whose value is uncertain at contract date can be decomposed as linear combination of Arrow–Debreu securities.
+Since the work of Breeden and Lizenberger in 1978, a large number of researchers have used options to extract Arrow–Debreu prices for a variety of applications in financial economics.
+
+
+=== Accounting for the existence of money ===
+No theory of money is offered here, and it is assumed that the economy works without the help of a good serving as medium of exchange.To the pure theorist, at the present juncture the most interesting and challenging aspect of money is that it can find no place in an Arrow–Debreu economy. This circumstance should also be of considerable significance to macroeconomists, but it rarely is.Typically, economists consider the functions of money to be as a unit of account, store of value, medium of exchange, and standard of deferred payment. This is however incompatible with the Arrow–Debreu complete market described above. In the complete market, there is only a one-time transaction at the market "at the beginning of time". After that, households and producers merely execute their planned productions, consumptions, and deliveries of commodities until the end of time. Consequently, there is no use for storage of value or medium of exchange. This applies not just to the Arrow–Debreu complete market, but also to models (such as those with markets of contingent commodities and Arrow insurance contracts) that differ in form, but are mathematically equivalent to it.
+
+
+=== Computing general equilibria ===
+
+Scarf (1967) was the first algorithm that computes the general equilibrium. See Scarf (2018) and Kubler (2012) for reviews.
+
+
+=== Number of equilibria ===
+
+Certain economies at certain endowment vectors may have infinitely equilibrium price vectors. However, "generically", an economy has only finitely many equilibrium price vectors. Here, "generically" means "on all points, except a closed set of Lebesgue measure zero", as in Sard's theorem.There are many such genericity theorems. One example is the following:
+
+
+== See also ==
+Model (economics)
+Incomplete markets
+Fisher market - a simpler market model, in which the total quantity of each product is given, and each buyer comes only with a monetary budget.
+List of asset pricing articles
+Financial economics  § Underlying economics
+
+
+== References ==
+
+
+== Further reading ==
+Athreya, Kartik B. (2013). "The Modern Macroeconomic Approach and the Arrow–Debreu–McKenzie Model". Big Ideas in Macroeconomics: A Nontechnical View. Cambridge: MIT Press. pp. 11–46. ISBN 978-0-262-01973-6.
+Geanakoplos, John (1987). "Arrow–Debreu model of general equilibrium". The New Palgrave: A Dictionary of Economics. Vol. 1. pp. 116–124.
+Takayama, Akira (1985). Mathematical Economics (2nd ed.). London: Cambridge University Press. pp. 255–284. ISBN 978-0-521-31498-5.
+Düppe, Till (2012). "Arrow and Debreu de-homogenized". Journal of the History of Economic Thought. 34 (4): 491–514. CiteSeerX 10.1.1.416.2120. doi:10.1017/s1053837212000491. S2CID 15771197.
+
+
+== External links ==
+Notes on the Arrow–Debreu–McKenzie Model of an Economy, Prof. Kim C. Border California Institute of Technology
+"The Fundamental Theorem" of Finance; part II. Prof. Mark Rubinstein, Haas School of Business

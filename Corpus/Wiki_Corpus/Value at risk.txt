@@ -1,0 +1,738 @@
+Value at risk (VaR) is a measure of the risk of loss of investment/Capital. It estimates how much a set of investments might lose (with a given probability), given normal market conditions, in a set time period such as a day. VaR is typically used by firms and regulators in the financial industry to gauge the amount of assets needed to cover possible losses.
+For a given portfolio, time horizon, and probability p, the p VaR can be defined informally as the maximum possible loss during that time after excluding all worse outcomes whose combined probability is at most p. This assumes mark-to-market pricing, and no trading in the portfolio.For example, if a portfolio of stocks has a one-day 95% VaR of $1 million, that means that there is a 0.05 probability that the portfolio will fall in value by more than $1 million over a one-day period if there is no trading. Informally, a loss of $1 million or more on this portfolio is expected on 1 day out of 20 days (because of 5% probability).
+More formally, p VaR is defined such that the probability of a loss greater than VaR is (at most) (1-p) while the probability of a loss less than VaR is (at least) p. A loss which exceeds the VaR threshold is termed a "VaR breach".It is important to note that, for a fixed p, the p VaR does not assess the magnitude of loss when a VaR breach occurs and therefore is considered by some to be a questionable metric for risk management. For instance, assume someone makes a bet that flipping a coin seven times will not give seven heads. The terms are that they win $100 if this does not happen (with probability 127/128) and lose $12,700 if it does (with probability 1/128). That is, the possible loss amounts are $0 or $12,700. The 1% VaR is then $0, because the probability of any loss at all is 1/128 which is less than 1%. They are, however, exposed to a possible loss of $12,700 which can be expressed as the p VaR for any p ≤ 0.78125% (1/128).VaR has four main uses in finance: risk management, financial control, financial reporting and computing regulatory capital. VaR is sometimes used in non-financial applications as well.  However, it is a controversial risk management tool.
+Important related ideas are economic capital, backtesting, stress testing, expected shortfall, and tail conditional expectation.
+
+
+== Details ==
+Common parameters for VaR are 1% and 5% probabilities and one day and two week horizons, although other combinations are in use.The reason for assuming normal markets and no trading, and to restricting loss to things measured in daily accounts, is to make the loss observable. In some extreme financial events it can be impossible to determine losses, either because market prices are unavailable or because the loss-bearing institution breaks up. Some longer-term consequences of disasters, such as lawsuits, loss of market confidence and employee morale and impairment of brand names can take a long time to play out, and may be hard to allocate among specific prior decisions. VaR marks the boundary between normal days and extreme events. Institutions can lose far more than the VaR amount; all that can be said is that they will not do so very often.The probability level is about equally often specified as one minus the probability of a VaR break, so that the VaR in the example above would be called a one-day 95% VaR instead of one-day 5% VaR. This generally does not lead to confusion because the probability of VaR breaks is almost always small, certainly less than 50%.Although it virtually always represents a loss, VaR is conventionally reported as a positive number. A negative VaR would imply the portfolio has a high probability of making a profit, for example a one-day 5% VaR of negative $1 million implies the portfolio has a 95% chance of making more than $1 million over the next day.Another inconsistency is that VaR is sometimes taken to refer to profit-and-loss at the end of the period, and sometimes as the maximum loss at any point during the period. The original definition was the latter, but in the early 1990s when VaR was aggregated across trading desks and time zones, end-of-day valuation was the only reliable number so the former became the de facto definition. As people began using multiday VaRs in the second half of the 1990s, they almost always estimated the distribution at the end of the period only. It is also easier theoretically to deal with a point-in-time estimate versus a maximum over an interval. Therefore, the end-of-period definition is the most common both in theory and practice today.
+
+
+== Varieties ==
+The definition of VaR is nonconstructive; it specifies a property VaR must have, but not how to compute VaR. Moreover, there is wide scope for interpretation in the definition. This has led to two broad types of VaR, one used primarily in risk management and the other primarily for risk measurement. The distinction is not sharp, however, and hybrid versions are typically used in financial control, financial reporting and computing regulatory capital.To a risk manager, VaR is a system, not a number. The system is run periodically (usually daily) and the published number is compared to the computed price movement in opening positions over the time horizon. There is never any subsequent adjustment to the published VaR, and there is no distinction between VaR breaks caused by input errors (including IT breakdowns, fraud and rogue trading), computation errors (including failure to produce a VaR on time) and market movements.A frequentist claim is made that the long-term frequency of VaR breaks will equal the specified probability, within the limits of sampling error, and that the VaR breaks will be independent in time and independent of the level of VaR. This claim is validated by a backtest, a comparison of published VaRs to actual price movements. In this interpretation, many different systems could produce VaRs with equally good backtests, but wide disagreements on daily VaR values.For risk measurement a number is needed, not a system. A Bayesian probability claim is made that given the information and beliefs at the time, the subjective probability of a VaR break was the specified level. VaR is adjusted after the fact to correct errors in inputs and computation, but not to incorporate information unavailable at the time of computation. In this context, "backtest" has a different meaning. Rather than comparing published VaRs to actual market movements over the period of time the system has been in operation, VaR is retroactively computed on scrubbed data over as long a period as data are available and deemed relevant. The same position data and pricing models are used for computing the VaR as determining the price movements.Although some of the sources listed here treat only one kind of VaR as legitimate, most of the recent ones seem to agree that risk management VaR is superior for making short-term and tactical decisions in the present, while risk measurement VaR should be used for understanding the past, and making medium term and strategic decisions for the future. When VaR is used for financial control or financial reporting it should incorporate elements of both. For example, if a trading desk is held to a VaR limit, that is both a risk-management rule for deciding what risks to allow today, and an input into the risk measurement computation of the desk's risk-adjusted return at the end of the reporting period.
+
+
+=== In governance ===
+VaR can also be applied to governance of endowments, trusts, and pension plans. Essentially, trustees adopt portfolio Values-at-Risk metrics for the entire pooled account and the diversified parts individually managed. Instead of probability estimates they simply define maximum levels of acceptable loss for each. Doing so provides an easy metric for oversight and adds accountability as managers are then directed to manage, but with the additional constraint to avoid losses within a defined risk parameter. VaR utilized in this manner adds relevance as well as an easy way to monitor risk measurement control far more intuitive than Standard Deviation of Return. Use of VaR in this context, as well as a worthwhile critique on board governance practices as it relates to investment management oversight in general can be found in Best Practices in Governance.
+
+
+== Mathematical definition ==
+Let 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   be a profit and loss distribution (loss negative and profit positive). The VaR at level 
+  
+    
+      
+        α
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle \alpha \in (0,1)}
+   is the smallest number 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   such that the probability that 
+  
+    
+      
+        Y
+        :=
+        −
+        X
+      
+    
+    {\displaystyle Y:=-X}
+   does not exceed 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   is at least 
+  
+    
+      
+        1
+        −
+        α
+      
+    
+    {\displaystyle 1-\alpha }
+  . Mathematically, 
+  
+    
+      
+        
+          VaR
+          
+            α
+          
+        
+        ⁡
+        (
+        X
+        )
+      
+    
+    {\displaystyle \operatorname {VaR} _{\alpha }(X)}
+   is the 
+  
+    
+      
+        (
+        1
+        −
+        α
+        )
+      
+    
+    {\displaystyle (1-\alpha )}
+  -quantile of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  , i.e.,
+
+  
+    
+      
+        
+          VaR
+          
+            α
+          
+        
+        ⁡
+        (
+        X
+        )
+        =
+        −
+        inf
+        
+          
+            {
+          
+        
+        x
+        ∈
+        
+          R
+        
+        :
+        
+          F
+          
+            X
+          
+        
+        (
+        x
+        )
+        >
+        α
+        
+          
+            }
+          
+        
+        =
+        
+          F
+          
+            Y
+          
+          
+            −
+            1
+          
+        
+        (
+        1
+        −
+        α
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {VaR} _{\alpha }(X)=-\inf {\big \{}x\in \mathbb {R} :F_{X}(x)>\alpha {\big \}}=F_{Y}^{-1}(1-\alpha ).}
+  This is the most general definition of VaR and the two identities are equivalent (indeed, for any real random variable 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   its cumulative distribution function 
+  
+    
+      
+        
+          F
+          
+            X
+          
+        
+      
+    
+    {\displaystyle F_{X}}
+   is well defined). 
+However this formula cannot be used directly for calculations unless we assume that 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   has some parametric distribution.
+Risk managers typically assume that some fraction of the bad events will have undefined losses, either because markets are closed or illiquid, or because the entity bearing the loss breaks apart or loses the ability to compute accounts. Therefore, they do not accept results based on the assumption of a well-defined probability distribution. Nassim Taleb has labeled this assumption, "charlatanism". On the other hand, many academics prefer to assume a well-defined distribution, albeit usually one with fat tails. This point has probably caused more contention among VaR theorists than any other.Value of Risks can also be written as a distortion risk measure given by the distortion function 
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  0
+                  ≤
+                  x
+                  <
+                  1
+                  −
+                  α
+                
+              
+              
+                
+                  1
+                
+                
+                  
+                    if 
+                  
+                  1
+                  −
+                  α
+                  ≤
+                  x
+                  ≤
+                  1
+                
+              
+            
+            
+          
+        
+        .
+      
+    
+    {\displaystyle g(x)={\begin{cases}0&{\text{if }}0\leq x<1-\alpha \\1&{\text{if }}1-\alpha \leq x\leq 1\end{cases}}.}
+  
+
+
+== Risk measure and risk metric ==
+The term "VaR" is used both for a risk measure and a risk metric. This sometimes leads to confusion. Sources earlier than 1995 usually emphasize the risk measure, later sources are more likely to emphasize the metric.
+The VaR risk measure defines risk as mark-to-market loss on a fixed portfolio over a fixed time horizon. There are many alternative risk measures in finance. Given the inability to use mark-to-market (which uses market prices to define loss) for future performance, loss is often defined (as a substitute) as change in fundamental value. For example, if an institution holds a loan that declines in market price because interest rates go up, but has no change in cash flows or credit quality, some systems do not recognize a loss. Also some try to incorporate the economic cost of harm not measured in daily financial statements, such as loss of market confidence or employee morale, impairment of brand names or lawsuits.Rather than assuming a static portfolio over a fixed time horizon, some risk measures incorporate the dynamic effect of expected trading (such as a stop loss order) and consider the expected holding period of positions.The VaR risk metric summarizes the distribution of possible losses by a quantile, a point with a specified probability of greater losses. A common alternative metrics is expected shortfall.
+
+
+== VaR risk management ==
+
+Supporters of VaR-based risk management claim the first and possibly greatest benefit of VaR is the improvement in systems and modeling it forces on an institution. In 1997, Philippe Jorion wrote:[T]he greatest benefit of VAR lies in the imposition of a structured methodology for critically thinking about risk. Institutions that go through the process of computing their VAR are forced to confront their exposure to financial risks and to set up a proper risk management function. Thus the process of getting to VAR may be as important as the number itself.
+Publishing a daily number, on-time and with specified statistical properties holds every part of a trading organization to a high objective standard. Robust backup systems and default assumptions must be implemented. Positions that are reported, modeled or priced incorrectly stand out, as do data feeds that are inaccurate or late and systems that are too-frequently down. Anything that affects profit and loss that is left out of other reports will show up either in inflated VaR or excessive VaR breaks. "A risk-taking institution that does not compute VaR might escape disaster, but an institution that cannot compute VaR will not."The second claimed benefit of VaR is that it separates risk into two regimes. Inside the VaR limit, conventional statistical methods are reliable. Relatively short-term and specific data can be used for analysis. Probability estimates are meaningful because there are enough data to test them. In a sense, there is no true risk because these are a sum of many independent observations with a left bound on the outcome. For example, a casino does not worry about whether red or black will come up on the next roulette spin. Risk managers encourage productive risk-taking in this regime, because there is little true cost. People tend to worry too much about these risks because they happen frequently, and not enough about what might happen on the worst days.Outside the VaR limit, all bets are off. Risk should be analyzed with stress testing based on long-term and broad market data. Probability statements are no longer meaningful. Knowing the distribution of losses beyond the VaR point is both impossible and useless. The risk manager should concentrate instead on making sure good plans are in place to limit the loss if possible, and to survive the loss if not.One specific system uses three regimes.
+One to three times VaR are normal occurrences. Periodic VaR breaks are expected. The loss distribution typically has fat tails, and there might be more than one break in a short period of time. Moreover, markets may be abnormal and trading may exacerbate losses, and losses taken may not be measured in daily marks, such as lawsuits, loss of employee morale and market confidence and impairment of brand names. An institution that cannot deal with three times VaR losses as routine events probably will not survive long enough to put a VaR system in place.
+Three to ten times VaR is the range for stress testing. Institutions should be confident they have examined all the foreseeable events that will cause losses in this range, and are prepared to survive them. These events are too rare to estimate probabilities reliably, so risk/return calculations are useless.
+Foreseeable events should not cause losses beyond ten times VaR. If they do they should be hedged or insured, or the business plan should be changed to avoid them, or VaR should be increased. It is hard to run a business if foreseeable losses are orders of magnitude larger than very large everyday losses. It is hard to plan for these events because they are out of scale with daily experience.Another reason VaR is useful as a metric is due to its ability to compress the riskiness of a portfolio to a single number, making it comparable across different portfolios (of different assets). Within any portfolio it is also possible to isolate specific positions that might better hedge the portfolio to reduce, and minimise, the VaR.
+
+
+== Computation methods ==
+VaR can be estimated either parametrically (for example, variance-covariance VaR or delta-gamma VaR) or nonparametrically (for examples, historical simulation VaR or resampled VaR). Nonparametric methods of VaR estimation are discussed in Markovich and Novak. A comparison of a number of strategies for VaR prediction is given in Kuester et al.A McKinsey report published in May 2012 estimated that 85% of large banks were using historical simulation. The other 15% used Monte Carlo methods.
+
+
+== Backtesting ==
+Backtesting is the process to determine the accuracy of VaR forecasts vs. actual portfolio profit and losses.
+A key advantage to VaR over most other measures of risk such as expected shortfall is the availability of several backtesting procedures for validating a set of VaR forecasts. Early examples of backtests can be found in Christoffersen (1998), later generalized by Pajhede (2017), which models a "hit-sequence" of losses greater than the VaR and proceed to tests for these "hits" to be independent from one another and with a correct probability of occurring. E.g. a 5% probability of a loss greater than VaR should be observed over time when using a 95% VaR, these hits should occur independently.
+A number of other backtests are available which model the time between hits in the hit-sequence, see Christoffersen and Pelletier (2004), Haas (2006), Tokpavi et al. (2014). and Pajhede (2017) As pointed out in several of the papers, the asymptotic distribution is often poor when considering high levels of coverage, e.g. a 99% VaR, therefore the parametric bootstrap method of Dufour (2006) is often used to obtain correct size properties for the tests. Backtest toolboxes are available in Matlab, or R—though only the first implements the parametric bootstrap method.
+The second pillar of Basel II includes a backtesting step to validate the VaR figures.
+
+
+== History ==
+The problem of risk measurement is an old one in statistics, economics and finance. Financial risk management has been a concern of regulators and financial executives for a long time as well. Retrospective analysis has found some VaR-like concepts in this history. But VaR did not emerge as a distinct concept until the late 1980s. The triggering event was the stock market crash of 1987. This was the first major financial crisis in which a lot of academically-trained quants were in high enough positions to worry about firm-wide survival.The crash was so unlikely given standard statistical models, that it called the entire basis of quant finance into question. A reconsideration of history led some quants to decide there were recurring crises, about one or two per decade, that overwhelmed the statistical assumptions embedded in models used for trading, investment management and derivative pricing. These affected many markets at once, including ones that were usually not correlated, and seldom had discernible economic cause or warning (although after-the-fact explanations were plentiful). Much later, they were named "Black Swans" by Nassim Taleb and the concept extended far beyond finance.If these events were included in quantitative analysis they dominated results and led to strategies that did not work day to day. If these events were excluded, the profits made in between "Black Swans" could be much smaller than the losses suffered in the crisis. Institutions could fail as a result.VaR was developed as a systematic way to segregate extreme events, which are studied qualitatively over long-term history and broad market events, from everyday price movements, which are studied quantitatively using short-term data in specific markets. It was hoped that "Black Swans" would be preceded by increases in estimated VaR or increased frequency of VaR breaks, in at least some markets. The extent to which this has proven to be true is controversial.Abnormal markets and trading were excluded from the VaR estimate in order to make it observable. It is not always possible to define loss if, for example, markets are closed as after 9/11, or severely illiquid, as happened several times in 2008. Losses can also be hard to define if the risk-bearing institution fails or breaks up. A measure that depends on traders taking certain actions, and avoiding other actions, can lead to self reference.This is risk management VaR. It was well established in quantitative trading groups at several financial institutions, notably Bankers Trust, before 1990, although neither the name nor the definition had been standardized. There was no effort to aggregate VaRs across trading desks.The financial events of the early 1990s found many firms in trouble because the same underlying bet had been made at many places in the firm, in non-obvious ways. Since many trading desks already computed risk management VaR, and it was the only common risk measure that could be both defined for all businesses and aggregated without strong assumptions, it was the natural choice for reporting firmwide risk. J. P. Morgan CEO Dennis Weatherstone famously called for a "4:15 report" that combined all firm risk on one page, available within 15 minutes of the market close.Risk measurement VaR was developed for this purpose. Development was most extensive at J. P. Morgan, which published the methodology and gave free access to estimates of the necessary underlying parameters in 1994. This was the first time VaR had been exposed beyond a relatively small group of quants. Two years later, the methodology was spun off into an independent for-profit business now part of RiskMetrics Group (now part of MSCI).In 1997, the U.S. Securities and Exchange Commission ruled that public corporations must disclose quantitative information about their derivatives activity. Major banks and dealers chose to implement the rule by including VaR information in the notes to their financial statements.Worldwide adoption of the Basel II Accord, beginning in 1999 and nearing completion today, gave further impetus to the use of VaR. VaR is the preferred measure of market risk, and concepts similar to VaR are used in other parts of the accord.
+
+
+== Criticism ==
+VaR has been controversial since it moved from trading desks into the public eye in 1994. A famous 1997 debate between Nassim Taleb and Philippe Jorion set out some of the major points of contention. Taleb claimed VaR:
+Ignored 2,500 years of experience in favor of untested models built by non-traders
+Was charlatanism because it claimed to estimate the risks of rare events, which is impossible
+Gave false confidence
+Would be exploited by tradersIn 2008 David Einhorn and Aaron Brown debated VaR in Global Association of Risk Professionals Review Einhorn compared VaR to "an airbag that works all the time, except when you have a car accident". He further charged that VaR:
+
+Led to excessive risk-taking and leverage at financial institutions
+Focused on the manageable risks near the center of the distribution and ignored the tails
+Created an incentive to take "excessive but remote risks"
+Was "potentially catastrophic when its use creates a false sense of security among senior executives and watchdogs."New York Times reporter Joe Nocera wrote an extensive piece Risk Mismanagement on January 4, 2009, discussing the role VaR played in the Financial crisis of 2007–2008. After interviewing risk managers (including several of the ones cited above) the article suggests that VaR was very useful to risk experts, but nevertheless exacerbated the crisis by giving false security to bank executives and regulators. A powerful tool for professional risk managers, VaR is portrayed as both easy to misunderstand, and dangerous when misunderstood.
+Taleb in 2009 testified in Congress asking for the banning of VaR for a number of reasons. One was that tail risks are non-measurable. Another was that for anchoring reasons VaR leads to higher risk taking.VaR is not subadditive: VaR of a combined portfolio can be larger than the sum of the VaRs of its components.
+For example, the average bank branch in the United States is robbed about once every ten years. A single-branch bank has about 0.0004% chance of being robbed on a specific day, so the risk of robbery would not figure into one-day 1% VaR. It would not even be within an order of magnitude of that, so it is in the range where the institution should not worry about it, it should insure against it and take advice from insurers on precautions. The whole point of insurance is to aggregate risks that are beyond individual VaR limits, and bring them into a large enough portfolio to get statistical predictability. It does not pay for a one-branch bank to have a security expert on staff.
+As institutions get more branches, the risk of a robbery on a specific day rises to within an order of magnitude of VaR. At that point it makes sense for the institution to run internal stress tests and analyze the risk itself. It will spend less on insurance and more on in-house expertise. For a very large banking institution, robberies are a routine daily occurrence. Losses are part of the daily VaR calculation, and tracked statistically rather than case-by-case. A sizable in-house security department is in charge of prevention and control, the general risk manager just tracks the loss like any other cost of doing business.
+As portfolios or institutions get larger, specific risks change from low-probability/low-predictability/high-impact to statistically predictable losses of low individual impact. That means they move from the range of far outside VaR, to be insured, to near outside VaR, to be analyzed case-by-case, to inside VaR, to be treated statistically.VaR is a static measure of risk. By definition, VaR is a particular characteristic of the probability distribution of the underlying (namely, VaR is essentially a quantile). For a dynamic measure of risk, see Novak, ch. 10.
+There are common abuses of VaR:
+Assuming that plausible losses will be less than some multiple (often three) of VaR. Losses can be extremely large.
+Reporting a VaR that has not passed a backtest. Regardless of how VaR is computed, it should have produced the correct number of breaks (within sampling error) in the past. A common violation of common sense is to estimate a VaR based on the unverified assumption that everything follows a multivariate normal distribution.
+
+
+=== VaR, CVaR, RVaR and EVaR ===
+The VaR is not a coherent risk measure since it violates the sub-additivity property, which is
+
+  
+    
+      
+        
+          I
+          f
+        
+        
+        X
+        ,
+        Y
+        ∈
+        
+          L
+        
+        ,
+        
+        
+          t
+          h
+          e
+          n
+        
+        
+        ρ
+        (
+        X
+        +
+        Y
+        )
+        ≤
+        ρ
+        (
+        X
+        )
+        +
+        ρ
+        (
+        Y
+        )
+        .
+      
+    
+    {\displaystyle \mathrm {If} \;X,Y\in \mathbf {L} ,\;\mathrm {then} \;\rho (X+Y)\leq \rho (X)+\rho (Y).}
+  However, it can be bounded by coherent risk measures like Conditional Value-at-Risk (CVaR) or entropic value at risk (EVaR). 
+CVaR is defined by  average of VaR values for confidence levels between 0 and α.
+However VaR, unlike CVaR, has the property of being a robust statistic.
+A related class of risk measures is the 'Range Value at Risk' (RVaR), which is a robust version of CVaR.For 
+  
+    
+      
+        X
+        ∈
+        
+          
+            L
+          
+          
+            
+              M
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle X\in \mathbf {L} _{M^{+}}}
+   (with 
+  
+    
+      
+        
+          
+            L
+          
+          
+            
+              M
+              
+                +
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {L} _{M^{+}}}
+   the set of all Borel measurable functions whose moment-generating function exists for all positive real values) we have
+
+  
+    
+      
+        
+          
+            VaR
+          
+          
+            1
+            −
+            α
+          
+        
+        (
+        X
+        )
+        ≤
+        
+          
+            RVaR
+          
+          
+            α
+            ,
+            β
+          
+        
+        (
+        X
+        )
+        ≤
+        
+          
+            CVaR
+          
+          
+            1
+            −
+            α
+          
+        
+        (
+        X
+        )
+        ≤
+        
+          
+            EVaR
+          
+          
+            1
+            −
+            α
+          
+        
+        (
+        X
+        )
+        ,
+      
+    
+    {\displaystyle {\text{VaR}}_{1-\alpha }(X)\leq {\text{RVaR}}_{\alpha ,\beta }(X)\leq {\text{CVaR}}_{1-\alpha }(X)\leq {\text{EVaR}}_{1-\alpha }(X),}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    VaR
+                  
+                  
+                    1
+                    −
+                    α
+                  
+                
+                (
+                X
+                )
+                :=
+                
+                  inf
+                  
+                    t
+                    ∈
+                    
+                      R
+                    
+                  
+                
+                {
+                t
+                :
+                
+                  Pr
+                
+                (
+                X
+                ≤
+                t
+                )
+                ≥
+                1
+                −
+                α
+                }
+                ,
+              
+            
+            
+              
+              
+                
+                  
+                    CVaR
+                  
+                  
+                    1
+                    −
+                    α
+                  
+                
+                (
+                X
+                )
+                :=
+                
+                  
+                    1
+                    α
+                  
+                
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    α
+                  
+                
+                
+                  
+                    VaR
+                  
+                  
+                    1
+                    −
+                    γ
+                  
+                
+                (
+                X
+                )
+                d
+                γ
+                ,
+              
+            
+            
+              
+              
+                
+                  
+                    RVaR
+                  
+                  
+                    α
+                    ,
+                    β
+                  
+                
+                (
+                X
+                )
+                :=
+                
+                  
+                    1
+                    
+                      β
+                      −
+                      α
+                    
+                  
+                
+                
+                  ∫
+                  
+                    α
+                  
+                  
+                    β
+                  
+                
+                
+                  
+                    VaR
+                  
+                  
+                    1
+                    −
+                    γ
+                  
+                
+                (
+                X
+                )
+                d
+                γ
+                ,
+              
+            
+            
+              
+              
+                
+                  
+                    EVaR
+                  
+                  
+                    1
+                    −
+                    α
+                  
+                
+                (
+                X
+                )
+                :=
+                
+                  inf
+                  
+                    z
+                    >
+                    0
+                  
+                
+                {
+                
+                  z
+                  
+                    −
+                    1
+                  
+                
+                ln
+                ⁡
+                (
+                
+                  M
+                  
+                    X
+                  
+                
+                (
+                z
+                )
+                
+                  /
+                
+                α
+                )
+                }
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&{\text{VaR}}_{1-\alpha }(X):=\inf _{t\in \mathbf {R} }\{t:{\text{Pr}}(X\leq t)\geq 1-\alpha \},\\&{\text{CVaR}}_{1-\alpha }(X):={\frac {1}{\alpha }}\int _{0}^{\alpha }{\text{VaR}}_{1-\gamma }(X)d\gamma ,\\&{\text{RVaR}}_{\alpha ,\beta }(X):={\frac {1}{\beta -\alpha }}\int _{\alpha }^{\beta }{\text{VaR}}_{1-\gamma }(X)d\gamma ,\\&{\text{EVaR}}_{1-\alpha }(X):=\inf _{z>0}\{z^{-1}\ln(M_{X}(z)/\alpha )\},\end{aligned}}}
+  in which 
+  
+    
+      
+        
+          M
+          
+            X
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle M_{X}(z)}
+   is the moment-generating function of X at z. In the above equations the variable X denotes the financial loss, rather than wealth as is typically the case.
+
+
+== See also ==
+Capital Adequacy Directive
+Conditional value-at-risk / Expected shortfall
+Cyber risk quantification based on cyber value-at-risk or CyVaR
+EMP for stochastic programming— solution technology for optimization problems involving VaR and CVaR
+Entropic value at risk
+Financial risk management § Banking
+Profit at risk
+Margin at risk
+Liquidity at risk
+Risk return ratio
+Tail value at risk
+Valuation risk
+
+
+== References ==
+
+
+== External links ==
+Discussion"Value At Risk", Ben Sopranzetti, Ph.D., CPA
+"Perfect Storms" – Beautiful & True Lies In Risk Management Archived 2009-03-25 at the Wayback Machine, Satyajit Das
+"Gloria Mundi" – All About Value at Risk, Barry Schachter
+Risk Mismanagement, Joe Nocera NY Times article.
+"VaR Doesn't Have To Be Hard", Rich Tanenbaum
+"Coherent measures of Risk", Philippe Artzner, Freddy Delbaen, Jean-Marc Eber, and David HeathTools"The Pricing and Trading of Interest Rate Derivatives", J H M Darbyshire, MSc.
+Online real-time VaR calculator, Razvan Pascalau, University of Alabama
+Value-at-Risk (VaR), Simon Benninga and Zvi Wiener. (Mathematica in Education and Research Vol. 7 No. 4 1998.)
+Derivatives Strategy Magazine. "Inside D. E. Shaw" Trading and Risk Management 1998
+Simulate Historical Value at Risk Online Calculator

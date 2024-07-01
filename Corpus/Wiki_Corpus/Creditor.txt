@@ -1,0 +1,63 @@
+A creditor or lender is a party (e.g., person, organization, company, or government) that has a claim on the services of a second party. It is a person or institution to whom money is owed. The first party, in general, has provided some property or service to the second party under the assumption (usually enforced by contract) that the second party will return an equivalent property and service. The second party is frequently called a debtor or borrower. The first party is called the creditor, which is the lender of property, service, or money.
+Creditors can be broadly divided into two categories: secured and unsecured.
+
+A secured creditor has a security or charge over some or all of the debtor's assets, to provide reassurance (thus to secure him) of ultimate repayment of the debt owed to him. This could be by way of, for example, a mortgage, where the property represents the security.
+An unsecured creditor does not have a charge over the debtor's assets.The term creditor is frequently used in the financial world, especially in reference to short-term loans, long-term bonds, and mortgage loans. In law, a person who has a money judgment entered in their favor by a court is called a judgment creditor.
+The term creditor derives from the notion of credit. Also, in modern America, credit refers to a rating which indicates the likelihood a borrower will pay back their loan. In earlier times, credit also referred to reputation or trustworthiness.
+
+
+== Accounting classification ==
+In accounting presentation, creditors are to be broken down into 'amounts falling due within one year' or 'amounts falling due after more than one year'...
+The financial statements presentation is this:
+
+Long-term liabilities
+'Long-term creditors'
+Current liabilities
+'Current creditors'
+
+
+== Rights ==
+Creditors' rights are the procedural provisions designed to protect the ability of creditors—persons who are owed money—to collect the money that they are owed. These provisions vary from one jurisdiction to another, and may include the ability of a creditor to put a lien on a debtor's property, to effect a seizure and forced sale of the debtor's property, to effect a garnishment of the debtor's wages, and to have certain purchases or gifts made by the debtor set aside as fraudulent conveyances. The rights of a particular creditor usually depend in part on the reason for which the debt is owed, and the terms of any writing memorializing the debt.
+
+
+=== Priority of creditors ===
+Creditors' rights deal not only with the rights of creditors against the debtor, but also with the rights of creditors against one another. Where multiple creditors claim a right to levy against a particular piece of property, or against the debtor's accounts in general, the rules governing creditors' rights determine which creditor has the strongest right to any particular relief.Generally, creditors can be divided between those who "perfected" their interest by establishing an appropriate public record of the debt and any property claimed as collateral for it, and those who have not. Creditors may also be classed according to whether they are "in possession" of the collateral, and by whether the debt was created as a purchase money security interest. A creditor may generally ask a court to set aside a fraudulent conveyance designed to move the debtor's property or funds out of their reach.
+
+
+=== Specialized legal practices ===
+Some lawyers have a specialized practice area focused on the collection of such debts. Such attorneys are frequently referred to as collection attorneys or collection lawyers.
+Attorneys who practice in the area of creditor's rights perform one or all of the following:
+
+File lawsuits and using other legal collection techniques to collect consumer debts (i.e., debts owed by individuals)
+File lawsuits and using other legal collection techniques to collect commercial debts (i.e. debts owed by businesses)
+Represent creditor's interests in a bankruptcy proceeding
+Foreclose on homes or commercial real estate if the purchaser defaults on payment
+Recover (or replevin) secured goods (e.g., automobiles) if the purchaser defaults on payment
+
+
+== Creditor's power during insolvency ==
+In the UK, once an Individual Voluntary Arrangement (IVA) has been applied for, and is in place through the courts, creditors are prevented from making direct contact under the terms of the IVA. All ongoing correspondence of an IVA must first go through the appointed Insolvency Practitioner. The creditors will begin to deal with the Insolvency Practitioner and readily accept annual reports when submitted.
+Under the Companies Act 2006, a company's creditors may apply to the court for an order summoning a meeting of the creditors or some of the creditors who fall into a specific category, in order to consider a compromise or "arrangement" between the company and its creditors. If a majority representing 75% in value of the creditors or class of creditors present and voting either in person or by proxy at the meeting agree a compromise, the meeting may apply to the court for the compromise to be enforced. The same provision would apply to members (shareholders) of a company seeking to make an arrangement with the company. The Corporate Insolvency and Governance Act 2020 makes similar provision where a compromise has been proposed between creditors or members and a company which "has encountered, or is likely to encounter, financial difficulties".
+
+
+== See also ==
+Accounts payable
+Accounts receivable
+Accruals and deferred income
+Bank loan and overdraft
+Bankruptcy law
+Bill of exchange payable
+Collection agency
+Contract law
+Contribution claim (legal)
+Creditor's rights
+Debenture loans
+Debtor
+Dividends
+Fair Debt Collection Practices Act
+Individual voluntary arrangement
+IOU (I Owe You)
+Payments received on account
+
+
+== References ==

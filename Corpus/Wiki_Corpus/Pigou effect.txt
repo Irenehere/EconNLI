@@ -1,0 +1,45 @@
+In economics, the Pigou effect is the stimulation of output and employment caused by increasing consumption due to a rise in real balances of wealth, particularly during deflation. The term was named after Arthur Cecil Pigou by Don Patinkin in 1948.Real wealth was defined by Arthur Cecil Pigou as the summation of the money supply and government bonds divided by the price level. He argued that Keynes' General Theory was deficient in not specifying a link from "real balances" to current consumption and that the inclusion of such a "wealth effect" would make the economy more "self correcting" to drops in aggregate demand than Keynes predicted. Because the effect derives from changes to the "Real Balance", this critique of Keynesianism is also called the Real Balance effect.
+
+
+== History ==
+The Pigou effect was first popularised by Arthur Cecil Pigou in 1943, in The Classical Stationary State an article in the Economic Journal. He had proposed the link from balances to consumption earlier, and Gottfried Haberler had made a similar objection the year after the General Theory's publication.Following the tradition of classical economics, Pigou favoured the idea of "natural rates" to which the economy would return in most cases, although he acknowledged that sticky prices might still prevent reversion to natural output levels after a demand shock. Pigou saw the "Real Balance" effect as a mechanism to fuse Keynesian and classical models.
+
+
+== Integration with Keynesian aggregate demand ==
+Keynes argued with that a drop in aggregate demand could lower both employment and the price level in unison, an occurrence observed in the deflationary depression. In the IS-LM framework of Keynesian economics as formalised by John Hicks, a negative aggregate demand shock would shift the IS curve left; as a result, a simultaneously falling wage and price level would shift the LM curve downward due to a rising real money supply - this is referred to as the Keynes effect. The Pigou effect would in turn counter the fall in aggregate demand, through rising current real balances raising expenditures via the Income effect, thus shifting the IS curve back towards the right.
+
+
+== Pigou's hypothesis and the liquidity trap ==
+An economy in a liquidity trap cannot use monetary stimulus to increase output because there is little connection between personal income and money demand. John Hicks thought that this might be another reason (along with sticky prices) for persistently high unemployment. However, the Pigou effect creates a mechanism for the economy to escape the trap:
+
+As unemployment rises,
+the price level drops,
+which raises real balances,
+and thus consumption rises,
+which creates a different set of IS-curves on the IS-LM diagram, intersecting the LM curves above the low interest rate threshold of the liquidity trap.
+Finally, the economy moves to the new equilibrium, at full employment.Pigou concluded that an equilibrium with employment below the full employment rate (the classical natural rate) could only occur if prices and wages were sticky.
+
+
+== Kalecki's criticism of the Pigou effect ==
+The Pigou effect was criticized by Michał Kalecki because "The adjustment required would increase catastrophically the real value of debts, and would consequently lead to wholesale bankruptcy and a confidence crisis."
+
+
+== The Pigou effect and Japan ==
+If the Pigou effect always operated strongly, the Bank of Japan's policy of near-zero nominal interest rates might have been expected to end the Japanese deflation of the 1990s sooner.
+Other apparent evidence against the Pigou effect from Japan may be its long period of stagnating consumer expenditure whilst prices were falling. Pigou hypothesised that falling prices would make consumers feel richer (and increase spending) but Japanese consumers tended to report that they preferred to delay purchases, expecting that prices would fall further.
+
+
+== Government debt and the Pigou effect ==
+Robert Barro argued that due to Ricardian equivalence in the presence of a bequest motive, the public is not fooled into thinking they are richer when the government issues bonds to them, because government bond coupons must be paid from increased future taxation. Therefore, he argued that at the microeconomic level, the subjective level of wealth would be lessened by a share of the debt taken on by the national government. As a consequence bonds should not be considered as part of net wealth at the macroeconomic level. This implies that there is no way for the government to create a "Pigou effect" by issuing bonds, because the aggregate level of wealth will not increase.
+
+
+== See also ==
+Keynes effect
+
+
+== References ==
+
+
+== External links ==
+History of the extensions of the original Pigou effect into more generalized "Wealth effects".
+Liquidity Traps... Is Japan Really Trapped at the Zero Bound? 2002 Kobe University analysis of the deflationary spiral, argues that an "insatiable liquidity preference" neutralizes the Pigou effect, and that theory would then indicate persistent deflationary stagnation (below full employment). Paul Krugman's description of a liquidity trap resistant to the Pigou effect is also mentioned. (His advocacy of long-term inflationary JPY policies was partly based on dismissing the Pigou effect.)

@@ -1,0 +1,47 @@
+The behavioural sciences explore the cognitive processes within organisms and the behavioural interactions between organisms in the natural world. It involves the systematic analysis and investigation of human and animal behaviour through naturalistic observation, controlled scientific experimentation and mathematical modeling. It attempts to accomplish legitimate, objective conclusions through rigorous formulations and observation. Examples of behavioural sciences include psychology, psychobiology, anthropology, economics, and cognitive science. Generally, behavioural science primarily seeks to generalise about human behaviour as it relates to society and its impact on society as a whole.
+
+
+== Categories ==
+Behavioural sciences include two broad categories: neural –  Information sciences and social –  Relational sciences.
+Information processing sciences deal with information processing of stimuli from the social environment by cognitive entities in order to engage in decision making, social judgment and social perception for individual functioning and survival of organism in a social environment. These include psychology, cognitive science, behaviour analysis,  psychobiology, neural networks, social cognition, social psychology, semantic networks, ethology, and social neuroscience.On the other hand, Relational sciences deal with relationships, interaction, communication networks, associations and relational strategies or dynamics between organisms or cognitive entities in a social system. These include fields like sociological social psychology, social networks, dynamic network analysis, agent-based model, behaviour analysis, and  microsimulation.
+
+
+== Applications ==
+Insights from several pure disciplines across behavioural sciences are explored by various applied disciplines and practiced in the context of everyday life and business.Consumer behaviour, for instance, is the study of the decision making process consumers make when purchasing goods or services. It studies the way consumers recognise problems and discover solutions. Behavioural science is applied in this study by examining the patterns consumers make when making purchases, the factors that influenced those decisions, and how to take advantage of these patterns.
+Organisational behaviour is the application of behavioural science in a business setting. It studies what motivates employees, how to make them work more effectively, what influences this behaviour, and how to use these patterns in order to achieve the company's goals. Managers often use organisational behaviour to better lead their employees.
+Using insights from psychology and economics, behavioural science can be leveraged to understand how individuals make decisions regarding their health and ultimately reduce disease burden through interventions such as loss aversion, framing, defaults, nudges, and more. The University of Pennsylvania's Center for Health Incentives & Behavioral Economics uses behavioural science to inform health policy; improve health care delivery; and increase healthy behaviour in areas such as physical activity, vaccine uptake, medication adherence, smoking cessation, and food choice.Other applied disciplines of behavioural science include operations research and media psychology.
+
+
+== Differentiation from social sciences ==
+The terms behavioural sciences and social sciences are interconnected fields that both study systematic processes of behaviour, but they differ on their level of scientific analysis for various dimensions of behaviour.Behavioural sciences abstract empirical data to investigate the decision process and communication strategies within and between organisms in a social system. This characteristically involves fields like psychology, social neuroscience, ethology, and cognitive science. In contrast, social sciences provide a perceptive framework to study the processes of a social system through impacts of a social organisation on the structural adjustment of the individual and of groups. They typically include fields like sociology, economics,  public health, anthropology, demography, and political science.Many subfields of these disciplines test the boundaries between behavioural and social sciences. For example, political psychology and behavioural economics use behavioural approaches, despite the predominant focus on systemic and institutional factors in the broader fields of political science and economics.
+
+
+== History ==
+Behavioural Science began being studied predominantly in the early 1900s. One of the pioneers of the study is John B Watson. He began teaching as a professor of psychology at Johns Hopkins University in 1908. In 1915 he served as the president of the American Psychological Association (APA). Some of his methods in studying behavioural science have been controversial. One of these instances was the "Little Albert" experiment. This experiment was to condition a child to fear a white rat. The fear also translated to other furry white things. This was done by associating the objects with a loud clanging noise. A point that drew controversy is that the child was never de-conditioned. In 1957 he received the APA's Award for Distinguished Scientific Contributions and discoveries.
+In 2009, behavioural scientists conducted a report on loss aversion (Gächter et al., 2009). The research concluded that the pain of losing is psychologically twice as powerful as the pleasure of gaining. Behavioural scientists use loss aversion now in studying human behaviour. It has helped show why in some instances penalty frames are more effective than reward frames in motivating human behaviour.
+
+
+== See also ==
+Behaviour
+Human behaviour
+List of academic disciplines
+Science
+Fields of science
+Natural sciences
+Social sciences
+History of science
+History of technology
+
+
+== References ==
+
+
+== Selected bibliography ==
+George Devereux: From anxiety to method in the behavioral sciences, The Hague, Paris. Mouton & Co, 1967
+Fred N. Kerlinger (1979). Behavioural Research: A Conceptual Approach. New York: Holt, Rinehart & Winston. ISBN 0-03-013331-9.
+E.D. Klemke, R. Hollinger & A.D. Kline, (eds.) (1980). Introductory Readings in the Philosophy of Science. Prometheus Books, New York.
+Neil J. Smelser & Paul B. Baltes, eds. (2001). International Encyclopedia of the Social & Behavioral Sciences,  26 v. Oxford: Elsevier. ISBN 978-0-08-043076-8
+
+
+== External links ==
+ Media related to Behavioural sciences at Wikimedia Commons

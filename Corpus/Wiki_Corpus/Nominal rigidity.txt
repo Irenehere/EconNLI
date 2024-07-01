@@ -1,0 +1,290 @@
+In economics, nominal rigidity, also known as price-stickiness or wage-stickiness, is a situation in which a nominal price is resistant to change.  Complete nominal rigidity occurs when a price is fixed in nominal terms for a relevant period of time.  For example, the price of a particular good might be fixed at $10 per unit for a year. Partial nominal rigidity occurs when a price may vary in nominal terms, but not as much as it would if perfectly flexible.  For example, in a regulated market there might be limits to how much a price can change in a given year.
+If one looks at the whole economy, some prices might be very flexible and others rigid.  This will lead to the aggregate price level (which we can think of as an average of the individual prices) becoming "sluggish" or "sticky" in the sense that it does not respond to macroeconomic shocks as much as it would if all prices were flexible.  The same idea can apply to nominal wages. The presence of nominal rigidity is an important part of macroeconomic theory since it can explain why markets might not reach equilibrium in the short run or even possibly the long run.  In his The General Theory of Employment, Interest and Money, John Maynard Keynes argued that nominal wages display downward rigidity, in the sense that workers are reluctant to accept cuts in nominal wages. This can lead to involuntary unemployment as it takes time for wages to adjust to equilibrium, a situation he thought applied to the Great Depression.
+
+
+== Evidence ==
+There is now a considerable amount of evidence about how long price-spells last, and it suggests that there is a considerable degree of nominal price rigidity in the "complete sense" of prices remaining unchanged. A price-spell is a duration during which the nominal price of a particular item remains unchanged.  For some items, such as gasoline or tomatoes,  prices are observed to vary frequently resulting in many short price spells.  For other items, such as the cost of a bottle of champagne or the cost of a meal in a restaurant, the price might remain fixed for an extended period of time (many months or even years). One of the richest sources of information about this is the price-quote data used to construct the Consumer Price Index (CPI). The statistical agencies in many countries collect tens of thousands of price-quotes for specific items each month in order to construct the CPI. In the early years of the 21st century, there were several major studies of nominal price rigidity in the US and Europe using the CPI price quote microdata. The following table gives nominal rigidity as reflected in the frequency of prices changing on average per month in several countries. For example, in France and the UK, each month on average, 19% of prices change (81% are unchanged), which implies that an average price spell lasts about 5.3 months (the expected duration of a price spell is equal to the reciprocal of the frequency of price change if we interpret the empirical frequency as representing the Bernoulli probability of price change generating a negative binomial distribution of durations of price-spells).
+
+The fact that price spells last on average for 3.7 months does not mean that prices are not sticky. That is because many price changes are temporary (for example sales) and prices revert to their usual or "reference price". Removing sales and temporary price cuts raises the average length of price-spells considerably: in the US it more than doubled the mean spell duration to 11 months. The reference price can remain unchanged for an average of 14.5 months in the US data. 
+Also, it is prices that we are interested in. If the price of tomatoes changes every month, the tomatoes price will generate 12 price spells in a year.  Another price that is just as important (for example, canned tomatoes) might only change once per year (one price spell of 12 months).  Looking at these two goods prices alone, we observe that there are 13 price spells with an average duration of (12+13)/13 equals about 2 months.  However, if we average across the two items (tomatoes and canned tomatoes), we see that the average spell is 6.5 months (12+1)/2. The distribution of price spell durations and its mean are heavily influenced by prices generating short price spells. If we are looking at nominal rigidity in an economy, we are more interested in the distribution of durations across prices rather than the distribution of price spell durations in itself. There is thus considerable evidence that prices are sticky in the "complete" sense, that the prices remain on average unchanged for a prolonged period of time (around 12 months). Partial nominal rigidity is less easy to measure, since it is difficult to distinguish whether a price that changes is changing less than it would if it were perfectly flexible.
+Linking micro data of prices and cost, Carlsson and Nordström Skans (2012), showed that firms consider both current and future expected cost when setting prices. The finding that the expectation of future conditions matter for the price set today provides strong evidence in favor of nominal rigidity and the forward looking behavior of the price setters implied by the models of sticky prices outlined below.
+
+
+== Modeling sticky prices ==
+Economists have tried to model sticky prices in a number of ways. These models can be classified as either time-dependent, where firms change prices with the passage of time and decide to change prices independently of the economic environment, or state-dependent, where firms decide to change prices in response to changes in the economic environment. The differences can be thought of as differences in a two-stage process: In time-dependent models, firms decide to change prices and then evaluate market conditions; In state-dependent models, firms evaluate market conditions and then decide how to respond.
+In time-dependent models price changes are staggered exogenously, so a fixed percentage of firms change prices at a given time. There is no selection as to which firms change prices. Two commonly used time-dependent models are based on papers by John B. Taylor and Guillermo Calvo. In Taylor (1980), firms change prices every nth period. In Calvo (1983), price changes follow a Poisson process. In both models the choice of changing prices is independent of the inflation rate.
+The Taylor model is one where firms set the price knowing exactly how long the price  will last (the duration of the price spell). Firms are divided into cohorts, so that each period the same proportion of firms reset their price. For example, with two-period price-spells, half of the firms reset their price each period. Thus the aggregate price level is an average of the new price set this period and the price set last period and still remaining for half of the firms. In general, if price-spells last for n periods, a proportion of 1/n firms reset their price each period and the general price is an average of the prices set now and in the preceding n − 1 periods. At any point in time, there will be a uniform distribution of ages of price-spells: (1/n) will be new prices in their first period, 1/n in their second period, and so on until 1/n will be n periods old. The average age of price-spells will be (n + 1)/2 (if the first period is counted as 1).
+In the Calvo staggered contracts model, there is a constant probability h that the firm can set a new price.  Thus a proportion h of firms can reset their price in any period, whilst the remaining proportion (1 − h) keep their price constant. In the Calvo model, when a firm sets its price, it does not know how long the price-spell will last. Instead, the firm faces a probability distribution over possible price-spell durations.  The probability that the price will last for i periods is (1 − h)i−1, and the expected duration is h−1.  For example, if h = 0.25, then a quarter of firms will rest their price each period, and the expected duration for the price-spell is 4. There is no upper limit to how long price-spells may last: although the probability becomes small over time, it is always strictly positive.  Unlike the Taylor model where all completed price-spells have the same length, there will at any time be a distribution of completed price-spell lengths.
+In state-dependent models the decision to change prices is based on changes in the market and is not related to the passage of time. Most models relate the decision to change prices to menu costs. Firms change prices when the benefit of changing a price becomes larger than the menu cost of changing a price. Price changes may be bunched or staggered over time. Prices change faster and monetary shocks are over faster under state dependent than time.  Examples of state-dependent models include the one proposed by Golosov and Lucas and one suggested by Dotsey, King and Wolman.
+
+
+== Significance in macroeconomics ==
+In macroeconomics, nominal rigidity is necessary to explain how money (and hence monetary policy and inflation) can affect the real economy and why the classical dichotomy breaks down.
+If nominal wages and prices were not sticky, or perfectly flexible, they would always adjust such that there would be equilibrium in the economy. In a perfectly flexible economy, monetary shocks would lead to immediate changes in the level of nominal prices, leaving real quantities (e.g. output, employment) unaffected. This is sometimes called monetary neutrality or "the neutrality of money".
+For money to have real effects, some degree of nominal rigidity is required so that prices and wages do not respond immediately. Hence sticky prices play an important role in all mainstream macroeconomic theory: Monetarists, Keynesians and new Keynesians all agree that markets fail to clear because prices fail to drop to market clearing levels when there is a drop in demand. Such models are used to explain unemployment. Neoclassical models, common in microeconomics, predict that involuntary unemployment (where an individual is willing to work, but unable to find a job) should not exist, as this would lead employers to cut wages; this would continue until unemployment was no longer a problem. While such models can be useful in other markets where prices adjust more readily, sticky wages are a common way to explain why workers cannot find jobs: as wages cannot be cut instantaneously, they will sometimes be too high for the market to clear.
+Since prices and wages cannot move instantly, price- and wage-setters become forward looking. The notion that expectations of future conditions affect current price- and wage-setting decisions is a keystone for much of the current monetary policy analysis based on Keynesian macroeconomic models and the implied policy advice.
+Huw Dixon and Claus Hansen showed that even if only part of the economy has sticky prices, this can influence prices in other sectors and lead to prices in the rest of the economy becoming less responsive to changes in demand. Thus price and wage stickiness in one sector can "spill over" and lead to the economy behaving in a more Keynesian way.
+
+
+=== Mathematical example: a little price stickiness can go a long way ===
+To see how a small sector with a fixed price can affect the way rest of the flexible prices behave, suppose that there are two sectors in the economy: a proportion a with flexible prices Pf and a proportion 1 − a that are affected by menu costs with sticky prices Pm. Suppose that the flexible price sector price Pf has the market clearing condition of the following form:
+
+  
+    
+      
+        
+          
+            
+              P
+              
+                f
+              
+            
+            P
+          
+        
+        =
+        θ
+      
+    
+    {\displaystyle {\frac {P_{f}}{P}}=\theta }
+  where 
+  
+    
+      
+        P
+        =
+        
+          P
+          
+            f
+          
+          
+            a
+          
+        
+        
+          P
+          
+            m
+          
+          
+            1
+            −
+            a
+          
+        
+      
+    
+    {\displaystyle P=P_{f}^{a}P_{m}^{1-a}}
+   is the aggregate price index (which would result if consumers had Cobb-Douglas preferences over the two goods). The equilibrium condition says that the real flexible price equals some constant (for example 
+  
+    
+      
+        
+          θ
+        
+      
+    
+    {\displaystyle {\theta }}
+   could be real marginal cost). Now we have a remarkable result: no matter how small the menu cost sector, so long as a < 1, the flexible prices get "pegged" to the fixed price.  Using the aggregate price index the equilibrium condition becomes
+
+  
+    
+      
+        
+          
+            
+              P
+              
+                f
+              
+            
+            
+              
+                P
+                
+                  f
+                
+                
+                  a
+                
+              
+              
+                P
+                
+                  m
+                
+                
+                  1
+                  −
+                  a
+                
+              
+            
+          
+        
+        =
+        θ
+      
+    
+    {\displaystyle {\frac {P_{f}}{P_{f}^{a}P_{m}^{1-a}}}=\theta }
+  which implies that
+
+  
+    
+      
+        
+          P
+          
+            f
+          
+          
+            1
+            −
+            a
+          
+        
+        =
+        
+          P
+          
+            m
+          
+          
+            1
+            −
+            a
+          
+        
+        θ
+        ,
+      
+    
+    {\displaystyle P_{f}^{1-a}=P_{m}^{1-a}\theta ,}
+  so that
+
+  
+    
+      
+        
+          P
+          
+            f
+          
+        
+        =
+        
+          P
+          
+            m
+          
+        
+        
+          θ
+          
+            1
+            
+              /
+            
+            (
+            1
+            −
+            a
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle P_{f}=P_{m}\theta ^{1/(1-a)}.}
+  What this result says is that no matter how small the sector affected by menu-costs, it will tie down the flexible price. In macroeconomic terms all nominal prices will be sticky, even those in the potentially flexible price sector, so that changes in nominal demand will feed through into changes in output in both the menu-cost sector and the flexible price sector.
+Now, this is of course an extreme result resulting from the real rigidity taking the form of a constant real marginal cost. For example, if we allowed for the real marginal cost to vary with aggregate output Y, then we would have
+
+  
+    
+      
+        
+          P
+          
+            f
+          
+        
+        =
+        
+          P
+          
+            m
+          
+        
+        θ
+        
+          Y
+          
+            1
+            
+              /
+            
+            (
+            1
+            −
+            a
+            )
+          
+        
+      
+    
+    {\displaystyle P_{f}=P_{m}\theta Y^{1/(1-a)}}
+  so that the flexible prices would vary with output Y. However, the presence of the fixed prices in the menu-cost sector would still act to dampen the responsiveness of the flexible prices, although this would now depend upon the size of the menu-cost sector a, the sensitivity of 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   to Y and so on.
+
+
+== Sticky information ==
+In macroeconomics, sticky information is old information used by agents as a basis for their behavior—information that does not take into account recent events. The first model of sticky information was developed by Stanley Fischer in his 1977 article.  He adopted a "staggered" or "overlapping" contract model. Suppose that there are two unions in the economy, who take turns to choose wages. When it is a union's turn, it chooses the wages it will set for the next two periods. In contrast to John B. Taylor's model where the nominal wage is constant over the contract life, in Fischer's model the union can choose a different wage for each period over the contract. The key point is that at any time t, the union setting its new contract will be using the up-to-date latest information to choose its wages for the next two periods. However, the other union is still setting its wage based on the contract it planned last period, which is based on the old information.
+The importance of sticky information in Fischer's model is that whilst wages in some sectors of the economy are reacting to the latest information, those in other sectors are not. This has important implications for monetary policy. A sudden change in monetary policy can have real effects, because of the sector where wages have not had a chance to adjust to the new information.
+The idea of sticky information was later developed by N. Gregory Mankiw and Ricardo Reis. This added a new feature to Fischer's model: there is a fixed probability that you can replan your wages or prices each period. Using quarterly data, they assumed a value of 25%: that is, each quarter 25% of randomly chosen firms/unions can plan a trajectory of current and future prices based on current information. Thus if we consider the current period, 25% of prices will be based on the latest information available, and the rest on information that was available when they last were able to replan their price trajectory. Mankiw and Reis found that the model of sticky information provided a good way of explaining inflation persistence.
+
+
+=== Evaluation of sticky information models ===
+Sticky information models do not have nominal rigidity: firms or unions are free to choose different prices or wages for each period. It is the information that is sticky, not the prices. Thus when a firm gets lucky and can re-plan its current and future prices, it will choose a trajectory of what it believes will be the optimal prices now and in the future. In general, this will involve setting a different price every period covered by the plan.
+This is at odds with the empirical evidence on prices. There are now many studies of price rigidity in different countries: the US, the Eurozone, the UK and others. These studies all show that whilst there are some sectors where prices change frequently, there are also other sectors where prices remain fixed over time. The lack of sticky prices in the sticky information model is inconsistent with the behavior of prices in most of the economy. This has led to attempts to formulate a "dual stickiness" model that combines sticky information with sticky prices.
+
+
+=== Sticky inflation assumption ===
+The sticky inflation assumption states that "when firms set prices, for various reasons the prices respond slowly to changes in monetary policy. This leads the rate of inflation to adjust gradually over time."
+Additionally, within the context of the short run model there is an implication that the classical dichotomy does not hold when sticky inflation is present. This is the case when monetary policy affects real variables. Sticky inflation can be caused by expected inflation (e.g. home prices prior to the recession), wage push inflation (a negotiated raise in wages), and temporary inflation caused by taxes. Sticky inflation becomes a problem when economic output decreases while inflation increases, which is also known as stagflation. As economic output decreases and unemployment rises the standard of living falls faster when sticky inflation is present. Not only will inflation not respond to monetary policy in the short run, but monetary expansion as well as contraction can both have negative effects on the standard of living.
+
+
+== See also ==
+Shapiro–Stiglitz theory
+
+
+== References ==
+
+
+== Further reading ==
+Arrow, Kenneth J.; Hahn, Frank H. (1973). General competitive analysis. Advanced textbooks in economics. Vol. 12 (1980 reprint of (1971) San Francisco, CA: Holden-Day, Inc. Mathematical economics texts. 6 ed.). Amsterdam: North-Holland. ISBN 978-0-444-85497-1. MR 0439057.
+Fisher, F. M. (1983). Disequilibrium foundations of equilibrium economics. Econometric Society Monographs (1989 paperback ed.). New York: Cambridge University Press. p. 248. ISBN 978-0-521-37856-7.
+Gale, Douglas (1982). Money:  in equilibrium. Cambridge economic handbooks. Vol. 2. Cambridge, U.K.: Cambridge University Press. pp. 349. ISBN 978-0-521-28900-9.
+Gale, Douglas (1983). Money:  in disequilibrium. Cambridge economic handbooks. Cambridge, U.K.: Cambridge University Press. p. 382. ISBN 978-0-521-26917-9.
+Grandmont, Jean-Michel (1985). Money and value: A reconsideration of classical and neoclassical monetary economics. Econometric Society Monographs. Vol. 5. Cambridge University Press. p. 212. ISBN 978-0-521-31364-3. MR 0934017.
+Grandmont, Jean-Michel, ed. (1988). Temporary equilibrium: Selected readings. Economic Theory, Econometrics, and Mathematical Economics. Academic Press. p. 512. ISBN 978-0-12-295146-6. MR 0987252.
+Herschel I. Grossman, 1987.“monetary disequilibrium and market clearing” in The New Palgrave: A Dictionary of Economics, v. 3, pp. 504–06.
+The New Palgrave Dictionary of Economics, 2008, 2nd Edition. Abstracts:"monetary overhang" by Holger C. Wolf.
+"non-clearing markets in general equilibrium" by Jean-Pascal Bénassy.
+"fixprice models" by Joaquim Silvestre. "inflation dynamics" by Timothy Cogley.
+"temporary equilibrium" by J.-M. Grandmont.Romer, David (2011). "Nominal Rigidity". Advanced Macroeconomics (Fourth ed.). New York: McGraw-Hill. pp. 238–311. ISBN 978-0-07-351137-5.
+Starr, Ross M., ed. (1989). General equilibrium models of monetary economies: Studies in the static foundations of monetary theory. Economic theory, econometrics, and mathematical economics. Academic Press. p. 351. ISBN 978-0-12-663970-4.
+Bewley, Truman (1999). Why Wages Don't Fall during a Recession. Harvard University Press. ISBN 978-0674009431.
+
+
+== External links ==
+Davis, Michael C.; Hamilton, James D. (2004). "Why Are Prices Sticky? The Dynamics Of Wholesale Gasoline Prices" (PDF). Journal of Money, Credit and Banking. 36 (1): 17–37. doi:10.1353/mcb.2004.0003. JSTOR 3839046. S2CID 11650282.
+Economics A-Z: Sticky Prices
